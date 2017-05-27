@@ -45,3 +45,9 @@ kramdown:
 gems:
   - jekyll-coffeescript
   - jekyll-paginate
+
+source:       .
+destination:  ./_site
+
+timezone:     PRC
+encoding:     "UTF-8"
