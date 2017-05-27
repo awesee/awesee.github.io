@@ -1,4 +1,7 @@
-.idea
 .DS_Store
+.idea
+.sass-cache
 _site
 vendor
+Gemfile.lock
+*.gem
