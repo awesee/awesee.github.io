@@ -1,0 +1,26 @@
+.collection-head.small .collection-title {
+    padding: 10px 0;
+}
+
+.collection-head .collection-title {
+    display: table-cell;
+    padding: 4rem 0;
+    vertical-align: middle;
+}
+
+.collection-head.small .collection-title h1.collection-header {
+    font-size: 30px;
+}
+
+@media (max-width: 50em) {
+    .collection-head h1.collection-header {
+        font-size: 2rem !important;
+    }
+
+    .collection-head .collection-header {
+        margin-top: 0;
+        font-size: 45px;
+        line-height: 1.5;
+        font-weight: 400;
+    }
+}
