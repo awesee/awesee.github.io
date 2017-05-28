@@ -3,6 +3,7 @@ layout: page
 title: 书签
 menu: bookmark
 permalink: /bookmark/
+css: [components/collection.css]
 ---
 
 
