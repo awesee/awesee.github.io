@@ -3,13 +3,11 @@ layout: page
 title: 书签
 menu: bookmark
 permalink: /bookmark/
-css: [components/collection.css]
 ---
 
 
 ## GitHub
 -[GitHub Guides](https://guides.github.com/) - GitHub is the best way to build and ship software.
-    Powerful collaboration, code review, and code management for open source and private pro
 
 ## PHP
 - [Slim](https://github.com/codeguy/Slim) - PHP微框架，简单易用易拓展。
