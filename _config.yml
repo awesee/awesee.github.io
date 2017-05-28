@@ -13,15 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Openset - 王硕
-email: wsh752166675@163.com
+title:  Openset - 王硕
+lang:   zh
+email:  wsh752166675@163.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+        王硕的个人网站
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: openset
 github_username:  openset
 
 # Build settings
@@ -37,7 +35,7 @@ theme: jekyll-theme-cayman
 # github settings
 github: [
   repository_name: openset.github.io,
-  owner_name: Openset
+  owner_name: openset
 ]
 kramdown:
   input: GFM
@@ -51,3 +49,31 @@ destination:  ./_site
 
 timezone:     PRC
 encoding:     "UTF-8"
+
+# Navigation
+navs:
+  -
+    href: /
+    label: Home
+
+  -
+    href: /open-source
+    label: Open-Source
+
+  -
+    href: https://github.com/overtrue
+    label: GitHub
+    target: _blank
+
+  -
+    href: http://weibo.com/44294631
+    label: Weibo
+    target: _blank
+
+  -
+    href: /bookmark
+    label: Bookmark
+
+  -
+    href: /about
+    label: About
