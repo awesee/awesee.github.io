@@ -8,6 +8,7 @@ permalink: /bookmark/
 
 ## GitHub
 -[GitHub Guides](https://guides.github.com/) - GitHub is the best way to build and ship software.
+-[语义化版本](http://semver.org/lang/zh-CN/) - 语义化版本控制规范。
 
 ## PHP
 - [Slim](https://github.com/codeguy/Slim) - PHP微框架，简单易用易拓展。
