@@ -14,13 +14,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title:  Openset - 王硕
-lang:   zh
+lang:   zh-CN
 email:  wsh752166675@163.com
 description: > # this means to ignore newlines until "baseurl:"
         王硕的个人网站
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://openset.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-owner_name: openset
+owner_name: Openset
 github_username:  openset
 
 # Build settings
@@ -62,12 +62,12 @@ navs:
     label: Open-Source
 
   -
-    href: https://github.com/overtrue
+    href: https://github.com/openset
     label: GitHub
     target: _blank
 
   -
-    href: http://weibo.com/44294631
+    href: http://weibo.com/
     label: Weibo
     target: _blank
 
