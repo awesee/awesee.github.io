@@ -1,5 +1,6 @@
 ---
 layout: default
+title: 首页
 ---
 
 ## [如何创建一个自己的 Composer 库]({{ site.url }}/articles/2017/06/21/how-to-create-own-composer-library.html)
