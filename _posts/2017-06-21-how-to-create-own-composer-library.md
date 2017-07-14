@@ -56,7 +56,7 @@ Composer 是 PHP 的一个依赖管理工具。它允许你申明项目所依赖
 到这里基本就结束了。一切都好了，但是突然看到Packagist账户头像是默认的，类似下面这样：
 ![file](https://dn-phphub.qbox.me/uploads/images/201706/12/16817/N4lPAVIHGH.png)
 作为一个有强迫症的程序员，我很想用自定义的头像。可是Packagist账户设置没有修改头像的选项。
-接下来要特别感谢 [@overtrue](https://github.com/overtrue) 安大大的帮助
+接下来要特别感谢 [@overtrue](https://github.com/overtrue) 超哥的帮助
 ![file](https://dn-phphub.qbox.me/uploads/images/201706/12/16817/30HiWa22KT.png)
 原来Packagist用的是全球公认的头像
 [Gravatar](http://cn.gravatar.com/) - 一个属于你自己的全球通用头像
