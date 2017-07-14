@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## [如何创建一个自己的 Composer 库]({{ site.url }}/jekyll/update/2017/05/27/how-do-create-own-composer-library.html)
+## [如何创建一个自己的 Composer 库]({{ site.url }}/jekyll/update/2017/06/21/how-do-create-own-composer-library.html)
 
 2017-06-21 18:30:00
 
