@@ -33,11 +33,6 @@ exclude:
 
 theme: jekyll-theme-cayman
 
-# github settings
-github: [
-  repository_name: openset.github.io,
-  owner_name: openset
-]
 kramdown:
   input: GFM
   hard_wrap: false
