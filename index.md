@@ -3,6 +3,30 @@ layout: default
 title: 首页
 ---
 
+## [Python 指导](http://python.openset.wang/)
+
+2017-08-25 18:00:00
+
+Python语言学习资料索引
+
+---
+
+## [Go 指导](http://go.openset.wang/)
+
+2017-08-24 18:00:00
+
+Go语言学习资料索引
+
+---
+
+## [PHP 指导](http://php.openset.wang/)
+
+2017-08-23 18:00:00
+
+PHP语言学习资料索引
+
+---
+
 ## [如何创建一个自己的 Composer 库]({{ site.url }}/articles/2017/06/21/how-to-create-own-composer-library.html)
 
 2017-06-21 18:30:00
