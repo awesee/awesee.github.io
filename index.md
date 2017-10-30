@@ -7,15 +7,7 @@ title: 首页
 
 2017-08-26 18:00:00
 
-优秀工具索引
-
----
-
-## [Python 指导](http://python.openset.wang/){:target="_blank"}
-
-2017-08-25 18:00:00
-
-Python语言学习资料索引
+优秀工具索引。
 
 ---
 
@@ -23,7 +15,7 @@ Python语言学习资料索引
 
 2017-08-24 18:00:00
 
-Go语言学习资料索引
+Go语言学习资料索引。
 
 ---
 
@@ -31,7 +23,23 @@ Go语言学习资料索引
 
 2017-08-23 18:00:00
 
-PHP语言学习资料索引
+PHP语言学习资料索引。
+
+---
+
+## [Python 指导](http://python.openset.wang/){:target="_blank"}
+
+2017-08-25 18:00:00
+
+Python语言学习资料索引。
+
+---
+
+## [Mac下用brew搭建PHP开发环境]({{ site.url }}/articles/2017/10/28/using-brew-to-build-php-development-environment-under-mac.html){:target="_blank"}
+
+2017-10-28 18:00:00
+
+Mac下用brew搭建PHP开发环境过程，遇到的问题及解决方法。
 
 ---
 
