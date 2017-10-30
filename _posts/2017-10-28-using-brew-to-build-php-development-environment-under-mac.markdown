@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Mac下用brew搭建PHP开发环境"
-date:   2017-10-30 18:30:00 +0800
+date:   2017-10-28 18:30:00 +0800
 categories: articles
 ---
 
