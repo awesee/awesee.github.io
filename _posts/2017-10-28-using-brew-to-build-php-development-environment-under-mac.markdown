@@ -11,13 +11,13 @@ categories: articles
 - ` $ brew options php71 ` （非必要） 
 - ` $ brew install homebrew/php/php71 --with-httpd ` Apache环境
 - ` $ brew install mysql `
-- ` $ brew install homebrew/php/php71-xdebug ` 安装扩展
+- ` $ brew install homebrew/php/php71-xdebug ` 安装扩展（非必要）
 - `  which apachectl 或 which httpd ` 查询httpd位置（非必要）
 - ` apachectl -V 或 httpd -V  ` 查看Apache配置文件位置（非必要）
 - ` php -m ` 查询已安装模块（非必要）
 - ` php -i | grep php.ini ` 查询php.ini文件（非必要）
 - ` $ brew services list `  详细使用运行brew services可以查看帮助（非必要）
-- ` $ sudo brew services run httpd ` 需要root权限
+- ` $ sudo brew services run httpd ` 需要root权限（80，443端口需要）
 - ` $ brew services run mysql `
 
 ## 一、安装 Homebrew
@@ -50,7 +50,7 @@ PHP后面的数字代表PHP版本，` homebrew/php/php72-redis ` 类似这样的
 
 安装模块不可用，
 原因1: 线程安全和非线程安全
-` brew reinstall -fs php56-mcrypt `  重新安装线程安全模块
+` brew reinstall -fs php71-mcrypt `  重新安装线程安全模块
 运行` brew install ` 可以添加 ` --interactive ` 参数，解释如下
 ```shell
 $ brew help install
