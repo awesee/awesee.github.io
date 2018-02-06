@@ -13,7 +13,7 @@ again.
 
 ## License
 
-The following directories and their contents are Copyright Tom Preston-Werner.
+The following directories and their contents are Copyright [Openset](http://github.com/openset).
 You may not reuse anything therein without my permission:
 
 * \_posts/
