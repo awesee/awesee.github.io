@@ -105,13 +105,13 @@ analytics:
 author:
   name             : "Openset"
   avatar           : "/assets/images/photo.jpg"
-  bio              : "I am an amazing person."
+  bio              : "Learning by doing!"
   location         : "China"
   email            : "openset.wang@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:openset.wang@gmail.com"
+      # url: "mailto:openset.wang@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
