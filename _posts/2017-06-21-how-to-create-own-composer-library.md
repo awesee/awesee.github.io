@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: single
 title:  "如何创建一个自己的 Composer 库"
 date:   2017-06-21 18:30:00 +0800
 categories: articles
