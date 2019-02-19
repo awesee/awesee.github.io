@@ -1,5 +1,9 @@
 ---
-layout: default
+layout: single
+title:  "Markdown基础语法"
+date:   2017-06-15 17:30:00 +0800
+categories: [markdown]
+tags: [markdown]
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.

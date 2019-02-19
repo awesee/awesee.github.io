@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: 书签
 menu: bookmark
 permalink: /bookmark/
