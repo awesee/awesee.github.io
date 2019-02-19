@@ -2,7 +2,8 @@
 layout: single
 title:  "如何创建一个自己的 Composer 库"
 date:   2017-06-21 18:30:00 +0800
-categories: articles
+categories: [php]
+tags: [composer]
 ---
 
 ## 起因
@@ -35,10 +36,10 @@ Composer 是 PHP 的一个依赖管理工具。它允许你申明项目所依赖
 
 ## 4、在Packagist官网提交你的Package
 进入Packagist官网，登录你的账户，点击Submit
-![file](https://dn-phphub.qbox.me/uploads/images/201706/12/16817/kfvuAqxAmO.png)
+![file](/assets/images/posts/2017061216817_kfvuAqxAmO.png)
 填写你提交到GitHub的仓库地址。点击Check，根据提示提交即可。
 稍等片刻，你会看到如下界面，然后你就可以使用这个库了。
-![file](https://dn-phphub.qbox.me/uploads/images/201706/12/16817/qX9CGAj5O6.png)
+![file](/assets/images/posts/2017061216817_qX9CGAj5O6.png)
 
 到这里就结束了吗？NO NO NO，如果你修改代码，它还不能自动更新。
 
@@ -54,14 +55,14 @@ Composer 是 PHP 的一个依赖管理工具。它允许你申明项目所依赖
 
 ## 6、Last but not least
 到这里基本就结束了。一切都好了，但是突然看到Packagist账户头像是默认的，类似下面这样：
-![file](https://dn-phphub.qbox.me/uploads/images/201706/12/16817/N4lPAVIHGH.png)
+![file](/assets/images/posts/2017061216817_N4lPAVIHGH.png)
 作为一个有强迫症的程序员，我很想用自定义的头像。可是Packagist账户设置没有修改头像的选项。
 接下来要特别感谢 [@overtrue](https://github.com/overtrue) 超哥的帮助
-![file](https://dn-phphub.qbox.me/uploads/images/201706/12/16817/30HiWa22KT.png)
+![file](/assets/images/posts/2017061216817_30HiWa22KT.png)
 原来Packagist用的是全球公认的头像
 [Gravatar](http://cn.gravatar.com/) - 一个属于你自己的全球通用头像
 接下来就是注册Gravatar，上传头像绑定自己的邮箱地址。
-![file](https://dn-phphub.qbox.me/uploads/images/201706/12/16817/sHRQeRn23n.png)
+![file](/assets/images/posts/2017061216817_sHRQeRn23n.png)
 注册如有遇到国内163邮箱，QQ邮箱提示邮箱地址被屏蔽可以用微软邮箱，翻墙可以用Gmail，注册后可以修改。
 
 _**Thanks.**_
