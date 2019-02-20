@@ -1,10 +1,14 @@
 ---
-layout: single
-title:  "Markdown基础语法"
-date:   2017-06-15 17:30:00 +0800
-categories: markdown
-tags: [markdown]
+layout:     single
+title:      "Markdown基础语法"
+date:       2017-06-15 17:30:00 +0800
+permalink:  /markdown-syntax/
+categories: [markdown]
+tags:       [markdown]
 ---
+
+Markdown syntax
+<!--more-->
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
