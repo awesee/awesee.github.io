@@ -11,6 +11,7 @@ tags: [composer]
 
 ## 1、Composer是什么
 Composer 是 PHP 的一个依赖管理工具。它允许你申明项目所依赖的代码库，它会在你的项目中为你安装他们。
+
 具体的见 [简介 | Composer](http://docs.phpcomposer.com/00-intro.html)。
 
 ## 2、需要做哪些准备
@@ -30,8 +31,11 @@ Composer 是 PHP 的一个依赖管理工具。它允许你申明项目所依赖
 }
 ```
 详细见 [Creating a composer.json file](https://packagist.org/about)。
+
 注意这里的type，详细配置见 [composer.json 架构](http://docs.phpcomposer.com/04-schema.html)。
+
 最后可以用 `composer validate ` 命令验证一下。
+
 修改完后提交到GitHub版本库。
 
 ## 4、在Packagist官网提交你的Package
@@ -51,6 +55,7 @@ Composer 是 PHP 的一个依赖管理工具。它允许你申明项目所依赖
 - Check the "Active" box and submit the form
 
 详细见 [How to submit packages?](https://packagist.org/about)
+
 管理你的包版本详见 [Managing package versions](https://packagist.org/about)
 
 ## 6、Last but not least
