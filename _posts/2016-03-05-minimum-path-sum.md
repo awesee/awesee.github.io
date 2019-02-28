@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "最小路径和"
+title:      "64. 最小路径和 (Medium)"
 date:       2016-03-05 21:30:00 +0800
 categories: [leetcode]
 tags:       [array, dynamic-programming]
 permalink:  /minimum-path-sum/
 ---
-
-## 64. 最小路径和 (Medium)
 
 <p>给定一个包含非负整数的 <em>m</em>&nbsp;x&nbsp;<em>n</em>&nbsp;网格，请找出一条从左上角到右下角的路径，使得路径上的数字总和为最小。</p>
 

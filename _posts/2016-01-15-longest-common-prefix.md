@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "最长公共前缀"
+title:      "14. 最长公共前缀 (Easy)"
 date:       2016-01-15 21:30:00 +0800
 categories: [leetcode]
 tags:       [string]
 permalink:  /longest-common-prefix/
 ---
-
-## 14. 最长公共前缀 (Easy)
 
 <p>编写一个函数来查找字符串数组中的最长公共前缀。</p>
 

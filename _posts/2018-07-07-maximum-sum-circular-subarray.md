@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "环形子数组的最大和"
+title:      "918. 环形子数组的最大和 (Medium)"
 date:       2018-07-07 21:30:00 +0800
 categories: [leetcode]
 tags:       [array]
 permalink:  /maximum-sum-circular-subarray/
 ---
-
-## 918. 环形子数组的最大和 (Medium)
 
 <p>给定一个由整数数组 <code>A</code>&nbsp;表示的<strong>环形数组 <code>C</code></strong>，求 <code><strong>C</strong></code>&nbsp;的非空子数组的最大可能和。</p>
 

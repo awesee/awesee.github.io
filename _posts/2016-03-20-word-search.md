@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "单词搜索"
+title:      "79. 单词搜索 (Medium)"
 date:       2016-03-20 21:30:00 +0800
 categories: [leetcode]
 tags:       [array, backtracking]
 permalink:  /word-search/
 ---
-
-## 79. 单词搜索 (Medium)
 
 <p>给定一个二维网格和一个单词，找出该单词是否存在于网格中。</p>
 

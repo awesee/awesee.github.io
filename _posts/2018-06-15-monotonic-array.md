@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "单调数列"
+title:      "896. 单调数列 (Easy)"
 date:       2018-06-15 21:30:00 +0800
 categories: [leetcode]
 tags:       [array]
 permalink:  /monotonic-array/
 ---
-
-## 896. 单调数列 (Easy)
 
 <p>如果数组是单调递增或单调递减的，那么它是<em>单调的</em>。</p>
 

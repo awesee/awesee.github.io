@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "添加与搜索单词 - 数据结构设计"
+title:      "211. 添加与搜索单词 - 数据结构设计 (Medium)"
 date:       2016-07-30 21:30:00 +0800
 categories: [leetcode]
 tags:       [design, trie, backtracking]
 permalink:  /add-and-search-word-data-structure-design/
 ---
-
-## 211. 添加与搜索单词 - 数据结构设计 (Medium)
 
 <p>设计一个支持以下两种操作的数据结构：</p>
 

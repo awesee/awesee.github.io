@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "适龄的朋友"
+title:      "825. 适龄的朋友 (Medium)"
 date:       2018-04-05 21:30:00 +0800
 categories: [leetcode]
 tags:       [array]
 permalink:  /friends-of-appropriate-ages/
 ---
-
-## 825. 适龄的朋友 (Medium)
 
 <p>人们会互相发送好友请求，现在给定一个包含有他们年龄的数组，<code>ages[i]</code>&nbsp;表示第 i 个人的年龄。</p>
 

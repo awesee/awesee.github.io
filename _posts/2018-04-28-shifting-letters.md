@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "字母移位"
+title:      "848. 字母移位 (Medium)"
 date:       2018-04-28 21:30:00 +0800
 categories: [leetcode]
 tags:       [string]
 permalink:  /shifting-letters/
 ---
-
-## 848. 字母移位 (Medium)
 
 <p>有一个由小写字母组成的字符串 <code>S</code>，和一个整数数组 <code>shifts</code>。</p>
 

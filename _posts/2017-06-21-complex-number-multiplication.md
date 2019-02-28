@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "复数乘法"
+title:      "537. 复数乘法 (Medium)"
 date:       2017-06-21 21:30:00 +0800
 categories: [leetcode]
 tags:       [math, string]
 permalink:  /complex-number-multiplication/
 ---
-
-## 537. 复数乘法 (Medium)
 
 <p>给定两个表示<a href="https://baike.baidu.com/item/%E5%A4%8D%E6%95%B0/254365?fr=aladdin">复数</a>的字符串。</p>
 

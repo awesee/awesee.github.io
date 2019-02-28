@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "移除链表元素"
+title:      "203. 移除链表元素 (Easy)"
 date:       2016-07-22 21:30:00 +0800
 categories: [leetcode]
 tags:       [linked-list]
 permalink:  /remove-linked-list-elements/
 ---
-
-## 203. 移除链表元素 (Easy)
 
 <p>删除链表中等于给定值&nbsp;<strong><em>val&nbsp;</em></strong>的所有节点。</p>
 

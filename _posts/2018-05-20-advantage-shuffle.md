@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "优势洗牌"
+title:      "870. 优势洗牌 (Medium)"
 date:       2018-05-20 21:30:00 +0800
 categories: [leetcode]
 tags:       [greedy, array]
 permalink:  /advantage-shuffle/
 ---
-
-## 870. 优势洗牌 (Medium)
 
 <p>给定两个大小相等的数组&nbsp;<code>A</code>&nbsp;和&nbsp;<code>B</code>，A 相对于 B 的<em>优势</em>可以用满足&nbsp;<code>A[i] &gt; B[i]</code>&nbsp;的索引 <code>i</code>&nbsp;的数目来描述。</p>
 

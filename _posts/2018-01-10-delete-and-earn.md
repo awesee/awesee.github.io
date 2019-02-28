@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "删除与获得点数"
+title:      "740. 删除与获得点数 (Medium)"
 date:       2018-01-10 21:30:00 +0800
 categories: [leetcode]
 tags:       [dynamic-programming]
 permalink:  /delete-and-earn/
 ---
-
-## 740. 删除与获得点数 (Medium)
 
 <p>给定一个整数数组&nbsp;<code>nums</code>&nbsp;，你可以对它进行一些操作。</p>
 

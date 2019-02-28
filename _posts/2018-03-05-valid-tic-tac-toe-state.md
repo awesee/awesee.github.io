@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "有效的井字游戏"
+title:      "794. 有效的井字游戏 (Medium)"
 date:       2018-03-05 21:30:00 +0800
 categories: [leetcode]
 tags:       [recursion, math]
 permalink:  /valid-tic-tac-toe-state/
 ---
-
-## 794. 有效的井字游戏 (Medium)
 
 <p>用字符串数组作为井字游戏的游戏板&nbsp;<code>board</code>。当且仅当在井字游戏过程中，玩家有可能将字符放置成游戏板所显示的状态时，才返回 true。</p>
 

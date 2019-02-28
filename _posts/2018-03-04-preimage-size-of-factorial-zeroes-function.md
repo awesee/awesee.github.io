@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "阶乘函数后K个零"
+title:      "793. 阶乘函数后K个零 (Hard)"
 date:       2018-03-04 21:30:00 +0800
 categories: [leetcode]
 tags:       [binary-search]
 permalink:  /preimage-size-of-factorial-zeroes-function/
 ---
-
-## 793. 阶乘函数后K个零 (Hard)
 
 <p>&nbsp;<code>f(x)</code>&nbsp;是&nbsp;<code>x!</code>&nbsp;末尾是0的数量。（回想一下&nbsp;<code>x! = 1 * 2 * 3 * ... * x</code>，且<code>0! = 1</code>）</p>
 

@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "重新安排行程"
+title:      "332. 重新安排行程 (Medium)"
 date:       2016-11-28 21:30:00 +0800
 categories: [leetcode]
 tags:       [depth-first-search, graph]
 permalink:  /reconstruct-itinerary/
 ---
-
-## 332. 重新安排行程 (Medium)
 
 <p>给定一个机票的字符串二维数组 <code>[from, to]</code>，子数组中的两个成员分别表示飞机出发和降落的机场地点，对该行程进行重新规划排序。所有这些机票都属于一个从JFK（肯尼迪国际机场）出发的先生，所以该行程必须从 JFK 出发。</p>
 

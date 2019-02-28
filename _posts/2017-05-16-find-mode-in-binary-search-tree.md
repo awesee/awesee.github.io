@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "二叉搜索树中的众数"
+title:      "501. 二叉搜索树中的众数 (Easy)"
 date:       2017-05-16 21:30:00 +0800
 categories: [leetcode]
 tags:       [tree]
 permalink:  /find-mode-in-binary-search-tree/
 ---
-
-## 501. 二叉搜索树中的众数 (Easy)
 
 <p>给定一个有相同值的二叉搜索树（BST），找出 BST 中的所有众数（出现频率最高的元素）。</p>
 

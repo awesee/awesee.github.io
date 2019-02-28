@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "寻找右区间"
+title:      "436. 寻找右区间 (Medium)"
 date:       2017-03-12 21:30:00 +0800
 categories: [leetcode]
 tags:       [binary-search]
 permalink:  /find-right-interval/
 ---
-
-## 436. 寻找右区间 (Medium)
 
 <p>给定一组区间，对于每一个区间 i，检查是否存在一个区间 j，它的起始点大于或等于区间&nbsp;i 的终点，这可以称为 j 在 i 的&ldquo;右侧&rdquo;。</p>
 

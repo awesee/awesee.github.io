@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "不同的子序列"
+title:      "115. 不同的子序列 (Hard)"
 date:       2016-04-25 21:30:00 +0800
 categories: [leetcode]
 tags:       [string, dynamic-programming]
 permalink:  /distinct-subsequences/
 ---
-
-## 115. 不同的子序列 (Hard)
 
 <p>给定一个字符串&nbsp;<strong>S&nbsp;</strong>和一个字符串&nbsp;<strong>T</strong>，计算在 <strong>S</strong> 的子序列中 <strong>T</strong> 出现的个数。</p>
 

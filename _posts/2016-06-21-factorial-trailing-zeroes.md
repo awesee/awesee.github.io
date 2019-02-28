@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "阶乘后的零"
+title:      "172. 阶乘后的零 (Easy)"
 date:       2016-06-21 21:30:00 +0800
 categories: [leetcode]
 tags:       [math]
 permalink:  /factorial-trailing-zeroes/
 ---
-
-## 172. 阶乘后的零 (Easy)
 
 <p>给定一个整数 <em>n</em>，返回 <em>n</em>! 结果尾数中零的数量。</p>
 

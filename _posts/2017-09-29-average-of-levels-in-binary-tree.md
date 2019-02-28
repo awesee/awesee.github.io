@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "二叉树的层平均值"
+title:      "637. 二叉树的层平均值 (Easy)"
 date:       2017-09-29 21:30:00 +0800
 categories: [leetcode]
 tags:       [tree]
 permalink:  /average-of-levels-in-binary-tree/
 ---
-
-## 637. 二叉树的层平均值 (Easy)
 
 <p>给定一个非空二叉树, 返回一个由每层节点平均值组成的数组.</p>
 

@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "杨辉三角 II"
+title:      "119. 杨辉三角 II (Easy)"
 date:       2016-04-29 21:30:00 +0800
 categories: [leetcode]
 tags:       [array]
 permalink:  /pascals-triangle-ii/
 ---
-
-## 119. 杨辉三角 II (Easy)
 
 <p>给定一个非负索引&nbsp;<em>k</em>，其中 <em>k</em>&nbsp;&le;&nbsp;33，返回杨辉三角的第 <em>k </em>行。</p>
 

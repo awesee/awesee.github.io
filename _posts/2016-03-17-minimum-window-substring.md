@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "最小覆盖子串"
+title:      "76. 最小覆盖子串 (Hard)"
 date:       2016-03-17 21:30:00 +0800
 categories: [leetcode]
 tags:       [hash-table, two-pointers, string]
 permalink:  /minimum-window-substring/
 ---
-
-## 76. 最小覆盖子串 (Hard)
 
 <p>给定一个字符串 S 和一个字符串 T，请在 S 中找出包含 T 所有字母的最小子串。</p>
 

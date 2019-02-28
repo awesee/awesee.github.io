@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "石子游戏"
+title:      "877. 石子游戏 (Medium)"
 date:       2018-05-27 21:30:00 +0800
 categories: [leetcode]
 tags:       [math, dynamic-programming]
 permalink:  /stone-game/
 ---
-
-## 877. 石子游戏 (Medium)
 
 <p>亚历克斯和李用几堆石子在做游戏。偶数堆石子<strong>排成一行</strong>，每堆都有正整数颗石子&nbsp;<code>piles[i]</code>&nbsp;。</p>
 

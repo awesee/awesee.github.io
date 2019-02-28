@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "超过经理收入的员工"
+title:      "181. 超过经理收入的员工 (Easy)"
 date:       2016-06-30 21:30:00 +0800
 categories: [leetcode]
 tags:       []
 permalink:  /employees-earning-more-than-their-managers/
 ---
-
-## 181. 超过经理收入的员工 (Easy)
 
 <p><code>Employee</code>&nbsp;表包含所有员工，他们的经理也属于员工。每个员工都有一个 Id，此外还有一列对应员工的经理的 Id。</p>
 

@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "顶端迭代器"
+title:      "284. 顶端迭代器 (Medium)"
 date:       2016-10-11 21:30:00 +0800
 categories: [leetcode]
 tags:       [design]
 permalink:  /peeking-iterator/
 ---
-
-## 284. 顶端迭代器 (Medium)
 
 <p>给定一个迭代器类的接口，接口包含两个方法：&nbsp;<code>next()</code>&nbsp;和&nbsp;<code>hasNext()</code>。设计并实现一个支持&nbsp;<code>peek()</code>&nbsp;操作的顶端迭代器 -- 其本质就是把原本应由&nbsp;<code>next()</code>&nbsp;方法返回的元素&nbsp;<code>peek()</code>&nbsp;出来。</p>
 

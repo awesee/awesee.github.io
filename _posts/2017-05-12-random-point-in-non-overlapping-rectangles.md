@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "非重叠矩形中的随机点"
+title:      "497. 非重叠矩形中的随机点 (Medium)"
 date:       2017-05-12 21:30:00 +0800
 categories: [leetcode]
 tags:       [binary-search, random]
 permalink:  /random-point-in-non-overlapping-rectangles/
 ---
-
-## 497. 非重叠矩形中的随机点 (Medium)
 
 <p>给定一个非重叠轴对齐矩形的列表 <code>rects</code>，写一个函数 <code>pick</code> 随机均匀地选取矩形覆盖的空间中的整数点。</p>
 

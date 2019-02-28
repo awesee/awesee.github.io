@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "按权重随机选择"
+title:      "528. 按权重随机选择 (Medium)"
 date:       2017-06-12 21:30:00 +0800
 categories: [leetcode]
 tags:       [binary-search, random]
 permalink:  /random-pick-with-weight/
 ---
-
-## 528. 按权重随机选择 (Medium)
 
 <p>给定一个正整数数组&nbsp;<code>w</code> ，其中&nbsp;<code>w[i]</code>&nbsp;代表位置&nbsp;<code>i</code>&nbsp;的权重，请写一个函数&nbsp;<code>pickIndex</code>&nbsp;，它可以随机地获取位置&nbsp;<code>i</code>，选取位置&nbsp;<code>i</code>&nbsp;的概率与&nbsp;<code>w[i]</code>&nbsp;成正比。</p>
 

@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "重构字符串"
+title:      "767. 重构字符串 (Medium)"
 date:       2018-02-06 21:30:00 +0800
 categories: [leetcode]
 tags:       [heap, greedy, sort, string]
 permalink:  /reorganize-string/
 ---
-
-## 767. 重构字符串 (Medium)
 
 <p>给定一个字符串<code>S</code>，检查是否能重新排布其中的字母，使得两相邻的字符不同。</p>
 

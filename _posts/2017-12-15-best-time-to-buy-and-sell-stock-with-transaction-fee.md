@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "买卖股票的最佳时机含手续费"
+title:      "714. 买卖股票的最佳时机含手续费 (Medium)"
 date:       2017-12-15 21:30:00 +0800
 categories: [leetcode]
 tags:       [greedy, array, dynamic-programming]
 permalink:  /best-time-to-buy-and-sell-stock-with-transaction-fee/
 ---
-
-## 714. 买卖股票的最佳时机含手续费 (Medium)
 
 <p>给定一个整数数组&nbsp;<code>prices</code>，其中第&nbsp;<code>i</code>&nbsp;个元素代表了第&nbsp;<code>i</code>&nbsp;天的股票价格 ；非负整数&nbsp;<code>fee</code> 代表了交易股票的手续费用。</p>
 

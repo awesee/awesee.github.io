@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "在LR字符串中交换相邻字符"
+title:      "777. 在LR字符串中交换相邻字符 (Medium)"
 date:       2018-02-16 21:30:00 +0800
 categories: [leetcode]
 tags:       [brainteaser]
 permalink:  /swap-adjacent-in-lr-string/
 ---
-
-## 777. 在LR字符串中交换相邻字符 (Medium)
 
 <p>在一个由 <code>&#39;L&#39;</code> , <code>&#39;R&#39;</code> 和 <code>&#39;X&#39;</code> 三个字符组成的字符串（例如<code>&quot;RXXLRXRXL&quot;</code>）中进行移动操作。一次移动操作指用一个<code>&quot;LX&quot;</code>替换一个<code>&quot;XL&quot;</code>，或者用一个<code>&quot;XR&quot;</code>替换一个<code>&quot;RX&quot;</code>。现给定起始字符串<code>start</code>和结束字符串<code>end</code>，请编写代码，当且仅当存在一系列移动操作使得<code>start</code>可以转换成<code>end</code>时， 返回<code>True</code>。</p>
 

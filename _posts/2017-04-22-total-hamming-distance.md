@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "汉明距离总和"
+title:      "477. 汉明距离总和 (Medium)"
 date:       2017-04-22 21:30:00 +0800
 categories: [leetcode]
 tags:       [bit-manipulation]
 permalink:  /total-hamming-distance/
 ---
-
-## 477. 汉明距离总和 (Medium)
 
 <p>两个整数的&nbsp;<a href="https://baike.baidu.com/item/%E6%B1%89%E6%98%8E%E8%B7%9D%E7%A6%BB/475174?fr=aladdin">汉明距离</a> 指的是这两个数字的二进制数对应位不同的数量。</p>
 

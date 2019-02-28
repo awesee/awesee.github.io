@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "计算右侧小于当前元素的个数"
+title:      "315. 计算右侧小于当前元素的个数 (Hard)"
 date:       2016-11-11 21:30:00 +0800
 categories: [leetcode]
 tags:       [binary-indexed-tree, segment-tree, binary-search-tree, divide-and-conquer]
 permalink:  /count-of-smaller-numbers-after-self/
 ---
-
-## 315. 计算右侧小于当前元素的个数 (Hard)
 
 <p>给定一个整数数组 <em>nums</em>，按要求返回一个新数组&nbsp;<em>counts</em>。数组 <em>counts</em> 有该性质： <code>counts[i]</code> 的值是&nbsp; <code>nums[i]</code> 右侧小于&nbsp;<code>nums[i]</code> 的元素的数量。</p>
 

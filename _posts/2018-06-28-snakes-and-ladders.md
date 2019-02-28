@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "蛇梯棋"
+title:      "909. 蛇梯棋 (Medium)"
 date:       2018-06-28 21:30:00 +0800
 categories: [leetcode]
 tags:       [breadth-first-search]
 permalink:  /snakes-and-ladders/
 ---
-
-## 909. 蛇梯棋 (Medium)
 
 <p>在一块 N x N 的棋盘&nbsp;<code>board</code>&nbsp;上，<strong>从棋盘的左下角开始</strong>，每一行交替方向，按从&nbsp;<code>1</code> 到 <code>N*N</code>&nbsp;的数字给方格编号。例如，对于一块 6 x 6 大小的棋盘，可以编号如下：</p>
 

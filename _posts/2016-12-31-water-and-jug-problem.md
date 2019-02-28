@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "水壶问题"
+title:      "365. 水壶问题 (Medium)"
 date:       2016-12-31 21:30:00 +0800
 categories: [leetcode]
 tags:       [math]
 permalink:  /water-and-jug-problem/
 ---
-
-## 365. 水壶问题 (Medium)
 
 <p>有两个容量分别为&nbsp;<em>x</em>升 和<em> y</em>升 的水壶以及无限多的水。请判断能否通过使用这两个水壶，从而可以得到恰好&nbsp;<em>z</em>升 的水？</p>
 

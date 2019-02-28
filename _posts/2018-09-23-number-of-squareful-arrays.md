@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "正方形数组的数目"
+title:      "996. 正方形数组的数目 (Hard)"
 date:       2018-09-23 21:30:00 +0800
 categories: [leetcode]
 tags:       [graph, math, backtracking]
 permalink:  /number-of-squareful-arrays/
 ---
-
-## 996. 正方形数组的数目 (Hard)
 
 <p>给定一个非负整数数组&nbsp;<code>A</code>，如果该数组每对相邻元素之和是一个完全平方数，则称这一数组为<em>正方形</em>数组。</p>
 

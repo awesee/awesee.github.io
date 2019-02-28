@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "两个列表的最小索引总和"
+title:      "599. 两个列表的最小索引总和 (Easy)"
 date:       2017-08-22 21:30:00 +0800
 categories: [leetcode]
 tags:       [hash-table]
 permalink:  /minimum-index-sum-of-two-lists/
 ---
-
-## 599. 两个列表的最小索引总和 (Easy)
 
 <p>假设Andy和Doris想在晚餐时选择一家餐厅，并且他们都有一个表示最喜爱餐厅的列表，每个餐厅的名字用字符串表示。</p>
 

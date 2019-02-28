@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "数组中重复的数据"
+title:      "442. 数组中重复的数据 (Medium)"
 date:       2017-03-18 21:30:00 +0800
 categories: [leetcode]
 tags:       [array]
 permalink:  /find-all-duplicates-in-an-array/
 ---
-
-## 442. 数组中重复的数据 (Medium)
 
 <p>给定一个整数数组 a，其中1 &le; a[i] &le; <em>n</em> （<em>n</em>为数组长度）, 其中有些元素出现<strong>两次</strong>而其他元素出现<strong>一次</strong>。</p>
 

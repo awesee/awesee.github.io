@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "山羊拉丁文"
+title:      "824. 山羊拉丁文 (Easy)"
 date:       2018-04-04 21:30:00 +0800
 categories: [leetcode]
 tags:       [string]
 permalink:  /goat-latin/
 ---
-
-## 824. 山羊拉丁文 (Easy)
 
 <p>给定一个由空格分割单词的句子&nbsp;<code>S</code>。每个单词只包含大写或小写字母。</p>
 

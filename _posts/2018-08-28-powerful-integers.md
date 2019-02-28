@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "强整数"
+title:      "970. 强整数 (Easy)"
 date:       2018-08-28 21:30:00 +0800
 categories: [leetcode]
 tags:       [math]
 permalink:  /powerful-integers/
 ---
-
-## 970. 强整数 (Easy)
 
 <p>给定两个非负整数 <code>x</code> 和 <code>y</code>，如果某一整数等于 <code>x^i + y^j</code>，其中整数&nbsp;<code>i &gt;= 0</code> 且&nbsp;<code>j &gt;= 0</code>，那么我们认为该整数是一个<em>强整数</em>。</p>
 

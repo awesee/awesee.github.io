@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "1比特与2比特字符"
+title:      "717. 1比特与2比特字符 (Easy)"
 date:       2017-12-18 21:30:00 +0800
 categories: [leetcode]
 tags:       [array]
 permalink:  /1-bit-and-2-bit-characters/
 ---
-
-## 717. 1比特与2比特字符 (Easy)
 
 <p>有两种特殊字符。第一种字符可以用一比特<code>0</code>来表示。第二种字符可以用两比特(<code>10</code>&nbsp;或&nbsp;<code>11</code>)来表示。</p>
 

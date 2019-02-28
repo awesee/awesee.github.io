@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "直线上最多的点数"
+title:      "149. 直线上最多的点数 (Hard)"
 date:       2016-05-29 21:30:00 +0800
 categories: [leetcode]
 tags:       [hash-table, math]
 permalink:  /max-points-on-a-line/
 ---
-
-## 149. 直线上最多的点数 (Hard)
 
 <p>给定一个二维平面，平面上有&nbsp;<em>n&nbsp;</em>个点，求最多有多少个点在同一条直线上。</p>
 

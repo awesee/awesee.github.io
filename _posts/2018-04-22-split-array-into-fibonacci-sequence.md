@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "将数组拆分成斐波那契序列"
+title:      "842. 将数组拆分成斐波那契序列 (Medium)"
 date:       2018-04-22 21:30:00 +0800
 categories: [leetcode]
 tags:       [greedy, string, backtracking]
 permalink:  /split-array-into-fibonacci-sequence/
 ---
-
-## 842. 将数组拆分成斐波那契序列 (Medium)
 
 <p>给定一个数字字符串 <code>S</code>，比如 <code>S = &quot;123456579&quot;</code>，我们可以将它分成斐波那契式的序列 <code>[123, 456, 579]</code>。</p>
 

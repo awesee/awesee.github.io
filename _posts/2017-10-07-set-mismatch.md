@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "错误的集合"
+title:      "645. 错误的集合 (Easy)"
 date:       2017-10-07 21:30:00 +0800
 categories: [leetcode]
 tags:       [hash-table, math]
 permalink:  /set-mismatch/
 ---
-
-## 645. 错误的集合 (Easy)
 
 <p>集合 <code>S</code> 包含从1到&nbsp;<code>n</code>&nbsp;的整数。不幸的是，因为数据错误，导致集合里面某一个元素复制了成了集合里面的另外一个元素的值，导致集合丢失了一个整数并且有一个元素重复。</p>
 

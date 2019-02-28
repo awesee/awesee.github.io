@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "分隔链表"
+title:      "86. 分隔链表 (Medium)"
 date:       2016-03-27 21:30:00 +0800
 categories: [leetcode]
 tags:       [linked-list, two-pointers]
 permalink:  /partition-list/
 ---
-
-## 86. 分隔链表 (Medium)
 
 <p>给定一个链表和一个特定值<em> x</em>，对链表进行分隔，使得所有小于 <em>x</em> 的节点都在大于或等于 <em>x</em> 的节点之前。</p>
 

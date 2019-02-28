@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "行星碰撞"
+title:      "735. 行星碰撞 (Medium)"
 date:       2018-01-05 21:30:00 +0800
 categories: [leetcode]
 tags:       [stack]
 permalink:  /asteroid-collision/
 ---
-
-## 735. 行星碰撞 (Medium)
 
 <p>给定一个整数数组 <code>asteroids</code>，表示在同一行的行星。</p>
 

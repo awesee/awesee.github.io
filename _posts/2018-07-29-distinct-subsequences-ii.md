@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "不同的子序列 II"
+title:      "940. 不同的子序列 II (Hard)"
 date:       2018-07-29 21:30:00 +0800
 categories: [leetcode]
 tags:       [dynamic-programming]
 permalink:  /distinct-subsequences-ii/
 ---
-
-## 940. 不同的子序列 II (Hard)
 
 <p>给定一个字符串&nbsp;<code>S</code>，计算&nbsp;<code>S</code>&nbsp;的不同非空子序列的个数。</p>
 

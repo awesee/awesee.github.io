@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "爱吃香蕉的珂珂"
+title:      "875. 爱吃香蕉的珂珂 (Medium)"
 date:       2018-05-25 21:30:00 +0800
 categories: [leetcode]
 tags:       [binary-search]
 permalink:  /koko-eating-bananas/
 ---
-
-## 875. 爱吃香蕉的珂珂 (Medium)
 
 <p>珂珂喜欢吃香蕉。这里有&nbsp;<code>N</code>&nbsp;堆香蕉，第 <code>i</code> 堆中有&nbsp;<code>piles[i]</code>&nbsp;根香蕉。警卫已经离开了，将在&nbsp;<code>H</code>&nbsp;小时后回来。</p>
 

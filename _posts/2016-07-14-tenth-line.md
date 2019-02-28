@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "第十行"
+title:      "195. 第十行 (Easy)"
 date:       2016-07-14 21:30:00 +0800
 categories: [leetcode]
 tags:       []
 permalink:  /tenth-line/
 ---
-
-## 195. 第十行 (Easy)
 
 <p>给定一个文本文件&nbsp;<code>file.txt</code>，请只打印这个文件中的第十行。</p>
 

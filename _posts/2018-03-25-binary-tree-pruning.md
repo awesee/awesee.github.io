@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "二叉树剪枝"
+title:      "814. 二叉树剪枝 (Medium)"
 date:       2018-03-25 21:30:00 +0800
 categories: [leetcode]
 tags:       [tree]
 permalink:  /binary-tree-pruning/
 ---
-
-## 814. 二叉树剪枝 (Medium)
 
 <p>给定二叉树根结点&nbsp;<code>root</code>&nbsp;，此外树的每个结点的值要么是 0，要么是 1。</p>
 

@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "二叉树的直径"
+title:      "543. 二叉树的直径 (Easy)"
 date:       2017-06-27 21:30:00 +0800
 categories: [leetcode]
 tags:       [tree]
 permalink:  /diameter-of-binary-tree/
 ---
-
-## 543. 二叉树的直径 (Easy)
 
 <p>给定一棵二叉树，你需要计算它的直径长度。一棵二叉树的直径长度是任意两个结点路径长度中的最大值。这条路径可能穿过根结点。</p>
 

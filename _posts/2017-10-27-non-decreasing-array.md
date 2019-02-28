@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "非递减数列"
+title:      "665. 非递减数列 (Easy)"
 date:       2017-10-27 21:30:00 +0800
 categories: [leetcode]
 tags:       [array]
 permalink:  /non-decreasing-array/
 ---
-
-## 665. 非递减数列 (Easy)
 
 <p>给定一个长度为&nbsp;<code>n</code>&nbsp;的整数数组，你的任务是判断在<strong>最多</strong>改变&nbsp;<code>1</code> 个元素的情况下，该数组能否变成一个非递减数列。</p>
 

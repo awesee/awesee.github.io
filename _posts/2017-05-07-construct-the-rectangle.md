@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "构造矩形"
+title:      "492. 构造矩形 (Easy)"
 date:       2017-05-07 21:30:00 +0800
 categories: [leetcode]
 tags:       []
 permalink:  /construct-the-rectangle/
 ---
-
-## 492. 构造矩形 (Easy)
 
 <p>作为一位web开发者， 懂得怎样去规划一个页面的尺寸是很重要的。 现给定一个具体的矩形页面面积，你的任务是设计一个长度为 L 和宽度为 W 且满足以下要求的矩形的页面。要求：</p>
 

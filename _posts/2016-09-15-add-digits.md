@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "各位相加"
+title:      "258. 各位相加 (Easy)"
 date:       2016-09-15 21:30:00 +0800
 categories: [leetcode]
 tags:       [math]
 permalink:  /add-digits/
 ---
-
-## 258. 各位相加 (Easy)
 
 <p>给定一个非负整数 <code>num</code>，反复将各个位上的数字相加，直到结果为一位数。</p>
 

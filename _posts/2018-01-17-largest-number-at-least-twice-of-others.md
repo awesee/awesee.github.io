@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "至少是其他数字两倍的最大数"
+title:      "747. 至少是其他数字两倍的最大数 (Easy)"
 date:       2018-01-17 21:30:00 +0800
 categories: [leetcode]
 tags:       [array]
 permalink:  /largest-number-at-least-twice-of-others/
 ---
-
-## 747. 至少是其他数字两倍的最大数 (Easy)
 
 <p>在一个给定的数组<code>nums</code>中，总是存在一个最大元素 。</p>
 

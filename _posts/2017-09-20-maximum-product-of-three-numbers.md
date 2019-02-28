@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "三个数的最大乘积"
+title:      "628. 三个数的最大乘积 (Easy)"
 date:       2017-09-20 21:30:00 +0800
 categories: [leetcode]
 tags:       [array, math]
 permalink:  /maximum-product-of-three-numbers/
 ---
-
-## 628. 三个数的最大乘积 (Easy)
 
 <p>给定一个整型数组，在数组中找出由三个数组成的最大乘积，并输出这个乘积。</p>
 

@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "保持城市天际线"
+title:      "807. 保持城市天际线 (Medium)"
 date:       2018-03-18 21:30:00 +0800
 categories: [leetcode]
 tags:       []
 permalink:  /max-increase-to-keep-city-skyline/
 ---
-
-## 807. 保持城市天际线 (Medium)
 
 <p>在二维数组<code>grid</code>中，<code>grid[i][j]</code>代表位于某处的建筑物的高度。 我们被允许增加任何数量（不同建筑物的数量可能不同）的建筑物的高度。 高度 0 也被认为是建筑物。</p>
 

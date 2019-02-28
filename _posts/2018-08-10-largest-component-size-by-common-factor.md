@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "按公因数计算最大组件大小"
+title:      "952. 按公因数计算最大组件大小 (Hard)"
 date:       2018-08-10 21:30:00 +0800
 categories: [leetcode]
 tags:       [union-find, math]
 permalink:  /largest-component-size-by-common-factor/
 ---
-
-## 952. 按公因数计算最大组件大小 (Hard)
 
 <p>给定一个由不同正整数的组成的非空数组 <code>A</code>，考虑下面的图：</p>
 

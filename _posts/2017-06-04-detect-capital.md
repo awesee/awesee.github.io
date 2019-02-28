@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "检测大写字母"
+title:      "520. 检测大写字母 (Easy)"
 date:       2017-06-04 21:30:00 +0800
 categories: [leetcode]
 tags:       [string]
 permalink:  /detect-capital/
 ---
-
-## 520. 检测大写字母 (Easy)
 
 <p>给定一个单词，你需要判断单词的大写使用是否正确。</p>
 

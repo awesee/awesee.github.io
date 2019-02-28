@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "汇总区间"
+title:      "228. 汇总区间 (Medium)"
 date:       2016-08-16 21:30:00 +0800
 categories: [leetcode]
 tags:       [array]
 permalink:  /summary-ranges/
 ---
-
-## 228. 汇总区间 (Medium)
 
 <p>给定一个无重复元素的有序整数数组，返回数组区间范围的汇总。</p>
 

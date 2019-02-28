@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "函数的独占时间"
+title:      "636. 函数的独占时间 (Medium)"
 date:       2017-09-28 21:30:00 +0800
 categories: [leetcode]
 tags:       [stack]
 permalink:  /exclusive-time-of-functions/
 ---
-
-## 636. 函数的独占时间 (Medium)
 
 <p>给出一个非抢占单线程CPU的 <strong>n </strong>个函数运行日志，找到函数的独占时间。</p>
 

@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "验证IP地址"
+title:      "468. 验证IP地址 (Medium)"
 date:       2017-04-13 21:30:00 +0800
 categories: [leetcode]
 tags:       [string]
 permalink:  /validate-ip-address/
 ---
-
-## 468. 验证IP地址 (Medium)
 
 <p>编写一个函数来验证输入的字符串是否是有效的 IPv4 或&nbsp;IPv6 地址。</p>
 

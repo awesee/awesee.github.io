@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "网络延迟时间"
+title:      "743. 网络延迟时间 (Medium)"
 date:       2018-01-13 21:30:00 +0800
 categories: [leetcode]
 tags:       [heap, depth-first-search, breadth-first-search, graph]
 permalink:  /network-delay-time/
 ---
-
-## 743. 网络延迟时间 (Medium)
 
 <p>有&nbsp;<code>N</code>&nbsp;个网络节点，标记为&nbsp;<code>1</code>&nbsp;到&nbsp;<code>N</code>。</p>
 

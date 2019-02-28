@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "二叉搜索树中的插入操作"
+title:      "701. 二叉搜索树中的插入操作 (Medium)"
 date:       2017-12-02 21:30:00 +0800
 categories: [leetcode]
 tags:       [tree]
 permalink:  /insert-into-a-binary-search-tree/
 ---
-
-## 701. 二叉搜索树中的插入操作 (Medium)
 
 <p>给定二叉搜索树（BST）的根节点和要插入树中的值，将值插入二叉搜索树。 返回插入后二叉搜索树的根节点。 保证原始二叉搜索树中不存在新值。</p>
 

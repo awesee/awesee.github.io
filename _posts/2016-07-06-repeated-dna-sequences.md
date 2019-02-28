@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "重复的DNA序列"
+title:      "187. 重复的DNA序列 (Medium)"
 date:       2016-07-06 21:30:00 +0800
 categories: [leetcode]
 tags:       [bit-manipulation, hash-table]
 permalink:  /repeated-dna-sequences/
 ---
-
-## 187. 重复的DNA序列 (Medium)
 
 <p>所有 DNA 由一系列缩写为 A，C，G 和 T 的核苷酸组成，例如：&ldquo;ACGAATTCCG&rdquo;。在研究 DNA 时，识别 DNA 中的重复序列有时会对研究非常有帮助。</p>
 

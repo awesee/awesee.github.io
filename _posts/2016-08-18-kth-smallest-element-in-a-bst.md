@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "二叉搜索树中第K小的元素"
+title:      "230. 二叉搜索树中第K小的元素 (Medium)"
 date:       2016-08-18 21:30:00 +0800
 categories: [leetcode]
 tags:       [tree, binary-search]
 permalink:  /kth-smallest-element-in-a-bst/
 ---
-
-## 230. 二叉搜索树中第K小的元素 (Medium)
 
 <p>给定一个二叉搜索树，编写一个函数&nbsp;<code>kthSmallest</code>&nbsp;来查找其中第&nbsp;<strong>k&nbsp;</strong>个最小的元素。</p>
 

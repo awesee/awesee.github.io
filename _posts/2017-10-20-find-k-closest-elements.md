@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "找到 K 个最接近的元素"
+title:      "658. 找到 K 个最接近的元素 (Medium)"
 date:       2017-10-20 21:30:00 +0800
 categories: [leetcode]
 tags:       [binary-search]
 permalink:  /find-k-closest-elements/
 ---
-
-## 658. 找到 K 个最接近的元素 (Medium)
 
 <p>给定一个排序好的数组，两个整数 <code>k</code> 和 <code>x</code>，从数组中找到最靠近 <code>x</code>（两数之差最小）的 <code>k</code> 个数。返回的结果必须要是按升序排好的。如果有两个数与 <code>x</code> 的差值一样，优先选择数值较小的那个数。</p>
 

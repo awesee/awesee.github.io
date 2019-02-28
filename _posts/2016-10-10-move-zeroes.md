@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "移动零"
+title:      "283. 移动零 (Easy)"
 date:       2016-10-10 21:30:00 +0800
 categories: [leetcode]
 tags:       [array, two-pointers]
 permalink:  /move-zeroes/
 ---
-
-## 283. 移动零 (Easy)
 
 <p>给定一个数组 <code>nums</code>，编写一个函数将所有 <code>0</code> 移动到数组的末尾，同时保持非零元素的相对顺序。</p>
 

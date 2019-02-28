@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "重复 N 次的元素"
+title:      "961. 重复 N 次的元素 (Easy)"
 date:       2018-08-19 21:30:00 +0800
 categories: [leetcode]
 tags:       [hash-table]
 permalink:  /n-repeated-element-in-size-2n-array/
 ---
-
-## 961. 重复 N 次的元素 (Easy)
 
 <p>在大小为 <code>2N</code>&nbsp;的数组 <code>A</code>&nbsp;中有 <code>N+1</code> 个不同的元素，其中有一个元素重复了 <code>N</code> 次。</p>
 

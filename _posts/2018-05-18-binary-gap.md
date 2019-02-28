@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "二进制间距"
+title:      "868. 二进制间距 (Easy)"
 date:       2018-05-18 21:30:00 +0800
 categories: [leetcode]
 tags:       [math]
 permalink:  /binary-gap/
 ---
-
-## 868. 二进制间距 (Easy)
 
 <p>给定一个正整数&nbsp;<code>N</code>，找到并返回 <code>N</code>&nbsp;的二进制表示中两个连续的 1 之间的最长距离。&nbsp;</p>
 

@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "二叉树的所有路径"
+title:      "257. 二叉树的所有路径 (Easy)"
 date:       2016-09-14 21:30:00 +0800
 categories: [leetcode]
 tags:       [tree, depth-first-search]
 permalink:  /binary-tree-paths/
 ---
-
-## 257. 二叉树的所有路径 (Easy)
 
 <p>给定一个二叉树，返回所有从根节点到叶子节点的路径。</p>
 

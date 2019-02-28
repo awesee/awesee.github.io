@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "递增顺序查找树"
+title:      "897. 递增顺序查找树 (Easy)"
 date:       2018-06-16 21:30:00 +0800
 categories: [leetcode]
 tags:       [tree, depth-first-search]
 permalink:  /increasing-order-search-tree/
 ---
-
-## 897. 递增顺序查找树 (Easy)
 
 <p>给定一个树，<strong>按中序遍历</strong>重新排列树，使树中最左边的结点现在是树的根，并且每个结点没有左子结点，只有一个右子结点。</p>
 

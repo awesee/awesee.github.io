@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "钥匙和房间"
+title:      "841. 钥匙和房间 (Medium)"
 date:       2018-04-21 21:30:00 +0800
 categories: [leetcode]
 tags:       [depth-first-search, graph]
 permalink:  /keys-and-rooms/
 ---
-
-## 841. 钥匙和房间 (Medium)
 
 <p>有 <code>N</code> 个房间，开始时你位于 <code>0</code> 号房间。每个房间有不同的号码：<code>0，1，2，...，N-1</code>，并且房间里可能有一些钥匙能使你进入下一个房间。</p>
 

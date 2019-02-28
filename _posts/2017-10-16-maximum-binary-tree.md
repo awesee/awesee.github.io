@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "最大二叉树"
+title:      "654. 最大二叉树 (Medium)"
 date:       2017-10-16 21:30:00 +0800
 categories: [leetcode]
 tags:       [tree]
 permalink:  /maximum-binary-tree/
 ---
-
-## 654. 最大二叉树 (Medium)
 
 <p>给定一个不含重复元素的整数数组。一个以此数组构建的最大二叉树定义如下：</p>
 

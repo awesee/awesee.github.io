@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "腐烂的橘子"
+title:      "994. 腐烂的橘子 (Easy)"
 date:       2018-09-21 21:30:00 +0800
 categories: [leetcode]
 tags:       [breadth-first-search]
 permalink:  /rotting-oranges/
 ---
-
-## 994. 腐烂的橘子 (Easy)
 
 <p>在给定的网格中，每个单元格可以有以下三个值之一：</p>
 
