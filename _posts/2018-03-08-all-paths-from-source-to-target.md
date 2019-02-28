@@ -1,0 +1,36 @@
+---
+layout:     single
+title:      "所有可能的路径"
+date:       2018-03-08 21:30:00 +0800
+categories: [leetcode]
+tags:       []
+permalink:  /all-paths-from-source-to-target/
+---
+
+## 797. 所有可能的路径 (Medium)
+
+<p>给一个有&nbsp;<code>n</code>&nbsp;个结点的有向无环图，找到所有从&nbsp;<code>0</code>&nbsp;到&nbsp;<code>n-1</code>&nbsp;的路径并输出（不要求按顺序）</p>
+
+<p>二维数组的第 i 个数组中的单元都表示有向图中 i 号结点所能到达的下一些结点（译者注：有向图是有方向的，即规定了a&rarr;b你就不能从b&rarr;a）空就是没有下一个结点了。</p>
+
+<pre><strong>示例:</strong>
+<strong>输入:</strong> [[1,2], [3], [3], []] 
+<strong>输出:</strong> [[0,1,3],[0,2,3]] 
+<strong>解释:</strong> 图是这样的:
+0---&gt;1
+|    |
+v    v
+2---&gt;3
+这有两条路: 0 -&gt; 1 -&gt; 3 和 0 -&gt; 2 -&gt; 3.
+</pre>
+
+<p><strong>提示:</strong></p>
+
+<ul>
+	<li>结点的数量会在范围&nbsp;<code>[2, 15]</code>&nbsp;内。</li>
+	<li>你可以把路径以任意顺序输出，但在路径内的结点的顺序必须保证。</li>
+</ul>
+
+---
+
+## [答案](https://github.com/openset/leetcode/tree/master/problems/all-paths-from-source-to-target)
