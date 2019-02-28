@@ -1,0 +1,53 @@
+---
+layout:     single
+title:      "第三大的数"
+date:       2017-02-18 21:30:00 +0800
+categories: [leetcode]
+tags:       [array]
+permalink:  /third-maximum-number/
+---
+
+## 414. 第三大的数 (Easy)
+
+<p>给定一个非空数组，返回此数组中第三大的数。如果不存在，则返回数组中最大的数。要求算法时间复杂度必须是O(n)。</p>
+
+<p><strong>示例 1:</strong></p>
+
+<pre>
+<strong>输入:</strong> [3, 2, 1]
+
+<strong>输出:</strong> 1
+
+<strong>解释:</strong> 第三大的数是 1.
+</pre>
+
+<p><strong>示例 2:</strong></p>
+
+<pre>
+<strong>输入:</strong> [1, 2]
+
+<strong>输出:</strong> 2
+
+<strong>解释:</strong> 第三大的数不存在, 所以返回最大的数 2 .
+</pre>
+
+<p><strong>示例 3:</strong></p>
+
+<pre>
+<strong>输入:</strong> [2, 2, 3, 1]
+
+<strong>输出:</strong> 1
+
+<strong>解释:</strong> 注意，要求返回第三大的数，是指第三大且唯一出现的数。
+存在两个值为2的数，它们都排第二。
+</pre>
+
+### 相关话题
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+
+### 相似题目
+  1. [数组中的第K个最大元素](/kth-largest-element-in-an-array) (Medium)
+
+---
+
+## [答案](https://github.com/openset/leetcode/tree/master/problems/third-maximum-number)
