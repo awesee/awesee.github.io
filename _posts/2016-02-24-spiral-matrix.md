@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "螺旋矩阵"
+title:      "54. 螺旋矩阵 (Medium)"
 date:       2016-02-24 21:30:00 +0800
 categories: [leetcode]
 tags:       [array]
 permalink:  /spiral-matrix/
 ---
-
-## 54. 螺旋矩阵 (Medium)
 
 <p>给定一个包含&nbsp;<em>m</em> x <em>n</em>&nbsp;个元素的矩阵（<em>m</em> 行, <em>n</em> 列），请按照顺时针螺旋顺序，返回矩阵中的所有元素。</p>
 

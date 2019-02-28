@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "和为K的子数组"
+title:      "560. 和为K的子数组 (Medium)"
 date:       2017-07-14 21:30:00 +0800
 categories: [leetcode]
 tags:       [array, hash-table]
 permalink:  /subarray-sum-equals-k/
 ---
-
-## 560. 和为K的子数组 (Medium)
 
 <p>给定一个整数数组和一个整数&nbsp;<strong>k，</strong>你需要找到该数组中和为&nbsp;<strong>k&nbsp;</strong>的连续的子数组的个数。</p>
 

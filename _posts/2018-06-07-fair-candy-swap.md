@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "公平的糖果交换"
+title:      "888. 公平的糖果交换 (Easy)"
 date:       2018-06-07 21:30:00 +0800
 categories: [leetcode]
 tags:       [array]
 permalink:  /fair-candy-swap/
 ---
-
-## 888. 公平的糖果交换 (Easy)
 
 <p>爱丽丝和鲍勃有不同大小的糖果棒：<code>A[i]</code> 是爱丽丝拥有的第 <code>i</code>&nbsp;块糖的大小，<code>B[j]</code> 是鲍勃拥有的第 <code>j</code>&nbsp;块糖的大小。</p>
 

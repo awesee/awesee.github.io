@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "累加数"
+title:      "306. 累加数 (Medium)"
 date:       2016-11-02 21:30:00 +0800
 categories: [leetcode]
 tags:       [backtracking]
 permalink:  /additive-number/
 ---
-
-## 306. 累加数 (Medium)
 
 <p>累加数是一个字符串，组成它的数字可以形成累加序列。</p>
 

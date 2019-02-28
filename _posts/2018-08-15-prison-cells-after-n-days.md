@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "N 天后的牢房"
+title:      "957. N 天后的牢房 (Medium)"
 date:       2018-08-15 21:30:00 +0800
 categories: [leetcode]
 tags:       [hash-table]
 permalink:  /prison-cells-after-n-days/
 ---
-
-## 957. N 天后的牢房 (Medium)
 
 <p>8 间牢房排成一排，每间牢房不是有人住就是空着。</p>
 

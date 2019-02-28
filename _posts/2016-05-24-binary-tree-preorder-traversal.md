@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "二叉树的前序遍历"
+title:      "144. 二叉树的前序遍历 (Medium)"
 date:       2016-05-24 21:30:00 +0800
 categories: [leetcode]
 tags:       [stack, tree]
 permalink:  /binary-tree-preorder-traversal/
 ---
-
-## 144. 二叉树的前序遍历 (Medium)
 
 <p>给定一个二叉树，返回它的&nbsp;<em>前序&nbsp;</em>遍历。</p>
 

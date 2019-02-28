@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "相交链表"
+title:      "160. 相交链表 (Easy)"
 date:       2016-06-09 21:30:00 +0800
 categories: [leetcode]
 tags:       [linked-list]
 permalink:  /intersection-of-two-linked-lists/
 ---
-
-## 160. 相交链表 (Easy)
 
 <p>编写一个程序，找到两个单链表相交的起始节点。</p>
 

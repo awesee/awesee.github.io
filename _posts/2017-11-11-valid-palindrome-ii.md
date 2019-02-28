@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "验证回文字符串 Ⅱ"
+title:      "680. 验证回文字符串 Ⅱ (Easy)"
 date:       2017-11-11 21:30:00 +0800
 categories: [leetcode]
 tags:       [string]
 permalink:  /valid-palindrome-ii/
 ---
-
-## 680. 验证回文字符串 Ⅱ (Easy)
 
 <p>给定一个非空字符串&nbsp;<code>s</code>，<strong>最多</strong>删除一个字符。判断是否能成为回文字符串。</p>
 

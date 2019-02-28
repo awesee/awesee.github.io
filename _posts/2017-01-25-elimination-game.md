@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "消除游戏"
+title:      "390. 消除游戏 (Medium)"
 date:       2017-01-25 21:30:00 +0800
 categories: [leetcode]
 tags:       []
 permalink:  /elimination-game/
 ---
-
-## 390. 消除游戏 (Medium)
 
 <p>给定一个从1 到 n 排序的整数列表。<br />
 首先，从左到右，从第一个数字开始，每隔一个数字进行删除，直到列表的末尾。<br />

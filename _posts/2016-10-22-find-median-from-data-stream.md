@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "数据流的中位数"
+title:      "295. 数据流的中位数 (Hard)"
 date:       2016-10-22 21:30:00 +0800
 categories: [leetcode]
 tags:       [heap, design]
 permalink:  /find-median-from-data-stream/
 ---
-
-## 295. 数据流的中位数 (Hard)
 
 <p>中位数是有序列表中间的数。如果列表长度是偶数，中位数则是中间两个数的平均值。</p>
 

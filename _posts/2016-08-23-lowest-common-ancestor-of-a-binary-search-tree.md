@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "二叉搜索树的最近公共祖先"
+title:      "235. 二叉搜索树的最近公共祖先 (Easy)"
 date:       2016-08-23 21:30:00 +0800
 categories: [leetcode]
 tags:       [tree]
 permalink:  /lowest-common-ancestor-of-a-binary-search-tree/
 ---
-
-## 235. 二叉搜索树的最近公共祖先 (Easy)
 
 <p>给定一个二叉搜索树, 找到该树中两个指定节点的最近公共祖先。</p>
 

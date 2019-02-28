@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "安装栅栏"
+title:      "587. 安装栅栏 (Hard)"
 date:       2017-08-10 21:30:00 +0800
 categories: [leetcode]
 tags:       [geometry]
 permalink:  /erect-the-fence/
 ---
-
-## 587. 安装栅栏 (Hard)
 
 <p>在一个二维的花园中，有一些用 (x, y) 坐标表示的树。由于安装费用十分昂贵，你的任务是先用<strong>最短</strong>的绳子围起所有的树。只有当所有的树都被绳子包围时，花园才能围好栅栏。你需要找到正好位于栅栏边界上的树的坐标。</p>
 

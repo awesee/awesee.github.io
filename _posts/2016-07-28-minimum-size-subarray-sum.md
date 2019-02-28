@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "长度最小的子数组"
+title:      "209. 长度最小的子数组 (Medium)"
 date:       2016-07-28 21:30:00 +0800
 categories: [leetcode]
 tags:       [array, two-pointers, binary-search]
 permalink:  /minimum-size-subarray-sum/
 ---
-
-## 209. 长度最小的子数组 (Medium)
 
 <p>给定一个含有&nbsp;<strong>n&nbsp;</strong>个正整数的数组和一个正整数&nbsp;<strong>s ，</strong>找出该数组中满足其和<strong> &ge; s </strong>的长度最小的连续子数组<strong>。</strong>如果不存在符合条件的连续子数组，返回 0。</p>
 

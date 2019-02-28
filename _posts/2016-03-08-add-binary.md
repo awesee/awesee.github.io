@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "二进制求和"
+title:      "67. 二进制求和 (Easy)"
 date:       2016-03-08 21:30:00 +0800
 categories: [leetcode]
 tags:       [math, string]
 permalink:  /add-binary/
 ---
-
-## 67. 二进制求和 (Easy)
 
 <p>给定两个二进制字符串，返回他们的和（用二进制表示）。</p>
 

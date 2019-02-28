@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "合并两个有序数组"
+title:      "88. 合并两个有序数组 (Easy)"
 date:       2016-03-29 21:30:00 +0800
 categories: [leetcode]
 tags:       [array, two-pointers]
 permalink:  /merge-sorted-array/
 ---
-
-## 88. 合并两个有序数组 (Easy)
 
 <p>给定两个有序整数数组&nbsp;<em>nums1 </em>和 <em>nums2</em>，将 <em>nums2 </em>合并到&nbsp;<em>nums1&nbsp;</em>中<em>，</em>使得&nbsp;<em>num1 </em>成为一个有序数组。</p>
 

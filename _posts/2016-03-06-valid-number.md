@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "有效数字"
+title:      "65. 有效数字 (Hard)"
 date:       2016-03-06 21:30:00 +0800
 categories: [leetcode]
 tags:       [math, string]
 permalink:  /valid-number/
 ---
-
-## 65. 有效数字 (Hard)
 
 <p>验证给定的字符串是否为数字。</p>
 

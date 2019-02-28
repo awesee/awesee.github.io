@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "最长上升子序列"
+title:      "300. 最长上升子序列 (Medium)"
 date:       2016-10-27 21:30:00 +0800
 categories: [leetcode]
 tags:       [binary-search, dynamic-programming]
 permalink:  /longest-increasing-subsequence/
 ---
-
-## 300. 最长上升子序列 (Medium)
 
 <p>给定一个无序的整数数组，找到其中最长上升子序列的长度。</p>
 

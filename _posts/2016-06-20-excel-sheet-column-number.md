@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "Excel表列序号"
+title:      "171. Excel表列序号 (Easy)"
 date:       2016-06-20 21:30:00 +0800
 categories: [leetcode]
 tags:       [math]
 permalink:  /excel-sheet-column-number/
 ---
-
-## 171. Excel表列序号 (Easy)
 
 <p>给定一个Excel表格中的列名称，返回其相应的列序号。</p>
 

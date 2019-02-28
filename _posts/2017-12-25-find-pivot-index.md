@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "寻找数组的中心索引"
+title:      "724. 寻找数组的中心索引 (Easy)"
 date:       2017-12-25 21:30:00 +0800
 categories: [leetcode]
 tags:       [array]
 permalink:  /find-pivot-index/
 ---
-
-## 724. 寻找数组的中心索引 (Easy)
 
 <p>给定一个整数类型的数组&nbsp;<code>nums</code>，请编写一个能够返回数组<strong>&ldquo;中心索引&rdquo;</strong>的方法。</p>
 

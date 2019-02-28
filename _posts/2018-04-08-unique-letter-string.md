@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "独特字符串"
+title:      "828. 独特字符串 (Hard)"
 date:       2018-04-08 21:30:00 +0800
 categories: [leetcode]
 tags:       [two-pointers]
 permalink:  /unique-letter-string/
 ---
-
-## 828. 独特字符串 (Hard)
 
 <p>如果一个字符在字符串&nbsp;<code>S</code>&nbsp;中有且仅有出现一次，那么我们称其为独特字符。</p>
 

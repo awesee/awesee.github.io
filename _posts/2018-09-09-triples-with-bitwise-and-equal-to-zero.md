@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "按位与为零的三元组"
+title:      "982. 按位与为零的三元组 (Hard)"
 date:       2018-09-09 21:30:00 +0800
 categories: [leetcode]
 tags:       [dynamic-programming]
 permalink:  /triples-with-bitwise-and-equal-to-zero/
 ---
-
-## 982. 按位与为零的三元组 (Hard)
 
 <p>给定一个整数数组&nbsp;<code>A</code>，找出索引为 (i, j, k) 的三元组，使得：</p>
 

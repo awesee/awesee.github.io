@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "子序列宽度之和"
+title:      "891. 子序列宽度之和 (Hard)"
 date:       2018-06-10 21:30:00 +0800
 categories: [leetcode]
 tags:       [array, math]
 permalink:  /sum-of-subsequence-widths/
 ---
-
-## 891. 子序列宽度之和 (Hard)
 
 <p>给定一个整数数组 <code>A</code> ，考虑 <code>A</code> 的所有非空子序列。</p>
 

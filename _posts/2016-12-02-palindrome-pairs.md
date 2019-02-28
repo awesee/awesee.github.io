@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "回文对"
+title:      "336. 回文对 (Hard)"
 date:       2016-12-02 21:30:00 +0800
 categories: [leetcode]
 tags:       [trie, hash-table, string]
 permalink:  /palindrome-pairs/
 ---
-
-## 336. 回文对 (Hard)
 
 <p>给定一组<strong>唯一</strong>的单词， 找出所有<strong><em>不同&nbsp;</em></strong>的索引对<code>(i, j)</code>，使得列表中的两个单词，&nbsp;<code>words[i] + words[j]</code>&nbsp;，可拼接成回文串。</p>
 

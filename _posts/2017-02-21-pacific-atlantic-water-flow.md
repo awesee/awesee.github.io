@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "太平洋大西洋水流问题"
+title:      "417. 太平洋大西洋水流问题 (Medium)"
 date:       2017-02-21 21:30:00 +0800
 categories: [leetcode]
 tags:       [depth-first-search, breadth-first-search]
 permalink:  /pacific-atlantic-water-flow/
 ---
-
-## 417. 太平洋大西洋水流问题 (Medium)
 
 <p>给定一个 <code>m x n</code> 的非负整数矩阵来表示一片大陆上各个单元格的高度。&ldquo;太平洋&rdquo;处于大陆的左边界和上边界，而&ldquo;大西洋&rdquo;处于大陆的右边界和下边界。</p>
 

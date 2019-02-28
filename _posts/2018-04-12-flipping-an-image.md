@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "翻转图像"
+title:      "832. 翻转图像 (Easy)"
 date:       2018-04-12 21:30:00 +0800
 categories: [leetcode]
 tags:       [array]
 permalink:  /flipping-an-image/
 ---
-
-## 832. 翻转图像 (Easy)
 
 <p>给定一个二进制矩阵&nbsp;<code>A</code>，我们想先水平翻转图像，然后反转图像并返回结果。</p>
 

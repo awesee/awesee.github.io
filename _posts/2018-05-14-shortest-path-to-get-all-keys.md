@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "获取所有钥匙的最短路径"
+title:      "864. 获取所有钥匙的最短路径 (Hard)"
 date:       2018-05-14 21:30:00 +0800
 categories: [leetcode]
 tags:       [heap, breadth-first-search]
 permalink:  /shortest-path-to-get-all-keys/
 ---
-
-## 864. 获取所有钥匙的最短路径 (Hard)
 
 <p>给定一个二维网格&nbsp;<code>grid</code>。&nbsp;<code>&quot;.&quot;</code>&nbsp;代表一个空房间，&nbsp;<code>&quot;#&quot;</code>&nbsp;代表一堵墙，&nbsp;<code>&quot;@&quot;</code>&nbsp;是起点，（<code>&quot;a&quot;</code>,&nbsp;<code>&quot;b&quot;</code>, ...）代表钥匙，（<code>&quot;A&quot;</code>,&nbsp;<code>&quot;B&quot;</code>, ...）代表锁。</p>
 

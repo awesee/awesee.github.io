@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "子数组按位或操作"
+title:      "898. 子数组按位或操作 (Medium)"
 date:       2018-06-17 21:30:00 +0800
 categories: [leetcode]
 tags:       [bit-manipulation, dynamic-programming]
 permalink:  /bitwise-ors-of-subarrays/
 ---
-
-## 898. 子数组按位或操作 (Medium)
 
 <p>我们有一个非负整数数组&nbsp;<code>A</code>。</p>
 

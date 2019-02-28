@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "从不订购的客户"
+title:      "183. 从不订购的客户 (Easy)"
 date:       2016-07-02 21:30:00 +0800
 categories: [leetcode]
 tags:       []
 permalink:  /customers-who-never-order/
 ---
-
-## 183. 从不订购的客户 (Easy)
 
 <p>某网站包含两个表，<code>Customers</code> 表和 <code>Orders</code> 表。编写一个 SQL 查询，找出所有从不订购任何东西的客户。</p>
 

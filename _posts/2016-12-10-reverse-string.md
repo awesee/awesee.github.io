@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "反转字符串"
+title:      "344. 反转字符串 (Easy)"
 date:       2016-12-10 21:30:00 +0800
 categories: [leetcode]
 tags:       [two-pointers, string]
 permalink:  /reverse-string/
 ---
-
-## 344. 反转字符串 (Easy)
 
 <p>编写一个函数，其作用是将输入的字符串反转过来。输入字符串以字符数组 <code>char[]</code> 的形式给出。</p>
 

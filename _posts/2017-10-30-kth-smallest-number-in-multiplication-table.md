@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "乘法表中第k小的数"
+title:      "668. 乘法表中第k小的数 (Hard)"
 date:       2017-10-30 21:30:00 +0800
 categories: [leetcode]
 tags:       [binary-search]
 permalink:  /kth-smallest-number-in-multiplication-table/
 ---
-
-## 668. 乘法表中第k小的数 (Hard)
 
 <p>几乎每一个人都用&nbsp;<a href="https://baike.baidu.com/item/%E4%B9%98%E6%B3%95%E8%A1%A8">乘法表</a>。但是你能在乘法表中快速找到第<code>k</code>小的数字吗？</p>
 

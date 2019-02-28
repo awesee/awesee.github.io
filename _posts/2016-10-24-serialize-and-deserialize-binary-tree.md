@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "二叉树的序列化与反序列化"
+title:      "297. 二叉树的序列化与反序列化 (Hard)"
 date:       2016-10-24 21:30:00 +0800
 categories: [leetcode]
 tags:       [tree, design]
 permalink:  /serialize-and-deserialize-binary-tree/
 ---
-
-## 297. 二叉树的序列化与反序列化 (Hard)
 
 <p>序列化是将一个数据结构或者对象转换为连续的比特位的操作，进而可以将转换后的数据存储在一个文件或者内存中，同时也可以通过网络传输到另一个计算机环境，采取相反方式重构得到原数据。</p>
 

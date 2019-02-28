@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "链表的中间结点"
+title:      "876. 链表的中间结点 (Easy)"
 date:       2018-05-26 21:30:00 +0800
 categories: [leetcode]
 tags:       [linked-list]
 permalink:  /middle-of-the-linked-list/
 ---
-
-## 876. 链表的中间结点 (Easy)
 
 <p>给定一个带有头结点&nbsp;<code>head</code>&nbsp;的非空单链表，返回链表的中间结点。</p>
 

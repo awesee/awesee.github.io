@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "接雨水"
+title:      "42. 接雨水 (Hard)"
 date:       2016-02-12 21:30:00 +0800
 categories: [leetcode]
 tags:       [stack, array, two-pointers]
 permalink:  /trapping-rain-water/
 ---
-
-## 42. 接雨水 (Hard)
 
 <p>给定&nbsp;<em>n</em> 个非负整数表示每个宽度为 1 的柱子的高度图，计算按此排列的柱子，下雨之后能接多少雨水。</p>
 

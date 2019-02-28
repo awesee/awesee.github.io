@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "基本计算器"
+title:      "224. 基本计算器 (Hard)"
 date:       2016-08-12 21:30:00 +0800
 categories: [leetcode]
 tags:       [stack, math]
 permalink:  /basic-calculator/
 ---
-
-## 224. 基本计算器 (Hard)
 
 <p>实现一个基本的计算器来计算一个简单的字符串表达式的值。</p>
 

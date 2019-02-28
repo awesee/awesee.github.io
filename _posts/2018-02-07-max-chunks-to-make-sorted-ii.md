@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "最多能完成排序的块 II"
+title:      "768. 最多能完成排序的块 II (Hard)"
 date:       2018-02-07 21:30:00 +0800
 categories: [leetcode]
 tags:       [array]
 permalink:  /max-chunks-to-make-sorted-ii/
 ---
-
-## 768. 最多能完成排序的块 II (Hard)
 
 <p><em>这个问题和&ldquo;最多能完成排序的块&rdquo;相似，但给定数组中的元素可以重复，输入数组最大长度为<code>2000</code>，其中的元素最大为<code>10**8</code>。</em></p>
 

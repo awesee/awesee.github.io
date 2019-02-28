@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "用 Rand7() 实现 Rand10()"
+title:      "470. 用 Rand7() 实现 Rand10() (Medium)"
 date:       2017-04-15 21:30:00 +0800
 categories: [leetcode]
 tags:       [random, rejection-sampling]
 permalink:  /implement-rand10-using-rand7/
 ---
-
-## 470. 用 Rand7() 实现 Rand10() (Medium)
 
 <p>已有方法&nbsp;<code>rand7</code>&nbsp;可生成 1 到 7 范围内的均匀随机整数，试写一个方法&nbsp;<code>rand10</code>&nbsp;生成 1 到 10 范围内的均匀随机整数。</p>
 

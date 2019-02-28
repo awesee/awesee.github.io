@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "组合总和 Ⅳ"
+title:      "377. 组合总和 Ⅳ (Medium)"
 date:       2017-01-12 21:30:00 +0800
 categories: [leetcode]
 tags:       [dynamic-programming]
 permalink:  /combination-sum-iv/
 ---
-
-## 377. 组合总和 Ⅳ (Medium)
 
 <p>给定一个由正整数组成且不存在重复数字的数组，找出和为给定目标正整数的组合的个数。</p>
 

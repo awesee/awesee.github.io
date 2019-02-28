@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "字典序的第K小数字"
+title:      "440. 字典序的第K小数字 (Hard)"
 date:       2017-03-16 21:30:00 +0800
 categories: [leetcode]
 tags:       []
 permalink:  /k-th-smallest-in-lexicographical-order/
 ---
-
-## 440. 字典序的第K小数字 (Hard)
 
 <p>给定整数&nbsp;<code>n</code>&nbsp;和&nbsp;<code>k</code>，找到&nbsp;<code>1</code>&nbsp;到&nbsp;<code>n</code>&nbsp;中字典序第&nbsp;<code>k</code>&nbsp;小的数字。</p>
 

@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "有效的正方形"
+title:      "593. 有效的正方形 (Medium)"
 date:       2017-08-16 21:30:00 +0800
 categories: [leetcode]
 tags:       [math]
 permalink:  /valid-square/
 ---
-
-## 593. 有效的正方形 (Medium)
 
 <p>给定二维空间中四点的坐标，返回四点是否可以构造一个正方形。</p>
 

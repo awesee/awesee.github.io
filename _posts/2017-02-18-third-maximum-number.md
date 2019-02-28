@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "第三大的数"
+title:      "414. 第三大的数 (Easy)"
 date:       2017-02-18 21:30:00 +0800
 categories: [leetcode]
 tags:       [array]
 permalink:  /third-maximum-number/
 ---
-
-## 414. 第三大的数 (Easy)
 
 <p>给定一个非空数组，返回此数组中第三大的数。如果不存在，则返回数组中最大的数。要求算法时间复杂度必须是O(n)。</p>
 

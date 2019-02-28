@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "矩阵中的幻方"
+title:      "840. 矩阵中的幻方 (Easy)"
 date:       2018-04-20 21:30:00 +0800
 categories: [leetcode]
 tags:       [array]
 permalink:  /magic-squares-in-grid/
 ---
-
-## 840. 矩阵中的幻方 (Easy)
 
 <p>3 x 3 的幻方是一个填充有<strong>从 1 到 9</strong> 的不同数字的 3 x 3 矩阵，其中每行，每列以及两条对角线上的各数之和都相等。</p>
 

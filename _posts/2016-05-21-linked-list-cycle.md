@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "环形链表"
+title:      "141. 环形链表 (Easy)"
 date:       2016-05-21 21:30:00 +0800
 categories: [leetcode]
 tags:       [linked-list, two-pointers]
 permalink:  /linked-list-cycle/
 ---
-
-## 141. 环形链表 (Easy)
 
 <p>给定一个链表，判断链表中是否有环。</p>
 

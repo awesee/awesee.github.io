@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "二维区域和检索 - 矩阵不可变"
+title:      "304. 二维区域和检索 - 矩阵不可变 (Medium)"
 date:       2016-10-31 21:30:00 +0800
 categories: [leetcode]
 tags:       [dynamic-programming]
 permalink:  /range-sum-query-2d-immutable/
 ---
-
-## 304. 二维区域和检索 - 矩阵不可变 (Medium)
 
 <p>给定一个二维矩阵，计算其子矩形范围内元素的总和，该子矩阵的左上角为 (<em>row</em>1,&nbsp;<em>col</em>1) ，右下角为 (<em>row</em>2,&nbsp;<em>col</em>2)。</p>
 

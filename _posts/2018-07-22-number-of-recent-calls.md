@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "最近的请求次数"
+title:      "933. 最近的请求次数 (Easy)"
 date:       2018-07-22 21:30:00 +0800
 categories: [leetcode]
 tags:       [queue]
 permalink:  /number-of-recent-calls/
 ---
-
-## 933. 最近的请求次数 (Easy)
 
 <p>写一个&nbsp;<code>RecentCounter</code>&nbsp;类来计算最近的请求。</p>
 

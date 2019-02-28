@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "模拟行走机器人"
+title:      "874. 模拟行走机器人 (Easy)"
 date:       2018-05-24 21:30:00 +0800
 categories: [leetcode]
 tags:       [greedy]
 permalink:  /walking-robot-simulation/
 ---
-
-## 874. 模拟行走机器人 (Easy)
 
 <p>机器人在一个无限大小的网格上行走，从点&nbsp;(0, 0) 处开始出发，面向北方。该机器人可以接收以下三种类型的命令：</p>
 

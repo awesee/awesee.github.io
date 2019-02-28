@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "回文素数"
+title:      "866. 回文素数 (Medium)"
 date:       2018-05-16 21:30:00 +0800
 categories: [leetcode]
 tags:       [math]
 permalink:  /prime-palindrome/
 ---
-
-## 866. 回文素数 (Medium)
 
 <p>求出大于或等于&nbsp;<code>N</code>&nbsp;的最小回文素数。</p>
 

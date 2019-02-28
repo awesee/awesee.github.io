@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "找到字符串中所有字母异位词"
+title:      "438. 找到字符串中所有字母异位词 (Easy)"
 date:       2017-03-14 21:30:00 +0800
 categories: [leetcode]
 tags:       [hash-table]
 permalink:  /find-all-anagrams-in-a-string/
 ---
-
-## 438. 找到字符串中所有字母异位词 (Easy)
 
 <p>给定一个字符串&nbsp;<strong>s&nbsp;</strong>和一个非空字符串&nbsp;<strong>p</strong>，找到&nbsp;<strong>s&nbsp;</strong>中所有是&nbsp;<strong>p&nbsp;</strong>的字母异位词的子串，返回这些子串的起始索引。</p>
 

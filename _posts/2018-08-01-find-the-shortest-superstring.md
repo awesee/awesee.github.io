@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "最短超级串"
+title:      "943. 最短超级串 (Hard)"
 date:       2018-08-01 21:30:00 +0800
 categories: [leetcode]
 tags:       [dynamic-programming]
 permalink:  /find-the-shortest-superstring/
 ---
-
-## 943. 最短超级串 (Hard)
 
 <p>给定一个字符串数组 <code>A</code>，找到以&nbsp;<code>A</code>&nbsp;中每个字符串作为子字符串的最短字符串。</p>
 

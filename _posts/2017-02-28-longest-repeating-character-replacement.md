@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "替换后的最长重复字符"
+title:      "424. 替换后的最长重复字符 (Medium)"
 date:       2017-02-28 21:30:00 +0800
 categories: [leetcode]
 tags:       []
 permalink:  /longest-repeating-character-replacement/
 ---
-
-## 424. 替换后的最长重复字符 (Medium)
 
 <p>给你一个仅由大写英文字母组成的字符串，你可以将任意位置上的字符替换成另外的字符，总共可最多替换&nbsp;<em>k&nbsp;</em>次。在执行上述操作后，找到包含重复字母的最长子串的长度。</p>
 

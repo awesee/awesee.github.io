@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "索引处的解码字符串"
+title:      "880. 索引处的解码字符串 (Medium)"
 date:       2018-05-30 21:30:00 +0800
 categories: [leetcode]
 tags:       [stack]
 permalink:  /decoded-string-at-index/
 ---
-
-## 880. 索引处的解码字符串 (Medium)
 
 <p>给定一个编码字符串 <code>S</code>。为了找出<em>解码</em>字符串并将其写入磁带，从编码字符串中<code>每次读取一个字符</code>，并采取以下步骤：</p>
 

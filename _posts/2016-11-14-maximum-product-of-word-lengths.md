@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "最大单词长度乘积"
+title:      "318. 最大单词长度乘积 (Medium)"
 date:       2016-11-14 21:30:00 +0800
 categories: [leetcode]
 tags:       [bit-manipulation]
 permalink:  /maximum-product-of-word-lengths/
 ---
-
-## 318. 最大单词长度乘积 (Medium)
 
 <p>给定一个字符串数组&nbsp;<code>words</code>，找到&nbsp;<code>length(word[i]) * length(word[j])</code>&nbsp;的最大值，并且这两个单词不含有公共字母。你可以认为每个单词只包含小写字母。如果不存在这样的两个单词，返回 0。</p>
 

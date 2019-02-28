@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "最长连续递增序列"
+title:      "674. 最长连续递增序列 (Easy)"
 date:       2017-11-05 21:30:00 +0800
 categories: [leetcode]
 tags:       [array]
 permalink:  /longest-continuous-increasing-subsequence/
 ---
-
-## 674. 最长连续递增序列 (Easy)
 
 <p>给定一个未经排序的整数数组，找到最长且<strong>连续</strong>的的递增序列。</p>
 

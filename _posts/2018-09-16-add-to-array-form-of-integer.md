@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "数组形式的整数加法"
+title:      "989. 数组形式的整数加法 (Easy)"
 date:       2018-09-16 21:30:00 +0800
 categories: [leetcode]
 tags:       [array]
 permalink:  /add-to-array-form-of-integer/
 ---
-
-## 989. 数组形式的整数加法 (Easy)
 
 <p>对于非负整数&nbsp;<code>X</code>&nbsp;而言，<em><code>X</code></em>&nbsp;的<em>数组形式</em>是每位数字按从左到右的顺序形成的数组。例如，如果&nbsp;<code>X = 1231</code>，那么其数组形式为&nbsp;<code>[1,2,3,1]</code>。</p>
 

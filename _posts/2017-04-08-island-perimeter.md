@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "岛屿的周长"
+title:      "463. 岛屿的周长 (Easy)"
 date:       2017-04-08 21:30:00 +0800
 categories: [leetcode]
 tags:       [hash-table]
 permalink:  /island-perimeter/
 ---
-
-## 463. 岛屿的周长 (Easy)
 
 <p>给定一个包含 0 和 1 的二维网格地图，其中 1 表示陆地&nbsp;0 表示水域。</p>
 

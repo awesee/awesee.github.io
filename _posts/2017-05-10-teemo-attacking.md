@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "提莫攻击"
+title:      "495. 提莫攻击 (Medium)"
 date:       2017-05-10 21:30:00 +0800
 categories: [leetcode]
 tags:       [array]
 permalink:  /teemo-attacking/
 ---
-
-## 495. 提莫攻击 (Medium)
 
 <p>在《英雄联盟》的世界中，有一个叫 &ldquo;提莫&rdquo; 的英雄，他的攻击可以让敌方英雄艾希（编者注：寒冰射手）进入中毒状态。现在，给出提莫对艾希的攻击时间序列和提莫攻击的中毒持续时间，你需要输出艾希的中毒状态总时长。</p>
 

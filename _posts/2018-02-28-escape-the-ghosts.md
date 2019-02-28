@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "逃脱阻碍者"
+title:      "789. 逃脱阻碍者 (Medium)"
 date:       2018-02-28 21:30:00 +0800
 categories: [leetcode]
 tags:       [math]
 permalink:  /escape-the-ghosts/
 ---
-
-## 789. 逃脱阻碍者 (Medium)
 
 <p>你在进行一个简化版的吃豆人游戏。你从&nbsp;<code>(0, 0)</code>&nbsp;点开始出发，你的目的地是&nbsp;<code>(target[0], target[1])</code>&nbsp;。地图上有一些阻碍者，第 i 个阻碍者从&nbsp;<code>(ghosts[i][0], ghosts[i][1])</code>&nbsp;出发。</p>
 

@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "二叉树的坡度"
+title:      "563. 二叉树的坡度 (Easy)"
 date:       2017-07-17 21:30:00 +0800
 categories: [leetcode]
 tags:       [tree]
 permalink:  /binary-tree-tilt/
 ---
-
-## 563. 二叉树的坡度 (Easy)
 
 <p>给定一个二叉树，计算<strong>整个树</strong>的坡度。</p>
 

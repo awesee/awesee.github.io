@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "设计循环双端队列"
+title:      "641. 设计循环双端队列 (Medium)"
 date:       2017-10-03 21:30:00 +0800
 categories: [leetcode]
 tags:       [design, queue]
 permalink:  /design-circular-deque/
 ---
-
-## 641. 设计循环双端队列 (Medium)
 
 <p>设计实现双端队列。<br>
 你的实现需要支持以下操作：</p>

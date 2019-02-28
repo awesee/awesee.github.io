@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "车的可用捕获量"
+title:      "999. 车的可用捕获量 (Easy)"
 date:       2018-09-26 21:30:00 +0800
 categories: [leetcode]
 tags:       [array]
 permalink:  /available-captures-for-rook/
 ---
-
-## 999. 车的可用捕获量 (Easy)
 
 <p>在一个 8 x 8 的棋盘上，有一个白色车（rook）。也可能有空方块，白色的象（bishop）和黑色的卒（pawn）。它们分别以字符 &ldquo;R&rdquo;，&ldquo;.&rdquo;，&ldquo;B&rdquo; 和 &ldquo;p&rdquo; 给出。大写字符表示白棋，小写字符表示黑棋。</p>
 

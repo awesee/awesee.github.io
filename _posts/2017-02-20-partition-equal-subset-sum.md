@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "分割等和子集"
+title:      "416. 分割等和子集 (Medium)"
 date:       2017-02-20 21:30:00 +0800
 categories: [leetcode]
 tags:       [dynamic-programming]
 permalink:  /partition-equal-subset-sum/
 ---
-
-## 416. 分割等和子集 (Medium)
 
 <p>给定一个<strong>只包含正整数</strong>的<strong>非空</strong>数组。是否可以将这个数组分割成两个子集，使得两个子集的元素和相等。</p>
 

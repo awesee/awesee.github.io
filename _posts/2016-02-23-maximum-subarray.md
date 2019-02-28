@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "最大子序和"
+title:      "53. 最大子序和 (Easy)"
 date:       2016-02-23 21:30:00 +0800
 categories: [leetcode]
 tags:       [array, divide-and-conquer, dynamic-programming]
 permalink:  /maximum-subarray/
 ---
-
-## 53. 最大子序和 (Easy)
 
 <p>给定一个整数数组 <code>nums</code>&nbsp;，找到一个具有最大和的连续子数组（子数组最少包含一个元素），返回其最大和。</p>
 

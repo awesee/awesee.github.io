@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "数组的均值分割"
+title:      "805. 数组的均值分割 (Hard)"
 date:       2018-03-16 21:30:00 +0800
 categories: [leetcode]
 tags:       [math]
 permalink:  /split-array-with-same-average/
 ---
-
-## 805. 数组的均值分割 (Hard)
 
 <p>给定的整数数组 A ，我们要将 A数组 中的每个元素移动到 B数组 或者 C数组中。（B数组和C数组在开始的时候都为空）</p>
 

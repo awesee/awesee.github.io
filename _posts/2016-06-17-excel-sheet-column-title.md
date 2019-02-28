@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "Excel表列名称"
+title:      "168. Excel表列名称 (Easy)"
 date:       2016-06-17 21:30:00 +0800
 categories: [leetcode]
 tags:       [math]
 permalink:  /excel-sheet-column-title/
 ---
-
-## 168. Excel表列名称 (Easy)
 
 <p>给定一个正整数，返回它在 Excel 表中相对应的列名称。</p>
 

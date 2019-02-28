@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "二叉树的中序遍历"
+title:      "94. 二叉树的中序遍历 (Medium)"
 date:       2016-04-04 21:30:00 +0800
 categories: [leetcode]
 tags:       [stack, tree, hash-table]
 permalink:  /binary-tree-inorder-traversal/
 ---
-
-## 94. 二叉树的中序遍历 (Medium)
 
 <p>给定一个二叉树，返回它的<em>中序&nbsp;</em>遍历。</p>
 

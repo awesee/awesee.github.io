@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "在线选举"
+title:      "911. 在线选举 (Medium)"
 date:       2018-06-30 21:30:00 +0800
 categories: [leetcode]
 tags:       [binary-search]
 permalink:  /online-election/
 ---
-
-## 911. 在线选举 (Medium)
 
 <p>在选举中，第&nbsp;<code>i</code>&nbsp;张票是在时间为&nbsp;<code>times[i]</code>&nbsp;时投给&nbsp;<code>persons[i]</code>&nbsp;的。</p>
 

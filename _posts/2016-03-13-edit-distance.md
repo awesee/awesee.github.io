@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "编辑距离"
+title:      "72. 编辑距离 (Hard)"
 date:       2016-03-13 21:30:00 +0800
 categories: [leetcode]
 tags:       [string, dynamic-programming]
 permalink:  /edit-distance/
 ---
-
-## 72. 编辑距离 (Hard)
 
 <p>给定两个单词&nbsp;<em>word1</em> 和&nbsp;<em>word2</em>，计算出将&nbsp;<em>word1</em>&nbsp;转换成&nbsp;<em>word2 </em>所使用的最少操作数&nbsp;。</p>
 

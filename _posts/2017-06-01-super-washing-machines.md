@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "超级洗衣机"
+title:      "517. 超级洗衣机 (Hard)"
 date:       2017-06-01 21:30:00 +0800
 categories: [leetcode]
 tags:       [math, dynamic-programming]
 permalink:  /super-washing-machines/
 ---
-
-## 517. 超级洗衣机 (Hard)
 
 <p>假设有 <strong>n&nbsp;</strong>台超级洗衣机放在同一排上。开始的时候，每台洗衣机内可能有一定量的衣服，也可能是空的。</p>
 

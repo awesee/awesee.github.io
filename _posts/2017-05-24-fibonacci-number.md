@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "斐波那契数"
+title:      "509. 斐波那契数 (Easy)"
 date:       2017-05-24 21:30:00 +0800
 categories: [leetcode]
 tags:       [array]
 permalink:  /fibonacci-number/
 ---
-
-## 509. 斐波那契数 (Easy)
 
 <p><strong>斐波那契数</strong>，通常用&nbsp;<code>F(n)</code> 表示，形成的序列称为<strong>斐波那契数列</strong>。该数列由&nbsp;<code>0</code> 和 <code>1</code> 开始，后面的每一项数字都是前面两项数字的和。也就是：</p>
 

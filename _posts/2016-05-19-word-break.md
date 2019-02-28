@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "单词拆分"
+title:      "139. 单词拆分 (Medium)"
 date:       2016-05-19 21:30:00 +0800
 categories: [leetcode]
 tags:       [dynamic-programming]
 permalink:  /word-break/
 ---
-
-## 139. 单词拆分 (Medium)
 
 <p>给定一个<strong>非空</strong>字符串 <em>s</em> 和一个包含<strong>非空</strong>单词列表的字典 <em>wordDict</em>，判定&nbsp;<em>s</em> 是否可以被空格拆分为一个或多个在字典中出现的单词。</p>
 

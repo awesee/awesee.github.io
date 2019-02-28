@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "链表随机节点"
+title:      "382. 链表随机节点 (Medium)"
 date:       2017-01-17 21:30:00 +0800
 categories: [leetcode]
 tags:       [reservoir-sampling]
 permalink:  /linked-list-random-node/
 ---
-
-## 382. 链表随机节点 (Medium)
 
 <p>给定一个单链表，随机选择链表的一个节点，并返回相应的节点值。保证每个节点<strong>被选的概率一样</strong>。</p>
 

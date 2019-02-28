@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "二叉树中的最大路径和"
+title:      "124. 二叉树中的最大路径和 (Hard)"
 date:       2016-05-04 21:30:00 +0800
 categories: [leetcode]
 tags:       [tree, depth-first-search]
 permalink:  /binary-tree-maximum-path-sum/
 ---
-
-## 124. 二叉树中的最大路径和 (Hard)
 
 <p>给定一个<strong>非空</strong>二叉树，返回其最大路径和。</p>
 

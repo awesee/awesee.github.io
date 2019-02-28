@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "买卖股票的最佳时机 IV"
+title:      "188. 买卖股票的最佳时机 IV (Hard)"
 date:       2016-07-07 21:30:00 +0800
 categories: [leetcode]
 tags:       [dynamic-programming]
 permalink:  /best-time-to-buy-and-sell-stock-iv/
 ---
-
-## 188. 买卖股票的最佳时机 IV (Hard)
 
 <p>给定一个数组，它的第<em> i</em> 个元素是一支给定的股票在第 <em>i </em>天的价格。</p>
 

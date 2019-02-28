@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "第 N 个神奇数字"
+title:      "878. 第 N 个神奇数字 (Hard)"
 date:       2018-05-28 21:30:00 +0800
 categories: [leetcode]
 tags:       [math, binary-search]
 permalink:  /nth-magical-number/
 ---
-
-## 878. 第 N 个神奇数字 (Hard)
 
 <p>如果正整数可以被 A 或 B 整除，那么它是神奇的。</p>
 

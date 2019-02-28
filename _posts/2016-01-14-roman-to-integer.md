@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "罗马数字转整数"
+title:      "13. 罗马数字转整数 (Easy)"
 date:       2016-01-14 21:30:00 +0800
 categories: [leetcode]
 tags:       [math, string]
 permalink:  /roman-to-integer/
 ---
-
-## 13. 罗马数字转整数 (Easy)
 
 <p>罗马数字包含以下七种字符:&nbsp;<code>I</code>，&nbsp;<code>V</code>，&nbsp;<code>X</code>，&nbsp;<code>L</code>，<code>C</code>，<code>D</code>&nbsp;和&nbsp;<code>M</code>。</p>
 

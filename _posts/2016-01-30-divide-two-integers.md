@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "两数相除"
+title:      "29. 两数相除 (Medium)"
 date:       2016-01-30 21:30:00 +0800
 categories: [leetcode]
 tags:       [math, binary-search]
 permalink:  /divide-two-integers/
 ---
-
-## 29. 两数相除 (Medium)
 
 <p>给定两个整数，被除数&nbsp;<code>dividend</code>&nbsp;和除数&nbsp;<code>divisor</code>。将两数相除，要求不使用乘法、除法和 mod 运算符。</p>
 

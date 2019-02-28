@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "最小差值 I"
+title:      "908. 最小差值 I (Easy)"
 date:       2018-06-27 21:30:00 +0800
 categories: [leetcode]
 tags:       [math]
 permalink:  /smallest-range-i/
 ---
-
-## 908. 最小差值 I (Easy)
 
 <p>给定一个整数数组 <code>A</code>，对于每个整数 <code>A[i]</code>，我们可以选择任意&nbsp;<code>x</code> 满足&nbsp;<code>-K &lt;= x &lt;= K</code>，并将&nbsp;<code>x</code>&nbsp;加到&nbsp;<code>A[i]</code>&nbsp;中。</p>
 

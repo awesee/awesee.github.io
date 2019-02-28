@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "删除链表中的节点"
+title:      "237. 删除链表中的节点 (Easy)"
 date:       2016-08-25 21:30:00 +0800
 categories: [leetcode]
 tags:       [linked-list]
 permalink:  /delete-node-in-a-linked-list/
 ---
-
-## 237. 删除链表中的节点 (Easy)
 
 <p>请编写一个函数，使其可以删除某个链表中给定的（非末尾）节点，你将只被给定要求被删除的节点。</p>
 

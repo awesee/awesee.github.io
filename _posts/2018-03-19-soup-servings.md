@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "分汤"
+title:      "808. 分汤 (Medium)"
 date:       2018-03-19 21:30:00 +0800
 categories: [leetcode]
 tags:       [dynamic-programming]
 permalink:  /soup-servings/
 ---
-
-## 808. 分汤 (Medium)
 
 <p>有&nbsp;A&nbsp;和&nbsp;B 两种类型的汤。一开始每种类型的汤有&nbsp;<code>N</code>&nbsp;毫升。有四种分配操作：</p>
 

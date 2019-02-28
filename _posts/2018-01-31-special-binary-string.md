@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "特殊的二进制序列"
+title:      "761. 特殊的二进制序列 (Hard)"
 date:       2018-01-31 21:30:00 +0800
 categories: [leetcode]
 tags:       [recursion, string]
 permalink:  /special-binary-string/
 ---
-
-## 761. 特殊的二进制序列 (Hard)
 
 <p>特殊的二进制序列是具有以下两个性质的二进制序列：</p>
 

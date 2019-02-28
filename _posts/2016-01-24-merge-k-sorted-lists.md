@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "合并K个排序链表"
+title:      "23. 合并K个排序链表 (Hard)"
 date:       2016-01-24 21:30:00 +0800
 categories: [leetcode]
 tags:       [heap, linked-list, divide-and-conquer]
 permalink:  /merge-k-sorted-lists/
 ---
-
-## 23. 合并K个排序链表 (Hard)
 
 <p>合并&nbsp;<em>k&nbsp;</em>个排序链表，返回合并后的排序链表。请分析和描述算法的复杂度。</p>
 

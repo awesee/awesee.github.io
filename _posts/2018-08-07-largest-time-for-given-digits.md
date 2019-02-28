@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "给定数字能组成的最大时间"
+title:      "949. 给定数字能组成的最大时间 (Easy)"
 date:       2018-08-07 21:30:00 +0800
 categories: [leetcode]
 tags:       [math]
 permalink:  /largest-time-for-given-digits/
 ---
-
-## 949. 给定数字能组成的最大时间 (Easy)
 
 <p>给定一个由 4 位数字组成的数组，返回可以设置的符合 24 小时制的最大时间。</p>
 

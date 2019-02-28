@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "计算各个位数不同的数字个数"
+title:      "357. 计算各个位数不同的数字个数 (Medium)"
 date:       2016-12-23 21:30:00 +0800
 categories: [leetcode]
 tags:       [math, dynamic-programming, backtracking]
 permalink:  /count-numbers-with-unique-digits/
 ---
-
-## 357. 计算各个位数不同的数字个数 (Medium)
 
 <p>给定一个<strong>非负</strong>整数 n，计算各位数字都不同的数字 x 的个数，其中 0 &le; x &lt; 10<sup>n&nbsp;</sup>。</p>
 

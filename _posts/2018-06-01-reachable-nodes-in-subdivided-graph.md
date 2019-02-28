@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "细分图中的可到达结点"
+title:      "882. 细分图中的可到达结点 (Hard)"
 date:       2018-06-01 21:30:00 +0800
 categories: [leetcode]
 tags:       [heap]
 permalink:  /reachable-nodes-in-subdivided-graph/
 ---
-
-## 882. 细分图中的可到达结点 (Hard)
 
 <p>从具有&nbsp;<code>0</code> 到 <code>N-1</code> 的结点的<strong>无向</strong>图（&ldquo;原始图&rdquo;）开始，对一些边进行细分。</p>
 
