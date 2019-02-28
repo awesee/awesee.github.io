@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "N皇后 II"
+title:      "52. N皇后 II (Hard)"
 date:       2016-02-22 21:30:00 +0800
 categories: [leetcode]
 tags:       [backtracking]
 permalink:  /n-queens-ii/
 ---
-
-## 52. N皇后 II (Hard)
 
 <p><em>n&nbsp;</em>皇后问题研究的是如何将 <em>n</em>&nbsp;个皇后放置在 <em>n</em>&times;<em>n</em> 的棋盘上，并且使皇后彼此之间不能相互攻击。</p>
 

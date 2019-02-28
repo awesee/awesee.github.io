@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "删除注释"
+title:      "722. 删除注释 (Medium)"
 date:       2017-12-23 21:30:00 +0800
 categories: [leetcode]
 tags:       [string]
 permalink:  /remove-comments/
 ---
-
-## 722. 删除注释 (Medium)
 
 <p>给一个 C++ 程序，删除程序中的注释。这个程序<code>source</code>是一个数组，其中<code>source[i]</code>表示第<code>i</code>行源码。&nbsp;这表示每行源码由<code>\n</code>分隔。</p>
 

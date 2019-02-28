@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "翻转对"
+title:      "493. 翻转对 (Hard)"
 date:       2017-05-08 21:30:00 +0800
 categories: [leetcode]
 tags:       [binary-indexed-tree, segment-tree, binary-search-tree, divide-and-conquer]
 permalink:  /reverse-pairs/
 ---
-
-## 493. 翻转对 (Hard)
 
 <p>给定一个数组&nbsp;<code>nums</code>&nbsp;，如果&nbsp;<code>i &lt; j</code>&nbsp;且&nbsp;<code>nums[i] &gt; 2*nums[j]</code>&nbsp;我们就将&nbsp;<code>(i, j)</code>&nbsp;称作一个<strong><em>重要翻转对</em></strong>。</p>
 

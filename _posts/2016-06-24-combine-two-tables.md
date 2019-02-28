@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "组合两个表"
+title:      "175. 组合两个表 (Easy)"
 date:       2016-06-24 21:30:00 +0800
 categories: [leetcode]
 tags:       []
 permalink:  /combine-two-tables/
 ---
-
-## 175. 组合两个表 (Easy)
 
 <p>表1: <code>Person</code></p>
 

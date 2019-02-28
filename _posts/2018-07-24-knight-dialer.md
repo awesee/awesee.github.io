@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "骑士拨号器"
+title:      "935. 骑士拨号器 (Medium)"
 date:       2018-07-24 21:30:00 +0800
 categories: [leetcode]
 tags:       [dynamic-programming]
 permalink:  /knight-dialer/
 ---
-
-## 935. 骑士拨号器 (Medium)
 
 <p>国际象棋中的骑士可以按下图所示进行移动：</p>
 

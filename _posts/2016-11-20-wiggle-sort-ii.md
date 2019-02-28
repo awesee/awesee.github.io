@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "摆动排序 II"
+title:      "324. 摆动排序 II (Medium)"
 date:       2016-11-20 21:30:00 +0800
 categories: [leetcode]
 tags:       [sort]
 permalink:  /wiggle-sort-ii/
 ---
-
-## 324. 摆动排序 II (Medium)
 
 <p>给定一个无序的数组&nbsp;<code>nums</code>，将它重新排列成&nbsp;<code>nums[0] &lt; nums[1] &gt; nums[2] &lt; nums[3]...</code>&nbsp;的顺序。</p>
 

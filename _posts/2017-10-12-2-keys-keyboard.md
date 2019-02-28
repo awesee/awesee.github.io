@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "只有两个键的键盘"
+title:      "650. 只有两个键的键盘 (Medium)"
 date:       2017-10-12 21:30:00 +0800
 categories: [leetcode]
 tags:       [dynamic-programming]
 permalink:  /2-keys-keyboard/
 ---
-
-## 650. 只有两个键的键盘 (Medium)
 
 <p>最初在一个记事本上只有一个字符 &#39;A&#39;。你每次可以对这个记事本进行两种操作：</p>
 

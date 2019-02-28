@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "基本计算器 II"
+title:      "227. 基本计算器 II (Medium)"
 date:       2016-08-15 21:30:00 +0800
 categories: [leetcode]
 tags:       [string]
 permalink:  /basic-calculator-ii/
 ---
-
-## 227. 基本计算器 II (Medium)
 
 <p>实现一个基本的计算器来计算一个简单的字符串表达式的值。</p>
 

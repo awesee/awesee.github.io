@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "最大连续1的个数"
+title:      "485. 最大连续1的个数 (Easy)"
 date:       2017-04-30 21:30:00 +0800
 categories: [leetcode]
 tags:       [array]
 permalink:  /max-consecutive-ones/
 ---
-
-## 485. 最大连续1的个数 (Easy)
 
 <p>给定一个二进制数组， 计算其中最大连续1的个数。</p>
 

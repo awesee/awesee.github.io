@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "4的幂"
+title:      "342. 4的幂 (Easy)"
 date:       2016-12-08 21:30:00 +0800
 categories: [leetcode]
 tags:       [bit-manipulation]
 permalink:  /power-of-four/
 ---
-
-## 342. 4的幂 (Easy)
 
 <p>给定一个整数 (32 位有符号整数)，请编写一个函数来判断它是否是 4&nbsp;的幂次方。</p>
 

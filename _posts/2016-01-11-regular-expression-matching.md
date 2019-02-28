@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "正则表达式匹配"
+title:      "10. 正则表达式匹配 (Hard)"
 date:       2016-01-11 21:30:00 +0800
 categories: [leetcode]
 tags:       [string, dynamic-programming, backtracking]
 permalink:  /regular-expression-matching/
 ---
-
-## 10. 正则表达式匹配 (Hard)
 
 <p>给定一个字符串&nbsp;(<code>s</code>) 和一个字符模式&nbsp;(<code>p</code>)。实现支持 <code>&#39;.&#39;</code>&nbsp;和&nbsp;<code>&#39;*&#39;</code>&nbsp;的正则表达式匹配。</p>
 

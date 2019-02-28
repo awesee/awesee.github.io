@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "“马”在棋盘上的概率"
+title:      "688. “马”在棋盘上的概率 (Medium)"
 date:       2017-11-19 21:30:00 +0800
 categories: [leetcode]
 tags:       [dynamic-programming]
 permalink:  /knight-probability-in-chessboard/
 ---
-
-## 688. “马”在棋盘上的概率 (Medium)
 
 <p>已知一个&nbsp;<code>N</code>x<code>N</code>&nbsp;的国际象棋棋盘，棋盘的行号和列号都是从 0 开始。即最左上角的格子记为&nbsp;<code>(0, 0)</code>，最右下角的记为&nbsp;<code>(N-1, N-1)</code>。&nbsp;</p>
 

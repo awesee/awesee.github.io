@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "缺失的第一个正数"
+title:      "41. 缺失的第一个正数 (Hard)"
 date:       2016-02-11 21:30:00 +0800
 categories: [leetcode]
 tags:       [array]
 permalink:  /first-missing-positive/
 ---
-
-## 41. 缺失的第一个正数 (Hard)
 
 <p>给定一个未排序的整数数组，找出其中没有出现的最小的正整数。</p>
 

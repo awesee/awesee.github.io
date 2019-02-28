@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "通配符匹配"
+title:      "44. 通配符匹配 (Hard)"
 date:       2016-02-14 21:30:00 +0800
 categories: [leetcode]
 tags:       [greedy, string, dynamic-programming, backtracking]
 permalink:  /wildcard-matching/
 ---
-
-## 44. 通配符匹配 (Hard)
 
 <p>给定一个字符串&nbsp;(<code>s</code>) 和一个字符模式&nbsp;(<code>p</code>) ，实现一个支持&nbsp;<code>&#39;?&#39;</code>&nbsp;和&nbsp;<code>&#39;*&#39;</code>&nbsp;的通配符匹配。</p>
 

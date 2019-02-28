@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "二叉树的右视图"
+title:      "199. 二叉树的右视图 (Medium)"
 date:       2016-07-18 21:30:00 +0800
 categories: [leetcode]
 tags:       [tree, depth-first-search, breadth-first-search]
 permalink:  /binary-tree-right-side-view/
 ---
-
-## 199. 二叉树的右视图 (Medium)
 
 <p>给定一棵二叉树，想象自己站在它的右侧，按照从顶部到底部的顺序，返回从右侧所能看到的节点值。</p>
 

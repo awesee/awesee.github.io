@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "扫雷游戏"
+title:      "529. 扫雷游戏 (Medium)"
 date:       2017-06-13 21:30:00 +0800
 categories: [leetcode]
 tags:       [depth-first-search, breadth-first-search]
 permalink:  /minesweeper/
 ---
-
-## 529. 扫雷游戏 (Medium)
 
 <p>让我们一起来玩扫雷游戏！</p>
 

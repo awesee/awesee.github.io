@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "逆波兰表达式求值"
+title:      "150. 逆波兰表达式求值 (Medium)"
 date:       2016-05-30 21:30:00 +0800
 categories: [leetcode]
 tags:       [stack]
 permalink:  /evaluate-reverse-polish-notation/
 ---
-
-## 150. 逆波兰表达式求值 (Medium)
 
 <p>根据<a href="https://baike.baidu.com/item/%E9%80%86%E6%B3%A2%E5%85%B0%E5%BC%8F/128437" target="_blank">逆波兰表示法</a>，求表达式的值。</p>
 

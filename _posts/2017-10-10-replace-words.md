@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "单词替换"
+title:      "648. 单词替换 (Medium)"
 date:       2017-10-10 21:30:00 +0800
 categories: [leetcode]
 tags:       [trie, hash-table]
 permalink:  /replace-words/
 ---
-
-## 648. 单词替换 (Medium)
 
 <p>在英语中，我们有一个叫做&nbsp;<code>词根</code>(root)的概念，它可以跟着其他一些词组成另一个较长的单词&mdash;&mdash;我们称这个词为&nbsp;<code>继承词</code>(successor)。例如，词根<code>an</code>，跟随着单词&nbsp;<code>other</code>(其他)，可以形成新的单词&nbsp;<code>another</code>(另一个)。</p>
 

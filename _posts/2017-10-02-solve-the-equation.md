@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "求解方程"
+title:      "640. 求解方程 (Medium)"
 date:       2017-10-02 21:30:00 +0800
 categories: [leetcode]
 tags:       [math]
 permalink:  /solve-the-equation/
 ---
-
-## 640. 求解方程 (Medium)
 
 <p>求解一个给定的方程，将<code>x</code>以字符串&quot;x=#value&quot;的形式返回。该方程仅包含&#39;+&#39;，&#39; - &#39;操作，变量&nbsp;<code>x</code>&nbsp;和其对应系数。</p>
 

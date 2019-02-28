@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "转置文件"
+title:      "194. 转置文件 (Medium)"
 date:       2016-07-13 21:30:00 +0800
 categories: [leetcode]
 tags:       []
 permalink:  /transpose-file/
 ---
-
-## 194. 转置文件 (Medium)
 
 <p>给定一个文件&nbsp;<code>file.txt</code>，转置它的内容。</p>
 

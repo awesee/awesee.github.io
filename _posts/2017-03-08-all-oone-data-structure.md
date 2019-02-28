@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "全 O(1) 的数据结构"
+title:      "432. 全 O(1) 的数据结构 (Hard)"
 date:       2017-03-08 21:30:00 +0800
 categories: [leetcode]
 tags:       [design]
 permalink:  /all-oone-data-structure/
 ---
-
-## 432. 全 O(1) 的数据结构 (Hard)
 
 <p>实现一个数据结构支持以下操作：</p>
 

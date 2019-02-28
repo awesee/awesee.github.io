@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "漂亮数组"
+title:      "932. 漂亮数组 (Medium)"
 date:       2018-07-21 21:30:00 +0800
 categories: [leetcode]
 tags:       [divide-and-conquer]
 permalink:  /beautiful-array/
 ---
-
-## 932. 漂亮数组 (Medium)
 
 <p>对于某些固定的&nbsp;<code>N</code>，如果数组&nbsp;<code>A</code>&nbsp;是整数&nbsp;<code>1, 2, ..., N</code>&nbsp;组成的排列，使得：</p>
 

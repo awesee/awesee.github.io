@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "三数之和的多种可能"
+title:      "923. 三数之和的多种可能 (Medium)"
 date:       2018-07-12 21:30:00 +0800
 categories: [leetcode]
 tags:       [two-pointers]
 permalink:  /3sum-with-multiplicity/
 ---
-
-## 923. 三数之和的多种可能 (Medium)
 
 <p>给定一个整数数组&nbsp;<code>A</code>，以及一个整数&nbsp;<code>target</code>&nbsp;作为目标值，返回满足 <code>i &lt; j &lt; k</code> 且&nbsp;<code>A[i] + A[j] + A[k] == target</code>&nbsp;的元组&nbsp;<code>i, j, k</code>&nbsp;的数量。</p>
 

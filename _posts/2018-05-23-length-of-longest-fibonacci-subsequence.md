@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "最长的斐波那契子序列的长度"
+title:      "873. 最长的斐波那契子序列的长度 (Medium)"
 date:       2018-05-23 21:30:00 +0800
 categories: [leetcode]
 tags:       [array, dynamic-programming]
 permalink:  /length-of-longest-fibonacci-subsequence/
 ---
-
-## 873. 最长的斐波那契子序列的长度 (Medium)
 
 <p>如果序列&nbsp;<code>X_1, X_2, ..., X_n</code>&nbsp;满足下列条件，就说它是&nbsp;<em>斐波那契式&nbsp;</em>的：</p>
 

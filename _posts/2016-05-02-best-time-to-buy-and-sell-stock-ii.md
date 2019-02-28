@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "买卖股票的最佳时机 II"
+title:      "122. 买卖股票的最佳时机 II (Easy)"
 date:       2016-05-02 21:30:00 +0800
 categories: [leetcode]
 tags:       [greedy, array]
 permalink:  /best-time-to-buy-and-sell-stock-ii/
 ---
-
-## 122. 买卖股票的最佳时机 II (Easy)
 
 <p>给定一个数组，它的第&nbsp;<em>i</em> 个元素是一支给定股票第 <em>i</em> 天的价格。</p>
 

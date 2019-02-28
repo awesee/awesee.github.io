@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "拼接最大数"
+title:      "321. 拼接最大数 (Hard)"
 date:       2016-11-17 21:30:00 +0800
 categories: [leetcode]
 tags:       [greedy, dynamic-programming]
 permalink:  /create-maximum-number/
 ---
-
-## 321. 拼接最大数 (Hard)
 
 <p>给定长度分别为&nbsp;<code>m</code>&nbsp;和&nbsp;<code>n</code>&nbsp;的两个数组，其元素由&nbsp;<code>0-9</code>&nbsp;构成，表示两个自然数各位上的数字。现在从这两个数组中选出 <code>k (k &lt;= m + n)</code>&nbsp;个数字拼接成一个新的数，要求从同一个数组中取出的数字保持其在原数组中的相对顺序。</p>
 

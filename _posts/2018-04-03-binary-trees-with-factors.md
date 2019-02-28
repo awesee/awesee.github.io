@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "带因子的二叉树"
+title:      "823. 带因子的二叉树 (Medium)"
 date:       2018-04-03 21:30:00 +0800
 categories: [leetcode]
 tags:       []
 permalink:  /binary-trees-with-factors/
 ---
-
-## 823. 带因子的二叉树 (Medium)
 
 <p>给出一个含有不重复整数元素的数组，每个整数均大于 1。</p>
 

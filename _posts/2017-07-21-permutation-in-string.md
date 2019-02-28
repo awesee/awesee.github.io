@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "字符串的排列"
+title:      "567. 字符串的排列 (Medium)"
 date:       2017-07-21 21:30:00 +0800
 categories: [leetcode]
 tags:       [two-pointers]
 permalink:  /permutation-in-string/
 ---
-
-## 567. 字符串的排列 (Medium)
 
 <p>给定两个字符串&nbsp;<strong>s1</strong>&nbsp;和&nbsp;<strong>s2</strong>，写一个函数来判断 <strong>s2</strong> 是否包含 <strong>s1&nbsp;</strong>的排列。</p>
 

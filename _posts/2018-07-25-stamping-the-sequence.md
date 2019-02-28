@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "戳印序列"
+title:      "936. 戳印序列 (Hard)"
 date:       2018-07-25 21:30:00 +0800
 categories: [leetcode]
 tags:       [greedy, string]
 permalink:  /stamping-the-sequence/
 ---
-
-## 936. 戳印序列 (Hard)
 
 <p>你想要用<strong>小写字母</strong>组成一个目标字符串&nbsp;<code>target</code>。&nbsp;</p>
 

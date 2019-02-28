@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "汉明距离"
+title:      "461. 汉明距离 (Easy)"
 date:       2017-04-06 21:30:00 +0800
 categories: [leetcode]
 tags:       [bit-manipulation]
 permalink:  /hamming-distance/
 ---
-
-## 461. 汉明距离 (Easy)
 
 <p>两个整数之间的<a href="https://baike.baidu.com/item/%E6%B1%89%E6%98%8E%E8%B7%9D%E7%A6%BB">汉明距离</a>指的是这两个数字对应二进制位不同的位置的数目。</p>
 

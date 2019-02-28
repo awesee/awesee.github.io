@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "求根到叶子节点数字之和"
+title:      "129. 求根到叶子节点数字之和 (Medium)"
 date:       2016-05-09 21:30:00 +0800
 categories: [leetcode]
 tags:       [tree, depth-first-search]
 permalink:  /sum-root-to-leaf-numbers/
 ---
-
-## 129. 求根到叶子节点数字之和 (Medium)
 
 <p>给定一个二叉树，它的每个结点都存放一个&nbsp;<code>0-9</code>&nbsp;的数字，每条从根到叶子节点的路径都代表一个数字。</p>
 

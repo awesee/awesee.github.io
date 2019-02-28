@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "地下城游戏"
+title:      "174. 地下城游戏 (Hard)"
 date:       2016-06-23 21:30:00 +0800
 categories: [leetcode]
 tags:       [binary-search, dynamic-programming]
 permalink:  /dungeon-game/
 ---
-
-## 174. 地下城游戏 (Hard)
 
 <p>一些恶魔抓住了公主（<strong>P</strong>）并将她关在了地下城的右下角。地下城是由&nbsp;M x N 个房间组成的二维网格。我们英勇的骑士（<strong>K</strong>）最初被安置在左上角的房间里，他必须穿过地下城并通过对抗恶魔来拯救公主。</p>
 

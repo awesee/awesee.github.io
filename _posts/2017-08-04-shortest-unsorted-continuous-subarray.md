@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "最短无序连续子数组"
+title:      "581. 最短无序连续子数组 (Easy)"
 date:       2017-08-04 21:30:00 +0800
 categories: [leetcode]
 tags:       [array]
 permalink:  /shortest-unsorted-continuous-subarray/
 ---
-
-## 581. 最短无序连续子数组 (Easy)
 
 <p>给定一个整数数组，你需要寻找一个<strong>连续的子数组</strong>，如果对这个子数组进行升序排序，那么整个数组都会变为升序排序。</p>
 

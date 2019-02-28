@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "寻找峰值"
+title:      "162. 寻找峰值 (Medium)"
 date:       2016-06-11 21:30:00 +0800
 categories: [leetcode]
 tags:       [array, binary-search]
 permalink:  /find-peak-element/
 ---
-
-## 162. 寻找峰值 (Medium)
 
 <p>峰值元素是指其值大于左右相邻值的元素。</p>
 

@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "路径总和 III"
+title:      "437. 路径总和 III (Easy)"
 date:       2017-03-13 21:30:00 +0800
 categories: [leetcode]
 tags:       [tree]
 permalink:  /path-sum-iii/
 ---
-
-## 437. 路径总和 III (Easy)
 
 <p>给定一个二叉树，它的每个结点都存放着一个整数值。</p>
 

@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "独特的电子邮件地址"
+title:      "929. 独特的电子邮件地址 (Easy)"
 date:       2018-07-18 21:30:00 +0800
 categories: [leetcode]
 tags:       [string]
 permalink:  /unique-email-addresses/
 ---
-
-## 929. 独特的电子邮件地址 (Easy)
 
 <p>每封电子邮件都由一个本地名称和一个域名组成，以 @ 符号分隔。</p>
 

@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "部门工资最高的员工"
+title:      "184. 部门工资最高的员工 (Medium)"
 date:       2016-07-03 21:30:00 +0800
 categories: [leetcode]
 tags:       []
 permalink:  /department-highest-salary/
 ---
-
-## 184. 部门工资最高的员工 (Medium)
 
 <p><code>Employee</code> 表包含所有员工信息，每个员工有其对应的&nbsp;Id, salary 和 department Id。</p>
 

@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "第N高的薪水"
+title:      "177. 第N高的薪水 (Medium)"
 date:       2016-06-26 21:30:00 +0800
 categories: [leetcode]
 tags:       []
 permalink:  /nth-highest-salary/
 ---
-
-## 177. 第N高的薪水 (Medium)
 
 <p>编写一个 SQL 查询，获取 <code>Employee</code> 表中第&nbsp;<em>n&nbsp;</em>高的薪水（Salary）。</p>
 

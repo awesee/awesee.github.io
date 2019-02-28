@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "有效三角形的个数"
+title:      "611. 有效三角形的个数 (Medium)"
 date:       2017-09-03 21:30:00 +0800
 categories: [leetcode]
 tags:       [array]
 permalink:  /valid-triangle-number/
 ---
-
-## 611. 有效三角形的个数 (Medium)
 
 <p>给定一个包含非负整数的数组，你的任务是统计其中可以组成三角形三条边的三元组个数。</p>
 

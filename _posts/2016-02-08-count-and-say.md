@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "报数"
+title:      "38. 报数 (Easy)"
 date:       2016-02-08 21:30:00 +0800
 categories: [leetcode]
 tags:       [string]
 permalink:  /count-and-say/
 ---
-
-## 38. 报数 (Easy)
 
 <p>报数序列是一个整数序列，按照其中的整数的顺序进行报数，得到下一个数。其前五项如下：</p>
 

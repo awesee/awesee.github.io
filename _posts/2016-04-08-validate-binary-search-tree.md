@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "验证二叉搜索树"
+title:      "98. 验证二叉搜索树 (Medium)"
 date:       2016-04-08 21:30:00 +0800
 categories: [leetcode]
 tags:       [tree, depth-first-search]
 permalink:  /validate-binary-search-tree/
 ---
-
-## 98. 验证二叉搜索树 (Medium)
 
 <p>给定一个二叉树，判断其是否是一个有效的二叉搜索树。</p>
 

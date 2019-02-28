@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "完全二叉树的节点个数"
+title:      "222. 完全二叉树的节点个数 (Medium)"
 date:       2016-08-10 21:30:00 +0800
 categories: [leetcode]
 tags:       [tree, binary-search]
 permalink:  /count-complete-tree-nodes/
 ---
-
-## 222. 完全二叉树的节点个数 (Medium)
 
 <p>给出一个<strong>完全二叉树</strong>，求出该树的节点个数。</p>
 

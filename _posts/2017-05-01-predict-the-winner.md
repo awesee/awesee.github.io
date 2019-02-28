@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "预测赢家"
+title:      "486. 预测赢家 (Medium)"
 date:       2017-05-01 21:30:00 +0800
 categories: [leetcode]
 tags:       [minimax, dynamic-programming]
 permalink:  /predict-the-winner/
 ---
-
-## 486. 预测赢家 (Medium)
 
 <p>给定一个表示分数的非负整数数组。 玩家1从数组任意一端拿取一个分数，随后玩家2继续从剩余数组任意一端拿取分数，然后玩家1拿，&hellip;&hellip;。每次一个玩家只能拿取一个分数，分数被拿取之后不再可取。直到没有剩余分数可取时游戏结束。最终获得分数总和最多的玩家获胜。</p>
 

@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "连续的子数组和"
+title:      "523. 连续的子数组和 (Medium)"
 date:       2017-06-07 21:30:00 +0800
 categories: [leetcode]
 tags:       [math, dynamic-programming]
 permalink:  /continuous-subarray-sum/
 ---
-
-## 523. 连续的子数组和 (Medium)
 
 <p>给定一个包含<strong>非负数</strong>的数组和一个目标<strong>整数</strong>&nbsp;k，编写一个函数来判断该数组是否含有连续的子数组，其大小至少为 2，总和为 <strong>k</strong> 的倍数，即总和为 n*k，其中 n 也是一个<strong>整数</strong>。</p>
 

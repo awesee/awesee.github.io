@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "字母大小写全排列"
+title:      "784. 字母大小写全排列 (Easy)"
 date:       2018-02-23 21:30:00 +0800
 categories: [leetcode]
 tags:       [bit-manipulation, backtracking]
 permalink:  /letter-case-permutation/
 ---
-
-## 784. 字母大小写全排列 (Easy)
 
 <p>给定一个字符串<code>S</code>，通过将字符串<code>S</code>中的每个字母转变大小写，我们可以获得一个新的字符串。返回所有可能得到的字符串集合。</p>
 

@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "恢复二叉搜索树"
+title:      "99. 恢复二叉搜索树 (Hard)"
 date:       2016-04-09 21:30:00 +0800
 categories: [leetcode]
 tags:       [tree, depth-first-search]
 permalink:  /recover-binary-search-tree/
 ---
-
-## 99. 恢复二叉搜索树 (Hard)
 
 <p>二叉搜索树中的两个节点被错误地交换。</p>
 

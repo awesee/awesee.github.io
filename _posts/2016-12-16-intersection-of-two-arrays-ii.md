@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "两个数组的交集 II"
+title:      "350. 两个数组的交集 II (Easy)"
 date:       2016-12-16 21:30:00 +0800
 categories: [leetcode]
 tags:       [sort, hash-table, two-pointers, binary-search]
 permalink:  /intersection-of-two-arrays-ii/
 ---
-
-## 350. 两个数组的交集 II (Easy)
 
 <p>给定两个数组，编写一个函数来计算它们的交集。</p>
 

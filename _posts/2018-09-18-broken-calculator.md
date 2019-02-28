@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "坏了的计算器"
+title:      "991. 坏了的计算器 (Medium)"
 date:       2018-09-18 21:30:00 +0800
 categories: [leetcode]
 tags:       [math]
 permalink:  /broken-calculator/
 ---
-
-## 991. 坏了的计算器 (Medium)
 
 <p>在显示着数字的坏计算器上，我们可以执行以下两种操作：</p>
 

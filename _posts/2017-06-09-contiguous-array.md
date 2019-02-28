@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "连续数组"
+title:      "525. 连续数组 (Medium)"
 date:       2017-06-09 21:30:00 +0800
 categories: [leetcode]
 tags:       [hash-table]
 permalink:  /contiguous-array/
 ---
-
-## 525. 连续数组 (Medium)
 
 <p>给定一个二进制数组, 找到含有相同数量的 0 和 1 的最长连续子数组（的长度）。</p>
 

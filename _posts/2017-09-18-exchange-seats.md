@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "换座位"
+title:      "626. 换座位 (Medium)"
 date:       2017-09-18 21:30:00 +0800
 categories: [leetcode]
 tags:       []
 permalink:  /exchange-seats/
 ---
-
-## 626. 换座位 (Medium)
 
 <p>小美是一所中学的信息科技老师，她有一张 <code>seat</code>&nbsp;座位表，平时用来储存学生名字和与他们相对应的座位 id。</p>
 

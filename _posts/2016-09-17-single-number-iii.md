@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "只出现一次的数字 III"
+title:      "260. 只出现一次的数字 III (Medium)"
 date:       2016-09-17 21:30:00 +0800
 categories: [leetcode]
 tags:       [bit-manipulation]
 permalink:  /single-number-iii/
 ---
-
-## 260. 只出现一次的数字 III (Medium)
 
 <p>给定一个整数数组&nbsp;<code>nums</code>，其中恰好有两个元素只出现一次，其余所有元素均出现两次。 找出只出现一次的那两个元素。</p>
 

@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "喧闹和富有"
+title:      "851. 喧闹和富有 (Medium)"
 date:       2018-05-01 21:30:00 +0800
 categories: [leetcode]
 tags:       [depth-first-search]
 permalink:  /loud-and-rich/
 ---
-
-## 851. 喧闹和富有 (Medium)
 
 <p>在一组 N 个人（编号为&nbsp;<code>0, 1, 2, ..., N-1</code>）中，每个人都有不同数目的钱，以及不同程度的安静（quietness）。</p>
 

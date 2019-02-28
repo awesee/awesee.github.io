@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "验证栈序列"
+title:      "946. 验证栈序列 (Medium)"
 date:       2018-08-04 21:30:00 +0800
 categories: [leetcode]
 tags:       [stack]
 permalink:  /validate-stack-sequences/
 ---
-
-## 946. 验证栈序列 (Medium)
 
 <p>给定&nbsp;<code>pushed</code>&nbsp;和&nbsp;<code>popped</code>&nbsp;两个序列，只有当它们可能是在最初空栈上进行的推入 push 和弹出 pop 操作序列的结果时，返回 <code>true</code>；否则，返回 <code>false</code>&nbsp;。</p>
 

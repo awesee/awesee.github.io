@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "单词的压缩编码"
+title:      "820. 单词的压缩编码 (Medium)"
 date:       2018-03-31 21:30:00 +0800
 categories: [leetcode]
 tags:       []
 permalink:  /short-encoding-of-words/
 ---
-
-## 820. 单词的压缩编码 (Medium)
 
 <p>给定一个单词列表，我们将这个列表编码成一个索引字符串&nbsp;<code>S</code>&nbsp;与一个索引列表 <code>A</code>。</p>
 

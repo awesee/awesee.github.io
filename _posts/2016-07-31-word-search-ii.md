@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "单词搜索 II"
+title:      "212. 单词搜索 II (Hard)"
 date:       2016-07-31 21:30:00 +0800
 categories: [leetcode]
 tags:       [trie, backtracking]
 permalink:  /word-search-ii/
 ---
-
-## 212. 单词搜索 II (Hard)
 
 <p>给定一个二维网格&nbsp;<strong>board&nbsp;</strong>和一个字典中的单词列表 <strong>words</strong>，找出所有同时在二维网格和字典中出现的单词。</p>
 

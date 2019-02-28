@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "最大回文数乘积"
+title:      "479. 最大回文数乘积 (Hard)"
 date:       2017-04-24 21:30:00 +0800
 categories: [leetcode]
 tags:       []
 permalink:  /largest-palindrome-product/
 ---
-
-## 479. 最大回文数乘积 (Hard)
 
 <p>你需要找到由两个 n 位数的乘积组成的最大回文数。</p>
 

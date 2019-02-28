@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "最大间距"
+title:      "164. 最大间距 (Hard)"
 date:       2016-06-13 21:30:00 +0800
 categories: [leetcode]
 tags:       [sort]
 permalink:  /maximum-gap/
 ---
-
-## 164. 最大间距 (Hard)
 
 <p>给定一个无序的数组，找出数组在排序之后，相邻元素之间最大的差值。</p>
 

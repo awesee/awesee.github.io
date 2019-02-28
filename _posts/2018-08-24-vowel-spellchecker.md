@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "元音拼写检查器"
+title:      "966. 元音拼写检查器 (Medium)"
 date:       2018-08-24 21:30:00 +0800
 categories: [leetcode]
 tags:       [hash-table, string]
 permalink:  /vowel-spellchecker/
 ---
-
-## 966. 元音拼写检查器 (Medium)
 
 <p>在给定单词列表&nbsp;<code>wordlist</code>&nbsp;的情况下，我们希望实现一个拼写检查器，将查询单词转换为正确的单词。</p>
 

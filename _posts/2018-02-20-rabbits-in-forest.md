@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "森林中的兔子"
+title:      "781. 森林中的兔子 (Medium)"
 date:       2018-02-20 21:30:00 +0800
 categories: [leetcode]
 tags:       [hash-table, math]
 permalink:  /rabbits-in-forest/
 ---
-
-## 781. 森林中的兔子 (Medium)
 
 <p>森林中，每个兔子都有颜色。其中一些兔子（可能是全部）告诉你还有多少其他的兔子和自己有相同的颜色。我们将这些回答放在&nbsp;<code>answers</code>&nbsp;数组里。</p>
 

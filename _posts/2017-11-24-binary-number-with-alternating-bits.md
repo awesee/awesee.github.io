@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "交替位二进制数"
+title:      "693. 交替位二进制数 (Easy)"
 date:       2017-11-24 21:30:00 +0800
 categories: [leetcode]
 tags:       [bit-manipulation]
 permalink:  /binary-number-with-alternating-bits/
 ---
-
-## 693. 交替位二进制数 (Easy)
 
 <p>给定一个正整数，检查他是否为交替位二进制数：换句话说，就是他的二进制数相邻的两个位数永不相等。</p>
 

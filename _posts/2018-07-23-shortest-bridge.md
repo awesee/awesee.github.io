@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "最短的桥"
+title:      "934. 最短的桥 (Medium)"
 date:       2018-07-23 21:30:00 +0800
 categories: [leetcode]
 tags:       [depth-first-search, breadth-first-search]
 permalink:  /shortest-bridge/
 ---
-
-## 934. 最短的桥 (Medium)
 
 <p>在给定的二维二进制数组&nbsp;<code>A</code>&nbsp;中，存在两座岛。（岛是由四面相连的 <code>1</code> 形成的一个最大组。）</p>
 

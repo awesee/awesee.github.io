@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "使数组唯一的最小增量"
+title:      "945. 使数组唯一的最小增量 (Medium)"
 date:       2018-08-03 21:30:00 +0800
 categories: [leetcode]
 tags:       [array]
 permalink:  /minimum-increment-to-make-array-unique/
 ---
-
-## 945. 使数组唯一的最小增量 (Medium)
 
 <p>给定整数数组 A，每次 <em>move</em> 操作将会选择任意&nbsp;<code>A[i]</code>，并将其递增&nbsp;<code>1</code>。</p>
 

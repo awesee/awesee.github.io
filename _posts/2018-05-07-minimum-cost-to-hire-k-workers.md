@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "雇佣 K 名工人的最低成本"
+title:      "857. 雇佣 K 名工人的最低成本 (Hard)"
 date:       2018-05-07 21:30:00 +0800
 categories: [leetcode]
 tags:       [heap]
 permalink:  /minimum-cost-to-hire-k-workers/
 ---
-
-## 857. 雇佣 K 名工人的最低成本 (Hard)
 
 <p>有 <code>N</code>&nbsp;名工人。&nbsp;第&nbsp;<code>i</code>&nbsp;名工人的工作质量为&nbsp;<code>quality[i]</code>&nbsp;，其最低期望工资为&nbsp;<code>wage[i]</code>&nbsp;。</p>
 

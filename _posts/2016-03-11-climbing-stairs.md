@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "爬楼梯"
+title:      "70. 爬楼梯 (Easy)"
 date:       2016-03-11 21:30:00 +0800
 categories: [leetcode]
 tags:       [dynamic-programming]
 permalink:  /climbing-stairs/
 ---
-
-## 70. 爬楼梯 (Easy)
 
 <p>假设你正在爬楼梯。需要 <em>n</em>&nbsp;阶你才能到达楼顶。</p>
 

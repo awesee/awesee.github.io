@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "变为棋盘"
+title:      "782. 变为棋盘 (Hard)"
 date:       2018-02-21 21:30:00 +0800
 categories: [leetcode]
 tags:       [array, math]
 permalink:  /transform-to-chessboard/
 ---
-
-## 782. 变为棋盘 (Hard)
 
 <p>一个 N&nbsp;x N的 <code>board</code>&nbsp;仅由&nbsp;<code>0</code>&nbsp;和&nbsp;<code>1</code>&nbsp;组成&nbsp;。每次移动，你能任意交换两列或是两行的位置。</p>
 

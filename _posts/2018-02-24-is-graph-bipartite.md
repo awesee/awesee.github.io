@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "判断二分图"
+title:      "785. 判断二分图 (Medium)"
 date:       2018-02-24 21:30:00 +0800
 categories: [leetcode]
 tags:       [depth-first-search, breadth-first-search, graph]
 permalink:  /is-graph-bipartite/
 ---
-
-## 785. 判断二分图 (Medium)
 
 <p>给定一个无向图<code>graph</code>，当这个图为二分图时返回<code>true</code>。</p>
 

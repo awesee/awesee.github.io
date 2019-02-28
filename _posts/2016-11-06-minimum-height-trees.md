@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "最小高度树"
+title:      "310. 最小高度树 (Medium)"
 date:       2016-11-06 21:30:00 +0800
 categories: [leetcode]
 tags:       [breadth-first-search, graph]
 permalink:  /minimum-height-trees/
 ---
-
-## 310. 最小高度树 (Medium)
 
 <p>对于一个具有树特征的无向图，我们可选择任何一个节点作为根。图因此可以成为树，在所有可能的树中，具有最小高度的树被称为最小高度树。给出这样的一个图，写出一个函数找到所有的最小高度树并返回他们的根节点。</p>
 

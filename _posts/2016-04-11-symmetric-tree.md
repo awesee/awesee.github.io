@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "对称二叉树"
+title:      "101. 对称二叉树 (Easy)"
 date:       2016-04-11 21:30:00 +0800
 categories: [leetcode]
 tags:       [tree, depth-first-search, breadth-first-search]
 permalink:  /symmetric-tree/
 ---
-
-## 101. 对称二叉树 (Easy)
 
 <p>给定一个二叉树，检查它是否是镜像对称的。</p>
 

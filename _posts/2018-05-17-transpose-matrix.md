@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "转置矩阵"
+title:      "867. 转置矩阵 (Easy)"
 date:       2018-05-17 21:30:00 +0800
 categories: [leetcode]
 tags:       [array]
 permalink:  /transpose-matrix/
 ---
-
-## 867. 转置矩阵 (Easy)
 
 <p>给定一个矩阵&nbsp;<code>A</code>，&nbsp;返回&nbsp;<code>A</code>&nbsp;的转置矩阵。</p>
 

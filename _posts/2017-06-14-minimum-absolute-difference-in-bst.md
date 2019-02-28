@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "二叉搜索树的最小绝对差"
+title:      "530. 二叉搜索树的最小绝对差 (Easy)"
 date:       2017-06-14 21:30:00 +0800
 categories: [leetcode]
 tags:       [binary-search-tree]
 permalink:  /minimum-absolute-difference-in-bst/
 ---
-
-## 530. 二叉搜索树的最小绝对差 (Easy)
 
 <p>给定一个所有节点为非负值的二叉搜索树，求树中任意两节点的差的绝对值的最小值。</p>
 

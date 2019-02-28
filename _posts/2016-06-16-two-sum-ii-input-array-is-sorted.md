@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "两数之和 II - 输入有序数组"
+title:      "167. 两数之和 II - 输入有序数组 (Easy)"
 date:       2016-06-16 21:30:00 +0800
 categories: [leetcode]
 tags:       [array, two-pointers, binary-search]
 permalink:  /two-sum-ii-input-array-is-sorted/
 ---
-
-## 167. 两数之和 II - 输入有序数组 (Easy)
 
 <p>给定一个已按照<strong><em>升序排列</em>&nbsp;</strong>的有序数组，找到两个数使得它们相加之和等于目标数。</p>
 

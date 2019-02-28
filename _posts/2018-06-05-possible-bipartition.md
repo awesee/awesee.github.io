@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "可能的二分法"
+title:      "886. 可能的二分法 (Medium)"
 date:       2018-06-05 21:30:00 +0800
 categories: [leetcode]
 tags:       [depth-first-search]
 permalink:  /possible-bipartition/
 ---
-
-## 886. 可能的二分法 (Medium)
 
 <p>给定一组&nbsp;<code>N</code>&nbsp;人（编号为&nbsp;<code>1, 2, ..., N</code>），&nbsp;我们想把每个人分进<strong>任意</strong>大小的两组。</p>
 

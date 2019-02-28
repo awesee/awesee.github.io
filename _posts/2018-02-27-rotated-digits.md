@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "旋转数字"
+title:      "788. 旋转数字 (Easy)"
 date:       2018-02-27 21:30:00 +0800
 categories: [leetcode]
 tags:       [string]
 permalink:  /rotated-digits/
 ---
-
-## 788. 旋转数字 (Easy)
 
 <p>我们称一个数 X 为好数, 如果它的每位数字逐个地被旋转 180 度后，我们仍可以得到一个有效的，且和 X 不同的数。要求每位数字都要被旋转。</p>
 

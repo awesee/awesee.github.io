@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "随机数索引"
+title:      "398. 随机数索引 (Medium)"
 date:       2017-02-02 21:30:00 +0800
 categories: [leetcode]
 tags:       [reservoir-sampling]
 permalink:  /random-pick-index/
 ---
-
-## 398. 随机数索引 (Medium)
 
 <p>给定一个可能含有重复元素的整数数组，要求随机输出给定的数字的索引。 您可以假设给定的数字一定存在于数组中。</p>
 

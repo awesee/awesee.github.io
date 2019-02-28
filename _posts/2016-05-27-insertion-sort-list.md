@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "对链表进行插入排序"
+title:      "147. 对链表进行插入排序 (Medium)"
 date:       2016-05-27 21:30:00 +0800
 categories: [leetcode]
 tags:       [sort, linked-list]
 permalink:  /insertion-sort-list/
 ---
-
-## 147. 对链表进行插入排序 (Medium)
 
 <p>对链表进行插入排序。</p>
 

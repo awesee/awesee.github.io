@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "K 站中转内最便宜的航班"
+title:      "787. K 站中转内最便宜的航班 (Medium)"
 date:       2018-02-26 21:30:00 +0800
 categories: [leetcode]
 tags:       [heap, breadth-first-search, dynamic-programming]
 permalink:  /cheapest-flights-within-k-stops/
 ---
-
-## 787. K 站中转内最便宜的航班 (Medium)
 
 <p>有 <code>n</code> 个城市通过 <code>m</code> 个航班连接。每个航班都从城市 <code>u</code> 开始，以价格 <code>w</code> 抵达 <code>v</code>。</p>
 

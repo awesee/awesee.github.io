@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "查询后的偶数和"
+title:      "985. 查询后的偶数和 (Easy)"
 date:       2018-09-12 21:30:00 +0800
 categories: [leetcode]
 tags:       [array]
 permalink:  /sum-of-even-numbers-after-queries/
 ---
-
-## 985. 查询后的偶数和 (Easy)
 
 <p>给出一个整数数组&nbsp;<code>A</code>&nbsp;和一个查询数组&nbsp;<code>queries</code>。</p>
 

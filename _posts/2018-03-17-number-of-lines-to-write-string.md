@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "写字符串需要的行数"
+title:      "806. 写字符串需要的行数 (Easy)"
 date:       2018-03-17 21:30:00 +0800
 categories: [leetcode]
 tags:       []
 permalink:  /number-of-lines-to-write-string/
 ---
-
-## 806. 写字符串需要的行数 (Easy)
 
 <p>我们要把给定的字符串 <code>S</code>&nbsp;从左到右写到每一行上，每一行的最大宽度为100个单位，如果我们在写某个字母的时候会使这行超过了100 个单位，那么我们应该把这个字母写到下一行。我们给定了一个数组&nbsp;<code>widths</code>&nbsp;，这个数组&nbsp;widths[0] 代表 &#39;a&#39; 需要的单位，&nbsp;widths[1] 代表 &#39;b&#39; 需要的单位，...，&nbsp;widths[25] 代表 &#39;z&#39; 需要的单位。</p>
 

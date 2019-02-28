@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "完美数"
+title:      "507. 完美数 (Easy)"
 date:       2017-05-22 21:30:00 +0800
 categories: [leetcode]
 tags:       [math]
 permalink:  /perfect-number/
 ---
-
-## 507. 完美数 (Easy)
 
 <p>对于一个&nbsp;<strong>正整数</strong>，如果它和除了它自身以外的所有正因子之和相等，我们称它为&ldquo;完美数&rdquo;。</p>
 

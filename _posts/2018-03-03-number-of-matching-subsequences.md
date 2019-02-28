@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "匹配子序列的单词数"
+title:      "792. 匹配子序列的单词数 (Medium)"
 date:       2018-03-03 21:30:00 +0800
 categories: [leetcode]
 tags:       [array]
 permalink:  /number-of-matching-subsequences/
 ---
-
-## 792. 匹配子序列的单词数 (Medium)
 
 <p>给定字符串 <code>S</code> 和单词字典 <code>words</code>, 求&nbsp;<code>words[i]</code>&nbsp;中是&nbsp;<code>S</code>&nbsp;的子序列的单词个数。</p>
 

@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "最大矩形"
+title:      "85. 最大矩形 (Hard)"
 date:       2016-03-26 21:30:00 +0800
 categories: [leetcode]
 tags:       [stack, array, hash-table, dynamic-programming]
 permalink:  /maximal-rectangle/
 ---
-
-## 85. 最大矩形 (Hard)
 
 <p>给定一个仅包含&nbsp;0 和 1 的二维二进制矩阵，找出只包含 1 的最大矩形，并返回其面积。</p>
 

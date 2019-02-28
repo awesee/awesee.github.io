@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "不同路径 III"
+title:      "980. 不同路径 III (Hard)"
 date:       2018-09-07 21:30:00 +0800
 categories: [leetcode]
 tags:       [dynamic-programming, backtracking]
 permalink:  /unique-paths-iii/
 ---
-
-## 980. 不同路径 III (Hard)
 
 <p>在二维网格 <code>grid</code> 上，有 4 种类型的方格：</p>
 

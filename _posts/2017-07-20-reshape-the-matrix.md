@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "重塑矩阵"
+title:      "566. 重塑矩阵 (Easy)"
 date:       2017-07-20 21:30:00 +0800
 categories: [leetcode]
 tags:       [array]
 permalink:  /reshape-the-matrix/
 ---
-
-## 566. 重塑矩阵 (Easy)
 
 <p>在MATLAB中，有一个非常有用的函数 <code>reshape</code>，它可以将一个矩阵重塑为另一个大小不同的新矩阵，但保留其原始数据。</p>
 

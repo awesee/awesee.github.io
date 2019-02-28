@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "破解保险箱"
+title:      "753. 破解保险箱 (Hard)"
 date:       2018-01-23 21:30:00 +0800
 categories: [leetcode]
 tags:       [depth-first-search, math]
 permalink:  /cracking-the-safe/
 ---
-
-## 753. 破解保险箱 (Hard)
 
 <p>有一个需要密码才能打开的保险箱。密码是&nbsp;<code>n</code> 位数, 密码的每一位是&nbsp;<code>k</code>&nbsp;位序列&nbsp;<code>0, 1, ..., k-1</code>&nbsp;中的一个 。</p>
 

@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "戳气球"
+title:      "312. 戳气球 (Hard)"
 date:       2016-11-08 21:30:00 +0800
 categories: [leetcode]
 tags:       [divide-and-conquer, dynamic-programming]
 permalink:  /burst-balloons/
 ---
-
-## 312. 戳气球 (Hard)
 
 <p>有 <code>n</code> 个气球，编号为<code>0</code> 到 <code>n-1</code>，每个气球上都标有一个数字，这些数字存在数组&nbsp;<code>nums</code>&nbsp;中。</p>
 

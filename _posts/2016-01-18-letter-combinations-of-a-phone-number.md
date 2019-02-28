@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "电话号码的字母组合"
+title:      "17. 电话号码的字母组合 (Medium)"
 date:       2016-01-18 21:30:00 +0800
 categories: [leetcode]
 tags:       [string, backtracking]
 permalink:  /letter-combinations-of-a-phone-number/
 ---
-
-## 17. 电话号码的字母组合 (Medium)
 
 <p>给定一个仅包含数字&nbsp;<code>2-9</code>&nbsp;的字符串，返回所有它能表示的字母组合。</p>
 

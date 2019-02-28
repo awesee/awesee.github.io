@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "和可被 K 整除的子数组"
+title:      "974. 和可被 K 整除的子数组 (Medium)"
 date:       2018-09-01 21:30:00 +0800
 categories: [leetcode]
 tags:       [array]
 permalink:  /subarray-sums-divisible-by-k/
 ---
-
-## 974. 和可被 K 整除的子数组 (Medium)
 
 <p>给定一个整数数组 <code>A</code>，返回其中元素之和可被 <code>K</code>&nbsp;整除的（连续、非空）子数组的数目。</p>
 

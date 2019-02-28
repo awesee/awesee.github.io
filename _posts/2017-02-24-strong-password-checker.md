@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "强密码检验器"
+title:      "420. 强密码检验器 (Hard)"
 date:       2017-02-24 21:30:00 +0800
 categories: [leetcode]
 tags:       []
 permalink:  /strong-password-checker/
 ---
-
-## 420. 强密码检验器 (Hard)
 
 <p>一个强密码应满足以下所有条件：</p>
 

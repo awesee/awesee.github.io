@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "旋转字符串"
+title:      "796. 旋转字符串 (Easy)"
 date:       2018-03-07 21:30:00 +0800
 categories: [leetcode]
 tags:       []
 permalink:  /rotate-string/
 ---
-
-## 796. 旋转字符串 (Easy)
 
 <p>给定两个字符串, <code>A</code>&nbsp;和&nbsp;<code>B</code>。</p>
 

@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "到达终点数字"
+title:      "754. 到达终点数字 (Easy)"
 date:       2018-01-24 21:30:00 +0800
 categories: [leetcode]
 tags:       [math]
 permalink:  /reach-a-number/
 ---
-
-## 754. 到达终点数字 (Easy)
 
 <p>在一根无限长的数轴上，你站在<code>0</code>的位置。终点在<code>target</code>的位置。</p>
 
