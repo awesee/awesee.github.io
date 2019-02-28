@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "克隆图"
+title:      "133. 克隆图 (Medium)"
 date:       2016-05-13 21:30:00 +0800
 categories: [leetcode]
 tags:       [depth-first-search, breadth-first-search, graph]
 permalink:  /clone-graph/
 ---
-
-## 133. 克隆图 (Medium)
 
 <p>给定无向<a href="https://baike.baidu.com/item/连通图/6460995?fr=aladdin" target="_blank"><strong>连通</strong></a>图中一个节点的引用，返回该图的<a href="https://baike.baidu.com/item/深拷贝/22785317?fr=aladdin" target="_blank"><strong>深拷贝</strong></a>（克隆）。图中的每个节点都包含它的值 <code>val</code>（<code>Int</code>） 和其邻居的列表（<code>list[Node]</code>）。</p>
 

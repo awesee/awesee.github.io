@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "除自身以外数组的乘积"
+title:      "238. 除自身以外数组的乘积 (Medium)"
 date:       2016-08-26 21:30:00 +0800
 categories: [leetcode]
 tags:       [array]
 permalink:  /product-of-array-except-self/
 ---
-
-## 238. 除自身以外数组的乘积 (Medium)
 
 <p>给定长度为&nbsp;<em>n</em>&nbsp;的整数数组&nbsp;<code>nums</code>，其中&nbsp;<em>n</em> &gt; 1，返回输出数组&nbsp;<code>output</code>&nbsp;，其中 <code>output[i]</code>&nbsp;等于&nbsp;<code>nums</code>&nbsp;中除&nbsp;<code>nums[i]</code>&nbsp;之外其余各元素的乘积。</p>
 

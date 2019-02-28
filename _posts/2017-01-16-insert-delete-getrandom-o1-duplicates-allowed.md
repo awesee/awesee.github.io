@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "O(1) 时间插入、删除和获取随机元素 - 允许重复"
+title:      "381. O(1) 时间插入、删除和获取随机元素 - 允许重复 (Hard)"
 date:       2017-01-16 21:30:00 +0800
 categories: [leetcode]
 tags:       [design, array, hash-table]
 permalink:  /insert-delete-getrandom-o1-duplicates-allowed/
 ---
-
-## 381. O(1) 时间插入、删除和获取随机元素 - 允许重复 (Hard)
 
 <p>设计一个支持在<em>平均&nbsp;</em>时间复杂度&nbsp;<strong>O(1)&nbsp;</strong>下<strong>，&nbsp;</strong>执行以下操作的数据结构。</p>
 

@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "较大分组的位置"
+title:      "830. 较大分组的位置 (Easy)"
 date:       2018-04-10 21:30:00 +0800
 categories: [leetcode]
 tags:       [array]
 permalink:  /positions-of-large-groups/
 ---
-
-## 830. 较大分组的位置 (Easy)
 
 <p>在一个由小写字母构成的字符串&nbsp;<code>S</code>&nbsp;中，包含由一些连续的相同字符所构成的分组。</p>
 

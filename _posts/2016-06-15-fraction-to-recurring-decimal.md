@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "分数到小数"
+title:      "166. 分数到小数 (Medium)"
 date:       2016-06-15 21:30:00 +0800
 categories: [leetcode]
 tags:       [hash-table, math]
 permalink:  /fraction-to-recurring-decimal/
 ---
-
-## 166. 分数到小数 (Medium)
 
 <p>给定两个整数，分别表示分数的分子&nbsp;numerator 和分母 denominator，以字符串形式返回小数。</p>
 

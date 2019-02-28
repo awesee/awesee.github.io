@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "最接近原点的 K 个点"
+title:      "973. 最接近原点的 K 个点 (Easy)"
 date:       2018-08-31 21:30:00 +0800
 categories: [leetcode]
 tags:       [sort, math, divide-and-conquer]
 permalink:  /k-closest-points-to-origin/
 ---
-
-## 973. 最接近原点的 K 个点 (Easy)
 
 <p>我们有一个由平面上的点组成的列表 <code>points</code>。需要从中找出 <code>K</code> 个距离原点 <code>(0, 0)</code> 最近的点。</p>
 

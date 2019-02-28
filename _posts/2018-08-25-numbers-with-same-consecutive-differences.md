@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "连续差相同的数字"
+title:      "967. 连续差相同的数字 (Medium)"
 date:       2018-08-25 21:30:00 +0800
 categories: [leetcode]
 tags:       [dynamic-programming]
 permalink:  /numbers-with-same-consecutive-differences/
 ---
-
-## 967. 连续差相同的数字 (Medium)
 
 <p>返回所有长度为 <code>N</code> 且满足其每两个连续位上的数字之间的差的绝对值为 <code>K</code>&nbsp;的<strong>非负整数</strong>。</p>
 

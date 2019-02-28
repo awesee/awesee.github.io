@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "自除数"
+title:      "728. 自除数 (Easy)"
 date:       2017-12-29 21:30:00 +0800
 categories: [leetcode]
 tags:       [math]
 permalink:  /self-dividing-numbers/
 ---
-
-## 728. 自除数 (Easy)
 
 <p><em>自除数&nbsp;</em>是指可以被它包含的每一位数除尽的数。</p>
 

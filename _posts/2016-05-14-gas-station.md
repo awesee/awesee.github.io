@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "加油站"
+title:      "134. 加油站 (Medium)"
 date:       2016-05-14 21:30:00 +0800
 categories: [leetcode]
 tags:       [greedy]
 permalink:  /gas-station/
 ---
-
-## 134. 加油站 (Medium)
 
 <p>在一条环路上有&nbsp;<em>N</em>&nbsp;个加油站，其中第&nbsp;<em>i</em>&nbsp;个加油站有汽油&nbsp;<code>gas[i]</code><em>&nbsp;</em>升。</p>
 

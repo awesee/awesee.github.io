@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "同构字符串"
+title:      "205. 同构字符串 (Easy)"
 date:       2016-07-24 21:30:00 +0800
 categories: [leetcode]
 tags:       [hash-table]
 permalink:  /isomorphic-strings/
 ---
-
-## 205. 同构字符串 (Easy)
 
 <p>给定两个字符串&nbsp;<em><strong>s&nbsp;</strong></em>和&nbsp;<strong><em>t</em></strong>，判断它们是否是同构的。</p>
 

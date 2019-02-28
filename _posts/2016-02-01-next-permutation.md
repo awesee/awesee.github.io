@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "下一个排列"
+title:      "31. 下一个排列 (Medium)"
 date:       2016-02-01 21:30:00 +0800
 categories: [leetcode]
 tags:       [array]
 permalink:  /next-permutation/
 ---
-
-## 31. 下一个排列 (Medium)
 
 <p>实现获取下一个排列的函数，算法需要将给定数字序列重新排列成字典序中下一个更大的排列。</p>
 

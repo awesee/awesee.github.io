@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "范围求和 II"
+title:      "598. 范围求和 II (Easy)"
 date:       2017-08-21 21:30:00 +0800
 categories: [leetcode]
 tags:       [math]
 permalink:  /range-addition-ii/
 ---
-
-## 598. 范围求和 II (Easy)
 
 <p>给定一个初始元素全部为&nbsp;<strong>0</strong>，大小为 m*n 的矩阵&nbsp;<strong>M&nbsp;</strong>以及在&nbsp;<strong>M&nbsp;</strong>上的一系列更新操作。</p>
 

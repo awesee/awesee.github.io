@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "查找重复的电子邮箱"
+title:      "182. 查找重复的电子邮箱 (Easy)"
 date:       2016-07-01 21:30:00 +0800
 categories: [leetcode]
 tags:       []
 permalink:  /duplicate-emails/
 ---
-
-## 182. 查找重复的电子邮箱 (Easy)
 
 <p>编写一个 SQL 查询，查找&nbsp;<code>Person</code> 表中所有重复的电子邮箱。</p>
 

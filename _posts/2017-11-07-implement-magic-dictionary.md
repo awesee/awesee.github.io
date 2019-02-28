@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "实现一个魔法字典"
+title:      "676. 实现一个魔法字典 (Medium)"
 date:       2017-11-07 21:30:00 +0800
 categories: [leetcode]
 tags:       [trie, hash-table]
 permalink:  /implement-magic-dictionary/
 ---
-
-## 676. 实现一个魔法字典 (Medium)
 
 <p>实现一个带有<code>buildDict</code>, 以及&nbsp;<code>search</code>方法的魔法字典。</p>
 

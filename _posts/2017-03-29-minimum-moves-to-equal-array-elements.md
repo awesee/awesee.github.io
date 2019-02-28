@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "最小移动次数使数组元素相等"
+title:      "453. 最小移动次数使数组元素相等 (Easy)"
 date:       2017-03-29 21:30:00 +0800
 categories: [leetcode]
 tags:       [math]
 permalink:  /minimum-moves-to-equal-array-elements/
 ---
-
-## 453. 最小移动次数使数组元素相等 (Easy)
 
 <p>给定一个长度为 <em>n</em> 的<strong>非空</strong>整数数组，找到让数组所有元素相等的最小移动次数。每次移动可以使 <em>n</em> - 1 个元素增加 1。</p>
 

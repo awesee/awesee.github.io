@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "最常见的单词"
+title:      "819. 最常见的单词 (Easy)"
 date:       2018-03-30 21:30:00 +0800
 categories: [leetcode]
 tags:       [string]
 permalink:  /most-common-word/
 ---
-
-## 819. 最常见的单词 (Easy)
 
 <p>给定一个段落 (paragraph) 和一个禁用单词列表 (banned)。返回出现次数最多，同时不在禁用列表中的单词。题目保证至少有一个词不在禁用列表中，而且答案唯一。</p>
 

@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "旋转图像"
+title:      "48. 旋转图像 (Medium)"
 date:       2016-02-18 21:30:00 +0800
 categories: [leetcode]
 tags:       [array]
 permalink:  /rotate-image/
 ---
-
-## 48. 旋转图像 (Medium)
 
 <p>给定一个 <em>n&nbsp;</em>&times;&nbsp;<em>n</em> 的二维矩阵表示一个图像。</p>
 

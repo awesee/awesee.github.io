@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "递增子序列"
+title:      "491. 递增子序列 (Medium)"
 date:       2017-05-06 21:30:00 +0800
 categories: [leetcode]
 tags:       [depth-first-search]
 permalink:  /increasing-subsequences/
 ---
-
-## 491. 递增子序列 (Medium)
 
 <p>给定一个整型数组, 你的任务是找到所有该数组的递增子序列，递增子序列的长度至少是2。</p>
 

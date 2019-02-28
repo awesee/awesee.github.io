@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "奇偶跳"
+title:      "975. 奇偶跳 (Hard)"
 date:       2018-09-02 21:30:00 +0800
 categories: [leetcode]
 tags:       [stack, dynamic-programming]
 permalink:  /odd-even-jump/
 ---
-
-## 975. 奇偶跳 (Hard)
 
 <p>给定一个整数数组 <code>A</code>，你可以从某一起始索引出发，跳跃一定次数。在你跳跃的过程中，第 1、3、5... 次跳跃称为奇数跳跃，而第 2、4、6... 次跳跃称为偶数跳跃。</p>
 

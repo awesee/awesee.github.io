@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "二进制手表"
+title:      "401. 二进制手表 (Easy)"
 date:       2017-02-05 21:30:00 +0800
 categories: [leetcode]
 tags:       [bit-manipulation, backtracking]
 permalink:  /binary-watch/
 ---
-
-## 401. 二进制手表 (Easy)
 
 <p>二进制手表顶部有 4 个 LED 代表<strong>小时（0-11）</strong>，底部的 6 个 LED 代表<strong>分钟（0-59）</strong>。</p>
 

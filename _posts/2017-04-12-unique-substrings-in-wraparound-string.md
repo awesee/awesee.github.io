@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "环绕字符串中唯一的子字符串"
+title:      "467. 环绕字符串中唯一的子字符串 (Medium)"
 date:       2017-04-12 21:30:00 +0800
 categories: [leetcode]
 tags:       [dynamic-programming]
 permalink:  /unique-substrings-in-wraparound-string/
 ---
-
-## 467. 环绕字符串中唯一的子字符串 (Medium)
 
 <p>把字符串 <code>s</code> 看作是&ldquo;abcdefghijklmnopqrstuvwxyz&rdquo;的无限环绕字符串，所以&nbsp;<code>s</code> 看起来是这样的：&quot;...zabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcd....&quot;.&nbsp;</p>
 

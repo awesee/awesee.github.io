@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "相似字符串组"
+title:      "839. 相似字符串组 (Hard)"
 date:       2018-04-19 21:30:00 +0800
 categories: [leetcode]
 tags:       [depth-first-search, union-find, graph]
 permalink:  /similar-string-groups/
 ---
-
-## 839. 相似字符串组 (Hard)
 
 <p>如果我们交换字符串&nbsp;<code>X</code> 中的两个不同位置的字母，使得它和字符串&nbsp;<code>Y</code> 相等，那么称 <code>X</code> 和 <code>Y</code> 两个字符串相似。</p>
 

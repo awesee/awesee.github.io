@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "相对名次"
+title:      "506. 相对名次 (Easy)"
 date:       2017-05-21 21:30:00 +0800
 categories: [leetcode]
 tags:       []
 permalink:  /relative-ranks/
 ---
-
-## 506. 相对名次 (Easy)
 
 <p>给出&nbsp;<strong>N</strong> 名运动员的成绩，找出他们的相对名次并授予前三名对应的奖牌。前三名运动员将会被分别授予 &ldquo;金牌&rdquo;，&ldquo;银牌&rdquo; 和&ldquo; 铜牌&rdquo;（&quot;Gold Medal&quot;, &quot;Silver Medal&quot;, &quot;Bronze Medal&quot;）。</p>
 

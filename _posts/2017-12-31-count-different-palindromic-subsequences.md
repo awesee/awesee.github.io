@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "统计不同回文子字符串"
+title:      "730. 统计不同回文子字符串 (Hard)"
 date:       2017-12-31 21:30:00 +0800
 categories: [leetcode]
 tags:       [string, dynamic-programming]
 permalink:  /count-different-palindromic-subsequences/
 ---
-
-## 730. 统计不同回文子字符串 (Hard)
 
 <p>给定一个字符串 S，找出 S 中不同的非空回文子序列个数，并<strong>返回该数字与 <code>10^9 + 7 </code>的模。</strong></p>
 

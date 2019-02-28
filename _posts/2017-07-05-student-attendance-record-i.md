@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "学生出勤记录 I"
+title:      "551. 学生出勤记录 I (Easy)"
 date:       2017-07-05 21:30:00 +0800
 categories: [leetcode]
 tags:       [string]
 permalink:  /student-attendance-record-i/
 ---
-
-## 551. 学生出勤记录 I (Easy)
 
 <p>给定一个字符串来代表一个学生的出勤记录，这个记录仅包含以下三个字符：</p>
 

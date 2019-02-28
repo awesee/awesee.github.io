@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "删列造序 III"
+title:      "960. 删列造序 III (Hard)"
 date:       2018-08-18 21:30:00 +0800
 categories: [leetcode]
 tags:       [dynamic-programming]
 permalink:  /delete-columns-to-make-sorted-iii/
 ---
-
-## 960. 删列造序 III (Hard)
 
 <p>给定由&nbsp;<code>N</code>&nbsp;个小写字母字符串组成的数组&nbsp;<code>A</code>，其中每个字符串长度相等。</p>
 

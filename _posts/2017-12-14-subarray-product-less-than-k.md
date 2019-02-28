@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "乘积小于K的子数组"
+title:      "713. 乘积小于K的子数组 (Medium)"
 date:       2017-12-14 21:30:00 +0800
 categories: [leetcode]
 tags:       [array, two-pointers]
 permalink:  /subarray-product-less-than-k/
 ---
-
-## 713. 乘积小于K的子数组 (Medium)
 
 <p>给定一个正整数数组&nbsp;<code>nums</code>。</p>
 

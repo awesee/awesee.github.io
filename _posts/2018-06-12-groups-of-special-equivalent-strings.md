@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "特殊等价字符串组"
+title:      "893. 特殊等价字符串组 (Easy)"
 date:       2018-06-12 21:30:00 +0800
 categories: [leetcode]
 tags:       [string]
 permalink:  /groups-of-special-equivalent-strings/
 ---
-
-## 893. 特殊等价字符串组 (Easy)
 
 <p>你将得到一个字符串数组 <code>A</code>。</p>
 

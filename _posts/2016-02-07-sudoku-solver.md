@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "解数独"
+title:      "37. 解数独 (Hard)"
 date:       2016-02-07 21:30:00 +0800
 categories: [leetcode]
 tags:       [hash-table, backtracking]
 permalink:  /sudoku-solver/
 ---
-
-## 37. 解数独 (Hard)
 
 <p>编写一个程序，通过已填充的空格来解决数独问题。</p>
 

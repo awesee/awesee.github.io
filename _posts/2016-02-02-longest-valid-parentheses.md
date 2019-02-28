@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "最长有效括号"
+title:      "32. 最长有效括号 (Hard)"
 date:       2016-02-02 21:30:00 +0800
 categories: [leetcode]
 tags:       [string, dynamic-programming]
 permalink:  /longest-valid-parentheses/
 ---
-
-## 32. 最长有效括号 (Hard)
 
 <p>给定一个只包含 <code>&#39;(&#39;</code>&nbsp;和 <code>&#39;)&#39;</code>&nbsp;的字符串，找出最长的包含有效括号的子串的长度。</p>
 

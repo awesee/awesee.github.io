@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "迷你语法分析器"
+title:      "385. 迷你语法分析器 (Medium)"
 date:       2017-01-20 21:30:00 +0800
 categories: [leetcode]
 tags:       [stack, string]
 permalink:  /mini-parser/
 ---
-
-## 385. 迷你语法分析器 (Medium)
 
 <p>给定一个用字符串表示的整数的嵌套列表，实现一个解析它的语法分析器。</p>
 

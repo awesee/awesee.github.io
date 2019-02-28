@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "字符的最短距离"
+title:      "821. 字符的最短距离 (Easy)"
 date:       2018-04-01 21:30:00 +0800
 categories: [leetcode]
 tags:       []
 permalink:  /shortest-distance-to-a-character/
 ---
-
-## 821. 字符的最短距离 (Easy)
 
 <p>给定一个字符串&nbsp;<code>S</code>&nbsp;和一个字符&nbsp;<code>C</code>。返回一个代表字符串&nbsp;<code>S</code>&nbsp;中每个字符到字符串&nbsp;<code>S</code>&nbsp;中的字符&nbsp;<code>C</code>&nbsp;的最短距离的数组。</p>
 

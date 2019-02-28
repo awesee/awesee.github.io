@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "基于时间的键值存储"
+title:      "981. 基于时间的键值存储 (Medium)"
 date:       2018-09-08 21:30:00 +0800
 categories: [leetcode]
 tags:       [hash-table, binary-search]
 permalink:  /time-based-key-value-store/
 ---
-
-## 981. 基于时间的键值存储 (Medium)
 
 <p>创建一个基于时间的键值存储类&nbsp;<code>TimeMap</code>，它支持下面两个操作：</p>
 

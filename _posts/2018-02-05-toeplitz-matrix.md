@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "托普利茨矩阵"
+title:      "766. 托普利茨矩阵 (Easy)"
 date:       2018-02-05 21:30:00 +0800
 categories: [leetcode]
 tags:       [array]
 permalink:  /toeplitz-matrix/
 ---
-
-## 766. 托普利茨矩阵 (Easy)
 
 <p>如果一个矩阵的每一方向由左上到右下的对角线上具有相同元素，那么这个矩阵是<em>托普利茨矩阵</em>。</p>
 

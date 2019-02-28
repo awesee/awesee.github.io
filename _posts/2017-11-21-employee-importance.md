@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "员工的重要性"
+title:      "690. 员工的重要性 (Easy)"
 date:       2017-11-21 21:30:00 +0800
 categories: [leetcode]
 tags:       [depth-first-search, breadth-first-search, hash-table]
 permalink:  /employee-importance/
 ---
-
-## 690. 员工的重要性 (Easy)
 
 <p>给定一个保存员工信息的数据结构，它包含了员工<strong>唯一的id</strong>，<strong>重要度&nbsp;</strong>和 <strong>直系下属的id</strong>。</p>
 

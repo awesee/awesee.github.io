@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "滑动谜题"
+title:      "773. 滑动谜题 (Hard)"
 date:       2018-02-12 21:30:00 +0800
 categories: [leetcode]
 tags:       [breadth-first-search]
 permalink:  /sliding-puzzle/
 ---
-
-## 773. 滑动谜题 (Hard)
 
 <p>在一个 2 x 3 的板上（<code>board</code>）有 5 块砖瓦，用数字 <code>1~5</code> 来表示, 以及一块空缺用&nbsp;<code>0</code>&nbsp;来表示.</p>
 

@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "大礼包"
+title:      "638. 大礼包 (Medium)"
 date:       2017-09-30 21:30:00 +0800
 categories: [leetcode]
 tags:       [depth-first-search, dynamic-programming]
 permalink:  /shopping-offers/
 ---
-
-## 638. 大礼包 (Medium)
 
 <p>在LeetCode商店中， 有许多在售的物品。</p>
 

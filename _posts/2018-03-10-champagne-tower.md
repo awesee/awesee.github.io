@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "香槟塔"
+title:      "799. 香槟塔 (Medium)"
 date:       2018-03-10 21:30:00 +0800
 categories: [leetcode]
 tags:       []
 permalink:  /champagne-tower/
 ---
-
-## 799. 香槟塔 (Medium)
 
 <p>我们把玻璃杯摆成金字塔的形状，其中第一层有1个玻璃杯，第二层有2个，依次类推到第100层，每个玻璃杯(250ml)将盛有香槟。</p>
 

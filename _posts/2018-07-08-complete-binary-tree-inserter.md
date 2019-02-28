@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "完全二叉树插入器"
+title:      "919. 完全二叉树插入器 (Medium)"
 date:       2018-07-08 21:30:00 +0800
 categories: [leetcode]
 tags:       [tree]
 permalink:  /complete-binary-tree-inserter/
 ---
-
-## 919. 完全二叉树插入器 (Medium)
 
 <p>完全二叉树是每一层（除最后一层外）都是完全填充（即，结点数达到最大）的，并且所有的结点都尽可能地集中在左侧。</p>
 

@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "最小面积矩形 II"
+title:      "963. 最小面积矩形 II (Medium)"
 date:       2018-08-21 21:30:00 +0800
 categories: [leetcode]
 tags:       [geometry, math]
 permalink:  /minimum-area-rectangle-ii/
 ---
-
-## 963. 最小面积矩形 II (Medium)
 
 <p>给定在 xy 平面上的一组点，确定由这些点组成的任何矩形的最小面积，其中矩形的边<strong>不一定平行于</strong> x 轴和 y 轴。</p>
 

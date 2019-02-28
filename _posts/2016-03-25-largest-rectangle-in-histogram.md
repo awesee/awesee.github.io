@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "柱状图中最大的矩形"
+title:      "84. 柱状图中最大的矩形 (Hard)"
 date:       2016-03-25 21:30:00 +0800
 categories: [leetcode]
 tags:       [stack, array]
 permalink:  /largest-rectangle-in-histogram/
 ---
-
-## 84. 柱状图中最大的矩形 (Hard)
 
 <p>给定 <em>n</em> 个非负整数，用来表示柱状图中各个柱子的高度。每个柱子彼此相邻，且宽度为 1 。</p>
 

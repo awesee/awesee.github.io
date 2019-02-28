@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "二分查找"
+title:      "704. 二分查找 (Easy)"
 date:       2017-12-05 21:30:00 +0800
 categories: [leetcode]
 tags:       [binary-search]
 permalink:  /binary-search/
 ---
-
-## 704. 二分查找 (Easy)
 
 <p>给定一个&nbsp;<code>n</code>&nbsp;个元素有序的（升序）整型数组&nbsp;<code>nums</code> 和一个目标值&nbsp;<code>target</code> &nbsp;，写一个函数搜索&nbsp;<code>nums</code>&nbsp;中的 <code>target</code>，如果目标值存在返回下标，否则返回 <code>-1</code>。</p>
 

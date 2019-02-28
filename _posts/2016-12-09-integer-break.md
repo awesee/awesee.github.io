@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "整数拆分"
+title:      "343. 整数拆分 (Medium)"
 date:       2016-12-09 21:30:00 +0800
 categories: [leetcode]
 tags:       [math, dynamic-programming]
 permalink:  /integer-break/
 ---
-
-## 343. 整数拆分 (Medium)
 
 <p>给定一个正整数&nbsp;<em>n</em>，将其拆分为<strong>至少</strong>两个正整数的和，并使这些整数的乘积最大化。 返回你可以获得的最大乘积。</p>
 

@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "俄罗斯套娃信封问题"
+title:      "354. 俄罗斯套娃信封问题 (Hard)"
 date:       2016-12-20 21:30:00 +0800
 categories: [leetcode]
 tags:       [binary-search, dynamic-programming]
 permalink:  /russian-doll-envelopes/
 ---
-
-## 354. 俄罗斯套娃信封问题 (Hard)
 
 <p>给定一些标记了宽度和高度的信封，宽度和高度以整数对形式&nbsp;<code>(w, h)</code>&nbsp;出现。当另一个信封的宽度和高度都比这个信封大的时候，这个信封就可以放进另一个信封里，如同俄罗斯套娃一样。</p>
 

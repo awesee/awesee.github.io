@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "有效的完全平方数"
+title:      "367. 有效的完全平方数 (Easy)"
 date:       2017-01-02 21:30:00 +0800
 categories: [leetcode]
 tags:       [math, binary-search]
 permalink:  /valid-perfect-square/
 ---
-
-## 367. 有效的完全平方数 (Easy)
 
 <p>给定一个正整数 <em>num</em>，编写一个函数，如果 <em>num</em> 是一个完全平方数，则返回 True，否则返回 False。</p>
 

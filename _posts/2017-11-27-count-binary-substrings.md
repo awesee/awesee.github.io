@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "计数二进制子串"
+title:      "696. 计数二进制子串 (Easy)"
 date:       2017-11-27 21:30:00 +0800
 categories: [leetcode]
 tags:       [string]
 permalink:  /count-binary-substrings/
 ---
-
-## 696. 计数二进制子串 (Easy)
 
 <p>给定一个字符串&nbsp;<code>s</code>，计算具有相同数量0和1的非空(连续)子字符串的数量，并且这些子字符串中的所有0和所有1都是组合在一起的。</p>
 

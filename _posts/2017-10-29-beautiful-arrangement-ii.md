@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "优美的排列 II"
+title:      "667. 优美的排列 II (Medium)"
 date:       2017-10-29 21:30:00 +0800
 categories: [leetcode]
 tags:       [array]
 permalink:  /beautiful-arrangement-ii/
 ---
-
-## 667. 优美的排列 II (Medium)
 
 <p>给定两个整数&nbsp;<code>n</code>&nbsp;和&nbsp;<code>k</code>，你需要实现一个数组，这个数组包含从&nbsp;<code>1</code>&nbsp;到&nbsp;<code>n</code>&nbsp;的 <code>n</code>&nbsp;个不同整数，同时满足以下条件：</p>
 

@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "填充每个节点的下一个右侧节点指针"
+title:      "116. 填充每个节点的下一个右侧节点指针 (Medium)"
 date:       2016-04-26 21:30:00 +0800
 categories: [leetcode]
 tags:       [tree, depth-first-search]
 permalink:  /populating-next-right-pointers-in-each-node/
 ---
-
-## 116. 填充每个节点的下一个右侧节点指针 (Medium)
 
 <p>给定一个<strong>完美二叉树</strong>，其所有叶子节点都在同一层，每个父节点都有两个子节点。二叉树定义如下：</p>
 

@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "回旋镖的数量"
+title:      "447. 回旋镖的数量 (Easy)"
 date:       2017-03-23 21:30:00 +0800
 categories: [leetcode]
 tags:       [hash-table]
 permalink:  /number-of-boomerangs/
 ---
-
-## 447. 回旋镖的数量 (Easy)
 
 <p>给定平面上<em>&nbsp;n </em>对不同的点，&ldquo;回旋镖&rdquo; 是由点表示的元组&nbsp;<code>(i, j, k)</code>&nbsp;，其中&nbsp;<code>i</code>&nbsp;和&nbsp;<code>j</code>&nbsp;之间的距离和&nbsp;<code>i</code>&nbsp;和&nbsp;<code>k</code>&nbsp;之间的距离相等（<strong>需要考虑元组的顺序</strong>）。</p>
 

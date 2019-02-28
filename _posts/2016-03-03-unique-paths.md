@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "不同路径"
+title:      "62. 不同路径 (Medium)"
 date:       2016-03-03 21:30:00 +0800
 categories: [leetcode]
 tags:       [array, dynamic-programming]
 permalink:  /unique-paths/
 ---
-
-## 62. 不同路径 (Medium)
 
 <p>一个机器人位于一个 <em>m x n </em>网格的左上角 （起始点在下图中标记为&ldquo;Start&rdquo; ）。</p>
 

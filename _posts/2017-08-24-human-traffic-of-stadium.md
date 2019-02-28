@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "体育馆的人流量"
+title:      "601. 体育馆的人流量 (Hard)"
 date:       2017-08-24 21:30:00 +0800
 categories: [leetcode]
 tags:       []
 permalink:  /human-traffic-of-stadium/
 ---
-
-## 601. 体育馆的人流量 (Hard)
 
 <p>X 市建了一个新的体育馆，每日人流量信息被记录在这三列信息中：<strong>序号</strong> (id)、<strong>日期</strong> (date)、&nbsp;<strong>人流量</strong> (people)。</p>
 

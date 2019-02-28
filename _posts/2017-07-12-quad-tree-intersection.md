@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "四叉树交集"
+title:      "558. 四叉树交集 (Easy)"
 date:       2017-07-12 21:30:00 +0800
 categories: [leetcode]
 tags:       []
 permalink:  /quad-tree-intersection/
 ---
-
-## 558. 四叉树交集 (Easy)
 
 <p>四叉树是一种树数据，其中每个结点恰好有四个子结点：<code>topLeft</code>、<code>topRight</code>、<code>bottomLeft</code>&nbsp;和&nbsp;<code>bottomRight</code>。四叉树通常被用来划分一个二维空间，递归地将其细分为四个象限或区域。</p>
 

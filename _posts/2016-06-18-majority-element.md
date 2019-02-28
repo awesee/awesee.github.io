@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "求众数"
+title:      "169. 求众数 (Easy)"
 date:       2016-06-18 21:30:00 +0800
 categories: [leetcode]
 tags:       [bit-manipulation, array, divide-and-conquer]
 permalink:  /majority-element/
 ---
-
-## 169. 求众数 (Easy)
 
 <p>给定一个大小为 <em>n </em>的数组，找到其中的众数。众数是指在数组中出现次数<strong>大于</strong>&nbsp;<code>&lfloor; n/2 &rfloor;</code>&nbsp;的元素。</p>
 

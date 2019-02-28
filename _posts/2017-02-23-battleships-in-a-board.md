@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "甲板上的战舰"
+title:      "419. 甲板上的战舰 (Medium)"
 date:       2017-02-23 21:30:00 +0800
 categories: [leetcode]
 tags:       []
 permalink:  /battleships-in-a-board/
 ---
-
-## 419. 甲板上的战舰 (Medium)
 
 <p>给定一个二维的甲板， 请计算其中有多少艘战舰。&nbsp;战舰用&nbsp;<code>&#39;X&#39;</code>表示，空位用&nbsp;<code>&#39;.&#39;</code>表示。&nbsp;你需要遵守以下规则：</p>
 

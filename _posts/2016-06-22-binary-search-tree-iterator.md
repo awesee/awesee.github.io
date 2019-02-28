@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "二叉搜索树迭代器"
+title:      "173. 二叉搜索树迭代器 (Medium)"
 date:       2016-06-22 21:30:00 +0800
 categories: [leetcode]
 tags:       [stack, tree, design]
 permalink:  /binary-search-tree-iterator/
 ---
-
-## 173. 二叉搜索树迭代器 (Medium)
 
 <p>实现一个二叉搜索树迭代器。你将使用二叉搜索树的根节点初始化迭代器。</p>
 

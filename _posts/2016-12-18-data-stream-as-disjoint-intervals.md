@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "将数据流变为多个不相交间隔"
+title:      "352. 将数据流变为多个不相交间隔 (Hard)"
 date:       2016-12-18 21:30:00 +0800
 categories: [leetcode]
 tags:       [binary-search-tree]
 permalink:  /data-stream-as-disjoint-intervals/
 ---
-
-## 352. 将数据流变为多个不相交间隔 (Hard)
 
 <p>给定一个非负整数的数据流输入 a<sub>1</sub>，a<sub>2</sub>，&hellip;，a<sub>n，</sub>&hellip;，将到目前为止看到的数字总结为不相交的间隔列表。</p>
 

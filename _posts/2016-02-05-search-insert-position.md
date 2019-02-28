@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "搜索插入位置"
+title:      "35. 搜索插入位置 (Easy)"
 date:       2016-02-05 21:30:00 +0800
 categories: [leetcode]
 tags:       [array, binary-search]
 permalink:  /search-insert-position/
 ---
-
-## 35. 搜索插入位置 (Easy)
 
 <p>给定一个排序数组和一个目标值，在数组中找到目标值，并返回其索引。如果目标值不存在于数组中，返回它将会被按顺序插入的位置。</p>
 

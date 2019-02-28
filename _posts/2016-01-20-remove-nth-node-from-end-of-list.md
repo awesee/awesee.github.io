@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "删除链表的倒数第N个节点"
+title:      "19. 删除链表的倒数第N个节点 (Medium)"
 date:       2016-01-20 21:30:00 +0800
 categories: [leetcode]
 tags:       [linked-list, two-pointers]
 permalink:  /remove-nth-node-from-end-of-list/
 ---
-
-## 19. 删除链表的倒数第N个节点 (Medium)
 
 <p>给定一个链表，删除链表的倒数第&nbsp;<em>n&nbsp;</em>个节点，并且返回链表的头结点。</p>
 

@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "被围绕的区域"
+title:      "130. 被围绕的区域 (Medium)"
 date:       2016-05-10 21:30:00 +0800
 categories: [leetcode]
 tags:       [depth-first-search, breadth-first-search, union-find]
 permalink:  /surrounded-regions/
 ---
-
-## 130. 被围绕的区域 (Medium)
 
 <p>给定一个二维的矩阵，包含&nbsp;<code>&#39;X&#39;</code>&nbsp;和&nbsp;<code>&#39;O&#39;</code>（<strong>字母 O</strong>）。</p>
 

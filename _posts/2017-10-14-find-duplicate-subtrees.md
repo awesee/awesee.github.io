@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "寻找重复的子树"
+title:      "652. 寻找重复的子树 (Medium)"
 date:       2017-10-14 21:30:00 +0800
 categories: [leetcode]
 tags:       [tree]
 permalink:  /find-duplicate-subtrees/
 ---
-
-## 652. 寻找重复的子树 (Medium)
 
 <p>给定一棵二叉树，返回所有重复的子树。对于同一类的重复子树，你只需要返回其中任意<strong>一棵</strong>的根结点即可。</p>
 

@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "单词模式"
+title:      "290. 单词模式 (Easy)"
 date:       2016-10-17 21:30:00 +0800
 categories: [leetcode]
 tags:       [hash-table]
 permalink:  /word-pattern/
 ---
-
-## 290. 单词模式 (Easy)
 
 <p>给定一种 <code>pattern(模式)</code>&nbsp;和一个字符串&nbsp;<code>str</code>&nbsp;，判断 <code>str</code> 是否遵循相同的模式。</p>
 

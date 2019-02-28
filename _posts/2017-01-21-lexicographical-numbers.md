@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "字典序排数"
+title:      "386. 字典序排数 (Medium)"
 date:       2017-01-21 21:30:00 +0800
 categories: [leetcode]
 tags:       []
 permalink:  /lexicographical-numbers/
 ---
-
-## 386. 字典序排数 (Medium)
 
 <p>给定一个整数&nbsp;<em>n</em>, 返回从&nbsp;<em>1&nbsp;</em>到&nbsp;<em>n&nbsp;</em>的字典顺序。</p>
 

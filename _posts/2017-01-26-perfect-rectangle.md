@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "完美矩形"
+title:      "391. 完美矩形 (Hard)"
 date:       2017-01-26 21:30:00 +0800
 categories: [leetcode]
 tags:       []
 permalink:  /perfect-rectangle/
 ---
-
-## 391. 完美矩形 (Hard)
 
 <p>我们有 N 个与坐标轴对齐的矩形, 其中 N &gt; 0, 判断它们是否能精确地覆盖一个矩形区域。</p>
 

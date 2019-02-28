@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "找不同"
+title:      "389. 找不同 (Easy)"
 date:       2017-01-24 21:30:00 +0800
 categories: [leetcode]
 tags:       [bit-manipulation, hash-table]
 permalink:  /find-the-difference/
 ---
-
-## 389. 找不同 (Easy)
 
 <p>给定两个字符串 <em><strong>s</strong></em> 和 <em><strong>t</strong></em>，它们只包含小写字母。</p>
 

@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "最低加油次数"
+title:      "871. 最低加油次数 (Hard)"
 date:       2018-05-21 21:30:00 +0800
 categories: [leetcode]
 tags:       [heap, dynamic-programming]
 permalink:  /minimum-number-of-refueling-stops/
 ---
-
-## 871. 最低加油次数 (Hard)
 
 <p>汽车从起点出发驶向目的地，该目的地位于出发位置东面 <code>target</code>&nbsp;英里处。</p>
 

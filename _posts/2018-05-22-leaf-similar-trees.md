@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "叶子相似的树"
+title:      "872. 叶子相似的树 (Easy)"
 date:       2018-05-22 21:30:00 +0800
 categories: [leetcode]
 tags:       [tree, depth-first-search]
 permalink:  /leaf-similar-trees/
 ---
-
-## 872. 叶子相似的树 (Easy)
 
 <p>请考虑一颗二叉树上所有的叶子，这些叶子的值按从左到右的顺序排列形成一个&nbsp;<em>叶值序列</em> 。</p>
 

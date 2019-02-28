@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "字符串相加"
+title:      "415. 字符串相加 (Easy)"
 date:       2017-02-19 21:30:00 +0800
 categories: [leetcode]
 tags:       [math]
 permalink:  /add-strings/
 ---
-
-## 415. 字符串相加 (Easy)
 
 <p>给定两个字符串形式的非负整数&nbsp;<code>num1</code> 和<code>num2</code>&nbsp;，计算它们的和。</p>
 

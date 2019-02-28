@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "等差数列划分 II - 子序列"
+title:      "446. 等差数列划分 II - 子序列 (Hard)"
 date:       2017-03-22 21:30:00 +0800
 categories: [leetcode]
 tags:       [dynamic-programming]
 permalink:  /arithmetic-slices-ii-subsequence/
 ---
-
-## 446. 等差数列划分 II - 子序列 (Hard)
 
 <p>如果一个数列至少有三个元素，并且任意两个相邻元素之差相同，则称该数列为等差数列。</p>
 

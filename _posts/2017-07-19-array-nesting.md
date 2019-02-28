@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "数组嵌套"
+title:      "565. 数组嵌套 (Medium)"
 date:       2017-07-19 21:30:00 +0800
 categories: [leetcode]
 tags:       [array]
 permalink:  /array-nesting/
 ---
-
-## 565. 数组嵌套 (Medium)
 
 <p>索引从<code>0</code>开始长度为<code>N</code>的数组<code>A</code>，包含<code>0</code>到<code>N - 1</code>的所有整数。找到并返回最大的集合<code>S</code>，<code>S[i] = {A[i], A[A[i]], A[A[A[i]]], ... }</code>且遵守以下的规则。</p>
 

@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "两整数之和"
+title:      "371. 两整数之和 (Easy)"
 date:       2017-01-06 21:30:00 +0800
 categories: [leetcode]
 tags:       [bit-manipulation]
 permalink:  /sum-of-two-integers/
 ---
-
-## 371. 两整数之和 (Easy)
 
 <p><strong>不使用</strong>运算符&nbsp;<code>+</code> 和&nbsp;<code>-</code>&nbsp;​​​​​​​，计算两整数&nbsp;​​​​​​​<code>a</code>&nbsp;、<code>b</code>&nbsp;​​​​​​​之和。</p>
 

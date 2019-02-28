@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "平衡二叉树"
+title:      "110. 平衡二叉树 (Easy)"
 date:       2016-04-20 21:30:00 +0800
 categories: [leetcode]
 tags:       [tree, depth-first-search]
 permalink:  /balanced-binary-tree/
 ---
-
-## 110. 平衡二叉树 (Easy)
 
 <p>给定一个二叉树，判断它是否是高度平衡的二叉树。</p>
 

@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "删除排序链表中的重复元素 II"
+title:      "82. 删除排序链表中的重复元素 II (Medium)"
 date:       2016-03-23 21:30:00 +0800
 categories: [leetcode]
 tags:       [linked-list]
 permalink:  /remove-duplicates-from-sorted-list-ii/
 ---
-
-## 82. 删除排序链表中的重复元素 II (Medium)
 
 <p>给定一个排序链表，删除所有含有重复数字的节点，只保留原始链表中&nbsp;<em>没有重复出现&nbsp;</em>的数字。</p>
 

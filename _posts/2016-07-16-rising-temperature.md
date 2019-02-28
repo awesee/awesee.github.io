@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "上升的温度"
+title:      "197. 上升的温度 (Easy)"
 date:       2016-07-16 21:30:00 +0800
 categories: [leetcode]
 tags:       []
 permalink:  /rising-temperature/
 ---
-
-## 197. 上升的温度 (Easy)
 
 <p>给定一个 <code>Weather</code> 表，编写一个 SQL 查询，来查找与之前（昨天的）日期相比温度更高的所有日期的 Id。</p>
 

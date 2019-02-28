@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "最小区间"
+title:      "632. 最小区间 (Hard)"
 date:       2017-09-24 21:30:00 +0800
 categories: [leetcode]
 tags:       [hash-table, two-pointers, string]
 permalink:  /smallest-range/
 ---
-
-## 632. 最小区间 (Hard)
 
 <p>你有&nbsp;<code>k</code>&nbsp;个升序排列的整数数组。找到一个<strong>最小</strong>区间，使得&nbsp;<code>k</code>&nbsp;个列表中的每个列表至少有一个数包含在其中。</p>
 

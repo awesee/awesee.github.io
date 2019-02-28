@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "课程表 II"
+title:      "210. 课程表 II (Medium)"
 date:       2016-07-29 21:30:00 +0800
 categories: [leetcode]
 tags:       [depth-first-search, breadth-first-search, graph, topological-sort]
 permalink:  /course-schedule-ii/
 ---
-
-## 210. 课程表 II (Medium)
 
 <p>现在你总共有 <em>n</em> 门课需要选，记为&nbsp;<code>0</code>&nbsp;到&nbsp;<code>n-1</code>。</p>
 

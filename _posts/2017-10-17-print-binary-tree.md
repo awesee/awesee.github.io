@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "输出二叉树"
+title:      "655. 输出二叉树 (Medium)"
 date:       2017-10-17 21:30:00 +0800
 categories: [leetcode]
 tags:       [tree]
 permalink:  /print-binary-tree/
 ---
-
-## 655. 输出二叉树 (Medium)
 
 <p>在一个 m*n 的二维字符串数组中输出二叉树，并遵守以下规则：</p>
 

@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "UTF-8 编码验证"
+title:      "393. UTF-8 编码验证 (Medium)"
 date:       2017-01-28 21:30:00 +0800
 categories: [leetcode]
 tags:       [bit-manipulation]
 permalink:  /utf-8-validation/
 ---
-
-## 393. UTF-8 编码验证 (Medium)
 
 <p>UTF-8 中的一个字符可能的长度为 <strong>1 到 4 字节</strong>，遵循以下的规则：</p>
 

@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "猜数字游戏"
+title:      "299. 猜数字游戏 (Medium)"
 date:       2016-10-26 21:30:00 +0800
 categories: [leetcode]
 tags:       [hash-table]
 permalink:  /bulls-and-cows/
 ---
-
-## 299. 猜数字游戏 (Medium)
 
 <p>你正在和你的朋友玩&nbsp;<a href="https://baike.baidu.com/item/%E7%8C%9C%E6%95%B0%E5%AD%97/83200?fromtitle=Bulls+and+Cows&amp;fromid=12003488&amp;fr=aladdin" target="_blank">猜数字（Bulls and Cows）</a>游戏：你写下一个数字让你的朋友猜。每次他猜测后，你给他一个提示，告诉他有多少位数字和确切位置都猜对了（称为&ldquo;Bulls&rdquo;, 公牛），有多少位数字猜对了但是位置不对（称为&ldquo;Cows&rdquo;, 奶牛）。你的朋友将会根据提示继续猜，直到猜出秘密数字。</p>
 

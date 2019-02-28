@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "从英文中重建数字"
+title:      "423. 从英文中重建数字 (Medium)"
 date:       2017-02-27 21:30:00 +0800
 categories: [leetcode]
 tags:       [math]
 permalink:  /reconstruct-original-digits-from-english/
 ---
-
-## 423. 从英文中重建数字 (Medium)
 
 <p>给定一个<strong>非空</strong>字符串，其中包含字母顺序打乱的英文单词表示的数字<code>0-9</code>。按升序输出原始的数字。</p>
 

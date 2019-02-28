@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "用最少数量的箭引爆气球"
+title:      "452. 用最少数量的箭引爆气球 (Medium)"
 date:       2017-03-28 21:30:00 +0800
 categories: [leetcode]
 tags:       [greedy]
 permalink:  /minimum-number-of-arrows-to-burst-balloons/
 ---
-
-## 452. 用最少数量的箭引爆气球 (Medium)
 
 <p>在二维空间中有许多球形的气球。对于每个气球，提供的输入是水平方向上，气球直径的开始和结束坐标。由于它是水平的，所以y坐标并不重要，因此只要知道开始和结束的x坐标就足够了。开始坐标总是小于结束坐标。平面内最多存在10<sup>4</sup>个气球。</p>
 

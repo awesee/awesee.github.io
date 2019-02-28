@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "最高的广告牌"
+title:      "956. 最高的广告牌 (Hard)"
 date:       2018-08-14 21:30:00 +0800
 categories: [leetcode]
 tags:       [dynamic-programming]
 permalink:  /tallest-billboard/
 ---
-
-## 956. 最高的广告牌 (Hard)
 
 <p>你正在安装一个广告牌，并希望它高度最大。这块广告牌将有两个钢制支架，两边各一个。每个钢支架的高度必须相等。</p>
 

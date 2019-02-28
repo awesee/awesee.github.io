@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "最大频率栈"
+title:      "895. 最大频率栈 (Hard)"
 date:       2018-06-14 21:30:00 +0800
 categories: [leetcode]
 tags:       [stack, hash-table]
 permalink:  /maximum-frequency-stack/
 ---
-
-## 895. 最大频率栈 (Hard)
 
 <p>实现 <code>FreqStack</code>，模拟类似栈的数据结构的操作的一个类。</p>
 

@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "删除排序链表中的重复元素"
+title:      "83. 删除排序链表中的重复元素 (Easy)"
 date:       2016-03-24 21:30:00 +0800
 categories: [leetcode]
 tags:       [linked-list]
 permalink:  /remove-duplicates-from-sorted-list/
 ---
-
-## 83. 删除排序链表中的重复元素 (Easy)
 
 <p>给定一个排序链表，删除所有重复的元素，使得每个元素只出现一次。</p>
 

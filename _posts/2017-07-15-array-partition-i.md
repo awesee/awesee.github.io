@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "数组拆分 I"
+title:      "561. 数组拆分 I (Easy)"
 date:       2017-07-15 21:30:00 +0800
 categories: [leetcode]
 tags:       [array]
 permalink:  /array-partition-i/
 ---
-
-## 561. 数组拆分 I (Easy)
 
 <p>给定长度为&nbsp;<strong>2n&nbsp;</strong>的数组, 你的任务是将这些数分成&nbsp;<strong>n </strong>对, 例如 (a<sub>1</sub>, b<sub>1</sub>), (a<sub>2</sub>, b<sub>2</sub>), ..., (a<sub>n</sub>, b<sub>n</sub>) ，使得从1 到&nbsp;n 的 min(a<sub>i</sub>, b<sub>i</sub>) 总和最大。</p>
 

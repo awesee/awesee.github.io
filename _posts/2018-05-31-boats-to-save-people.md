@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "救生艇"
+title:      "881. 救生艇 (Medium)"
 date:       2018-05-31 21:30:00 +0800
 categories: [leetcode]
 tags:       [greedy, two-pointers]
 permalink:  /boats-to-save-people/
 ---
-
-## 881. 救生艇 (Medium)
 
 <p>第&nbsp;<code>i</code>&nbsp;个人的体重为&nbsp;<code>people[i]</code>，每艘船可以承载的最大重量为&nbsp;<code>limit</code>。</p>
 

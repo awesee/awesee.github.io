@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "查找和最小的K对数字"
+title:      "373. 查找和最小的K对数字 (Medium)"
 date:       2017-01-08 21:30:00 +0800
 categories: [leetcode]
 tags:       [heap]
 permalink:  /find-k-pairs-with-smallest-sums/
 ---
-
-## 373. 查找和最小的K对数字 (Medium)
 
 <p>给定两个以升序排列的整形数组 <strong>nums1</strong> 和 <strong>nums2</strong>, 以及一个整数 <strong>k</strong>。</p>
 

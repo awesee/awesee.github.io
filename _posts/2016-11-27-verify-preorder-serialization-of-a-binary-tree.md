@@ -1,13 +1,11 @@
 ---
 layout:     single
-title:      "验证二叉树的前序序列化"
+title:      "331. 验证二叉树的前序序列化 (Medium)"
 date:       2016-11-27 21:30:00 +0800
 categories: [leetcode]
 tags:       [stack]
 permalink:  /verify-preorder-serialization-of-a-binary-tree/
 ---
-
-## 331. 验证二叉树的前序序列化 (Medium)
 
 <p>序列化二叉树的一种方法是使用前序遍历。当我们遇到一个非空节点时，我们可以记录下这个节点的值。如果它是一个空节点，我们可以使用一个标记值记录，例如 <code>#</code>。</p>
 
