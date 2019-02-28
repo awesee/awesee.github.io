@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "217. 存在重复元素 (Easy)"
+title:      "存在重复元素"
 date:       2016-08-05 21:30:00 +0800
 categories: [leetcode]
 tags:       [array, hash-table]
 permalink:  /contains-duplicate/
 ---
+
+## 217. 存在重复元素 (Easy)
 
 <p>给定一个整数数组，判断是否存在重复元素。</p>
 

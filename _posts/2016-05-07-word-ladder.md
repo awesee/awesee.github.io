@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "127. 单词接龙 (Medium)"
+title:      "单词接龙"
 date:       2016-05-07 21:30:00 +0800
 categories: [leetcode]
 tags:       [breadth-first-search]
 permalink:  /word-ladder/
 ---
+
+## 127. 单词接龙 (Medium)
 
 <p>给定两个单词（<em>beginWord&nbsp;</em>和 <em>endWord</em>）和一个字典，找到从&nbsp;<em>beginWord</em> 到&nbsp;<em>endWord</em> 的最短转换序列的长度。转换需遵循如下规则：</p>
 

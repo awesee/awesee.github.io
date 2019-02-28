@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "279. 完全平方数 (Medium)"
+title:      "完全平方数"
 date:       2016-10-06 21:30:00 +0800
 categories: [leetcode]
 tags:       [breadth-first-search, math, dynamic-programming]
 permalink:  /perfect-squares/
 ---
+
+## 279. 完全平方数 (Medium)
 
 <p>给定正整数&nbsp;<em>n</em>，找到若干个完全平方数（比如&nbsp;<code>1, 4, 9, 16, ...</code>）使得它们的和等于<em> n</em>。你需要让组成和的完全平方数的个数最少。</p>
 

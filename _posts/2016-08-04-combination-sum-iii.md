@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "216. 组合总和 III (Medium)"
+title:      "组合总和 III"
 date:       2016-08-04 21:30:00 +0800
 categories: [leetcode]
 tags:       [array, backtracking]
 permalink:  /combination-sum-iii/
 ---
+
+## 216. 组合总和 III (Medium)
 
 <p>找出所有相加之和为&nbsp;<em><strong>n</strong> </em>的&nbsp;<strong><em>k&nbsp;</em></strong>个数的组合<strong><em>。</em></strong>组合中只允许含有 1 -&nbsp;9 的正整数，并且每种组合中不存在重复的数字。</p>
 

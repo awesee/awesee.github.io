@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "234. 回文链表 (Easy)"
+title:      "回文链表"
 date:       2016-08-22 21:30:00 +0800
 categories: [leetcode]
 tags:       [linked-list, two-pointers]
 permalink:  /palindrome-linked-list/
 ---
+
+## 234. 回文链表 (Easy)
 
 <p>请判断一个链表是否为回文链表。</p>
 

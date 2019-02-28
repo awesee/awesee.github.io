@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "206. 反转链表 (Easy)"
+title:      "反转链表"
 date:       2016-07-25 21:30:00 +0800
 categories: [leetcode]
 tags:       [linked-list]
 permalink:  /reverse-linked-list/
 ---
+
+## 206. 反转链表 (Easy)
 
 <p>反转一个单链表。</p>
 

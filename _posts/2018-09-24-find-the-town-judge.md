@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "997. 找到小镇的法官 (Easy)"
+title:      "找到小镇的法官"
 date:       2018-09-24 21:30:00 +0800
 categories: [leetcode]
 tags:       [graph]
 permalink:  /find-the-town-judge/
 ---
+
+## 997. 找到小镇的法官 (Easy)
 
 <p>在一个小镇里，按从 <code>1</code> 到 <code>N</code> 标记了&nbsp;<code>N</code> 个人。传言称，这些人中有一个是小镇上的秘密法官。</p>
 

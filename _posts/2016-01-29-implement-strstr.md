@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "28. 实现strStr() (Easy)"
+title:      "实现strStr()"
 date:       2016-01-29 21:30:00 +0800
 categories: [leetcode]
 tags:       [two-pointers, string]
 permalink:  /implement-strstr/
 ---
+
+## 28. 实现strStr() (Easy)
 
 <p>实现&nbsp;<a href="https://baike.baidu.com/item/strstr/811469" target="_blank">strStr()</a>&nbsp;函数。</p>
 

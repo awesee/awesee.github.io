@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "639. 解码方法 2 (Hard)"
+title:      "解码方法 2"
 date:       2017-10-01 21:30:00 +0800
 categories: [leetcode]
 tags:       [dynamic-programming]
 permalink:  /decode-ways-ii/
 ---
+
+## 639. 解码方法 2 (Hard)
 
 <p>一条包含字母&nbsp;<code>A-Z</code> 的消息通过以下的方式进行了编码：</p>
 

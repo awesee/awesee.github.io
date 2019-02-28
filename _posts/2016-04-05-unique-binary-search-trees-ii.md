@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "95. 不同的二叉搜索树 II (Medium)"
+title:      "不同的二叉搜索树 II"
 date:       2016-04-05 21:30:00 +0800
 categories: [leetcode]
 tags:       [tree, dynamic-programming]
 permalink:  /unique-binary-search-trees-ii/
 ---
+
+## 95. 不同的二叉搜索树 II (Medium)
 
 <p>给定一个整数 <em>n</em>，生成所有由 1 ...&nbsp;<em>n</em> 为节点所组成的<strong>二叉搜索树</strong>。</p>
 

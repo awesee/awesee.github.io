@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "131. 分割回文串 (Medium)"
+title:      "分割回文串"
 date:       2016-05-11 21:30:00 +0800
 categories: [leetcode]
 tags:       [backtracking]
 permalink:  /palindrome-partitioning/
 ---
+
+## 131. 分割回文串 (Medium)
 
 <p>给定一个字符串 <em>s</em>，将<em> s </em>分割成一些子串，使每个子串都是回文串。</p>
 

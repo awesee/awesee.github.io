@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "715. Range 模块 (Hard)"
+title:      "Range 模块"
 date:       2017-12-16 21:30:00 +0800
 categories: [leetcode]
 tags:       [segment-tree, binary-search-tree, array]
 permalink:  /range-module/
 ---
+
+## 715. Range 模块 (Hard)
 
 <p>Range 模块是跟踪数字范围的模块。你的任务是以一种有效的方式设计和实现以下接口。</p>
 

@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "34. 在排序数组中查找元素的第一个和最后一个位置 (Medium)"
+title:      "在排序数组中查找元素的第一个和最后一个位置"
 date:       2016-02-04 21:30:00 +0800
 categories: [leetcode]
 tags:       [array, binary-search]
 permalink:  /find-first-and-last-position-of-element-in-sorted-array/
 ---
+
+## 34. 在排序数组中查找元素的第一个和最后一个位置 (Medium)
 
 <p>给定一个按照升序排列的整数数组 <code>nums</code>，和一个目标值 <code>target</code>。找出给定目标值在数组中的开始位置和结束位置。</p>
 

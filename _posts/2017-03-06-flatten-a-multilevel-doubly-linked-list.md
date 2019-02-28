@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "430. 扁平化多级双向链表 (Medium)"
+title:      "扁平化多级双向链表"
 date:       2017-03-06 21:30:00 +0800
 categories: [leetcode]
 tags:       [depth-first-search, linked-list]
 permalink:  /flatten-a-multilevel-doubly-linked-list/
 ---
+
+## 430. 扁平化多级双向链表 (Medium)
 
 <p>您将获得一个双向链表，除了下一个和前一个指针之外，它还有一个子指针，可能指向单独的双向链表。这些子列表可能有一个或多个自己的子项，依此类推，生成多级数据结构，如下面的示例所示。</p>
 

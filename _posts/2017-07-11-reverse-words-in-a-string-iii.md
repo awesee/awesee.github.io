@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "557. 反转字符串中的单词 III (Easy)"
+title:      "反转字符串中的单词 III"
 date:       2017-07-11 21:30:00 +0800
 categories: [leetcode]
 tags:       [string]
 permalink:  /reverse-words-in-a-string-iii/
 ---
+
+## 557. 反转字符串中的单词 III (Easy)
 
 <p>给定一个字符串，你需要反转字符串中每个单词的字符顺序，同时仍保留空格和单词的初始顺序。</p>
 

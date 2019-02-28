@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "421. 数组中两个数的最大异或值 (Medium)"
+title:      "数组中两个数的最大异或值"
 date:       2017-02-25 21:30:00 +0800
 categories: [leetcode]
 tags:       [bit-manipulation, trie]
 permalink:  /maximum-xor-of-two-numbers-in-an-array/
 ---
+
+## 421. 数组中两个数的最大异或值 (Medium)
 
 <p>给定一个非空数组，数组中元素为 a<sub>0</sub>, a<sub>1</sub>, a<sub>2</sub>, &hellip; , a<sub>n-1</sub>，其中 0 &le; a<sub>i</sub> &lt; 2<sup>31&nbsp;</sup>。</p>
 

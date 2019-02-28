@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "338. 比特位计数 (Medium)"
+title:      "比特位计数"
 date:       2016-12-04 21:30:00 +0800
 categories: [leetcode]
 tags:       [bit-manipulation, dynamic-programming]
 permalink:  /counting-bits/
 ---
+
+## 338. 比特位计数 (Medium)
 
 <p>给定一个非负整数&nbsp;<strong>num</strong>。对于&nbsp;<strong>0 &le; i &le; num </strong>范围中的每个数字&nbsp;<strong>i&nbsp;</strong>，计算其二进制数中的 1 的数目并将它们作为数组返回。</p>
 

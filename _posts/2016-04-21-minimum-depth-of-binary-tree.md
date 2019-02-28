@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "111. 二叉树的最小深度 (Easy)"
+title:      "二叉树的最小深度"
 date:       2016-04-21 21:30:00 +0800
 categories: [leetcode]
 tags:       [tree, depth-first-search, breadth-first-search]
 permalink:  /minimum-depth-of-binary-tree/
 ---
+
+## 111. 二叉树的最小深度 (Easy)
 
 <p>给定一个二叉树，找出其最小深度。</p>
 

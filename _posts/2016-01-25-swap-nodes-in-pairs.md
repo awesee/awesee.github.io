@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "24. 两两交换链表中的节点 (Medium)"
+title:      "两两交换链表中的节点"
 date:       2016-01-25 21:30:00 +0800
 categories: [leetcode]
 tags:       [linked-list]
 permalink:  /swap-nodes-in-pairs/
 ---
+
+## 24. 两两交换链表中的节点 (Medium)
 
 <p>给定一个链表，两两交换其中相邻的节点，并返回交换后的链表。</p>
 

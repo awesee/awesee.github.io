@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "678. 有效的括号字符串 (Medium)"
+title:      "有效的括号字符串"
 date:       2017-11-09 21:30:00 +0800
 categories: [leetcode]
 tags:       [string]
 permalink:  /valid-parenthesis-string/
 ---
+
+## 678. 有效的括号字符串 (Medium)
 
 <p>给定一个只包含三种字符的字符串：<code>（&nbsp;</code>，<code>）</code>&nbsp;和 <code>*</code>，写一个函数来检验这个字符串是否为有效字符串。有效字符串具有如下规则：</p>
 

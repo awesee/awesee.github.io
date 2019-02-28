@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "433. 最小基因变化 (Medium)"
+title:      "最小基因变化"
 date:       2017-03-09 21:30:00 +0800
 categories: [leetcode]
 tags:       []
 permalink:  /minimum-genetic-mutation/
 ---
+
+## 433. 最小基因变化 (Medium)
 
 <p>一条基因序列由一个带有8个字符的字符串表示，其中每个字符都属于 <code>&quot;A&quot;</code>, <code>&quot;C&quot;</code>, <code>&quot;G&quot;</code>, <code>&quot;T&quot;</code>中的任意一个。</p>
 

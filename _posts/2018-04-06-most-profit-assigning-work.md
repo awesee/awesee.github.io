@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "826. 安排工作以达到最大收益 (Medium)"
+title:      "安排工作以达到最大收益"
 date:       2018-04-06 21:30:00 +0800
 categories: [leetcode]
 tags:       [two-pointers]
 permalink:  /most-profit-assigning-work/
 ---
+
+## 826. 安排工作以达到最大收益 (Medium)
 
 <p>有一些工作：<code>difficulty[i]&nbsp;</code>表示第<code>i</code>个工作的难度，<code>profit[i]</code>表示第<code>i</code>个工作的收益。</p>
 

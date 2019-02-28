@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "189. 旋转数组 (Easy)"
+title:      "旋转数组"
 date:       2016-07-08 21:30:00 +0800
 categories: [leetcode]
 tags:       [array]
 permalink:  /rotate-array/
 ---
+
+## 189. 旋转数组 (Easy)
 
 <p>给定一个数组，将数组中的元素向右移动&nbsp;<em>k&nbsp;</em>个位置，其中&nbsp;<em>k&nbsp;</em>是非负数。</p>
 

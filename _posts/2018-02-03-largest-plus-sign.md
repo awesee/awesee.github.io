@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "764. 最大加号标志 (Medium)"
+title:      "最大加号标志"
 date:       2018-02-03 21:30:00 +0800
 categories: [leetcode]
 tags:       [dynamic-programming]
 permalink:  /largest-plus-sign/
 ---
+
+## 764. 最大加号标志 (Medium)
 
 <p>在一个大小在 (0, 0) 到 (N-1, N-1) 的2D网格&nbsp;<code>grid</code>&nbsp;中，除了在&nbsp;<code>mines</code>&nbsp;中给出的单元为&nbsp;<code>0</code>，其他每个单元都是&nbsp;<code>1</code>。网格中包含&nbsp;<code>1</code>&nbsp;的最大的轴对齐加号标志是多少阶？返回加号标志的阶数。如果未找到加号标志，则返回 0。</p>
 

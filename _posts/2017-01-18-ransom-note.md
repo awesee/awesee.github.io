@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "383. 赎金信 (Easy)"
+title:      "赎金信"
 date:       2017-01-18 21:30:00 +0800
 categories: [leetcode]
 tags:       [string]
 permalink:  /ransom-note/
 ---
+
+## 383. 赎金信 (Easy)
 
 <p>给定一个赎金信 (ransom) 字符串和一个杂志(magazine)字符串，判断第一个字符串ransom能不能由第二个字符串magazines里面的字符构成。如果可以构成，返回 true ；否则返回 false。</p>
 

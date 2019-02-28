@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "976. 三角形的最大周长 (Easy)"
+title:      "三角形的最大周长"
 date:       2018-09-03 21:30:00 +0800
 categories: [leetcode]
 tags:       [array, math]
 permalink:  /largest-perimeter-triangle/
 ---
+
+## 976. 三角形的最大周长 (Easy)
 
 <p>给定由一些正数（代表长度）组成的数组 <code>A</code>，返回由其中三个长度组成的、<strong>面积不为零</strong>的三角形的最大周长。</p>
 

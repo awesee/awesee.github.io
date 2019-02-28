@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "109. 有序链表转换二叉搜索树 (Medium)"
+title:      "有序链表转换二叉搜索树"
 date:       2016-04-19 21:30:00 +0800
 categories: [leetcode]
 tags:       [depth-first-search, linked-list]
 permalink:  /convert-sorted-list-to-binary-search-tree/
 ---
+
+## 109. 有序链表转换二叉搜索树 (Medium)
 
 <p>给定一个单链表，其中的元素按升序排序，将其转换为高度平衡的二叉搜索树。</p>
 

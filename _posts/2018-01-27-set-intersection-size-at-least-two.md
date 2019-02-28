@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "757.  设置交集大小至少为2 (Hard)"
+title:      " 设置交集大小至少为2"
 date:       2018-01-27 21:30:00 +0800
 categories: [leetcode]
 tags:       [greedy]
 permalink:  /set-intersection-size-at-least-two/
 ---
+
+## 757.  设置交集大小至少为2 (Hard)
 
 <p>一个整数区间&nbsp;<code>[a, b]</code>&nbsp;&nbsp;(&nbsp;<code>a &lt; b</code>&nbsp;) 代表着从&nbsp;<code>a</code>&nbsp;到&nbsp;<code>b</code>&nbsp;的所有连续整数，包括&nbsp;<code>a</code>&nbsp;和&nbsp;<code>b</code>。</p>
 

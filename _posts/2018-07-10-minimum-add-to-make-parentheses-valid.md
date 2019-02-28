@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "921. 使括号有效的最少添加 (Medium)"
+title:      "使括号有效的最少添加"
 date:       2018-07-10 21:30:00 +0800
 categories: [leetcode]
 tags:       [stack, greedy]
 permalink:  /minimum-add-to-make-parentheses-valid/
 ---
+
+## 921. 使括号有效的最少添加 (Medium)
 
 <p>给定一个由&nbsp;<code>&#39;(&#39;</code>&nbsp;和&nbsp;<code>&#39;)&#39;</code>&nbsp;括号组成的字符串 <code>S</code>，我们需要添加最少的括号（ <code>&#39;(&#39;</code>&nbsp;或是&nbsp;<code>&#39;)&#39;</code>，可以在任何位置），以使得到的括号字符串有效。</p>
 

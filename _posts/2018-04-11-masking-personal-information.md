@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "831. 隐藏个人信息 (Medium)"
+title:      "隐藏个人信息"
 date:       2018-04-11 21:30:00 +0800
 categories: [leetcode]
 tags:       [string]
 permalink:  /masking-personal-information/
 ---
+
+## 831. 隐藏个人信息 (Medium)
 
 <p>给你一条个人信息 string <code>S</code>，它可能是一个邮箱地址，也可能是一个电话号码。</p>
 

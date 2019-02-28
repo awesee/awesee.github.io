@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "92. 反转链表 II (Medium)"
+title:      "反转链表 II"
 date:       2016-04-02 21:30:00 +0800
 categories: [leetcode]
 tags:       [linked-list]
 permalink:  /reverse-linked-list-ii/
 ---
+
+## 92. 反转链表 II (Medium)
 
 <p>反转从位置 <em>m</em> 到 <em>n</em> 的链表。请使用一趟扫描完成反转。</p>
 

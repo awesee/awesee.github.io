@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "633. 平方数之和 (Easy)"
+title:      "平方数之和"
 date:       2017-09-25 21:30:00 +0800
 categories: [leetcode]
 tags:       [math]
 permalink:  /sum-of-square-numbers/
 ---
+
+## 633. 平方数之和 (Easy)
 
 <p>给定一个非负整数&nbsp;<code>c</code>&nbsp;，你要判断是否存在两个整数 <code>a</code> 和 <code>b</code>，使得&nbsp;a<sup>2</sup> + b<sup>2</sup> = c。</p>
 

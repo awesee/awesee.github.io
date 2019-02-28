@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "193. 有效电话号码 (Easy)"
+title:      "有效电话号码"
 date:       2016-07-12 21:30:00 +0800
 categories: [leetcode]
 tags:       []
 permalink:  /valid-phone-numbers/
 ---
+
+## 193. 有效电话号码 (Easy)
 
 <p>给定一个包含电话号码列表（一行一个电话号码）的文本文件 <code>file.txt</code>，写一个 bash 脚本输出所有有效的电话号码。</p>
 

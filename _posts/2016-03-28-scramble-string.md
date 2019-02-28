@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "87. 扰乱字符串 (Hard)"
+title:      "扰乱字符串"
 date:       2016-03-28 21:30:00 +0800
 categories: [leetcode]
 tags:       [string, dynamic-programming]
 permalink:  /scramble-string/
 ---
+
+## 87. 扰乱字符串 (Hard)
 
 <p>给定一个字符串&nbsp;<em>s1</em>，我们可以把它递归地分割成两个非空子字符串，从而将其表示为二叉树。</p>
 

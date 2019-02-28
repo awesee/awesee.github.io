@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "282. 给表达式添加运算符 (Hard)"
+title:      "给表达式添加运算符"
 date:       2016-10-09 21:30:00 +0800
 categories: [leetcode]
 tags:       [divide-and-conquer]
 permalink:  /expression-add-operators/
 ---
+
+## 282. 给表达式添加运算符 (Hard)
 
 <p>给定一个仅包含数字&nbsp;<code>0-9</code>&nbsp;的字符串和一个目标值，在数字之间添加<strong>二元</strong>运算符（不是一元）<code>+</code>、<code>-</code>&nbsp;或&nbsp;<code>*</code>&nbsp;，返回所有能够得到目标值的表达式。</p>
 

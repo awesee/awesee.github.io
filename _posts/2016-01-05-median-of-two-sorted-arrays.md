@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "4. 寻找两个有序数组的中位数 (Hard)"
+title:      "寻找两个有序数组的中位数"
 date:       2016-01-05 21:30:00 +0800
 categories: [leetcode]
 tags:       [array, binary-search, divide-and-conquer]
 permalink:  /median-of-two-sorted-arrays/
 ---
+
+## 4. 寻找两个有序数组的中位数 (Hard)
 
 <p>给定两个大小为 m 和 n 的有序数组&nbsp;<code>nums1</code> 和&nbsp;<code>nums2</code>。</p>
 

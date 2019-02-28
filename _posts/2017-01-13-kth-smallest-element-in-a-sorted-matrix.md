@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "378. 有序矩阵中第K小的元素 (Medium)"
+title:      "有序矩阵中第K小的元素"
 date:       2017-01-13 21:30:00 +0800
 categories: [leetcode]
 tags:       [heap, binary-search]
 permalink:  /kth-smallest-element-in-a-sorted-matrix/
 ---
+
+## 378. 有序矩阵中第K小的元素 (Medium)
 
 <p>给定一个&nbsp;<em>n x n&nbsp;</em>矩阵，其中每行和每列元素均按升序排序，找到矩阵中第k小的元素。<br />
 请注意，它是排序后的第k小元素，而不是第k个元素。</p>

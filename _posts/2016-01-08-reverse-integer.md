@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "7. 整数反转 (Easy)"
+title:      "整数反转"
 date:       2016-01-08 21:30:00 +0800
 categories: [leetcode]
 tags:       [math]
 permalink:  /reverse-integer/
 ---
+
+## 7. 整数反转 (Easy)
 
 <p>给出一个 32 位的有符号整数，你需要将这个整数中每位上的数字进行反转。</p>
 

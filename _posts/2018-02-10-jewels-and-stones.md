@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "771. 宝石与石头 (Easy)"
+title:      "宝石与石头"
 date:       2018-02-10 21:30:00 +0800
 categories: [leetcode]
 tags:       [hash-table]
 permalink:  /jewels-and-stones/
 ---
+
+## 771. 宝石与石头 (Easy)
 
 <p>&nbsp;给定字符串<code>J</code>&nbsp;代表石头中宝石的类型，和字符串&nbsp;<code>S</code>代表你拥有的石头。&nbsp;<code>S</code>&nbsp;中每个字符代表了一种你拥有的石头的类型，你想知道你拥有的石头中有多少是宝石。</p>
 

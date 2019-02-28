@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "843. 猜猜这个单词 (Hard)"
+title:      "猜猜这个单词"
 date:       2018-04-23 21:30:00 +0800
 categories: [leetcode]
 tags:       [minimax]
 permalink:  /guess-the-word/
 ---
+
+## 843. 猜猜这个单词 (Hard)
 
 <p>这个问题是 LeetCode 平台新增的<strong><em>交互式问题 </em></strong>。</p>
 

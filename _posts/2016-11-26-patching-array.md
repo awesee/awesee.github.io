@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "330. 按要求补齐数组 (Hard)"
+title:      "按要求补齐数组"
 date:       2016-11-26 21:30:00 +0800
 categories: [leetcode]
 tags:       [greedy]
 permalink:  /patching-array/
 ---
+
+## 330. 按要求补齐数组 (Hard)
 
 <p>给定一个已排序的正整数数组 <em>nums，</em>和一个正整数&nbsp;<em>n 。</em>从&nbsp;<code>[1, n]</code>&nbsp;区间内选取任意个数字补充到&nbsp;<em>nums&nbsp;</em>中，使得&nbsp;<code>[1, n]</code>&nbsp;区间内的任何数字都可以用&nbsp;<em>nums&nbsp;</em>中某几个数字的和来表示。请输出满足上述要求的最少需要补充的数字个数。</p>
 

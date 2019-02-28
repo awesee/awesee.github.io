@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "860. 柠檬水找零 (Easy)"
+title:      "柠檬水找零"
 date:       2018-05-10 21:30:00 +0800
 categories: [leetcode]
 tags:       [greedy]
 permalink:  /lemonade-change/
 ---
+
+## 860. 柠檬水找零 (Easy)
 
 <p>在柠檬水摊上，每一杯柠檬水的售价为&nbsp;<code>5</code>&nbsp;美元。</p>
 

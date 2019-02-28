@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "726. 原子的数量 (Hard)"
+title:      "原子的数量"
 date:       2017-12-27 21:30:00 +0800
 categories: [leetcode]
 tags:       [stack, recursion, hash-table]
 permalink:  /number-of-atoms/
 ---
+
+## 726. 原子的数量 (Hard)
 
 <p>给定一个化学式<code>formula</code>（作为字符串），返回每种原子的数量。</p>
 

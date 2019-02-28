@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "47. 全排列 II (Medium)"
+title:      "全排列 II"
 date:       2016-02-17 21:30:00 +0800
 categories: [leetcode]
 tags:       [backtracking]
 permalink:  /permutations-ii/
 ---
+
+## 47. 全排列 II (Medium)
 
 <p>给定一个可包含重复数字的序列，返回所有不重复的全排列。</p>
 

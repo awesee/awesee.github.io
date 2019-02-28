@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "885. 螺旋矩阵 III (Medium)"
+title:      "螺旋矩阵 III"
 date:       2018-06-04 21:30:00 +0800
 categories: [leetcode]
 tags:       [math]
 permalink:  /spiral-matrix-iii/
 ---
+
+## 885. 螺旋矩阵 III (Medium)
 
 <p>在&nbsp;<code>R</code>&nbsp;行&nbsp;<code>C</code>&nbsp;列的矩阵上，我们从&nbsp;<code>(r0, c0)</code>&nbsp;面朝东面开始</p>
 

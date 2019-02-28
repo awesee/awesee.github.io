@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "887. 鸡蛋掉落 (Hard)"
+title:      "鸡蛋掉落"
 date:       2018-06-06 21:30:00 +0800
 categories: [leetcode]
 tags:       [math, binary-search, dynamic-programming]
 permalink:  /super-egg-drop/
 ---
+
+## 887. 鸡蛋掉落 (Hard)
 
 <p>你将获得&nbsp;<code>K</code>&nbsp;个鸡蛋，并可以使用一栋从&nbsp;<code>1</code>&nbsp;到&nbsp;<code>N</code>&nbsp;&nbsp;共有 <code>N</code>&nbsp;层楼的建筑。</p>
 

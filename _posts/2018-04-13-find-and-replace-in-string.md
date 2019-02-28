@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "833. 字符串中的查找与替换 (Medium)"
+title:      "字符串中的查找与替换"
 date:       2018-04-13 21:30:00 +0800
 categories: [leetcode]
 tags:       [string]
 permalink:  /find-and-replace-in-string/
 ---
+
+## 833. 字符串中的查找与替换 (Medium)
 
 <p>对于某些字符串 <code>S</code>，我们将执行一些替换操作，用新的字母组替换原有的字母组（不一定大小相同）。</p>
 

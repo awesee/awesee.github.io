@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "125. 验证回文串 (Easy)"
+title:      "验证回文串"
 date:       2016-05-05 21:30:00 +0800
 categories: [leetcode]
 tags:       [two-pointers, string]
 permalink:  /valid-palindrome/
 ---
+
+## 125. 验证回文串 (Easy)
 
 <p>给定一个字符串，验证它是否是回文串，只考虑字母和数字字符，可以忽略字母的大小写。</p>
 

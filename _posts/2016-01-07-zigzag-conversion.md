@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "6. Z 字形变换 (Medium)"
+title:      "Z 字形变换"
 date:       2016-01-07 21:30:00 +0800
 categories: [leetcode]
 tags:       [string]
 permalink:  /zigzag-conversion/
 ---
+
+## 6. Z 字形变换 (Medium)
 
 <p>将一个给定字符串根据给定的行数，以从上往下、从左到右进行&nbsp;Z 字形排列。</p>
 

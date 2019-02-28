@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "953. 验证外星语词典 (Easy)"
+title:      "验证外星语词典"
 date:       2018-08-11 21:30:00 +0800
 categories: [leetcode]
 tags:       [hash-table]
 permalink:  /verifying-an-alien-dictionary/
 ---
+
+## 953. 验证外星语词典 (Easy)
 
 <p>某种外星语也使用英文小写字母，但可能顺序 <code>order</code> 不同。字母表的顺序（<code>order</code>）是一些小写字母的排列。</p>
 

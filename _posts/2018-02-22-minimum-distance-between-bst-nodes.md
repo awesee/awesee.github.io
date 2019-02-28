@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "783. 二叉搜索树结点最小距离 (Easy)"
+title:      "二叉搜索树结点最小距离"
 date:       2018-02-22 21:30:00 +0800
 categories: [leetcode]
 tags:       [binary-search-tree]
 permalink:  /minimum-distance-between-bst-nodes/
 ---
+
+## 783. 二叉搜索树结点最小距离 (Easy)
 
 <p>给定一个二叉搜索树的根结点&nbsp;<code>root</code>, 返回树中任意两节点的差的最小值。</p>
 

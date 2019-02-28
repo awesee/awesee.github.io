@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "46. 全排列 (Medium)"
+title:      "全排列"
 date:       2016-02-16 21:30:00 +0800
 categories: [leetcode]
 tags:       [backtracking]
 permalink:  /permutations/
 ---
+
+## 46. 全排列 (Medium)
 
 <p>给定一个<strong>没有重复</strong>数字的序列，返回其所有可能的全排列。</p>
 

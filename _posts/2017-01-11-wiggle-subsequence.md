@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "376. 摆动序列 (Medium)"
+title:      "摆动序列"
 date:       2017-01-11 21:30:00 +0800
 categories: [leetcode]
 tags:       [greedy, dynamic-programming]
 permalink:  /wiggle-subsequence/
 ---
+
+## 376. 摆动序列 (Medium)
 
 <p>如果连续数字之间的差严格地在正数和负数之间交替，则数字序列称为<strong>摆动序列。</strong>第一个差（如果存在的话）可能是正数或负数。少于两个元素的序列也是摆动序列。</p>
 

@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "847. 访问所有节点的最短路径 (Hard)"
+title:      "访问所有节点的最短路径"
 date:       2018-04-27 21:30:00 +0800
 categories: [leetcode]
 tags:       [breadth-first-search, dynamic-programming]
 permalink:  /shortest-path-visiting-all-nodes/
 ---
+
+## 847. 访问所有节点的最短路径 (Hard)
 
 <p>给出&nbsp;<code>graph</code>&nbsp;为有 N 个节点（编号为&nbsp;<code>0, 1, 2, ..., N-1</code>）的无向连通图。&nbsp;</p>
 

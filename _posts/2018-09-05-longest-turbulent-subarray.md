@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "978. 最长湍流子数组 (Medium)"
+title:      "最长湍流子数组"
 date:       2018-09-05 21:30:00 +0800
 categories: [leetcode]
 tags:       [array]
 permalink:  /longest-turbulent-subarray/
 ---
+
+## 978. 最长湍流子数组 (Medium)
 
 <p>当 <code>A</code>&nbsp;的子数组&nbsp;<code>A[i], A[i+1], ..., A[j]</code>&nbsp;满足下列条件时，我们称其为<em>湍流子数组</em>：</p>
 

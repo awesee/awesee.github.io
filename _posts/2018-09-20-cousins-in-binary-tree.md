@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "993. 二叉树的堂兄弟节点 (Easy)"
+title:      "二叉树的堂兄弟节点"
 date:       2018-09-20 21:30:00 +0800
 categories: [leetcode]
 tags:       [tree]
 permalink:  /cousins-in-binary-tree/
 ---
+
+## 993. 二叉树的堂兄弟节点 (Easy)
 
 <p>在二叉树中，根节点位于深度 <code>0</code> 处，每个深度为 <code>k</code> 的节点的子节点位于深度 <code>k+1</code> 处。</p>
 

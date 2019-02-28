@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "90. 子集 II (Medium)"
+title:      "子集 II"
 date:       2016-03-31 21:30:00 +0800
 categories: [leetcode]
 tags:       [array, backtracking]
 permalink:  /subsets-ii/
 ---
+
+## 90. 子集 II (Medium)
 
 <p>给定一个可能包含重复元素的整数数组 <em><strong>nums</strong></em>，返回该数组所有可能的子集（幂集）。</p>
 

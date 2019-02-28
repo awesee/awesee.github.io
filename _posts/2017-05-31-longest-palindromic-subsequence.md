@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "516. 最长回文子序列 (Medium)"
+title:      "最长回文子序列"
 date:       2017-05-31 21:30:00 +0800
 categories: [leetcode]
 tags:       [dynamic-programming]
 permalink:  /longest-palindromic-subsequence/
 ---
+
+## 516. 最长回文子序列 (Medium)
 
 <p>给定一个字符串<code>s</code>，找到其中最长的回文子序列。可以假设<code>s</code>的最大长度为<code>1000</code>。</p>
 

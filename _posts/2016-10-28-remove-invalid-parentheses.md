@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "301. 删除无效的括号 (Hard)"
+title:      "删除无效的括号"
 date:       2016-10-28 21:30:00 +0800
 categories: [leetcode]
 tags:       [depth-first-search, breadth-first-search]
 permalink:  /remove-invalid-parentheses/
 ---
+
+## 301. 删除无效的括号 (Hard)
 
 <p>删除最小数量的无效括号，使得输入的字符串有效，返回所有可能的结果。</p>
 

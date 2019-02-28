@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "118. 杨辉三角 (Easy)"
+title:      "杨辉三角"
 date:       2016-04-28 21:30:00 +0800
 categories: [leetcode]
 tags:       [array]
 permalink:  /pascals-triangle/
 ---
+
+## 118. 杨辉三角 (Easy)
 
 <p>给定一个非负整数&nbsp;<em>numRows，</em>生成杨辉三角的前&nbsp;<em>numRows&nbsp;</em>行。</p>
 

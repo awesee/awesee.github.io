@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "106. 从中序与后序遍历序列构造二叉树 (Medium)"
+title:      "从中序与后序遍历序列构造二叉树"
 date:       2016-04-16 21:30:00 +0800
 categories: [leetcode]
 tags:       [tree, depth-first-search, array]
 permalink:  /construct-binary-tree-from-inorder-and-postorder-traversal/
 ---
+
+## 106. 从中序与后序遍历序列构造二叉树 (Medium)
 
 <p>根据一棵树的中序遍历与后序遍历构造二叉树。</p>
 

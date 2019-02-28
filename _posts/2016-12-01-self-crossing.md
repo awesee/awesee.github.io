@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "335. 路径交叉 (Hard)"
+title:      "路径交叉"
 date:       2016-12-01 21:30:00 +0800
 categories: [leetcode]
 tags:       [math]
 permalink:  /self-crossing/
 ---
+
+## 335. 路径交叉 (Hard)
 
 <p>给定一个含有&nbsp;<code>n</code>&nbsp;个正数的数组&nbsp;<em>x</em>。从点&nbsp;<code>(0,0)</code>&nbsp;开始，先向北移动&nbsp;<code>x[0]</code>&nbsp;米，然后向西移动&nbsp;<code>x[1]</code>&nbsp;米，向南移动&nbsp;<code>x[2]</code>&nbsp;米，向东移动&nbsp;<code>x[3]</code>&nbsp;米，持续移动。也就是说，每次移动后你的方位会发生逆时针变化。</p>
 

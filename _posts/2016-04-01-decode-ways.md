@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "91. 解码方法 (Medium)"
+title:      "解码方法"
 date:       2016-04-01 21:30:00 +0800
 categories: [leetcode]
 tags:       [string, dynamic-programming]
 permalink:  /decode-ways/
 ---
+
+## 91. 解码方法 (Medium)
 
 <p>一条包含字母&nbsp;<code>A-Z</code> 的消息通过以下方式进行了编码：</p>
 

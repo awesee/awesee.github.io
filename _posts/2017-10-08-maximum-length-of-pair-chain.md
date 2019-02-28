@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "646. 最长数对链 (Medium)"
+title:      "最长数对链"
 date:       2017-10-08 21:30:00 +0800
 categories: [leetcode]
 tags:       [dynamic-programming]
 permalink:  /maximum-length-of-pair-chain/
 ---
+
+## 646. 最长数对链 (Medium)
 
 <p>给出&nbsp;<code>n</code>&nbsp;个数对。&nbsp;在每一个数对中，第一个数字总是比第二个数字小。</p>
 

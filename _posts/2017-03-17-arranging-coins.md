@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "441. 排列硬币 (Easy)"
+title:      "排列硬币"
 date:       2017-03-17 21:30:00 +0800
 categories: [leetcode]
 tags:       [math, binary-search]
 permalink:  /arranging-coins/
 ---
+
+## 441. 排列硬币 (Easy)
 
 <p>你总共有&nbsp;<em>n&nbsp;</em>枚硬币，你需要将它们摆成一个阶梯形状，第&nbsp;<em>k&nbsp;</em>行就必须正好有&nbsp;<em>k&nbsp;</em>枚硬币。</p>
 

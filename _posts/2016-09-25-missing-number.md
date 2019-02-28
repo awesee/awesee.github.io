@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "268. 缺失数字 (Easy)"
+title:      "缺失数字"
 date:       2016-09-25 21:30:00 +0800
 categories: [leetcode]
 tags:       [bit-manipulation, array, math]
 permalink:  /missing-number/
 ---
+
+## 268. 缺失数字 (Easy)
 
 <p>给定一个包含 <code>0, 1, 2, ..., n</code>&nbsp;中&nbsp;<em>n</em>&nbsp;个数的序列，找出 0 .. <em>n</em>&nbsp;中没有出现在序列中的那个数。</p>
 

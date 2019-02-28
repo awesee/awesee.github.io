@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "951. 翻转等价二叉树 (Medium)"
+title:      "翻转等价二叉树"
 date:       2018-08-09 21:30:00 +0800
 categories: [leetcode]
 tags:       [tree]
 permalink:  /flip-equivalent-binary-trees/
 ---
+
+## 951. 翻转等价二叉树 (Medium)
 
 <p>我们可以为二叉树 T 定义一个翻转操作，如下所示：选择任意节点，然后交换它的左子树和右子树。</p>
 

@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "405. 数字转换为十六进制数 (Easy)"
+title:      "数字转换为十六进制数"
 date:       2017-02-09 21:30:00 +0800
 categories: [leetcode]
 tags:       [bit-manipulation]
 permalink:  /convert-a-number-to-hexadecimal/
 ---
+
+## 405. 数字转换为十六进制数 (Easy)
 
 <p>给定一个整数，编写一个算法将这个数转换为十六进制数。对于负整数，我们通常使用&nbsp;<a href="https://baike.baidu.com/item/%E8%A1%A5%E7%A0%81/6854613?fr=aladdin">补码运算</a>&nbsp;方法。</p>
 

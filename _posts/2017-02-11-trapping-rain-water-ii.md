@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "407. 接雨水 II (Hard)"
+title:      "接雨水 II"
 date:       2017-02-11 21:30:00 +0800
 categories: [leetcode]
 tags:       [heap, breadth-first-search]
 permalink:  /trapping-rain-water-ii/
 ---
+
+## 407. 接雨水 II (Hard)
 
 <p>给定一个 <code>m x n</code>&nbsp;的矩阵，其中的值均为正整数，代表二维高度图每个单元的高度，请计算图中形状最多能接多少体积的雨水。</p>
 

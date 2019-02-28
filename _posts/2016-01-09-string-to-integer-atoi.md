@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "8. 字符串转换整数 (atoi) (Medium)"
+title:      "字符串转换整数 (atoi)"
 date:       2016-01-09 21:30:00 +0800
 categories: [leetcode]
 tags:       [math, string]
 permalink:  /string-to-integer-atoi/
 ---
+
+## 8. 字符串转换整数 (atoi) (Medium)
 
 <p>请你来实现一个&nbsp;<code>atoi</code>&nbsp;函数，使其能将字符串转换成整数。</p>
 

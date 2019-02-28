@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "947. 移除最多的同行或同列石头 (Medium)"
+title:      "移除最多的同行或同列石头"
 date:       2018-08-05 21:30:00 +0800
 categories: [leetcode]
 tags:       [depth-first-search, union-find]
 permalink:  /most-stones-removed-with-same-row-or-column/
 ---
+
+## 947. 移除最多的同行或同列石头 (Medium)
 
 <p>在二维平面上，我们将石头放置在一些整数坐标点上。每个坐标点上最多只能有一块石头。<br>
 <br>

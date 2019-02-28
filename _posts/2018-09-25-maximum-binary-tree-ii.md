@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "998. 最大二叉树 II (Medium)"
+title:      "最大二叉树 II"
 date:       2018-09-25 21:30:00 +0800
 categories: [leetcode]
 tags:       [tree]
 permalink:  /maximum-binary-tree-ii/
 ---
+
+## 998. 最大二叉树 II (Medium)
 
 <p>最大树定义：一个树，其中每个节点的值都大于其子树中的任何其他值。</p>
 

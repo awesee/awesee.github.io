@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "313. 超级丑数 (Medium)"
+title:      "超级丑数"
 date:       2016-11-09 21:30:00 +0800
 categories: [leetcode]
 tags:       [heap, math]
 permalink:  /super-ugly-number/
 ---
+
+## 313. 超级丑数 (Medium)
 
 <p>编写一段程序来查找第 <code><em>n</em></code> 个超级丑数。</p>
 

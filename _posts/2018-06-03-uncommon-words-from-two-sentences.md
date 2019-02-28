@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "884. 两句话中的不常见单词 (Easy)"
+title:      "两句话中的不常见单词"
 date:       2018-06-03 21:30:00 +0800
 categories: [leetcode]
 tags:       [hash-table]
 permalink:  /uncommon-words-from-two-sentences/
 ---
+
+## 884. 两句话中的不常见单词 (Easy)
 
 <p>给定两个句子&nbsp;<code>A</code>&nbsp;和&nbsp;<code>B</code>&nbsp;。&nbsp;（<em>句子</em>是一串由空格分隔的单词。每个<em>单词</em>仅由小写字母组成。）</p>
 

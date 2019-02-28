@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "448. 找到所有数组中消失的数字 (Easy)"
+title:      "找到所有数组中消失的数字"
 date:       2017-03-24 21:30:00 +0800
 categories: [leetcode]
 tags:       [array]
 permalink:  /find-all-numbers-disappeared-in-an-array/
 ---
+
+## 448. 找到所有数组中消失的数字 (Easy)
 
 <p>给定一个范围在&nbsp; 1 &le; a[i] &le; <em>n</em> (&nbsp;<em>n</em> = 数组大小 ) 的 整型数组，数组中的元素一些出现了两次，另一些只出现一次。</p>
 

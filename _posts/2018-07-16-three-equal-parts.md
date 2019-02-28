@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "927. 三等分 (Hard)"
+title:      "三等分"
 date:       2018-07-16 21:30:00 +0800
 categories: [leetcode]
 tags:       [greedy, math, binary-search]
 permalink:  /three-equal-parts/
 ---
+
+## 927. 三等分 (Hard)
 
 <p>给定一个由 <code>0</code> 和 <code>1</code> 组成的数组&nbsp;<code>A</code>，将数组分成 3&nbsp;个非空的部分，使得所有这些部分表示相同的二进制值。</p>
 

@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "649. Dota2 参议院 (Medium)"
+title:      "Dota2 参议院"
 date:       2017-10-11 21:30:00 +0800
 categories: [leetcode]
 tags:       [greedy]
 permalink:  /dota2-senate/
 ---
+
+## 649. Dota2 参议院 (Medium)
 
 <p>&nbsp;Dota2 的世界里有两个阵营：<code>Radiant</code>(天辉)和&nbsp;<code>Dire</code>(夜魇)</p>
 

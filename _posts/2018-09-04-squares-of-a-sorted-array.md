@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "977. 有序数组的平方 (Easy)"
+title:      "有序数组的平方"
 date:       2018-09-04 21:30:00 +0800
 categories: [leetcode]
 tags:       [sort, array, two-pointers]
 permalink:  /squares-of-a-sorted-array/
 ---
+
+## 977. 有序数组的平方 (Easy)
 
 <p>给定一个按非递减顺序排序的整数数组 <code>A</code>，返回每个数字的平方组成的新数组，要求也按非递减顺序排序。</p>
 

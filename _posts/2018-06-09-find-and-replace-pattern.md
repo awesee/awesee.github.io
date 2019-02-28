@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "890. 查找和替换模式 (Medium)"
+title:      "查找和替换模式"
 date:       2018-06-09 21:30:00 +0800
 categories: [leetcode]
 tags:       [string]
 permalink:  /find-and-replace-pattern/
 ---
+
+## 890. 查找和替换模式 (Medium)
 
 <p>你有一个单词列表&nbsp;<code>words</code>&nbsp;和一个模式&nbsp;&nbsp;<code>pattern</code>，你想知道 <code>words</code> 中的哪些单词与模式匹配。</p>
 

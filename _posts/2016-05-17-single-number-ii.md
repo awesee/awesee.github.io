@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "137. 只出现一次的数字 II (Medium)"
+title:      "只出现一次的数字 II"
 date:       2016-05-17 21:30:00 +0800
 categories: [leetcode]
 tags:       [bit-manipulation]
 permalink:  /single-number-ii/
 ---
+
+## 137. 只出现一次的数字 II (Medium)
 
 <p>给定一个<strong>非空</strong>整数数组，除了某个元素只出现一次以外，其余每个元素均出现了三次。找出那个只出现了一次的元素。</p>
 

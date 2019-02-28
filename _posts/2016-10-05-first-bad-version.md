@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "278. 第一个错误的版本 (Easy)"
+title:      "第一个错误的版本"
 date:       2016-10-05 21:30:00 +0800
 categories: [leetcode]
 tags:       [binary-search]
 permalink:  /first-bad-version/
 ---
+
+## 278. 第一个错误的版本 (Easy)
 
 <p>你是产品经理，目前正在带领一个团队开发新的产品。不幸的是，你的产品的最新版本没有通过质量检测。由于每个版本都是基于之前的版本开发的，所以错误的版本之后的所有版本都是错的。</p>
 

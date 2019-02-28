@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "93. 复原IP地址 (Medium)"
+title:      "复原IP地址"
 date:       2016-04-03 21:30:00 +0800
 categories: [leetcode]
 tags:       [string, backtracking]
 permalink:  /restore-ip-addresses/
 ---
+
+## 93. 复原IP地址 (Medium)
 
 <p>给定一个只包含数字的字符串，复原它并返回所有可能的 IP 地址格式。</p>
 

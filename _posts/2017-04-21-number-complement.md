@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "476. 数字的补数 (Easy)"
+title:      "数字的补数"
 date:       2017-04-21 21:30:00 +0800
 categories: [leetcode]
 tags:       [bit-manipulation]
 permalink:  /number-complement/
 ---
+
+## 476. 数字的补数 (Easy)
 
 <p>给定一个正整数，输出它的补数。补数是对该数的二进制表示取反。</p>
 

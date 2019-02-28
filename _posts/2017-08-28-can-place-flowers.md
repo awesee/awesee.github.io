@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "605. 种花问题 (Easy)"
+title:      "种花问题"
 date:       2017-08-28 21:30:00 +0800
 categories: [leetcode]
 tags:       [array]
 permalink:  /can-place-flowers/
 ---
+
+## 605. 种花问题 (Easy)
 
 <p>假设你有一个很长的花坛，一部分地块种植了花，另一部分却没有。可是，花卉不能种植在相邻的地块上，它们会争夺水源，两者都会死去。</p>
 

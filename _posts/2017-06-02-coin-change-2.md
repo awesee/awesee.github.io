@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "518. 零钱兑换 II (Medium)"
+title:      "零钱兑换 II"
 date:       2017-06-02 21:30:00 +0800
 categories: [leetcode]
 tags:       []
 permalink:  /coin-change-2/
 ---
+
+## 518. 零钱兑换 II (Medium)
 
 <p>给定不同面额的硬币和一个总金额。写出函数来计算可以凑成总金额的硬币组合数。假设每一种面额的硬币有无限个。&nbsp;</p>
 

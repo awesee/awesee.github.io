@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "969. 煎饼排序 (Medium)"
+title:      "煎饼排序"
 date:       2018-08-27 21:30:00 +0800
 categories: [leetcode]
 tags:       [sort, array]
 permalink:  /pancake-sorting/
 ---
+
+## 969. 煎饼排序 (Medium)
 
 <p>给定数组&nbsp;<code>A</code>，我们可以对其进行<em>煎饼翻转</em>：我们选择一些正整数&nbsp;<code><strong>k</strong>&nbsp;&lt;= A.length</code>，然后反转 <code>A</code> 的前 <strong>k</strong>&nbsp;个元素的顺序。我们要执行零次或多次煎饼翻转（按顺序一次接一次地进行）以完成对数组 <code>A</code> 的排序。</p>
 

@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "264. 丑数 II (Medium)"
+title:      "丑数 II"
 date:       2016-09-21 21:30:00 +0800
 categories: [leetcode]
 tags:       [heap, math, dynamic-programming]
 permalink:  /ugly-number-ii/
 ---
+
+## 264. 丑数 II (Medium)
 
 <p>编写一个程序，找出第 <code>n</code> 个丑数。</p>
 

@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "71. 简化路径 (Medium)"
+title:      "简化路径"
 date:       2016-03-12 21:30:00 +0800
 categories: [leetcode]
 tags:       [stack, string]
 permalink:  /simplify-path/
 ---
+
+## 71. 简化路径 (Medium)
 
 <p>以 Unix 风格给出一个文件的<strong>绝对路径</strong>，你需要简化它。或者换句话说，将其转换为规范路径。</p>
 
