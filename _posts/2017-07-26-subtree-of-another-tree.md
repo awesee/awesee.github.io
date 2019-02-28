@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "572. 另一个树的子树 (Easy)"
+title:      "另一个树的子树"
 date:       2017-07-26 21:30:00 +0800
 categories: [leetcode]
 tags:       [tree]
 permalink:  /subtree-of-another-tree/
 ---
+
+## 572. 另一个树的子树 (Easy)
 
 <p>给定两个非空二叉树 <strong>s</strong> 和 <strong>t</strong>，检验&nbsp;<strong>s</strong> 中是否包含和 <strong>t</strong> 具有相同结构和节点值的子树。<strong>s</strong> 的一个子树包括 <strong>s</strong> 的一个节点和这个节点的所有子孙。<strong>s</strong> 也可以看做它自身的一棵子树。</p>
 

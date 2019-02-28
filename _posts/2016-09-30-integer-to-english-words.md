@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "273. 整数转换英文表示 (Hard)"
+title:      "整数转换英文表示"
 date:       2016-09-30 21:30:00 +0800
 categories: [leetcode]
 tags:       [math, string]
 permalink:  /integer-to-english-words/
 ---
+
+## 273. 整数转换英文表示 (Hard)
 
 <p>将非负整数转换为其对应的英文表示。可以保证给定输入小于&nbsp;2<sup>31</sup> - 1 。</p>
 

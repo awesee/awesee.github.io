@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "930. 和相同的二元子数组 (Medium)"
+title:      "和相同的二元子数组"
 date:       2018-07-19 21:30:00 +0800
 categories: [leetcode]
 tags:       [hash-table, two-pointers]
 permalink:  /binary-subarrays-with-sum/
 ---
+
+## 930. 和相同的二元子数组 (Medium)
 
 <p>在由若干&nbsp;<code>0</code>&nbsp;和&nbsp;<code>1</code>&nbsp; 组成的数组&nbsp;<code>A</code>&nbsp;中，有多少个和为 <code>S</code>&nbsp;的<strong>非空</strong>子数组。</p>
 

@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "838. 推多米诺 (Medium)"
+title:      "推多米诺"
 date:       2018-04-18 21:30:00 +0800
 categories: [leetcode]
 tags:       [two-pointers, dynamic-programming]
 permalink:  /push-dominoes/
 ---
+
+## 838. 推多米诺 (Medium)
 
 <p>一行中有 <code>N</code> 张多米诺骨牌，我们将每张多米诺骨牌垂直竖立。</p>
 

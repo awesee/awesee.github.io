@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "852. 山脉数组的峰顶索引 (Easy)"
+title:      "山脉数组的峰顶索引"
 date:       2018-05-02 21:30:00 +0800
 categories: [leetcode]
 tags:       [binary-search]
 permalink:  /peak-index-in-a-mountain-array/
 ---
+
+## 852. 山脉数组的峰顶索引 (Easy)
 
 <p>我们把符合下列属性的数组&nbsp;<code>A</code>&nbsp;称作山脉：</p>
 

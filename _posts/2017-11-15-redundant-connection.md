@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "684. 冗余连接 (Medium)"
+title:      "冗余连接"
 date:       2017-11-15 21:30:00 +0800
 categories: [leetcode]
 tags:       [tree, union-find, graph]
 permalink:  /redundant-connection/
 ---
+
+## 684. 冗余连接 (Medium)
 
 <p>在本问题中, 树指的是一个连通且无环的<strong>无向</strong>图。</p>
 

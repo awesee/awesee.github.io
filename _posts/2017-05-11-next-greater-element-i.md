@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "496. 下一个更大元素 I (Easy)"
+title:      "下一个更大元素 I"
 date:       2017-05-11 21:30:00 +0800
 categories: [leetcode]
 tags:       [stack]
 permalink:  /next-greater-element-i/
 ---
+
+## 496. 下一个更大元素 I (Easy)
 
 <p>给定两个<strong>没有重复元素</strong>的数组&nbsp;<code>nums1</code> 和&nbsp;<code>nums2</code>&nbsp;，其中<code>nums1</code>&nbsp;是&nbsp;<code>nums2</code>&nbsp;的子集。找到&nbsp;<code>nums1</code>&nbsp;中每个元素在&nbsp;<code>nums2</code>&nbsp;中的下一个比其大的值。</p>
 

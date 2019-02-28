@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "165. 比较版本号 (Medium)"
+title:      "比较版本号"
 date:       2016-06-14 21:30:00 +0800
 categories: [leetcode]
 tags:       [string]
 permalink:  /compare-version-numbers/
 ---
+
+## 165. 比较版本号 (Medium)
 
 <p>比较两个版本号 <em>version1&nbsp;</em>和 <em>version2</em>。<br>
 如果&nbsp;<code><em>version1&nbsp;</em>&gt;&nbsp;<em>version2</em></code>&nbsp;返回&nbsp;<code>1</code>，如果&nbsp;<code><em>version1&nbsp;</em>&lt;&nbsp;<em>version2</em></code> 返回 <code>-1</code>， 除此之外返回 <code>0</code>。</p>

@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "699. 掉落的方块 (Hard)"
+title:      "掉落的方块"
 date:       2017-11-30 21:30:00 +0800
 categories: [leetcode]
 tags:       [segment-tree, binary-search-tree]
 permalink:  /falling-squares/
 ---
+
+## 699. 掉落的方块 (Hard)
 
 <p>在无限长的数轴（即 x 轴）上，我们根据给定的顺序放置对应的正方形方块。</p>
 

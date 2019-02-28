@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "914. 卡牌分组 (Easy)"
+title:      "卡牌分组"
 date:       2018-07-03 21:30:00 +0800
 categories: [leetcode]
 tags:       [array, math]
 permalink:  /x-of-a-kind-in-a-deck-of-cards/
 ---
+
+## 914. 卡牌分组 (Easy)
 
 <p>给定一副牌，每张牌上都写着一个整数。</p>
 

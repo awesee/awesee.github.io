@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "180. 连续出现的数字 (Medium)"
+title:      "连续出现的数字"
 date:       2016-06-29 21:30:00 +0800
 categories: [leetcode]
 tags:       []
 permalink:  /consecutive-numbers/
 ---
+
+## 180. 连续出现的数字 (Medium)
 
 <p>编写一个 SQL 查询，查找所有至少连续出现三次的数字。</p>
 

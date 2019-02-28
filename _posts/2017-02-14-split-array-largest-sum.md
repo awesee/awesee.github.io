@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "410. 分割数组的最大值 (Hard)"
+title:      "分割数组的最大值"
 date:       2017-02-14 21:30:00 +0800
 categories: [leetcode]
 tags:       [binary-search, dynamic-programming]
 permalink:  /split-array-largest-sum/
 ---
+
+## 410. 分割数组的最大值 (Hard)
 
 <p>给定一个非负整数数组和一个整数&nbsp;<em>m</em>，你需要将这个数组分成&nbsp;<em>m&nbsp;</em>个非空的连续子数组。设计一个算法使得这&nbsp;<em>m&nbsp;</em>个子数组各自和的最大值最小。</p>
 

@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "937. 重新排列日志文件 (Easy)"
+title:      "重新排列日志文件"
 date:       2018-07-26 21:30:00 +0800
 categories: [leetcode]
 tags:       [string]
 permalink:  /reorder-log-files/
 ---
+
+## 937. 重新排列日志文件 (Easy)
 
 <p>你有一个日志数组 <code>logs</code>。每条日志都是以空格分隔的字串。</p>
 

@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "938. 二叉搜索树的范围和 (Medium)"
+title:      "二叉搜索树的范围和"
 date:       2018-07-27 21:30:00 +0800
 categories: [leetcode]
 tags:       [binary-search-tree]
 permalink:  /range-sum-of-bst/
 ---
+
+## 938. 二叉搜索树的范围和 (Medium)
 
 <p>给定二叉搜索树的根结点&nbsp;<code>root</code>，返回 <code>L</code> 和 <code>R</code>（含）之间的所有结点的值的和。</p>
 

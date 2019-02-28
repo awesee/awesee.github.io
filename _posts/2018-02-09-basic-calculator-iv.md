@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "770. 基本计算器 IV (Hard)"
+title:      "基本计算器 IV"
 date:       2018-02-09 21:30:00 +0800
 categories: [leetcode]
 tags:       [stack, hash-table, string]
 permalink:  /basic-calculator-iv/
 ---
+
+## 770. 基本计算器 IV (Hard)
 
 <p>给定一个表达式&nbsp;<code>expression</code>&nbsp;如&nbsp;<code>expression = &quot;e + 8 - a + 5&quot;</code>&nbsp;和一个求值映射，如&nbsp;<code>{&quot;e&quot;: 1}</code>（给定的形式为&nbsp;<code>evalvars = [&quot;e&quot;]</code> 和&nbsp;<code>evalints = [1]</code>），返回表示简化表达式的标记列表，例如 <code>[&quot;-1*a&quot;,&quot;14&quot;]</code></p>
 

@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "429. N叉树的层序遍历 (Easy)"
+title:      "N叉树的层序遍历"
 date:       2017-03-05 21:30:00 +0800
 categories: [leetcode]
 tags:       [tree, breadth-first-search]
 permalink:  /n-ary-tree-level-order-traversal/
 ---
+
+## 429. N叉树的层序遍历 (Easy)
 
 <p>给定一个 N 叉树，返回其节点值的<em>层序遍历</em>。 (即从左到右，逐层遍历)。</p>
 

@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "552. 学生出勤记录 II (Hard)"
+title:      "学生出勤记录 II"
 date:       2017-07-06 21:30:00 +0800
 categories: [leetcode]
 tags:       [dynamic-programming]
 permalink:  /student-attendance-record-ii/
 ---
+
+## 552. 学生出勤记录 II (Hard)
 
 <p>给定一个正整数&nbsp;<strong>n</strong>，返回长度为 n 的所有可被视为可奖励的出勤记录的数量。 答案可能非常大，你只需返回结果mod 10<sup>9</sup> + 7的值。</p>
 

@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "983. 最低票价 (Medium)"
+title:      "最低票价"
 date:       2018-09-10 21:30:00 +0800
 categories: [leetcode]
 tags:       [dynamic-programming]
 permalink:  /minimum-cost-for-tickets/
 ---
+
+## 983. 最低票价 (Medium)
 
 <p>在一个火车旅行很受欢迎的国度，你提前一年计划了一些火车旅行。在接下来的一年里，你要旅行的日子将以一个名为&nbsp;<code>days</code>&nbsp;的数组给出。每一项是一个从&nbsp;<code>1</code>&nbsp;到&nbsp;<code>365</code>&nbsp;的整数。</p>
 

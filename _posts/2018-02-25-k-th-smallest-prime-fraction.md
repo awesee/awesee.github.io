@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "786. 第 K 个最小的素数分数 (Hard)"
+title:      "第 K 个最小的素数分数"
 date:       2018-02-25 21:30:00 +0800
 categories: [leetcode]
 tags:       [heap, binary-search]
 permalink:  /k-th-smallest-prime-fraction/
 ---
+
+## 786. 第 K 个最小的素数分数 (Hard)
 
 <p>一个已排序好的表&nbsp;<code>A</code>，其包含 1 和其他一些素数.&nbsp; 当列表中的每一个 p&lt;q 时，我们可以构造一个分数 p/q 。</p>
 

@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "972. 相等的有理数 (Hard)"
+title:      "相等的有理数"
 date:       2018-08-30 21:30:00 +0800
 categories: [leetcode]
 tags:       [math]
 permalink:  /equal-rational-numbers/
 ---
+
+## 972. 相等的有理数 (Hard)
 
 <p>给定两个字符串 <code>S</code> 和 <code>T</code>，每个字符串代表一个非负有理数，只有当它们表示相同的数字时才返回 <strong>true</strong>；否则，返回 <strong>false</strong>。字符串中可以使用括号来表示有理数的重复部分。</p>
 

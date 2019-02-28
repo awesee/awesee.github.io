@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "307. 区域和检索 - 数组可修改 (Medium)"
+title:      "区域和检索 - 数组可修改"
 date:       2016-11-03 21:30:00 +0800
 categories: [leetcode]
 tags:       [binary-indexed-tree, segment-tree]
 permalink:  /range-sum-query-mutable/
 ---
+
+## 307. 区域和检索 - 数组可修改 (Medium)
 
 <p>给定一个整数数组 &nbsp;<em>nums</em>，求出数组从索引&nbsp;<em>i&nbsp;</em>到&nbsp;<em>j&nbsp;&nbsp;</em>(<em>i</em>&nbsp;&le;&nbsp;<em>j</em>) 范围内元素的总和，包含&nbsp;<em>i,&nbsp; j&nbsp;</em>两点。</p>
 

@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "915. 分割数组 (Medium)"
+title:      "分割数组"
 date:       2018-07-04 21:30:00 +0800
 categories: [leetcode]
 tags:       [array]
 permalink:  /partition-array-into-disjoint-intervals/
 ---
+
+## 915. 分割数组 (Medium)
 
 <p>给定一个数组&nbsp;<code>A</code>，将其划分为两个不相交（没有公共元素）的连续子数组&nbsp;<code>left</code>&nbsp;和&nbsp;<code>right</code>，&nbsp;使得：</p>
 

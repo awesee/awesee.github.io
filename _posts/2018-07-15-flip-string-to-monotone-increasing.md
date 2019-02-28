@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "926. 将字符串翻转到单调递增 (Medium)"
+title:      "将字符串翻转到单调递增"
 date:       2018-07-15 21:30:00 +0800
 categories: [leetcode]
 tags:       [array]
 permalink:  /flip-string-to-monotone-increasing/
 ---
+
+## 926. 将字符串翻转到单调递增 (Medium)
 
 <p>如果一个由&nbsp;<code>&#39;0&#39;</code> 和 <code>&#39;1&#39;</code>&nbsp;组成的字符串，是以一些 <code>&#39;0&#39;</code>（可能没有 <code>&#39;0&#39;</code>）后面跟着一些 <code>&#39;1&#39;</code>（也可能没有 <code>&#39;1&#39;</code>）的形式组成的，那么该字符串是<em>单调递增</em>的。</p>
 

@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "56. 合并区间 (Medium)"
+title:      "合并区间"
 date:       2016-02-26 21:30:00 +0800
 categories: [leetcode]
 tags:       [sort, array]
 permalink:  /merge-intervals/
 ---
+
+## 56. 合并区间 (Medium)
 
 <p>给出一个区间的集合，请合并所有重叠的区间。</p>
 

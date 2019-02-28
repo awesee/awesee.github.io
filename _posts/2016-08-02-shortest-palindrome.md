@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "214. 最短回文串 (Hard)"
+title:      "最短回文串"
 date:       2016-08-02 21:30:00 +0800
 categories: [leetcode]
 tags:       [string]
 permalink:  /shortest-palindrome/
 ---
+
+## 214. 最短回文串 (Hard)
 
 <p>给定一个字符串 <em><strong>s</strong></em>，你可以通过在字符串前面添加字符将其转换为回文串。找到并返回可以用这种方式转换的最短回文串。</p>
 

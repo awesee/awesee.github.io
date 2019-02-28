@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "12. 整数转罗马数字 (Medium)"
+title:      "整数转罗马数字"
 date:       2016-01-13 21:30:00 +0800
 categories: [leetcode]
 tags:       [math, string]
 permalink:  /integer-to-roman/
 ---
+
+## 12. 整数转罗马数字 (Medium)
 
 <p>罗马数字包含以下七种字符：&nbsp;<code>I</code>，&nbsp;<code>V</code>，&nbsp;<code>X</code>，&nbsp;<code>L</code>，<code>C</code>，<code>D</code>&nbsp;和&nbsp;<code>M</code>。</p>
 

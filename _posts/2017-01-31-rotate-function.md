@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "396. 旋转函数 (Medium)"
+title:      "旋转函数"
 date:       2017-01-31 21:30:00 +0800
 categories: [leetcode]
 tags:       [math]
 permalink:  /rotate-function/
 ---
+
+## 396. 旋转函数 (Medium)
 
 <p>给定一个长度为 <em>n</em> 的整数数组&nbsp;<code>A</code>&nbsp;。</p>
 

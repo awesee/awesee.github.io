@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "913. 猫和老鼠 (Hard)"
+title:      "猫和老鼠"
 date:       2018-07-02 21:30:00 +0800
 categories: [leetcode]
 tags:       [breadth-first-search, minimax]
 permalink:  /cat-and-mouse/
 ---
+
+## 913. 猫和老鼠 (Hard)
 
 <p>两个玩家分别扮演猫（Cat）和老鼠（Mouse）在<strong>无向</strong>图上进行游戏，他们轮流行动。</p>
 

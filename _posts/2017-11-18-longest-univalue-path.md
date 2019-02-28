@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "687. 最长同值路径 (Easy)"
+title:      "最长同值路径"
 date:       2017-11-18 21:30:00 +0800
 categories: [leetcode]
 tags:       [tree, recursion]
 permalink:  /longest-univalue-path/
 ---
+
+## 687. 最长同值路径 (Easy)
 
 <p>给定一个二叉树，找到最长的路径，这个路径中的每个节点具有相同值。 这条路径可以经过也可以不经过根节点。</p>
 

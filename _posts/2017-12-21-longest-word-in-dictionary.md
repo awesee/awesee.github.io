@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "720. 词典中最长的单词 (Easy)"
+title:      "词典中最长的单词"
 date:       2017-12-21 21:30:00 +0800
 categories: [leetcode]
 tags:       [trie, hash-table]
 permalink:  /longest-word-in-dictionary/
 ---
+
+## 720. 词典中最长的单词 (Easy)
 
 <p>给出一个字符串数组<code>words</code>组成的一本英语词典。从中找出最长的一个单词，该单词是由<code>words</code>词典中其他单词逐步添加一个字母组成。若其中有多个可行的答案，则返回答案中字典序最小的单词。</p>
 

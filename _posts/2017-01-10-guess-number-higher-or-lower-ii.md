@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "375. 猜数字大小 II (Medium)"
+title:      "猜数字大小 II"
 date:       2017-01-10 21:30:00 +0800
 categories: [leetcode]
 tags:       [minimax, dynamic-programming]
 permalink:  /guess-number-higher-or-lower-ii/
 ---
+
+## 375. 猜数字大小 II (Medium)
 
 <p>我们正在玩一个猜数游戏，游戏规则如下：</p>
 

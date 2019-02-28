@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "697. 数组的度 (Easy)"
+title:      "数组的度"
 date:       2017-11-28 21:30:00 +0800
 categories: [leetcode]
 tags:       [array]
 permalink:  /degree-of-an-array/
 ---
+
+## 697. 数组的度 (Easy)
 
 <p>给定一个非空且只包含非负数的整数数组&nbsp;<code>nums</code>, 数组的度的定义是指数组里任一元素出现频数的最大值。</p>
 

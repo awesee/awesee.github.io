@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "861. 翻转矩阵后的得分 (Medium)"
+title:      "翻转矩阵后的得分"
 date:       2018-05-11 21:30:00 +0800
 categories: [leetcode]
 tags:       [greedy]
 permalink:  /score-after-flipping-matrix/
 ---
+
+## 861. 翻转矩阵后的得分 (Medium)
 
 <p>有一个二维矩阵&nbsp;<code>A</code> 其中每个元素的值为&nbsp;<code>0</code>&nbsp;或&nbsp;<code>1</code>&nbsp;。</p>
 

@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "955. 删列造序 II (Medium)"
+title:      "删列造序 II"
 date:       2018-08-13 21:30:00 +0800
 categories: [leetcode]
 tags:       [greedy]
 permalink:  /delete-columns-to-make-sorted-ii/
 ---
+
+## 955. 删列造序 II (Medium)
 
 <p>给定由&nbsp;<code>N</code>&nbsp;个小写字母字符串组成的数组&nbsp;<code>A</code>，其中每个字符串长度相等。</p>
 

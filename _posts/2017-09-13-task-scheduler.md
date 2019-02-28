@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "621. 任务调度器 (Medium)"
+title:      "任务调度器"
 date:       2017-09-13 21:30:00 +0800
 categories: [leetcode]
 tags:       [greedy, queue, array]
 permalink:  /task-scheduler/
 ---
+
+## 621. 任务调度器 (Medium)
 
 <p>给定一个用字符数组表示的 CPU 需要执行的任务列表。其中包含使用大写的 A - Z 字母表示的26 种不同种类的任务。任务可以以任意顺序执行，并且每个任务都可以在 1 个单位时间内执行完。CPU 在任何一个单位时间内都可以执行一个任务，或者在待命状态。</p>
 

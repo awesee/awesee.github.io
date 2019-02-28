@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "123. 买卖股票的最佳时机 III (Hard)"
+title:      "买卖股票的最佳时机 III"
 date:       2016-05-03 21:30:00 +0800
 categories: [leetcode]
 tags:       [array, dynamic-programming]
 permalink:  /best-time-to-buy-and-sell-stock-iii/
 ---
+
+## 123. 买卖股票的最佳时机 III (Hard)
 
 <p>给定一个数组，它的第<em> i</em> 个元素是一支给定的股票在第 <em>i </em>天的价格。</p>
 

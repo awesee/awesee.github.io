@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "589. N叉树的前序遍历 (Easy)"
+title:      "N叉树的前序遍历"
 date:       2017-08-12 21:30:00 +0800
 categories: [leetcode]
 tags:       [tree]
 permalink:  /n-ary-tree-preorder-traversal/
 ---
+
+## 589. N叉树的前序遍历 (Easy)
 
 <p>给定一个 N 叉树，返回其节点值的<em>前序遍历</em>。</p>
 

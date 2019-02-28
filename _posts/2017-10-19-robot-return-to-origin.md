@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "657. 机器人能否返回原点 (Easy)"
+title:      "机器人能否返回原点"
 date:       2017-10-19 21:30:00 +0800
 categories: [leetcode]
 tags:       [string]
 permalink:  /robot-return-to-origin/
 ---
+
+## 657. 机器人能否返回原点 (Easy)
 
 <p>在二维平面上，有一个机器人从原点 (0, 0) 开始。给出它的移动顺序，判断这个机器人在完成移动后是否在<strong>&nbsp;(0, 0) 处结束</strong>。</p>
 

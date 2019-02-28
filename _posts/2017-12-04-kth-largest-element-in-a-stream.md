@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "703. 数据流中的第K大元素 (Easy)"
+title:      "数据流中的第K大元素"
 date:       2017-12-04 21:30:00 +0800
 categories: [leetcode]
 tags:       [heap]
 permalink:  /kth-largest-element-in-a-stream/
 ---
+
+## 703. 数据流中的第K大元素 (Easy)
 
 <p>设计一个找到数据流中第K大元素的类（class）。注意是排序后的第K大元素，不是第K个不同的元素。</p>
 

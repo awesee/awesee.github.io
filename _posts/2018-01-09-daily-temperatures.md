@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "739. 每日温度 (Medium)"
+title:      "每日温度"
 date:       2018-01-09 21:30:00 +0800
 categories: [leetcode]
 tags:       [stack, hash-table]
 permalink:  /daily-temperatures/
 ---
+
+## 739. 每日温度 (Medium)
 
 <p>根据每日 <code>气温</code> 列表，请重新生成一个列表，对应位置的输入是你需要再等待多久温度才会升高的天数。如果之后都不会升高，请输入&nbsp;<code>0</code> 来代替。</p>
 

@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "21. 合并两个有序链表 (Easy)"
+title:      "合并两个有序链表"
 date:       2016-01-22 21:30:00 +0800
 categories: [leetcode]
 tags:       [linked-list]
 permalink:  /merge-two-sorted-lists/
 ---
+
+## 21. 合并两个有序链表 (Easy)
 
 <p>将两个有序链表合并为一个新的有序链表并返回。新链表是通过拼接给定的两个链表的所有节点组成的。&nbsp;</p>
 

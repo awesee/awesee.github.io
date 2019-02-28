@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "43. 字符串相乘 (Medium)"
+title:      "字符串相乘"
 date:       2016-02-13 21:30:00 +0800
 categories: [leetcode]
 tags:       [math, string]
 permalink:  /multiply-strings/
 ---
+
+## 43. 字符串相乘 (Medium)
 
 <p>给定两个以字符串形式表示的非负整数&nbsp;<code>num1</code>&nbsp;和&nbsp;<code>num2</code>，返回&nbsp;<code>num1</code>&nbsp;和&nbsp;<code>num2</code>&nbsp;的乘积，它们的乘积也表示为字符串形式。</p>
 

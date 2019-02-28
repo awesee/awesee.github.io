@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "865. 具有所有最深结点的最小子树 (Medium)"
+title:      "具有所有最深结点的最小子树"
 date:       2018-05-15 21:30:00 +0800
 categories: [leetcode]
 tags:       [tree]
 permalink:  /smallest-subtree-with-all-the-deepest-nodes/
 ---
+
+## 865. 具有所有最深结点的最小子树 (Medium)
 
 <p>给定一个根为&nbsp;<code>root</code>&nbsp;的二叉树，每个结点的<em>深度</em>是它到根的最短距离。</p>
 

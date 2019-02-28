@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "466. 统计重复个数 (Hard)"
+title:      "统计重复个数"
 date:       2017-04-11 21:30:00 +0800
 categories: [leetcode]
 tags:       [dynamic-programming]
 permalink:  /count-the-repetitions/
 ---
+
+## 466. 统计重复个数 (Hard)
 
 <p>定义由 n 个连接的字符串 s 组成字符串 S，即&nbsp;<code>S = [s,n]</code>。例如，<code>[&quot;abc&quot;, 3]</code>=&ldquo;abcabcabc&rdquo;。</p>
 

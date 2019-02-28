@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "152. 乘积最大子序列 (Medium)"
+title:      "乘积最大子序列"
 date:       2016-06-01 21:30:00 +0800
 categories: [leetcode]
 tags:       [array, dynamic-programming]
 permalink:  /maximum-product-subarray/
 ---
+
+## 152. 乘积最大子序列 (Medium)
 
 <p>给定一个整数数组 <code>nums</code>&nbsp;，找出一个序列中乘积最大的连续子序列（该序列至少包含一个数）。</p>
 

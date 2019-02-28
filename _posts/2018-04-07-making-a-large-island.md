@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "827. 最大人工岛 (Hard)"
+title:      "最大人工岛"
 date:       2018-04-07 21:30:00 +0800
 categories: [leetcode]
 tags:       [depth-first-search]
 permalink:  /making-a-large-island/
 ---
+
+## 827. 最大人工岛 (Hard)
 
 <p>在二维地图上，&nbsp;<code>0</code>代表海洋，&nbsp;<code>1</code>代表陆地，我们最多只能将一格&nbsp;<code>0</code> 海洋变成&nbsp;<code>1</code>变成陆地。</p>
 

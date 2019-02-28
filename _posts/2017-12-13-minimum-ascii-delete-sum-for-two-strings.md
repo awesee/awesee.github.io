@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "712. 两个字符串的最小ASCII删除和 (Medium)"
+title:      "两个字符串的最小ASCII删除和"
 date:       2017-12-13 21:30:00 +0800
 categories: [leetcode]
 tags:       [dynamic-programming]
 permalink:  /minimum-ascii-delete-sum-for-two-strings/
 ---
+
+## 712. 两个字符串的最小ASCII删除和 (Medium)
 
 <p>给定两个字符串<code>s1, s2</code>，找到使两个字符串相等所需删除字符的ASCII值的最小和。</p>
 

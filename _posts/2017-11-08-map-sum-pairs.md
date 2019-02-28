@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "677. 键值映射 (Medium)"
+title:      "键值映射"
 date:       2017-11-08 21:30:00 +0800
 categories: [leetcode]
 tags:       [trie]
 permalink:  /map-sum-pairs/
 ---
+
+## 677. 键值映射 (Medium)
 
 <p>实现一个 MapSum 类里的两个方法，<code>insert</code>&nbsp;和&nbsp;<code>sum</code>。</p>
 

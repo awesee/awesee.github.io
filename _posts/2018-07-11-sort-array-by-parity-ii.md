@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "922. 按奇偶排序数组 II (Easy)"
+title:      "按奇偶排序数组 II"
 date:       2018-07-11 21:30:00 +0800
 categories: [leetcode]
 tags:       [sort, array]
 permalink:  /sort-array-by-parity-ii/
 ---
+
+## 922. 按奇偶排序数组 II (Easy)
 
 <p>给定一个非负整数数组&nbsp;<code>A</code>， A 中一半整数是奇数，一半整数是偶数。</p>
 

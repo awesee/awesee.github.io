@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "942. 增减字符串匹配 (Easy)"
+title:      "增减字符串匹配"
 date:       2018-07-31 21:30:00 +0800
 categories: [leetcode]
 tags:       [math]
 permalink:  /di-string-match/
 ---
+
+## 942. 增减字符串匹配 (Easy)
 
 <p>给定只含&nbsp;<code>&quot;I&quot;</code>（增大）或 <code>&quot;D&quot;</code>（减小）的字符串&nbsp;<code>S</code>&nbsp;，令&nbsp;<code>N = S.length</code>。</p>
 

@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "879. 盈利计划 (Hard)"
+title:      "盈利计划"
 date:       2018-05-29 21:30:00 +0800
 categories: [leetcode]
 tags:       [dynamic-programming]
 permalink:  /profitable-schemes/
 ---
+
+## 879. 盈利计划 (Hard)
 
 <p>帮派里有 G 名成员，他们可能犯下各种各样的罪行。</p>
 

@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "20. 有效的括号 (Easy)"
+title:      "有效的括号"
 date:       2016-01-21 21:30:00 +0800
 categories: [leetcode]
 tags:       [stack, string]
 permalink:  /valid-parentheses/
 ---
+
+## 20. 有效的括号 (Easy)
 
 <p>给定一个只包括 <code>&#39;(&#39;</code>，<code>&#39;)&#39;</code>，<code>&#39;{&#39;</code>，<code>&#39;}&#39;</code>，<code>&#39;[&#39;</code>，<code>&#39;]&#39;</code>&nbsp;的字符串，判断字符串是否有效。</p>
 

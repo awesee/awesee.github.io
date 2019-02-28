@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "26. 删除排序数组中的重复项 (Easy)"
+title:      "删除排序数组中的重复项"
 date:       2016-01-27 21:30:00 +0800
 categories: [leetcode]
 tags:       [array, two-pointers]
 permalink:  /remove-duplicates-from-sorted-array/
 ---
+
+## 26. 删除排序数组中的重复项 (Easy)
 
 <p>给定一个排序数组，你需要在<strong><a href="http://baike.baidu.com/item/%E5%8E%9F%E5%9C%B0%E7%AE%97%E6%B3%95" target="_blank">原地</a></strong>删除重复出现的元素，使得每个元素只出现一次，返回移除后数组的新长度。</p>
 

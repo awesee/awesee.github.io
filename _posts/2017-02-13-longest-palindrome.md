@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "409. 最长回文串 (Easy)"
+title:      "最长回文串"
 date:       2017-02-13 21:30:00 +0800
 categories: [leetcode]
 tags:       [hash-table]
 permalink:  /longest-palindrome/
 ---
+
+## 409. 最长回文串 (Easy)
 
 <p>给定一个包含大写字母和小写字母的字符串，找到通过这些字母构造成的最长的回文串。</p>
 

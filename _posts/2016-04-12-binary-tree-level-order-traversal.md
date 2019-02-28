@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "102. 二叉树的层次遍历 (Medium)"
+title:      "二叉树的层次遍历"
 date:       2016-04-12 21:30:00 +0800
 categories: [leetcode]
 tags:       [tree, breadth-first-search]
 permalink:  /binary-tree-level-order-traversal/
 ---
+
+## 102. 二叉树的层次遍历 (Medium)
 
 <p>给定一个二叉树，返回其按层次遍历的节点值。 （即逐层地，从左到右访问所有节点）。</p>
 

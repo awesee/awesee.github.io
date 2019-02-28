@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "25. k个一组翻转链表 (Hard)"
+title:      "k个一组翻转链表"
 date:       2016-01-26 21:30:00 +0800
 categories: [leetcode]
 tags:       [linked-list]
 permalink:  /reverse-nodes-in-k-group/
 ---
+
+## 25. k个一组翻转链表 (Hard)
 
 <p>给出一个链表，每&nbsp;<em>k&nbsp;</em>个节点一组进行翻转，并返回翻转后的链表。</p>
 

@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "404. 左叶子之和 (Easy)"
+title:      "左叶子之和"
 date:       2017-02-08 21:30:00 +0800
 categories: [leetcode]
 tags:       [tree]
 permalink:  /sum-of-left-leaves/
 ---
+
+## 404. 左叶子之和 (Easy)
 
 <p>计算给定二叉树的所有左叶子之和。</p>
 

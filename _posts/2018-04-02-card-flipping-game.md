@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "822. 翻转卡片游戏 (Medium)"
+title:      "翻转卡片游戏"
 date:       2018-04-02 21:30:00 +0800
 categories: [leetcode]
 tags:       []
 permalink:  /card-flipping-game/
 ---
+
+## 822. 翻转卡片游戏 (Medium)
 
 <p>在桌子上有 <code>N</code> 张卡片，每张卡片的正面和背面都写着一个正数（正面与背面上的数有可能不一样）。</p>
 

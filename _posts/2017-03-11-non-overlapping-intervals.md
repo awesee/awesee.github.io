@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "435. 无重叠区间 (Medium)"
+title:      "无重叠区间"
 date:       2017-03-11 21:30:00 +0800
 categories: [leetcode]
 tags:       [greedy]
 permalink:  /non-overlapping-intervals/
 ---
+
+## 435. 无重叠区间 (Medium)
 
 <p>给定一个区间的集合，找到需要移除区间的最小数量，使剩余区间互不重叠。</p>
 
