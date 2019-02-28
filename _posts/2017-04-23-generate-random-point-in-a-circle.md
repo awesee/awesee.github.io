@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "478. 在圆内随机生成点 (Medium)"
+title:      "在圆内随机生成点"
 date:       2017-04-23 21:30:00 +0800
 categories: [leetcode]
 tags:       [math, random, rejection-sampling]
 permalink:  /generate-random-point-in-a-circle/
 ---
+
+## 478. 在圆内随机生成点 (Medium)
 
 <p>给定圆的半径和圆心的 x、y 坐标，写一个在圆中产生均匀随机点的函数&nbsp;<code>randPoint</code>&nbsp;。</p>
 

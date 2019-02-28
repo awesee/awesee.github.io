@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "145. 二叉树的后序遍历 (Hard)"
+title:      "二叉树的后序遍历"
 date:       2016-05-25 21:30:00 +0800
 categories: [leetcode]
 tags:       [stack, tree]
 permalink:  /binary-tree-postorder-traversal/
 ---
+
+## 145. 二叉树的后序遍历 (Hard)
 
 <p>给定一个二叉树，返回它的 <em>后序&nbsp;</em>遍历。</p>
 

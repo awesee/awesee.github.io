@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "500. 键盘行 (Easy)"
+title:      "键盘行"
 date:       2017-05-15 21:30:00 +0800
 categories: [leetcode]
 tags:       [hash-table]
 permalink:  /keyboard-row/
 ---
+
+## 500. 键盘行 (Easy)
 
 <p>给定一个单词列表，只返回可以使用在键盘同一行的字母打印出来的单词。键盘如下图所示。</p>
 

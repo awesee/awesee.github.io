@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "691. 贴纸拼词 (Hard)"
+title:      "贴纸拼词"
 date:       2017-11-22 21:30:00 +0800
 categories: [leetcode]
 tags:       [dynamic-programming, backtracking]
 permalink:  /stickers-to-spell-word/
 ---
+
+## 691. 贴纸拼词 (Hard)
 
 <p>我们给出了 N 种不同类型的贴纸。每个贴纸上都有一个小写的英文单词。</p>
 

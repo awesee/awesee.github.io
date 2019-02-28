@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "647. 回文子串 (Medium)"
+title:      "回文子串"
 date:       2017-10-09 21:30:00 +0800
 categories: [leetcode]
 tags:       [string, dynamic-programming]
 permalink:  /palindromic-substrings/
 ---
+
+## 647. 回文子串 (Medium)
 
 <p>给定一个字符串，你的任务是计算这个字符串中有多少个回文子串。</p>
 

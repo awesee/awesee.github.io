@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "817. 链表组件 (Medium)"
+title:      "链表组件"
 date:       2018-03-28 21:30:00 +0800
 categories: [leetcode]
 tags:       [linked-list]
 permalink:  /linked-list-components/
 ---
+
+## 817. 链表组件 (Medium)
 
 <p>给定一个链表（链表结点包含一个整型值）的头结点&nbsp;<code>head</code>。</p>
 

@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "154. 寻找旋转排序数组中的最小值 II (Hard)"
+title:      "寻找旋转排序数组中的最小值 II"
 date:       2016-06-03 21:30:00 +0800
 categories: [leetcode]
 tags:       [array, binary-search]
 permalink:  /find-minimum-in-rotated-sorted-array-ii/
 ---
+
+## 154. 寻找旋转排序数组中的最小值 II (Hard)
 
 <p>假设按照升序排序的数组在预先未知的某个点上进行了旋转。</p>
 

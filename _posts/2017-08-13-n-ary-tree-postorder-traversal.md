@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "590. N叉树的后序遍历 (Easy)"
+title:      "N叉树的后序遍历"
 date:       2017-08-13 21:30:00 +0800
 categories: [leetcode]
 tags:       [tree]
 permalink:  /n-ary-tree-postorder-traversal/
 ---
+
+## 590. N叉树的后序遍历 (Easy)
 
 <p>给定一个 N 叉树，返回其节点值的<em>后序遍历</em>。</p>
 

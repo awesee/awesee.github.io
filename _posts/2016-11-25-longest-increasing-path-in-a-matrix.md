@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "329. 矩阵中的最长递增路径 (Hard)"
+title:      "矩阵中的最长递增路径"
 date:       2016-11-25 21:30:00 +0800
 categories: [leetcode]
 tags:       [depth-first-search, topological-sort, memoization]
 permalink:  /longest-increasing-path-in-a-matrix/
 ---
+
+## 329. 矩阵中的最长递增路径 (Hard)
 
 <p>给定一个整数矩阵，找出最长递增路径的长度。</p>
 

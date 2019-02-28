@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "682. 棒球比赛 (Easy)"
+title:      "棒球比赛"
 date:       2017-11-13 21:30:00 +0800
 categories: [leetcode]
 tags:       [stack]
 permalink:  /baseball-game/
 ---
+
+## 682. 棒球比赛 (Easy)
 
 <p>你现在是棒球比赛记录员。<br>
 给定一个字符串列表，每个字符串可以是以下四种类型之一：<br>

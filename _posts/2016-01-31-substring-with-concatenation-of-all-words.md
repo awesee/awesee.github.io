@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "30. 串联所有单词的子串 (Hard)"
+title:      "串联所有单词的子串"
 date:       2016-01-31 21:30:00 +0800
 categories: [leetcode]
 tags:       [hash-table, two-pointers, string]
 permalink:  /substring-with-concatenation-of-all-words/
 ---
+
+## 30. 串联所有单词的子串 (Hard)
 
 <p>给定一个字符串&nbsp;<strong>s&nbsp;</strong>和一些长度相同的单词&nbsp;<strong>words。</strong>找出 <strong>s </strong>中恰好可以由&nbsp;<strong>words </strong>中所有单词串联形成的子串的起始位置。</p>
 

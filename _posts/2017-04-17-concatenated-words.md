@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "472. 连接词 (Hard)"
+title:      "连接词"
 date:       2017-04-17 21:30:00 +0800
 categories: [leetcode]
 tags:       [depth-first-search, trie, dynamic-programming]
 permalink:  /concatenated-words/
 ---
+
+## 472. 连接词 (Hard)
 
 <p>给定一个<strong>不含重复</strong>单词的列表，编写一个程序，返回给定单词列表中所有的连接词。</p>
 

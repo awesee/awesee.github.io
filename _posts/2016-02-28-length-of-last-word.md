@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "58. 最后一个单词的长度 (Easy)"
+title:      "最后一个单词的长度"
 date:       2016-02-28 21:30:00 +0800
 categories: [leetcode]
 tags:       [string]
 permalink:  /length-of-last-word/
 ---
+
+## 58. 最后一个单词的长度 (Easy)
 
 <p>给定一个仅包含大小写字母和空格&nbsp;<code>&#39; &#39;</code>&nbsp;的字符串，返回其最后一个单词的长度。</p>
 

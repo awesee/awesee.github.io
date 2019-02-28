@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "797. 所有可能的路径 (Medium)"
+title:      "所有可能的路径"
 date:       2018-03-08 21:30:00 +0800
 categories: [leetcode]
 tags:       []
 permalink:  /all-paths-from-source-to-target/
 ---
+
+## 797. 所有可能的路径 (Medium)
 
 <p>给一个有&nbsp;<code>n</code>&nbsp;个结点的有向无环图，找到所有从&nbsp;<code>0</code>&nbsp;到&nbsp;<code>n-1</code>&nbsp;的路径并输出（不要求按顺序）</p>
 

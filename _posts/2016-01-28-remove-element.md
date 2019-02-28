@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "27. 移除元素 (Easy)"
+title:      "移除元素"
 date:       2016-01-28 21:30:00 +0800
 categories: [leetcode]
 tags:       [array, two-pointers]
 permalink:  /remove-element/
 ---
+
+## 27. 移除元素 (Easy)
 
 <p>给定一个数组 <em>nums&nbsp;</em>和一个值 <em>val</em>，你需要<strong><a href="https://baike.baidu.com/item/%E5%8E%9F%E5%9C%B0%E7%AE%97%E6%B3%95" target="_blank">原地</a></strong>移除所有数值等于&nbsp;<em>val&nbsp;</em>的元素，返回移除后数组的新长度。</p>
 

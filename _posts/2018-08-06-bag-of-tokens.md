@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "948. 令牌放置 (Medium)"
+title:      "令牌放置"
 date:       2018-08-06 21:30:00 +0800
 categories: [leetcode]
 tags:       [greedy]
 permalink:  /bag-of-tokens/
 ---
+
+## 948. 令牌放置 (Medium)
 
 <p>你的初始能量为&nbsp;<code>P</code>，初始分数为&nbsp;<code>0</code>，只有一包令牌。</p>
 

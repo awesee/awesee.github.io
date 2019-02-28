@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "744. 寻找比目标字母大的最小字母 (Easy)"
+title:      "寻找比目标字母大的最小字母"
 date:       2018-01-14 21:30:00 +0800
 categories: [leetcode]
 tags:       [binary-search]
 permalink:  /find-smallest-letter-greater-than-target/
 ---
+
+## 744. 寻找比目标字母大的最小字母 (Easy)
 
 <p>给定一个只包含小写字母的有序数组<code>letters</code>&nbsp;和一个目标字母&nbsp;<code>target</code>，寻找有序数组里面比目标字母大的最小字母。</p>
 

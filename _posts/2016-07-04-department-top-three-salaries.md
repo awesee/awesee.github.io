@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "185. 部门工资前三高的员工 (Hard)"
+title:      "部门工资前三高的员工"
 date:       2016-07-04 21:30:00 +0800
 categories: [leetcode]
 tags:       []
 permalink:  /department-top-three-salaries/
 ---
+
+## 185. 部门工资前三高的员工 (Hard)
 
 <p><code>Employee</code> 表包含所有员工信息，每个员工有其对应的&nbsp;Id, salary 和 department Id 。</p>
 

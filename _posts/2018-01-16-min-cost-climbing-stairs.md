@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "746. 使用最小花费爬楼梯 (Easy)"
+title:      "使用最小花费爬楼梯"
 date:       2018-01-16 21:30:00 +0800
 categories: [leetcode]
 tags:       [array, dynamic-programming]
 permalink:  /min-cost-climbing-stairs/
 ---
+
+## 746. 使用最小花费爬楼梯 (Easy)
 
 <p>数组的每个索引做为一个阶梯，第&nbsp;<code>i</code>个阶梯对应着一个非负数的体力花费值&nbsp;<code>cost[i]</code>(索引从0开始)。</p>
 

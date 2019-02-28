@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "309. 最佳买卖股票时机含冷冻期 (Medium)"
+title:      "最佳买卖股票时机含冷冻期"
 date:       2016-11-05 21:30:00 +0800
 categories: [leetcode]
 tags:       [dynamic-programming]
 permalink:  /best-time-to-buy-and-sell-stock-with-cooldown/
 ---
+
+## 309. 最佳买卖股票时机含冷冻期 (Medium)
 
 <p>给定一个整数数组，其中第<em>&nbsp;i</em>&nbsp;个元素代表了第&nbsp;<em>i</em>&nbsp;天的股票价格 。​</p>
 

@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "480. 滑动窗口中位数 (Hard)"
+title:      "滑动窗口中位数"
 date:       2017-04-25 21:30:00 +0800
 categories: [leetcode]
 tags:       []
 permalink:  /sliding-window-median/
 ---
+
+## 480. 滑动窗口中位数 (Hard)
 
 <p>中位数是有序序列最中间的那个数。如果序列的大小是偶数，则没有最中间的数；此时中位数是最中间的两个数的平均数。</p>
 

@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "863. 二叉树中所有距离为 K 的结点 (Medium)"
+title:      "二叉树中所有距离为 K 的结点"
 date:       2018-05-13 21:30:00 +0800
 categories: [leetcode]
 tags:       [tree, depth-first-search, breadth-first-search]
 permalink:  /all-nodes-distance-k-in-binary-tree/
 ---
+
+## 863. 二叉树中所有距离为 K 的结点 (Medium)
 
 <p>给定一个二叉树（具有根结点&nbsp;<code>root</code>），&nbsp;一个目标结点&nbsp;<code>target</code>&nbsp;，和一个整数值 <code>K</code> 。</p>
 

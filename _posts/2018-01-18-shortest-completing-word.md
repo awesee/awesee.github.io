@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "748. 最短完整词 (Easy)"
+title:      "最短完整词"
 date:       2018-01-18 21:30:00 +0800
 categories: [leetcode]
 tags:       [hash-table]
 permalink:  /shortest-completing-word/
 ---
+
+## 748. 最短完整词 (Easy)
 
 <p>如果单词列表（<code>words</code>）中的一个单词包含牌照（<code>licensePlate</code>）中所有的字母，那么我们称之为完整词。在所有完整词中，最短的单词我们称之为最短完整词。</p>
 

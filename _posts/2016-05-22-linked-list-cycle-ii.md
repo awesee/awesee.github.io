@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "142. 环形链表 II (Medium)"
+title:      "环形链表 II"
 date:       2016-05-22 21:30:00 +0800
 categories: [leetcode]
 tags:       [linked-list, two-pointers]
 permalink:  /linked-list-cycle-ii/
 ---
+
+## 142. 环形链表 II (Medium)
 
 <p>给定一个链表，返回链表开始入环的第一个节点。&nbsp;如果链表无环，则返回&nbsp;<code>null</code>。</p>
 

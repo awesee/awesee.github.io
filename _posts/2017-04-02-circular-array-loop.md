@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "457. 环形数组循环 (Medium)"
+title:      "环形数组循环"
 date:       2017-04-02 21:30:00 +0800
 categories: [leetcode]
 tags:       [array, two-pointers]
 permalink:  /circular-array-loop/
 ---
+
+## 457. 环形数组循环 (Medium)
 
 <p>给定一个含有正整数和负整数的<strong>环形</strong>数组&nbsp;<code>nums</code>。 如果某个索引中的数 <em>k</em>&nbsp;为正数，则向前移动 <em>k</em>&nbsp;个索引。相反，如果是负数 (<em>-k</em>)，则向后移动 <em>k</em>&nbsp;个索引。因为数组是环形的，所以可以假设最后一个元素的下一个元素是第一个元素，而第一个元素的前一个元素是最后一个元素。</p>
 

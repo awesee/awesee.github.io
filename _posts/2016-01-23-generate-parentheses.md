@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "22. 括号生成 (Medium)"
+title:      "括号生成"
 date:       2016-01-23 21:30:00 +0800
 categories: [leetcode]
 tags:       [string, backtracking]
 permalink:  /generate-parentheses/
 ---
+
+## 22. 括号生成 (Medium)
 
 <p>给出&nbsp;<em>n</em>&nbsp;代表生成括号的对数，请你写出一个函数，使其能够生成所有可能的并且<strong>有效的</strong>括号组合。</p>
 

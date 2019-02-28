@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "595. 大的国家 (Easy)"
+title:      "大的国家"
 date:       2017-08-18 21:30:00 +0800
 categories: [leetcode]
 tags:       []
 permalink:  /big-countries/
 ---
+
+## 595. 大的国家 (Easy)
 
 <p>这里有张&nbsp;<code>World</code> 表</p>
 

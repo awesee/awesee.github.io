@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "749. 隔离病毒 (Hard)"
+title:      "隔离病毒"
 date:       2018-01-19 21:30:00 +0800
 categories: [leetcode]
 tags:       [depth-first-search]
 permalink:  /contain-virus/
 ---
+
+## 749. 隔离病毒 (Hard)
 
 <p>病毒扩散得很快，现在你的任务是尽可能地通过安装防火墙来隔离病毒。</p>
 

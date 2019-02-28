@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "900. RLE 迭代器 (Medium)"
+title:      "RLE 迭代器"
 date:       2018-06-19 21:30:00 +0800
 categories: [leetcode]
 tags:       [array]
 permalink:  /rle-iterator/
 ---
+
+## 900. RLE 迭代器 (Medium)
 
 <p>编写一个遍历游程编码序列的迭代器。</p>
 

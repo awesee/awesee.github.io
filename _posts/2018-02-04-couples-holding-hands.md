@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "765. 情侣牵手 (Hard)"
+title:      "情侣牵手"
 date:       2018-02-04 21:30:00 +0800
 categories: [leetcode]
 tags:       [greedy, union-find, graph]
 permalink:  /couples-holding-hands/
 ---
+
+## 765. 情侣牵手 (Hard)
 
 <p>N 对情侣坐在连续排列的 2N 个座位上，想要牵到对方的手。 计算最少交换座位的次数，以便每对情侣可以并肩坐在一起。 <em>一</em>次交换可选择任意两人，让他们站起来交换座位。</p>
 

@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "231. 2的幂 (Easy)"
+title:      "2的幂"
 date:       2016-08-19 21:30:00 +0800
 categories: [leetcode]
 tags:       [bit-manipulation, math]
 permalink:  /power-of-two/
 ---
+
+## 231. 2的幂 (Easy)
 
 <p>给定一个整数，编写一个函数来判断它是否是 2 的幂次方。</p>
 

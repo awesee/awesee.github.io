@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "689. 三个无重叠子数组的最大和 (Hard)"
+title:      "三个无重叠子数组的最大和"
 date:       2017-11-20 21:30:00 +0800
 categories: [leetcode]
 tags:       [array, dynamic-programming]
 permalink:  /maximum-sum-of-3-non-overlapping-subarrays/
 ---
+
+## 689. 三个无重叠子数组的最大和 (Hard)
 
 <p>给定数组&nbsp;<code>nums</code>&nbsp;由正整数组成，找到三个互不重叠的子数组的最大和。</p>
 

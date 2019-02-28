@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "153. 寻找旋转排序数组中的最小值 (Medium)"
+title:      "寻找旋转排序数组中的最小值"
 date:       2016-06-02 21:30:00 +0800
 categories: [leetcode]
 tags:       [array, binary-search]
 permalink:  /find-minimum-in-rotated-sorted-array/
 ---
+
+## 153. 寻找旋转排序数组中的最小值 (Medium)
 
 <p>假设按照升序排序的数组在预先未知的某个点上进行了旋转。</p>
 

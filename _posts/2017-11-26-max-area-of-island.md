@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "695. 岛屿的最大面积 (Medium)"
+title:      "岛屿的最大面积"
 date:       2017-11-26 21:30:00 +0800
 categories: [leetcode]
 tags:       [depth-first-search, array]
 permalink:  /max-area-of-island/
 ---
+
+## 695. 岛屿的最大面积 (Medium)
 
 <p>给定一个包含了一些 0 和 1的非空二维数组&nbsp;<code>grid</code>&nbsp;, 一个&nbsp;<strong>岛屿</strong>&nbsp;是由四个方向 (水平或垂直) 的&nbsp;<code>1</code>&nbsp;(代表土地) 构成的组合。你可以假设二维矩阵的四个边缘都被水包围着。</p>
 

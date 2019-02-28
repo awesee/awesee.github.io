@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "803. 打砖块 (Hard)"
+title:      "打砖块"
 date:       2018-03-14 21:30:00 +0800
 categories: [leetcode]
 tags:       [union-find]
 permalink:  /bricks-falling-when-hit/
 ---
+
+## 803. 打砖块 (Hard)
 
 <p>我们有一组包含1和0的网格；其中1表示砖块。&nbsp;当且仅当一块砖直接连接到网格的顶部，或者它至少有一块相邻（4&nbsp;个方向之一）砖块不会掉落时，它才不会落下。</p>
 

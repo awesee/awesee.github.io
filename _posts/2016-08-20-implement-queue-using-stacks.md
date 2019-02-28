@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "232. 用栈实现队列 (Easy)"
+title:      "用栈实现队列"
 date:       2016-08-20 21:30:00 +0800
 categories: [leetcode]
 tags:       [stack, design]
 permalink:  /implement-queue-using-stacks/
 ---
+
+## 232. 用栈实现队列 (Easy)
 
 <p>使用栈实现队列的下列操作：</p>
 

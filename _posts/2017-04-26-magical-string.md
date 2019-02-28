@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "481. 神奇字符串 (Medium)"
+title:      "神奇字符串"
 date:       2017-04-26 21:30:00 +0800
 categories: [leetcode]
 tags:       []
 permalink:  /magical-string/
 ---
+
+## 481. 神奇字符串 (Medium)
 
 <p>神奇的字符串&nbsp;<strong>S&nbsp;</strong>只包含 &#39;1&#39; 和 &#39;2&#39;，并遵守以下规则：</p>
 

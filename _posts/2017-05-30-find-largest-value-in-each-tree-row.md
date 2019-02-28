@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "515. 在每个树行中找最大值 (Medium)"
+title:      "在每个树行中找最大值"
 date:       2017-05-30 21:30:00 +0800
 categories: [leetcode]
 tags:       [tree, depth-first-search, breadth-first-search]
 permalink:  /find-largest-value-in-each-tree-row/
 ---
+
+## 515. 在每个树行中找最大值 (Medium)
 
 <p>您需要在二叉树的每一行中找到最大的值。</p>
 

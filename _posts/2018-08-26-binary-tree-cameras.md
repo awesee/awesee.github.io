@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "968. 监控二叉树 (Hard)"
+title:      "监控二叉树"
 date:       2018-08-26 21:30:00 +0800
 categories: [leetcode]
 tags:       [tree, depth-first-search, dynamic-programming]
 permalink:  /binary-tree-cameras/
 ---
+
+## 968. 监控二叉树 (Hard)
 
 <p>给定一个二叉树，我们在树的节点上安装摄像头。</p>
 

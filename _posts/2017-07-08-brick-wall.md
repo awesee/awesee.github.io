@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "554. 砖墙 (Medium)"
+title:      "砖墙"
 date:       2017-07-08 21:30:00 +0800
 categories: [leetcode]
 tags:       [hash-table]
 permalink:  /brick-wall/
 ---
+
+## 554. 砖墙 (Medium)
 
 <p>你的面前有一堵方形的、由多行砖块组成的砖墙。&nbsp;这些砖块高度相同但是宽度不同。你现在要画一条<strong>自顶向下</strong>的、穿过<strong>最少</strong>砖块的垂线。</p>
 

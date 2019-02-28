@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "732. 我的日程安排表 III (Hard)"
+title:      "我的日程安排表 III"
 date:       2018-01-02 21:30:00 +0800
 categories: [leetcode]
 tags:       [segment-tree, binary-search-tree]
 permalink:  /my-calendar-iii/
 ---
+
+## 732. 我的日程安排表 III (Hard)
 
 <p>实现一个 <code>MyCalendar</code> 类来存放你的日程安排，你可以一直添加新的日程安排。</p>
 

@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "606. 根据二叉树创建字符串 (Easy)"
+title:      "根据二叉树创建字符串"
 date:       2017-08-29 21:30:00 +0800
 categories: [leetcode]
 tags:       [tree, string]
 permalink:  /construct-string-from-binary-tree/
 ---
+
+## 606. 根据二叉树创建字符串 (Easy)
 
 <p>你需要采用前序遍历的方式，将一个二叉树转换成一个由括号和整数组成的字符串。</p>
 

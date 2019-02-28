@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "902. 最大为 N 的数字组合 (Hard)"
+title:      "最大为 N 的数字组合"
 date:       2018-06-21 21:30:00 +0800
 categories: [leetcode]
 tags:       [math, dynamic-programming]
 permalink:  /numbers-at-most-n-given-digit-set/
 ---
+
+## 902. 最大为 N 的数字组合 (Hard)
 
 <p>我们有一组<strong>排序的</strong>数字 <code>D</code>，它是&nbsp; <code>{&#39;1&#39;,&#39;2&#39;,&#39;3&#39;,&#39;4&#39;,&#39;5&#39;,&#39;6&#39;,&#39;7&#39;,&#39;8&#39;,&#39;9&#39;}</code>&nbsp;的非空子集。（请注意，<code>&#39;0&#39;</code> 不包括在内。）</p>
 

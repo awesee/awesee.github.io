@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "600. 不含连续1的非负整数 (Hard)"
+title:      "不含连续1的非负整数"
 date:       2017-08-23 21:30:00 +0800
 categories: [leetcode]
 tags:       [dynamic-programming]
 permalink:  /non-negative-integers-without-consecutive-ones/
 ---
+
+## 600. 不含连续1的非负整数 (Hard)
 
 <p>给定一个正整数 n，找出小于或等于 n 的非负整数中，其二进制表示不包含&nbsp;<strong>连续的1&nbsp;</strong>的个数。</p>
 

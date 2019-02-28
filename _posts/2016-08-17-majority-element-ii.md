@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "229. 求众数 II (Medium)"
+title:      "求众数 II"
 date:       2016-08-17 21:30:00 +0800
 categories: [leetcode]
 tags:       [array]
 permalink:  /majority-element-ii/
 ---
+
+## 229. 求众数 II (Medium)
 
 <p>给定一个大小为&nbsp;<em>n&nbsp;</em>的数组，找出其中所有出现超过&nbsp;<code>&lfloor; n/3 &rfloor;</code>&nbsp;次的元素。</p>
 

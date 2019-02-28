@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "643. 子数组最大平均数 I (Easy)"
+title:      "子数组最大平均数 I"
 date:       2017-10-05 21:30:00 +0800
 categories: [leetcode]
 tags:       [array]
 permalink:  /maximum-average-subarray-i/
 ---
+
+## 643. 子数组最大平均数 I (Easy)
 
 <p>给定 <code>n</code> 个整数，找出平均数最大且长度为 <code>k</code> 的连续子数组，并输出该最大平均数。</p>
 

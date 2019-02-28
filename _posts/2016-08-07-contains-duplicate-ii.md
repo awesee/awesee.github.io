@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "219. 存在重复元素 II (Easy)"
+title:      "存在重复元素 II"
 date:       2016-08-07 21:30:00 +0800
 categories: [leetcode]
 tags:       [array, hash-table]
 permalink:  /contains-duplicate-ii/
 ---
+
+## 219. 存在重复元素 II (Easy)
 
 <p>给定一个整数数组和一个整数&nbsp;<em>k</em>，判断数组中是否存在两个不同的索引<em>&nbsp;i</em>&nbsp;和<em>&nbsp;j</em>，使得&nbsp;<strong>nums [i] = nums [j]</strong>，并且 <em>i</em> 和 <em>j</em>&nbsp;的差的绝对值最大为 <em>k</em>。</p>
 

@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "388. 文件的最长绝对路径 (Medium)"
+title:      "文件的最长绝对路径"
 date:       2017-01-23 21:30:00 +0800
 categories: [leetcode]
 tags:       []
 permalink:  /longest-absolute-file-path/
 ---
+
+## 388. 文件的最长绝对路径 (Medium)
 
 <p>假设我们以下述方式将我们的文件系统抽象成一个字符串:</p>
 

@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "57. 插入区间 (Hard)"
+title:      "插入区间"
 date:       2016-02-27 21:30:00 +0800
 categories: [leetcode]
 tags:       [sort, array]
 permalink:  /insert-interval/
 ---
+
+## 57. 插入区间 (Hard)
 
 <p>给出一个<em>无重叠的 ，</em>按照区间起始端点排序的区间列表。</p>
 

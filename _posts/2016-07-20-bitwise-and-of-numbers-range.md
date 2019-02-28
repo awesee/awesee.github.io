@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "201. 数字范围按位与 (Medium)"
+title:      "数字范围按位与"
 date:       2016-07-20 21:30:00 +0800
 categories: [leetcode]
 tags:       [bit-manipulation]
 permalink:  /bitwise-and-of-numbers-range/
 ---
+
+## 201. 数字范围按位与 (Medium)
 
 <p>给定范围 [m, n]，其中 0 &lt;= m &lt;= n &lt;= 2147483647，返回此范围内所有数字的按位与（包含 m, n 两端点）。</p>
 

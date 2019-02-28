@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "143. 重排链表 (Medium)"
+title:      "重排链表"
 date:       2016-05-23 21:30:00 +0800
 categories: [leetcode]
 tags:       [linked-list]
 permalink:  /reorder-list/
 ---
+
+## 143. 重排链表 (Medium)
 
 <p>给定一个单链表&nbsp;<em>L</em>：<em>L</em><sub>0</sub>&rarr;<em>L</em><sub>1</sub>&rarr;&hellip;&rarr;<em>L</em><sub><em>n</em>-1</sub>&rarr;<em>L</em><sub>n ，</sub><br>
 将其重新排列后变为： <em>L</em><sub>0</sub>&rarr;<em>L</em><sub><em>n</em></sub>&rarr;<em>L</em><sub>1</sub>&rarr;<em>L</em><sub><em>n</em>-1</sub>&rarr;<em>L</em><sub>2</sub>&rarr;<em>L</em><sub><em>n</em>-2</sub>&rarr;&hellip;</p>

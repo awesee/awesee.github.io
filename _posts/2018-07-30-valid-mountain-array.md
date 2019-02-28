@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "941. 有效的山脉数组 (Easy)"
+title:      "有效的山脉数组"
 date:       2018-07-30 21:30:00 +0800
 categories: [leetcode]
 tags:       [array]
 permalink:  /valid-mountain-array/
 ---
+
+## 941. 有效的山脉数组 (Easy)
 
 <p>给定一个整数数组&nbsp;<code>A</code>，如果它是有效的山脉数组就返回&nbsp;<code>true</code>，否则返回 <code>false</code>。</p>
 

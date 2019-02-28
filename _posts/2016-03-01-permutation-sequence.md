@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "60. 第k个排列 (Medium)"
+title:      "第k个排列"
 date:       2016-03-01 21:30:00 +0800
 categories: [leetcode]
 tags:       [math, backtracking]
 permalink:  /permutation-sequence/
 ---
+
+## 60. 第k个排列 (Medium)
 
 <p>给出集合&nbsp;<code>[1,2,3,&hellip;,<em>n</em>]</code>，其所有元素共有&nbsp;<em>n</em>! 种排列。</p>
 

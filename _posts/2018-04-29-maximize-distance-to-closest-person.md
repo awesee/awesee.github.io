@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "849. 到最近的人的最大距离 (Easy)"
+title:      "到最近的人的最大距离"
 date:       2018-04-29 21:30:00 +0800
 categories: [leetcode]
 tags:       [array]
 permalink:  /maximize-distance-to-closest-person/
 ---
+
+## 849. 到最近的人的最大距离 (Easy)
 
 <p>在一排座位（&nbsp;<code>seats</code>）中，<code>1</code>&nbsp;代表有人坐在座位上，<code>0</code>&nbsp;代表座位上是空的。</p>
 

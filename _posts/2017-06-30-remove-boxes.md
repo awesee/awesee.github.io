@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "546. 移除盒子 (Hard)"
+title:      "移除盒子"
 date:       2017-06-30 21:30:00 +0800
 categories: [leetcode]
 tags:       [depth-first-search, dynamic-programming]
 permalink:  /remove-boxes/
 ---
+
+## 546. 移除盒子 (Hard)
 
 <p>给出一些不同颜色的盒子，盒子的颜色由数字表示，即不同的数字表示不同的颜色。<br />
 你将经过若干轮操作去去掉盒子，直到所有的盒子都去掉为止。每一轮你可以移除具有相同颜色的连续 k 个盒子（k&nbsp;&gt;= 1），这样一轮之后你将得到 <code>k*k</code> 个积分。<br />

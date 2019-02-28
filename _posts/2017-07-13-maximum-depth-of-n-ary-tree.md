@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "559. N叉树的最大深度 (Easy)"
+title:      "N叉树的最大深度"
 date:       2017-07-13 21:30:00 +0800
 categories: [leetcode]
 tags:       [tree, depth-first-search, breadth-first-search]
 permalink:  /maximum-depth-of-n-ary-tree/
 ---
+
+## 559. N叉树的最大深度 (Easy)
 
 <p>给定一个 N 叉树，找到其最大深度。</p>
 

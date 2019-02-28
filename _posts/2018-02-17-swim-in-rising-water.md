@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "778. 水位上升的泳池中游泳 (Hard)"
+title:      "水位上升的泳池中游泳"
 date:       2018-02-17 21:30:00 +0800
 categories: [leetcode]
 tags:       [heap, depth-first-search, union-find, binary-search]
 permalink:  /swim-in-rising-water/
 ---
+
+## 778. 水位上升的泳池中游泳 (Hard)
 
 <p>在一个 N x N 的坐标方格&nbsp;<code>grid</code> 中，每一个方格的值 <code>grid[i][j]</code> 表示在位置 <code>(i,j)</code> 的平台高度。</p>
 

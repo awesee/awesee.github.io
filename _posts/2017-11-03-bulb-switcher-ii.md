@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "672. 灯泡开关 Ⅱ (Medium)"
+title:      "灯泡开关 Ⅱ"
 date:       2017-11-03 21:30:00 +0800
 categories: [leetcode]
 tags:       [math]
 permalink:  /bulb-switcher-ii/
 ---
+
+## 672. 灯泡开关 Ⅱ (Medium)
 
 <p>现有一个房间，墙上挂有&nbsp;<code>n</code>&nbsp;只已经打开的灯泡和 4 个按钮。在进行了&nbsp;<code>m</code>&nbsp;次未知操作后，你需要返回这&nbsp;<code>n</code>&nbsp;只灯泡可能有多少种不同的状态。</p>
 

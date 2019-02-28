@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "815. 公交路线 (Hard)"
+title:      "公交路线"
 date:       2018-03-26 21:30:00 +0800
 categories: [leetcode]
 tags:       [breadth-first-search]
 permalink:  /bus-routes/
 ---
+
+## 815. 公交路线 (Hard)
 
 <p>我们有一系列公交路线。每一条路线 <code>routes[i]</code>&nbsp;上都有一辆公交车在上面循环行驶。例如，有一条路线&nbsp;<code>routes[0] = [1, 5, 7]</code>，表示第一辆 (下标为0) 公交车会一直按照&nbsp;1-&gt;5-&gt;7-&gt;1-&gt;5-&gt;7-&gt;1-&gt;...&nbsp;的车站路线行驶。</p>
 

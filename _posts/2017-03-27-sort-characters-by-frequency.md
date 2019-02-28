@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "451. 根据字符出现频率排序 (Medium)"
+title:      "根据字符出现频率排序"
 date:       2017-03-27 21:30:00 +0800
 categories: [leetcode]
 tags:       [heap, hash-table]
 permalink:  /sort-characters-by-frequency/
 ---
+
+## 451. 根据字符出现频率排序 (Medium)
 
 <p>给定一个字符串，请将字符串里的字符按照出现的频率降序排列。</p>
 

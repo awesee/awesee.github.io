@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "987. 二叉树的垂序遍历 (Medium)"
+title:      "二叉树的垂序遍历"
 date:       2018-09-14 21:30:00 +0800
 categories: [leetcode]
 tags:       [tree, hash-table]
 permalink:  /vertical-order-traversal-of-a-binary-tree/
 ---
+
+## 987. 二叉树的垂序遍历 (Medium)
 
 <p>给定二叉树，按<em>垂序</em>遍历返回其结点值。</p>
 

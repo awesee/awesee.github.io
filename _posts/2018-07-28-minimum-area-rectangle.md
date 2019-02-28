@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "939. 最小面积矩形 (Medium)"
+title:      "最小面积矩形"
 date:       2018-07-28 21:30:00 +0800
 categories: [leetcode]
 tags:       [hash-table]
 permalink:  /minimum-area-rectangle/
 ---
+
+## 939. 最小面积矩形 (Medium)
 
 <p>给定在 xy 平面上的一组点，确定由这些点组成的矩形的最小面积，其中矩形的边平行于 x 轴和 y 轴。</p>
 

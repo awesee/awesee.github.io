@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "756. 金字塔转换矩阵 (Medium)"
+title:      "金字塔转换矩阵"
 date:       2018-01-26 21:30:00 +0800
 categories: [leetcode]
 tags:       [bit-manipulation, depth-first-search]
 permalink:  /pyramid-transition-matrix/
 ---
+
+## 756. 金字塔转换矩阵 (Medium)
 
 <p>现在，我们用一些方块来堆砌一个金字塔。 每个方块用仅包含一个字母的字符串表示，例如 &ldquo;Z&rdquo;。</p>
 

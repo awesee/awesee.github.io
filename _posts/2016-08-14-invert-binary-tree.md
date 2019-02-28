@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "226. 翻转二叉树 (Easy)"
+title:      "翻转二叉树"
 date:       2016-08-14 21:30:00 +0800
 categories: [leetcode]
 tags:       [tree]
 permalink:  /invert-binary-tree/
 ---
+
+## 226. 翻转二叉树 (Easy)
 
 <p>翻转一棵二叉树。</p>
 

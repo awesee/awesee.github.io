@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "136. 只出现一次的数字 (Easy)"
+title:      "只出现一次的数字"
 date:       2016-05-16 21:30:00 +0800
 categories: [leetcode]
 tags:       [bit-manipulation, hash-table]
 permalink:  /single-number/
 ---
+
+## 136. 只出现一次的数字 (Easy)
 
 <p>给定一个<strong>非空</strong>整数数组，除了某个元素只出现一次以外，其余每个元素均出现两次。找出那个只出现了一次的元素。</p>
 

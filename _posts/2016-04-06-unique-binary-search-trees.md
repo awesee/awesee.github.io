@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "96. 不同的二叉搜索树 (Medium)"
+title:      "不同的二叉搜索树"
 date:       2016-04-06 21:30:00 +0800
 categories: [leetcode]
 tags:       [tree, dynamic-programming]
 permalink:  /unique-binary-search-trees/
 ---
+
+## 96. 不同的二叉搜索树 (Medium)
 
 <p>给定一个整数 <em>n</em>，求以&nbsp;1 ...&nbsp;<em>n</em>&nbsp;为节点组成的二叉搜索树有多少种？</p>
 

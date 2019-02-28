@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "620. 有趣的电影 (Easy)"
+title:      "有趣的电影"
 date:       2017-09-12 21:30:00 +0800
 categories: [leetcode]
 tags:       []
 permalink:  /not-boring-movies/
 ---
+
+## 620. 有趣的电影 (Easy)
 
 <p>某城市开了一家新的电影院，吸引了很多人过来看电影。该电影院特别注意用户体验，专门有个 LED显示板做电影推荐，上面公布着影评和相关电影描述。</p>
 

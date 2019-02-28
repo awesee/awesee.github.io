@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "341. 扁平化嵌套列表迭代器 (Medium)"
+title:      "扁平化嵌套列表迭代器"
 date:       2016-12-07 21:30:00 +0800
 categories: [leetcode]
 tags:       [stack, design]
 permalink:  /flatten-nested-list-iterator/
 ---
+
+## 341. 扁平化嵌套列表迭代器 (Medium)
 
 <p>给定一个嵌套的整型列表。设计一个迭代器，使其能够遍历这个整型列表中的所有整数。</p>
 

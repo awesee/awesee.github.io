@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "483. 最小好进制 (Hard)"
+title:      "最小好进制"
 date:       2017-04-28 21:30:00 +0800
 categories: [leetcode]
 tags:       [math, binary-search]
 permalink:  /smallest-good-base/
 ---
+
+## 483. 最小好进制 (Hard)
 
 <p>对于给定的整数 n, 如果n的k（k&gt;=2）进制数的所有数位全为1，则称&nbsp;k（k&gt;=2）是 n 的一个<em><strong>好进制</strong></em>。</p>
 
