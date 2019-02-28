@@ -1,0 +1,44 @@
+---
+layout:     single
+title:      "二叉搜索树的范围和"
+date:       2018-07-27 21:30:00 +0800
+categories: [leetcode]
+tags:       [binary-search-tree]
+permalink:  /range-sum-of-bst/
+---
+
+## 938. 二叉搜索树的范围和 (Medium)
+
+<p>给定二叉搜索树的根结点&nbsp;<code>root</code>，返回 <code>L</code> 和 <code>R</code>（含）之间的所有结点的值的和。</p>
+
+<p>二叉搜索树保证具有唯一的值。</p>
+
+<p>&nbsp;</p>
+
+<p><strong>示例 1：</strong></p>
+
+<pre><strong>输入：</strong>root = [10,5,15,3,7,null,18], L = 7, R = 15
+<strong>输出：</strong>32
+</pre>
+
+<p><strong>示例&nbsp;2：</strong></p>
+
+<pre><strong>输入：</strong>root = [10,5,15,3,7,13,18,1,null,6], L = 6, R = 10
+<strong>输出：</strong>23
+</pre>
+
+<p>&nbsp;</p>
+
+<p><strong>提示：</strong></p>
+
+<ol>
+	<li>树中的结点数量最多为&nbsp;<code>10000</code>&nbsp;个。</li>
+	<li>最终的答案保证小于&nbsp;<code>2^31</code>。</li>
+</ol>
+
+### 相关话题
+  [[二叉搜索树](https://github.com/openset/leetcode/tree/master/tag/binary-search-tree/README.md)]
+
+---
+
+## [答案](https://github.com/openset/leetcode/tree/master/problems/range-sum-of-bst)
