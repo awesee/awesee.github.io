@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "128. 最长连续序列 (Hard)"
+title:      "最长连续序列"
 date:       2016-05-08 21:30:00 +0800
 categories: [leetcode]
 tags:       [union-find, array]
 permalink:  /longest-consecutive-sequence/
 ---
+
+## 128. 最长连续序列 (Hard)
 
 <p>给定一个未排序的整数数组，找出最长连续序列的长度。</p>
 

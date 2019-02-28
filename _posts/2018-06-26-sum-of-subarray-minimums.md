@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "907. 子数组的最小值之和 (Medium)"
+title:      "子数组的最小值之和"
 date:       2018-06-26 21:30:00 +0800
 categories: [leetcode]
 tags:       [stack, array]
 permalink:  /sum-of-subarray-minimums/
 ---
+
+## 907. 子数组的最小值之和 (Medium)
 
 <p>给定一个整数数组 <code>A</code>，找到 <code>min(B)</code>&nbsp;的总和，其中 <code>B</code> 的范围为&nbsp;<code>A</code> 的每个（连续）子数组。</p>
 

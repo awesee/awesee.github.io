@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "856. 括号的分数 (Medium)"
+title:      "括号的分数"
 date:       2018-05-06 21:30:00 +0800
 categories: [leetcode]
 tags:       [stack, string]
 permalink:  /score-of-parentheses/
 ---
+
+## 856. 括号的分数 (Medium)
 
 <p>给定一个平衡括号字符串&nbsp;<code>S</code>，按下述规则计算该字符串的分数：</p>
 

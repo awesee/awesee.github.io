@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "729. 我的日程安排表 I (Medium)"
+title:      "我的日程安排表 I"
 date:       2017-12-30 21:30:00 +0800
 categories: [leetcode]
 tags:       [array]
 permalink:  /my-calendar-i/
 ---
+
+## 729. 我的日程安排表 I (Medium)
 
 <p>实现一个 <code>MyCalendar</code> 类来存放你的日程安排。如果要添加的时间内没有其他安排，则可以存储这个新的日程安排。</p>
 

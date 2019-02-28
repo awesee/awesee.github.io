@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "45. 跳跃游戏 II (Hard)"
+title:      "跳跃游戏 II"
 date:       2016-02-15 21:30:00 +0800
 categories: [leetcode]
 tags:       [greedy, array]
 permalink:  /jump-game-ii/
 ---
+
+## 45. 跳跃游戏 II (Hard)
 
 <p>给定一个非负整数数组，你最初位于数组的第一个位置。</p>
 

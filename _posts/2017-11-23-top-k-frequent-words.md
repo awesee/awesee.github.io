@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "692. 前K个高频单词 (Medium)"
+title:      "前K个高频单词"
 date:       2017-11-23 21:30:00 +0800
 categories: [leetcode]
 tags:       [heap, trie, hash-table]
 permalink:  /top-k-frequent-words/
 ---
+
+## 692. 前K个高频单词 (Medium)
 
 <p>给一非空的单词列表，返回前&nbsp;<em>k&nbsp;</em>个出现次数最多的单词。</p>
 

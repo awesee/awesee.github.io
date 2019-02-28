@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "745. 前缀和后缀搜索 (Hard)"
+title:      "前缀和后缀搜索"
 date:       2018-01-15 21:30:00 +0800
 categories: [leetcode]
 tags:       [trie]
 permalink:  /prefix-and-suffix-search/
 ---
+
+## 745. 前缀和后缀搜索 (Hard)
 
 <p>给定多个&nbsp;<code>words</code>，<code>words[i]</code>&nbsp;的权重为&nbsp;<code>i</code>&nbsp;。</p>
 

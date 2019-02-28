@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "869. 重新排序得到 2 的幂 (Medium)"
+title:      "重新排序得到 2 的幂"
 date:       2018-05-19 21:30:00 +0800
 categories: [leetcode]
 tags:       [math]
 permalink:  /reordered-power-of-2/
 ---
+
+## 869. 重新排序得到 2 的幂 (Medium)
 
 <p>从正整数 <code>N</code>&nbsp;开始，我们按任何顺序（包括原始顺序）将数字重新排序，注意其前导数字不能为零。</p>
 

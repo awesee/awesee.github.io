@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "236. 二叉树的最近公共祖先 (Medium)"
+title:      "二叉树的最近公共祖先"
 date:       2016-08-24 21:30:00 +0800
 categories: [leetcode]
 tags:       [tree]
 permalink:  /lowest-common-ancestor-of-a-binary-tree/
 ---
+
+## 236. 二叉树的最近公共祖先 (Medium)
 
 <p>给定一个二叉树, 找到该树中两个指定节点的最近公共祖先。</p>
 

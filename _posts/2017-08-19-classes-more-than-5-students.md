@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "596. 超过5名学生的课 (Easy)"
+title:      "超过5名学生的课"
 date:       2017-08-19 21:30:00 +0800
 categories: [leetcode]
 tags:       []
 permalink:  /classes-more-than-5-students/
 ---
+
+## 596. 超过5名学生的课 (Easy)
 
 <p>有一个<code>courses</code> 表 ，有: <strong>student&nbsp;(学生) </strong>和 <strong>class (课程)</strong>。</p>
 

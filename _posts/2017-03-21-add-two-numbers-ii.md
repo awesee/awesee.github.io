@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "445. 两数相加 II (Medium)"
+title:      "两数相加 II"
 date:       2017-03-21 21:30:00 +0800
 categories: [leetcode]
 tags:       [linked-list]
 permalink:  /add-two-numbers-ii/
 ---
+
+## 445. 两数相加 II (Medium)
 
 <p>给定两个<strong>非空</strong>链表来代表两个非负整数。数字最高位位于链表开始位置。它们的每个节点只存储单个数字。将这两数相加会返回一个新的链表。</p>
 

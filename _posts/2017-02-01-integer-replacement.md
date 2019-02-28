@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "397. 整数替换 (Medium)"
+title:      "整数替换"
 date:       2017-02-01 21:30:00 +0800
 categories: [leetcode]
 tags:       [bit-manipulation, math]
 permalink:  /integer-replacement/
 ---
+
+## 397. 整数替换 (Medium)
 
 <p>给定一个正整数&nbsp;<em>n</em>，你可以做如下操作：</p>
 

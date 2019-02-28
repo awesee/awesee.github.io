@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "925. 长按键入 (Easy)"
+title:      "长按键入"
 date:       2018-07-14 21:30:00 +0800
 categories: [leetcode]
 tags:       [two-pointers, string]
 permalink:  /long-pressed-name/
 ---
+
+## 925. 长按键入 (Easy)
 
 <p>你的朋友正在使用键盘输入他的名字&nbsp;<code>name</code>。偶尔，在键入字符&nbsp;<code>c</code>&nbsp;时，按键可能会被<em>长按</em>，而字符可能被输入 1 次或多次。</p>
 

@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "204. 计数质数 (Easy)"
+title:      "计数质数"
 date:       2016-07-23 21:30:00 +0800
 categories: [leetcode]
 tags:       [hash-table, math]
 permalink:  /count-primes/
 ---
+
+## 204. 计数质数 (Easy)
 
 <p>统计所有小于非负整数&nbsp;<em>n&nbsp;</em>的质数的数量。</p>
 

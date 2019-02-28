@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "104. 二叉树的最大深度 (Easy)"
+title:      "二叉树的最大深度"
 date:       2016-04-14 21:30:00 +0800
 categories: [leetcode]
 tags:       [tree, depth-first-search]
 permalink:  /maximum-depth-of-binary-tree/
 ---
+
+## 104. 二叉树的最大深度 (Easy)
 
 <p>给定一个二叉树，找出其最大深度。</p>
 

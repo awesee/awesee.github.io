@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "474. 一和零 (Medium)"
+title:      "一和零"
 date:       2017-04-19 21:30:00 +0800
 categories: [leetcode]
 tags:       [dynamic-programming]
 permalink:  /ones-and-zeroes/
 ---
+
+## 474. 一和零 (Medium)
 
 <p>在计算机界中，我们总是追求用有限的资源获取最大的收益。</p>
 

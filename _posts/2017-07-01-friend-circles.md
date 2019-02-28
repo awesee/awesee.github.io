@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "547. 朋友圈 (Medium)"
+title:      "朋友圈"
 date:       2017-07-01 21:30:00 +0800
 categories: [leetcode]
 tags:       [depth-first-search, union-find]
 permalink:  /friend-circles/
 ---
+
+## 547. 朋友圈 (Medium)
 
 <p>班上有&nbsp;<strong>N&nbsp;</strong>名学生。其中有些人是朋友，有些则不是。他们的友谊具有是传递性。如果已知 A 是 B&nbsp;的朋友，B 是 C&nbsp;的朋友，那么我们可以认为 A 也是 C&nbsp;的朋友。所谓的朋友圈，是指所有朋友的集合。</p>
 

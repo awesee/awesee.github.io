@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "736. Lisp 语法解析 (Hard)"
+title:      "Lisp 语法解析"
 date:       2018-01-06 21:30:00 +0800
 categories: [leetcode]
 tags:       [string]
 permalink:  /parse-lisp-expression/
 ---
+
+## 736. Lisp 语法解析 (Hard)
 
 <p>给定一个类似 Lisp 语句的表达式 <code>expression</code>，求出其计算结果。</p>
 

@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "223. 矩形面积 (Medium)"
+title:      "矩形面积"
 date:       2016-08-11 21:30:00 +0800
 categories: [leetcode]
 tags:       [math]
 permalink:  /rectangle-area/
 ---
+
+## 223. 矩形面积 (Medium)
 
 <p>在<strong>二维</strong>平面上计算出两个<strong>由直线构成的</strong>矩形重叠后形成的总面积。</p>
 

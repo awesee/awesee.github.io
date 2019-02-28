@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "850. 矩形面积 II (Hard)"
+title:      "矩形面积 II"
 date:       2018-04-30 21:30:00 +0800
 categories: [leetcode]
 tags:       [segment-tree]
 permalink:  /rectangle-area-ii/
 ---
+
+## 850. 矩形面积 II (Hard)
 
 <p>我们给出了一个（轴对齐的）矩形列表&nbsp;<code>rectangles</code>&nbsp;。 对于&nbsp;<code>rectangle[i] = [x1, y1, x2, y2]</code>，其中（x1，y1）是矩形&nbsp;<code>i</code>&nbsp;左下角的坐标，（x2，y2）是该矩形右上角的坐标。</p>
 

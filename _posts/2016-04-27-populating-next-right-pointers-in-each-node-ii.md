@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "117. 填充每个节点的下一个右侧节点指针 II (Medium)"
+title:      "填充每个节点的下一个右侧节点指针 II"
 date:       2016-04-27 21:30:00 +0800
 categories: [leetcode]
 tags:       [tree, depth-first-search]
 permalink:  /populating-next-right-pointers-in-each-node-ii/
 ---
+
+## 117. 填充每个节点的下一个右侧节点指针 II (Medium)
 
 <p>给定一个二叉树</p>
 

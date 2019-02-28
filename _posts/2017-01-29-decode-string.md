@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "394. 字符串解码 (Medium)"
+title:      "字符串解码"
 date:       2017-01-29 21:30:00 +0800
 categories: [leetcode]
 tags:       [stack, depth-first-search]
 permalink:  /decode-string/
 ---
+
+## 394. 字符串解码 (Medium)
 
 <p>给定一个经过编码的字符串，返回它解码后的字符串。</p>
 

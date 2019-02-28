@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "138. 复制带随机指针的链表 (Medium)"
+title:      "复制带随机指针的链表"
 date:       2016-05-18 21:30:00 +0800
 categories: [leetcode]
 tags:       [hash-table, linked-list]
 permalink:  /copy-list-with-random-pointer/
 ---
+
+## 138. 复制带随机指针的链表 (Medium)
 
 <p>给定一个链表，每个节点包含一个额外增加的随机指针，该指针可以指向链表中的任何节点或空节点。</p>
 

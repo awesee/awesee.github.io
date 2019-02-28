@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "780. 到达终点 (Hard)"
+title:      "到达终点"
 date:       2018-02-19 21:30:00 +0800
 categories: [leetcode]
 tags:       [math]
 permalink:  /reaching-points/
 ---
+
+## 780. 到达终点 (Hard)
 
 <p>从点&nbsp;<code>(x, y)</code>&nbsp;可以<strong>转换</strong>到&nbsp;<code>(x, x+y)</code>&nbsp; 或者&nbsp;<code>(x+y, y)</code>。</p>
 

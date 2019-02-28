@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "995. K 连续位的最小翻转次数 (Hard)"
+title:      "K 连续位的最小翻转次数"
 date:       2018-09-22 21:30:00 +0800
 categories: [leetcode]
 tags:       [array]
 permalink:  /minimum-number-of-k-consecutive-bit-flips/
 ---
+
+## 995. K 连续位的最小翻转次数 (Hard)
 
 <p>在仅包含 <code>0</code> 和 <code>1</code> 的数组 <code>A</code> 中，一次 <em><code>K</code> 位翻转</em>包括选择一个长度为 <code>K</code> 的（连续）子数组，同时将子数组中的每个 <code>0</code> 更改为 <code>1</code>，而每个 <code>1</code> 更改为 <code>0</code>。</p>
 

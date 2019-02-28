@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "769. 最多能完成排序的块 (Medium)"
+title:      "最多能完成排序的块"
 date:       2018-02-08 21:30:00 +0800
 categories: [leetcode]
 tags:       [array]
 permalink:  /max-chunks-to-make-sorted/
 ---
+
+## 769. 最多能完成排序的块 (Medium)
 
 <p>数组<code>arr</code>是<code>[0, 1, ..., arr.length - 1]</code>的一种排列，我们将这个数组分割成几个&ldquo;块&rdquo;，并将这些块分别进行排序。之后再连接起来，使得连接的结果和按升序排序后的原数组相同。</p>
 

@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "450. 删除二叉搜索树中的节点 (Medium)"
+title:      "删除二叉搜索树中的节点"
 date:       2017-03-26 21:30:00 +0800
 categories: [leetcode]
 tags:       [tree]
 permalink:  /delete-node-in-a-bst/
 ---
+
+## 450. 删除二叉搜索树中的节点 (Medium)
 
 <p>给定一个二叉搜索树的根节点 <strong>root </strong>和一个值 <strong>key</strong>，删除二叉搜索树中的&nbsp;<strong>key&nbsp;</strong>对应的节点，并保证二叉搜索树的性质不变。返回二叉搜索树（有可能被更新）的根节点的引用。</p>
 

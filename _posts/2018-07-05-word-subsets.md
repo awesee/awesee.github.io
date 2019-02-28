@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "916. 单词子集 (Medium)"
+title:      "单词子集"
 date:       2018-07-05 21:30:00 +0800
 categories: [leetcode]
 tags:       [string]
 permalink:  /word-subsets/
 ---
+
+## 916. 单词子集 (Medium)
 
 <p>我们给出两个单词数组 <code>A</code>&nbsp;和&nbsp;<code>B</code>。每个单词都是一串小写字母。</p>
 

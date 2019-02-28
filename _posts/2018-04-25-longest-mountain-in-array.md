@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "845. 数组中的最长山脉 (Medium)"
+title:      "数组中的最长山脉"
 date:       2018-04-25 21:30:00 +0800
 categories: [leetcode]
 tags:       [two-pointers]
 permalink:  /longest-mountain-in-array/
 ---
+
+## 845. 数组中的最长山脉 (Medium)
 
 <p>我们把数组 A 中符合下列属性的任意连续子数组 B 称为 &ldquo;<em>山脉&rdquo;</em>：</p>
 

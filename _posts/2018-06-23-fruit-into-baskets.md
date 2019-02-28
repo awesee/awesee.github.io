@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "904. 水果成篮 (Medium)"
+title:      "水果成篮"
 date:       2018-06-23 21:30:00 +0800
 categories: [leetcode]
 tags:       [two-pointers]
 permalink:  /fruit-into-baskets/
 ---
+
+## 904. 水果成篮 (Medium)
 
 <p>在一排树中，第 <code>i</code> 棵树产生&nbsp;<code>tree[i]</code> 型的水果。<br>
 你可以<strong>从你选择的任何树开始</strong>，然后重复执行以下步骤：</p>

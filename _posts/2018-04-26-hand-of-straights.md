@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "846. 一手顺子 (Medium)"
+title:      "一手顺子"
 date:       2018-04-26 21:30:00 +0800
 categories: [leetcode]
 tags:       [map]
 permalink:  /hand-of-straights/
 ---
+
+## 846. 一手顺子 (Medium)
 
 <p>爱丽丝有一手（<code>hand</code>）由整数数组给定的牌。&nbsp;</p>
 

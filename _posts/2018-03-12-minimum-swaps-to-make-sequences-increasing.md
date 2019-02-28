@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "801. 使序列递增的最小交换次数 (Medium)"
+title:      "使序列递增的最小交换次数"
 date:       2018-03-12 21:30:00 +0800
 categories: [leetcode]
 tags:       [dynamic-programming]
 permalink:  /minimum-swaps-to-make-sequences-increasing/
 ---
+
+## 801. 使序列递增的最小交换次数 (Medium)
 
 <p>我们有两个长度相等且不为空的整型数组&nbsp;<code>A</code>&nbsp;和&nbsp;<code>B</code>&nbsp;。</p>
 

@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "303. 区域和检索 - 数组不可变 (Easy)"
+title:      "区域和检索 - 数组不可变"
 date:       2016-10-30 21:30:00 +0800
 categories: [leetcode]
 tags:       [dynamic-programming]
 permalink:  /range-sum-query-immutable/
 ---
+
+## 303. 区域和检索 - 数组不可变 (Easy)
 
 <p>给定一个整数数组 &nbsp;<em>nums</em>，求出数组从索引&nbsp;<em>i&nbsp;</em>到&nbsp;<em>j&nbsp;&nbsp;</em>(<em>i</em>&nbsp;&le;&nbsp;<em>j</em>) 范围内元素的总和，包含&nbsp;<em>i,&nbsp; j&nbsp;</em>两点。</p>
 

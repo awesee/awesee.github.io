@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "791. 自定义字符串排序 (Medium)"
+title:      "自定义字符串排序"
 date:       2018-03-02 21:30:00 +0800
 categories: [leetcode]
 tags:       [string]
 permalink:  /custom-sort-string/
 ---
+
+## 791. 自定义字符串排序 (Medium)
 
 <p>字符串<code>S</code>和 <code>T</code> 只包含小写字符。在<code>S</code>中，所有字符只会出现一次。</p>
 

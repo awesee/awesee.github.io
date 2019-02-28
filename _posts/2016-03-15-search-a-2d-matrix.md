@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "74. 搜索二维矩阵 (Medium)"
+title:      "搜索二维矩阵"
 date:       2016-03-15 21:30:00 +0800
 categories: [leetcode]
 tags:       [array, binary-search]
 permalink:  /search-a-2d-matrix/
 ---
+
+## 74. 搜索二维矩阵 (Medium)
 
 <p>编写一个高效的算法来判断&nbsp;<em>m</em> x <em>n</em>&nbsp;矩阵中，是否存在一个目标值。该矩阵具有如下特性：</p>
 

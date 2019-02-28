@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "220. 存在重复元素 III (Medium)"
+title:      "存在重复元素 III"
 date:       2016-08-08 21:30:00 +0800
 categories: [leetcode]
 tags:       [binary-search-tree]
 permalink:  /contains-duplicate-iii/
 ---
+
+## 220. 存在重复元素 III (Medium)
 
 <p>给定一个整数数组，判断数组中是否有两个不同的索引 <em>i</em> 和 <em>j</em>，使得&nbsp;<strong>nums [i]</strong> 和&nbsp;<strong>nums [j]</strong>&nbsp;的差的绝对值最大为 <em>t</em>，并且 <em>i</em> 和 <em>j</em> 之间的差的绝对值最大为 <em>ķ</em>。</p>
 

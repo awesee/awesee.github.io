@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "813. 最大平均值和的分组 (Medium)"
+title:      "最大平均值和的分组"
 date:       2018-03-24 21:30:00 +0800
 categories: [leetcode]
 tags:       [dynamic-programming]
 permalink:  /largest-sum-of-averages/
 ---
+
+## 813. 最大平均值和的分组 (Medium)
 
 <p>我们将给定的数组&nbsp;<code>A</code>&nbsp;分成&nbsp;<code>K</code>&nbsp;个相邻的非空子数组 ，我们的分数由每个子数组内的平均值的总和构成。计算我们所能得到的最大分数是多少。</p>
 

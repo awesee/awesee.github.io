@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "892. 三维形体的表面积 (Easy)"
+title:      "三维形体的表面积"
 date:       2018-06-11 21:30:00 +0800
 categories: [leetcode]
 tags:       [geometry, math]
 permalink:  /surface-area-of-3d-shapes/
 ---
+
+## 892. 三维形体的表面积 (Easy)
 
 <p>在&nbsp;<code>N&nbsp;*&nbsp;N</code>&nbsp;的网格上，我们放置一些&nbsp;<code>1 * 1 * 1&nbsp;</code>&nbsp;的立方体。</p>
 

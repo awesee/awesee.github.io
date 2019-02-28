@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "705. 设计哈希集合 (Easy)"
+title:      "设计哈希集合"
 date:       2017-12-06 21:30:00 +0800
 categories: [leetcode]
 tags:       [design, hash-table]
 permalink:  /design-hashset/
 ---
+
+## 705. 设计哈希集合 (Easy)
 
 <p>不使用任何内建的哈希表库设计一个哈希集合</p>
 

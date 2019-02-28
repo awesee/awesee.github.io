@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "334. 递增的三元子序列 (Medium)"
+title:      "递增的三元子序列"
 date:       2016-11-30 21:30:00 +0800
 categories: [leetcode]
 tags:       []
 permalink:  /increasing-triplet-subsequence/
 ---
+
+## 334. 递增的三元子序列 (Medium)
 
 <p>给定一个未排序的数组，判断这个数组中是否存在长度为 3 的递增子序列。</p>
 

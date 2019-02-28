@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "883. 三维形体投影面积 (Easy)"
+title:      "三维形体投影面积"
 date:       2018-06-02 21:30:00 +0800
 categories: [leetcode]
 tags:       [math]
 permalink:  /projection-area-of-3d-shapes/
 ---
+
+## 883. 三维形体投影面积 (Easy)
 
 <p>在&nbsp;<code>N&nbsp;*&nbsp;N</code>&nbsp;的网格中，我们放置了一些与 x，y，z 三轴对齐的&nbsp;<code>1 * 1 * 1</code>&nbsp;立方体。</p>
 

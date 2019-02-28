@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "326. 3的幂 (Easy)"
+title:      "3的幂"
 date:       2016-11-22 21:30:00 +0800
 categories: [leetcode]
 tags:       [math]
 permalink:  /power-of-three/
 ---
+
+## 326. 3的幂 (Easy)
 
 <p>给定一个整数，写一个函数来判断它是否是 3&nbsp;的幂次方。</p>
 

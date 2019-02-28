@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "594. 最长和谐子序列 (Easy)"
+title:      "最长和谐子序列"
 date:       2017-08-17 21:30:00 +0800
 categories: [leetcode]
 tags:       [hash-table]
 permalink:  /longest-harmonious-subsequence/
 ---
+
+## 594. 最长和谐子序列 (Easy)
 
 <p>和谐数组是指一个数组里元素的最大值和最小值之间的差别正好是1。</p>
 

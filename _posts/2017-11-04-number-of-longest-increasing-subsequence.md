@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "673. 最长递增子序列的个数 (Medium)"
+title:      "最长递增子序列的个数"
 date:       2017-11-04 21:30:00 +0800
 categories: [leetcode]
 tags:       [dynamic-programming]
 permalink:  /number-of-longest-increasing-subsequence/
 ---
+
+## 673. 最长递增子序列的个数 (Medium)
 
 <p>给定一个未排序的整数数组，找到最长递增子序列的个数。</p>
 

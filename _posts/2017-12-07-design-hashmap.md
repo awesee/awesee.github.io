@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "706. 设计哈希映射 (Easy)"
+title:      "设计哈希映射"
 date:       2017-12-07 21:30:00 +0800
 categories: [leetcode]
 tags:       [design, hash-table]
 permalink:  /design-hashmap/
 ---
+
+## 706. 设计哈希映射 (Easy)
 
 <p>不使用任何内建的哈希表库设计一个哈希映射</p>
 

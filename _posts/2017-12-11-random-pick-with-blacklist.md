@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "710. 黑名单中的随机数 (Hard)"
+title:      "黑名单中的随机数"
 date:       2017-12-11 21:30:00 +0800
 categories: [leetcode]
 tags:       [sort, hash-table, binary-search, random]
 permalink:  /random-pick-with-blacklist/
 ---
+
+## 710. 黑名单中的随机数 (Hard)
 
 <p>给定一个包含 [0，n ) 中独特的整数的黑名单 B，写一个函数从 [ 0，n ) 中返回一个<strong>不在</strong> B 中的随机整数。</p>
 

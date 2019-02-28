@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "33. 搜索旋转排序数组 (Medium)"
+title:      "搜索旋转排序数组"
 date:       2016-02-03 21:30:00 +0800
 categories: [leetcode]
 tags:       [array, binary-search]
 permalink:  /search-in-rotated-sorted-array/
 ---
+
+## 33. 搜索旋转排序数组 (Medium)
 
 <p>假设按照升序排序的数组在预先未知的某个点上进行了旋转。</p>
 

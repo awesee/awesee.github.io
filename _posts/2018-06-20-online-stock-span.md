@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "901. 股票价格跨度 (Medium)"
+title:      "股票价格跨度"
 date:       2018-06-20 21:30:00 +0800
 categories: [leetcode]
 tags:       [stack]
 permalink:  /online-stock-span/
 ---
+
+## 901. 股票价格跨度 (Medium)
 
 <p>编写一个 <code>StockSpanner</code> 类，它收集某些股票的每日报价，并返回该股票当日价格的跨度。</p>
 

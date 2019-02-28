@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "836. 矩形重叠 (Easy)"
+title:      "矩形重叠"
 date:       2018-04-16 21:30:00 +0800
 categories: [leetcode]
 tags:       [math]
 permalink:  /rectangle-overlap/
 ---
+
+## 836. 矩形重叠 (Easy)
 
 <p>矩形以列表 <code>[x1, y1, x2, y2]</code> 的形式表示，其中 <code>(x1, y1)</code> 为左下角的坐标，<code>(x2, y2)</code> 是右上角的坐标。</p>
 

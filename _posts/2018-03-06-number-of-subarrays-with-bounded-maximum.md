@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "795. 区间子数组个数 (Medium)"
+title:      "区间子数组个数"
 date:       2018-03-06 21:30:00 +0800
 categories: [leetcode]
 tags:       [array]
 permalink:  /number-of-subarrays-with-bounded-maximum/
 ---
+
+## 795. 区间子数组个数 (Medium)
 
 <p>给定一个元素都是正整数的数组<code>A</code>&nbsp;，正整数 <code>L</code>&nbsp;以及&nbsp;<code>R</code>&nbsp;(<code>L &lt;= R</code>)。</p>
 

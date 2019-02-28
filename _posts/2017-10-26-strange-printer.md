@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "664. 奇怪的打印机 (Hard)"
+title:      "奇怪的打印机"
 date:       2017-10-26 21:30:00 +0800
 categories: [leetcode]
 tags:       [depth-first-search, dynamic-programming]
 permalink:  /strange-printer/
 ---
+
+## 664. 奇怪的打印机 (Hard)
 
 <p>有台奇怪的打印机有以下两个特殊要求：</p>
 

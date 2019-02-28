@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "190. 颠倒二进制位 (Easy)"
+title:      "颠倒二进制位"
 date:       2016-07-09 21:30:00 +0800
 categories: [leetcode]
 tags:       [bit-manipulation]
 permalink:  /reverse-bits/
 ---
+
+## 190. 颠倒二进制位 (Easy)
 
 <p>颠倒给定的 32 位无符号整数的二进制位。</p>
 

@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "564. 寻找最近的回文数 (Hard)"
+title:      "寻找最近的回文数"
 date:       2017-07-18 21:30:00 +0800
 categories: [leetcode]
 tags:       [string]
 permalink:  /find-the-closest-palindrome/
 ---
+
+## 564. 寻找最近的回文数 (Hard)
 
 <p>给定一个整数 n ，你需要找到与它最近的回文数（不包括自身）。</p>
 

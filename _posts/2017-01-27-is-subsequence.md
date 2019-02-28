@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "392. 判断子序列 (Medium)"
+title:      "判断子序列"
 date:       2017-01-27 21:30:00 +0800
 categories: [leetcode]
 tags:       [greedy, binary-search, dynamic-programming]
 permalink:  /is-subsequence/
 ---
+
+## 392. 判断子序列 (Medium)
 
 <p>给定字符串 <strong>s</strong> 和 <strong>t</strong> ，判断 <strong>s</strong> 是否为 <strong>t</strong> 的子序列。</p>
 

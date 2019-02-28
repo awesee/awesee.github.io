@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "151. 翻转字符串里的单词 (Medium)"
+title:      "翻转字符串里的单词"
 date:       2016-05-31 21:30:00 +0800
 categories: [leetcode]
 tags:       [string]
 permalink:  /reverse-words-in-a-string/
 ---
+
+## 151. 翻转字符串里的单词 (Medium)
 
 <p>给定一个字符串，逐个翻转字符串中的每个单词。</p>
 

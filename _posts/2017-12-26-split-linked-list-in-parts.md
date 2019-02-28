@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "725. 分隔链表 (Medium)"
+title:      "分隔链表"
 date:       2017-12-26 21:30:00 +0800
 categories: [leetcode]
 tags:       [linked-list]
 permalink:  /split-linked-list-in-parts/
 ---
+
+## 725. 分隔链表 (Medium)
 
 <p>给定一个头结点为 <code>root</code> 的链表, 编写一个函数以将链表分隔为 <code>k</code> 个连续的部分。</p>
 

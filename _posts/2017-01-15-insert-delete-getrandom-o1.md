@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "380. 常数时间插入、删除和获取随机元素 (Medium)"
+title:      "常数时间插入、删除和获取随机元素"
 date:       2017-01-15 21:30:00 +0800
 categories: [leetcode]
 tags:       [design, array, hash-table]
 permalink:  /insert-delete-getrandom-o1/
 ---
+
+## 380. 常数时间插入、删除和获取随机元素 (Medium)
 
 <p>设计一个支持在<em>平均&nbsp;</em>时间复杂度 <strong>O(1)</strong>&nbsp;下，执行以下操作的数据结构。</p>
 

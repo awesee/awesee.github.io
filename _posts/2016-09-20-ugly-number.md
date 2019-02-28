@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "263. 丑数 (Easy)"
+title:      "丑数"
 date:       2016-09-20 21:30:00 +0800
 categories: [leetcode]
 tags:       [math]
 permalink:  /ugly-number/
 ---
+
+## 263. 丑数 (Easy)
 
 <p>编写一个程序判断给定的数是否为丑数。</p>
 

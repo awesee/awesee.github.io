@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "2. 两数相加 (Medium)"
+title:      "两数相加"
 date:       2016-01-03 21:30:00 +0800
 categories: [leetcode]
 tags:       [linked-list, math]
 permalink:  /add-two-numbers/
 ---
+
+## 2. 两数相加 (Medium)
 
 <p>给出两个&nbsp;<strong>非空</strong> 的链表用来表示两个非负的整数。其中，它们各自的位数是按照&nbsp;<strong>逆序</strong>&nbsp;的方式存储的，并且它们的每个节点只能存储&nbsp;<strong>一位</strong>&nbsp;数字。</p>
 

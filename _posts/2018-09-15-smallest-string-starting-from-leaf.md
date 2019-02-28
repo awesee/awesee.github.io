@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "988. 从叶结点开始的最小字符串 (Medium)"
+title:      "从叶结点开始的最小字符串"
 date:       2018-09-15 21:30:00 +0800
 categories: [leetcode]
 tags:       [tree]
 permalink:  /smallest-string-starting-from-leaf/
 ---
+
+## 988. 从叶结点开始的最小字符串 (Medium)
 
 <p>给定一颗根结点为&nbsp;<code>root</code>&nbsp;的二叉树，书中的每个结点都有一个从&nbsp;<code>0</code> 到&nbsp;<code>25</code>&nbsp;的值，分别代表字母&nbsp;<code>&#39;a&#39;</code> 到&nbsp;<code>&#39;z&#39;</code>：值&nbsp;<code>0</code> 代表&nbsp;<code>&#39;a&#39;</code>，值&nbsp;<code>1</code>&nbsp;代表&nbsp;<code>&#39;b&#39;</code>，依此类推。</p>
 

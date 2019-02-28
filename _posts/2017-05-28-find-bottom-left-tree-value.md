@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "513. 找树左下角的值 (Medium)"
+title:      "找树左下角的值"
 date:       2017-05-28 21:30:00 +0800
 categories: [leetcode]
 tags:       [tree, depth-first-search, breadth-first-search]
 permalink:  /find-bottom-left-tree-value/
 ---
+
+## 513. 找树左下角的值 (Medium)
 
 <p>给定一个二叉树，在树的最后一行找到最左边的值。</p>
 

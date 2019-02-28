@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "240. 搜索二维矩阵 II (Medium)"
+title:      "搜索二维矩阵 II"
 date:       2016-08-28 21:30:00 +0800
 categories: [leetcode]
 tags:       [binary-search, divide-and-conquer]
 permalink:  /search-a-2d-matrix-ii/
 ---
+
+## 240. 搜索二维矩阵 II (Medium)
 
 <p>编写一个高效的算法来搜索&nbsp;<em>m</em>&nbsp;x&nbsp;<em>n</em>&nbsp;矩阵 matrix 中的一个目标值 target。该矩阵具有以下特性：</p>
 

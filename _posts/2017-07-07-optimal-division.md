@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "553. 最优除法 (Medium)"
+title:      "最优除法"
 date:       2017-07-07 21:30:00 +0800
 categories: [leetcode]
 tags:       [math, string]
 permalink:  /optimal-division/
 ---
+
+## 553. 最优除法 (Medium)
 
 <p>给定一组<strong>正整数，</strong>相邻的整数之间将会进行浮点除法操作。例如，&nbsp;[2,3,4] -&gt; 2 / 3 / 4 。</p>
 

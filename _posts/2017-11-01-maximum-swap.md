@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "670. 最大交换 (Medium)"
+title:      "最大交换"
 date:       2017-11-01 21:30:00 +0800
 categories: [leetcode]
 tags:       [array, math]
 permalink:  /maximum-swap/
 ---
+
+## 670. 最大交换 (Medium)
 
 <p>给定一个非负整数，你<strong>至多</strong>可以交换一次数字中的任意两位。返回你能得到的最大值。</p>
 

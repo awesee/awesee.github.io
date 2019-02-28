@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "899. 有序队列 (Hard)"
+title:      "有序队列"
 date:       2018-06-18 21:30:00 +0800
 categories: [leetcode]
 tags:       [math, string]
 permalink:  /orderly-queue/
 ---
+
+## 899. 有序队列 (Hard)
 
 <p>给出了一个由小写字母组成的字符串 <code>S</code>。然后，我们可以进行任意次数的<em>移动</em>。</p>
 

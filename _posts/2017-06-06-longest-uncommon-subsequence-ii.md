@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "522. 最长特殊序列 II (Medium)"
+title:      "最长特殊序列 II"
 date:       2017-06-06 21:30:00 +0800
 categories: [leetcode]
 tags:       [string]
 permalink:  /longest-uncommon-subsequence-ii/
 ---
+
+## 522. 最长特殊序列 II (Medium)
 
 <p>给定字符串列表，你需要从它们中找出最长的特殊序列。最长特殊序列定义如下：该序列为某字符串独有的最长子序列（即不能是其他字符串的子序列）。</p>
 

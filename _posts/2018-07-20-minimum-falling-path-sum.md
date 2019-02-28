@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "931. 下降路径最小和 (Medium)"
+title:      "下降路径最小和"
 date:       2018-07-20 21:30:00 +0800
 categories: [leetcode]
 tags:       [dynamic-programming]
 permalink:  /minimum-falling-path-sum/
 ---
+
+## 931. 下降路径最小和 (Medium)
 
 <p>给定一个<strong>方形</strong>整数数组&nbsp;<code>A</code>，我们想要得到通过 <code>A</code> 的<em>下降路径</em>的<strong>最小</strong>和。</p>
 

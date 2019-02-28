@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "685. 冗余连接 II (Hard)"
+title:      "冗余连接 II"
 date:       2017-11-16 21:30:00 +0800
 categories: [leetcode]
 tags:       [tree, depth-first-search, union-find, graph]
 permalink:  /redundant-connection-ii/
 ---
+
+## 685. 冗余连接 II (Hard)
 
 <p>在本问题中，有根树指满足以下条件的<strong>有向</strong>图。该树只有一个根节点，所有其他节点都是该根节点的后继。每一个节点只有一个父节点，除了根节点没有父节点。</p>
 

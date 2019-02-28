@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "733. 图像渲染 (Easy)"
+title:      "图像渲染"
 date:       2018-01-03 21:30:00 +0800
 categories: [leetcode]
 tags:       [depth-first-search]
 permalink:  /flood-fill/
 ---
+
+## 733. 图像渲染 (Easy)
 
 <p>有一幅以二维整数数组表示的图画，每一个整数表示该图画的像素值大小，数值在 0 到 65535 之间。</p>
 

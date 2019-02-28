@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "434. 字符串中的单词数 (Easy)"
+title:      "字符串中的单词数"
 date:       2017-03-10 21:30:00 +0800
 categories: [leetcode]
 tags:       [string]
 permalink:  /number-of-segments-in-a-string/
 ---
+
+## 434. 字符串中的单词数 (Easy)
 
 <p>统计字符串中的单词个数，这里的单词指的是连续的不是空格的字符。</p>
 

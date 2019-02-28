@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "741. 摘樱桃 (Hard)"
+title:      "摘樱桃"
 date:       2018-01-11 21:30:00 +0800
 categories: [leetcode]
 tags:       [dynamic-programming]
 permalink:  /cherry-pickup/
 ---
+
+## 741. 摘樱桃 (Hard)
 
 <p>一个N x N的网格<code>(grid)</code>&nbsp;代表了一块樱桃地，每个格子由以下三种数字的一种来表示：</p>
 

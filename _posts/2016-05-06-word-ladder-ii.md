@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "126. 单词接龙 II (Hard)"
+title:      "单词接龙 II"
 date:       2016-05-06 21:30:00 +0800
 categories: [leetcode]
 tags:       [breadth-first-search, array, string, backtracking]
 permalink:  /word-ladder-ii/
 ---
+
+## 126. 单词接龙 II (Hard)
 
 <p>给定两个单词（<em>beginWord</em> 和 <em>endWord</em>）和一个字典 <em>wordList</em>，找出所有从 <em>beginWord </em>到 <em>endWord </em>的最短转换序列。转换需遵循如下规则：</p>
 

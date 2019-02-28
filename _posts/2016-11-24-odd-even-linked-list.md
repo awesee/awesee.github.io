@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "328. 奇偶链表 (Medium)"
+title:      "奇偶链表"
 date:       2016-11-24 21:30:00 +0800
 categories: [leetcode]
 tags:       [linked-list]
 permalink:  /odd-even-linked-list/
 ---
+
+## 328. 奇偶链表 (Medium)
 
 <p>给定一个单链表，把所有的奇数节点和偶数节点分别排在一起。请注意，这里的奇数节点和偶数节点指的是节点编号的奇偶性，而不是节点的值的奇偶性。</p>
 

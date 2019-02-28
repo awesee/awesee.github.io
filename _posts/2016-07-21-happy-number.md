@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "202. 快乐数 (Easy)"
+title:      "快乐数"
 date:       2016-07-21 21:30:00 +0800
 categories: [leetcode]
 tags:       [hash-table, math]
 permalink:  /happy-number/
 ---
+
+## 202. 快乐数 (Easy)
 
 <p>编写一个算法来判断一个数是不是&ldquo;快乐数&rdquo;。</p>
 

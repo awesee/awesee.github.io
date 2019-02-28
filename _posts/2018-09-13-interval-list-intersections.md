@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "986. 区间列表的交集 (Medium)"
+title:      "区间列表的交集"
 date:       2018-09-13 21:30:00 +0800
 categories: [leetcode]
 tags:       [two-pointers]
 permalink:  /interval-list-intersections/
 ---
+
+## 986. 区间列表的交集 (Medium)
 
 <p>给定两个由一些<strong>闭区间</strong>组成的列表，每个区间列表都是成对不相交的，并且已经排序。</p>
 

@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "402. 移掉K位数字 (Medium)"
+title:      "移掉K位数字"
 date:       2017-02-06 21:30:00 +0800
 categories: [leetcode]
 tags:       [stack, greedy]
 permalink:  /remove-k-digits/
 ---
+
+## 402. 移掉K位数字 (Medium)
 
 <p>给定一个以字符串表示的非负整数&nbsp;<em>num</em>，移除这个数中的 <em>k </em>位数字，使得剩下的数字最小。</p>
 

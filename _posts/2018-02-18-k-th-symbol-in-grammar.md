@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "779. 第K个语法符号 (Medium)"
+title:      "第K个语法符号"
 date:       2018-02-18 21:30:00 +0800
 categories: [leetcode]
 tags:       [recursion]
 permalink:  /k-th-symbol-in-grammar/
 ---
+
+## 779. 第K个语法符号 (Medium)
 
 <p>在第一行我们写上一个 <code>0</code>。接下来的每一行，将前一行中的<code>0</code>替换为<code>01</code>，<code>1</code>替换为<code>10</code>。</p>
 

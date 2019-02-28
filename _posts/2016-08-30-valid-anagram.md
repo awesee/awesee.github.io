@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "242. 有效的字母异位词 (Easy)"
+title:      "有效的字母异位词"
 date:       2016-08-30 21:30:00 +0800
 categories: [leetcode]
 tags:       [sort, hash-table]
 permalink:  /valid-anagram/
 ---
+
+## 242. 有效的字母异位词 (Easy)
 
 <p>给定两个字符串 <em>s</em> 和 <em>t</em> ，编写一个函数来判断 <em>t</em> 是否是 <em>s</em> 的一个字母异位词。</p>
 

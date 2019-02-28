@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "709. 转换成小写字母 (Easy)"
+title:      "转换成小写字母"
 date:       2017-12-10 21:30:00 +0800
 categories: [leetcode]
 tags:       [string]
 permalink:  /to-lower-case/
 ---
+
+## 709. 转换成小写字母 (Easy)
 
 <p>实现函数 ToLowerCase()，该函数接收一个字符串参数 str，并将该字符串中的大写字母转换成小写字母，之后返回新的字符串。</p>
 

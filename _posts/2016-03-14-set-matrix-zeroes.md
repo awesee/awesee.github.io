@@ -1,11 +1,13 @@
 ---
 layout:     single
-title:      "73. 矩阵置零 (Medium)"
+title:      "矩阵置零"
 date:       2016-03-14 21:30:00 +0800
 categories: [leetcode]
 tags:       [array]
 permalink:  /set-matrix-zeroes/
 ---
+
+## 73. 矩阵置零 (Medium)
 
 <p>给定一个&nbsp;<em>m</em> x <em>n</em> 的矩阵，如果一个元素为 0，则将其所在行和列的所有元素都设为 0。请使用<strong><a href="http://baike.baidu.com/item/%E5%8E%9F%E5%9C%B0%E7%AE%97%E6%B3%95" target="_blank">原地</a></strong>算法<strong>。</strong></p>
 
