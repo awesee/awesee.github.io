@@ -28,7 +28,6 @@ permalink:  /check-completeness-of-a-binary-tree/
 
 <p><strong>示例 2：</strong></p>
 
-<p><strong><img alt="" src="https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2018/12/15/complete-binary-tree-2.png"></strong></p>
 
 <pre><strong>输入：</strong>[1,2,3,4,5,null,7]
 <strong>输出：</strong>false
