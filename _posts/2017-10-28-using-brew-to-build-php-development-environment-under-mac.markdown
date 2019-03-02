@@ -1,8 +1,9 @@
 ---
-layout: single
-title:  "Mac下用brew搭建PHP开发环境"
-date:   2017-10-28 18:30:00 +0800
-categories: articles
+layout:     single
+title:      "Mac下用brew搭建PHP开发环境"
+date:       2017-10-28 18:30:00 +0800
+categories: [PHP]
+tags:       [Mac]
 ---
 
 ## 搭建过程

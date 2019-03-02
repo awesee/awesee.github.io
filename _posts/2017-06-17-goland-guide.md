@@ -2,8 +2,8 @@
 layout:     single
 title:      "Go 指南"
 date:       2017-06-17 21:00:00 +0800
-categories: [go]
-tags:       [go, guide]
+categories: [Guide]
+tags:       [Go]
 permalink:  /post-go-guide/
 ---
 

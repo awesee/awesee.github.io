@@ -1,9 +1,9 @@
 ---
-layout: single
-title:  字符集和字符编码
-date:   2019-02-20 18:30:00 +0800
-categories: [encoding]
-tags: [charset, encoding]
+layout:     single
+title:      字符集和字符编码
+date:       2019-02-20 18:30:00 +0800
+categories: [Computer]
+tags:       [Charset, Encoding]
 ---
 
 ## 基础知识

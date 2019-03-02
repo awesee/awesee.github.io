@@ -1,9 +1,9 @@
 ---
-layout: single
-title:  如何快速判断一个数是不是2的幂、3的幂、4的幂
-date:   2019-02-25 15:00:00 +0800
-categories: [math]
-tags: [math]
+layout:     single
+title:      如何快速判断一个数是不是2的幂、3的幂、4的幂
+date:       2019-02-25 15:00:00 +0800
+categories: [Algorithm]
+tags:       [Math]
 ---
 
 ## 判断n是否为2的幂
