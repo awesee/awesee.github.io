@@ -2,8 +2,8 @@
 layout: single
 title:  "内网主机无法通过公网访问内网服务"
 date:   2019-03-01 21:30:00 +0800
-categories: [Internet]
-tags: [Internet]
+categories: [Network]
+tags: [Network]
 ---
 
 ## 问题产生原因分析
