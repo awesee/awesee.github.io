@@ -302,10 +302,9 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _leetcode
+  # leetcode
   - scope:
       path: "leetcode"
-      type: leetcode
     values:
       layout: single
       author_profile: true
