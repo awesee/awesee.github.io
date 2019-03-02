@@ -3,7 +3,7 @@ layout:     single
 title:      "递增顺序查找树"
 date:       2018-06-16 21:30:00 +0800
 categories: [leetcode]
-tags:       [tree, depth-first-search]
+tags:       [Tree, Depth-first Search]
 permalink:  /increasing-order-search-tree/
 ---
 

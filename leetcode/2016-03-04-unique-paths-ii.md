@@ -3,7 +3,7 @@ layout:     single
 title:      "不同路径 II"
 date:       2016-03-04 21:30:00 +0800
 categories: [leetcode]
-tags:       [array, dynamic-programming]
+tags:       [Array, Dynamic Programming]
 permalink:  /unique-paths-ii/
 ---
 

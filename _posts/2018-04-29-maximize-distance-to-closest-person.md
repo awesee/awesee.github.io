@@ -3,7 +3,7 @@ layout:     single
 title:      "到最近的人的最大距离"
 date:       2018-04-29 21:30:00 +0800
 categories: [leetcode]
-tags:       [array]
+tags:       [Array]
 permalink:  /maximize-distance-to-closest-person/
 ---
 

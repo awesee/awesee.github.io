@@ -3,7 +3,7 @@ layout:     single
 title:      "函数的独占时间"
 date:       2017-09-28 21:30:00 +0800
 categories: [leetcode]
-tags:       [stack]
+tags:       [Stack]
 permalink:  /exclusive-time-of-functions/
 ---
 

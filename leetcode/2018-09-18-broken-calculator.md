@@ -3,7 +3,7 @@ layout:     single
 title:      "坏了的计算器"
 date:       2018-09-18 21:30:00 +0800
 categories: [leetcode]
-tags:       [math]
+tags:       [Math]
 permalink:  /broken-calculator/
 ---
 

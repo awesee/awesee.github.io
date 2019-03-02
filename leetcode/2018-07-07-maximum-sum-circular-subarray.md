@@ -3,7 +3,7 @@ layout:     single
 title:      "环形子数组的最大和"
 date:       2018-07-07 21:30:00 +0800
 categories: [leetcode]
-tags:       [array]
+tags:       [Array]
 permalink:  /maximum-sum-circular-subarray/
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "隐藏个人信息"
 date:       2018-04-11 21:30:00 +0800
 categories: [leetcode]
-tags:       [string]
+tags:       [String]
 permalink:  /masking-personal-information/
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "寻找数组的中心索引"
 date:       2017-12-25 21:30:00 +0800
 categories: [leetcode]
-tags:       [array]
+tags:       [Array]
 permalink:  /find-pivot-index/
 ---
 

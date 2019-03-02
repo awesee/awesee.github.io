@@ -3,7 +3,7 @@ layout:     single
 title:      "数字转换为十六进制数"
 date:       2017-02-09 21:30:00 +0800
 categories: [leetcode]
-tags:       [bit-manipulation]
+tags:       [Bit Manipulation]
 permalink:  /convert-a-number-to-hexadecimal/
 ---
 

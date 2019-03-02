@@ -3,7 +3,7 @@ layout:     single
 title:      "相似度为 K 的字符串"
 date:       2018-05-04 21:30:00 +0800
 categories: [leetcode]
-tags:       [breadth-first-search, graph]
+tags:       [Breadth-first Search, Graph]
 permalink:  /k-similar-strings/
 ---
 

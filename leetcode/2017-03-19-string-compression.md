@@ -3,7 +3,7 @@ layout:     single
 title:      "压缩字符串"
 date:       2017-03-19 21:30:00 +0800
 categories: [leetcode]
-tags:       [string]
+tags:       [String]
 permalink:  /string-compression/
 ---
 

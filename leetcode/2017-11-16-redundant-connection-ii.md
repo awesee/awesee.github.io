@@ -3,7 +3,7 @@ layout:     single
 title:      "冗余连接 II"
 date:       2017-11-16 21:30:00 +0800
 categories: [leetcode]
-tags:       [tree, depth-first-search, union-find, graph]
+tags:       [Tree, Depth-first Search, Union Find, Graph]
 permalink:  /redundant-connection-ii/
 ---
 

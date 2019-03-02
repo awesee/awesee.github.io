@@ -3,7 +3,7 @@ layout:     single
 title:      "特殊的二进制序列"
 date:       2018-01-31 21:30:00 +0800
 categories: [leetcode]
-tags:       [recursion, string]
+tags:       [Recursion, String]
 permalink:  /special-binary-string/
 ---
 

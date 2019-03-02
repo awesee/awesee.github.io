@@ -3,7 +3,7 @@ layout:     single
 title:      "设计链表"
 date:       2017-12-08 21:30:00 +0800
 categories: [leetcode]
-tags:       [design, linked-list]
+tags:       [Design, Linked List]
 permalink:  /design-linked-list/
 ---
 

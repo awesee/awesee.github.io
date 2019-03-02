@@ -3,7 +3,7 @@ layout:     single
 title:      "和为K的子数组"
 date:       2017-07-14 21:30:00 +0800
 categories: [leetcode]
-tags:       [array, hash-table]
+tags:       [Array, Hash Table]
 permalink:  /subarray-sum-equals-k/
 ---
 

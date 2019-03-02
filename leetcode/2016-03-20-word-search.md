@@ -3,7 +3,7 @@ layout:     single
 title:      "单词搜索"
 date:       2016-03-20 21:30:00 +0800
 categories: [leetcode]
-tags:       [array, backtracking]
+tags:       [Array, Backtracking]
 permalink:  /word-search/
 ---
 

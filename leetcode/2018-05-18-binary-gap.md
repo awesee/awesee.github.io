@@ -3,7 +3,7 @@ layout:     single
 title:      "二进制间距"
 date:       2018-05-18 21:30:00 +0800
 categories: [leetcode]
-tags:       [math]
+tags:       [Math]
 permalink:  /binary-gap/
 ---
 

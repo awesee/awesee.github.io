@@ -3,7 +3,7 @@ layout:     single
 title:      "求众数"
 date:       2016-06-18 21:30:00 +0800
 categories: [leetcode]
-tags:       [bit-manipulation, array, divide-and-conquer]
+tags:       [Bit Manipulation, Array, Divide and Conquer]
 permalink:  /majority-element/
 ---
 

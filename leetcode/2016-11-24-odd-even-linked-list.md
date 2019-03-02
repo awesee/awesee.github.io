@@ -3,7 +3,7 @@ layout:     single
 title:      "奇偶链表"
 date:       2016-11-24 21:30:00 +0800
 categories: [leetcode]
-tags:       [linked-list]
+tags:       [Linked List]
 permalink:  /odd-even-linked-list/
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "区域和检索 - 数组可修改"
 date:       2016-11-03 21:30:00 +0800
 categories: [leetcode]
-tags:       [binary-indexed-tree, segment-tree]
+tags:       [Binary Indexed Tree, Segment Tree]
 permalink:  /range-sum-query-mutable/
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "相等的有理数"
 date:       2018-08-30 21:30:00 +0800
 categories: [leetcode]
-tags:       [math]
+tags:       [Math]
 permalink:  /equal-rational-numbers/
 ---
 

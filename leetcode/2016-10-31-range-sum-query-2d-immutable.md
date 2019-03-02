@@ -3,7 +3,7 @@ layout:     single
 title:      "二维区域和检索 - 矩阵不可变"
 date:       2016-10-31 21:30:00 +0800
 categories: [leetcode]
-tags:       [dynamic-programming]
+tags:       [Dynamic Programming]
 permalink:  /range-sum-query-2d-immutable/
 ---
 

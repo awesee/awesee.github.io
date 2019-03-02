@@ -3,7 +3,7 @@ layout:     single
 title:      "RLE 迭代器"
 date:       2018-06-19 21:30:00 +0800
 categories: [leetcode]
-tags:       [array]
+tags:       [Array]
 permalink:  /rle-iterator/
 ---
 

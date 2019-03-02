@@ -3,7 +3,7 @@ layout:     single
 title:      "查询后的偶数和"
 date:       2018-09-12 21:30:00 +0800
 categories: [leetcode]
-tags:       [array]
+tags:       [Array]
 permalink:  /sum-of-even-numbers-after-queries/
 ---
 

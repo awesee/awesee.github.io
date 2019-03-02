@@ -3,7 +3,7 @@ layout:     single
 title:      "旋转图像"
 date:       2016-02-18 21:30:00 +0800
 categories: [leetcode]
-tags:       [array]
+tags:       [Array]
 permalink:  /rotate-image/
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "有效三角形的个数"
 date:       2017-09-03 21:30:00 +0800
 categories: [leetcode]
-tags:       [array]
+tags:       [Array]
 permalink:  /valid-triangle-number/
 ---
 

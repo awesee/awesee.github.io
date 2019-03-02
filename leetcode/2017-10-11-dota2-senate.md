@@ -3,7 +3,7 @@ layout:     single
 title:      "Dota2 参议院"
 date:       2017-10-11 21:30:00 +0800
 categories: [leetcode]
-tags:       [greedy]
+tags:       [Greedy]
 permalink:  /dota2-senate/
 ---
 

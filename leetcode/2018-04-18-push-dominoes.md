@@ -3,7 +3,7 @@ layout:     single
 title:      "推多米诺"
 date:       2018-04-18 21:30:00 +0800
 categories: [leetcode]
-tags:       [two-pointers, dynamic-programming]
+tags:       [Two Pointers, Dynamic Programming]
 permalink:  /push-dominoes/
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "树中距离之和"
 date:       2018-04-14 21:30:00 +0800
 categories: [leetcode]
-tags:       [tree, depth-first-search]
+tags:       [Tree, Depth-first Search]
 permalink:  /sum-of-distances-in-tree/
 ---
 

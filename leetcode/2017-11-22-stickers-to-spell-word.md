@@ -3,7 +3,7 @@ layout:     single
 title:      "贴纸拼词"
 date:       2017-11-22 21:30:00 +0800
 categories: [leetcode]
-tags:       [dynamic-programming, backtracking]
+tags:       [Dynamic Programming, Backtracking]
 permalink:  /stickers-to-spell-word/
 ---
 

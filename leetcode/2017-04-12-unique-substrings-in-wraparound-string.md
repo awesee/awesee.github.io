@@ -3,7 +3,7 @@ layout:     single
 title:      "环绕字符串中唯一的子字符串"
 date:       2017-04-12 21:30:00 +0800
 categories: [leetcode]
-tags:       [dynamic-programming]
+tags:       [Dynamic Programming]
 permalink:  /unique-substrings-in-wraparound-string/
 ---
 

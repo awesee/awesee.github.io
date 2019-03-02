@@ -3,7 +3,7 @@ layout:     single
 title:      "组合总和 II"
 date:       2016-02-10 21:30:00 +0800
 categories: [leetcode]
-tags:       [array, backtracking]
+tags:       [Array, Backtracking]
 permalink:  /combination-sum-ii/
 ---
 

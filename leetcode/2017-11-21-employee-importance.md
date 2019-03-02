@@ -3,7 +3,7 @@ layout:     single
 title:      "员工的重要性"
 date:       2017-11-21 21:30:00 +0800
 categories: [leetcode]
-tags:       [depth-first-search, breadth-first-search, hash-table]
+tags:       [Depth-first Search, Breadth-first Search, Hash Table]
 permalink:  /employee-importance/
 ---
 

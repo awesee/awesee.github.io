@@ -3,7 +3,7 @@ layout:     single
 title:      "“马”在棋盘上的概率"
 date:       2017-11-19 21:30:00 +0800
 categories: [leetcode]
-tags:       [dynamic-programming]
+tags:       [Dynamic Programming]
 permalink:  /knight-probability-in-chessboard/
 ---
 

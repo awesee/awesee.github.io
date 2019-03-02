@@ -3,7 +3,7 @@ layout:     single
 title:      "到达终点数字"
 date:       2018-01-24 21:30:00 +0800
 categories: [leetcode]
-tags:       [math]
+tags:       [Math]
 permalink:  /reach-a-number/
 ---
 

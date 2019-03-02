@@ -3,7 +3,7 @@ layout:     single
 title:      "旋转函数"
 date:       2017-01-31 21:30:00 +0800
 categories: [leetcode]
-tags:       [math]
+tags:       [Math]
 permalink:  /rotate-function/
 ---
 

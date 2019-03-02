@@ -3,7 +3,7 @@ layout:     single
 title:      "至少是其他数字两倍的最大数"
 date:       2018-01-17 21:30:00 +0800
 categories: [leetcode]
-tags:       [array]
+tags:       [Array]
 permalink:  /largest-number-at-least-twice-of-others/
 ---
 

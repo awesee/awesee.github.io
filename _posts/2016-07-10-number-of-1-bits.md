@@ -3,7 +3,7 @@ layout:     single
 title:      "位1的个数"
 date:       2016-07-10 21:30:00 +0800
 categories: [leetcode]
-tags:       [bit-manipulation]
+tags:       [Bit Manipulation]
 permalink:  /number-of-1-bits/
 ---
 

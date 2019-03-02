@@ -3,7 +3,7 @@ layout:     single
 title:      "和可被 K 整除的子数组"
 date:       2018-09-01 21:30:00 +0800
 categories: [leetcode]
-tags:       [array]
+tags:       [Array]
 permalink:  /subarray-sums-divisible-by-k/
 ---
 

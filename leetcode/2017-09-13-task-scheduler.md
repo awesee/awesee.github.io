@@ -3,7 +3,7 @@ layout:     single
 title:      "任务调度器"
 date:       2017-09-13 21:30:00 +0800
 categories: [leetcode]
-tags:       [greedy, queue, array]
+tags:       [Greedy, Queue, Array]
 permalink:  /task-scheduler/
 ---
 

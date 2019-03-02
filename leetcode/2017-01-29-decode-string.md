@@ -3,7 +3,7 @@ layout:     single
 title:      "字符串解码"
 date:       2017-01-29 21:30:00 +0800
 categories: [leetcode]
-tags:       [stack, depth-first-search]
+tags:       [Stack, Depth-first Search]
 permalink:  /decode-string/
 ---
 

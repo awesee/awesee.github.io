@@ -3,7 +3,7 @@ layout:     single
 title:      "二叉树的层次遍历 II"
 date:       2016-04-17 21:30:00 +0800
 categories: [leetcode]
-tags:       [tree, breadth-first-search]
+tags:       [Tree, Breadth-first Search]
 permalink:  /binary-tree-level-order-traversal-ii/
 ---
 

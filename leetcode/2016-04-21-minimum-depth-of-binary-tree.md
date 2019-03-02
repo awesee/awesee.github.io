@@ -3,7 +3,7 @@ layout:     single
 title:      "二叉树的最小深度"
 date:       2016-04-21 21:30:00 +0800
 categories: [leetcode]
-tags:       [tree, depth-first-search, breadth-first-search]
+tags:       [Tree, Depth-first Search, Breadth-first Search]
 permalink:  /minimum-depth-of-binary-tree/
 ---
 

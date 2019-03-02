@@ -3,7 +3,7 @@ layout:     single
 title:      "安排工作以达到最大收益"
 date:       2018-04-06 21:30:00 +0800
 categories: [leetcode]
-tags:       [two-pointers]
+tags:       [Two Pointers]
 permalink:  /most-profit-assigning-work/
 ---
 

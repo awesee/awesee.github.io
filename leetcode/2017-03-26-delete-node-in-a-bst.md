@@ -3,7 +3,7 @@ layout:     single
 title:      "删除二叉搜索树中的节点"
 date:       2017-03-26 21:30:00 +0800
 categories: [leetcode]
-tags:       [tree]
+tags:       [Tree]
 permalink:  /delete-node-in-a-bst/
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "二叉树最大宽度"
 date:       2017-10-24 21:30:00 +0800
 categories: [leetcode]
-tags:       [tree]
+tags:       [Tree]
 permalink:  /maximum-width-of-binary-tree/
 ---
 

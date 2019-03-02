@@ -3,7 +3,7 @@ layout:     single
 title:      "移动零"
 date:       2016-10-10 21:30:00 +0800
 categories: [leetcode]
-tags:       [array, two-pointers]
+tags:       [Array, Two Pointers]
 permalink:  /move-zeroes/
 ---
 

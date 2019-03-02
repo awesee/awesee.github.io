@@ -3,7 +3,7 @@ layout:     single
 title:      "区域和检索 - 数组不可变"
 date:       2016-10-30 21:30:00 +0800
 categories: [leetcode]
-tags:       [dynamic-programming]
+tags:       [Dynamic Programming]
 permalink:  /range-sum-query-immutable/
 ---
 

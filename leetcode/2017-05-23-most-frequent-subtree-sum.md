@@ -3,7 +3,7 @@ layout:     single
 title:      "出现次数最多的子树元素和"
 date:       2017-05-23 21:30:00 +0800
 categories: [leetcode]
-tags:       [tree, hash-table]
+tags:       [Tree, Hash Table]
 permalink:  /most-frequent-subtree-sum/
 ---
 

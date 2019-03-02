@@ -3,7 +3,7 @@ layout:     single
 title:      "细分图中的可到达结点"
 date:       2018-06-01 21:30:00 +0800
 categories: [leetcode]
-tags:       [heap]
+tags:       [Heap]
 permalink:  /reachable-nodes-in-subdivided-graph/
 ---
 

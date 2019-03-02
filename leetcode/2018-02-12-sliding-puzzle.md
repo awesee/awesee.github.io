@@ -3,7 +3,7 @@ layout:     single
 title:      "滑动谜题"
 date:       2018-02-12 21:30:00 +0800
 categories: [leetcode]
-tags:       [breadth-first-search]
+tags:       [Breadth-first Search]
 permalink:  /sliding-puzzle/
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "二叉树的直径"
 date:       2017-06-27 21:30:00 +0800
 categories: [leetcode]
-tags:       [tree]
+tags:       [Tree]
 permalink:  /diameter-of-binary-tree/
 ---
 

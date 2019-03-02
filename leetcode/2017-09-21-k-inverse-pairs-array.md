@@ -3,7 +3,7 @@ layout:     single
 title:      "K个逆序对数组"
 date:       2017-09-21 21:30:00 +0800
 categories: [leetcode]
-tags:       [dynamic-programming]
+tags:       [Dynamic Programming]
 permalink:  /k-inverse-pairs-array/
 ---
 

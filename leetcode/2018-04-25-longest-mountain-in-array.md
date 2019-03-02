@@ -3,7 +3,7 @@ layout:     single
 title:      "数组中的最长山脉"
 date:       2018-04-25 21:30:00 +0800
 categories: [leetcode]
-tags:       [two-pointers]
+tags:       [Two Pointers]
 permalink:  /longest-mountain-in-array/
 ---
 

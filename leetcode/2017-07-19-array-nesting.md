@@ -3,7 +3,7 @@ layout:     single
 title:      "数组嵌套"
 date:       2017-07-19 21:30:00 +0800
 categories: [leetcode]
-tags:       [array]
+tags:       [Array]
 permalink:  /array-nesting/
 ---
 

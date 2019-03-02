@@ -3,7 +3,7 @@ layout:     single
 title:      "买卖股票的最佳时机 II"
 date:       2016-05-02 21:30:00 +0800
 categories: [leetcode]
-tags:       [greedy, array]
+tags:       [Greedy, Array]
 permalink:  /best-time-to-buy-and-sell-stock-ii/
 ---
 

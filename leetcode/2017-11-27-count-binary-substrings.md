@@ -3,7 +3,7 @@ layout:     single
 title:      "计数二进制子串"
 date:       2017-11-27 21:30:00 +0800
 categories: [leetcode]
-tags:       [string]
+tags:       [String]
 permalink:  /count-binary-substrings/
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "最后一个单词的长度"
 date:       2016-02-28 21:30:00 +0800
 categories: [leetcode]
-tags:       [string]
+tags:       [String]
 permalink:  /length-of-last-word/
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "两数之和 IV - 输入 BST"
 date:       2017-10-15 21:30:00 +0800
 categories: [leetcode]
-tags:       [tree]
+tags:       [Tree]
 permalink:  /two-sum-iv-input-is-a-bst/
 ---
 

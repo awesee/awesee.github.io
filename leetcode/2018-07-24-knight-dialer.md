@@ -3,7 +3,7 @@ layout:     single
 title:      "骑士拨号器"
 date:       2018-07-24 21:30:00 +0800
 categories: [leetcode]
-tags:       [dynamic-programming]
+tags:       [Dynamic Programming]
 permalink:  /knight-dialer/
 ---
 

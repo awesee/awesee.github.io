@@ -3,7 +3,7 @@ layout:     single
 title:      "正方形数组的数目"
 date:       2018-09-23 21:30:00 +0800
 categories: [leetcode]
-tags:       [graph, math, backtracking]
+tags:       [Graph, Math, Backtracking]
 permalink:  /number-of-squareful-arrays/
 ---
 

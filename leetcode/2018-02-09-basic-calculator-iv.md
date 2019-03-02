@@ -3,7 +3,7 @@ layout:     single
 title:      "基本计算器 IV"
 date:       2018-02-09 21:30:00 +0800
 categories: [leetcode]
-tags:       [stack, hash-table, string]
+tags:       [Stack, Hash Table, String]
 permalink:  /basic-calculator-iv/
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "为运算表达式设计优先级"
 date:       2016-08-29 21:30:00 +0800
 categories: [leetcode]
-tags:       [divide-and-conquer]
+tags:       [Divide and Conquer]
 permalink:  /different-ways-to-add-parentheses/
 ---
 

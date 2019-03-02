@@ -3,7 +3,7 @@ layout:     single
 title:      "最佳买卖股票时机含冷冻期"
 date:       2016-11-05 21:30:00 +0800
 categories: [leetcode]
-tags:       [dynamic-programming]
+tags:       [Dynamic Programming]
 permalink:  /best-time-to-buy-and-sell-stock-with-cooldown/
 ---
 

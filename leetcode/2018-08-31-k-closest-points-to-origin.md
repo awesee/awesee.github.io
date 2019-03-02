@@ -3,7 +3,7 @@ layout:     single
 title:      "最接近原点的 K 个点"
 date:       2018-08-31 21:30:00 +0800
 categories: [leetcode]
-tags:       [sort, math, divide-and-conquer]
+tags:       [Sort, Math, Divide and Conquer]
 permalink:  /k-closest-points-to-origin/
 ---
 

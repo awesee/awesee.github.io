@@ -3,7 +3,7 @@ layout:     single
 title:      "最长连续递增序列"
 date:       2017-11-05 21:30:00 +0800
 categories: [leetcode]
-tags:       [array]
+tags:       [Array]
 permalink:  /longest-continuous-increasing-subsequence/
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "数组中的K-diff数对"
 date:       2017-06-16 21:30:00 +0800
 categories: [leetcode]
-tags:       [array, two-pointers]
+tags:       [Array, Two Pointers]
 permalink:  /k-diff-pairs-in-an-array/
 ---
 

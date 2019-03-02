@@ -3,7 +3,7 @@ layout:     single
 title:      "二叉树的坡度"
 date:       2017-07-17 21:30:00 +0800
 categories: [leetcode]
-tags:       [tree]
+tags:       [Tree]
 permalink:  /binary-tree-tilt/
 ---
 

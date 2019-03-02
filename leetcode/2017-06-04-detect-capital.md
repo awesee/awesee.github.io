@@ -3,7 +3,7 @@ layout:     single
 title:      "检测大写字母"
 date:       2017-06-04 21:30:00 +0800
 categories: [leetcode]
-tags:       [string]
+tags:       [String]
 permalink:  /detect-capital/
 ---
 

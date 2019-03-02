@@ -3,7 +3,7 @@ layout:     single
 title:      "对链表进行插入排序"
 date:       2016-05-27 21:30:00 +0800
 categories: [leetcode]
-tags:       [sort, linked-list]
+tags:       [Sort, Linked List]
 permalink:  /insertion-sort-list/
 ---
 

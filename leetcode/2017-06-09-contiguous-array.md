@@ -3,7 +3,7 @@ layout:     single
 title:      "连续数组"
 date:       2017-06-09 21:30:00 +0800
 categories: [leetcode]
-tags:       [hash-table]
+tags:       [Hash Table]
 permalink:  /contiguous-array/
 ---
 

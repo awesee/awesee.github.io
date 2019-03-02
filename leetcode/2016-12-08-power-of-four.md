@@ -3,7 +3,7 @@ layout:     single
 title:      "4的幂"
 date:       2016-12-08 21:30:00 +0800
 categories: [leetcode]
-tags:       [bit-manipulation]
+tags:       [Bit Manipulation]
 permalink:  /power-of-four/
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "在线选举"
 date:       2018-06-30 21:30:00 +0800
 categories: [leetcode]
-tags:       [binary-search]
+tags:       [Binary Search]
 permalink:  /online-election/
 ---
 

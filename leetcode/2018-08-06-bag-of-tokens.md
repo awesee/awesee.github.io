@@ -3,7 +3,7 @@ layout:     single
 title:      "令牌放置"
 date:       2018-08-06 21:30:00 +0800
 categories: [leetcode]
-tags:       [greedy]
+tags:       [Greedy]
 permalink:  /bag-of-tokens/
 ---
 

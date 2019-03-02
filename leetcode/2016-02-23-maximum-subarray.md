@@ -3,7 +3,7 @@ layout:     single
 title:      "最大子序和"
 date:       2016-02-23 21:30:00 +0800
 categories: [leetcode]
-tags:       [array, divide-and-conquer, dynamic-programming]
+tags:       [Array, Divide and Conquer, Dynamic Programming]
 permalink:  /maximum-subarray/
 ---
 

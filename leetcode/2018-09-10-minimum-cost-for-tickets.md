@@ -3,7 +3,7 @@ layout:     single
 title:      "最低票价"
 date:       2018-09-10 21:30:00 +0800
 categories: [leetcode]
-tags:       [dynamic-programming]
+tags:       [Dynamic Programming]
 permalink:  /minimum-cost-for-tickets/
 ---
 

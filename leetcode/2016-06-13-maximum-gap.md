@@ -3,7 +3,7 @@ layout:     single
 title:      "最大间距"
 date:       2016-06-13 21:30:00 +0800
 categories: [leetcode]
-tags:       [sort]
+tags:       [Sort]
 permalink:  /maximum-gap/
 ---
 

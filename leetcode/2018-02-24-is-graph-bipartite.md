@@ -3,7 +3,7 @@ layout:     single
 title:      "判断二分图"
 date:       2018-02-24 21:30:00 +0800
 categories: [leetcode]
-tags:       [depth-first-search, breadth-first-search, graph]
+tags:       [Depth-first Search, Breadth-first Search, Graph]
 permalink:  /is-graph-bipartite/
 ---
 

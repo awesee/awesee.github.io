@@ -3,7 +3,7 @@ layout:     single
 title:      "最大加号标志"
 date:       2018-02-03 21:30:00 +0800
 categories: [leetcode]
-tags:       [dynamic-programming]
+tags:       [Dynamic Programming]
 permalink:  /largest-plus-sign/
 ---
 

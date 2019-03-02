@@ -3,7 +3,7 @@ layout:     single
 title:      "矩形面积 II"
 date:       2018-04-30 21:30:00 +0800
 categories: [leetcode]
-tags:       [segment-tree]
+tags:       [Segment Tree]
 permalink:  /rectangle-area-ii/
 ---
 

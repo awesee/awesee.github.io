@@ -3,7 +3,7 @@ layout:     single
 title:      "合并两个有序链表"
 date:       2016-01-22 21:30:00 +0800
 categories: [leetcode]
-tags:       [linked-list]
+tags:       [Linked List]
 permalink:  /merge-two-sorted-lists/
 ---
 

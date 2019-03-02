@@ -3,7 +3,7 @@ layout:     single
 title:      "完全二叉树的节点个数"
 date:       2016-08-10 21:30:00 +0800
 categories: [leetcode]
-tags:       [tree, binary-search]
+tags:       [Tree, Binary Search]
 permalink:  /count-complete-tree-nodes/
 ---
 

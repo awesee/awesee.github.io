@@ -3,7 +3,7 @@ layout:     single
 title:      "螺旋矩阵"
 date:       2016-02-24 21:30:00 +0800
 categories: [leetcode]
-tags:       [array]
+tags:       [Array]
 permalink:  /spiral-matrix/
 ---
 

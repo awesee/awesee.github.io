@@ -3,7 +3,7 @@ layout:     single
 title:      "只出现一次的数字 III"
 date:       2016-09-17 21:30:00 +0800
 categories: [leetcode]
-tags:       [bit-manipulation]
+tags:       [Bit Manipulation]
 permalink:  /single-number-iii/
 ---
 

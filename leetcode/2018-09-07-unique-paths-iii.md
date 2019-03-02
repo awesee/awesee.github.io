@@ -3,7 +3,7 @@ layout:     single
 title:      "不同路径 III"
 date:       2018-09-07 21:30:00 +0800
 categories: [leetcode]
-tags:       [dynamic-programming, backtracking]
+tags:       [Dynamic Programming, Backtracking]
 permalink:  /unique-paths-iii/
 ---
 

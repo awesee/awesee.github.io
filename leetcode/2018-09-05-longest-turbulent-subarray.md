@@ -3,7 +3,7 @@ layout:     single
 title:      "最长湍流子数组"
 date:       2018-09-05 21:30:00 +0800
 categories: [leetcode]
-tags:       [array]
+tags:       [Array]
 permalink:  /longest-turbulent-subarray/
 ---
 

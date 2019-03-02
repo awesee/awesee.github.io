@@ -3,7 +3,7 @@ layout:     single
 title:      "逆波兰表达式求值"
 date:       2016-05-30 21:30:00 +0800
 categories: [leetcode]
-tags:       [stack]
+tags:       [Stack]
 permalink:  /evaluate-reverse-polish-notation/
 ---
 

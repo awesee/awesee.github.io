@@ -3,7 +3,7 @@ layout:     single
 title:      "按递增顺序显示卡牌"
 date:       2018-08-08 21:30:00 +0800
 categories: [leetcode]
-tags:       [array]
+tags:       [Array]
 permalink:  /reveal-cards-in-increasing-order/
 ---
 

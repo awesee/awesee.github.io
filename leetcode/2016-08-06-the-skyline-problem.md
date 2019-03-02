@@ -3,7 +3,7 @@ layout:     single
 title:      "天际线问题"
 date:       2016-08-06 21:30:00 +0800
 categories: [leetcode]
-tags:       [heap, binary-indexed-tree, segment-tree, divide-and-conquer]
+tags:       [Heap, Binary Indexed Tree, Segment Tree, Divide and Conquer]
 permalink:  /the-skyline-problem/
 ---
 

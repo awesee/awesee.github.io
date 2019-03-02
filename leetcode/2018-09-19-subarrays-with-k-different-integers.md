@@ -3,7 +3,7 @@ layout:     single
 title:      "K 个不同整数的子数组"
 date:       2018-09-19 21:30:00 +0800
 categories: [leetcode]
-tags:       [two-pointers]
+tags:       [Two Pointers]
 permalink:  /subarrays-with-k-different-integers/
 ---
 

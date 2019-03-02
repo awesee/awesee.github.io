@@ -3,7 +3,7 @@ layout:     single
 title:      "移除元素"
 date:       2016-01-28 21:30:00 +0800
 categories: [leetcode]
-tags:       [array, two-pointers]
+tags:       [Array, Two Pointers]
 permalink:  /remove-element/
 ---
 

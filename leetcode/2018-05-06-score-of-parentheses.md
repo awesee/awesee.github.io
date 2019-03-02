@@ -3,7 +3,7 @@ layout:     single
 title:      "括号的分数"
 date:       2018-05-06 21:30:00 +0800
 categories: [leetcode]
-tags:       [stack, string]
+tags:       [Stack, String]
 permalink:  /score-of-parentheses/
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "找到所有数组中消失的数字"
 date:       2017-03-24 21:30:00 +0800
 categories: [leetcode]
-tags:       [array]
+tags:       [Array]
 permalink:  /find-all-numbers-disappeared-in-an-array/
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "不含 AAA 或 BBB 的字符串"
 date:       2018-09-11 21:30:00 +0800
 categories: [leetcode]
-tags:       [greedy]
+tags:       [Greedy]
 permalink:  /string-without-aaa-or-bbb/
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "回旋镖的数量"
 date:       2017-03-23 21:30:00 +0800
 categories: [leetcode]
-tags:       [hash-table]
+tags:       [Hash Table]
 permalink:  /number-of-boomerangs/
 ---
 

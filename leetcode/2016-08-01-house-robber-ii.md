@@ -3,7 +3,7 @@ layout:     single
 title:      "打家劫舍 II"
 date:       2016-08-01 21:30:00 +0800
 categories: [leetcode]
-tags:       [dynamic-programming]
+tags:       [Dynamic Programming]
 permalink:  /house-robber-ii/
 ---
 

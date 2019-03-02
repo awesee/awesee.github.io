@@ -3,7 +3,7 @@ layout:     single
 title:      "在系统中查找重复文件"
 date:       2017-09-01 21:30:00 +0800
 categories: [leetcode]
-tags:       [hash-table, string]
+tags:       [Hash Table, String]
 permalink:  /find-duplicate-file-in-system/
 ---
 

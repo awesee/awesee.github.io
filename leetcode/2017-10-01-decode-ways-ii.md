@@ -3,7 +3,7 @@ layout:     single
 title:      "解码方法 2"
 date:       2017-10-01 21:30:00 +0800
 categories: [leetcode]
-tags:       [dynamic-programming]
+tags:       [Dynamic Programming]
 permalink:  /decode-ways-ii/
 ---
 

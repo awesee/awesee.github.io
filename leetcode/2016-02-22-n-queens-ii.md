@@ -3,7 +3,7 @@ layout:     single
 title:      "N皇后 II"
 date:       2016-02-22 21:30:00 +0800
 categories: [leetcode]
-tags:       [backtracking]
+tags:       [Backtracking]
 permalink:  /n-queens-ii/
 ---
 

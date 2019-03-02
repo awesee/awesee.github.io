@@ -3,7 +3,7 @@ layout:     single
 title:      "数组中的第K个最大元素"
 date:       2016-08-03 21:30:00 +0800
 categories: [leetcode]
-tags:       [heap, divide-and-conquer]
+tags:       [Heap, Divide and Conquer]
 permalink:  /kth-largest-element-in-an-array/
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "表示数字的最少运算符"
 date:       2018-08-22 21:30:00 +0800
 categories: [leetcode]
-tags:       [math, dynamic-programming]
+tags:       [Math, Dynamic Programming]
 permalink:  /least-operators-to-express-number/
 ---
 

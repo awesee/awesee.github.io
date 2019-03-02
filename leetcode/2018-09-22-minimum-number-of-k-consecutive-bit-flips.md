@@ -3,7 +3,7 @@ layout:     single
 title:      "K 连续位的最小翻转次数"
 date:       2018-09-22 21:30:00 +0800
 categories: [leetcode]
-tags:       [array]
+tags:       [Array]
 permalink:  /minimum-number-of-k-consecutive-bit-flips/
 ---
 

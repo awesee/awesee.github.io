@@ -3,7 +3,7 @@ layout:     single
 title:      "阶乘后的零"
 date:       2016-06-21 21:30:00 +0800
 categories: [leetcode]
-tags:       [math]
+tags:       [Math]
 permalink:  /factorial-trailing-zeroes/
 ---
 

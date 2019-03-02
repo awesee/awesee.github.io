@@ -3,7 +3,7 @@ layout:     single
 title:      "O(1) 时间插入、删除和获取随机元素 - 允许重复"
 date:       2017-01-16 21:30:00 +0800
 categories: [leetcode]
-tags:       [design, array, hash-table]
+tags:       [Design, Array, Hash Table]
 permalink:  /insert-delete-getrandom-o1-duplicates-allowed/
 ---
 

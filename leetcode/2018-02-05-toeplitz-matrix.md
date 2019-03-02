@@ -3,7 +3,7 @@ layout:     single
 title:      "托普利茨矩阵"
 date:       2018-02-05 21:30:00 +0800
 categories: [leetcode]
-tags:       [array]
+tags:       [Array]
 permalink:  /toeplitz-matrix/
 ---
 

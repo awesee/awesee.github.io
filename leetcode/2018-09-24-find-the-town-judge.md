@@ -3,7 +3,7 @@ layout:     single
 title:      "找到小镇的法官"
 date:       2018-09-24 21:30:00 +0800
 categories: [leetcode]
-tags:       [graph]
+tags:       [Graph]
 permalink:  /find-the-town-judge/
 ---
 

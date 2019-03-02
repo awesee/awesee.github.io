@@ -3,7 +3,7 @@ layout:     single
 title:      "缺失的第一个正数"
 date:       2016-02-11 21:30:00 +0800
 categories: [leetcode]
-tags:       [array]
+tags:       [Array]
 permalink:  /first-missing-positive/
 ---
 

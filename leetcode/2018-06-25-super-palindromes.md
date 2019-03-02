@@ -3,7 +3,7 @@ layout:     single
 title:      "超级回文数"
 date:       2018-06-25 21:30:00 +0800
 categories: [leetcode]
-tags:       [math]
+tags:       [Math]
 permalink:  /super-palindromes/
 ---
 

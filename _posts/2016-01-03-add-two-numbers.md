@@ -3,7 +3,7 @@ layout:     single
 title:      "两数相加"
 date:       2016-01-03 21:30:00 +0800
 categories: [leetcode]
-tags:       [linked-list, math]
+tags:       [Linked List, Math]
 permalink:  /add-two-numbers/
 ---
 

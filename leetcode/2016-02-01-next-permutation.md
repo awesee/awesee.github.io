@@ -3,7 +3,7 @@ layout:     single
 title:      "下一个排列"
 date:       2016-02-01 21:30:00 +0800
 categories: [leetcode]
-tags:       [array]
+tags:       [Array]
 permalink:  /next-permutation/
 ---
 

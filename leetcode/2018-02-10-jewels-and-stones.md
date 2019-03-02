@@ -3,7 +3,7 @@ layout:     single
 title:      "宝石与石头"
 date:       2018-02-10 21:30:00 +0800
 categories: [leetcode]
-tags:       [hash-table]
+tags:       [Hash Table]
 permalink:  /jewels-and-stones/
 ---
 

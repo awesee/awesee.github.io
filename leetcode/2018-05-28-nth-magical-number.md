@@ -3,7 +3,7 @@ layout:     single
 title:      "第 N 个神奇数字"
 date:       2018-05-28 21:30:00 +0800
 categories: [leetcode]
-tags:       [math, binary-search]
+tags:       [Math, Binary Search]
 permalink:  /nth-magical-number/
 ---
 

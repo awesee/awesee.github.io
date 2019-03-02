@@ -3,7 +3,7 @@ layout:     single
 title:      "两个列表的最小索引总和"
 date:       2017-08-22 21:30:00 +0800
 categories: [leetcode]
-tags:       [hash-table]
+tags:       [Hash Table]
 permalink:  /minimum-index-sum-of-two-lists/
 ---
 

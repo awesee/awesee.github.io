@@ -3,7 +3,7 @@ layout:     single
 title:      "括号生成"
 date:       2016-01-23 21:30:00 +0800
 categories: [leetcode]
-tags:       [string, backtracking]
+tags:       [String, Backtracking]
 permalink:  /generate-parentheses/
 ---
 

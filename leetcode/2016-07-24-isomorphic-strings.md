@@ -3,7 +3,7 @@ layout:     single
 title:      "同构字符串"
 date:       2016-07-24 21:30:00 +0800
 categories: [leetcode]
-tags:       [hash-table]
+tags:       [Hash Table]
 permalink:  /isomorphic-strings/
 ---
 

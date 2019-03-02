@@ -3,7 +3,7 @@ layout:     single
 title:      "不含连续1的非负整数"
 date:       2017-08-23 21:30:00 +0800
 categories: [leetcode]
-tags:       [dynamic-programming]
+tags:       [Dynamic Programming]
 permalink:  /non-negative-integers-without-consecutive-ones/
 ---
 

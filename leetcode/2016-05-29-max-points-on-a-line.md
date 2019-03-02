@@ -3,7 +3,7 @@ layout:     single
 title:      "直线上最多的点数"
 date:       2016-05-29 21:30:00 +0800
 categories: [leetcode]
-tags:       [hash-table, math]
+tags:       [Hash Table, Math]
 permalink:  /max-points-on-a-line/
 ---
 

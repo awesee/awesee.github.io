@@ -3,7 +3,7 @@ layout:     single
 title:      "存在重复元素"
 date:       2016-08-05 21:30:00 +0800
 categories: [leetcode]
-tags:       [array, hash-table]
+tags:       [Array, Hash Table]
 permalink:  /contains-duplicate/
 ---
 

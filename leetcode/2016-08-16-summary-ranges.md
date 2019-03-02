@@ -3,7 +3,7 @@ layout:     single
 title:      "汇总区间"
 date:       2016-08-16 21:30:00 +0800
 categories: [leetcode]
-tags:       [array]
+tags:       [Array]
 permalink:  /summary-ranges/
 ---
 

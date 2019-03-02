@@ -3,7 +3,7 @@ layout:     single
 title:      "验证回文字符串 Ⅱ"
 date:       2017-11-11 21:30:00 +0800
 categories: [leetcode]
-tags:       [string]
+tags:       [String]
 permalink:  /valid-palindrome-ii/
 ---
 

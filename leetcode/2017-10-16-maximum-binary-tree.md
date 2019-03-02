@@ -3,7 +3,7 @@ layout:     single
 title:      "最大二叉树"
 date:       2017-10-16 21:30:00 +0800
 categories: [leetcode]
-tags:       [tree]
+tags:       [Tree]
 permalink:  /maximum-binary-tree/
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "单词替换"
 date:       2017-10-10 21:30:00 +0800
 categories: [leetcode]
-tags:       [trie, hash-table]
+tags:       [Trie, Hash Table]
 permalink:  /replace-words/
 ---
 

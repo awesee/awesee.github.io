@@ -3,7 +3,7 @@ layout:     single
 title:      "解数独"
 date:       2016-02-07 21:30:00 +0800
 categories: [leetcode]
-tags:       [hash-table, backtracking]
+tags:       [Hash Table, Backtracking]
 permalink:  /sudoku-solver/
 ---
 

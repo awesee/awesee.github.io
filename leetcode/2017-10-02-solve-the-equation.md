@@ -3,7 +3,7 @@ layout:     single
 title:      "求解方程"
 date:       2017-10-02 21:30:00 +0800
 categories: [leetcode]
-tags:       [math]
+tags:       [Math]
 permalink:  /solve-the-equation/
 ---
 

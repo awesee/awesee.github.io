@@ -3,7 +3,7 @@ layout:     single
 title:      "逃脱阻碍者"
 date:       2018-02-28 21:30:00 +0800
 categories: [leetcode]
-tags:       [math]
+tags:       [Math]
 permalink:  /escape-the-ghosts/
 ---
 

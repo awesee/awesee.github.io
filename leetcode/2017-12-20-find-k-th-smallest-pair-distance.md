@@ -3,7 +3,7 @@ layout:     single
 title:      "找出第 k 小的距离对"
 date:       2017-12-20 21:30:00 +0800
 categories: [leetcode]
-tags:       [heap, array, binary-search]
+tags:       [Heap, Array, Binary Search]
 permalink:  /find-k-th-smallest-pair-distance/
 ---
 

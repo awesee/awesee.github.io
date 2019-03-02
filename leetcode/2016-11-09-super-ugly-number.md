@@ -3,7 +3,7 @@ layout:     single
 title:      "超级丑数"
 date:       2016-11-09 21:30:00 +0800
 categories: [leetcode]
-tags:       [heap, math]
+tags:       [Heap, Math]
 permalink:  /super-ugly-number/
 ---
 

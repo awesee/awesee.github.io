@@ -3,7 +3,7 @@ layout:     single
 title:      "交替位二进制数"
 date:       2017-11-24 21:30:00 +0800
 categories: [leetcode]
-tags:       [bit-manipulation]
+tags:       [Bit Manipulation]
 permalink:  /binary-number-with-alternating-bits/
 ---
 

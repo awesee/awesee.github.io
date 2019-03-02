@@ -3,7 +3,7 @@ layout:     single
 title:      "三维形体的表面积"
 date:       2018-06-11 21:30:00 +0800
 categories: [leetcode]
-tags:       [geometry, math]
+tags:       [Geometry, Math]
 permalink:  /surface-area-of-3d-shapes/
 ---
 

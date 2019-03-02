@@ -3,7 +3,7 @@ layout:     single
 title:      "寻找重复的子树"
 date:       2017-10-14 21:30:00 +0800
 categories: [leetcode]
-tags:       [tree]
+tags:       [Tree]
 permalink:  /find-duplicate-subtrees/
 ---
 

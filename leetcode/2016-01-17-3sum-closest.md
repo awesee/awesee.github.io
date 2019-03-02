@@ -3,7 +3,7 @@ layout:     single
 title:      "最接近的三数之和"
 date:       2016-01-17 21:30:00 +0800
 categories: [leetcode]
-tags:       [array, two-pointers]
+tags:       [Array, Two Pointers]
 permalink:  /3sum-closest/
 ---
 

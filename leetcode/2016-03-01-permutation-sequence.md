@@ -3,7 +3,7 @@ layout:     single
 title:      "第k个排列"
 date:       2016-03-01 21:30:00 +0800
 categories: [leetcode]
-tags:       [math, backtracking]
+tags:       [Math, Backtracking]
 permalink:  /permutation-sequence/
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "二叉搜索树迭代器"
 date:       2016-06-22 21:30:00 +0800
 categories: [leetcode]
-tags:       [stack, tree, design]
+tags:       [Stack, Tree, Design]
 permalink:  /binary-search-tree-iterator/
 ---
 

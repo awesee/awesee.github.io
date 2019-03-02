@@ -3,7 +3,7 @@ layout:     single
 title:      "二叉搜索树结点最小距离"
 date:       2018-02-22 21:30:00 +0800
 categories: [leetcode]
-tags:       [binary-search-tree]
+tags:       [Binary Search Tree]
 permalink:  /minimum-distance-between-bst-nodes/
 ---
 

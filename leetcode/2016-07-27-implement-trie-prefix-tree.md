@@ -3,7 +3,7 @@ layout:     single
 title:      "实现 Trie (前缀树)"
 date:       2016-07-27 21:30:00 +0800
 categories: [leetcode]
-tags:       [design, trie]
+tags:       [Design, Trie]
 permalink:  /implement-trie-prefix-tree/
 ---
 

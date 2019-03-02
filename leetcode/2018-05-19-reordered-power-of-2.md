@@ -3,7 +3,7 @@ layout:     single
 title:      "重新排序得到 2 的幂"
 date:       2018-05-19 21:30:00 +0800
 categories: [leetcode]
-tags:       [math]
+tags:       [Math]
 permalink:  /reordered-power-of-2/
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "情感丰富的文字"
 date:       2018-03-20 21:30:00 +0800
 categories: [leetcode]
-tags:       [string]
+tags:       [String]
 permalink:  /expressive-words/
 ---
 

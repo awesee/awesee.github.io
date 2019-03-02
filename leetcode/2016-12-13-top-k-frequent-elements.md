@@ -3,7 +3,7 @@ layout:     single
 title:      "前K个高频元素"
 date:       2016-12-13 21:30:00 +0800
 categories: [leetcode]
-tags:       [heap, hash-table]
+tags:       [Heap, Hash Table]
 permalink:  /top-k-frequent-elements/
 ---
 

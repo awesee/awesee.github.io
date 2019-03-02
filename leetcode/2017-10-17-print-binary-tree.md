@@ -3,7 +3,7 @@ layout:     single
 title:      "输出二叉树"
 date:       2017-10-17 21:30:00 +0800
 categories: [leetcode]
-tags:       [tree]
+tags:       [Tree]
 permalink:  /print-binary-tree/
 ---
 

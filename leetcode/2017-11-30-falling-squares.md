@@ -3,7 +3,7 @@ layout:     single
 title:      "掉落的方块"
 date:       2017-11-30 21:30:00 +0800
 categories: [leetcode]
-tags:       [segment-tree, binary-search-tree]
+tags:       [Segment Tree, Binary Search Tree]
 permalink:  /falling-squares/
 ---
 

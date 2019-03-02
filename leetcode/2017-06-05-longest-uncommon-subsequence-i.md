@@ -3,7 +3,7 @@ layout:     single
 title:      "最长特殊序列 Ⅰ"
 date:       2017-06-05 21:30:00 +0800
 categories: [leetcode]
-tags:       [string]
+tags:       [String]
 permalink:  /longest-uncommon-subsequence-i/
 ---
 

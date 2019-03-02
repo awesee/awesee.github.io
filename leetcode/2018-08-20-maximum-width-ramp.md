@@ -3,7 +3,7 @@ layout:     single
 title:      "最大宽度坡"
 date:       2018-08-20 21:30:00 +0800
 categories: [leetcode]
-tags:       [array]
+tags:       [Array]
 permalink:  /maximum-width-ramp/
 ---
 

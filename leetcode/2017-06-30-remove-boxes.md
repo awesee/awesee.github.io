@@ -3,7 +3,7 @@ layout:     single
 title:      "移除盒子"
 date:       2017-06-30 21:30:00 +0800
 categories: [leetcode]
-tags:       [depth-first-search, dynamic-programming]
+tags:       [Depth-first Search, Dynamic Programming]
 permalink:  /remove-boxes/
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "二分查找"
 date:       2017-12-05 21:30:00 +0800
 categories: [leetcode]
-tags:       [binary-search]
+tags:       [Binary Search]
 permalink:  /binary-search/
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "前K个高频单词"
 date:       2017-11-23 21:30:00 +0800
 categories: [leetcode]
-tags:       [heap, trie, hash-table]
+tags:       [Heap, Trie, Hash Table]
 permalink:  /top-k-frequent-words/
 ---
 

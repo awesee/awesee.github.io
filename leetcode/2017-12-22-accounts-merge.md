@@ -3,7 +3,7 @@ layout:     single
 title:      "账户合并"
 date:       2017-12-22 21:30:00 +0800
 categories: [leetcode]
-tags:       [depth-first-search, union-find]
+tags:       [Depth-first Search, Union Find]
 permalink:  /accounts-merge/
 ---
 

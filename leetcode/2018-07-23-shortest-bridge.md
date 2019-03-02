@@ -3,7 +3,7 @@ layout:     single
 title:      "最短的桥"
 date:       2018-07-23 21:30:00 +0800
 categories: [leetcode]
-tags:       [depth-first-search, breadth-first-search]
+tags:       [Depth-first Search, Breadth-first Search]
 permalink:  /shortest-bridge/
 ---
 

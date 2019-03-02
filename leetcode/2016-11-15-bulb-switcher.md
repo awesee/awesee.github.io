@@ -3,7 +3,7 @@ layout:     single
 title:      "灯泡开关"
 date:       2016-11-15 21:30:00 +0800
 categories: [leetcode]
-tags:       [brainteaser, math]
+tags:       [Brainteaser, Math]
 permalink:  /bulb-switcher/
 ---
 

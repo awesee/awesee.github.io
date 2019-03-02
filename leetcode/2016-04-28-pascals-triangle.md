@@ -3,7 +3,7 @@ layout:     single
 title:      "杨辉三角"
 date:       2016-04-28 21:30:00 +0800
 categories: [leetcode]
-tags:       [array]
+tags:       [Array]
 permalink:  /pascals-triangle/
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "翻转字符串里的单词"
 date:       2016-05-31 21:30:00 +0800
 categories: [leetcode]
-tags:       [string]
+tags:       [String]
 permalink:  /reverse-words-in-a-string/
 ---
 

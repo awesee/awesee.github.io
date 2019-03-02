@@ -3,7 +3,7 @@ layout:     single
 title:      "词典中最长的单词"
 date:       2017-12-21 21:30:00 +0800
 categories: [leetcode]
-tags:       [trie, hash-table]
+tags:       [Trie, Hash Table]
 permalink:  /longest-word-in-dictionary/
 ---
 

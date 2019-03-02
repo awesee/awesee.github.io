@@ -3,7 +3,7 @@ layout:     single
 title:      "蛇梯棋"
 date:       2018-06-28 21:30:00 +0800
 categories: [leetcode]
-tags:       [breadth-first-search]
+tags:       [Breadth-first Search]
 permalink:  /snakes-and-ladders/
 ---
 

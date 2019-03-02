@@ -3,7 +3,7 @@ layout:     single
 title:      "排列硬币"
 date:       2017-03-17 21:30:00 +0800
 categories: [leetcode]
-tags:       [math, binary-search]
+tags:       [Math, Binary Search]
 permalink:  /arranging-coins/
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "监控二叉树"
 date:       2018-08-26 21:30:00 +0800
 categories: [leetcode]
-tags:       [tree, depth-first-search, dynamic-programming]
+tags:       [Tree, Depth-first Search, Dynamic Programming]
 permalink:  /binary-tree-cameras/
 ---
 

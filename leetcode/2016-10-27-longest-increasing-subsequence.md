@@ -3,7 +3,7 @@ layout:     single
 title:      "最长上升子序列"
 date:       2016-10-27 21:30:00 +0800
 categories: [leetcode]
-tags:       [binary-search, dynamic-programming]
+tags:       [Binary Search, Dynamic Programming]
 permalink:  /longest-increasing-subsequence/
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "字符串中的单词数"
 date:       2017-03-10 21:30:00 +0800
 categories: [leetcode]
-tags:       [string]
+tags:       [String]
 permalink:  /number-of-segments-in-a-string/
 ---
 

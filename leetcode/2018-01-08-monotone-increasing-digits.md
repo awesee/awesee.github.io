@@ -3,7 +3,7 @@ layout:     single
 title:      "单调递增的数字"
 date:       2018-01-08 21:30:00 +0800
 categories: [leetcode]
-tags:       [greedy]
+tags:       [Greedy]
 permalink:  /monotone-increasing-digits/
 ---
 

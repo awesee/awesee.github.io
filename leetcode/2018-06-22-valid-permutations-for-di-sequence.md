@@ -3,7 +3,7 @@ layout:     single
 title:      "DI 序列的有效排列"
 date:       2018-06-22 21:30:00 +0800
 categories: [leetcode]
-tags:       [divide-and-conquer, dynamic-programming]
+tags:       [Divide and Conquer, Dynamic Programming]
 permalink:  /valid-permutations-for-di-sequence/
 ---
 

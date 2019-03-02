@@ -3,7 +3,7 @@ layout:     single
 title:      "找不同"
 date:       2017-01-24 21:30:00 +0800
 categories: [leetcode]
-tags:       [bit-manipulation, hash-table]
+tags:       [Bit Manipulation, Hash Table]
 permalink:  /find-the-difference/
 ---
 

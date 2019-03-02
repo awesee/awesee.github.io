@@ -3,7 +3,7 @@ layout:     single
 title:      "单词搜索 II"
 date:       2016-07-31 21:30:00 +0800
 categories: [leetcode]
-tags:       [trie, backtracking]
+tags:       [Trie, Backtracking]
 permalink:  /word-search-ii/
 ---
 

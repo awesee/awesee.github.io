@@ -3,7 +3,7 @@ layout:     single
 title:      "二叉树中的最大路径和"
 date:       2016-05-04 21:30:00 +0800
 categories: [leetcode]
-tags:       [tree, depth-first-search]
+tags:       [Tree, Depth-first Search]
 permalink:  /binary-tree-maximum-path-sum/
 ---
 

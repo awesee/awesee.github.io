@@ -3,7 +3,7 @@ layout:     single
 title:      "棒球比赛"
 date:       2017-11-13 21:30:00 +0800
 categories: [leetcode]
-tags:       [stack]
+tags:       [Stack]
 permalink:  /baseball-game/
 ---
 

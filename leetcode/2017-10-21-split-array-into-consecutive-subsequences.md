@@ -3,7 +3,7 @@ layout:     single
 title:      "分割数组为连续子序列"
 date:       2017-10-21 21:30:00 +0800
 categories: [leetcode]
-tags:       [heap, greedy]
+tags:       [Heap, Greedy]
 permalink:  /split-array-into-consecutive-subsequences/
 ---
 

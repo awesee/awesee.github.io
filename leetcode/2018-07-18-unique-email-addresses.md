@@ -3,7 +3,7 @@ layout:     single
 title:      "独特的电子邮件地址"
 date:       2018-07-18 21:30:00 +0800
 categories: [leetcode]
-tags:       [string]
+tags:       [String]
 permalink:  /unique-email-addresses/
 ---
 

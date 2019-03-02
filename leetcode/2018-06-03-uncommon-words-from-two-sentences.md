@@ -3,7 +3,7 @@ layout:     single
 title:      "两句话中的不常见单词"
 date:       2018-06-03 21:30:00 +0800
 categories: [leetcode]
-tags:       [hash-table]
+tags:       [Hash Table]
 permalink:  /uncommon-words-from-two-sentences/
 ---
 

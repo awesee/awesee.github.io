@@ -3,7 +3,7 @@ layout:     single
 title:      "子数组按位或操作"
 date:       2018-06-17 21:30:00 +0800
 categories: [leetcode]
-tags:       [bit-manipulation, dynamic-programming]
+tags:       [Bit Manipulation, Dynamic Programming]
 permalink:  /bitwise-ors-of-subarrays/
 ---
 

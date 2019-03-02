@@ -3,7 +3,7 @@ layout:     single
 title:      "二叉搜索树的范围和"
 date:       2018-07-27 21:30:00 +0800
 categories: [leetcode]
-tags:       [binary-search-tree]
+tags:       [Binary Search Tree]
 permalink:  /range-sum-of-bst/
 ---
 

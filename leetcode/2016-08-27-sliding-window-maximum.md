@@ -3,7 +3,7 @@ layout:     single
 title:      "滑动窗口最大值"
 date:       2016-08-27 21:30:00 +0800
 categories: [leetcode]
-tags:       [heap]
+tags:       [Heap]
 permalink:  /sliding-window-maximum/
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "两整数之和"
 date:       2017-01-06 21:30:00 +0800
 categories: [leetcode]
-tags:       [bit-manipulation]
+tags:       [Bit Manipulation]
 permalink:  /sum-of-two-integers/
 ---
 

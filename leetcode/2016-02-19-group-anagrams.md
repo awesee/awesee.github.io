@@ -3,7 +3,7 @@ layout:     single
 title:      "字母异位词分组"
 date:       2016-02-19 21:30:00 +0800
 categories: [leetcode]
-tags:       [hash-table, string]
+tags:       [Hash Table, String]
 permalink:  /group-anagrams/
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "二叉树的右视图"
 date:       2016-07-18 21:30:00 +0800
 categories: [leetcode]
-tags:       [tree, depth-first-search, breadth-first-search]
+tags:       [Tree, Depth-first Search, Breadth-first Search]
 permalink:  /binary-tree-right-side-view/
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "超级洗衣机"
 date:       2017-06-01 21:30:00 +0800
 categories: [leetcode]
-tags:       [math, dynamic-programming]
+tags:       [Math, Dynamic Programming]
 permalink:  /super-washing-machines/
 ---
 

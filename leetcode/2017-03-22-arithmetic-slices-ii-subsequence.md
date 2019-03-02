@@ -3,7 +3,7 @@ layout:     single
 title:      "等差数列划分 II - 子序列"
 date:       2017-03-22 21:30:00 +0800
 categories: [leetcode]
-tags:       [dynamic-programming]
+tags:       [Dynamic Programming]
 permalink:  /arithmetic-slices-ii-subsequence/
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "颜色分类"
 date:       2016-03-16 21:30:00 +0800
 categories: [leetcode]
-tags:       [sort, array, two-pointers]
+tags:       [Sort, Array, Two Pointers]
 permalink:  /sort-colors/
 ---
 

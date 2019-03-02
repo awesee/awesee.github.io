@@ -3,7 +3,7 @@ layout:     single
 title:      "二叉树剪枝"
 date:       2018-03-25 21:30:00 +0800
 categories: [leetcode]
-tags:       [tree]
+tags:       [Tree]
 permalink:  /binary-tree-pruning/
 ---
 

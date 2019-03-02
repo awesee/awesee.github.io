@@ -3,7 +3,7 @@ layout:     single
 title:      "镜面反射"
 date:       2018-05-08 21:30:00 +0800
 categories: [leetcode]
-tags:       [math]
+tags:       [Math]
 permalink:  /mirror-reflection/
 ---
 

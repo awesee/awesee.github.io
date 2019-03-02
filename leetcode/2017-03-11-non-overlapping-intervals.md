@@ -3,7 +3,7 @@ layout:     single
 title:      "无重叠区间"
 date:       2017-03-11 21:30:00 +0800
 categories: [leetcode]
-tags:       [greedy]
+tags:       [Greedy]
 permalink:  /non-overlapping-intervals/
 ---
 

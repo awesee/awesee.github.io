@@ -3,7 +3,7 @@ layout:     single
 title:      "基本计算器"
 date:       2016-08-12 21:30:00 +0800
 categories: [leetcode]
-tags:       [stack, math]
+tags:       [Stack, Math]
 permalink:  /basic-calculator/
 ---
 

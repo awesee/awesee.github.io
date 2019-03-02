@@ -3,7 +3,7 @@ layout:     single
 title:      "朋友圈"
 date:       2017-07-01 21:30:00 +0800
 categories: [leetcode]
-tags:       [depth-first-search, union-find]
+tags:       [Depth-first Search, Union Find]
 permalink:  /friend-circles/
 ---
 

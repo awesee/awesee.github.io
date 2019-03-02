@@ -3,7 +3,7 @@ layout:     single
 title:      "修剪二叉搜索树"
 date:       2017-10-31 21:30:00 +0800
 categories: [leetcode]
-tags:       [tree]
+tags:       [Tree]
 permalink:  /trim-a-binary-search-tree/
 ---
 

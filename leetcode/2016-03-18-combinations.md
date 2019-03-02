@@ -3,7 +3,7 @@ layout:     single
 title:      "组合"
 date:       2016-03-18 21:30:00 +0800
 categories: [leetcode]
-tags:       [backtracking]
+tags:       [Backtracking]
 permalink:  /combinations/
 ---
 

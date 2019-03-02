@@ -3,7 +3,7 @@ layout:     single
 title:      "分汤"
 date:       2018-03-19 21:30:00 +0800
 categories: [leetcode]
-tags:       [dynamic-programming]
+tags:       [Dynamic Programming]
 permalink:  /soup-servings/
 ---
 

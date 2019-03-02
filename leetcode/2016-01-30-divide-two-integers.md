@@ -3,7 +3,7 @@ layout:     single
 title:      "两数相除"
 date:       2016-01-30 21:30:00 +0800
 categories: [leetcode]
-tags:       [math, binary-search]
+tags:       [Math, Binary Search]
 permalink:  /divide-two-integers/
 ---
 

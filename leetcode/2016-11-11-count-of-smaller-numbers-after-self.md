@@ -3,7 +3,7 @@ layout:     single
 title:      "计算右侧小于当前元素的个数"
 date:       2016-11-11 21:30:00 +0800
 categories: [leetcode]
-tags:       [binary-indexed-tree, segment-tree, binary-search-tree, divide-and-conquer]
+tags:       [Binary Indexed Tree, Segment Tree, Binary Search Tree, Divide and Conquer]
 permalink:  /count-of-smaller-numbers-after-self/
 ---
 
