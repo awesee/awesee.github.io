@@ -1,8 +1,9 @@
 ---
-layout: single
-title:  "SSH隧道"
-date:   2018-08-02 14:30:00 +0800
-categories: articles
+layout:     single
+title:      "SSH隧道"
+date:       2018-08-02 14:30:00 +0800
+categories: [Network]
+tags:       [Network, SSH]
 ---
 
 ## SSH隧道
