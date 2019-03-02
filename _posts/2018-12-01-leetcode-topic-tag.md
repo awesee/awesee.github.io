@@ -2,7 +2,7 @@
 layout:     single
 title:      算法分类
 date:       2018-12-01 21:30:00 +0800
-categories: [Algorithm]
+categories: [Guide]
 tags:       [Algorithm]
 ---
 
