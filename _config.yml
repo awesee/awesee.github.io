@@ -301,13 +301,13 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # leetcode
+  # _leetcode
   - scope:
-        path: "leetcode"
-        type: leetcode
-      values:
-        layout: single
-        author_profile: true
+      path: "leetcode"
+      type: leetcode
+    values:
+      layout: single
+      author_profile: true
 
 
 footer_scripts:
