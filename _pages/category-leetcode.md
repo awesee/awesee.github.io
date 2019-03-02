@@ -1,5 +1,5 @@
 ---
-title: Edge Case
+title: Leetcode
 layout: category
 permalink: /categories/leetcode/
 taxonomy: leetcode
