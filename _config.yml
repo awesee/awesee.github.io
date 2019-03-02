@@ -301,3 +301,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+
+footer_scripts:
+  - "/assets/js/main.min.js"
+  - "/assets/js/fontawesome/5.7.1/all.js"
