@@ -3,8 +3,8 @@ layout:     single
 title:      "Markdown基础语法"
 date:       2017-06-15 17:30:00 +0800
 permalink:  /markdown-syntax/
-categories: [markdown]
-tags:       [markdown]
+categories: [Article]
+tags:       [Markdown]
 ---
 
 Markdown syntax
