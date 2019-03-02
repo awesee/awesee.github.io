@@ -157,6 +157,7 @@ footer:
 include:
   - .htaccess
   - _pages
+  - leetcode
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
