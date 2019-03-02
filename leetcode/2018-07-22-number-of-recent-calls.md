@@ -3,7 +3,7 @@ layout:     single
 title:      "最近的请求次数"
 date:       2018-07-22 21:30:00 +0800
 categories: [leetcode]
-tags:       [queue]
+tags:       [Queue]
 permalink:  /number-of-recent-calls/
 ---
 

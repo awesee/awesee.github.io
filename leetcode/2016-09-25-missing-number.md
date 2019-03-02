@@ -3,7 +3,7 @@ layout:     single
 title:      "缺失数字"
 date:       2016-09-25 21:30:00 +0800
 categories: [leetcode]
-tags:       [bit-manipulation, array, math]
+tags:       [Bit Manipulation, Array, Math]
 permalink:  /missing-number/
 ---
 

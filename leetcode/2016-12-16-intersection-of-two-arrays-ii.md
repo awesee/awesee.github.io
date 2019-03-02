@@ -3,7 +3,7 @@ layout:     single
 title:      "两个数组的交集 II"
 date:       2016-12-16 21:30:00 +0800
 categories: [leetcode]
-tags:       [sort, hash-table, two-pointers, binary-search]
+tags:       [Sort, Hash Table, Two Pointers, Binary Search]
 permalink:  /intersection-of-two-arrays-ii/
 ---
 

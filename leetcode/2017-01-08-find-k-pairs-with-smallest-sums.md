@@ -3,7 +3,7 @@ layout:     single
 title:      "查找和最小的K对数字"
 date:       2017-01-08 21:30:00 +0800
 categories: [leetcode]
-tags:       [heap]
+tags:       [Heap]
 permalink:  /find-k-pairs-with-smallest-sums/
 ---
 

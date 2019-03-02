@@ -3,7 +3,7 @@ layout:     single
 title:      "根据二叉树创建字符串"
 date:       2017-08-29 21:30:00 +0800
 categories: [leetcode]
-tags:       [tree, string]
+tags:       [Tree, String]
 permalink:  /construct-string-from-binary-tree/
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "另一个树的子树"
 date:       2017-07-26 21:30:00 +0800
 categories: [leetcode]
-tags:       [tree]
+tags:       [Tree]
 permalink:  /subtree-of-another-tree/
 ---
 

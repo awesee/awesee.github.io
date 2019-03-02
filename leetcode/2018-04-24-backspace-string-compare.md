@@ -3,7 +3,7 @@ layout:     single
 title:      "比较含退格的字符串"
 date:       2018-04-24 21:30:00 +0800
 categories: [leetcode]
-tags:       [stack, two-pointers]
+tags:       [Stack, Two Pointers]
 permalink:  /backspace-string-compare/
 ---
 

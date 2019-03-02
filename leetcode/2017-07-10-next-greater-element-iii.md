@@ -3,7 +3,7 @@ layout:     single
 title:      "下一个更大元素 III"
 date:       2017-07-10 21:30:00 +0800
 categories: [leetcode]
-tags:       [string]
+tags:       [String]
 permalink:  /next-greater-element-iii/
 ---
 

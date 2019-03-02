@@ -3,7 +3,7 @@ layout:     single
 title:      "猫和老鼠"
 date:       2018-07-02 21:30:00 +0800
 categories: [leetcode]
-tags:       [breadth-first-search, minimax]
+tags:       [Breadth-first Search, Minimax]
 permalink:  /cat-and-mouse/
 ---
 

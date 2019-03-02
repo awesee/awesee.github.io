@@ -3,7 +3,7 @@ layout:     single
 title:      "叶子相似的树"
 date:       2018-05-22 21:30:00 +0800
 categories: [leetcode]
-tags:       [tree, depth-first-search]
+tags:       [Tree, Depth-first Search]
 permalink:  /leaf-similar-trees/
 ---
 

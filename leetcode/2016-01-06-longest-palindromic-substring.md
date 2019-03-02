@@ -3,7 +3,7 @@ layout:     single
 title:      "最长回文子串"
 date:       2016-01-06 21:30:00 +0800
 categories: [leetcode]
-tags:       [string, dynamic-programming]
+tags:       [String, Dynamic Programming]
 permalink:  /longest-palindromic-substring/
 ---
 

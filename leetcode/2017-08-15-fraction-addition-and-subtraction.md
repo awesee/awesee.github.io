@@ -3,7 +3,7 @@ layout:     single
 title:      "分数加减运算"
 date:       2017-08-15 21:30:00 +0800
 categories: [leetcode]
-tags:       [math]
+tags:       [Math]
 permalink:  /fraction-addition-and-subtraction/
 ---
 

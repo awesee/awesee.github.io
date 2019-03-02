@@ -3,7 +3,7 @@ layout:     single
 title:      "寻找最近的回文数"
 date:       2017-07-18 21:30:00 +0800
 categories: [leetcode]
-tags:       [string]
+tags:       [String]
 permalink:  /find-the-closest-palindrome/
 ---
 

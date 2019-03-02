@@ -3,7 +3,7 @@ layout:     single
 title:      "把二叉搜索树转换为累加树"
 date:       2017-06-22 21:30:00 +0800
 categories: [leetcode]
-tags:       [tree]
+tags:       [Tree]
 permalink:  /convert-bst-to-greater-tree/
 ---
 

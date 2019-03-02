@@ -3,7 +3,7 @@ layout:     single
 title:      "种花问题"
 date:       2017-08-28 21:30:00 +0800
 categories: [leetcode]
-tags:       [array]
+tags:       [Array]
 permalink:  /can-place-flowers/
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "数组形式的整数加法"
 date:       2018-09-16 21:30:00 +0800
 categories: [leetcode]
-tags:       [array]
+tags:       [Array]
 permalink:  /add-to-array-form-of-integer/
 ---
 

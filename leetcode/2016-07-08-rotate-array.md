@@ -3,7 +3,7 @@ layout:     single
 title:      "旋转数组"
 date:       2016-07-08 21:30:00 +0800
 categories: [leetcode]
-tags:       [array]
+tags:       [Array]
 permalink:  /rotate-array/
 ---
 

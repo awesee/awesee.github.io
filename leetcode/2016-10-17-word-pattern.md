@@ -3,7 +3,7 @@ layout:     single
 title:      "单词模式"
 date:       2016-10-17 21:30:00 +0800
 categories: [leetcode]
-tags:       [hash-table]
+tags:       [Hash Table]
 permalink:  /word-pattern/
 ---
 

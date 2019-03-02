@@ -3,7 +3,7 @@ layout:     single
 title:      "环形链表 II"
 date:       2016-05-22 21:30:00 +0800
 categories: [leetcode]
-tags:       [linked-list, two-pointers]
+tags:       [Linked List, Two Pointers]
 permalink:  /linked-list-cycle-ii/
 ---
 

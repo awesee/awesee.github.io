@@ -3,7 +3,7 @@ layout:     single
 title:      "分数到小数"
 date:       2016-06-15 21:30:00 +0800
 categories: [leetcode]
-tags:       [hash-table, math]
+tags:       [Hash Table, Math]
 permalink:  /fraction-to-recurring-decimal/
 ---
 

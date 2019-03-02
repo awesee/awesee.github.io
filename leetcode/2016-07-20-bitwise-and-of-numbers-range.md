@@ -3,7 +3,7 @@ layout:     single
 title:      "数字范围按位与"
 date:       2016-07-20 21:30:00 +0800
 categories: [leetcode]
-tags:       [bit-manipulation]
+tags:       [Bit Manipulation]
 permalink:  /bitwise-and-of-numbers-range/
 ---
 

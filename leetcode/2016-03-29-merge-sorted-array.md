@@ -3,7 +3,7 @@ layout:     single
 title:      "合并两个有序数组"
 date:       2016-03-29 21:30:00 +0800
 categories: [leetcode]
-tags:       [array, two-pointers]
+tags:       [Array, Two Pointers]
 permalink:  /merge-sorted-array/
 ---
 

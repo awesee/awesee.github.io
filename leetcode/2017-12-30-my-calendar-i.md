@@ -3,7 +3,7 @@ layout:     single
 title:      "我的日程安排表 I"
 date:       2017-12-30 21:30:00 +0800
 categories: [leetcode]
-tags:       [array]
+tags:       [Array]
 permalink:  /my-calendar-i/
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "情侣牵手"
 date:       2018-02-04 21:30:00 +0800
 categories: [leetcode]
-tags:       [greedy, union-find, graph]
+tags:       [Greedy, Union Find, Graph]
 permalink:  /couples-holding-hands/
 ---
 

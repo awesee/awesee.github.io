@@ -3,7 +3,7 @@ layout:     single
 title:      "买卖股票的最佳时机"
 date:       2016-05-01 21:30:00 +0800
 categories: [leetcode]
-tags:       [array, dynamic-programming]
+tags:       [Array, Dynamic Programming]
 permalink:  /best-time-to-buy-and-sell-stock/
 ---
 

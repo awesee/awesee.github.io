@@ -3,7 +3,7 @@ layout:     single
 title:      "报数"
 date:       2016-02-08 21:30:00 +0800
 categories: [leetcode]
-tags:       [string]
+tags:       [String]
 permalink:  /count-and-say/
 ---
 

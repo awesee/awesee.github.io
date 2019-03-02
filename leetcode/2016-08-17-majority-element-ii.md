@@ -3,7 +3,7 @@ layout:     single
 title:      "求众数 II"
 date:       2016-08-17 21:30:00 +0800
 categories: [leetcode]
-tags:       [array]
+tags:       [Array]
 permalink:  /majority-element-ii/
 ---
 

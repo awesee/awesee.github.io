@@ -3,7 +3,7 @@ layout:     single
 title:      "用 Rand7() 实现 Rand10()"
 date:       2017-04-15 21:30:00 +0800
 categories: [leetcode]
-tags:       [random, rejection-sampling]
+tags:       [Random, Rejection Sampling]
 permalink:  /implement-rand10-using-rand7/
 ---
 

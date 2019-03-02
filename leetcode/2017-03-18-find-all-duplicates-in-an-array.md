@@ -3,7 +3,7 @@ layout:     single
 title:      "数组中重复的数据"
 date:       2017-03-18 21:30:00 +0800
 categories: [leetcode]
-tags:       [array]
+tags:       [Array]
 permalink:  /find-all-duplicates-in-an-array/
 ---
 

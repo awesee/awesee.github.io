@@ -3,7 +3,7 @@ layout:     single
 title:      "二叉树的堂兄弟节点"
 date:       2018-09-20 21:30:00 +0800
 categories: [leetcode]
-tags:       [tree]
+tags:       [Tree]
 permalink:  /cousins-in-binary-tree/
 ---
 

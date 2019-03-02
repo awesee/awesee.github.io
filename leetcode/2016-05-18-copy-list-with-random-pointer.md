@@ -3,7 +3,7 @@ layout:     single
 title:      "复制带随机指针的链表"
 date:       2016-05-18 21:30:00 +0800
 categories: [leetcode]
-tags:       [hash-table, linked-list]
+tags:       [Hash Table, Linked List]
 permalink:  /copy-list-with-random-pointer/
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "打开转盘锁"
 date:       2018-01-22 21:30:00 +0800
 categories: [leetcode]
-tags:       [breadth-first-search]
+tags:       [Breadth-first Search]
 permalink:  /open-the-lock/
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "合并区间"
 date:       2016-02-26 21:30:00 +0800
 categories: [leetcode]
-tags:       [sort, array]
+tags:       [Sort, Array]
 permalink:  /merge-intervals/
 ---
 

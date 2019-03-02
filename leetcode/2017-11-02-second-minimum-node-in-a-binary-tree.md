@@ -3,7 +3,7 @@ layout:     single
 title:      "二叉树中第二小的节点"
 date:       2017-11-02 21:30:00 +0800
 categories: [leetcode]
-tags:       [tree]
+tags:       [Tree]
 permalink:  /second-minimum-node-in-a-binary-tree/
 ---
 

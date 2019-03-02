@@ -3,7 +3,7 @@ layout:     single
 title:      "猜猜这个单词"
 date:       2018-04-23 21:30:00 +0800
 categories: [leetcode]
-tags:       [minimax]
+tags:       [Minimax]
 permalink:  /guess-the-word/
 ---
 

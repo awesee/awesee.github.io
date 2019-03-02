@@ -3,7 +3,7 @@ layout:     single
 title:      "金字塔转换矩阵"
 date:       2018-01-26 21:30:00 +0800
 categories: [leetcode]
-tags:       [bit-manipulation, depth-first-search]
+tags:       [Bit Manipulation, Depth-first Search]
 permalink:  /pyramid-transition-matrix/
 ---
 

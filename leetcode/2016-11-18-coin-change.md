@@ -3,7 +3,7 @@ layout:     single
 title:      "零钱兑换"
 date:       2016-11-18 21:30:00 +0800
 categories: [leetcode]
-tags:       [dynamic-programming]
+tags:       [Dynamic Programming]
 permalink:  /coin-change/
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "课程表"
 date:       2016-07-26 21:30:00 +0800
 categories: [leetcode]
-tags:       [depth-first-search, breadth-first-search, graph, topological-sort]
+tags:       [Depth-first Search, Breadth-first Search, Graph, Topological Sort]
 permalink:  /course-schedule/
 ---
 

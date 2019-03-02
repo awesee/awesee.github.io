@@ -3,7 +3,7 @@ layout:     single
 title:      "单词拆分 II"
 date:       2016-05-20 21:30:00 +0800
 categories: [leetcode]
-tags:       [dynamic-programming, backtracking]
+tags:       [Dynamic Programming, Backtracking]
 permalink:  /word-break-ii/
 ---
 

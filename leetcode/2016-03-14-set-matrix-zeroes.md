@@ -3,7 +3,7 @@ layout:     single
 title:      "矩阵置零"
 date:       2016-03-14 21:30:00 +0800
 categories: [leetcode]
-tags:       [array]
+tags:       [Array]
 permalink:  /set-matrix-zeroes/
 ---
 

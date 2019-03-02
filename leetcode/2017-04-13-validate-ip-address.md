@@ -3,7 +3,7 @@ layout:     single
 title:      "验证IP地址"
 date:       2017-04-13 21:30:00 +0800
 categories: [leetcode]
-tags:       [string]
+tags:       [String]
 permalink:  /validate-ip-address/
 ---
 

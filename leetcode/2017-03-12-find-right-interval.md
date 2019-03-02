@@ -3,7 +3,7 @@ layout:     single
 title:      "寻找右区间"
 date:       2017-03-12 21:30:00 +0800
 categories: [leetcode]
-tags:       [binary-search]
+tags:       [Binary Search]
 permalink:  /find-right-interval/
 ---
 

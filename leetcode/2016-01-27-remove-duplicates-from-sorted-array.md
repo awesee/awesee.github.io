@@ -3,7 +3,7 @@ layout:     single
 title:      "删除排序数组中的重复项"
 date:       2016-01-27 21:30:00 +0800
 categories: [leetcode]
-tags:       [array, two-pointers]
+tags:       [Array, Two Pointers]
 permalink:  /remove-duplicates-from-sorted-array/
 ---
 

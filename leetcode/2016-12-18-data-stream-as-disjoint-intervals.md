@@ -3,7 +3,7 @@ layout:     single
 title:      "将数据流变为多个不相交间隔"
 date:       2016-12-18 21:30:00 +0800
 categories: [leetcode]
-tags:       [binary-search-tree]
+tags:       [Binary Search Tree]
 permalink:  /data-stream-as-disjoint-intervals/
 ---
 

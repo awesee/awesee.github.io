@@ -3,7 +3,7 @@ layout:     single
 title:      "等式方程的可满足性"
 date:       2018-09-17 21:30:00 +0800
 categories: [leetcode]
-tags:       [graph]
+tags:       [Graph]
 permalink:  /satisfiability-of-equality-equations/
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "从叶结点开始的最小字符串"
 date:       2018-09-15 21:30:00 +0800
 categories: [leetcode]
-tags:       [tree]
+tags:       [Tree]
 permalink:  /smallest-string-starting-from-leaf/
 ---
 

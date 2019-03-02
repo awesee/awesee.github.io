@@ -3,7 +3,7 @@ layout:     single
 title:      "顶端迭代器"
 date:       2016-10-11 21:30:00 +0800
 categories: [leetcode]
-tags:       [design]
+tags:       [Design]
 permalink:  /peeking-iterator/
 ---
 

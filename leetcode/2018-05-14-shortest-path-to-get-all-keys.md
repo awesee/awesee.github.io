@@ -3,7 +3,7 @@ layout:     single
 title:      "获取所有钥匙的最短路径"
 date:       2018-05-14 21:30:00 +0800
 categories: [leetcode]
-tags:       [heap, breadth-first-search]
+tags:       [Heap, Breadth-first Search]
 permalink:  /shortest-path-to-get-all-keys/
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "最大三角形面积"
 date:       2018-03-23 21:30:00 +0800
 categories: [leetcode]
-tags:       [math]
+tags:       [Math]
 permalink:  /largest-triangle-area/
 ---
 

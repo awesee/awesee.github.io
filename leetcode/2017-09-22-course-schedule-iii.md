@@ -3,7 +3,7 @@ layout:     single
 title:      "课程表 III"
 date:       2017-09-22 21:30:00 +0800
 categories: [leetcode]
-tags:       [greedy]
+tags:       [Greedy]
 permalink:  /course-schedule-iii/
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "用队列实现栈"
 date:       2016-08-13 21:30:00 +0800
 categories: [leetcode]
-tags:       [stack, design]
+tags:       [Stack, Design]
 permalink:  /implement-stack-using-queues/
 ---
 

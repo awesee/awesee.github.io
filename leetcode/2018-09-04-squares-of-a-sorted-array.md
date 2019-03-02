@@ -3,7 +3,7 @@ layout:     single
 title:      "有序数组的平方"
 date:       2018-09-04 21:30:00 +0800
 categories: [leetcode]
-tags:       [sort, array, two-pointers]
+tags:       [Sort, Array, Two Pointers]
 permalink:  /squares-of-a-sorted-array/
 ---
 

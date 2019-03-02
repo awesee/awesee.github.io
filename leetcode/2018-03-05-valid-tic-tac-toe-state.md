@@ -3,7 +3,7 @@ layout:     single
 title:      "有效的井字游戏"
 date:       2018-03-05 21:30:00 +0800
 categories: [leetcode]
-tags:       [recursion, math]
+tags:       [Recursion, Math]
 permalink:  /valid-tic-tac-toe-state/
 ---
 

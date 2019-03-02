@@ -3,7 +3,7 @@ layout:     single
 title:      "两数之和 II - 输入有序数组"
 date:       2016-06-16 21:30:00 +0800
 categories: [leetcode]
-tags:       [array, two-pointers, binary-search]
+tags:       [Array, Two Pointers, Binary Search]
 permalink:  /two-sum-ii-input-array-is-sorted/
 ---
 

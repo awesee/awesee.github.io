@@ -3,7 +3,7 @@ layout:     single
 title:      "全排列 II"
 date:       2016-02-17 21:30:00 +0800
 categories: [leetcode]
-tags:       [backtracking]
+tags:       [Backtracking]
 permalink:  /permutations-ii/
 ---
 

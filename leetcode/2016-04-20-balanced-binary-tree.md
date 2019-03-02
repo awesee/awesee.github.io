@@ -3,7 +3,7 @@ layout:     single
 title:      "平衡二叉树"
 date:       2016-04-20 21:30:00 +0800
 categories: [leetcode]
-tags:       [tree, depth-first-search]
+tags:       [Tree, Depth-first Search]
 permalink:  /balanced-binary-tree/
 ---
 

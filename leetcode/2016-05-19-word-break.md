@@ -3,7 +3,7 @@ layout:     single
 title:      "单词拆分"
 date:       2016-05-19 21:30:00 +0800
 categories: [leetcode]
-tags:       [dynamic-programming]
+tags:       [Dynamic Programming]
 permalink:  /word-break/
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "强整数"
 date:       2018-08-28 21:30:00 +0800
 categories: [leetcode]
-tags:       [math]
+tags:       [Math]
 permalink:  /powerful-integers/
 ---
 

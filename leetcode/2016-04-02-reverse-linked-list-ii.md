@@ -3,7 +3,7 @@ layout:     single
 title:      "反转链表 II"
 date:       2016-04-02 21:30:00 +0800
 categories: [leetcode]
-tags:       [linked-list]
+tags:       [Linked List]
 permalink:  /reverse-linked-list-ii/
 ---
 

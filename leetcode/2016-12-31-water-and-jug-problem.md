@@ -3,7 +3,7 @@ layout:     single
 title:      "水壶问题"
 date:       2016-12-31 21:30:00 +0800
 categories: [leetcode]
-tags:       [math]
+tags:       [Math]
 permalink:  /water-and-jug-problem/
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "石子游戏"
 date:       2018-05-27 21:30:00 +0800
 categories: [leetcode]
-tags:       [math, dynamic-programming]
+tags:       [Math, Dynamic Programming]
 permalink:  /stone-game/
 ---
 

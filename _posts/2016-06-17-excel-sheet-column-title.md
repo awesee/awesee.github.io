@@ -3,7 +3,7 @@ layout:     single
 title:      "Excel表列名称"
 date:       2016-06-17 21:30:00 +0800
 categories: [leetcode]
-tags:       [math]
+tags:       [Math]
 permalink:  /excel-sheet-column-title/
 ---
 

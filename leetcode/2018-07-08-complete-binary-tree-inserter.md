@@ -3,7 +3,7 @@ layout:     single
 title:      "完全二叉树插入器"
 date:       2018-07-08 21:30:00 +0800
 categories: [leetcode]
-tags:       [tree]
+tags:       [Tree]
 permalink:  /complete-binary-tree-inserter/
 ---
 

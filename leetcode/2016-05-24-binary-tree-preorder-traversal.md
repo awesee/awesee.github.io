@@ -3,7 +3,7 @@ layout:     single
 title:      "二叉树的前序遍历"
 date:       2016-05-24 21:30:00 +0800
 categories: [leetcode]
-tags:       [stack, tree]
+tags:       [Stack, Tree]
 permalink:  /binary-tree-preorder-traversal/
 ---
 

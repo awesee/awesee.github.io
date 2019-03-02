@@ -3,7 +3,7 @@ layout:     single
 title:      "分割数组的最大值"
 date:       2017-02-14 21:30:00 +0800
 categories: [leetcode]
-tags:       [binary-search, dynamic-programming]
+tags:       [Binary Search, Dynamic Programming]
 permalink:  /split-array-largest-sum/
 ---
 

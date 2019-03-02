@@ -3,7 +3,7 @@ layout:     single
 title:      "螺旋矩阵 III"
 date:       2018-06-04 21:30:00 +0800
 categories: [leetcode]
-tags:       [math]
+tags:       [Math]
 permalink:  /spiral-matrix-iii/
 ---
 

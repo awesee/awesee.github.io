@@ -3,7 +3,7 @@ layout:     single
 title:      "重新排列日志文件"
 date:       2018-07-26 21:30:00 +0800
 categories: [leetcode]
-tags:       [string]
+tags:       [String]
 permalink:  /reorder-log-files/
 ---
 

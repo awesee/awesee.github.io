@@ -3,7 +3,7 @@ layout:     single
 title:      "子集 II"
 date:       2016-03-31 21:30:00 +0800
 categories: [leetcode]
-tags:       [array, backtracking]
+tags:       [Array, Backtracking]
 permalink:  /subsets-ii/
 ---
 

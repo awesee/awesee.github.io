@@ -3,7 +3,7 @@ layout:     single
 title:      "分割数组"
 date:       2018-07-04 21:30:00 +0800
 categories: [leetcode]
-tags:       [array]
+tags:       [Array]
 permalink:  /partition-array-into-disjoint-intervals/
 ---
 

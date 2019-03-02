@@ -3,7 +3,7 @@ layout:     single
 title:      "Range 模块"
 date:       2017-12-16 21:30:00 +0800
 categories: [leetcode]
-tags:       [segment-tree, binary-search-tree, array]
+tags:       [Segment Tree, Binary Search Tree, Array]
 permalink:  /range-module/
 ---
 

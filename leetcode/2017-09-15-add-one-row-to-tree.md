@@ -3,7 +3,7 @@ layout:     single
 title:      "在二叉树中增加一行"
 date:       2017-09-15 21:30:00 +0800
 categories: [leetcode]
-tags:       [tree]
+tags:       [Tree]
 permalink:  /add-one-row-to-tree/
 ---
 

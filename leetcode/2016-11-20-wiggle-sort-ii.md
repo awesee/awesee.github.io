@@ -3,7 +3,7 @@ layout:     single
 title:      "摆动排序 II"
 date:       2016-11-20 21:30:00 +0800
 categories: [leetcode]
-tags:       [sort]
+tags:       [Sort]
 permalink:  /wiggle-sort-ii/
 ---
 

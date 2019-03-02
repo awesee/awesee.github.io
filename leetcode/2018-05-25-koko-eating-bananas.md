@@ -3,7 +3,7 @@ layout:     single
 title:      "爱吃香蕉的珂珂"
 date:       2018-05-25 21:30:00 +0800
 categories: [leetcode]
-tags:       [binary-search]
+tags:       [Binary Search]
 permalink:  /koko-eating-bananas/
 ---
 

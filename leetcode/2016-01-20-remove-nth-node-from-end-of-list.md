@@ -3,7 +3,7 @@ layout:     single
 title:      "删除链表的倒数第N个节点"
 date:       2016-01-20 21:30:00 +0800
 categories: [leetcode]
-tags:       [linked-list, two-pointers]
+tags:       [Linked List, Two Pointers]
 permalink:  /remove-nth-node-from-end-of-list/
 ---
 

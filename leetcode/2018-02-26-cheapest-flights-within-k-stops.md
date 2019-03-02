@@ -3,7 +3,7 @@ layout:     single
 title:      "K 站中转内最便宜的航班"
 date:       2018-02-26 21:30:00 +0800
 categories: [leetcode]
-tags:       [heap, breadth-first-search, dynamic-programming]
+tags:       [Heap, Breadth-first Search, Dynamic Programming]
 permalink:  /cheapest-flights-within-k-stops/
 ---
 

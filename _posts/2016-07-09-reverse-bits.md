@@ -3,7 +3,7 @@ layout:     single
 title:      "颠倒二进制位"
 date:       2016-07-09 21:30:00 +0800
 categories: [leetcode]
-tags:       [bit-manipulation]
+tags:       [Bit Manipulation]
 permalink:  /reverse-bits/
 ---
 

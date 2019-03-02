@@ -3,7 +3,7 @@ layout:     single
 title:      "搜索旋转排序数组"
 date:       2016-02-03 21:30:00 +0800
 categories: [leetcode]
-tags:       [array, binary-search]
+tags:       [Array, Binary Search]
 permalink:  /search-in-rotated-sorted-array/
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "最少移动次数使数组元素相等 II"
 date:       2017-04-07 21:30:00 +0800
 categories: [leetcode]
-tags:       [math]
+tags:       [Math]
 permalink:  /minimum-moves-to-equal-array-elements-ii/
 ---
 

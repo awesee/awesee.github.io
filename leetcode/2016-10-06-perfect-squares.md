@@ -3,7 +3,7 @@ layout:     single
 title:      "完全平方数"
 date:       2016-10-06 21:30:00 +0800
 categories: [leetcode]
-tags:       [breadth-first-search, math, dynamic-programming]
+tags:       [Breadth-first Search, Math, Dynamic Programming]
 permalink:  /perfect-squares/
 ---
 

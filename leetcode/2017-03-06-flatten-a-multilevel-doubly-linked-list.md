@@ -3,7 +3,7 @@ layout:     single
 title:      "扁平化多级双向链表"
 date:       2017-03-06 21:30:00 +0800
 categories: [leetcode]
-tags:       [depth-first-search, linked-list]
+tags:       [Depth-first Search, Linked List]
 permalink:  /flatten-a-multilevel-doubly-linked-list/
 ---
 

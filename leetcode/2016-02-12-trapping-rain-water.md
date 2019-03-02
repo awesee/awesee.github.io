@@ -3,7 +3,7 @@ layout:     single
 title:      "接雨水"
 date:       2016-02-12 21:30:00 +0800
 categories: [leetcode]
-tags:       [stack, array, two-pointers]
+tags:       [Stack, Array, Two Pointers]
 permalink:  /trapping-rain-water/
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "回文对"
 date:       2016-12-02 21:30:00 +0800
 categories: [leetcode]
-tags:       [trie, hash-table, string]
+tags:       [Trie, Hash Table, String]
 permalink:  /palindrome-pairs/
 ---
 

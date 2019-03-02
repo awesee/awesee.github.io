@@ -3,7 +3,7 @@ layout:     single
 title:      "无重复字符的最长子串"
 date:       2016-01-04 21:30:00 +0800
 categories: [leetcode]
-tags:       [hash-table, two-pointers, string]
+tags:       [Hash Table, Two Pointers, String]
 permalink:  /longest-substring-without-repeating-characters/
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "最多能完成排序的块"
 date:       2018-02-08 21:30:00 +0800
 categories: [leetcode]
-tags:       [array]
+tags:       [Array]
 permalink:  /max-chunks-to-make-sorted/
 ---
 

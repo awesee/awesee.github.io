@@ -3,7 +3,7 @@ layout:     single
 title:      "戳气球"
 date:       2016-11-08 21:30:00 +0800
 categories: [leetcode]
-tags:       [divide-and-conquer, dynamic-programming]
+tags:       [Divide and Conquer, Dynamic Programming]
 permalink:  /burst-balloons/
 ---
 

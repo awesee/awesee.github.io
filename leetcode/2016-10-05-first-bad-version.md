@@ -3,7 +3,7 @@ layout:     single
 title:      "第一个错误的版本"
 date:       2016-10-05 21:30:00 +0800
 categories: [leetcode]
-tags:       [binary-search]
+tags:       [Binary Search]
 permalink:  /first-bad-version/
 ---
 

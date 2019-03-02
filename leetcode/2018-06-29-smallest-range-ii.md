@@ -3,7 +3,7 @@ layout:     single
 title:      "最小差值 II"
 date:       2018-06-29 21:30:00 +0800
 categories: [leetcode]
-tags:       [greedy, math]
+tags:       [Greedy, Math]
 permalink:  /smallest-range-ii/
 ---
 

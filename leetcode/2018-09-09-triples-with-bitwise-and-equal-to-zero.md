@@ -3,7 +3,7 @@ layout:     single
 title:      "按位与为零的三元组"
 date:       2018-09-09 21:30:00 +0800
 categories: [leetcode]
-tags:       [dynamic-programming]
+tags:       [Dynamic Programming]
 permalink:  /triples-with-bitwise-and-equal-to-zero/
 ---
 

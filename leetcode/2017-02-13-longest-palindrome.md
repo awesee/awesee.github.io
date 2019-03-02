@@ -3,7 +3,7 @@ layout:     single
 title:      "最长回文串"
 date:       2017-02-13 21:30:00 +0800
 categories: [leetcode]
-tags:       [hash-table]
+tags:       [Hash Table]
 permalink:  /longest-palindrome/
 ---
 

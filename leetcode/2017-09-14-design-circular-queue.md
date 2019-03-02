@@ -3,7 +3,7 @@ layout:     single
 title:      "设计循环队列"
 date:       2017-09-14 21:30:00 +0800
 categories: [leetcode]
-tags:       [design, queue]
+tags:       [Design, Queue]
 permalink:  /design-circular-queue/
 ---
 

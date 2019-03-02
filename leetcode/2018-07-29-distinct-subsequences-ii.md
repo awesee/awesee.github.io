@@ -3,7 +3,7 @@ layout:     single
 title:      "不同的子序列 II"
 date:       2018-07-29 21:30:00 +0800
 categories: [leetcode]
-tags:       [dynamic-programming]
+tags:       [Dynamic Programming]
 permalink:  /distinct-subsequences-ii/
 ---
 

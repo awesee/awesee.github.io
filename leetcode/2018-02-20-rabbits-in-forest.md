@@ -3,7 +3,7 @@ layout:     single
 title:      "森林中的兔子"
 date:       2018-02-20 21:30:00 +0800
 categories: [leetcode]
-tags:       [hash-table, math]
+tags:       [Hash Table, Math]
 permalink:  /rabbits-in-forest/
 ---
 

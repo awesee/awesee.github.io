@@ -3,7 +3,7 @@ layout:     single
 title:      "长度最小的子数组"
 date:       2016-07-28 21:30:00 +0800
 categories: [leetcode]
-tags:       [array, two-pointers, binary-search]
+tags:       [Array, Two Pointers, Binary Search]
 permalink:  /minimum-size-subarray-sum/
 ---
 

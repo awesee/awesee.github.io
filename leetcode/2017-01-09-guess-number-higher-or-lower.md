@@ -3,7 +3,7 @@ layout:     single
 title:      "猜数字大小"
 date:       2017-01-09 21:30:00 +0800
 categories: [leetcode]
-tags:       [binary-search]
+tags:       [Binary Search]
 permalink:  /guess-number-higher-or-lower/
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "实现一个魔法字典"
 date:       2017-11-07 21:30:00 +0800
 categories: [leetcode]
-tags:       [trie, hash-table]
+tags:       [Trie, Hash Table]
 permalink:  /implement-magic-dictionary/
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "翻转对"
 date:       2017-05-08 21:30:00 +0800
 categories: [leetcode]
-tags:       [binary-indexed-tree, segment-tree, binary-search-tree, divide-and-conquer]
+tags:       [Binary Indexed Tree, Segment Tree, Binary Search Tree, Divide and Conquer]
 permalink:  /reverse-pairs/
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "迷你语法分析器"
 date:       2017-01-20 21:30:00 +0800
 categories: [leetcode]
-tags:       [stack, string]
+tags:       [Stack, String]
 permalink:  /mini-parser/
 ---
 

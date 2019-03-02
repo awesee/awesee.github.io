@@ -3,7 +3,7 @@ layout:     single
 title:      "随机数索引"
 date:       2017-02-02 21:30:00 +0800
 categories: [leetcode]
-tags:       [reservoir-sampling]
+tags:       [Reservoir Sampling]
 permalink:  /random-pick-index/
 ---
 

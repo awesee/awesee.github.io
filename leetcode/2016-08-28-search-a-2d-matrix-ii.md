@@ -3,7 +3,7 @@ layout:     single
 title:      "搜索二维矩阵 II"
 date:       2016-08-28 21:30:00 +0800
 categories: [leetcode]
-tags:       [binary-search, divide-and-conquer]
+tags:       [Binary Search, Divide and Conquer]
 permalink:  /search-a-2d-matrix-ii/
 ---
 

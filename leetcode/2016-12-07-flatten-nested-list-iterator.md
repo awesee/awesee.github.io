@@ -3,7 +3,7 @@ layout:     single
 title:      "扁平化嵌套列表迭代器"
 date:       2016-12-07 21:30:00 +0800
 categories: [leetcode]
-tags:       [stack, design]
+tags:       [Stack, Design]
 permalink:  /flatten-nested-list-iterator/
 ---
 

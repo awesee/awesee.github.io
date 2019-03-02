@@ -3,7 +3,7 @@ layout:     single
 title:      "网格照明"
 date:       2018-09-28 21:30:00 +0800
 categories: [leetcode]
-tags:       [hash-table]
+tags:       [Hash Table]
 permalink:  /grid-illumination/
 ---
 

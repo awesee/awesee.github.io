@@ -3,7 +3,7 @@ layout:     single
 title:      "旋转链表"
 date:       2016-03-02 21:30:00 +0800
 categories: [leetcode]
-tags:       [linked-list, two-pointers]
+tags:       [Linked List, Two Pointers]
 permalink:  /rotate-list/
 ---
 

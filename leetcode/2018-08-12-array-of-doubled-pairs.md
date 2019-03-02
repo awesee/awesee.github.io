@@ -3,7 +3,7 @@ layout:     single
 title:      "二倍数对数组"
 date:       2018-08-12 21:30:00 +0800
 categories: [leetcode]
-tags:       [array, hash-table]
+tags:       [Array, Hash Table]
 permalink:  /array-of-doubled-pairs/
 ---
 

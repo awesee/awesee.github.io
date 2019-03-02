@@ -3,7 +3,7 @@ layout:     single
 title:      "文本左右对齐"
 date:       2016-03-09 21:30:00 +0800
 categories: [leetcode]
-tags:       [string]
+tags:       [String]
 permalink:  /text-justification/
 ---
 

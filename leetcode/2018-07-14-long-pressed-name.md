@@ -3,7 +3,7 @@ layout:     single
 title:      "长按键入"
 date:       2018-07-14 21:30:00 +0800
 categories: [leetcode]
-tags:       [two-pointers, string]
+tags:       [Two Pointers, String]
 permalink:  /long-pressed-name/
 ---
 

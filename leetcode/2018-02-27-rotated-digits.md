@@ -3,7 +3,7 @@ layout:     single
 title:      "旋转数字"
 date:       2018-02-27 21:30:00 +0800
 categories: [leetcode]
-tags:       [string]
+tags:       [String]
 permalink:  /rotated-digits/
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "寻找两个有序数组的中位数"
 date:       2016-01-05 21:30:00 +0800
 categories: [leetcode]
-tags:       [array, binary-search, divide-and-conquer]
+tags:       [Array, Binary Search, Divide and Conquer]
 permalink:  /median-of-two-sorted-arrays/
 ---
 

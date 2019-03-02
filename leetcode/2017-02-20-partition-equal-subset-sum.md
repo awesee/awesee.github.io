@@ -3,7 +3,7 @@ layout:     single
 title:      "分割等和子集"
 date:       2017-02-20 21:30:00 +0800
 categories: [leetcode]
-tags:       [dynamic-programming]
+tags:       [Dynamic Programming]
 permalink:  /partition-equal-subset-sum/
 ---
 

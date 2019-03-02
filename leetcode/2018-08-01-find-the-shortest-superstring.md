@@ -3,7 +3,7 @@ layout:     single
 title:      "最短超级串"
 date:       2018-08-01 21:30:00 +0800
 categories: [leetcode]
-tags:       [dynamic-programming]
+tags:       [Dynamic Programming]
 permalink:  /find-the-shortest-superstring/
 ---
 

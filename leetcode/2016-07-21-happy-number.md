@@ -3,7 +3,7 @@ layout:     single
 title:      "快乐数"
 date:       2016-07-21 21:30:00 +0800
 categories: [leetcode]
-tags:       [hash-table, math]
+tags:       [Hash Table, Math]
 permalink:  /happy-number/
 ---
 

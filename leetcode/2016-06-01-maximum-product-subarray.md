@@ -3,7 +3,7 @@ layout:     single
 title:      "乘积最大子序列"
 date:       2016-06-01 21:30:00 +0800
 categories: [leetcode]
-tags:       [array, dynamic-programming]
+tags:       [Array, Dynamic Programming]
 permalink:  /maximum-product-subarray/
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "下一个更大元素 I"
 date:       2017-05-11 21:30:00 +0800
 categories: [leetcode]
-tags:       [stack]
+tags:       [Stack]
 permalink:  /next-greater-element-i/
 ---
 

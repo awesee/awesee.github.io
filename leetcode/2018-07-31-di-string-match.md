@@ -3,7 +3,7 @@ layout:     single
 title:      "增减字符串匹配"
 date:       2018-07-31 21:30:00 +0800
 categories: [leetcode]
-tags:       [math]
+tags:       [Math]
 permalink:  /di-string-match/
 ---
 

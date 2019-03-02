@@ -3,7 +3,7 @@ layout:     single
 title:      "网络延迟时间"
 date:       2018-01-13 21:30:00 +0800
 categories: [leetcode]
-tags:       [heap, depth-first-search, breadth-first-search, graph]
+tags:       [Heap, Depth-first Search, Breadth-first Search, Graph]
 permalink:  /network-delay-time/
 ---
 

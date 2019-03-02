@@ -3,7 +3,7 @@ layout:     single
 title:      "有效的括号字符串"
 date:       2017-11-09 21:30:00 +0800
 categories: [leetcode]
-tags:       [string]
+tags:       [String]
 permalink:  /valid-parenthesis-string/
 ---
 

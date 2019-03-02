@@ -3,7 +3,7 @@ layout:     single
 title:      "删除排序链表中的重复元素"
 date:       2016-03-24 21:30:00 +0800
 categories: [leetcode]
-tags:       [linked-list]
+tags:       [Linked List]
 permalink:  /remove-duplicates-from-sorted-list/
 ---
 

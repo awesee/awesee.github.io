@@ -3,7 +3,7 @@ layout:     single
 title:      "比较版本号"
 date:       2016-06-14 21:30:00 +0800
 categories: [leetcode]
-tags:       [string]
+tags:       [String]
 permalink:  /compare-version-numbers/
 ---
 

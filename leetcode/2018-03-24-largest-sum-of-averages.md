@@ -3,7 +3,7 @@ layout:     single
 title:      "最大平均值和的分组"
 date:       2018-03-24 21:30:00 +0800
 categories: [leetcode]
-tags:       [dynamic-programming]
+tags:       [Dynamic Programming]
 permalink:  /largest-sum-of-averages/
 ---
 

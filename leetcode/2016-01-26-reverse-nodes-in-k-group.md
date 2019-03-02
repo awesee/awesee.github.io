@@ -3,7 +3,7 @@ layout:     single
 title:      "k个一组翻转链表"
 date:       2016-01-26 21:30:00 +0800
 categories: [leetcode]
-tags:       [linked-list]
+tags:       [Linked List]
 permalink:  /reverse-nodes-in-k-group/
 ---
 

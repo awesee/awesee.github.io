@@ -3,7 +3,7 @@ layout:     single
 title:      "适龄的朋友"
 date:       2018-04-05 21:30:00 +0800
 categories: [leetcode]
-tags:       [array]
+tags:       [Array]
 permalink:  /friends-of-appropriate-ages/
 ---
 

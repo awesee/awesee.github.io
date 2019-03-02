@@ -3,7 +3,7 @@ layout:     single
 title:      "仅仅反转字母"
 date:       2018-07-06 21:30:00 +0800
 categories: [leetcode]
-tags:       [string]
+tags:       [String]
 permalink:  /reverse-only-letters/
 ---
 

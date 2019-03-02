@@ -3,7 +3,7 @@ layout:     single
 title:      "二叉树的所有路径"
 date:       2016-09-14 21:30:00 +0800
 categories: [leetcode]
-tags:       [tree, depth-first-search]
+tags:       [Tree, Depth-first Search]
 permalink:  /binary-tree-paths/
 ---
 

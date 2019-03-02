@@ -3,7 +3,7 @@ layout:     single
 title:      "原子的数量"
 date:       2017-12-27 21:30:00 +0800
 categories: [leetcode]
-tags:       [stack, recursion, hash-table]
+tags:       [Stack, Recursion, Hash Table]
 permalink:  /number-of-atoms/
 ---
 

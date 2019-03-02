@@ -3,7 +3,7 @@ layout:     single
 title:      "Excel表列序号"
 date:       2016-06-20 21:30:00 +0800
 categories: [leetcode]
-tags:       [math]
+tags:       [Math]
 permalink:  /excel-sheet-column-number/
 ---
 

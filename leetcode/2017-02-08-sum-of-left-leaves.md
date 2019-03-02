@@ -3,7 +3,7 @@ layout:     single
 title:      "左叶子之和"
 date:       2017-02-08 21:30:00 +0800
 categories: [leetcode]
-tags:       [tree]
+tags:       [Tree]
 permalink:  /sum-of-left-leaves/
 ---
 

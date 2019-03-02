@@ -3,7 +3,7 @@ layout:     single
 title:      "矩形重叠"
 date:       2018-04-16 21:30:00 +0800
 categories: [leetcode]
-tags:       [math]
+tags:       [Math]
 permalink:  /rectangle-overlap/
 ---
 

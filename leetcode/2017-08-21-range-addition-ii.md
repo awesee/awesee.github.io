@@ -3,7 +3,7 @@ layout:     single
 title:      "范围求和 II"
 date:       2017-08-21 21:30:00 +0800
 categories: [leetcode]
-tags:       [math]
+tags:       [Math]
 permalink:  /range-addition-ii/
 ---
 

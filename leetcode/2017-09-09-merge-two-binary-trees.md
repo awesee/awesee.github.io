@@ -3,7 +3,7 @@ layout:     single
 title:      "合并二叉树"
 date:       2017-09-09 21:30:00 +0800
 categories: [leetcode]
-tags:       [tree]
+tags:       [Tree]
 permalink:  /merge-two-binary-trees/
 ---
 

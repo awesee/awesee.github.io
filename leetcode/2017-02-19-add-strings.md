@@ -3,7 +3,7 @@ layout:     single
 title:      "字符串相加"
 date:       2017-02-19 21:30:00 +0800
 categories: [leetcode]
-tags:       [math]
+tags:       [Math]
 permalink:  /add-strings/
 ---
 

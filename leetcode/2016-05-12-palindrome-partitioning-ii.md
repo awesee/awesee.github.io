@@ -3,7 +3,7 @@ layout:     single
 title:      "分割回文串 II"
 date:       2016-05-12 21:30:00 +0800
 categories: [leetcode]
-tags:       [dynamic-programming]
+tags:       [Dynamic Programming]
 permalink:  /palindrome-partitioning-ii/
 ---
 

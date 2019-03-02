@@ -3,7 +3,7 @@ layout:     single
 title:      "平方数之和"
 date:       2017-09-25 21:30:00 +0800
 categories: [leetcode]
-tags:       [math]
+tags:       [Math]
 permalink:  /sum-of-square-numbers/
 ---
 

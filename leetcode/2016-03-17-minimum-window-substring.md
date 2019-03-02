@@ -3,7 +3,7 @@ layout:     single
 title:      "最小覆盖子串"
 date:       2016-03-17 21:30:00 +0800
 categories: [leetcode]
-tags:       [hash-table, two-pointers, string]
+tags:       [Hash Table, Two Pointers, String]
 permalink:  /minimum-window-substring/
 ---
 

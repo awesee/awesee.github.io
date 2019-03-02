@@ -3,7 +3,7 @@ layout:     single
 title:      "整数转罗马数字"
 date:       2016-01-13 21:30:00 +0800
 categories: [leetcode]
-tags:       [math, string]
+tags:       [Math, String]
 permalink:  /integer-to-roman/
 ---
 

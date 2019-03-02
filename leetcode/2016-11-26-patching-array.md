@@ -3,7 +3,7 @@ layout:     single
 title:      "按要求补齐数组"
 date:       2016-11-26 21:30:00 +0800
 categories: [leetcode]
-tags:       [greedy]
+tags:       [Greedy]
 permalink:  /patching-array/
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "实现strStr()"
 date:       2016-01-29 21:30:00 +0800
 categories: [leetcode]
-tags:       [two-pointers, string]
+tags:       [Two Pointers, String]
 permalink:  /implement-strstr/
 ---
 

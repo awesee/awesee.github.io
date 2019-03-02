@@ -3,7 +3,7 @@ layout:     single
 title:      "二叉搜索树中的众数"
 date:       2017-05-16 21:30:00 +0800
 categories: [leetcode]
-tags:       [tree]
+tags:       [Tree]
 permalink:  /find-mode-in-binary-search-tree/
 ---
 

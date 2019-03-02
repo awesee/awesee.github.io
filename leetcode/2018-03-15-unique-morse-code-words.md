@@ -3,7 +3,7 @@ layout:     single
 title:      "唯一摩尔斯密码词"
 date:       2018-03-15 21:30:00 +0800
 categories: [leetcode]
-tags:       [string]
+tags:       [String]
 permalink:  /unique-morse-code-words/
 ---
 

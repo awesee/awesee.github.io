@@ -3,7 +3,7 @@ layout:     single
 title:      "求根到叶子节点数字之和"
 date:       2016-05-09 21:30:00 +0800
 categories: [leetcode]
-tags:       [tree, depth-first-search]
+tags:       [Tree, Depth-first Search]
 permalink:  /sum-root-to-leaf-numbers/
 ---
 

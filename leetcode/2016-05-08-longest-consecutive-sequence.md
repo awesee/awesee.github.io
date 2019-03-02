@@ -3,7 +3,7 @@ layout:     single
 title:      "最长连续序列"
 date:       2016-05-08 21:30:00 +0800
 categories: [leetcode]
-tags:       [union-find, array]
+tags:       [Union Find, Array]
 permalink:  /longest-consecutive-sequence/
 ---
 

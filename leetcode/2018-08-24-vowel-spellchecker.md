@@ -3,7 +3,7 @@ layout:     single
 title:      "元音拼写检查器"
 date:       2018-08-24 21:30:00 +0800
 categories: [leetcode]
-tags:       [hash-table, string]
+tags:       [Hash Table, String]
 permalink:  /vowel-spellchecker/
 ---
 

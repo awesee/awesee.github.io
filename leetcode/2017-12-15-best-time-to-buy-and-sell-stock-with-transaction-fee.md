@@ -3,7 +3,7 @@ layout:     single
 title:      "买卖股票的最佳时机含手续费"
 date:       2017-12-15 21:30:00 +0800
 categories: [leetcode]
-tags:       [greedy, array, dynamic-programming]
+tags:       [Greedy, Array, Dynamic Programming]
 permalink:  /best-time-to-buy-and-sell-stock-with-transaction-fee/
 ---
 

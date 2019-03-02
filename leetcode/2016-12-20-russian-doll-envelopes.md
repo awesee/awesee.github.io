@@ -3,7 +3,7 @@ layout:     single
 title:      "俄罗斯套娃信封问题"
 date:       2016-12-20 21:30:00 +0800
 categories: [leetcode]
-tags:       [binary-search, dynamic-programming]
+tags:       [Binary Search, Dynamic Programming]
 permalink:  /russian-doll-envelopes/
 ---
 

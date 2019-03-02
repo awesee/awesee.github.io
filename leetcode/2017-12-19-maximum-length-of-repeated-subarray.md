@@ -3,7 +3,7 @@ layout:     single
 title:      "最长重复子数组"
 date:       2017-12-19 21:30:00 +0800
 categories: [leetcode]
-tags:       [array, hash-table, binary-search, dynamic-programming]
+tags:       [Array, Hash Table, Binary Search, Dynamic Programming]
 permalink:  /maximum-length-of-repeated-subarray/
 ---
 

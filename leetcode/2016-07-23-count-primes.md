@@ -3,7 +3,7 @@ layout:     single
 title:      "计数质数"
 date:       2016-07-23 21:30:00 +0800
 categories: [leetcode]
-tags:       [hash-table, math]
+tags:       [Hash Table, Math]
 permalink:  /count-primes/
 ---
 

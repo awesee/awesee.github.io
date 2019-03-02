@@ -3,7 +3,7 @@ layout:     single
 title:      "统计不同回文子字符串"
 date:       2017-12-31 21:30:00 +0800
 categories: [leetcode]
-tags:       [string, dynamic-programming]
+tags:       [String, Dynamic Programming]
 permalink:  /count-different-palindromic-subsequences/
 ---
 

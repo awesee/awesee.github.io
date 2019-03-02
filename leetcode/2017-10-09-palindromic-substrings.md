@@ -3,7 +3,7 @@ layout:     single
 title:      "回文子串"
 date:       2017-10-09 21:30:00 +0800
 categories: [leetcode]
-tags:       [string, dynamic-programming]
+tags:       [String, Dynamic Programming]
 permalink:  /palindromic-substrings/
 ---
 

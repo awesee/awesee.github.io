@@ -3,7 +3,7 @@ layout:     single
 title:      "区间列表的交集"
 date:       2018-09-13 21:30:00 +0800
 categories: [leetcode]
-tags:       [two-pointers]
+tags:       [Two Pointers]
 permalink:  /interval-list-intersections/
 ---
 

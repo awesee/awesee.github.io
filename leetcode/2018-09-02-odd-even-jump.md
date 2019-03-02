@@ -3,7 +3,7 @@ layout:     single
 title:      "奇偶跳"
 date:       2018-09-02 21:30:00 +0800
 categories: [leetcode]
-tags:       [stack, dynamic-programming]
+tags:       [Stack, Dynamic Programming]
 permalink:  /odd-even-jump/
 ---
 

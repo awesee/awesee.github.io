@@ -3,7 +3,7 @@ layout:     single
 title:      "重构字符串"
 date:       2018-02-06 21:30:00 +0800
 categories: [leetcode]
-tags:       [heap, greedy, sort, string]
+tags:       [Heap, Greedy, Sort, String]
 permalink:  /reorganize-string/
 ---
 

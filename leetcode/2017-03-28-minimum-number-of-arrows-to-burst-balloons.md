@@ -3,7 +3,7 @@ layout:     single
 title:      "用最少数量的箭引爆气球"
 date:       2017-03-28 21:30:00 +0800
 categories: [leetcode]
-tags:       [greedy]
+tags:       [Greedy]
 permalink:  /minimum-number-of-arrows-to-burst-balloons/
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "递增子序列"
 date:       2017-05-06 21:30:00 +0800
 categories: [leetcode]
-tags:       [depth-first-search]
+tags:       [Depth-first Search]
 permalink:  /increasing-subsequences/
 ---
 

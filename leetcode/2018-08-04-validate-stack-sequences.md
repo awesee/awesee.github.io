@@ -3,7 +3,7 @@ layout:     single
 title:      "验证栈序列"
 date:       2018-08-04 21:30:00 +0800
 categories: [leetcode]
-tags:       [stack]
+tags:       [Stack]
 permalink:  /validate-stack-sequences/
 ---
 

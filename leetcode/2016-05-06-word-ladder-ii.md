@@ -3,7 +3,7 @@ layout:     single
 title:      "单词接龙 II"
 date:       2016-05-06 21:30:00 +0800
 categories: [leetcode]
-tags:       [breadth-first-search, array, string, backtracking]
+tags:       [Breadth-first Search, Array, String, Backtracking]
 permalink:  /word-ladder-ii/
 ---
 

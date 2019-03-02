@@ -3,7 +3,7 @@ layout:     single
 title:      "找树左下角的值"
 date:       2017-05-28 21:30:00 +0800
 categories: [leetcode]
-tags:       [tree, depth-first-search, breadth-first-search]
+tags:       [Tree, Depth-first Search, Breadth-first Search]
 permalink:  /find-bottom-left-tree-value/
 ---
 

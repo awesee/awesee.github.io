@@ -3,7 +3,7 @@ layout:     single
 title:      "区间和的个数"
 date:       2016-11-23 21:30:00 +0800
 categories: [leetcode]
-tags:       [binary-search-tree, divide-and-conquer]
+tags:       [Binary Search Tree, Divide and Conquer]
 permalink:  /count-of-range-sum/
 ---
 

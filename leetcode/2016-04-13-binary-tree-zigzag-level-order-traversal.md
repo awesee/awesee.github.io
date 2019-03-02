@@ -3,7 +3,7 @@ layout:     single
 title:      "二叉树的锯齿形层次遍历"
 date:       2016-04-13 21:30:00 +0800
 categories: [leetcode]
-tags:       [stack, tree, breadth-first-search]
+tags:       [Stack, Tree, Breadth-first Search]
 permalink:  /binary-tree-zigzag-level-order-traversal/
 ---
 

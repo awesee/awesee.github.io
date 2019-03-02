@@ -3,7 +3,7 @@ layout:     single
 title:      "岛屿的个数"
 date:       2016-07-19 21:30:00 +0800
 categories: [leetcode]
-tags:       [depth-first-search, breadth-first-search, union-find]
+tags:       [Depth-first Search, Breadth-first Search, Union Find]
 permalink:  /number-of-islands/
 ---
 

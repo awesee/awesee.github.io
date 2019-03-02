@@ -3,7 +3,7 @@ layout:     single
 title:      "具有所有最深结点的最小子树"
 date:       2018-05-15 21:30:00 +0800
 categories: [leetcode]
-tags:       [tree]
+tags:       [Tree]
 permalink:  /smallest-subtree-with-all-the-deepest-nodes/
 ---
 

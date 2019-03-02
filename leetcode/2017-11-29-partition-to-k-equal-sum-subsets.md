@@ -3,7 +3,7 @@ layout:     single
 title:      "划分为k个相等的子集"
 date:       2017-11-29 21:30:00 +0800
 categories: [leetcode]
-tags:       [recursion, dynamic-programming]
+tags:       [Recursion, Dynamic Programming]
 permalink:  /partition-to-k-equal-sum-subsets/
 ---
 

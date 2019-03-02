@@ -3,7 +3,7 @@ layout:     single
 title:      "二叉树的中序遍历"
 date:       2016-04-04 21:30:00 +0800
 categories: [leetcode]
-tags:       [stack, tree, hash-table]
+tags:       [Stack, Tree, Hash Table]
 permalink:  /binary-tree-inorder-traversal/
 ---
 

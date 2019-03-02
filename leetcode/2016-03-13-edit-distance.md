@@ -3,7 +3,7 @@ layout:     single
 title:      "编辑距离"
 date:       2016-03-13 21:30:00 +0800
 categories: [leetcode]
-tags:       [string, dynamic-programming]
+tags:       [String, Dynamic Programming]
 permalink:  /edit-distance/
 ---
 

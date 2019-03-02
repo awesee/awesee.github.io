@@ -3,7 +3,7 @@ layout:     single
 title:      "一和零"
 date:       2017-04-19 21:30:00 +0800
 categories: [leetcode]
-tags:       [dynamic-programming]
+tags:       [Dynamic Programming]
 permalink:  /ones-and-zeroes/
 ---
 

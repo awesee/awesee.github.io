@@ -3,7 +3,7 @@ layout:     single
 title:      "下降路径最小和"
 date:       2018-07-20 21:30:00 +0800
 categories: [leetcode]
-tags:       [dynamic-programming]
+tags:       [Dynamic Programming]
 permalink:  /minimum-falling-path-sum/
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "三角形的最大周长"
 date:       2018-09-03 21:30:00 +0800
 categories: [leetcode]
-tags:       [array, math]
+tags:       [Array, Math]
 permalink:  /largest-perimeter-triangle/
 ---
 

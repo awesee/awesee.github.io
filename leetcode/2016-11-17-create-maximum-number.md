@@ -3,7 +3,7 @@ layout:     single
 title:      "拼接最大数"
 date:       2016-11-17 21:30:00 +0800
 categories: [leetcode]
-tags:       [greedy, dynamic-programming]
+tags:       [Greedy, Dynamic Programming]
 permalink:  /create-maximum-number/
 ---
 

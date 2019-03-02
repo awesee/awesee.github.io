@@ -3,7 +3,7 @@ layout:     single
 title:      "岛屿的周长"
 date:       2017-04-08 21:30:00 +0800
 categories: [leetcode]
-tags:       [hash-table]
+tags:       [Hash Table]
 permalink:  /island-perimeter/
 ---
 

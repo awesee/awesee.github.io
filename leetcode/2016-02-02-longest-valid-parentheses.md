@@ -3,7 +3,7 @@ layout:     single
 title:      "最长有效括号"
 date:       2016-02-02 21:30:00 +0800
 categories: [leetcode]
-tags:       [string, dynamic-programming]
+tags:       [String, Dynamic Programming]
 permalink:  /longest-valid-parentheses/
 ---
 

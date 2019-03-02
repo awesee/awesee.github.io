@@ -3,7 +3,7 @@ layout:     single
 title:      "最小高度树"
 date:       2016-11-06 21:30:00 +0800
 categories: [leetcode]
-tags:       [breadth-first-search, graph]
+tags:       [Breadth-first Search, Graph]
 permalink:  /minimum-height-trees/
 ---
 

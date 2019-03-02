@@ -3,7 +3,7 @@ layout:     single
 title:      "在排序数组中查找元素的第一个和最后一个位置"
 date:       2016-02-04 21:30:00 +0800
 categories: [leetcode]
-tags:       [array, binary-search]
+tags:       [Array, Binary Search]
 permalink:  /find-first-and-last-position-of-element-in-sorted-array/
 ---
 

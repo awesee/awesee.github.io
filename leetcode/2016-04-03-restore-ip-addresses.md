@@ -3,7 +3,7 @@ layout:     single
 title:      "复原IP地址"
 date:       2016-04-03 21:30:00 +0800
 categories: [leetcode]
-tags:       [string, backtracking]
+tags:       [String, Backtracking]
 permalink:  /restore-ip-addresses/
 ---
 

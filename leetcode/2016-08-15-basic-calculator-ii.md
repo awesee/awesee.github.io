@@ -3,7 +3,7 @@ layout:     single
 title:      "基本计算器 II"
 date:       2016-08-15 21:30:00 +0800
 categories: [leetcode]
-tags:       [string]
+tags:       [String]
 permalink:  /basic-calculator-ii/
 ---
 

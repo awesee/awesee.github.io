@@ -3,7 +3,7 @@ layout:     single
 title:      "乘积小于K的子数组"
 date:       2017-12-14 21:30:00 +0800
 categories: [leetcode]
-tags:       [array, two-pointers]
+tags:       [Array, Two Pointers]
 permalink:  /subarray-product-less-than-k/
 ---
 

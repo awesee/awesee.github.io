@@ -3,7 +3,7 @@ layout:     single
 title:      "重复 N 次的元素"
 date:       2018-08-19 21:30:00 +0800
 categories: [leetcode]
-tags:       [hash-table]
+tags:       [Hash Table]
 permalink:  /n-repeated-element-in-size-2n-array/
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "存在重复元素 III"
 date:       2016-08-08 21:30:00 +0800
 categories: [leetcode]
-tags:       [binary-search-tree]
+tags:       [Binary Search Tree]
 permalink:  /contains-duplicate-iii/
 ---
 

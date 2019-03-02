@@ -3,7 +3,7 @@ layout:     single
 title:      "只有两个键的键盘"
 date:       2017-10-12 21:30:00 +0800
 categories: [leetcode]
-tags:       [dynamic-programming]
+tags:       [Dynamic Programming]
 permalink:  /2-keys-keyboard/
 ---
 

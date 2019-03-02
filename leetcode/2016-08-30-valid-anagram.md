@@ -3,7 +3,7 @@ layout:     single
 title:      "有效的字母异位词"
 date:       2016-08-30 21:30:00 +0800
 categories: [leetcode]
-tags:       [sort, hash-table]
+tags:       [Sort, Hash Table]
 permalink:  /valid-anagram/
 ---
 

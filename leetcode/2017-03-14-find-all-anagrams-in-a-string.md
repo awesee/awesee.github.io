@@ -3,7 +3,7 @@ layout:     single
 title:      "找到字符串中所有字母异位词"
 date:       2017-03-14 21:30:00 +0800
 categories: [leetcode]
-tags:       [hash-table]
+tags:       [Hash Table]
 permalink:  /find-all-anagrams-in-a-string/
 ---
 

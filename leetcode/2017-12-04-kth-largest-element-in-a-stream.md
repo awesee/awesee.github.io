@@ -3,7 +3,7 @@ layout:     single
 title:      "数据流中的第K大元素"
 date:       2017-12-04 21:30:00 +0800
 categories: [leetcode]
-tags:       [heap]
+tags:       [Heap]
 permalink:  /kth-largest-element-in-a-stream/
 ---
 

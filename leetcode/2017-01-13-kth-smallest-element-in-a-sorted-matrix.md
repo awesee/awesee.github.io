@@ -3,7 +3,7 @@ layout:     single
 title:      "有序矩阵中第K小的元素"
 date:       2017-01-13 21:30:00 +0800
 categories: [leetcode]
-tags:       [heap, binary-search]
+tags:       [Heap, Binary Search]
 permalink:  /kth-smallest-element-in-a-sorted-matrix/
 ---
 

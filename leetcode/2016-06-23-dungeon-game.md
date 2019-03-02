@@ -3,7 +3,7 @@ layout:     single
 title:      "地下城游戏"
 date:       2016-06-23 21:30:00 +0800
 categories: [leetcode]
-tags:       [binary-search, dynamic-programming]
+tags:       [Binary Search, Dynamic Programming]
 permalink:  /dungeon-game/
 ---
 

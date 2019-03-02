@@ -3,7 +3,7 @@ layout:     single
 title:      "分割回文串"
 date:       2016-05-11 21:30:00 +0800
 categories: [leetcode]
-tags:       [backtracking]
+tags:       [Backtracking]
 permalink:  /palindrome-partitioning/
 ---
 

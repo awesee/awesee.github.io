@@ -3,7 +3,7 @@ layout:     single
 title:      "路径总和 III"
 date:       2017-03-13 21:30:00 +0800
 categories: [leetcode]
-tags:       [tree]
+tags:       [Tree]
 permalink:  /path-sum-iii/
 ---
 

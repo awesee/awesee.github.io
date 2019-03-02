@@ -3,7 +3,7 @@ layout:     single
 title:      "数字的补数"
 date:       2017-04-21 21:30:00 +0800
 categories: [leetcode]
-tags:       [bit-manipulation]
+tags:       [Bit Manipulation]
 permalink:  /number-complement/
 ---
 

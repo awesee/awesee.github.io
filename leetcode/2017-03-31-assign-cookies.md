@@ -3,7 +3,7 @@ layout:     single
 title:      "分发饼干"
 date:       2017-03-31 21:30:00 +0800
 categories: [leetcode]
-tags:       [greedy]
+tags:       [Greedy]
 permalink:  /assign-cookies/
 ---
 

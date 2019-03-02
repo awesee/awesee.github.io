@@ -3,7 +3,7 @@ layout:     single
 title:      "两两交换链表中的节点"
 date:       2016-01-25 21:30:00 +0800
 categories: [leetcode]
-tags:       [linked-list]
+tags:       [Linked List]
 permalink:  /swap-nodes-in-pairs/
 ---
 

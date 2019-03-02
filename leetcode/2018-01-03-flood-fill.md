@@ -3,7 +3,7 @@ layout:     single
 title:      "图像渲染"
 date:       2018-01-03 21:30:00 +0800
 categories: [leetcode]
-tags:       [depth-first-search]
+tags:       [Depth-first Search]
 permalink:  /flood-fill/
 ---
 

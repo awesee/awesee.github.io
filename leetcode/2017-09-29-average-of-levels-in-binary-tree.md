@@ -3,7 +3,7 @@ layout:     single
 title:      "二叉树的层平均值"
 date:       2017-09-29 21:30:00 +0800
 categories: [leetcode]
-tags:       [tree]
+tags:       [Tree]
 permalink:  /average-of-levels-in-binary-tree/
 ---
 

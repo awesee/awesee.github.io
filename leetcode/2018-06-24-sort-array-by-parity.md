@@ -3,7 +3,7 @@ layout:     single
 title:      "按奇偶排序数组"
 date:       2018-06-24 21:30:00 +0800
 categories: [leetcode]
-tags:       [array]
+tags:       [Array]
 permalink:  /sort-array-by-parity/
 ---
 

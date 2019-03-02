@@ -3,7 +3,7 @@ layout:     single
 title:      "最小路径和"
 date:       2016-03-05 21:30:00 +0800
 categories: [leetcode]
-tags:       [array, dynamic-programming]
+tags:       [Array, Dynamic Programming]
 permalink:  /minimum-path-sum/
 ---
 

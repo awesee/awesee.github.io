@@ -3,7 +3,7 @@ layout:     single
 title:      "使用最小花费爬楼梯"
 date:       2018-01-16 21:30:00 +0800
 categories: [leetcode]
-tags:       [array, dynamic-programming]
+tags:       [Array, Dynamic Programming]
 permalink:  /min-cost-climbing-stairs/
 ---
 

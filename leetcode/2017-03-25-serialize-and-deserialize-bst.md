@@ -3,7 +3,7 @@ layout:     single
 title:      "序列化和反序列化二叉搜索树"
 date:       2017-03-25 21:30:00 +0800
 categories: [leetcode]
-tags:       [tree]
+tags:       [Tree]
 permalink:  /serialize-and-deserialize-bst/
 ---
 

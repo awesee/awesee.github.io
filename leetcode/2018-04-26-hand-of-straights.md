@@ -3,7 +3,7 @@ layout:     single
 title:      "一手顺子"
 date:       2018-04-26 21:30:00 +0800
 categories: [leetcode]
-tags:       [map]
+tags:       [Map]
 permalink:  /hand-of-straights/
 ---
 

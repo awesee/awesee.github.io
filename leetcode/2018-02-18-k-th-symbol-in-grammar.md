@@ -3,7 +3,7 @@ layout:     single
 title:      "第K个语法符号"
 date:       2018-02-18 21:30:00 +0800
 categories: [leetcode]
-tags:       [recursion]
+tags:       [Recursion]
 permalink:  /k-th-symbol-in-grammar/
 ---
 

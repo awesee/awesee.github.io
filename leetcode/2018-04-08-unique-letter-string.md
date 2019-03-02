@@ -3,7 +3,7 @@ layout:     single
 title:      "独特字符串"
 date:       2018-04-08 21:30:00 +0800
 categories: [leetcode]
-tags:       [two-pointers]
+tags:       [Two Pointers]
 permalink:  /unique-letter-string/
 ---
 

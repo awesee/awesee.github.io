@@ -3,7 +3,7 @@ layout:     single
 title:      "最长同值路径"
 date:       2017-11-18 21:30:00 +0800
 categories: [leetcode]
-tags:       [tree, recursion]
+tags:       [Tree, Recursion]
 permalink:  /longest-univalue-path/
 ---
 

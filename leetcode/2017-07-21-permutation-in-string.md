@@ -3,7 +3,7 @@ layout:     single
 title:      "字符串的排列"
 date:       2017-07-21 21:30:00 +0800
 categories: [leetcode]
-tags:       [two-pointers]
+tags:       [Two Pointers]
 permalink:  /permutation-in-string/
 ---
 

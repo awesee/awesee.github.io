@@ -3,7 +3,7 @@ layout:     single
 title:      "二叉搜索树的最小绝对差"
 date:       2017-06-14 21:30:00 +0800
 categories: [leetcode]
-tags:       [binary-search-tree]
+tags:       [Binary Search Tree]
 permalink:  /minimum-absolute-difference-in-bst/
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "单词接龙"
 date:       2016-05-07 21:30:00 +0800
 categories: [leetcode]
-tags:       [breadth-first-search]
+tags:       [Breadth-first Search]
 permalink:  /word-ladder/
 ---
 

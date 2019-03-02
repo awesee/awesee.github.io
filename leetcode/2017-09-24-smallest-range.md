@@ -3,7 +3,7 @@ layout:     single
 title:      "最小区间"
 date:       2017-09-24 21:30:00 +0800
 categories: [leetcode]
-tags:       [hash-table, two-pointers, string]
+tags:       [Hash Table, Two Pointers, String]
 permalink:  /smallest-range/
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "自除数"
 date:       2017-12-29 21:30:00 +0800
 categories: [leetcode]
-tags:       [math]
+tags:       [Math]
 permalink:  /self-dividing-numbers/
 ---
 

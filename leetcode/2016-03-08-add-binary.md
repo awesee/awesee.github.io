@@ -3,7 +3,7 @@ layout:     single
 title:      "二进制求和"
 date:       2016-03-08 21:30:00 +0800
 categories: [leetcode]
-tags:       [math, string]
+tags:       [Math, String]
 permalink:  /add-binary/
 ---
 

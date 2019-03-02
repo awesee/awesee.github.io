@@ -3,7 +3,7 @@ layout:     single
 title:      "分隔链表"
 date:       2017-12-26 21:30:00 +0800
 categories: [leetcode]
-tags:       [linked-list]
+tags:       [Linked List]
 permalink:  /split-linked-list-in-parts/
 ---
 

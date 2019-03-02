@@ -3,7 +3,7 @@ layout:     single
 title:      "有效数字"
 date:       2016-03-06 21:30:00 +0800
 categories: [leetcode]
-tags:       [math, string]
+tags:       [Math, String]
 permalink:  /valid-number/
 ---
 

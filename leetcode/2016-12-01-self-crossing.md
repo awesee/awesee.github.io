@@ -3,7 +3,7 @@ layout:     single
 title:      "路径交叉"
 date:       2016-12-01 21:30:00 +0800
 categories: [leetcode]
-tags:       [math]
+tags:       [Math]
 permalink:  /self-crossing/
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "我的日程安排表 II"
 date:       2018-01-01 21:30:00 +0800
 categories: [leetcode]
-tags:       [binary-search-tree, array]
+tags:       [Binary Search Tree, Array]
 permalink:  /my-calendar-ii/
 ---
 

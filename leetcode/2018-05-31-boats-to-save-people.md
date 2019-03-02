@@ -3,7 +3,7 @@ layout:     single
 title:      "救生艇"
 date:       2018-05-31 21:30:00 +0800
 categories: [leetcode]
-tags:       [greedy, two-pointers]
+tags:       [Greedy, Two Pointers]
 permalink:  /boats-to-save-people/
 ---
 

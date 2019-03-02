@@ -3,7 +3,7 @@ layout:     single
 title:      "扰乱字符串"
 date:       2016-03-28 21:30:00 +0800
 categories: [leetcode]
-tags:       [string, dynamic-programming]
+tags:       [String, Dynamic Programming]
 permalink:  /scramble-string/
 ---
 

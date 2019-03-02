@@ -3,7 +3,7 @@ layout:     single
 title:      "1比特与2比特字符"
 date:       2017-12-18 21:30:00 +0800
 categories: [leetcode]
-tags:       [array]
+tags:       [Array]
 permalink:  /1-bit-and-2-bit-characters/
 ---
 

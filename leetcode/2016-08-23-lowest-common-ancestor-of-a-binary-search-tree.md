@@ -3,7 +3,7 @@ layout:     single
 title:      "二叉搜索树的最近公共祖先"
 date:       2016-08-23 21:30:00 +0800
 categories: [leetcode]
-tags:       [tree]
+tags:       [Tree]
 permalink:  /lowest-common-ancestor-of-a-binary-search-tree/
 ---
 

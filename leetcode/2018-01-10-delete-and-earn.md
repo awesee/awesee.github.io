@@ -3,7 +3,7 @@ layout:     single
 title:      "删除与获得点数"
 date:       2018-01-10 21:30:00 +0800
 categories: [leetcode]
-tags:       [dynamic-programming]
+tags:       [Dynamic Programming]
 permalink:  /delete-and-earn/
 ---
 

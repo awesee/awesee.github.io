@@ -3,7 +3,7 @@ layout:     single
 title:      "整数替换"
 date:       2017-02-01 21:30:00 +0800
 categories: [leetcode]
-tags:       [bit-manipulation, math]
+tags:       [Bit Manipulation, Math]
 permalink:  /integer-replacement/
 ---
 

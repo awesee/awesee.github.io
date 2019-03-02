@@ -3,7 +3,7 @@ layout:     single
 title:      "单值二叉树"
 date:       2018-08-23 21:30:00 +0800
 categories: [leetcode]
-tags:       [tree]
+tags:       [Tree]
 permalink:  /univalued-binary-tree/
 ---
 

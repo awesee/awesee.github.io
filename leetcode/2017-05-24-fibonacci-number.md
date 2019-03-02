@@ -3,7 +3,7 @@ layout:     single
 title:      "斐波那契数"
 date:       2017-05-24 21:30:00 +0800
 categories: [leetcode]
-tags:       [array]
+tags:       [Array]
 permalink:  /fibonacci-number/
 ---
 

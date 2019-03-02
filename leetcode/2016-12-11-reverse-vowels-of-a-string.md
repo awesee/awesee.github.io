@@ -3,7 +3,7 @@ layout:     single
 title:      "反转字符串中的元音字母"
 date:       2016-12-11 21:30:00 +0800
 categories: [leetcode]
-tags:       [two-pointers, string]
+tags:       [Two Pointers, String]
 permalink:  /reverse-vowels-of-a-string/
 ---
 

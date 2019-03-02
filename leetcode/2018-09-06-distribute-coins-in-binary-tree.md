@@ -3,7 +3,7 @@ layout:     single
 title:      "在二叉树中分配硬币"
 date:       2018-09-06 21:30:00 +0800
 categories: [leetcode]
-tags:       [tree, depth-first-search]
+tags:       [Tree, Depth-first Search]
 permalink:  /distribute-coins-in-binary-tree/
 ---
 

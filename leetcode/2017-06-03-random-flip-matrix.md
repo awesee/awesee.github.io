@@ -3,7 +3,7 @@ layout:     single
 title:      "随机翻转矩阵"
 date:       2017-06-03 21:30:00 +0800
 categories: [leetcode]
-tags:       [random]
+tags:       [Random]
 permalink:  /random-flip-matrix/
 ---
 

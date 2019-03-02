@@ -3,7 +3,7 @@ layout:     single
 title:      "二叉树的序列化与反序列化"
 date:       2016-10-24 21:30:00 +0800
 categories: [leetcode]
-tags:       [tree, design]
+tags:       [Tree, Design]
 permalink:  /serialize-and-deserialize-binary-tree/
 ---
 
