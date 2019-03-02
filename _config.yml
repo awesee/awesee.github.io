@@ -301,6 +301,14 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # leetcode
+  - scope:
+        path: "leetcode"
+        type: leetcode
+      values:
+        layout: single
+        author_profile: true
+
 
 footer_scripts:
   - "/assets/js/main.min.js"
