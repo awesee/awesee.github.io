@@ -1,6 +1,6 @@
 ---
-title: Array
+title: "数组"
 layout: tag
 permalink: /tags/array/
-taxonomy: array
+taxonomy: Array
 ---
