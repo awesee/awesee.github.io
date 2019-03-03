@@ -310,3 +310,4 @@ defaults:
 footer_scripts:
   - "/assets/js/main.min.js"
   - "/assets/js/fontawesome/5.7.1/all.js"
+  - "/assets/js/global.js"
