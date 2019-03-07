@@ -11,11 +11,11 @@ permalink:  /magic-squares-in-grid/
 
 <p>3 x 3 的幻方是一个填充有<strong>从 1 到 9</strong> 的不同数字的 3 x 3 矩阵，其中每行，每列以及两条对角线上的各数之和都相等。</p>
 
-<p>给定一个由整数组成的 N &times; N 矩阵，其中有多少个 3 &times; 3 的 &ldquo;幻方&rdquo; 子矩阵？（每个子矩阵都是连续的）。</p>
+<p>给定一个由整数组成的 <code>grid</code>，其中有多少个 3 &times; 3 的 &ldquo;幻方&rdquo; 子矩阵？（每个子矩阵都是连续的）。</p>
 
 <p>&nbsp;</p>
 
-<p><strong>示例 1:</strong></p>
+<p><strong>示例：</strong></p>
 
 <pre><strong>输入: </strong>[[4,3,8,4],
       [9,5,1,9],
@@ -38,7 +38,8 @@ permalink:  /magic-squares-in-grid/
 <p><strong>提示:</strong></p>
 
 <ol>
-	<li><code>1 &lt;= grid.length = grid[0].length&nbsp;&lt;= 10</code></li>
+	<li><code>1 &lt;= grid.length&nbsp;&lt;= 10</code></li>
+	<li><code>1 &lt;= grid[0].length&nbsp;&lt;= 10</code></li>
 	<li><code>0 &lt;= grid[i][j] &lt;= 15</code></li>
 </ol>
 
