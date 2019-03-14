@@ -11,6 +11,7 @@ Yum默认源搜索MySQL，查找到的结果是mariadb，它是MySQL的一个分
 
 ## 下载安装MySQL官方的Yum Repository
 根据Linux发行版本（CentOS、Fedora都属于红帽系），从[MySQL官方](http://dev.mysql.com/downloads/repo/yum/)获取Yum Repository。
+
 [Yum Repository](https://repo.mysql.com/) 
 
 ```bash
