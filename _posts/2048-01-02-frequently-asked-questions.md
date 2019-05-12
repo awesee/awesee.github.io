@@ -1,10 +1,14 @@
 ---
 layout: single
 title:  "常见问题解答"
-date:   2080-01-01 21:30:00 +0800
+date:   2048-01-02 15:04:05 +0800
 categories: [Guide]
 tags: [Guide]
 ---
+
+## 计算机常见术语及缩写
+
+  [Abbreviations](/guide-abbreviations)
 
 ## What does el5, el6, and el7 mean?
 
