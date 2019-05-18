@@ -2,7 +2,7 @@
 layout:     single
 title:      "翻转二叉树"
 date:       2016-08-14 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Tree]
 permalink:  /invert-binary-tree/
 ---

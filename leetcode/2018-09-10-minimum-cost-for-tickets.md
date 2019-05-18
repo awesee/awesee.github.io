@@ -2,7 +2,7 @@
 layout:     single
 title:      "最低票价"
 date:       2018-09-10 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Dynamic Programming]
 permalink:  /minimum-cost-for-tickets/
 ---
@@ -62,6 +62,9 @@ permalink:  /minimum-cost-for-tickets/
 
 ### 相关话题
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+
+### 相似题目
+  1. [零钱兑换](/coin-change) (Medium)
 
 ---
 

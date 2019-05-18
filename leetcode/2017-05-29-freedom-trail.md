@@ -2,7 +2,7 @@
 layout:     single
 title:      "自由之路"
 date:       2017-05-29 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Depth-first Search, Divide and Conquer, Dynamic Programming]
 permalink:  /freedom-trail/
 ---

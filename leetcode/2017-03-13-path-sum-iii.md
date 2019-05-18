@@ -2,7 +2,7 @@
 layout:     single
 title:      "路径总和 III"
 date:       2017-03-13 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Tree]
 permalink:  /path-sum-iii/
 ---
@@ -42,7 +42,7 @@ permalink:  /path-sum-iii/
 ### 相似题目
   1. [路径总和](/path-sum) (Easy)
   1. [路径总和 II](/path-sum-ii) (Medium)
-  1. [Path Sum IV](/path-sum-iv) (Medium)
+  1. [路径和 IV](/path-sum-iv) (Medium)
   1. [最长同值路径](/longest-univalue-path) (Easy)
 
 ---

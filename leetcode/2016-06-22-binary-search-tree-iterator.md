@@ -2,7 +2,7 @@
 layout:     single
 title:      "二叉搜索树迭代器"
 date:       2016-06-22 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Stack, Tree, Design]
 permalink:  /binary-search-tree-iterator/
 ---
@@ -46,10 +46,10 @@ iterator.hasNext(); // 返回 false</pre>
 
 ### 相似题目
   1. [二叉树的中序遍历](/binary-tree-inorder-traversal) (Medium)
-  1. [Flatten 2D Vector](/flatten-2d-vector) (Medium)
-  1. [Zigzag Iterator](/zigzag-iterator) (Medium)
+  1. [展开二维向量](/flatten-2d-vector) (Medium)
+  1. [锯齿迭代器](/zigzag-iterator) (Medium)
   1. [顶端迭代器](/peeking-iterator) (Medium)
-  1. [Inorder Successor in BST](/inorder-successor-in-bst) (Medium)
+  1. [二叉搜索树中的顺序后继](/inorder-successor-in-bst) (Medium)
 
 ---
 

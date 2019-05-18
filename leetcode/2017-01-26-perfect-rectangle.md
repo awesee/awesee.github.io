@@ -2,8 +2,8 @@
 layout:     single
 title:      "完美矩形"
 date:       2017-01-26 21:30:00 +0800
-categories: [leetcode]
-tags:       []
+categories: [Leetcode]
+tags:       [Line Sweep]
 permalink:  /perfect-rectangle/
 ---
 
@@ -75,6 +75,9 @@ permalink:  /perfect-rectangle/
 
 返回 false。因为中间有相交区域，虽然形成了矩形，但不是精确覆盖。
 </pre>
+
+### 相关话题
+  [[Line Sweep](https://github.com/openset/leetcode/tree/master/tag/line-sweep/README.md)]
 
 ---
 

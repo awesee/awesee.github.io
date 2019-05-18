@@ -2,7 +2,7 @@
 layout:     single
 title:      "原子的数量"
 date:       2017-12-27 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Stack, Recursion, Hash Table]
 permalink:  /number-of-atoms/
 ---
@@ -66,7 +66,7 @@ formula = &quot;K4(ON(SO3)2)2&quot;
 
 ### 相似题目
   1. [字符串解码](/decode-string) (Medium)
-  1. [Encode String with Shortest Length](/encode-string-with-shortest-length) (Hard)
+  1. [编码最短长度的字符串](/encode-string-with-shortest-length) (Hard)
   1. [Lisp 语法解析](/parse-lisp-expression) (Hard)
 
 ---

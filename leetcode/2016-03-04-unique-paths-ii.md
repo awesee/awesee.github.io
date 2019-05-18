@@ -2,7 +2,7 @@
 layout:     single
 title:      "不同路径 II"
 date:       2016-03-04 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Array, Dynamic Programming]
 permalink:  /unique-paths-ii/
 ---
@@ -43,6 +43,7 @@ permalink:  /unique-paths-ii/
 
 ### 相似题目
   1. [不同路径](/unique-paths) (Medium)
+  1. [不同路径 III](/unique-paths-iii) (Hard)
 
 ---
 

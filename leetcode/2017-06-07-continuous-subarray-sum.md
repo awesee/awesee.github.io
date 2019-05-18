@@ -2,7 +2,7 @@
 layout:     single
 title:      "连续的子数组和"
 date:       2017-06-07 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Math, Dynamic Programming]
 permalink:  /continuous-subarray-sum/
 ---

@@ -2,7 +2,7 @@
 layout:     single
 title:      "回旋镖的数量"
 date:       2017-03-23 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Hash Table]
 permalink:  /number-of-boomerangs/
 ---
@@ -30,7 +30,7 @@ permalink:  /number-of-boomerangs/
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
 
 ### 相似题目
-  1. [Line Reflection](/line-reflection) (Medium)
+  1. [直线镜像](/line-reflection) (Medium)
 
 ---
 

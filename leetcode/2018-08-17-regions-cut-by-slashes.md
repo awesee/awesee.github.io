@@ -2,7 +2,7 @@
 layout:     single
 title:      "由斜杠划分区域"
 date:       2018-08-17 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Depth-first Search, Union Find, Graph]
 permalink:  /regions-cut-by-slashes/
 ---

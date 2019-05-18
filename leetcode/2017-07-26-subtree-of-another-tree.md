@@ -2,7 +2,7 @@
 layout:     single
 title:      "另一个树的子树"
 date:       2017-07-26 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Tree]
 permalink:  /subtree-of-another-tree/
 ---
@@ -59,7 +59,7 @@ permalink:  /subtree-of-another-tree/
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
 
 ### 相似题目
-  1. [Count Univalue Subtrees](/count-univalue-subtrees) (Medium)
+  1. [统计同值子树](/count-univalue-subtrees) (Medium)
   1. [出现次数最多的子树元素和](/most-frequent-subtree-sum) (Medium)
 
 ---

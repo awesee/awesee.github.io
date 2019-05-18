@@ -2,7 +2,7 @@
 layout:     single
 title:      "自定义字符串排序"
 date:       2018-03-02 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [String]
 permalink:  /custom-sort-string/
 ---

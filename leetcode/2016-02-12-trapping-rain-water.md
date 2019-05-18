@@ -2,7 +2,7 @@
 layout:     single
 title:      "接雨水"
 date:       2016-02-12 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Stack, Array, Two Pointers]
 permalink:  /trapping-rain-water/
 ---
@@ -29,7 +29,7 @@ permalink:  /trapping-rain-water/
   1. [盛最多水的容器](/container-with-most-water) (Medium)
   1. [除自身以外数组的乘积](/product-of-array-except-self) (Medium)
   1. [接雨水 II](/trapping-rain-water-ii) (Hard)
-  1. [Pour Water](/pour-water) (Medium)
+  1. [倒水](/pour-water) (Medium)
 
 ---
 

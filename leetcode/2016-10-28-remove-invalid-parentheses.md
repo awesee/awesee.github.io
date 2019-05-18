@@ -2,7 +2,7 @@
 layout:     single
 title:      "删除无效的括号"
 date:       2016-10-28 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Depth-first Search, Breadth-first Search]
 permalink:  /remove-invalid-parentheses/
 ---

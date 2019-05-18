@@ -2,7 +2,7 @@
 layout:     single
 title:      "阶乘函数后K个零"
 date:       2018-03-04 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Binary Search]
 permalink:  /preimage-size-of-factorial-zeroes-function/
 ---

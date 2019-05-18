@@ -2,7 +2,7 @@
 layout:     single
 title:      "柱状图中最大的矩形"
 date:       2016-03-25 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Stack, Array]
 permalink:  /largest-rectangle-in-histogram/
 ---

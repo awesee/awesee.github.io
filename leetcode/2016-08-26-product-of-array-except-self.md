@@ -2,7 +2,7 @@
 layout:     single
 title:      "除自身以外数组的乘积"
 date:       2016-08-26 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Array]
 permalink:  /product-of-array-except-self/
 ---
@@ -27,7 +27,7 @@ permalink:  /product-of-array-except-self/
 ### 相似题目
   1. [接雨水](/trapping-rain-water) (Hard)
   1. [乘积最大子序列](/maximum-product-subarray) (Medium)
-  1. [Paint House II](/paint-house-ii) (Hard)
+  1. [粉刷房子 II](/paint-house-ii) (Hard)
 
 ---
 

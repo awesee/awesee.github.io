@@ -2,7 +2,7 @@
 layout:     single
 title:      "最长递增子序列的个数"
 date:       2017-11-04 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Dynamic Programming]
 permalink:  /number-of-longest-increasing-subsequence/
 ---

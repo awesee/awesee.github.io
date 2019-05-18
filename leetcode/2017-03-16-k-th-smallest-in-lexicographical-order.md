@@ -2,7 +2,7 @@
 layout:     single
 title:      "字典序的第K小数字"
 date:       2017-03-16 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       []
 permalink:  /k-th-smallest-in-lexicographical-order/
 ---

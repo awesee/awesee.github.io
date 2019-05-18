@@ -2,7 +2,7 @@
 layout:     single
 title:      "有效的字母异位词"
 date:       2016-08-30 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Sort, Hash Table]
 permalink:  /valid-anagram/
 ---
@@ -34,7 +34,7 @@ permalink:  /valid-anagram/
 
 ### 相似题目
   1. [字母异位词分组](/group-anagrams) (Medium)
-  1. [Palindrome Permutation](/palindrome-permutation) (Easy)
+  1. [回文排列](/palindrome-permutation) (Easy)
   1. [找到字符串中所有字母异位词](/find-all-anagrams-in-a-string) (Easy)
 
 ---

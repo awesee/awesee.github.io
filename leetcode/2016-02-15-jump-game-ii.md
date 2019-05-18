@@ -2,7 +2,7 @@
 layout:     single
 title:      "跳跃游戏 II"
 date:       2016-02-15 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Greedy, Array]
 permalink:  /jump-game-ii/
 ---

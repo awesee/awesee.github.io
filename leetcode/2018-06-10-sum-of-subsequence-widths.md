@@ -2,7 +2,7 @@
 layout:     single
 title:      "子序列宽度之和"
 date:       2018-06-10 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Array, Math]
 permalink:  /sum-of-subsequence-widths/
 ---

@@ -2,7 +2,7 @@
 layout:     single
 title:      "通配符匹配"
 date:       2016-02-14 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Greedy, String, Dynamic Programming, Backtracking]
 permalink:  /wildcard-matching/
 ---

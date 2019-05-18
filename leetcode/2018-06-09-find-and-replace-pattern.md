@@ -2,7 +2,7 @@
 layout:     single
 title:      "查找和替换模式"
 date:       2018-06-09 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [String]
 permalink:  /find-and-replace-pattern/
 ---

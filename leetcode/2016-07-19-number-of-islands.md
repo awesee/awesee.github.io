@@ -2,7 +2,7 @@
 layout:     single
 title:      "岛屿的个数"
 date:       2016-07-19 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Depth-first Search, Breadth-first Search, Union Find]
 permalink:  /number-of-islands/
 ---
@@ -40,10 +40,10 @@ permalink:  /number-of-islands/
 
 ### 相似题目
   1. [被围绕的区域](/surrounded-regions) (Medium)
-  1. [Walls and Gates](/walls-and-gates) (Medium)
-  1. [Number of Islands II](/number-of-islands-ii) (Hard)
-  1. [Number of Connected Components in an Undirected Graph](/number-of-connected-components-in-an-undirected-graph) (Medium)
-  1. [Number of Distinct Islands](/number-of-distinct-islands) (Medium)
+  1. [墙与门](/walls-and-gates) (Medium)
+  1. [岛的数量 II](/number-of-islands-ii) (Hard)
+  1. [无向图中连通分量的数目](/number-of-connected-components-in-an-undirected-graph) (Medium)
+  1. [不同岛屿的数量](/number-of-distinct-islands) (Medium)
   1. [岛屿的最大面积](/max-area-of-island) (Medium)
 
 ---

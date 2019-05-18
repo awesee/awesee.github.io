@@ -2,7 +2,7 @@
 layout:     single
 title:      "2的幂"
 date:       2016-08-19 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Bit Manipulation, Math]
 permalink:  /power-of-two/
 ---

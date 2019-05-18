@@ -2,7 +2,7 @@
 layout:     single
 title:      "特殊等价字符串组"
 date:       2018-06-12 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [String]
 permalink:  /groups-of-special-equivalent-strings/
 ---
@@ -15,9 +15,9 @@ permalink:  /groups-of-special-equivalent-strings/
 
 <p>&nbsp;</p>
 
-<p>一次<em>移动</em>包括选择两个索引 <code>i</code> 和 <code>j</code>，且&nbsp;<code>i％2 == j％2</code>，并且交换 <code>S[j]</code> 和 <code>S [i]</code>。</p>
+<p>一次<em>移动</em>包括选择两个索引 <code>i</code> 和 <code>j</code>，且&nbsp;<code>i ％ 2 == j ％ 2</code>，并且交换 <code>S[j]</code> 和 <code>S [i]</code>。</p>
 
-<p>现在规定，<em><code>A</code> 中的特殊等价字符串组</em>是 <code>A</code> 的非空子集 <code>S</code>，这样不在 <code>S</code> 中的任何字符串与 <code>S</code> 中的任何字符串都不是特殊等价的。</p>
+<p>现在规定，<strong><code>A</code> 中的特殊等价字符串组</strong>是 <code>A</code> 的非空子集 <code>S</code>，这样不在 <code>S</code> 中的任何字符串与 <code>S</code> 中的任何字符串都不是特殊等价的。</p>
 
 <p>&nbsp;</p>
 

@@ -2,8 +2,8 @@
 layout:     single
 title:      "天际线问题"
 date:       2016-08-06 21:30:00 +0800
-categories: [leetcode]
-tags:       [Heap, Binary Indexed Tree, Segment Tree, Divide and Conquer]
+categories: [Leetcode]
+tags:       [Heap, Binary Indexed Tree, Segment Tree, Divide and Conquer, Line Sweep]
 permalink:  /the-skyline-problem/
 ---
 
@@ -11,8 +11,7 @@ permalink:  /the-skyline-problem/
 
 <p>城市的天际线是从远处观看该城市中所有建筑物形成的轮廓的外部轮廓。现在，假设您获得了城市风光照片（图A）上<strong>显示的所有建筑物的位置和高度</strong>，请编写一个程序以输出由这些建筑物<strong>形成的天际线</strong>（图B）。</p>
 
-
-<a href="/static/images/problemset/skyline1.jpg" target="_blank"><img alt="Buildings" src="https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2018/10/22/skyline1.png" style="max-width: 45%; border-width: 0px; border-style: solid;" /> </a>  <a href="/static/images/problemset/skyline2.jpg" target="_blank"> <img alt="Skyline Contour" src="https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2018/10/22/skyline2.png" style="max-width: 45%; border-width: 0px; border-style: solid;" /> </a> 
+<p><a href="/static/images/problemset/skyline1.jpg" target="_blank"><img alt="Buildings" src="https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2018/10/22/skyline1.png" style=""> </a> <a href="/static/images/problemset/skyline2.jpg" target="_blank"> <img alt="Skyline Contour" src="https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2018/10/22/skyline2.png" style=""> </a></p>
 
 <p>每个建筑物的几何信息用三元组&nbsp;<code>[Li，Ri，Hi]</code> 表示，其中 <code>Li</code> 和 <code>Ri</code> 分别是第 i 座建筑物左右边缘的 x 坐标，<code>Hi</code> 是其高度。可以保证&nbsp;<code>0 &le; Li, Ri &le; INT_MAX</code>,&nbsp;<code>0 &lt; Hi &le; INT_MAX</code> 和 <code>Ri - Li &gt; 0</code>。您可以假设所有建筑物都是在绝对平坦且高度为 0 的表面上的完美矩形。</p>
 
@@ -26,7 +25,7 @@ permalink:  /the-skyline-problem/
 
 <ul>
 	<li>任何输入列表中的建筑物数量保证在 <code>[0, 10000]</code>&nbsp;范围内。</li>
-	<li>输入列表已经按升序排列在左边的 x 位置 <code>Li</code> 。</li>
+	<li>输入列表已经按左&nbsp;<code>x</code> 坐标&nbsp;<code>Li</code>&nbsp; 进行升序排列。</li>
 	<li>输出列表必须按 x 位排序。</li>
 	<li>输出天际线中不得有连续的相同高度的水平线。例如 <code>[...[2 3], [4 5], [7 5], [11 5], [12 7]...]</code> 是不正确的答案；三条高度为 5 的线应该在最终输出中合并为一个：<code>[...[2 3], [4 5], [12 7], ...]</code></li>
 </ul>
@@ -36,6 +35,7 @@ permalink:  /the-skyline-problem/
   [[树状数组](https://github.com/openset/leetcode/tree/master/tag/binary-indexed-tree/README.md)]
   [[线段树](https://github.com/openset/leetcode/tree/master/tag/segment-tree/README.md)]
   [[分治算法](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]
+  [[Line Sweep](https://github.com/openset/leetcode/tree/master/tag/line-sweep/README.md)]
 
 ### 相似题目
   1. [掉落的方块](/falling-squares) (Hard)

@@ -2,7 +2,7 @@
 layout:     single
 title:      "所有可能的满二叉树"
 date:       2018-06-13 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Tree, Recursion]
 permalink:  /all-possible-full-binary-trees/
 ---

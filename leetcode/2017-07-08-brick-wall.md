@@ -2,7 +2,7 @@
 layout:     single
 title:      "砖墙"
 date:       2017-07-08 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Hash Table]
 permalink:  /brick-wall/
 ---

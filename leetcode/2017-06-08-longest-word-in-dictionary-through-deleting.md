@@ -2,7 +2,7 @@
 layout:     single
 title:      "通过删除字母匹配到字典里最长单词"
 date:       2017-06-08 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Sort, Two Pointers]
 permalink:  /longest-word-in-dictionary-through-deleting/
 ---

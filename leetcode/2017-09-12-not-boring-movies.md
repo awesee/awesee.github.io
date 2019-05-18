@@ -2,7 +2,7 @@
 layout:     single
 title:      "有趣的电影"
 date:       2017-09-12 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       []
 permalink:  /not-boring-movies/
 ---

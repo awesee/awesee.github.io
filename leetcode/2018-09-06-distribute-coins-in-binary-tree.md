@@ -2,7 +2,7 @@
 layout:     single
 title:      "在二叉树中分配硬币"
 date:       2018-09-06 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Tree, Depth-first Search]
 permalink:  /distribute-coins-in-binary-tree/
 ---
@@ -63,6 +63,10 @@ permalink:  /distribute-coins-in-binary-tree/
 ### 相关话题
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
   [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+
+### 相似题目
+  1. [树中距离之和](/sum-of-distances-in-tree) (Hard)
+  1. [监控二叉树](/binary-tree-cameras) (Hard)
 
 ---
 

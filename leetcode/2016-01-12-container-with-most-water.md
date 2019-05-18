@@ -2,7 +2,7 @@
 layout:     single
 title:      "盛最多水的容器"
 date:       2016-01-12 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Array, Two Pointers]
 permalink:  /container-with-most-water/
 ---

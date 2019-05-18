@@ -2,7 +2,7 @@
 layout:     single
 title:      "N叉树的最大深度"
 date:       2017-07-13 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Tree, Depth-first Search, Breadth-first Search]
 permalink:  /maximum-depth-of-n-ary-tree/
 ---

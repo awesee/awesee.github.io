@@ -2,7 +2,7 @@
 layout:     single
 title:      "翻转等价二叉树"
 date:       2018-08-09 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Tree]
 permalink:  /flip-equivalent-binary-trees/
 ---

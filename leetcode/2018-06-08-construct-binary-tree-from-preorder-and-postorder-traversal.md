@@ -2,7 +2,7 @@
 layout:     single
 title:      "根据前序和后序遍历构造二叉树"
 date:       2018-06-08 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Tree]
 permalink:  /construct-binary-tree-from-preorder-and-postorder-traversal/
 ---

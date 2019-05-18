@@ -2,7 +2,7 @@
 layout:     single
 title:      "爬楼梯"
 date:       2016-03-11 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Dynamic Programming]
 permalink:  /climbing-stairs/
 ---

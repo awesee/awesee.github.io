@@ -2,7 +2,7 @@
 layout:     single
 title:      "完全二叉树的节点个数"
 date:       2016-08-10 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Tree, Binary Search]
 permalink:  /count-complete-tree-nodes/
 ---
@@ -31,7 +31,7 @@ permalink:  /count-complete-tree-nodes/
   [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
 
 ### 相似题目
-  1. [Closest Binary Search Tree Value](/closest-binary-search-tree-value) (Easy)
+  1. [最接近的二叉搜索树值](/closest-binary-search-tree-value) (Easy)
 
 ---
 

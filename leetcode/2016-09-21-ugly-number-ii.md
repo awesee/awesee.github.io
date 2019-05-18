@@ -2,7 +2,7 @@
 layout:     single
 title:      "丑数 II"
 date:       2016-09-21 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Heap, Math, Dynamic Programming]
 permalink:  /ugly-number-ii/
 ---

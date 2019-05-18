@@ -2,7 +2,7 @@
 layout:     single
 title:      "区域和检索 - 数组可修改"
 date:       2016-11-03 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Binary Indexed Tree, Segment Tree]
 permalink:  /range-sum-query-mutable/
 ---
@@ -35,7 +35,7 @@ sumRange(0, 2) -&gt; 8
 
 ### 相似题目
   1. [区域和检索 - 数组不可变](/range-sum-query-immutable) (Easy)
-  1. [Range Sum Query 2D - Mutable](/range-sum-query-2d-mutable) (Hard)
+  1. [二维区域检索求和 - 可变](/range-sum-query-2d-mutable) (Hard)
 
 ---
 

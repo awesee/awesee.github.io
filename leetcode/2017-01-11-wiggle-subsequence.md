@@ -2,7 +2,7 @@
 layout:     single
 title:      "摆动序列"
 date:       2017-01-11 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Greedy, Dynamic Programming]
 permalink:  /wiggle-subsequence/
 ---

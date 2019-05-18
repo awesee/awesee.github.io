@@ -2,7 +2,7 @@
 layout:     single
 title:      "黑名单中的随机数"
 date:       2017-12-11 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Sort, Hash Table, Binary Search, Random]
 permalink:  /random-pick-with-blacklist/
 ---

@@ -2,7 +2,7 @@
 layout:     single
 title:      "最大二叉树 II"
 date:       2018-09-25 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Tree]
 permalink:  /maximum-binary-tree-ii/
 ---
@@ -70,6 +70,9 @@ permalink:  /maximum-binary-tree-ii/
 
 ### 相关话题
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+
+### 相似题目
+  1. [最大二叉树](/maximum-binary-tree) (Medium)
 
 ---
 

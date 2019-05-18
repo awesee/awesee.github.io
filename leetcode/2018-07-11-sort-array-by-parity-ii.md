@@ -2,7 +2,7 @@
 layout:     single
 title:      "按奇偶排序数组 II"
 date:       2018-07-11 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Sort, Array]
 permalink:  /sort-array-by-parity-ii/
 ---

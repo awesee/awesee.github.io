@@ -2,7 +2,7 @@
 layout:     single
 title:      "构造矩形"
 date:       2017-05-07 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       []
 permalink:  /construct-the-rectangle/
 ---

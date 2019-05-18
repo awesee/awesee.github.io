@@ -2,7 +2,7 @@
 layout:     single
 title:      "到达终点"
 date:       2018-02-19 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Math]
 permalink:  /reaching-points/
 ---

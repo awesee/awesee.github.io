@@ -2,7 +2,7 @@
 layout:     single
 title:      "三数之和的多种可能"
 date:       2018-07-12 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Two Pointers]
 permalink:  /3sum-with-multiplicity/
 ---

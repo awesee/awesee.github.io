@@ -2,7 +2,7 @@
 layout:     single
 title:      "分糖果"
 date:       2017-07-29 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Hash Table]
 permalink:  /distribute-candies/
 ---

@@ -2,7 +2,7 @@
 layout:     single
 title:      "合并区间"
 date:       2016-02-26 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Sort, Array]
 permalink:  /merge-intervals/
 ---
@@ -30,13 +30,14 @@ permalink:  /merge-intervals/
 
 ### 相似题目
   1. [插入区间](/insert-interval) (Hard)
-  1. [Meeting Rooms](/meeting-rooms) (Easy)
-  1. [Meeting Rooms II](/meeting-rooms-ii) (Medium)
+  1. [会议室](/meeting-rooms) (Easy)
+  1. [会议室 II](/meeting-rooms-ii) (Medium)
   1. [提莫攻击](/teemo-attacking) (Medium)
-  1. [Add Bold Tag in String](/add-bold-tag-in-string) (Medium)
+  1. [给字符串添加加粗标签](/add-bold-tag-in-string) (Medium)
   1. [Range 模块](/range-module) (Hard)
-  1. [Employee Free Time](/employee-free-time) (Hard)
+  1. [员工空闲时间](/employee-free-time) (Hard)
   1. [划分字母区间](/partition-labels) (Medium)
+  1. [区间列表的交集](/interval-list-intersections) (Medium)
 
 ---
 

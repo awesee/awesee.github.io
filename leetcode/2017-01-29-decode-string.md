@@ -2,7 +2,7 @@
 layout:     single
 title:      "字符串解码"
 date:       2017-01-29 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Stack, Depth-first Search]
 permalink:  /decode-string/
 ---
@@ -30,7 +30,7 @@ s = &quot;2[abc]3[cd]ef&quot;, 返回 &quot;abcabccdcdcdef&quot;.
   [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
 
 ### 相似题目
-  1. [Encode String with Shortest Length](/encode-string-with-shortest-length) (Hard)
+  1. [编码最短长度的字符串](/encode-string-with-shortest-length) (Hard)
   1. [原子的数量](/number-of-atoms) (Hard)
 
 ---

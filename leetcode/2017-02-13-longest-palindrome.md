@@ -2,7 +2,7 @@
 layout:     single
 title:      "最长回文串"
 date:       2017-02-13 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Hash Table]
 permalink:  /longest-palindrome/
 ---
@@ -33,7 +33,7 @@ permalink:  /longest-palindrome/
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
 
 ### 相似题目
-  1. [Palindrome Permutation](/palindrome-permutation) (Easy)
+  1. [回文排列](/palindrome-permutation) (Easy)
 
 ---
 

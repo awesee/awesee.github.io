@@ -2,7 +2,7 @@
 layout:     single
 title:      "使括号有效的最少添加"
 date:       2018-07-10 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Stack, Greedy]
 permalink:  /minimum-add-to-make-parentheses-valid/
 ---

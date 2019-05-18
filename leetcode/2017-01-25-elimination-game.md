@@ -2,7 +2,7 @@
 layout:     single
 title:      "消除游戏"
 date:       2017-01-25 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       []
 permalink:  /elimination-game/
 ---

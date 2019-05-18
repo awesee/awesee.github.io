@@ -2,7 +2,7 @@
 layout:     single
 title:      "有序数组中的单一元素"
 date:       2017-06-24 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       []
 permalink:  /single-element-in-a-sorted-array/
 ---

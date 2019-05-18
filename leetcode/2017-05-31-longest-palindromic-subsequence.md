@@ -2,7 +2,7 @@
 layout:     single
 title:      "最长回文子序列"
 date:       2017-05-31 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Dynamic Programming]
 permalink:  /longest-palindromic-subsequence/
 ---

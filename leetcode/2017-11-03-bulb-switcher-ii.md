@@ -2,7 +2,7 @@
 layout:     single
 title:      "灯泡开关 Ⅱ"
 date:       2017-11-03 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Math]
 permalink:  /bulb-switcher-ii/
 ---

@@ -2,7 +2,7 @@
 layout:     single
 title:      "删除重复的电子邮箱"
 date:       2016-07-15 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       []
 permalink:  /delete-duplicate-emails/
 ---

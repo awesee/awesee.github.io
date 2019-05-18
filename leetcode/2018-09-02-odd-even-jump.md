@@ -2,8 +2,8 @@
 layout:     single
 title:      "奇偶跳"
 date:       2018-09-02 21:30:00 +0800
-categories: [leetcode]
-tags:       [Stack, Dynamic Programming]
+categories: [Leetcode]
+tags:       [Stack, Dynamic Programming, Ordered Map]
 permalink:  /odd-even-jump/
 ---
 
@@ -80,6 +80,7 @@ permalink:  /odd-even-jump/
 ### 相关话题
   [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Ordered Map](https://github.com/openset/leetcode/tree/master/tag/ordered-map/README.md)]
 
 ---
 

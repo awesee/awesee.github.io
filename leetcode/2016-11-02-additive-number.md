@@ -2,7 +2,7 @@
 layout:     single
 title:      "累加数"
 date:       2016-11-02 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Backtracking]
 permalink:  /additive-number/
 ---

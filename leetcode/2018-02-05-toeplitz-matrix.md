@@ -2,7 +2,7 @@
 layout:     single
 title:      "托普利茨矩阵"
 date:       2018-02-05 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Array]
 permalink:  /toeplitz-matrix/
 ---
@@ -59,7 +59,7 @@ matrix = [
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 
 ### 相似题目
-  1. [Valid Word Square](/valid-word-square) (Easy)
+  1. [有效的单词方块](/valid-word-square) (Easy)
 
 ---
 

@@ -2,7 +2,7 @@
 layout:     single
 title:      "整数反转"
 date:       2016-01-08 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Math]
 permalink:  /reverse-integer/
 ---

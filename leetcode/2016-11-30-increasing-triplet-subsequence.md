@@ -2,7 +2,7 @@
 layout:     single
 title:      "递增的三元子序列"
 date:       2016-11-30 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       []
 permalink:  /increasing-triplet-subsequence/
 ---

@@ -2,7 +2,7 @@
 layout:     single
 title:      "最大整除子集"
 date:       2017-01-03 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Math, Dynamic Programming]
 permalink:  /largest-divisible-subset/
 ---

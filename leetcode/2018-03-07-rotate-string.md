@@ -2,7 +2,7 @@
 layout:     single
 title:      "旋转字符串"
 date:       2018-03-07 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       []
 permalink:  /rotate-string/
 ---

@@ -2,7 +2,7 @@
 layout:     single
 title:      "有效的山脉数组"
 date:       2018-07-30 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Array]
 permalink:  /valid-mountain-array/
 ---

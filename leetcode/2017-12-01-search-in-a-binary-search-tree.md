@@ -2,7 +2,7 @@
 layout:     single
 title:      "二叉搜索树中的搜索"
 date:       2017-12-01 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Tree]
 permalink:  /search-in-a-binary-search-tree/
 ---
@@ -39,7 +39,7 @@ permalink:  /search-in-a-binary-search-tree/
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
 
 ### 相似题目
-  1. [Closest Binary Search Tree Value](/closest-binary-search-tree-value) (Easy)
+  1. [最接近的二叉搜索树值](/closest-binary-search-tree-value) (Easy)
   1. [二叉搜索树中的插入操作](/insert-into-a-binary-search-tree) (Medium)
 
 ---

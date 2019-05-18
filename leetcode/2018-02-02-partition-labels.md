@@ -2,7 +2,7 @@
 layout:     single
 title:      "划分字母区间"
 date:       2018-02-02 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Greedy, Two Pointers]
 permalink:  /partition-labels/
 ---

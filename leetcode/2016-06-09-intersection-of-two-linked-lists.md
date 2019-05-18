@@ -2,7 +2,7 @@
 layout:     single
 title:      "相交链表"
 date:       2016-06-09 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Linked List]
 permalink:  /intersection-of-two-linked-lists/
 ---

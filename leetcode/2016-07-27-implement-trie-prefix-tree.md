@@ -2,7 +2,7 @@
 layout:     single
 title:      "实现 Trie (前缀树)"
 date:       2016-07-27 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Design, Trie]
 permalink:  /implement-trie-prefix-tree/
 ---
@@ -35,7 +35,7 @@ trie.search(&quot;app&quot;);     // 返回 true</pre>
 
 ### 相似题目
   1. [添加与搜索单词 - 数据结构设计](/add-and-search-word-data-structure-design) (Medium)
-  1. [Design Search Autocomplete System](/design-search-autocomplete-system) (Hard)
+  1. [设计搜索自动补全系统](/design-search-autocomplete-system) (Hard)
   1. [单词替换](/replace-words) (Medium)
   1. [实现一个魔法字典](/implement-magic-dictionary) (Medium)
 

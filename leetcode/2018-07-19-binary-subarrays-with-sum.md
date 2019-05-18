@@ -2,7 +2,7 @@
 layout:     single
 title:      "和相同的二元子数组"
 date:       2018-07-19 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Hash Table, Two Pointers]
 permalink:  /binary-subarrays-with-sum/
 ---

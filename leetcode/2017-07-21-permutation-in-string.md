@@ -2,8 +2,8 @@
 layout:     single
 title:      "字符串的排列"
 date:       2017-07-21 21:30:00 +0800
-categories: [leetcode]
-tags:       [Two Pointers]
+categories: [Leetcode]
+tags:       [Two Pointers, Sliding Window]
 permalink:  /permutation-in-string/
 ---
 
@@ -41,6 +41,7 @@ permalink:  /permutation-in-string/
 
 ### 相关话题
   [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+  [[Sliding Window](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
 
 ### 相似题目
   1. [最小覆盖子串](/minimum-window-substring) (Hard)

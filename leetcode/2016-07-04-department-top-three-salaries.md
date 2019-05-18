@@ -2,7 +2,7 @@
 layout:     single
 title:      "部门工资前三高的员工"
 date:       2016-07-04 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       []
 permalink:  /department-top-three-salaries/
 ---

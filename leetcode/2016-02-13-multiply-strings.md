@@ -2,7 +2,7 @@
 layout:     single
 title:      "字符串相乘"
 date:       2016-02-13 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Math, String]
 permalink:  /multiply-strings/
 ---

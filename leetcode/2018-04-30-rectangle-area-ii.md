@@ -2,8 +2,8 @@
 layout:     single
 title:      "矩形面积 II"
 date:       2018-04-30 21:30:00 +0800
-categories: [leetcode]
-tags:       [Segment Tree]
+categories: [Leetcode]
+tags:       [Segment Tree, Line Sweep]
 permalink:  /rectangle-area-ii/
 ---
 
@@ -40,6 +40,7 @@ permalink:  /rectangle-area-ii/
 
 ### 相关话题
   [[线段树](https://github.com/openset/leetcode/tree/master/tag/segment-tree/README.md)]
+  [[Line Sweep](https://github.com/openset/leetcode/tree/master/tag/line-sweep/README.md)]
 
 ---
 

@@ -2,7 +2,7 @@
 layout:     single
 title:      "最大回文数乘积"
 date:       2017-04-24 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       []
 permalink:  /largest-palindrome-product/
 ---

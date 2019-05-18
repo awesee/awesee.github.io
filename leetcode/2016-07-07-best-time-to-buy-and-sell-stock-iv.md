@@ -2,7 +2,7 @@
 layout:     single
 title:      "买卖股票的最佳时机 IV"
 date:       2016-07-07 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Dynamic Programming]
 permalink:  /best-time-to-buy-and-sell-stock-iv/
 ---

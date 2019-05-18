@@ -2,8 +2,8 @@
 layout:     single
 title:      "区间和的个数"
 date:       2016-11-23 21:30:00 +0800
-categories: [leetcode]
-tags:       [Binary Search Tree, Divide and Conquer]
+categories: [Leetcode]
+tags:       [Sort, Binary Indexed Tree, Segment Tree, Binary Search, Divide and Conquer]
 permalink:  /count-of-range-sum/
 ---
 
@@ -23,7 +23,10 @@ permalink:  /count-of-range-sum/
 </pre>
 
 ### 相关话题
-  [[二叉搜索树](https://github.com/openset/leetcode/tree/master/tag/binary-search-tree/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
+  [[树状数组](https://github.com/openset/leetcode/tree/master/tag/binary-indexed-tree/README.md)]
+  [[线段树](https://github.com/openset/leetcode/tree/master/tag/segment-tree/README.md)]
+  [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
   [[分治算法](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]
 
 ### 相似题目

@@ -2,7 +2,7 @@
 layout:     single
 title:      "扁平化嵌套列表迭代器"
 date:       2016-12-07 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Stack, Design]
 permalink:  /flatten-nested-list-iterator/
 ---
@@ -31,8 +31,8 @@ permalink:  /flatten-nested-list-iterator/
   [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
 
 ### 相似题目
-  1. [Flatten 2D Vector](/flatten-2d-vector) (Medium)
-  1. [Zigzag Iterator](/zigzag-iterator) (Medium)
+  1. [展开二维向量](/flatten-2d-vector) (Medium)
+  1. [锯齿迭代器](/zigzag-iterator) (Medium)
   1. [迷你语法分析器](/mini-parser) (Medium)
   1. [数组嵌套](/array-nesting) (Medium)
 

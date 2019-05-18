@@ -2,7 +2,7 @@
 layout:     single
 title:      "监控二叉树"
 date:       2018-08-26 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Tree, Depth-first Search, Dynamic Programming]
 permalink:  /binary-tree-cameras/
 ---
@@ -47,6 +47,9 @@ permalink:  /binary-tree-cameras/
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
   [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+
+### 相似题目
+  1. [在二叉树中分配硬币](/distribute-coins-in-binary-tree) (Medium)
 
 ---
 

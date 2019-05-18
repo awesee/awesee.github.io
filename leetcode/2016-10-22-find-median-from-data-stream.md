@@ -2,7 +2,7 @@
 layout:     single
 title:      "数据流的中位数"
 date:       2016-10-22 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Heap, Design]
 permalink:  /find-median-from-data-stream/
 ---

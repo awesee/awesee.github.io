@@ -2,7 +2,7 @@
 layout:     single
 title:      "子域名访问计数"
 date:       2018-03-22 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Hash Table]
 permalink:  /subdomain-visit-count/
 ---

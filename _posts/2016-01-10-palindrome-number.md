@@ -2,7 +2,7 @@
 layout:     single
 title:      "回文数"
 date:       2016-01-10 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Math]
 permalink:  /palindrome-number/
 ---

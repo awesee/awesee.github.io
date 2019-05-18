@@ -2,8 +2,8 @@
 layout:     single
 title:      "滑动窗口中位数"
 date:       2017-04-25 21:30:00 +0800
-categories: [leetcode]
-tags:       []
+categories: [Leetcode]
+tags:       [Sliding Window]
 permalink:  /sliding-window-median/
 ---
 
@@ -38,6 +38,9 @@ permalink:  /sliding-window-median/
 
 <p><strong>提示：</strong><br />
 假设<code>k</code>是合法的，即：<code>k</code> 始终小于输入的非空数组的元素个数.</p>
+
+### 相关话题
+  [[Sliding Window](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
 
 ### 相似题目
   1. [数据流的中位数](/find-median-from-data-stream) (Hard)

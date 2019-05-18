@@ -2,7 +2,7 @@
 layout:     single
 title:      "全排列 II"
 date:       2016-02-17 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Backtracking]
 permalink:  /permutations-ii/
 ---
@@ -27,7 +27,8 @@ permalink:  /permutations-ii/
 ### 相似题目
   1. [下一个排列](/next-permutation) (Medium)
   1. [全排列](/permutations) (Medium)
-  1. [Palindrome Permutation II](/palindrome-permutation-ii) (Medium)
+  1. [回文排列 II](/palindrome-permutation-ii) (Medium)
+  1. [正方形数组的数目](/number-of-squareful-arrays) (Hard)
 
 ---
 

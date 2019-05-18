@@ -2,8 +2,8 @@
 layout:     single
 title:      "二叉搜索树结点最小距离"
 date:       2018-02-22 21:30:00 +0800
-categories: [leetcode]
-tags:       [Binary Search Tree]
+categories: [Leetcode]
+tags:       [Tree, Recursion]
 permalink:  /minimum-distance-between-bst-nodes/
 ---
 
@@ -37,7 +37,8 @@ permalink:  /minimum-distance-between-bst-nodes/
 </ol>
 
 ### 相关话题
-  [[二叉搜索树](https://github.com/openset/leetcode/tree/master/tag/binary-search-tree/README.md)]
+  [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[递归](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]
 
 ### 相似题目
   1. [二叉树的中序遍历](/binary-tree-inorder-traversal) (Medium)

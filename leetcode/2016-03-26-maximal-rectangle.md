@@ -2,7 +2,7 @@
 layout:     single
 title:      "最大矩形"
 date:       2016-03-26 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Stack, Array, Hash Table, Dynamic Programming]
 permalink:  /maximal-rectangle/
 ---

@@ -2,7 +2,7 @@
 layout:     single
 title:      "N叉树的后序遍历"
 date:       2017-08-13 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Tree]
 permalink:  /n-ary-tree-postorder-traversal/
 ---

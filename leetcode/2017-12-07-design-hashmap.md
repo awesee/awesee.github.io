@@ -2,7 +2,7 @@
 layout:     single
 title:      "设计哈希映射"
 date:       2017-12-07 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Design, Hash Table]
 permalink:  /design-hashmap/
 ---

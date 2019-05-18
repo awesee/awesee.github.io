@@ -2,7 +2,7 @@
 layout:     single
 title:      "连续差相同的数字"
 date:       2018-08-25 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Dynamic Programming]
 permalink:  /numbers-with-same-consecutive-differences/
 ---

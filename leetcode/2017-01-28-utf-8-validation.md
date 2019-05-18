@@ -2,7 +2,7 @@
 layout:     single
 title:      "UTF-8 编码验证"
 date:       2017-01-28 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Bit Manipulation]
 permalink:  /utf-8-validation/
 ---

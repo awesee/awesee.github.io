@@ -2,7 +2,7 @@
 layout:     single
 title:      "整数转换英文表示"
 date:       2016-09-30 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Math, String]
 permalink:  /integer-to-english-words/
 ---

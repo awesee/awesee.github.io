@@ -2,7 +2,7 @@
 layout:     single
 title:      "最大单词长度乘积"
 date:       2016-11-14 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Bit Manipulation]
 permalink:  /maximum-product-of-word-lengths/
 ---

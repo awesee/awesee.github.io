@@ -2,7 +2,7 @@
 layout:     single
 title:      "各位相加"
 date:       2016-09-15 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Math]
 permalink:  /add-digits/
 ---

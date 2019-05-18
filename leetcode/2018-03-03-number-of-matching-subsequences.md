@@ -2,7 +2,7 @@
 layout:     single
 title:      "匹配子序列的单词数"
 date:       2018-03-03 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Array]
 permalink:  /number-of-matching-subsequences/
 ---

@@ -2,7 +2,7 @@
 layout:     single
 title:      "破解保险箱"
 date:       2018-01-23 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Depth-first Search, Math]
 permalink:  /cracking-the-safe/
 ---

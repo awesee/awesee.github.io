@@ -2,7 +2,7 @@
 layout:     single
 title:      "字符串中的第一个唯一字符"
 date:       2017-01-22 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Hash Table, String]
 permalink:  /first-unique-character-in-a-string/
 ---

@@ -2,8 +2,8 @@
 layout:     single
 title:      "一手顺子"
 date:       2018-04-26 21:30:00 +0800
-categories: [leetcode]
-tags:       [Map]
+categories: [Leetcode]
+tags:       [Ordered Map]
 permalink:  /hand-of-straights/
 ---
 
@@ -43,7 +43,7 @@ permalink:  /hand-of-straights/
 </ol>
 
 ### 相关话题
-  [[Map](https://github.com/openset/leetcode/tree/master/tag/map/README.md)]
+  [[Ordered Map](https://github.com/openset/leetcode/tree/master/tag/ordered-map/README.md)]
 
 ---
 

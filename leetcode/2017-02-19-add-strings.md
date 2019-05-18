@@ -2,8 +2,8 @@
 layout:     single
 title:      "字符串相加"
 date:       2017-02-19 21:30:00 +0800
-categories: [leetcode]
-tags:       [Math]
+categories: [Leetcode]
+tags:       [String]
 permalink:  /add-strings/
 ---
 
@@ -21,11 +21,12 @@ permalink:  /add-strings/
 </ol>
 
 ### 相关话题
-  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ### 相似题目
   1. [两数相加](/add-two-numbers) (Medium)
   1. [字符串相乘](/multiply-strings) (Medium)
+  1. [数组形式的整数加法](/add-to-array-form-of-integer) (Easy)
 
 ---
 

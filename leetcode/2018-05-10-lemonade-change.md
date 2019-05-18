@@ -2,7 +2,7 @@
 layout:     single
 title:      "柠檬水找零"
 date:       2018-05-10 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Greedy]
 permalink:  /lemonade-change/
 ---

@@ -2,7 +2,7 @@
 layout:     single
 title:      "电话号码的字母组合"
 date:       2016-01-18 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [String, Backtracking]
 permalink:  /letter-combinations-of-a-phone-number/
 ---

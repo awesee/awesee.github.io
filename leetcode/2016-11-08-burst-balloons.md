@@ -2,7 +2,7 @@
 layout:     single
 title:      "戳气球"
 date:       2016-11-08 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Divide and Conquer, Dynamic Programming]
 permalink:  /burst-balloons/
 ---
@@ -33,6 +33,9 @@ permalink:  /burst-balloons/
 ### 相关话题
   [[分治算法](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+
+### 相似题目
+  1. [合并石头的最低成本](/minimum-cost-to-merge-stones) (Hard)
 
 ---
 

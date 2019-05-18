@@ -2,7 +2,7 @@
 layout:     single
 title:      "最大子序和"
 date:       2016-02-23 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Array, Divide and Conquer, Dynamic Programming]
 permalink:  /maximum-subarray/
 ---
@@ -31,6 +31,7 @@ permalink:  /maximum-subarray/
   1. [买卖股票的最佳时机](/best-time-to-buy-and-sell-stock) (Easy)
   1. [乘积最大子序列](/maximum-product-subarray) (Medium)
   1. [数组的度](/degree-of-an-array) (Easy)
+  1. [最长湍流子数组](/longest-turbulent-subarray) (Medium)
 
 ---
 

@@ -2,7 +2,7 @@
 layout:     single
 title:      "漂亮数组"
 date:       2018-07-21 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Divide and Conquer]
 permalink:  /beautiful-array/
 ---

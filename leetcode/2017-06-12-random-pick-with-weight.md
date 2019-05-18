@@ -2,7 +2,7 @@
 layout:     single
 title:      "按权重随机选择"
 date:       2017-06-12 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Binary Search, Random]
 permalink:  /random-pick-with-weight/
 ---

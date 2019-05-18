@@ -2,7 +2,7 @@
 layout:     single
 title:      "二叉树的所有路径"
 date:       2016-09-14 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Tree, Depth-first Search]
 permalink:  /binary-tree-paths/
 ---
@@ -33,6 +33,7 @@ permalink:  /binary-tree-paths/
 
 ### 相似题目
   1. [路径总和 II](/path-sum-ii) (Medium)
+  1. [从叶结点开始的最小字符串](/smallest-string-starting-from-leaf) (Medium)
 
 ---
 

@@ -2,7 +2,7 @@
 layout:     single
 title:      "对链表进行插入排序"
 date:       2016-05-27 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Sort, Linked List]
 permalink:  /insertion-sort-list/
 ---
@@ -45,7 +45,7 @@ permalink:  /insertion-sort-list/
 
 ### 相似题目
   1. [排序链表](/sort-list) (Medium)
-  1. [Insert into a Cyclic Sorted List](/insert-into-a-cyclic-sorted-list) (Medium)
+  1. [循环有序列表的插入](/insert-into-a-cyclic-sorted-list) (Medium)
 
 ---
 

@@ -2,7 +2,7 @@
 layout:     single
 title:      "带因子的二叉树"
 date:       2018-04-03 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       []
 permalink:  /binary-trees-with-factors/
 ---

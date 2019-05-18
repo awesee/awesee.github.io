@@ -2,7 +2,7 @@
 layout:     single
 title:      "数组形式的整数加法"
 date:       2018-09-16 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Array]
 permalink:  /add-to-array-form-of-integer/
 ---
@@ -59,6 +59,12 @@ permalink:  /add-to-array-form-of-integer/
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+
+### 相似题目
+  1. [两数相加](/add-two-numbers) (Medium)
+  1. [加一](/plus-one) (Easy)
+  1. [二进制求和](/add-binary) (Easy)
+  1. [字符串相加](/add-strings) (Easy)
 
 ---
 

@@ -2,7 +2,7 @@
 layout:     single
 title:      "组合总和 Ⅳ"
 date:       2017-01-12 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Dynamic Programming]
 permalink:  /combination-sum-iv/
 ---

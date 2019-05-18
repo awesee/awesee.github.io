@@ -2,7 +2,7 @@
 layout:     single
 title:      "第二高的薪水"
 date:       2016-06-25 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       []
 permalink:  /second-highest-salary/
 ---

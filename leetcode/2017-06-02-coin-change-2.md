@@ -2,7 +2,7 @@
 layout:     single
 title:      "零钱兑换 II"
 date:       2017-06-02 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       []
 permalink:  /coin-change-2/
 ---

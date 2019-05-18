@@ -2,7 +2,7 @@
 layout:     single
 title:      "第三大的数"
 date:       2017-02-18 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Array]
 permalink:  /third-maximum-number/
 ---

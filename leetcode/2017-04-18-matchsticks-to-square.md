@@ -2,7 +2,7 @@
 layout:     single
 title:      "火柴拼正方形"
 date:       2017-04-18 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Depth-first Search]
 permalink:  /matchsticks-to-square/
 ---

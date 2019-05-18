@@ -2,7 +2,7 @@
 layout:     single
 title:      "最大人工岛"
 date:       2018-04-07 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Depth-first Search]
 permalink:  /making-a-large-island/
 ---

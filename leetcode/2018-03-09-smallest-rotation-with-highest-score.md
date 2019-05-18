@@ -2,7 +2,7 @@
 layout:     single
 title:      "得分最高的最小轮调"
 date:       2018-03-09 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       []
 permalink:  /smallest-rotation-with-highest-score/
 ---

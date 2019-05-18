@@ -2,7 +2,7 @@
 layout:     single
 title:      "二维区域和检索 - 矩阵不可变"
 date:       2016-10-31 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Dynamic Programming]
 permalink:  /range-sum-query-2d-immutable/
 ---
@@ -42,7 +42,7 @@ sumRegion(1, 2, 2, 4) -&gt; 12
 
 ### 相似题目
   1. [区域和检索 - 数组不可变](/range-sum-query-immutable) (Easy)
-  1. [Range Sum Query 2D - Mutable](/range-sum-query-2d-mutable) (Hard)
+  1. [二维区域检索求和 - 可变](/range-sum-query-2d-mutable) (Hard)
 
 ---
 

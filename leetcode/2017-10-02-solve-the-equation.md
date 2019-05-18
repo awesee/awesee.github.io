@@ -2,7 +2,7 @@
 layout:     single
 title:      "求解方程"
 date:       2017-10-02 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Math]
 permalink:  /solve-the-equation/
 ---
@@ -19,36 +19,31 @@ permalink:  /solve-the-equation/
 
 <p><strong>示例 1：</strong></p>
 
-<pre>
-<strong>输入:</strong> &quot;x+5-3+x=6+x-2&quot;
+<pre><strong>输入:</strong> &quot;x+5-3+x=6+x-2&quot;
 <strong>输出:</strong> &quot;x=2&quot;
 </pre>
 
 <p><strong>示例 2:</strong></p>
 
-<pre>
-<strong>输入:</strong> &quot;x=x&quot;
+<pre><strong>输入:</strong> &quot;x=x&quot;
 <strong>输出:</strong> &quot;Infinite solutions&quot;
 </pre>
 
 <p><strong>示例 3:</strong></p>
 
-<pre>
-<strong>输入:</strong> &quot;2x=x&quot;
+<pre><strong>输入:</strong> &quot;2x=x&quot;
 <strong>输出:</strong> &quot;x=0&quot;
 </pre>
 
 <p><strong>示例 4:</strong></p>
 
-<pre>
-<strong>输入:</strong> &quot;2x+3x-6x=x+2&quot;
+<pre><strong>输入:</strong> &quot;2x+3x-6x=x+2&quot;
 <strong>输出:</strong> &quot;x=-1&quot;
 </pre>
 
 <p><strong>示例 5:</strong></p>
 
-<pre>
-<strong>输入:</strong> &quot;x=x+2&quot;
+<pre><strong>输入:</strong> &quot;x=x+2&quot;
 <strong>输出:</strong> &quot;No solution&quot;
 </pre>
 

@@ -2,7 +2,7 @@
 layout:     single
 title:      "扫雷游戏"
 date:       2017-06-13 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Depth-first Search, Breadth-first Search]
 permalink:  /minesweeper/
 ---

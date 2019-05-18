@@ -2,7 +2,7 @@
 layout:     single
 title:      "二叉搜索树中第K小的元素"
 date:       2016-08-18 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Tree, Binary Search]
 permalink:  /kth-smallest-element-in-a-bst/
 ---

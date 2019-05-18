@@ -2,7 +2,7 @@
 layout:     single
 title:      "二叉搜索树中的插入操作"
 date:       2017-12-02 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Tree]
 permalink:  /insert-into-a-binary-search-tree/
 ---

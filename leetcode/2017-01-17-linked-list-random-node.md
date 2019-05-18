@@ -2,7 +2,7 @@
 layout:     single
 title:      "链表随机节点"
 date:       2017-01-17 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Reservoir Sampling]
 permalink:  /linked-list-random-node/
 ---

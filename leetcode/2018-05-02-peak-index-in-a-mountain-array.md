@@ -2,7 +2,7 @@
 layout:     single
 title:      "山脉数组的峰顶索引"
 date:       2018-05-02 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Binary Search]
 permalink:  /peak-index-in-a-mountain-array/
 ---

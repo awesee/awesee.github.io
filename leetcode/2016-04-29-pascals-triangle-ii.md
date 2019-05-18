@@ -2,7 +2,7 @@
 layout:     single
 title:      "杨辉三角 II"
 date:       2016-04-29 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Array]
 permalink:  /pascals-triangle-ii/
 ---

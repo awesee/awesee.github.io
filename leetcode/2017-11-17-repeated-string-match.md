@@ -2,7 +2,7 @@
 layout:     single
 title:      "重复叠加字符串匹配"
 date:       2017-11-17 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [String]
 permalink:  /repeated-string-match/
 ---

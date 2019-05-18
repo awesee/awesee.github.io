@@ -2,7 +2,7 @@
 layout:     single
 title:      "建立四叉树"
 date:       2017-03-03 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       []
 permalink:  /construct-quad-tree/
 ---

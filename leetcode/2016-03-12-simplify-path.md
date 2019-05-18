@@ -2,7 +2,7 @@
 layout:     single
 title:      "简化路径"
 date:       2016-03-12 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Stack, String]
 permalink:  /simplify-path/
 ---

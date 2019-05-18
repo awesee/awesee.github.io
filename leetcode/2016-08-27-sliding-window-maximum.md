@@ -2,8 +2,8 @@
 layout:     single
 title:      "滑动窗口最大值"
 date:       2016-08-27 21:30:00 +0800
-categories: [leetcode]
-tags:       [Heap]
+categories: [Leetcode]
+tags:       [Heap, Sliding Window]
 permalink:  /sliding-window-maximum/
 ---
 
@@ -38,12 +38,13 @@ permalink:  /sliding-window-maximum/
 
 ### 相关话题
   [[堆](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]
+  [[Sliding Window](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
 
 ### 相似题目
   1. [最小覆盖子串](/minimum-window-substring) (Hard)
   1. [最小栈](/min-stack) (Easy)
-  1. [Longest Substring with At Most Two Distinct Characters](/longest-substring-with-at-most-two-distinct-characters) (Hard)
-  1. [Paint House II](/paint-house-ii) (Hard)
+  1. [至多包含两个不同字符的最长子串](/longest-substring-with-at-most-two-distinct-characters) (Hard)
+  1. [粉刷房子 II](/paint-house-ii) (Hard)
 
 ---
 

@@ -2,7 +2,7 @@
 layout:     single
 title:      "根据身高重建队列"
 date:       2017-02-10 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Greedy]
 permalink:  /queue-reconstruction-by-height/
 ---

@@ -2,7 +2,7 @@
 layout:     single
 title:      "反转字符串中的单词 III"
 date:       2017-07-11 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [String]
 permalink:  /reverse-words-in-a-string-iii/
 ---

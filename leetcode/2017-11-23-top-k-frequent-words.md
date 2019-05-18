@@ -2,7 +2,7 @@
 layout:     single
 title:      "前K个高频单词"
 date:       2017-11-23 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Heap, Trie, Hash Table]
 permalink:  /top-k-frequent-words/
 ---
@@ -57,6 +57,7 @@ permalink:  /top-k-frequent-words/
 
 ### 相似题目
   1. [前K个高频元素](/top-k-frequent-elements) (Medium)
+  1. [最接近原点的 K 个点](/k-closest-points-to-origin) (Medium)
 
 ---
 

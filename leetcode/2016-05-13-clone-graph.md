@@ -2,7 +2,7 @@
 layout:     single
 title:      "克隆图"
 date:       2016-05-13 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Depth-first Search, Breadth-first Search, Graph]
 permalink:  /clone-graph/
 ---

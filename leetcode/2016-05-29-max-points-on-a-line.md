@@ -2,7 +2,7 @@
 layout:     single
 title:      "直线上最多的点数"
 date:       2016-05-29 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Hash Table, Math]
 permalink:  /max-points-on-a-line/
 ---
@@ -44,7 +44,7 @@ permalink:  /max-points-on-a-line/
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
 
 ### 相似题目
-  1. [Line Reflection](/line-reflection) (Medium)
+  1. [直线镜像](/line-reflection) (Medium)
 
 ---
 

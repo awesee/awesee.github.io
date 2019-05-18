@@ -2,7 +2,7 @@
 layout:     single
 title:      "有效三角形的个数"
 date:       2017-09-03 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Array]
 permalink:  /valid-triangle-number/
 ---
@@ -34,7 +34,7 @@ permalink:  /valid-triangle-number/
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 
 ### 相似题目
-  1. [3Sum Smaller](/3sum-smaller) (Medium)
+  1. [较小的三数之和](/3sum-smaller) (Medium)
 
 ---
 

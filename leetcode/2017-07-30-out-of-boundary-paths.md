@@ -2,7 +2,7 @@
 layout:     single
 title:      "出界的路径数"
 date:       2017-07-30 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Depth-first Search, Dynamic Programming]
 permalink:  /out-of-boundary-paths/
 ---

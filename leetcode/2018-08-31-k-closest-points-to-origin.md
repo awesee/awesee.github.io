@@ -2,12 +2,12 @@
 layout:     single
 title:      "最接近原点的 K 个点"
 date:       2018-08-31 21:30:00 +0800
-categories: [leetcode]
-tags:       [Sort, Math, Divide and Conquer]
+categories: [Leetcode]
+tags:       [Heap, Sort, Divide and Conquer]
 permalink:  /k-closest-points-to-origin/
 ---
 
-## 973. 最接近原点的 K 个点 (Easy)
+## 973. 最接近原点的 K 个点 (Medium)
 
 <p>我们有一个由平面上的点组成的列表 <code>points</code>。需要从中找出 <code>K</code> 个距离原点 <code>(0, 0)</code> 最近的点。</p>
 
@@ -46,9 +46,14 @@ permalink:  /k-closest-points-to-origin/
 </ol>
 
 ### 相关话题
+  [[堆](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]
   [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
-  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
   [[分治算法](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]
+
+### 相似题目
+  1. [数组中的第K个最大元素](/kth-largest-element-in-an-array) (Medium)
+  1. [前K个高频元素](/top-k-frequent-elements) (Medium)
+  1. [前K个高频单词](/top-k-frequent-words) (Medium)
 
 ---
 

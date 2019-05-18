@@ -2,7 +2,7 @@
 layout:     single
 title:      "压缩字符串"
 date:       2017-03-19 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [String]
 permalink:  /string-compression/
 ---
@@ -76,8 +76,8 @@ permalink:  /string-compression/
 
 ### 相似题目
   1. [报数](/count-and-say) (Easy)
-  1. [Encode and Decode Strings](/encode-and-decode-strings) (Medium)
-  1. [Design Compressed String Iterator](/design-compressed-string-iterator) (Easy)
+  1. [字符串的编码与解码](/encode-and-decode-strings) (Medium)
+  1. [迭代压缩字符串](/design-compressed-string-iterator) (Easy)
 
 ---
 

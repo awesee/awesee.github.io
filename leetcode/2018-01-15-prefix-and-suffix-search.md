@@ -2,7 +2,7 @@
 layout:     single
 title:      "前缀和后缀搜索"
 date:       2018-01-15 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Trie]
 permalink:  /prefix-and-suffix-search/
 ---

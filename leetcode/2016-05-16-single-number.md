@@ -2,7 +2,7 @@
 layout:     single
 title:      "只出现一次的数字"
 date:       2016-05-16 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Bit Manipulation, Hash Table]
 permalink:  /single-number/
 ---

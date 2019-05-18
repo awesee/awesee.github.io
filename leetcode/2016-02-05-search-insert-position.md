@@ -2,7 +2,7 @@
 layout:     single
 title:      "搜索插入位置"
 date:       2016-02-05 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Array, Binary Search]
 permalink:  /search-insert-position/
 ---

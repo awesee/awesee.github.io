@@ -2,7 +2,7 @@
 layout:     single
 title:      "索引处的解码字符串"
 date:       2018-05-30 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Stack]
 permalink:  /decoded-string-at-index/
 ---

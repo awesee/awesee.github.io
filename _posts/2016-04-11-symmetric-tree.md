@@ -2,7 +2,7 @@
 layout:     single
 title:      "对称二叉树"
 date:       2016-04-11 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Tree, Depth-first Search, Breadth-first Search]
 permalink:  /symmetric-tree/
 ---

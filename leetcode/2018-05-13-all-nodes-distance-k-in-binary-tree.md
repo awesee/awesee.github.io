@@ -2,7 +2,7 @@
 layout:     single
 title:      "二叉树中所有距离为 K 的结点"
 date:       2018-05-13 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Tree, Depth-first Search, Breadth-first Search]
 permalink:  /all-nodes-distance-k-in-binary-tree/
 ---

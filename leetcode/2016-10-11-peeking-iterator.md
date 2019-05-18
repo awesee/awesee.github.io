@@ -2,7 +2,7 @@
 layout:     single
 title:      "顶端迭代器"
 date:       2016-10-11 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Design]
 permalink:  /peeking-iterator/
 ---
@@ -27,8 +27,8 @@ permalink:  /peeking-iterator/
 
 ### 相似题目
   1. [二叉搜索树迭代器](/binary-search-tree-iterator) (Medium)
-  1. [Flatten 2D Vector](/flatten-2d-vector) (Medium)
-  1. [Zigzag Iterator](/zigzag-iterator) (Medium)
+  1. [展开二维向量](/flatten-2d-vector) (Medium)
+  1. [锯齿迭代器](/zigzag-iterator) (Medium)
 
 ---
 

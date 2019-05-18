@@ -2,7 +2,7 @@
 layout:     single
 title:      "目标和"
 date:       2017-05-09 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Depth-first Search, Dynamic Programming]
 permalink:  /target-sum/
 ---

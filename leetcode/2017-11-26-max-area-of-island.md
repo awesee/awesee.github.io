@@ -2,7 +2,7 @@
 layout:     single
 title:      "岛屿的最大面积"
 date:       2017-11-26 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Depth-first Search, Array]
 permalink:  /max-area-of-island/
 ---

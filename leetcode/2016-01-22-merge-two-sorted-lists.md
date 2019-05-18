@@ -2,7 +2,7 @@
 layout:     single
 title:      "合并两个有序链表"
 date:       2016-01-22 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Linked List]
 permalink:  /merge-two-sorted-lists/
 ---
@@ -24,7 +24,7 @@ permalink:  /merge-two-sorted-lists/
   1. [合并K个排序链表](/merge-k-sorted-lists) (Hard)
   1. [合并两个有序数组](/merge-sorted-array) (Easy)
   1. [排序链表](/sort-list) (Medium)
-  1. [Shortest Word Distance II](/shortest-word-distance-ii) (Medium)
+  1. [最短单词距离 II](/shortest-word-distance-ii) (Medium)
 
 ---
 

@@ -2,7 +2,7 @@
 layout:     single
 title:      "腐烂的橘子"
 date:       2018-09-21 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Breadth-first Search]
 permalink:  /rotting-oranges/
 ---
@@ -57,6 +57,9 @@ permalink:  /rotting-oranges/
 
 ### 相关话题
   [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
+
+### 相似题目
+  1. [墙与门](/walls-and-gates) (Medium)
 
 ---
 

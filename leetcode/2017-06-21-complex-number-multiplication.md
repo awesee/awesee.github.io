@@ -2,7 +2,7 @@
 layout:     single
 title:      "复数乘法"
 date:       2017-06-21 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Math, String]
 permalink:  /complex-number-multiplication/
 ---

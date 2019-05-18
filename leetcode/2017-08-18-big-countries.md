@@ -2,7 +2,7 @@
 layout:     single
 title:      "大的国家"
 date:       2017-08-18 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       []
 permalink:  /big-countries/
 ---

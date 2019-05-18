@@ -2,7 +2,7 @@
 layout:     single
 title:      "正则表达式匹配"
 date:       2016-01-11 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [String, Dynamic Programming, Backtracking]
 permalink:  /regular-expression-matching/
 ---

@@ -2,7 +2,7 @@
 layout:     single
 title:      "颜色分类"
 date:       2016-03-16 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Sort, Array, Two Pointers]
 permalink:  /sort-colors/
 ---
@@ -36,7 +36,7 @@ permalink:  /sort-colors/
 
 ### 相似题目
   1. [排序链表](/sort-list) (Medium)
-  1. [Wiggle Sort](/wiggle-sort) (Medium)
+  1. [摆动排序](/wiggle-sort) (Medium)
   1. [摆动排序 II](/wiggle-sort-ii) (Medium)
 
 ---

@@ -2,7 +2,7 @@
 layout:     single
 title:      "机器人能否返回原点"
 date:       2017-10-19 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [String]
 permalink:  /robot-return-to-origin/
 ---

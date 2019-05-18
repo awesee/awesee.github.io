@@ -2,7 +2,7 @@
 layout:     single
 title:      "反转链表"
 date:       2016-07-25 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Linked List]
 permalink:  /reverse-linked-list/
 ---
@@ -24,7 +24,7 @@ permalink:  /reverse-linked-list/
 
 ### 相似题目
   1. [反转链表 II](/reverse-linked-list-ii) (Medium)
-  1. [Binary Tree Upside Down](/binary-tree-upside-down) (Medium)
+  1. [上下翻转二叉树](/binary-tree-upside-down) (Medium)
   1. [回文链表](/palindrome-linked-list) (Easy)
 
 ---

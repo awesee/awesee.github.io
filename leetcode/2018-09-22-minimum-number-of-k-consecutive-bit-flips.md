@@ -2,8 +2,8 @@
 layout:     single
 title:      "K 连续位的最小翻转次数"
 date:       2018-09-22 21:30:00 +0800
-categories: [leetcode]
-tags:       [Array]
+categories: [Leetcode]
+tags:       [Greedy, Sliding Window]
 permalink:  /minimum-number-of-k-consecutive-bit-flips/
 ---
 
@@ -49,7 +49,11 @@ permalink:  /minimum-number-of-k-consecutive-bit-flips/
 </ol>
 
 ### 相关话题
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[Sliding Window](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
+
+### 相似题目
+  1. [灯泡开关](/bulb-switcher) (Medium)
 
 ---
 

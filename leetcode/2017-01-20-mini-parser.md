@@ -2,7 +2,7 @@
 layout:     single
 title:      "迷你语法分析器"
 date:       2017-01-20 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Stack, String]
 permalink:  /mini-parser/
 ---
@@ -55,7 +55,7 @@ permalink:  /mini-parser/
 
 ### 相似题目
   1. [扁平化嵌套列表迭代器](/flatten-nested-list-iterator) (Medium)
-  1. [Ternary Expression Parser](/ternary-expression-parser) (Medium)
+  1. [三元表达式解析器](/ternary-expression-parser) (Medium)
   1. [删除注释](/remove-comments) (Medium)
 
 ---

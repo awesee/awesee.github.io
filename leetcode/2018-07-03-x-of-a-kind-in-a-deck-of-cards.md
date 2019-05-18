@@ -2,7 +2,7 @@
 layout:     single
 title:      "卡牌分组"
 date:       2018-07-03 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Array, Math]
 permalink:  /x-of-a-kind-in-a-deck-of-cards/
 ---

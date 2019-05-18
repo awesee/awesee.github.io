@@ -2,16 +2,18 @@
 layout:     single
 title:      "交换工资"
 date:       2017-09-19 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       []
 permalink:  /swap-salary/
 ---
 
 ## 627. 交换工资 (Easy)
 
-<p>给定一个&nbsp;<code>salary</code>表，如下所示，有m=男性 和 f=女性的值 。交换所有的 f 和 m 值(例如，将所有 f 值更改为 m，反之亦然)。要求使用一个更新查询，并且没有中间临时表。</p>
+<p>给定一个&nbsp;<code>salary</code>&nbsp;表，如下所示，有 m = 男性 和 f = 女性 的值。交换所有的 f 和 m 值（例如，将所有 f 值更改为 m，反之亦然）。要求只使用一个更新（Update）语句，并且没有中间的临时表。</p>
 
-<p>例如:</p>
+<p>注意，您必只能写一个 Update 语句，请不要编写任何 Select 语句。</p>
+
+<p><strong>例如：</strong></p>
 
 <pre>| id | name | sex | salary |
 |----|------|-----|--------|
@@ -21,7 +23,7 @@ permalink:  /swap-salary/
 | 4  | D    | f   | 500    |
 </pre>
 
-<p>运行你所编写的查询语句之后，将会得到以下表:</p>
+<p>运行你所编写的更新语句之后，将会得到以下表:</p>
 
 <pre>| id | name | sex | salary |
 |----|------|-----|--------|

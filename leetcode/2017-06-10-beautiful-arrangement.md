@@ -2,7 +2,7 @@
 layout:     single
 title:      "优美的排列"
 date:       2017-06-10 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Backtracking]
 permalink:  /beautiful-arrangement/
 ---

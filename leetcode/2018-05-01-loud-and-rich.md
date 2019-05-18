@@ -2,7 +2,7 @@
 layout:     single
 title:      "喧闹和富有"
 date:       2018-05-01 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Depth-first Search]
 permalink:  /loud-and-rich/
 ---

@@ -2,7 +2,7 @@
 layout:     single
 title:      "最长连续序列"
 date:       2016-05-08 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Union Find, Array]
 permalink:  /longest-consecutive-sequence/
 ---
@@ -24,7 +24,7 @@ permalink:  /longest-consecutive-sequence/
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 
 ### 相似题目
-  1. [Binary Tree Longest Consecutive Sequence](/binary-tree-longest-consecutive-sequence) (Medium)
+  1. [二叉树的最长连续序列](/binary-tree-longest-consecutive-sequence) (Medium)
 
 ---
 

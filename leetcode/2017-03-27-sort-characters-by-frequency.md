@@ -2,7 +2,7 @@
 layout:     single
 title:      "根据字符出现频率排序"
 date:       2017-03-27 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Heap, Hash Table]
 permalink:  /sort-characters-by-frequency/
 ---

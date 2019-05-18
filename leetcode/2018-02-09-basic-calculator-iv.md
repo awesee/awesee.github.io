@@ -2,7 +2,7 @@
 layout:     single
 title:      "基本计算器 IV"
 date:       2018-02-09 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Stack, Hash Table, String]
 permalink:  /basic-calculator-iv/
 ---
@@ -71,7 +71,7 @@ evalvars = [], evalints = []
 
 ### 相似题目
   1. [Lisp 语法解析](/parse-lisp-expression) (Hard)
-  1. [Basic Calculator III](/basic-calculator-iii) (Hard)
+  1. [基本计算器 III](/basic-calculator-iii) (Hard)
 
 ---
 

@@ -2,7 +2,7 @@
 layout:     single
 title:      "全排列"
 date:       2016-02-16 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Backtracking]
 permalink:  /permutations/
 ---

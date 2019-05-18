@@ -2,7 +2,7 @@
 layout:     single
 title:      "优势洗牌"
 date:       2018-05-20 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Greedy, Array]
 permalink:  /advantage-shuffle/
 ---

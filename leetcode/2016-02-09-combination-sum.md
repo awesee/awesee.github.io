@@ -2,7 +2,7 @@
 layout:     single
 title:      "组合总和"
 date:       2016-02-09 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Array, Backtracking]
 permalink:  /combination-sum/
 ---
@@ -49,7 +49,7 @@ permalink:  /combination-sum/
   1. [组合总和 II](/combination-sum-ii) (Medium)
   1. [组合](/combinations) (Medium)
   1. [组合总和 III](/combination-sum-iii) (Medium)
-  1. [Factor Combinations](/factor-combinations) (Medium)
+  1. [因子的组合](/factor-combinations) (Medium)
   1. [组合总和 Ⅳ](/combination-sum-iv) (Medium)
 
 ---

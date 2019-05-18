@@ -2,7 +2,7 @@
 layout:     single
 title:      "统计重复个数"
 date:       2017-04-11 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Dynamic Programming]
 permalink:  /count-the-repetitions/
 ---

@@ -2,7 +2,7 @@
 layout:     single
 title:      "和为K的子数组"
 date:       2017-07-14 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Array, Hash Table]
 permalink:  /subarray-sum-equals-k/
 ---
@@ -34,6 +34,7 @@ permalink:  /subarray-sum-equals-k/
   1. [连续的子数组和](/continuous-subarray-sum) (Medium)
   1. [乘积小于K的子数组](/subarray-product-less-than-k) (Medium)
   1. [寻找数组的中心索引](/find-pivot-index) (Easy)
+  1. [和可被 K 整除的子数组](/subarray-sums-divisible-by-k) (Medium)
 
 ---
 

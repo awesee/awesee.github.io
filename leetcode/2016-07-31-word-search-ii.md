@@ -2,7 +2,7 @@
 layout:     single
 title:      "单词搜索 II"
 date:       2016-07-31 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Trie, Backtracking]
 permalink:  /word-search-ii/
 ---
@@ -42,6 +42,7 @@ permalink:  /word-search-ii/
 
 ### 相似题目
   1. [单词搜索](/word-search) (Medium)
+  1. [不同路径 III](/unique-paths-iii) (Hard)
 
 ---
 

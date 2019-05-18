@@ -2,7 +2,7 @@
 layout:     single
 title:      "有效的数独"
 date:       2016-02-06 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Hash Table]
 permalink:  /valid-sudoku/
 ---

@@ -2,7 +2,7 @@
 layout:     single
 title:      "重新安排行程"
 date:       2016-11-28 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Depth-first Search, Graph]
 permalink:  /reconstruct-itinerary/
 ---

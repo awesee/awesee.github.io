@@ -2,7 +2,7 @@
 layout:     single
 title:      "猜数字游戏"
 date:       2016-10-26 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Hash Table]
 permalink:  /bulls-and-cows/
 ---

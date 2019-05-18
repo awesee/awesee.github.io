@@ -2,7 +2,7 @@
 layout:     single
 title:      "连续数组"
 date:       2017-06-09 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Hash Table]
 permalink:  /contiguous-array/
 ---
@@ -33,7 +33,7 @@ permalink:  /contiguous-array/
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
 
 ### 相似题目
-  1. [Maximum Size Subarray Sum Equals k](/maximum-size-subarray-sum-equals-k) (Medium)
+  1. [和等于 k 的最长子数组长度](/maximum-size-subarray-sum-equals-k) (Medium)
 
 ---
 

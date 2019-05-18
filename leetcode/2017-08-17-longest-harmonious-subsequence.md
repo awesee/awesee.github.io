@@ -2,7 +2,7 @@
 layout:     single
 title:      "最长和谐子序列"
 date:       2017-08-17 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Hash Table]
 permalink:  /longest-harmonious-subsequence/
 ---

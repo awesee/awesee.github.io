@@ -2,7 +2,7 @@
 layout:     single
 title:      "所有可能的路径"
 date:       2018-03-08 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       []
 permalink:  /all-paths-from-source-to-target/
 ---

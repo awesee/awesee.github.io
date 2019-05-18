@@ -2,7 +2,7 @@
 layout:     single
 title:      "给表达式添加运算符"
 date:       2016-10-09 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Divide and Conquer]
 permalink:  /expression-add-operators/
 ---

@@ -2,7 +2,7 @@
 layout:     single
 title:      "任务调度器"
 date:       2017-09-13 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Greedy, Queue, Array]
 permalink:  /task-scheduler/
 ---
@@ -36,7 +36,7 @@ permalink:  /task-scheduler/
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 
 ### 相似题目
-  1. [Rearrange String k Distance Apart](/rearrange-string-k-distance-apart) (Hard)
+  1. [k 距离重排字符串](/rearrange-string-k-distance-apart) (Hard)
   1. [重构字符串](/reorganize-string) (Medium)
 
 ---

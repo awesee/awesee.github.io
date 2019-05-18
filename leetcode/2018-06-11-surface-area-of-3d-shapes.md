@@ -2,7 +2,7 @@
 layout:     single
 title:      "三维形体的表面积"
 date:       2018-06-11 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Geometry, Math]
 permalink:  /surface-area-of-3d-shapes/
 ---
@@ -13,7 +13,7 @@ permalink:  /surface-area-of-3d-shapes/
 
 <p>每个值&nbsp;<code>v = grid[i][j]</code>&nbsp;表示&nbsp;<code>v</code>&nbsp;个正方体叠放在单元格&nbsp;<code>(i, j)</code>&nbsp;上。</p>
 
-<p>返回结果形体的总表面积。</p>
+<p>返回最终形体的表面积。</p>
 
 <p>&nbsp;</p>
 

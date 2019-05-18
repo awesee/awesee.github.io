@@ -2,7 +2,7 @@
 layout:     single
 title:      "细分图中的可到达结点"
 date:       2018-06-01 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Heap]
 permalink:  /reachable-nodes-in-subdivided-graph/
 ---
@@ -51,6 +51,7 @@ permalink:  /reachable-nodes-in-subdivided-graph/
 	<li><code>0 &lt;= edges[i][2] &lt;= 10000</code></li>
 	<li><code>0 &lt;= M &lt;= 10^9</code></li>
 	<li><code>1 &lt;= N &lt;= 3000</code></li>
+	<li>可到达结点是可以从结点 <code>0</code> 开始使用最多 <code>M</code> 次移动到达的结点。</li>
 </ol>
 
 <p>&nbsp;</p>

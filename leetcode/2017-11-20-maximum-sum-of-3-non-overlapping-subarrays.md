@@ -2,7 +2,7 @@
 layout:     single
 title:      "三个无重叠子数组的最大和"
 date:       2017-11-20 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Array, Dynamic Programming]
 permalink:  /maximum-sum-of-3-non-overlapping-subarrays/
 ---

@@ -2,7 +2,7 @@
 layout:     single
 title:      "交错字符串"
 date:       2016-04-07 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [String, Dynamic Programming]
 permalink:  /interleaving-string/
 ---

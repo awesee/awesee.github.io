@@ -2,7 +2,7 @@
 layout:     single
 title:      "有效的括号"
 date:       2016-01-21 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Stack, String]
 permalink:  /valid-parentheses/
 ---
@@ -57,6 +57,7 @@ permalink:  /valid-parentheses/
   1. [括号生成](/generate-parentheses) (Medium)
   1. [最长有效括号](/longest-valid-parentheses) (Hard)
   1. [删除无效的括号](/remove-invalid-parentheses) (Hard)
+  1. [检查替换后的词是否有效](/check-if-word-is-valid-after-substitutions) (Medium)
 
 ---
 

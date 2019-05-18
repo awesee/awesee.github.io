@@ -2,7 +2,7 @@
 layout:     single
 title:      "全局倒置与局部倒置"
 date:       2018-02-14 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Array, Math]
 permalink:  /global-and-local-inversions/
 ---
