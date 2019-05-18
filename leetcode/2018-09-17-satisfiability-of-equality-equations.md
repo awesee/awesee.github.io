@@ -2,8 +2,8 @@
 layout:     single
 title:      "等式方程的可满足性"
 date:       2018-09-17 21:30:00 +0800
-categories: [leetcode]
-tags:       [Graph]
+categories: [Leetcode]
+tags:       [Union Find, Graph]
 permalink:  /satisfiability-of-equality-equations/
 ---
 
@@ -63,6 +63,7 @@ permalink:  /satisfiability-of-equality-equations/
 </ol>
 
 ### 相关话题
+  [[并查集](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)]
   [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
 
 ---

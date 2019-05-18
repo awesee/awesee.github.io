@@ -2,7 +2,7 @@
 layout:     single
 title:      "只有两个键的键盘"
 date:       2017-10-12 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Dynamic Programming]
 permalink:  /2-keys-keyboard/
 ---
@@ -40,7 +40,8 @@ permalink:  /2-keys-keyboard/
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### 相似题目
-  1. [4 Keys Keyboard](/4-keys-keyboard) (Medium)
+  1. [4键键盘](/4-keys-keyboard) (Medium)
+  1. [坏了的计算器](/broken-calculator) (Medium)
 
 ---
 

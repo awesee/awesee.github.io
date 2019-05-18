@@ -2,7 +2,7 @@
 layout:     single
 title:      "比特位计数"
 date:       2016-12-04 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Bit Manipulation, Dynamic Programming]
 permalink:  /counting-bits/
 ---

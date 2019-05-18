@@ -2,7 +2,7 @@
 layout:     single
 title:      "串联所有单词的子串"
 date:       2016-01-31 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Hash Table, Two Pointers, String]
 permalink:  /substring-with-concatenation-of-all-words/
 ---

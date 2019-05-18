@@ -2,7 +2,7 @@
 layout:     single
 title:      "打家劫舍 III"
 date:       2016-12-03 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Tree, Depth-first Search]
 permalink:  /house-robber-iii/
 ---

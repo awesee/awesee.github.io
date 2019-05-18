@@ -2,8 +2,8 @@
 layout:     single
 title:      "和可被 K 整除的子数组"
 date:       2018-09-01 21:30:00 +0800
-categories: [leetcode]
-tags:       [Array]
+categories: [Leetcode]
+tags:       [Array, Hash Table]
 permalink:  /subarray-sums-divisible-by-k/
 ---
 
@@ -34,6 +34,10 @@ permalink:  /subarray-sums-divisible-by-k/
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+
+### 相似题目
+  1. [和为K的子数组](/subarray-sum-equals-k) (Medium)
 
 ---
 

@@ -2,7 +2,7 @@
 layout:     single
 title:      "上升的温度"
 date:       2016-07-16 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       []
 permalink:  /rising-temperature/
 ---

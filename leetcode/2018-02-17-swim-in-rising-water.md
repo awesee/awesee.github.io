@@ -2,7 +2,7 @@
 layout:     single
 title:      "水位上升的泳池中游泳"
 date:       2018-02-17 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Heap, Depth-first Search, Union Find, Binary Search]
 permalink:  /swim-in-rising-water/
 ---

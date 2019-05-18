@@ -2,7 +2,7 @@
 layout:     single
 title:      "等差数列划分"
 date:       2017-02-17 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Math, Dynamic Programming]
 permalink:  /arithmetic-slices/
 ---

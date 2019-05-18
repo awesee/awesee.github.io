@@ -2,7 +2,7 @@
 layout:     single
 title:      "找到 K 个最接近的元素"
 date:       2017-10-20 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Binary Search]
 permalink:  /find-k-closest-elements/
 ---

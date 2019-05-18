@@ -2,7 +2,7 @@
 layout:     single
 title:      "添加与搜索单词 - 数据结构设计"
 date:       2016-07-30 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Design, Trie, Backtracking]
 permalink:  /add-and-search-word-data-structure-design/
 ---

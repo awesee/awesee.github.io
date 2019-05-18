@@ -2,7 +2,7 @@
 layout:     single
 title:      "数组的均值分割"
 date:       2018-03-16 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Math]
 permalink:  /split-array-with-same-average/
 ---

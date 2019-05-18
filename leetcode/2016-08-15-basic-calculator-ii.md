@@ -2,7 +2,7 @@
 layout:     single
 title:      "基本计算器 II"
 date:       2016-08-15 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [String]
 permalink:  /basic-calculator-ii/
 ---
@@ -43,7 +43,7 @@ permalink:  /basic-calculator-ii/
 ### 相似题目
   1. [基本计算器](/basic-calculator) (Hard)
   1. [给表达式添加运算符](/expression-add-operators) (Hard)
-  1. [Basic Calculator III](/basic-calculator-iii) (Hard)
+  1. [基本计算器 III](/basic-calculator-iii) (Hard)
 
 ---
 

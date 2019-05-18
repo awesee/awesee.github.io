@@ -2,7 +2,7 @@
 layout:     single
 title:      "矩形区域不超过 K 的最大数值和"
 date:       2016-12-29 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Queue, Binary Search, Dynamic Programming]
 permalink:  /max-sum-of-rectangle-no-larger-than-k/
 ---

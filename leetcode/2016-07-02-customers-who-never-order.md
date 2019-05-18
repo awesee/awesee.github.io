@@ -2,7 +2,7 @@
 layout:     single
 title:      "从不订购的客户"
 date:       2016-07-02 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       []
 permalink:  /customers-who-never-order/
 ---

@@ -2,7 +2,7 @@
 layout:     single
 title:      "甲板上的战舰"
 date:       2017-02-23 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       []
 permalink:  /battleships-in-a-board/
 ---

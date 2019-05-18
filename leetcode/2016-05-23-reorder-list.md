@@ -2,7 +2,7 @@
 layout:     single
 title:      "重排链表"
 date:       2016-05-23 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Linked List]
 permalink:  /reorder-list/
 ---

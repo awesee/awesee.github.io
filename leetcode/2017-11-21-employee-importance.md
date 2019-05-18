@@ -2,7 +2,7 @@
 layout:     single
 title:      "员工的重要性"
 date:       2017-11-21 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Depth-first Search, Breadth-first Search, Hash Table]
 permalink:  /employee-importance/
 ---
@@ -37,7 +37,7 @@ permalink:  /employee-importance/
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
 
 ### 相似题目
-  1. [Nested List Weight Sum](/nested-list-weight-sum) (Easy)
+  1. [嵌套列表权重和](/nested-list-weight-sum) (Easy)
 
 ---
 

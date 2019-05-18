@@ -2,7 +2,7 @@
 layout:     single
 title:      "图像重叠"
 date:       2018-04-15 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Array]
 permalink:  /image-overlap/
 ---

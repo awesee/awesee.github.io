@@ -2,7 +2,7 @@
 layout:     single
 title:      "路径总和 II"
 date:       2016-04-23 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Tree, Depth-first Search]
 permalink:  /path-sum-ii/
 ---
@@ -41,7 +41,7 @@ permalink:  /path-sum-ii/
   1. [路径总和](/path-sum) (Easy)
   1. [二叉树的所有路径](/binary-tree-paths) (Easy)
   1. [路径总和 III](/path-sum-iii) (Easy)
-  1. [Path Sum IV](/path-sum-iv) (Medium)
+  1. [路径和 IV](/path-sum-iv) (Medium)
 
 ---
 

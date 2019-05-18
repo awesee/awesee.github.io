@@ -2,7 +2,7 @@
 layout:     single
 title:      "K 站中转内最便宜的航班"
 date:       2018-02-26 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Heap, Breadth-first Search, Dynamic Programming]
 permalink:  /cheapest-flights-within-k-stops/
 ---
@@ -52,7 +52,7 @@ src = 0, dst = 2, k = 0
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### 相似题目
-  1. [Maximum Vacation Days](/maximum-vacation-days) (Hard)
+  1. [最大休假天数](/maximum-vacation-days) (Hard)
 
 ---
 

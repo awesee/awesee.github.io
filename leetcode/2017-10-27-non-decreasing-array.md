@@ -2,7 +2,7 @@
 layout:     single
 title:      "非递减数列"
 date:       2017-10-27 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Array]
 permalink:  /non-decreasing-array/
 ---

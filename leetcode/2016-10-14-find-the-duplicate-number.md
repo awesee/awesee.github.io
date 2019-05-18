@@ -2,7 +2,7 @@
 layout:     single
 title:      "寻找重复数"
 date:       2016-10-14 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Array, Two Pointers, Binary Search]
 permalink:  /find-the-duplicate-number/
 ---

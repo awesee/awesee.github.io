@@ -2,7 +2,7 @@
 layout:     single
 title:      "亲密字符串"
 date:       2018-05-09 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [String]
 permalink:  /buddy-strings/
 ---

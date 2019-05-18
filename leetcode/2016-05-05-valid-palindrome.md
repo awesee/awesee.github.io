@@ -2,7 +2,7 @@
 layout:     single
 title:      "验证回文串"
 date:       2016-05-05 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Two Pointers, String]
 permalink:  /valid-palindrome/
 ---

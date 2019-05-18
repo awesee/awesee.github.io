@@ -2,7 +2,7 @@
 layout:     single
 title:      "三个数的最大乘积"
 date:       2017-09-20 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Array, Math]
 permalink:  /maximum-product-of-three-numbers/
 ---

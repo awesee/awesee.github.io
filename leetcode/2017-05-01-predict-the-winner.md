@@ -2,7 +2,7 @@
 layout:     single
 title:      "预测赢家"
 date:       2017-05-01 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Minimax, Dynamic Programming]
 permalink:  /predict-the-winner/
 ---

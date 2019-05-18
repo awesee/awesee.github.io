@@ -2,14 +2,14 @@
 layout:     single
 title:      "按奇偶排序数组"
 date:       2018-06-24 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Array]
 permalink:  /sort-array-by-parity/
 ---
 
 ## 905. 按奇偶排序数组 (Easy)
 
-<p>给定一个非负整数数组 <code>A</code>，返回一个由 <code>A</code> 的所有偶数元素组成的数组，后面跟 <code>A</code> 的所有奇数元素。</p>
+<p>给定一个非负整数数组 <code>A</code>，返回一个数组，在该数组中，&nbsp;<code>A</code> 的所有偶数元素之后跟着所有奇数元素。</p>
 
 <p>你可以返回满足此条件的任何数组作为答案。</p>
 

@@ -2,7 +2,7 @@
 layout:     single
 title:      "完全平方数"
 date:       2016-10-06 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Breadth-first Search, Math, Dynamic Programming]
 permalink:  /perfect-squares/
 ---

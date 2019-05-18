@@ -2,7 +2,7 @@
 layout:     single
 title:      "对角线遍历"
 date:       2017-05-13 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       []
 permalink:  /diagonal-traverse/
 ---

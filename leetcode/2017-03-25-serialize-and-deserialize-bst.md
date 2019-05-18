@@ -2,7 +2,7 @@
 layout:     single
 title:      "序列化和反序列化二叉搜索树"
 date:       2017-03-25 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Tree]
 permalink:  /serialize-and-deserialize-bst/
 ---
@@ -23,7 +23,7 @@ permalink:  /serialize-and-deserialize-bst/
 ### 相似题目
   1. [二叉树的序列化与反序列化](/serialize-and-deserialize-binary-tree) (Hard)
   1. [寻找重复的子树](/find-duplicate-subtrees) (Medium)
-  1. [Serialize and Deserialize N-ary Tree](/serialize-and-deserialize-n-ary-tree) (Hard)
+  1. [序列化和反序列化 N 叉树](/serialize-and-deserialize-n-ary-tree) (Hard)
 
 ---
 

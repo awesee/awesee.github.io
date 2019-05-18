@@ -2,7 +2,7 @@
 layout:     single
 title:      "验证IP地址"
 date:       2017-04-13 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [String]
 permalink:  /validate-ip-address/
 ---
@@ -57,7 +57,7 @@ permalink:  /validate-ip-address/
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ### 相似题目
-  1. [IP to CIDR](/ip-to-cidr) (Easy)
+  1. [IP 到 CIDR](/ip-to-cidr) (Easy)
 
 ---
 

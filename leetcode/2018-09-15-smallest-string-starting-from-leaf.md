@@ -2,8 +2,8 @@
 layout:     single
 title:      "从叶结点开始的最小字符串"
 date:       2018-09-15 21:30:00 +0800
-categories: [leetcode]
-tags:       [Tree]
+categories: [Leetcode]
+tags:       [Tree, Depth-first Search]
 permalink:  /smallest-string-starting-from-leaf/
 ---
 
@@ -49,14 +49,17 @@ permalink:  /smallest-string-starting-from-leaf/
 <p><strong>提示：</strong></p>
 
 <ol>
-	<li>给定树的结点数介于&nbsp;<code>1</code> 和&nbsp;<code>1000</code>&nbsp;之间。</li>
+	<li>给定树的结点数介于&nbsp;<code>1</code> 和&nbsp;<code>8500</code>&nbsp;之间。</li>
 	<li>树中的每个结点都有一个介于&nbsp;<code>0</code>&nbsp;和&nbsp;<code>25</code>&nbsp;之间的值。</li>
 </ol>
 
-<p>&nbsp;</p>
-
 ### 相关话题
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+
+### 相似题目
+  1. [求根到叶子节点数字之和](/sum-root-to-leaf-numbers) (Medium)
+  1. [二叉树的所有路径](/binary-tree-paths) (Easy)
 
 ---
 

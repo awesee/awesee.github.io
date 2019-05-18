@@ -2,7 +2,7 @@
 layout:     single
 title:      "二叉树中的最大路径和"
 date:       2016-05-04 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Tree, Depth-first Search]
 permalink:  /binary-tree-maximum-path-sum/
 ---
@@ -43,7 +43,7 @@ permalink:  /binary-tree-maximum-path-sum/
 ### 相似题目
   1. [路径总和](/path-sum) (Easy)
   1. [求根到叶子节点数字之和](/sum-root-to-leaf-numbers) (Medium)
-  1. [Path Sum IV](/path-sum-iv) (Medium)
+  1. [路径和 IV](/path-sum-iv) (Medium)
   1. [最长同值路径](/longest-univalue-path) (Easy)
 
 ---

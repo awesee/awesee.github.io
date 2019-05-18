@@ -2,7 +2,7 @@
 layout:     single
 title:      "常数时间插入、删除和获取随机元素"
 date:       2017-01-15 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Design, Array, Hash Table]
 permalink:  /insert-delete-getrandom-o1/
 ---

@@ -2,7 +2,7 @@
 layout:     single
 title:      "最小好进制"
 date:       2017-04-28 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Math, Binary Search]
 permalink:  /smallest-good-base/
 ---

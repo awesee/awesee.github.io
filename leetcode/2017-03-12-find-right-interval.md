@@ -2,7 +2,7 @@
 layout:     single
 title:      "寻找右区间"
 date:       2017-03-12 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Binary Search]
 permalink:  /find-right-interval/
 ---
@@ -54,7 +54,7 @@ permalink:  /find-right-interval/
   [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
 
 ### 相似题目
-  1. [将数据流变为多个不相交间隔](/data-stream-as-disjoint-intervals) (Hard)
+  1. [将数据流变为多个不相交区间](/data-stream-as-disjoint-intervals) (Hard)
 
 ---
 

@@ -2,7 +2,7 @@
 layout:     single
 title:      "打砖块"
 date:       2018-03-14 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Union Find]
 permalink:  /bricks-falling-when-hit/
 ---

@@ -2,7 +2,7 @@
 layout:     single
 title:      "二叉树展开为链表"
 date:       2016-04-24 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Tree, Depth-first Search]
 permalink:  /flatten-binary-tree-to-linked-list/
 ---

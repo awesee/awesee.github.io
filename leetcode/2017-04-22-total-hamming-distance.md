@@ -2,7 +2,7 @@
 layout:     single
 title:      "汉明距离总和"
 date:       2017-04-22 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Bit Manipulation]
 permalink:  /total-hamming-distance/
 ---

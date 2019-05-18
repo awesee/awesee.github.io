@@ -2,7 +2,7 @@
 layout:     single
 title:      "全 O(1) 的数据结构"
 date:       2017-03-08 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Design]
 permalink:  /all-oone-data-structure/
 ---

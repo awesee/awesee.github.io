@@ -2,7 +2,7 @@
 layout:     single
 title:      "合并两个有序数组"
 date:       2016-03-29 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Array, Two Pointers]
 permalink:  /merge-sorted-array/
 ---
@@ -32,6 +32,8 @@ nums2 = [2,5,6],       n = 3
 
 ### 相似题目
   1. [合并两个有序链表](/merge-two-sorted-lists) (Easy)
+  1. [有序数组的平方](/squares-of-a-sorted-array) (Easy)
+  1. [区间列表的交集](/interval-list-intersections) (Medium)
 
 ---
 

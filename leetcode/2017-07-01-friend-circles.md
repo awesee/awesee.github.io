@@ -2,7 +2,7 @@
 layout:     single
 title:      "朋友圈"
 date:       2017-07-01 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Depth-first Search, Union Find]
 permalink:  /friend-circles/
 ---
@@ -49,10 +49,10 @@ permalink:  /friend-circles/
   [[并查集](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)]
 
 ### 相似题目
-  1. [Number of Connected Components in an Undirected Graph](/number-of-connected-components-in-an-undirected-graph) (Medium)
+  1. [无向图中连通分量的数目](/number-of-connected-components-in-an-undirected-graph) (Medium)
   1. [机器人能否返回原点](/robot-return-to-origin) (Easy)
-  1. [Sentence Similarity](/sentence-similarity) (Easy)
-  1. [Sentence Similarity II](/sentence-similarity-ii) (Medium)
+  1. [句子相似性](/sentence-similarity) (Easy)
+  1. [句子相似性 II](/sentence-similarity-ii) (Medium)
 
 ---
 

@@ -2,7 +2,7 @@
 layout:     single
 title:      "报数"
 date:       2016-02-08 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [String]
 permalink:  /count-and-say/
 ---
@@ -44,7 +44,7 @@ permalink:  /count-and-say/
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ### 相似题目
-  1. [Encode and Decode Strings](/encode-and-decode-strings) (Medium)
+  1. [字符串的编码与解码](/encode-and-decode-strings) (Medium)
   1. [压缩字符串](/string-compression) (Easy)
 
 ---

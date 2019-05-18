@@ -2,7 +2,7 @@
 layout:     single
 title:      "键值映射"
 date:       2017-11-08 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Trie]
 permalink:  /map-sum-pairs/
 ---

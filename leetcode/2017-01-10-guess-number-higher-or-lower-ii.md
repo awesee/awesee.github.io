@@ -2,7 +2,7 @@
 layout:     single
 title:      "猜数字大小 II"
 date:       2017-01-10 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Minimax, Dynamic Programming]
 permalink:  /guess-number-higher-or-lower-ii/
 ---
@@ -37,7 +37,7 @@ permalink:  /guess-number-higher-or-lower-ii/
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### 相似题目
-  1. [Flip Game II](/flip-game-ii) (Medium)
+  1. [翻转游戏 II](/flip-game-ii) (Medium)
   1. [猜数字大小](/guess-number-higher-or-lower) (Easy)
   1. [我能赢吗](/can-i-win) (Medium)
   1. [找到 K 个最接近的元素](/find-k-closest-elements) (Medium)

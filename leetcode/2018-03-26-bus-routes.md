@@ -2,7 +2,7 @@
 layout:     single
 title:      "公交路线"
 date:       2018-03-26 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Breadth-first Search]
 permalink:  /bus-routes/
 ---

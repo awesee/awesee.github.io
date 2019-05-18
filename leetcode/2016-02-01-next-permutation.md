@@ -2,7 +2,7 @@
 layout:     single
 title:      "下一个排列"
 date:       2016-02-01 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Array]
 permalink:  /next-permutation/
 ---
@@ -27,7 +27,7 @@ permalink:  /next-permutation/
   1. [全排列](/permutations) (Medium)
   1. [全排列 II](/permutations-ii) (Medium)
   1. [第k个排列](/permutation-sequence) (Medium)
-  1. [Palindrome Permutation II](/palindrome-permutation-ii) (Medium)
+  1. [回文排列 II](/palindrome-permutation-ii) (Medium)
 
 ---
 

@@ -2,7 +2,7 @@
 layout:     single
 title:      "解数独"
 date:       2016-02-07 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Hash Table, Backtracking]
 permalink:  /sudoku-solver/
 ---
@@ -43,6 +43,7 @@ permalink:  /sudoku-solver/
 
 ### 相似题目
   1. [有效的数独](/valid-sudoku) (Medium)
+  1. [不同路径 III](/unique-paths-iii) (Hard)
 
 ---
 

@@ -2,7 +2,7 @@
 layout:     single
 title:      "多米诺和托米诺平铺"
 date:       2018-03-01 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Dynamic Programming]
 permalink:  /domino-and-tromino-tiling/
 ---

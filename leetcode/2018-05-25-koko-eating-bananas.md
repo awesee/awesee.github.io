@@ -2,7 +2,7 @@
 layout:     single
 title:      "爱吃香蕉的珂珂"
 date:       2018-05-25 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Binary Search]
 permalink:  /koko-eating-bananas/
 ---
@@ -54,7 +54,7 @@ permalink:  /koko-eating-bananas/
   [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
 
 ### 相似题目
-  1. [Minimize Max Distance to Gas Station](/minimize-max-distance-to-gas-station) (Hard)
+  1. [最小化加油站的最大距离](/minimize-max-distance-to-gas-station) (Hard)
 
 ---
 

@@ -2,7 +2,7 @@
 layout:     single
 title:      "区间子数组个数"
 date:       2018-03-06 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Array]
 permalink:  /number-of-subarrays-with-bounded-maximum/
 ---

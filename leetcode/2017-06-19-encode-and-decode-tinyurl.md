@@ -2,7 +2,7 @@
 layout:     single
 title:      "TinyURL 的加密与解密"
 date:       2017-06-19 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Hash Table, Math]
 permalink:  /encode-and-decode-tinyurl/
 ---

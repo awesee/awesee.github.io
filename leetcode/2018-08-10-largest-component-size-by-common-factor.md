@@ -2,7 +2,7 @@
 layout:     single
 title:      "按公因数计算最大组件大小"
 date:       2018-08-10 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Union Find, Math]
 permalink:  /largest-component-size-by-common-factor/
 ---

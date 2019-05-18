@@ -2,7 +2,7 @@
 layout:     single
 title:      "二分查找"
 date:       2017-12-05 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Binary Search]
 permalink:  /binary-search/
 ---
@@ -40,7 +40,7 @@ permalink:  /binary-search/
   [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
 
 ### 相似题目
-  1. [Search in a Sorted Array of Unknown Size](/search-in-a-sorted-array-of-unknown-size) (Medium)
+  1. [搜索长度未知的有序数组](/search-in-a-sorted-array-of-unknown-size) (Medium)
 
 ---
 

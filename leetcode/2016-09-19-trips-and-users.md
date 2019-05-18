@@ -2,7 +2,7 @@
 layout:     single
 title:      "行程和用户"
 date:       2016-09-19 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       []
 permalink:  /trips-and-users/
 ---

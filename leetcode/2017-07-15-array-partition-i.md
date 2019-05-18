@@ -2,7 +2,7 @@
 layout:     single
 title:      "数组拆分 I"
 date:       2017-07-15 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Array]
 permalink:  /array-partition-i/
 ---

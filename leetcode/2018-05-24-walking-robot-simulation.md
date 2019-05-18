@@ -2,7 +2,7 @@
 layout:     single
 title:      "模拟行走机器人"
 date:       2018-05-24 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Greedy]
 permalink:  /walking-robot-simulation/
 ---

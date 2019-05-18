@@ -2,7 +2,7 @@
 layout:     single
 title:      "戳印序列"
 date:       2018-07-25 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Greedy, String]
 permalink:  /stamping-the-sequence/
 ---

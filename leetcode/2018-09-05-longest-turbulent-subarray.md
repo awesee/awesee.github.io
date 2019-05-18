@@ -2,8 +2,8 @@
 layout:     single
 title:      "最长湍流子数组"
 date:       2018-09-05 21:30:00 +0800
-categories: [leetcode]
-tags:       [Array]
+categories: [Leetcode]
+tags:       [Array, Dynamic Programming, Sliding Window]
 permalink:  /longest-turbulent-subarray/
 ---
 
@@ -52,6 +52,11 @@ permalink:  /longest-turbulent-subarray/
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Sliding Window](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
+
+### 相似题目
+  1. [最大子序和](/maximum-subarray) (Easy)
 
 ---
 

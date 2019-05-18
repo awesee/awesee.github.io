@@ -2,7 +2,7 @@
 layout:     single
 title:      "网格照明"
 date:       2018-09-28 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Hash Table]
 permalink:  /grid-illumination/
 ---
@@ -55,6 +55,9 @@ permalink:  /grid-illumination/
 
 ### 相关话题
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+
+### 相似题目
+  1. [N皇后](/n-queens) (Hard)
 
 ---
 

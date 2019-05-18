@@ -2,7 +2,7 @@
 layout:     single
 title:      "连接词"
 date:       2017-04-17 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Depth-first Search, Trie, Dynamic Programming]
 permalink:  /concatenated-words/
 ---

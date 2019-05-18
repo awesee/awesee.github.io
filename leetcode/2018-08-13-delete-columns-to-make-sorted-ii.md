@@ -2,7 +2,7 @@
 layout:     single
 title:      "删列造序 II"
 date:       2018-08-13 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Greedy]
 permalink:  /delete-columns-to-make-sorted-ii/
 ---

@@ -2,7 +2,7 @@
 layout:     single
 title:      "密钥格式化"
 date:       2017-04-27 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       []
 permalink:  /license-key-formatting/
 ---

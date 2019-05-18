@@ -2,7 +2,7 @@
 layout:     single
 title:      "字母异位词分组"
 date:       2016-02-19 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Hash Table, String]
 permalink:  /group-anagrams/
 ---
@@ -34,7 +34,7 @@ permalink:  /group-anagrams/
 
 ### 相似题目
   1. [有效的字母异位词](/valid-anagram) (Easy)
-  1. [Group Shifted Strings](/group-shifted-strings) (Medium)
+  1. [移位字符串分组](/group-shifted-strings) (Medium)
 
 ---
 

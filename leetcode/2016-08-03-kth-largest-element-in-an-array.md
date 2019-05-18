@@ -2,7 +2,7 @@
 layout:     single
 title:      "数组中的第K个最大元素"
 date:       2016-08-03 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Heap, Divide and Conquer]
 permalink:  /kth-largest-element-in-an-array/
 ---
@@ -35,6 +35,7 @@ permalink:  /kth-largest-element-in-an-array/
   1. [前K个高频元素](/top-k-frequent-elements) (Medium)
   1. [第三大的数](/third-maximum-number) (Easy)
   1. [数据流中的第K大元素](/kth-largest-element-in-a-stream) (Easy)
+  1. [最接近原点的 K 个点](/k-closest-points-to-origin) (Medium)
 
 ---
 

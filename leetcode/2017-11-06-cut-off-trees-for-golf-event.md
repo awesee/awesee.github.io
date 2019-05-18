@@ -2,7 +2,7 @@
 layout:     single
 title:      "为高尔夫比赛砍树"
 date:       2017-11-06 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Breadth-first Search]
 permalink:  /cut-off-trees-for-golf-event/
 ---

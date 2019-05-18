@@ -2,7 +2,7 @@
 layout:     single
 title:      "相对名次"
 date:       2017-05-21 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       []
 permalink:  /relative-ranks/
 ---

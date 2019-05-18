@@ -2,7 +2,7 @@
 layout:     single
 title:      "大礼包"
 date:       2017-09-30 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Depth-first Search, Dynamic Programming]
 permalink:  /shopping-offers/
 ---

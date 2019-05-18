@@ -2,7 +2,7 @@
 layout:     single
 title:      "按位与为零的三元组"
 date:       2018-09-09 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Dynamic Programming]
 permalink:  /triples-with-bitwise-and-equal-to-zero/
 ---
@@ -45,7 +45,7 @@ permalink:  /triples-with-bitwise-and-equal-to-zero/
 
 <ol>
 	<li><code>1 &lt;= A.length &lt;= 1000</code></li>
-	<li><code>0 &lt;= A[i] &lt; 2048</code></li>
+	<li><code>0 &lt;= A[i] &lt; 2^16</code></li>
 </ol>
 
 ### 相关话题

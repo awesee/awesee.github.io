@@ -1,13 +1,13 @@
 ---
 layout:     single
-title:      "数字1的个数"
+title:      "数字 1 的个数"
 date:       2016-08-21 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Math]
 permalink:  /number-of-digit-one/
 ---
 
-## 233. 数字1的个数 (Hard)
+## 233. 数字 1 的个数 (Hard)
 
 <p>给定一个整数 n，计算所有小于等于 n 的非负整数中数字 1 出现的个数。</p>
 

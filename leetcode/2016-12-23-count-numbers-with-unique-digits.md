@@ -2,7 +2,7 @@
 layout:     single
 title:      "计算各个位数不同的数字个数"
 date:       2016-12-23 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Math, Dynamic Programming, Backtracking]
 permalink:  /count-numbers-with-unique-digits/
 ---

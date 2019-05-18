@@ -2,7 +2,7 @@
 layout:     single
 title:      "最优除法"
 date:       2017-07-07 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Math, String]
 permalink:  /optimal-division/
 ---

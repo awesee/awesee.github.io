@@ -2,7 +2,7 @@
 layout:     single
 title:      "前K个高频元素"
 date:       2016-12-13 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Heap, Hash Table]
 permalink:  /top-k-frequent-elements/
 ---
@@ -39,6 +39,7 @@ permalink:  /top-k-frequent-elements/
   1. [根据字符出现频率排序](/sort-characters-by-frequency) (Medium)
   1. [分割数组为连续子序列](/split-array-into-consecutive-subsequences) (Medium)
   1. [前K个高频单词](/top-k-frequent-words) (Medium)
+  1. [最接近原点的 K 个点](/k-closest-points-to-origin) (Medium)
 
 ---
 

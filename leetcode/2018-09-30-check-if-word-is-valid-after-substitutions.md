@@ -2,8 +2,8 @@
 layout:     single
 title:      "检查替换后的词是否有效"
 date:       2018-09-30 21:30:00 +0800
-categories: [leetcode]
-tags:       [Stack]
+categories: [Leetcode]
+tags:       [Stack, String]
 permalink:  /check-if-word-is-valid-after-substitutions/
 ---
 
@@ -61,6 +61,10 @@ permalink:  /check-if-word-is-valid-after-substitutions/
 
 ### 相关话题
   [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+
+### 相似题目
+  1. [有效的括号](/valid-parentheses) (Easy)
 
 ---
 

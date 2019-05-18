@@ -2,7 +2,7 @@
 layout:     single
 title:      "打乱数组"
 date:       2017-01-19 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       []
 permalink:  /shuffle-an-array/
 ---

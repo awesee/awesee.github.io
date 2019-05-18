@@ -2,7 +2,7 @@
 layout:     single
 title:      "最小面积矩形"
 date:       2018-07-28 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Hash Table]
 permalink:  /minimum-area-rectangle/
 ---

@@ -2,7 +2,7 @@
 layout:     single
 title:      "最小面积矩形 II"
 date:       2018-08-21 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Geometry, Math]
 permalink:  /minimum-area-rectangle-ii/
 ---

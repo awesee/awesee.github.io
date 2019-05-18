@@ -2,7 +2,7 @@
 layout:     single
 title:      "将数组拆分成斐波那契序列"
 date:       2018-04-22 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Greedy, String, Backtracking]
 permalink:  /split-array-into-fibonacci-sequence/
 ---

@@ -2,7 +2,7 @@
 layout:     single
 title:      "二叉树的中序遍历"
 date:       2016-04-04 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Stack, Tree, Hash Table]
 permalink:  /binary-tree-inorder-traversal/
 ---
@@ -35,9 +35,9 @@ permalink:  /binary-tree-inorder-traversal/
   1. [二叉树的后序遍历](/binary-tree-postorder-traversal) (Hard)
   1. [二叉搜索树迭代器](/binary-search-tree-iterator) (Medium)
   1. [二叉搜索树中第K小的元素](/kth-smallest-element-in-a-bst) (Medium)
-  1. [Closest Binary Search Tree Value II](/closest-binary-search-tree-value-ii) (Hard)
-  1. [Inorder Successor in BST](/inorder-successor-in-bst) (Medium)
-  1. [Convert Binary Search Tree to Sorted Doubly Linked List](/convert-binary-search-tree-to-sorted-doubly-linked-list) (Medium)
+  1. [最接近的二叉搜索树值 II](/closest-binary-search-tree-value-ii) (Hard)
+  1. [二叉搜索树中的顺序后继](/inorder-successor-in-bst) (Medium)
+  1. [将二叉搜索树转化为排序的双向链表](/convert-binary-search-tree-to-sorted-doubly-linked-list) (Medium)
   1. [二叉搜索树结点最小距离](/minimum-distance-between-bst-nodes) (Easy)
 
 ---

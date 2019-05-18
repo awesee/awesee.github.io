@@ -2,7 +2,7 @@
 layout:     single
 title:      "最大频率栈"
 date:       2018-06-14 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Stack, Hash Table]
 permalink:  /maximum-frequency-stack/
 ---

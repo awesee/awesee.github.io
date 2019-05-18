@@ -2,7 +2,7 @@
 layout:     single
 title:      "课程表 II"
 date:       2016-07-29 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Depth-first Search, Breadth-first Search, Graph, Topological Sort]
 permalink:  /course-schedule-ii/
 ---
@@ -56,9 +56,9 @@ permalink:  /course-schedule-ii/
 
 ### 相似题目
   1. [课程表](/course-schedule) (Medium)
-  1. [Alien Dictionary](/alien-dictionary) (Hard)
+  1. [火星词典](/alien-dictionary) (Hard)
   1. [最小高度树](/minimum-height-trees) (Medium)
-  1. [Sequence Reconstruction](/sequence-reconstruction) (Medium)
+  1. [序列重建](/sequence-reconstruction) (Medium)
   1. [课程表 III](/course-schedule-iii) (Hard)
 
 ---

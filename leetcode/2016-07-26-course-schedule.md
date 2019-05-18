@@ -2,7 +2,7 @@
 layout:     single
 title:      "课程表"
 date:       2016-07-26 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Depth-first Search, Breadth-first Search, Graph, Topological Sort]
 permalink:  /course-schedule/
 ---
@@ -52,7 +52,7 @@ permalink:  /course-schedule/
 
 ### 相似题目
   1. [课程表 II](/course-schedule-ii) (Medium)
-  1. [Graph Valid Tree](/graph-valid-tree) (Medium)
+  1. [以图判树](/graph-valid-tree) (Medium)
   1. [最小高度树](/minimum-height-trees) (Medium)
   1. [课程表 III](/course-schedule-iii) (Hard)
 

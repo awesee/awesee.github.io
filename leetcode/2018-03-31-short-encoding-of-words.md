@@ -2,7 +2,7 @@
 layout:     single
 title:      "单词的压缩编码"
 date:       2018-03-31 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       []
 permalink:  /short-encoding-of-words/
 ---

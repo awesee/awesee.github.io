@@ -2,7 +2,7 @@
 layout:     single
 title:      "灯泡开关"
 date:       2016-11-15 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Brainteaser, Math]
 permalink:  /bulb-switcher/
 ---
@@ -30,6 +30,7 @@ permalink:  /bulb-switcher/
 
 ### 相似题目
   1. [灯泡开关 Ⅱ](/bulb-switcher-ii) (Medium)
+  1. [K 连续位的最小翻转次数](/minimum-number-of-k-consecutive-bit-flips) (Hard)
 
 ---
 

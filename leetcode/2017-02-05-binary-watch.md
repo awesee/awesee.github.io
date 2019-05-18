@@ -2,7 +2,7 @@
 layout:     single
 title:      "二进制手表"
 date:       2017-02-05 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Bit Manipulation, Backtracking]
 permalink:  /binary-watch/
 ---

@@ -2,7 +2,7 @@
 layout:     single
 title:      "元音拼写检查器"
 date:       2018-08-24 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Hash Table, String]
 permalink:  /vowel-spellchecker/
 ---
@@ -39,7 +39,7 @@ permalink:  /vowel-spellchecker/
 	<li>如果该查询在单词列表中没有匹配项，则应返回空字符串。</li>
 </ul>
 
-<p>给出一些查询 <code>queries</code>，返回一个单词答案列表 <code>answer</code>，其中 <code>answer[i]</code> 是由查询 <code>query = queries[i]</code> 得到的正确单词。</p>
+<p>给出一些查询 <code>queries</code>，返回一个单词列表 <code>answer</code>，其中 <code>answer[i]</code> 是由查询 <code>query = queries[i]</code> 得到的正确单词。</p>
 
 <p>&nbsp;</p>
 

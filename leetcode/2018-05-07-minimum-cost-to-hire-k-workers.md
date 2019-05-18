@@ -2,7 +2,7 @@
 layout:     single
 title:      "雇佣 K 名工人的最低成本"
 date:       2018-05-07 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Heap]
 permalink:  /minimum-cost-to-hire-k-workers/
 ---

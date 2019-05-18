@@ -2,7 +2,7 @@
 layout:     single
 title:      "合并K个排序链表"
 date:       2016-01-24 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Heap, Linked List, Divide and Conquer]
 permalink:  /merge-k-sorted-lists/
 ---

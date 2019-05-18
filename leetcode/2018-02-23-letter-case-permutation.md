@@ -2,7 +2,7 @@
 layout:     single
 title:      "字母大小写全排列"
 date:       2018-02-23 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Bit Manipulation, Backtracking]
 permalink:  /letter-case-permutation/
 ---

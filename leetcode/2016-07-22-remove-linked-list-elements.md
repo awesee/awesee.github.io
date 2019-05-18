@@ -2,7 +2,7 @@
 layout:     single
 title:      "移除链表元素"
 date:       2016-07-22 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Linked List]
 permalink:  /remove-linked-list-elements/
 ---

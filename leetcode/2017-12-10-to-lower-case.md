@@ -2,7 +2,7 @@
 layout:     single
 title:      "转换成小写字母"
 date:       2017-12-10 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [String]
 permalink:  /to-lower-case/
 ---

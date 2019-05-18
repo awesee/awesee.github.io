@@ -2,7 +2,7 @@
 layout:     single
 title:      "寻找旋转排序数组中的最小值 II"
 date:       2016-06-03 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Array, Binary Search]
 permalink:  /find-minimum-in-rotated-sorted-array-ii/
 ---

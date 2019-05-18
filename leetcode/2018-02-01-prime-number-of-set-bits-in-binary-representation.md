@@ -2,7 +2,7 @@
 layout:     single
 title:      "二进制表示中质数个计算置位"
 date:       2018-02-01 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Bit Manipulation]
 permalink:  /prime-number-of-set-bits-in-binary-representation/
 ---

@@ -2,7 +2,7 @@
 layout:     single
 title:      "回文链表"
 date:       2016-08-22 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Linked List, Two Pointers]
 permalink:  /palindrome-linked-list/
 ---

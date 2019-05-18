@@ -2,7 +2,7 @@
 layout:     single
 title:      "行星碰撞"
 date:       2018-01-05 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Stack]
 permalink:  /asteroid-collision/
 ---

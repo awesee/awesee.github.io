@@ -2,7 +2,7 @@
 layout:     single
 title:      "打家劫舍"
 date:       2016-07-17 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Dynamic Programming]
 permalink:  /house-robber/
 ---
@@ -34,11 +34,11 @@ permalink:  /house-robber/
 ### 相似题目
   1. [乘积最大子序列](/maximum-product-subarray) (Medium)
   1. [打家劫舍 II](/house-robber-ii) (Medium)
-  1. [Paint House](/paint-house) (Easy)
-  1. [Paint Fence](/paint-fence) (Easy)
+  1. [粉刷房子](/paint-house) (Easy)
+  1. [栅栏涂色](/paint-fence) (Easy)
   1. [打家劫舍 III](/house-robber-iii) (Medium)
   1. [不含连续1的非负整数](/non-negative-integers-without-consecutive-ones) (Hard)
-  1. [Coin Path](/coin-path) (Hard)
+  1. [金币路径](/coin-path) (Hard)
   1. [删除与获得点数](/delete-and-earn) (Medium)
 
 ---

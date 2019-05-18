@@ -2,7 +2,7 @@
 layout:     single
 title:      "账户合并"
 date:       2017-12-22 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Depth-first Search, Union Find]
 permalink:  /accounts-merge/
 ---
@@ -43,8 +43,8 @@ accounts = [[&quot;John&quot;, &quot;johnsmith@mail.com&quot;, &quot;john00@mail
 
 ### 相似题目
   1. [冗余连接](/redundant-connection) (Medium)
-  1. [Sentence Similarity](/sentence-similarity) (Easy)
-  1. [Sentence Similarity II](/sentence-similarity-ii) (Medium)
+  1. [句子相似性](/sentence-similarity) (Easy)
+  1. [句子相似性 II](/sentence-similarity-ii) (Medium)
 
 ---
 

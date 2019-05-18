@@ -2,7 +2,7 @@
 layout:     single
 title:      "在每个树行中找最大值"
 date:       2017-05-30 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Tree, Depth-first Search, Breadth-first Search]
 permalink:  /find-largest-value-in-each-tree-row/
 ---

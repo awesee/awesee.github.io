@@ -2,7 +2,7 @@
 layout:     single
 title:      "第十行"
 date:       2016-07-14 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       []
 permalink:  /tenth-line/
 ---

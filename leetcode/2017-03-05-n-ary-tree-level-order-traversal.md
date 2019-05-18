@@ -2,7 +2,7 @@
 layout:     single
 title:      "N叉树的层序遍历"
 date:       2017-03-05 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Tree, Breadth-first Search]
 permalink:  /n-ary-tree-level-order-traversal/
 ---

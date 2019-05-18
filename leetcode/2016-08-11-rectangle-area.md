@@ -2,7 +2,7 @@
 layout:     single
 title:      "矩形面积"
 date:       2016-08-11 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Math]
 permalink:  /rectangle-area/
 ---

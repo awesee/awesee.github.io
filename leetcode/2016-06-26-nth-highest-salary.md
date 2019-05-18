@@ -2,7 +2,7 @@
 layout:     single
 title:      "第N高的薪水"
 date:       2016-06-26 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       []
 permalink:  /nth-highest-salary/
 ---

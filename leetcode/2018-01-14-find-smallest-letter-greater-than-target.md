@@ -2,7 +2,7 @@
 layout:     single
 title:      "寻找比目标字母大的最小字母"
 date:       2018-01-14 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Binary Search]
 permalink:  /find-smallest-letter-greater-than-target/
 ---

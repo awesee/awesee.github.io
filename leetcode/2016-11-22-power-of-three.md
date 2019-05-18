@@ -2,7 +2,7 @@
 layout:     single
 title:      "3的幂"
 date:       2016-11-22 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Math]
 permalink:  /power-of-three/
 ---

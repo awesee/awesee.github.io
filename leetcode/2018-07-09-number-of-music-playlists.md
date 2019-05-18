@@ -2,7 +2,7 @@
 layout:     single
 title:      "播放列表的数量"
 date:       2018-07-09 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Dynamic Programming]
 permalink:  /number-of-music-playlists/
 ---

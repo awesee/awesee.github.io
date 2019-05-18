@@ -2,7 +2,7 @@
 layout:     single
 title:      "最大交换"
 date:       2017-11-01 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Array, Math]
 permalink:  /maximum-swap/
 ---

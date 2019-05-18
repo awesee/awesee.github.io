@@ -2,7 +2,7 @@
 layout:     single
 title:      "三等分"
 date:       2018-07-16 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Greedy, Math, Binary Search]
 permalink:  /three-equal-parts/
 ---

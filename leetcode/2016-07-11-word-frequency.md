@@ -2,7 +2,7 @@
 layout:     single
 title:      "统计词频"
 date:       2016-07-11 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       []
 permalink:  /word-frequency/
 ---

@@ -2,7 +2,7 @@
 layout:     single
 title:      "和至少为 K 的最短子数组"
 date:       2018-05-12 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Queue, Binary Search]
 permalink:  /shortest-subarray-with-sum-at-least-k/
 ---

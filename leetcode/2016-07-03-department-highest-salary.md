@@ -2,7 +2,7 @@
 layout:     single
 title:      "部门工资最高的员工"
 date:       2016-07-03 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       []
 permalink:  /department-highest-salary/
 ---

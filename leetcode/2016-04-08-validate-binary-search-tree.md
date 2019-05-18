@@ -2,7 +2,7 @@
 layout:     single
 title:      "验证二叉搜索树"
 date:       2016-04-08 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Tree, Depth-first Search]
 permalink:  /validate-binary-search-tree/
 ---

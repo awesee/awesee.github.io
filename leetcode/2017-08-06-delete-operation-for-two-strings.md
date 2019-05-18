@@ -2,7 +2,7 @@
 layout:     single
 title:      "两个字符串的删除操作"
 date:       2017-08-06 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [String]
 permalink:  /delete-operation-for-two-strings/
 ---

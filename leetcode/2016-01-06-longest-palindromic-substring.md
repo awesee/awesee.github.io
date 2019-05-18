@@ -2,7 +2,7 @@
 layout:     single
 title:      "最长回文子串"
 date:       2016-01-06 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [String, Dynamic Programming]
 permalink:  /longest-palindromic-substring/
 ---
@@ -30,7 +30,7 @@ permalink:  /longest-palindromic-substring/
 
 ### 相似题目
   1. [最短回文串](/shortest-palindrome) (Hard)
-  1. [Palindrome Permutation](/palindrome-permutation) (Easy)
+  1. [回文排列](/palindrome-permutation) (Easy)
   1. [回文对](/palindrome-pairs) (Hard)
   1. [最长回文子序列](/longest-palindromic-subsequence) (Medium)
   1. [回文子串](/palindromic-substrings) (Medium)

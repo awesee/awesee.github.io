@@ -2,7 +2,7 @@
 layout:     single
 title:      "去除重复字母"
 date:       2016-11-12 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Stack, Greedy]
 permalink:  /remove-duplicate-letters/
 ---

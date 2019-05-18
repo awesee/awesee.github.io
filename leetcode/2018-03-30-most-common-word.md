@@ -2,7 +2,7 @@
 layout:     single
 title:      "最常见的单词"
 date:       2018-03-30 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [String]
 permalink:  /most-common-word/
 ---

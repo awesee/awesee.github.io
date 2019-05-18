@@ -2,7 +2,7 @@
 layout:     single
 title:      "最大连续1的个数"
 date:       2017-04-30 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Array]
 permalink:  /max-consecutive-ones/
 ---
@@ -30,7 +30,8 @@ permalink:  /max-consecutive-ones/
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 
 ### 相似题目
-  1. [Max Consecutive Ones II](/max-consecutive-ones-ii) (Medium)
+  1. [最大连续1的个数 II](/max-consecutive-ones-ii) (Medium)
+  1. [最大连续1的个数 III](/max-consecutive-ones-iii) (Medium)
 
 ---
 

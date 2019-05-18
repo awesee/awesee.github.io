@@ -2,7 +2,7 @@
 layout:     single
 title:      "反转字符串 II"
 date:       2017-06-25 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [String]
 permalink:  /reverse-string-ii/
 ---

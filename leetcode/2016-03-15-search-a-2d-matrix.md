@@ -2,7 +2,7 @@
 layout:     single
 title:      "搜索二维矩阵"
 date:       2016-03-15 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Array, Binary Search]
 permalink:  /search-a-2d-matrix/
 ---

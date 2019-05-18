@@ -2,8 +2,8 @@
 layout:     single
 title:      "掉落的方块"
 date:       2017-11-30 21:30:00 +0800
-categories: [leetcode]
-tags:       [Segment Tree, Binary Search Tree]
+categories: [Leetcode]
+tags:       [Segment Tree, Ordered Map]
 permalink:  /falling-squares/
 ---
 
@@ -82,7 +82,7 @@ _aa___a
 
 ### 相关话题
   [[线段树](https://github.com/openset/leetcode/tree/master/tag/segment-tree/README.md)]
-  [[二叉搜索树](https://github.com/openset/leetcode/tree/master/tag/binary-search-tree/README.md)]
+  [[Ordered Map](https://github.com/openset/leetcode/tree/master/tag/ordered-map/README.md)]
 
 ### 相似题目
   1. [天际线问题](/the-skyline-problem) (Hard)

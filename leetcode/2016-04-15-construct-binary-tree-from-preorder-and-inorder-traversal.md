@@ -2,7 +2,7 @@
 layout:     single
 title:      "从前序与中序遍历序列构造二叉树"
 date:       2016-04-15 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Tree, Depth-first Search, Array]
 permalink:  /construct-binary-tree-from-preorder-and-inorder-traversal/
 ---

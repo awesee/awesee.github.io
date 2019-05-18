@@ -2,7 +2,7 @@
 layout:     single
 title:      "重复的子字符串"
 date:       2017-04-04 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [String]
 permalink:  /repeated-substring-pattern/
 ---

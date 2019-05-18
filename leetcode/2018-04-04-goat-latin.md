@@ -2,7 +2,7 @@
 layout:     single
 title:      "山羊拉丁文"
 date:       2018-04-04 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [String]
 permalink:  /goat-latin/
 ---

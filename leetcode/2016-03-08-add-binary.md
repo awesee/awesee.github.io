@@ -2,7 +2,7 @@
 layout:     single
 title:      "二进制求和"
 date:       2016-03-08 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Math, String]
 permalink:  /add-binary/
 ---
@@ -31,6 +31,7 @@ permalink:  /add-binary/
   1. [两数相加](/add-two-numbers) (Medium)
   1. [字符串相乘](/multiply-strings) (Medium)
   1. [加一](/plus-one) (Easy)
+  1. [数组形式的整数加法](/add-to-array-form-of-integer) (Easy)
 
 ---
 

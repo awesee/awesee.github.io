@@ -2,7 +2,7 @@
 layout:     single
 title:      "强密码检验器"
 date:       2017-02-24 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       []
 permalink:  /strong-password-checker/
 ---

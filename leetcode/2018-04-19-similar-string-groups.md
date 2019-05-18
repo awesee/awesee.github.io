@@ -2,7 +2,7 @@
 layout:     single
 title:      "相似字符串组"
 date:       2018-04-19 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Depth-first Search, Union Find, Graph]
 permalink:  /similar-string-groups/
 ---

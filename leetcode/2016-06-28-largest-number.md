@@ -2,7 +2,7 @@
 layout:     single
 title:      "最大数"
 date:       2016-06-28 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Sort]
 permalink:  /largest-number/
 ---

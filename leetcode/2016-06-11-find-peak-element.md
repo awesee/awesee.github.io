@@ -2,7 +2,7 @@
 layout:     single
 title:      "寻找峰值"
 date:       2016-06-11 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Array, Binary Search]
 permalink:  /find-peak-element/
 ---

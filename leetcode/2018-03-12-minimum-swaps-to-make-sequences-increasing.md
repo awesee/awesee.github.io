@@ -2,7 +2,7 @@
 layout:     single
 title:      "使序列递增的最小交换次数"
 date:       2018-03-12 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Dynamic Programming]
 permalink:  /minimum-swaps-to-make-sequences-increasing/
 ---

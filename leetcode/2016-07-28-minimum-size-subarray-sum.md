@@ -2,7 +2,7 @@
 layout:     single
 title:      "长度最小的子数组"
 date:       2016-07-28 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Array, Two Pointers, Binary Search]
 permalink:  /minimum-size-subarray-sum/
 ---
@@ -29,7 +29,7 @@ permalink:  /minimum-size-subarray-sum/
 
 ### 相似题目
   1. [最小覆盖子串](/minimum-window-substring) (Hard)
-  1. [Maximum Size Subarray Sum Equals k](/maximum-size-subarray-sum-equals-k) (Medium)
+  1. [和等于 k 的最长子数组长度](/maximum-size-subarray-sum-equals-k) (Medium)
   1. [最长重复子数组](/maximum-length-of-repeated-subarray) (Medium)
 
 ---

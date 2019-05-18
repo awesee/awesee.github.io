@@ -2,7 +2,7 @@
 layout:     single
 title:      "超过5名学生的课"
 date:       2017-08-19 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       []
 permalink:  /classes-more-than-5-students/
 ---

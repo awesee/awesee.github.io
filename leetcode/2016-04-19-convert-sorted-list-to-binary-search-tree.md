@@ -2,7 +2,7 @@
 layout:     single
 title:      "有序链表转换二叉搜索树"
 date:       2016-04-19 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Depth-first Search, Linked List]
 permalink:  /convert-sorted-list-to-binary-search-tree/
 ---

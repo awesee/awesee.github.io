@@ -2,7 +2,7 @@
 layout:     single
 title:      "适龄的朋友"
 date:       2018-04-05 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Array]
 permalink:  /friends-of-appropriate-ages/
 ---
@@ -21,32 +21,33 @@ permalink:  /friends-of-appropriate-ages/
 
 <p>否则，A 可以给 B 发送好友请求。</p>
 
-<p>注意如果 A 向 B 发出了请求，不等于 B 接受了 A 的请求。而且，人们不会给自己发送好友请求。&nbsp;</p>
+<p>注意如果 A 向 B 发出了请求，不等于 B 也一定会向&nbsp;A 发出请求。而且，人们不会给自己发送好友请求。&nbsp;</p>
 
 <p>求总共会发出多少份好友请求?</p>
 
+<p>&nbsp;</p>
+
 <p><strong>示例 1:</strong></p>
 
-<pre>
-<strong>输入: </strong>[16,16]
+<pre><strong>输入: </strong>[16,16]
 <strong>输出: </strong>2
 <strong>解释: 二人可以互发好友申请。</strong>
 </pre>
 
 <p><strong>示例 2:</strong></p>
 
-<pre>
-<strong>输入: </strong>[16,17,18]
+<pre><strong>输入: </strong>[16,17,18]
 <strong>输出: </strong>2
 <strong>解释: 好友请求可产生于</strong> 17 -&gt; 16, 18 -&gt; 17.</pre>
 
 <p><strong>示例 3:</strong></p>
 
-<pre>
-<strong>输入: </strong>[20,30,100,110,120]
+<pre><strong>输入: </strong>[20,30,100,110,120]
 <strong>输出: 3</strong>
 <strong>解释: 好友请求可产生于</strong> 110 -&gt; 100, 120 -&gt; 110, 120 -&gt; 100.
 </pre>
+
+<p>&nbsp;</p>
 
 <p><strong>说明:</strong></p>
 

@@ -2,7 +2,7 @@
 layout:     single
 title:      "最高的广告牌"
 date:       2018-08-14 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Dynamic Programming]
 permalink:  /tallest-billboard/
 ---

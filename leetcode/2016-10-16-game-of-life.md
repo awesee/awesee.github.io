@@ -2,7 +2,7 @@
 layout:     single
 title:      "生命游戏"
 date:       2016-10-16 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Array]
 permalink:  /game-of-life/
 ---

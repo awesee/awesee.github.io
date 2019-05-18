@@ -2,7 +2,7 @@
 layout:     single
 title:      "标签验证器"
 date:       2017-08-14 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Stack, String]
 permalink:  /tag-validator/
 ---
@@ -99,7 +99,7 @@ cdata <strong>不</strong>是 <strong>&quot;&lt;![CDATA[&lt;div&gt;]&gt;]]&gt;]]
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ### 相似题目
-  1. [Add Bold Tag in String](/add-bold-tag-in-string) (Medium)
+  1. [给字符串添加加粗标签](/add-bold-tag-in-string) (Medium)
 
 ---
 

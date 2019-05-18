@@ -2,7 +2,7 @@
 layout:     single
 title:      "有效电话号码"
 date:       2016-07-12 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       []
 permalink:  /valid-phone-numbers/
 ---

@@ -2,7 +2,7 @@
 layout:     single
 title:      "股票价格跨度"
 date:       2018-06-20 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Stack]
 permalink:  /online-stock-span/
 ---

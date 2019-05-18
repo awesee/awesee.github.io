@@ -2,7 +2,7 @@
 layout:     single
 title:      "盈利计划"
 date:       2018-05-29 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Dynamic Programming]
 permalink:  /profitable-schemes/
 ---

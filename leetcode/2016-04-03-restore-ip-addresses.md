@@ -2,7 +2,7 @@
 layout:     single
 title:      "复原IP地址"
 date:       2016-04-03 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [String, Backtracking]
 permalink:  /restore-ip-addresses/
 ---
@@ -21,7 +21,7 @@ permalink:  /restore-ip-addresses/
   [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
 
 ### 相似题目
-  1. [IP to CIDR](/ip-to-cidr) (Easy)
+  1. [IP 到 CIDR](/ip-to-cidr) (Easy)
 
 ---
 

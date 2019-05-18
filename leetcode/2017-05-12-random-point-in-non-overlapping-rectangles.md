@@ -2,7 +2,7 @@
 layout:     single
 title:      "非重叠矩形中的随机点"
 date:       2017-05-12 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Binary Search, Random]
 permalink:  /random-point-in-non-overlapping-rectangles/
 ---

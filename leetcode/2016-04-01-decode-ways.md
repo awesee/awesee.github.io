@@ -2,7 +2,7 @@
 layout:     single
 title:      "解码方法"
 date:       2016-04-01 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [String, Dynamic Programming]
 permalink:  /decode-ways/
 ---

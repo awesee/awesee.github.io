@@ -2,7 +2,7 @@
 layout:     single
 title:      "用最少数量的箭引爆气球"
 date:       2017-03-28 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Greedy]
 permalink:  /minimum-number-of-arrows-to-burst-balloons/
 ---
@@ -30,7 +30,7 @@ permalink:  /minimum-number-of-arrows-to-burst-balloons/
   [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
 
 ### 相似题目
-  1. [Meeting Rooms II](/meeting-rooms-ii) (Medium)
+  1. [会议室 II](/meeting-rooms-ii) (Medium)
   1. [无重叠区间](/non-overlapping-intervals) (Medium)
 
 ---

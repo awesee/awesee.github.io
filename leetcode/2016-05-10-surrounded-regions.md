@@ -2,7 +2,7 @@
 layout:     single
 title:      "被围绕的区域"
 date:       2016-05-10 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Depth-first Search, Breadth-first Search, Union Find]
 permalink:  /surrounded-regions/
 ---
@@ -40,7 +40,7 @@ X O X X
 
 ### 相似题目
   1. [岛屿的个数](/number-of-islands) (Medium)
-  1. [Walls and Gates](/walls-and-gates) (Medium)
+  1. [墙与门](/walls-and-gates) (Medium)
 
 ---
 

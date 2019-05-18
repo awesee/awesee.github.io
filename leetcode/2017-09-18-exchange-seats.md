@@ -2,7 +2,7 @@
 layout:     single
 title:      "换座位"
 date:       2017-09-18 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       []
 permalink:  /exchange-seats/
 ---

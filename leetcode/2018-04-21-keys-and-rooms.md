@@ -2,7 +2,7 @@
 layout:     single
 title:      "钥匙和房间"
 date:       2018-04-21 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Depth-first Search, Graph]
 permalink:  /keys-and-rooms/
 ---

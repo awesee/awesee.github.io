@@ -2,7 +2,7 @@
 layout:     single
 title:      "基本计算器"
 date:       2016-08-12 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Stack, Math]
 permalink:  /basic-calculator/
 ---
@@ -45,7 +45,7 @@ permalink:  /basic-calculator/
   1. [基本计算器 II](/basic-calculator-ii) (Medium)
   1. [为运算表达式设计优先级](/different-ways-to-add-parentheses) (Medium)
   1. [给表达式添加运算符](/expression-add-operators) (Hard)
-  1. [Basic Calculator III](/basic-calculator-iii) (Hard)
+  1. [基本计算器 III](/basic-calculator-iii) (Hard)
 
 ---
 

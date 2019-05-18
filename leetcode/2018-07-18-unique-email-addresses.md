@@ -2,7 +2,7 @@
 layout:     single
 title:      "独特的电子邮件地址"
 date:       2018-07-18 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [String]
 permalink:  /unique-email-addresses/
 ---
@@ -13,7 +13,7 @@ permalink:  /unique-email-addresses/
 
 <p>例如，在&nbsp;<code>alice@leetcode.com</code>中，&nbsp;<code>alice</code>&nbsp;是本地名称，而&nbsp;<code>leetcode.com</code>&nbsp;是域名。</p>
 
-<p>除了小写字母，这些电子邮件还可能包含 <code>&#39;,&#39;</code> 或 <code>&#39;+&#39;</code>。</p>
+<p>除了小写字母，这些电子邮件还可能包含 <code>&#39;.&#39;</code> 或 <code>&#39;+&#39;</code>。</p>
 
 <p>如果在电子邮件地址的<strong>本地名称</strong>部分中的某些字符之间添加句点（<code>&#39;.&#39;</code>），则发往那里的邮件将会转发到本地名称中没有点的同一地址。例如，<code>&quot;alice.z@leetcode.com&rdquo;</code> 和 <code>&ldquo;alicez@leetcode.com&rdquo;</code>&nbsp;会转发到同一电子邮件地址。 （请注意，此规则不适用于域名。）</p>
 

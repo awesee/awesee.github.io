@@ -2,7 +2,7 @@
 layout:     single
 title:      "组合两个表"
 date:       2016-06-24 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       []
 permalink:  /combine-two-tables/
 ---
@@ -44,7 +44,7 @@ AddressId 是上表主键
 </pre>
 
 ### 相似题目
-  1. [Employee Bonus](/employee-bonus) (Easy)
+  1. [员工奖金](/employee-bonus) (Easy)
 
 ---
 

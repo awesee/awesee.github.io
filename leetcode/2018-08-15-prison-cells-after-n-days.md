@@ -2,7 +2,7 @@
 layout:     single
 title:      "N 天后的牢房"
 date:       2018-08-15 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Hash Table]
 permalink:  /prison-cells-after-n-days/
 ---

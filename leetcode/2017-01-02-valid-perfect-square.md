@@ -2,7 +2,7 @@
 layout:     single
 title:      "有效的完全平方数"
 date:       2017-01-02 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Math, Binary Search]
 permalink:  /valid-perfect-square/
 ---

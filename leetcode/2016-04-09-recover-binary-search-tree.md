@@ -2,7 +2,7 @@
 layout:     single
 title:      "恢复二叉搜索树"
 date:       2016-04-09 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Tree, Depth-first Search]
 permalink:  /recover-binary-search-tree/
 ---

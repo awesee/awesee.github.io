@@ -2,7 +2,7 @@
 layout:     single
 title:      "最短回文串"
 date:       2016-08-02 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [String]
 permalink:  /shortest-palindrome/
 ---

@@ -2,7 +2,7 @@
 layout:     single
 title:      "数组的度"
 date:       2017-11-28 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Array]
 permalink:  /degree-of-an-array/
 ---

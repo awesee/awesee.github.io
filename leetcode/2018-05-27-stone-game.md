@@ -2,8 +2,8 @@
 layout:     single
 title:      "石子游戏"
 date:       2018-05-27 21:30:00 +0800
-categories: [leetcode]
-tags:       [Math, Dynamic Programming]
+categories: [Leetcode]
+tags:       [Minimax, Math, Dynamic Programming]
 permalink:  /stone-game/
 ---
 
@@ -43,6 +43,7 @@ permalink:  /stone-game/
 </ol>
 
 ### 相关话题
+  [[极小化极大](https://github.com/openset/leetcode/tree/master/tag/minimax/README.md)]
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 

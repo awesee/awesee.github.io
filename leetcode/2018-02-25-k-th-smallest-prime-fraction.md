@@ -2,7 +2,7 @@
 layout:     single
 title:      "第 K 个最小的素数分数"
 date:       2018-02-25 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Heap, Binary Search]
 permalink:  /k-th-smallest-prime-fraction/
 ---

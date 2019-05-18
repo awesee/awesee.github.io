@@ -2,7 +2,7 @@
 layout:     single
 title:      "区间列表的交集"
 date:       2018-09-13 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Two Pointers]
 permalink:  /interval-list-intersections/
 ---
@@ -38,6 +38,11 @@ permalink:  /interval-list-intersections/
 
 ### 相关话题
   [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+
+### 相似题目
+  1. [合并区间](/merge-intervals) (Medium)
+  1. [合并两个有序数组](/merge-sorted-array) (Easy)
+  1. [员工空闲时间](/employee-free-time) (Hard)
 
 ---
 

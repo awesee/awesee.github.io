@@ -2,7 +2,7 @@
 layout:     single
 title:      "二叉树的最大深度"
 date:       2016-04-14 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Tree, Depth-first Search]
 permalink:  /maximum-depth-of-binary-tree/
 ---

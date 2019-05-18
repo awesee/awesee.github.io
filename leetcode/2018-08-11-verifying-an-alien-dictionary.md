@@ -2,7 +2,7 @@
 layout:     single
 title:      "验证外星语词典"
 date:       2018-08-11 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Hash Table]
 permalink:  /verifying-an-alien-dictionary/
 ---

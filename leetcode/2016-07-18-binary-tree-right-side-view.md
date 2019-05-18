@@ -2,7 +2,7 @@
 layout:     single
 title:      "二叉树的右视图"
 date:       2016-07-18 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Tree, Depth-first Search, Breadth-first Search]
 permalink:  /binary-tree-right-side-view/
 ---
@@ -31,7 +31,7 @@ permalink:  /binary-tree-right-side-view/
 
 ### 相似题目
   1. [填充每个节点的下一个右侧节点指针](/populating-next-right-pointers-in-each-node) (Medium)
-  1. [Boundary of Binary Tree](/boundary-of-binary-tree) (Medium)
+  1. [二叉树的边界](/boundary-of-binary-tree) (Medium)
 
 ---
 

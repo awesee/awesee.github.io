@@ -2,7 +2,7 @@
 layout:     single
 title:      "最短完整词"
 date:       2018-01-18 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Hash Table]
 permalink:  /shortest-completing-word/
 ---

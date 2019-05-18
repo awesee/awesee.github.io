@@ -2,7 +2,7 @@
 layout:     single
 title:      "将有序数组转换为二叉搜索树"
 date:       2016-04-18 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Tree, Depth-first Search]
 permalink:  /convert-sorted-array-to-binary-search-tree/
 ---

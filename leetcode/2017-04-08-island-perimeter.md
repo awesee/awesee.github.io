@@ -2,7 +2,7 @@
 layout:     single
 title:      "岛屿的周长"
 date:       2017-04-08 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Hash Table]
 permalink:  /island-perimeter/
 ---
@@ -38,6 +38,7 @@ permalink:  /island-perimeter/
 ### 相似题目
   1. [岛屿的最大面积](/max-area-of-island) (Medium)
   1. [图像渲染](/flood-fill) (Easy)
+  1. [边框着色](/coloring-a-border) (Medium)
 
 ---
 

@@ -2,7 +2,7 @@
 layout:     single
 title:      "优美的排列 II"
 date:       2017-10-29 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Array]
 permalink:  /beautiful-arrangement-ii/
 ---

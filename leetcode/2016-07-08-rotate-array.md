@@ -2,7 +2,7 @@
 layout:     single
 title:      "旋转数组"
 date:       2016-07-08 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Array]
 permalink:  /rotate-array/
 ---
@@ -41,7 +41,7 @@ permalink:  /rotate-array/
 
 ### 相似题目
   1. [旋转链表](/rotate-list) (Medium)
-  1. [Reverse Words in a String II](/reverse-words-in-a-string-ii) (Medium)
+  1. [翻转字符串里的单词 II](/reverse-words-in-a-string-ii) (Medium)
 
 ---
 

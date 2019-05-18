@@ -2,7 +2,7 @@
 layout:     single
 title:      "最长连续递增序列"
 date:       2017-11-05 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Array]
 permalink:  /longest-continuous-increasing-subsequence/
 ---
@@ -35,7 +35,7 @@ permalink:  /longest-continuous-increasing-subsequence/
 
 ### 相似题目
   1. [最长递增子序列的个数](/number-of-longest-increasing-subsequence) (Medium)
-  1. [Minimum Window Subsequence](/minimum-window-subsequence) (Hard)
+  1. [最小窗口子序列](/minimum-window-subsequence) (Hard)
 
 ---
 

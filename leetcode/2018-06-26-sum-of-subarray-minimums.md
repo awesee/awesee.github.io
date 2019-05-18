@@ -2,7 +2,7 @@
 layout:     single
 title:      "子数组的最小值之和"
 date:       2018-06-26 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Stack, Array]
 permalink:  /sum-of-subarray-minimums/
 ---

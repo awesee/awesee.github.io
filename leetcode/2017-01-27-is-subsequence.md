@@ -2,7 +2,7 @@
 layout:     single
 title:      "判断子序列"
 date:       2017-01-27 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Greedy, Binary Search, Dynamic Programming]
 permalink:  /is-subsequence/
 ---

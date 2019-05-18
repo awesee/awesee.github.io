@@ -2,7 +2,7 @@
 layout:     single
 title:      "错误的集合"
 date:       2017-10-07 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Hash Table, Math]
 permalink:  /set-mismatch/
 ---

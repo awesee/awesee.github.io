@@ -2,7 +2,7 @@
 layout:     single
 title:      "移掉K位数字"
 date:       2017-02-06 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Stack, Greedy]
 permalink:  /remove-k-digits/
 ---

@@ -2,7 +2,7 @@
 layout:     single
 title:      "转置矩阵"
 date:       2018-05-17 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Array]
 permalink:  /transpose-matrix/
 ---

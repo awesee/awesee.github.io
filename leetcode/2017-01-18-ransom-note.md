@@ -2,7 +2,7 @@
 layout:     single
 title:      "赎金信"
 date:       2017-01-18 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [String]
 permalink:  /ransom-note/
 ---

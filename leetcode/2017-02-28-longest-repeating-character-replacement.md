@@ -2,8 +2,8 @@
 layout:     single
 title:      "替换后的最长重复字符"
 date:       2017-02-28 21:30:00 +0800
-categories: [leetcode]
-tags:       []
+categories: [Leetcode]
+tags:       [Two Pointers, Sliding Window]
 permalink:  /longest-repeating-character-replacement/
 ---
 
@@ -39,8 +39,13 @@ s = &quot;AABABBA&quot;, k = 1
 子串 &quot;BBBB&quot; 有最长重复字母, 答案为 4。
 </pre>
 
+### 相关话题
+  [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+  [[Sliding Window](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
+
 ### 相似题目
-  1. [Longest Substring with At Most K Distinct Characters](/longest-substring-with-at-most-k-distinct-characters) (Hard)
+  1. [至多包含 K 个不同字符的最长子串](/longest-substring-with-at-most-k-distinct-characters) (Hard)
+  1. [最大连续1的个数 III](/max-consecutive-ones-iii) (Medium)
 
 ---
 

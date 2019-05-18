@@ -2,7 +2,7 @@
 layout:     single
 title:      "最长数对链"
 date:       2017-10-08 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Dynamic Programming]
 permalink:  /maximum-length-of-pair-chain/
 ---

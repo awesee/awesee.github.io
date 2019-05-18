@@ -2,7 +2,7 @@
 layout:     single
 title:      "两个数组的交集"
 date:       2016-12-15 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Sort, Hash Table, Two Pointers, Binary Search]
 permalink:  /intersection-of-two-arrays/
 ---

@@ -2,8 +2,8 @@
 layout:     single
 title:      "不同路径 III"
 date:       2018-09-07 21:30:00 +0800
-categories: [leetcode]
-tags:       [Dynamic Programming, Backtracking]
+categories: [Leetcode]
+tags:       [Depth-first Search, Backtracking]
 permalink:  /unique-paths-iii/
 ---
 
@@ -58,8 +58,13 @@ permalink:  /unique-paths-iii/
 </ol>
 
 ### 相关话题
-  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
   [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+
+### 相似题目
+  1. [解数独](/sudoku-solver) (Hard)
+  1. [不同路径 II](/unique-paths-ii) (Medium)
+  1. [单词搜索 II](/word-search-ii) (Hard)
 
 ---
 

@@ -2,7 +2,7 @@
 layout:     single
 title:      "二叉树的垂序遍历"
 date:       2018-09-14 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Tree, Hash Table]
 permalink:  /vertical-order-traversal-of-a-binary-tree/
 ---

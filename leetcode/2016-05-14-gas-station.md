@@ -2,7 +2,7 @@
 layout:     single
 title:      "加油站"
 date:       2016-05-14 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Greedy]
 permalink:  /gas-station/
 ---

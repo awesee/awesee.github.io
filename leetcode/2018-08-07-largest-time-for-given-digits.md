@@ -2,7 +2,7 @@
 layout:     single
 title:      "给定数字能组成的最大时间"
 date:       2018-08-07 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Math]
 permalink:  /largest-time-for-given-digits/
 ---

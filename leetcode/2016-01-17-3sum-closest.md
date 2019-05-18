@@ -2,7 +2,7 @@
 layout:     single
 title:      "最接近的三数之和"
 date:       2016-01-17 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Array, Two Pointers]
 permalink:  /3sum-closest/
 ---
@@ -22,7 +22,7 @@ permalink:  /3sum-closest/
 
 ### 相似题目
   1. [三数之和](/3sum) (Medium)
-  1. [3Sum Smaller](/3sum-smaller) (Medium)
+  1. [较小的三数之和](/3sum-smaller) (Medium)
 
 ---
 

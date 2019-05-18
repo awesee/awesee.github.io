@@ -2,7 +2,7 @@
 layout:     single
 title:      "设计循环双端队列"
 date:       2017-10-03 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Design, Queue]
 permalink:  /design-circular-deque/
 ---

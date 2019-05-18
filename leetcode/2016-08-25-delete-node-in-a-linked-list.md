@@ -2,7 +2,7 @@
 layout:     single
 title:      "删除链表中的节点"
 date:       2016-08-25 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Linked List]
 permalink:  /delete-node-in-a-linked-list/
 ---

@@ -2,7 +2,7 @@
 layout:     single
 title:      "最大三角形面积"
 date:       2018-03-23 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Math]
 permalink:  /largest-triangle-area/
 ---
@@ -32,6 +32,9 @@ permalink:  /largest-triangle-area/
 
 ### 相关话题
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+
+### 相似题目
+  1. [三角形的最大周长](/largest-perimeter-triangle) (Easy)
 
 ---
 

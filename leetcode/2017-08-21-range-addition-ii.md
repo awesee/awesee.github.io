@@ -2,7 +2,7 @@
 layout:     single
 title:      "范围求和 II"
 date:       2017-08-21 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Math]
 permalink:  /range-addition-ii/
 ---
@@ -53,7 +53,7 @@ M 中最大的整数是 2, 而且 M 中有4个值为2的元素。因此返回 4�
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
 
 ### 相似题目
-  1. [Range Addition](/range-addition) (Medium)
+  1. [区间加法](/range-addition) (Medium)
 
 ---
 

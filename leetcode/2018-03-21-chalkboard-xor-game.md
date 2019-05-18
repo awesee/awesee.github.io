@@ -2,7 +2,7 @@
 layout:     single
 title:      "黑板异或游戏"
 date:       2018-03-21 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Math]
 permalink:  /chalkboard-xor-game/
 ---
@@ -13,11 +13,13 @@ permalink:  /chalkboard-xor-game/
 
 <p>换种说法就是，轮到某个玩家时，如果当前黑板上所有数字按位异或运算结果等于 0，这个玩家获胜。</p>
 
-<p>假设两个玩家每步都使用最优解，当且仅当小红获胜时返回 true。</p>
+<p>假设两个玩家每步都使用最优解，当且仅当小红获胜时返回 <code>true</code>。</p>
 
-<pre>
-<strong>示例:</strong>
-<strong>输入:</strong> nums = [1, 1, 2]
+<p>&nbsp;</p>
+
+<p><strong>示例：</strong></p>
+
+<pre><strong>输入:</strong> nums = [1, 1, 2]
 <strong>输出:</strong> false
 <strong>解释:</strong> 
 小红有两个选择: 擦掉数字 1 或 2。
@@ -25,10 +27,12 @@ permalink:  /chalkboard-xor-game/
 如果小红擦掉 2，那么数组变成[1, 1]。剩余数字按位异或得到 1 XOR 1 = 0。小红仍然会输掉游戏。
 </pre>
 
-<p><strong>说明: </strong></p>
+<p>&nbsp;</p>
+
+<p><strong>提示：</strong></p>
 
 <ul>
-	<li><code>0 &lt;= N &lt;= 1000</code></li>
+	<li><code>1 &lt;= N &lt;= 1000</code></li>
 	<li><code>0 &lt;= nums[i] &lt;= 2^16</code></li>
 </ul>
 

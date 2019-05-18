@@ -2,7 +2,7 @@
 layout:     single
 title:      "分隔链表"
 date:       2016-03-27 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Linked List, Two Pointers]
 permalink:  /partition-list/
 ---

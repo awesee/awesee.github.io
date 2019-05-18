@@ -2,7 +2,7 @@
 layout:     single
 title:      "摘樱桃"
 date:       2018-01-11 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Dynamic Programming]
 permalink:  /cherry-pickup/
 ---

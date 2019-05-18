@@ -2,7 +2,7 @@
 layout:     single
 title:      "使数组唯一的最小增量"
 date:       2018-08-03 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Array]
 permalink:  /minimum-increment-to-make-array-unique/
 ---

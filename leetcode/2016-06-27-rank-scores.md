@@ -2,7 +2,7 @@
 layout:     single
 title:      "分数排名"
 date:       2016-06-27 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       []
 permalink:  /rank-scores/
 ---

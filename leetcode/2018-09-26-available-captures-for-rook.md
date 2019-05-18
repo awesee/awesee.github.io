@@ -2,7 +2,7 @@
 layout:     single
 title:      "车的可用捕获量"
 date:       2018-09-26 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Array]
 permalink:  /available-captures-for-rook/
 ---

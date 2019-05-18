@@ -2,7 +2,7 @@
 layout:     single
 title:      "二叉树的后序遍历"
 date:       2016-05-25 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Stack, Tree]
 permalink:  /binary-tree-postorder-traversal/
 ---

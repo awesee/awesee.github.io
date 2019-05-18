@@ -2,7 +2,7 @@
 layout:     single
 title:      "不同的二叉搜索树"
 date:       2016-04-06 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Tree, Dynamic Programming]
 permalink:  /unique-binary-search-trees/
 ---

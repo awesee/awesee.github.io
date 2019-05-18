@@ -2,7 +2,7 @@
 layout:     single
 title:      "文件的最长绝对路径"
 date:       2017-01-23 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       []
 permalink:  /longest-absolute-file-path/
 ---

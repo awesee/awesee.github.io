@@ -2,7 +2,7 @@
 layout:     single
 title:      "设计推特"
 date:       2016-12-21 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Heap, Design, Hash Table]
 permalink:  /design-twitter/
 ---

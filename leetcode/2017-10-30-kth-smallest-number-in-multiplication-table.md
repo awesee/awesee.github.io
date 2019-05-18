@@ -2,7 +2,7 @@
 layout:     single
 title:      "乘法表中第k小的数"
 date:       2017-10-30 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Binary Search]
 permalink:  /kth-smallest-number-in-multiplication-table/
 ---

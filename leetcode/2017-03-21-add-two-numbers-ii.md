@@ -2,7 +2,7 @@
 layout:     single
 title:      "两数相加 II"
 date:       2017-03-21 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Linked List]
 permalink:  /add-two-numbers-ii/
 ---

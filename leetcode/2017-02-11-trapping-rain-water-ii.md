@@ -2,7 +2,7 @@
 layout:     single
 title:      "接雨水 II"
 date:       2017-02-11 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Heap, Breadth-first Search]
 permalink:  /trapping-rain-water-ii/
 ---

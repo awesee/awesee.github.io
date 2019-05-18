@@ -2,7 +2,7 @@
 layout:     single
 title:      "每日温度"
 date:       2018-01-09 21:30:00 +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [Stack, Hash Table]
 permalink:  /daily-temperatures/
 ---
