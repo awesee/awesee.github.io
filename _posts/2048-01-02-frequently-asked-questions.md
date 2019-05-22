@@ -6,6 +6,11 @@ categories: [Guide]
 tags: [Guide]
 ---
 
+## Mac 允许任何来源
+```bash
+$ sudo spctl --master-disable
+```
+
 ## 计算机常见术语及缩写
 
   [Abbreviations](/guide-abbreviations)
