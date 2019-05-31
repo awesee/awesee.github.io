@@ -11,15 +11,11 @@ permalink:  /groups-of-special-equivalent-strings/
 
 <p>你将得到一个字符串数组 <code>A</code>。</p>
 
-<p>如果经过任意次数的移动，S == T，那么两个字符串 <code>S</code> 和 <code>T</code> 是<em>特殊等价</em>的。</p>
+<p>如果经过任意次数的移动，S == T，那么两个字符串 <code>S</code> 和 <code>T</code> 是<strong>特殊等价</strong>的。</p>
 
-<p>&nbsp;</p>
-
-<p>一次<em>移动</em>包括选择两个索引 <code>i</code> 和 <code>j</code>，且&nbsp;<code>i ％ 2 == j ％ 2</code>，并且交换 <code>S[j]</code> 和 <code>S [i]</code>。</p>
+<p>一次<strong>移动</strong>包括选择两个索引 <code>i</code> 和 <code>j</code>，且&nbsp;<code>i ％ 2 == j ％ 2</code>，交换 <code>S[j]</code> 和 <code>S [i]</code>。</p>
 
 <p>现在规定，<strong><code>A</code> 中的特殊等价字符串组</strong>是 <code>A</code> 的非空子集 <code>S</code>，这样不在 <code>S</code> 中的任何字符串与 <code>S</code> 中的任何字符串都不是特殊等价的。</p>
-
-<p>&nbsp;</p>
 
 <p>返回 <code>A</code>&nbsp;中特殊等价字符串组的数量。</p>
 

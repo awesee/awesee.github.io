@@ -38,7 +38,7 @@ permalink:  /binary-tree-level-order-traversal/
   1. [二叉树的锯齿形层次遍历](/binary-tree-zigzag-level-order-traversal) (Medium)
   1. [二叉树的层次遍历 II](/binary-tree-level-order-traversal-ii) (Easy)
   1. [二叉树的最小深度](/minimum-depth-of-binary-tree) (Easy)
-  1. [二叉树竖直遍历](/binary-tree-vertical-order-traversal) (Medium)
+  1. [二叉树的垂直遍历](/binary-tree-vertical-order-traversal) (Medium)
   1. [二叉树的层平均值](/average-of-levels-in-binary-tree) (Easy)
   1. [N叉树的层序遍历](/n-ary-tree-level-order-traversal) (Easy)
   1. [二叉树的堂兄弟节点](/cousins-in-binary-tree) (Easy)

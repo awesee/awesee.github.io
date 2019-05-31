@@ -9,7 +9,7 @@ permalink:  /valid-anagram/
 
 ## 242. 有效的字母异位词 (Easy)
 
-<p>给定两个字符串 <em>s</em> 和 <em>t</em> ，编写一个函数来判断 <em>t</em> 是否是 <em>s</em> 的一个字母异位词。</p>
+<p>给定两个字符串 <em>s</em> 和 <em>t</em> ，编写一个函数来判断 <em>t</em> 是否是 <em>s</em> 的字母异位词。</p>
 
 <p><strong>示例&nbsp;1:</strong></p>
 

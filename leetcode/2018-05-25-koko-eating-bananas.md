@@ -54,7 +54,7 @@ permalink:  /koko-eating-bananas/
   [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
 
 ### 相似题目
-  1. [最小化加油站的最大距离](/minimize-max-distance-to-gas-station) (Hard)
+  1. [最小化去加油站的最大距离](/minimize-max-distance-to-gas-station) (Hard)
 
 ---
 

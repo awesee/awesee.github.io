@@ -1,13 +1,13 @@
 ---
 layout:     single
-title:      "岛屿的个数"
+title:      "岛屿数量"
 date:       2016-07-19 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Depth-first Search, Breadth-first Search, Union Find]
 permalink:  /number-of-islands/
 ---
 
-## 200. 岛屿的个数 (Medium)
+## 200. 岛屿数量 (Medium)
 
 <p>给定一个由&nbsp;<code>&#39;1&#39;</code>（陆地）和 <code>&#39;0&#39;</code>（水）组成的的二维网格，计算岛屿的数量。一个岛被水包围，并且它是通过水平方向或垂直方向上相邻的陆地连接而成的。你可以假设网格的四个边均被水包围。</p>
 
@@ -41,7 +41,7 @@ permalink:  /number-of-islands/
 ### 相似题目
   1. [被围绕的区域](/surrounded-regions) (Medium)
   1. [墙与门](/walls-and-gates) (Medium)
-  1. [岛的数量 II](/number-of-islands-ii) (Hard)
+  1. [岛屿数量 II](/number-of-islands-ii) (Hard)
   1. [无向图中连通分量的数目](/number-of-connected-components-in-an-undirected-graph) (Medium)
   1. [不同岛屿的数量](/number-of-distinct-islands) (Medium)
   1. [岛屿的最大面积](/max-area-of-island) (Medium)

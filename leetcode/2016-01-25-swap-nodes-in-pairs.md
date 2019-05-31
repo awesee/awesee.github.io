@@ -24,7 +24,7 @@ permalink:  /swap-nodes-in-pairs/
   [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
 
 ### 相似题目
-  1. [k个一组翻转链表](/reverse-nodes-in-k-group) (Hard)
+  1. [K 个一组翻转链表](/reverse-nodes-in-k-group) (Hard)
 
 ---
 

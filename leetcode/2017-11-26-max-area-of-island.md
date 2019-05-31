@@ -42,7 +42,7 @@ permalink:  /max-area-of-island/
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 
 ### 相似题目
-  1. [岛屿的个数](/number-of-islands) (Medium)
+  1. [岛屿数量](/number-of-islands) (Medium)
   1. [岛屿的周长](/island-perimeter) (Easy)
 
 ---
