@@ -1,17 +1,19 @@
 ---
 layout:     single
-title:      "k个一组翻转链表"
+title:      "K 个一组翻转链表"
 date:       2016-01-26 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Linked List]
 permalink:  /reverse-nodes-in-k-group/
 ---
 
-## 25. k个一组翻转链表 (Hard)
+## 25. K 个一组翻转链表 (Hard)
 
-<p>给出一个链表，每&nbsp;<em>k&nbsp;</em>个节点一组进行翻转，并返回翻转后的链表。</p>
+<p>给你一个链表，每&nbsp;<em>k&nbsp;</em>个节点一组进行翻转，请你返回翻转后的链表。</p>
 
-<p><em>k&nbsp;</em>是一个正整数，它的值小于或等于链表的长度。如果节点总数不是&nbsp;<em>k&nbsp;</em>的整数倍，那么将最后剩余节点保持原有顺序。</p>
+<p><em>k&nbsp;</em>是一个正整数，它的值小于或等于链表的长度。</p>
+
+<p>如果节点总数不是&nbsp;<em>k&nbsp;</em>的整数倍，那么请将最后剩余的节点保持原有顺序。</p>
 
 <p><strong>示例 :</strong></p>
 

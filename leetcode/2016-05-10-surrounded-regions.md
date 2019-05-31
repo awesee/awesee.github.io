@@ -39,7 +39,7 @@ X O X X
   [[并查集](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)]
 
 ### 相似题目
-  1. [岛屿的个数](/number-of-islands) (Medium)
+  1. [岛屿数量](/number-of-islands) (Medium)
   1. [墙与门](/walls-and-gates) (Medium)
 
 ---

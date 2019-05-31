@@ -35,7 +35,7 @@ sumRange(0, 2) -&gt; 8
 
 ### 相似题目
   1. [区域和检索 - 数组不可变](/range-sum-query-immutable) (Easy)
-  1. [二维区域检索求和 - 可变](/range-sum-query-2d-mutable) (Hard)
+  1. [二维区域和检索 - 可变](/range-sum-query-2d-mutable) (Hard)
 
 ---
 

@@ -11,7 +11,7 @@ permalink:  /range-sum-query-2d-immutable/
 
 <p>给定一个二维矩阵，计算其子矩形范围内元素的总和，该子矩阵的左上角为 (<em>row</em>1,&nbsp;<em>col</em>1) ，右下角为 (<em>row</em>2,&nbsp;<em>col</em>2)。</p>
 
-<p><img alt="Range Sum Query 2D" src="/static/images/courses/range_sum_query_2d.png"><br>
+<p><img alt="Range Sum Query 2D" src="https://assets.leetcode-cn.com/aliyun-lc-upload/original_images/range_sum_query_2d.png"><br>
 <small>上图子矩阵左上角&nbsp;(row1, col1) = <strong>(2, 1)</strong>&nbsp;，右下角(row2, col2) = <strong>(4, 3)，</strong>该子矩形内元素的总和为 8。</small></p>
 
 <p><strong>示例:</strong></p>
@@ -42,7 +42,7 @@ sumRegion(1, 2, 2, 4) -&gt; 12
 
 ### 相似题目
   1. [区域和检索 - 数组不可变](/range-sum-query-immutable) (Easy)
-  1. [二维区域检索求和 - 可变](/range-sum-query-2d-mutable) (Hard)
+  1. [二维区域和检索 - 可变](/range-sum-query-2d-mutable) (Hard)
 
 ---
 

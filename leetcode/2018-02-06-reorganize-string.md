@@ -40,7 +40,7 @@ permalink:  /reorganize-string/
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ### 相似题目
-  1. [k 距离重排字符串](/rearrange-string-k-distance-apart) (Hard)
+  1. [K 距离间隔重排字符串](/rearrange-string-k-distance-apart) (Hard)
   1. [任务调度器](/task-scheduler) (Medium)
 
 ---
