@@ -9,13 +9,13 @@ permalink:  /regular-expression-matching/
 
 ## 10. 正则表达式匹配 (Hard)
 
-<p>给定一个字符串&nbsp;(<code>s</code>) 和一个字符模式&nbsp;(<code>p</code>)。实现支持 <code>&#39;.&#39;</code>&nbsp;和&nbsp;<code>&#39;*&#39;</code>&nbsp;的正则表达式匹配。</p>
+<p>给你一个字符串&nbsp;<code>s</code>&nbsp;和一个字符规律&nbsp;<code>p</code>，请你来实现一个支持 <code>&#39;.&#39;</code>&nbsp;和&nbsp;<code>&#39;*&#39;</code>&nbsp;的正则表达式匹配。</p>
 
-<pre>&#39;.&#39; 匹配任意单个字符。
-&#39;*&#39; 匹配零个或多个前面的元素。
+<pre>&#39;.&#39; 匹配任意单个字符
+&#39;*&#39; 匹配零个或多个前面的那一个元素
 </pre>
 
-<p>匹配应该覆盖<strong>整个</strong>字符串&nbsp;(<code>s</code>) ，而不是部分字符串。</p>
+<p>所谓匹配，是要涵盖&nbsp;<strong>整个&nbsp;</strong>字符串&nbsp;<code>s</code>的，而不是部分字符串。</p>
 
 <p><strong>说明:</strong></p>
 
@@ -39,7 +39,7 @@ p = &quot;a&quot;
 s = &quot;aa&quot;
 p = &quot;a*&quot;
 <strong>输出:</strong> true
-<strong>解释:</strong>&nbsp;&#39;*&#39; 代表可匹配零个或多个前面的元素, 即可以匹配 &#39;a&#39; 。因此, 重复 &#39;a&#39; 一次, 字符串可变为 &quot;aa&quot;。
+<strong>解释:</strong>&nbsp;因为 &#39;*&#39; 代表可以匹配零个或多个前面的那一个元素, 在这里前面的元素就是 &#39;a&#39;。因此，字符串 &quot;aa&quot; 可被视为 &#39;a&#39; 重复了一次。
 </pre>
 
 <p><strong>示例&nbsp;3:</strong></p>
@@ -48,7 +48,7 @@ p = &quot;a*&quot;
 s = &quot;ab&quot;
 p = &quot;.*&quot;
 <strong>输出:</strong> true
-<strong>解释:</strong>&nbsp;&quot;.*&quot; 表示可匹配零个或多个(&#39;*&#39;)任意字符(&#39;.&#39;)。
+<strong>解释:</strong>&nbsp;&quot;.*&quot; 表示可匹配零个或多个（&#39;*&#39;）任意字符（&#39;.&#39;）。
 </pre>
 
 <p><strong>示例 4:</strong></p>
@@ -57,7 +57,7 @@ p = &quot;.*&quot;
 s = &quot;aab&quot;
 p = &quot;c*a*b&quot;
 <strong>输出:</strong> true
-<strong>解释:</strong>&nbsp;&#39;c&#39; 可以不被重复, &#39;a&#39; 可以被重复一次。因此可以匹配字符串 &quot;aab&quot;。
+<strong>解释:</strong>&nbsp;因为 &#39;*&#39; 表示零个或多个，这里 &#39;c&#39; 为 0 个, &#39;a&#39; 被重复一次。因此可以匹配字符串 &quot;aab&quot;。
 </pre>
 
 <p><strong>示例 5:</strong></p>

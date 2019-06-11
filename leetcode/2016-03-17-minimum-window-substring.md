@@ -9,7 +9,7 @@ permalink:  /minimum-window-substring/
 
 ## 76. 最小覆盖子串 (Hard)
 
-<p>给定一个字符串 S 和一个字符串 T，请在 S 中找出包含 T 所有字母的最小子串。</p>
+<p>给你一个字符串 S、一个字符串 T，请在字符串 S 里面找出：包含 T 所有字母的最小子串。</p>
 
 <p><strong>示例：</strong></p>
 

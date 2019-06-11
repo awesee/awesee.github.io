@@ -40,6 +40,7 @@ permalink:  /is-subsequence/
 
 ### 相似题目
   1. [匹配子序列的单词数](/number-of-matching-subsequences) (Medium)
+  1. [形成字符串的最短路径](/shortest-way-to-form-string) (Medium)
 
 ---
 
