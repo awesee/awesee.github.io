@@ -22,6 +22,7 @@ permalink:  /number-of-digit-one/
 
 ### 相似题目
   1. [阶乘后的零](/factorial-trailing-zeroes) (Easy)
+  1. [范围内的数字计数](/digit-count-in-range) (Hard)
 
 ---
 
