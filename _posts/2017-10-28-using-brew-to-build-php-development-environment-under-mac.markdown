@@ -7,7 +7,7 @@ tags:       [Mac]
 ---
 
 ## 搭建过程
-* 安装 Homebrew
+- 安装 Homebrew
 - `$ brew search php` （非必要）
 - `$ brew options php71` （非必要） 
 - `$ brew install homebrew/php/php71 --with-httpd` Apache环境
@@ -32,13 +32,15 @@ $ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/inst
 ```bash
 $ brew search php
 ```
+
 查询可用的formula，注意以下几个：
-```
+```bash
 homebrew/php/php56
 homebrew/php/php70
 homebrew/php/php71
 homebrew/php/php72
 ```
+
 PHP后面的数字代表PHP版本，`homebrew/php/php72-redis` 类似这样的是PHP版本对用的扩展。
 默认是不会安装Apache Handler module，可以使用 `--with-httpd` 参数。 
 
@@ -46,9 +48,12 @@ PHP后面的数字代表PHP版本，`homebrew/php/php72-redis` 类似这样的�
 
 ## 三、遇到问题及处理方式（重点）
 
-安装模块不可用，
+###安装模块不可用
+
 原因1: 线程安全和非线程安全
+
 `brew reinstall -fs php71-mcrypt`  重新安装线程安全模块
+
 运行 `brew install` 可以添加 `--interactive` 参数，解释如下
 ```bash
 $ brew help install
@@ -61,6 +66,7 @@ brew install --interactive [--git] formula:
     If --git (or -g) is passed, Homebrew will create a Git repository, useful for
     creating patches to the software.
 ```
+
 原因2: 模块不可用
 ```bash 
 PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/opt/php71-redis/redis.so' - dlopen(/usr/local/opt/php71-redis/redis.so, 9): Symbol not found: _basic_globals
@@ -73,7 +79,9 @@ Warning: PHP Startup: Unable to load dynamic library '/usr/local/opt/php71-redis
   Expected in: flat namespace
  in /usr/local/opt/php71-redis/redis.so in Unknown on line 0
 ```
+
 解决方法：添加 `--build-from-source (or -s)`  参数
+
 例如： `brew reinstall --build-from-source php71-redis`
 
 _**Thanks.**_
