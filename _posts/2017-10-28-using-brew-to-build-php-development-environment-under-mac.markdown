@@ -48,9 +48,9 @@ PHP后面的数字代表PHP版本，`homebrew/php/php72-redis` 类似这样的�
 
 ## 三、遇到问题及处理方式（重点）
 
-### 安装模块不可用
+**安装模块不可用**
 
-#### 原因1: 线程安全和非线程安全
+**原因1: 线程安全和非线程安全**
 
 `brew reinstall -fs php71-mcrypt`  重新安装线程安全模块
 
@@ -67,7 +67,7 @@ brew install --interactive [--git] formula:
     creating patches to the software.
 ```
 
-#### 原因2: 模块不可用
+**原因2: 模块不可用**
 ```bash 
 PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/opt/php71-redis/redis.so' - dlopen(/usr/local/opt/php71-redis/redis.so, 9): Symbol not found: _basic_globals
   Referenced from: /usr/local/opt/php71-redis/redis.so
