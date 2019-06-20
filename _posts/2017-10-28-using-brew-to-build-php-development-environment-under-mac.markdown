@@ -16,7 +16,7 @@ tags:       [Mac]
 - `  which apachectl 或 which httpd ` 查询httpd位置（非必要）
 - ` apachectl -V 或 httpd -V  ` 查看Apache配置文件位置（非必要）
 - ` php -m ` 查询已安装模块（非必要）
-- ` php -i | grep php.ini ` 查询php.ini文件（非必要）
+- ` php --ini ` 查询php.ini文件（非必要）
 - ` $ brew services list `  详细使用运行brew services可以查看帮助（非必要）
 - ` $ sudo brew services run httpd ` 需要root权限（80，443端口需要）
 - ` $ brew services run mysql `
