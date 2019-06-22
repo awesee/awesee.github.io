@@ -32,6 +32,7 @@ s = &quot;2[abc]3[cd]ef&quot;, 返回 &quot;abcabccdcdcdef&quot;.
 ### 相似题目
   1. [编码最短长度的字符串](/encode-string-with-shortest-length) (Hard)
   1. [原子的数量](/number-of-atoms) (Hard)
+  1. [字母切换](/permutation-of-letters) (Medium)
 
 ---
 
