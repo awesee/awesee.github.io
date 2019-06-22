@@ -26,6 +26,7 @@ permalink:  /add-digits/
 
 ### 相似题目
   1. [快乐数](/happy-number) (Easy)
+  1. [最小元素各数位之和](/sum-of-digits-in-the-minimum-number) (Easy)
 
 ---
 

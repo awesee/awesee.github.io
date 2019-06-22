@@ -9,14 +9,14 @@ permalink:  /human-traffic-of-stadium/
 
 ## 601. 体育馆的人流量 (Hard)
 
-<p>X 市建了一个新的体育馆，每日人流量信息被记录在这三列信息中：<strong>序号</strong> (id)、<strong>日期</strong> (date)、&nbsp;<strong>人流量</strong> (people)。</p>
+<p>X 市建了一个新的体育馆，每日人流量信息被记录在这三列信息中：<strong>序号</strong> (id)、<strong>日期</strong> (visit_date)、&nbsp;<strong>人流量</strong> (people)。</p>
 
-<p>请编写一个查询语句，找出高峰期时段，要求连续三天及以上，并且每天人流量均不少于100。</p>
+<p>请编写一个查询语句，找出人流量的高峰期。高峰期时，至少连续三行记录中的人流量不少于100。</p>
 
 <p>例如，表 <code>stadium</code>：</p>
 
 <pre>+------+------------+-----------+
-| id   | date       | people    |
+| id   | visit_date | people    |
 +------+------------+-----------+
 | 1    | 2017-01-01 | 10        |
 | 2    | 2017-01-02 | 109       |
@@ -32,7 +32,7 @@ permalink:  /human-traffic-of-stadium/
 <p>对于上面的示例数据，输出为：</p>
 
 <pre>+------+------------+-----------+
-| id   | date       | people    |
+| id   | visit_date | people    |
 +------+------------+-----------+
 | 5    | 2017-01-05 | 145       |
 | 6    | 2017-01-06 | 1455      |
@@ -41,7 +41,9 @@ permalink:  /human-traffic-of-stadium/
 +------+------------+-----------+
 </pre>
 
-<p><strong>Note:</strong><br>
+<p>&nbsp;</p>
+
+<p><strong>提示：</strong><br>
 每天只有一行记录，日期随着 id 的增加而增加。</p>
 
 ---
