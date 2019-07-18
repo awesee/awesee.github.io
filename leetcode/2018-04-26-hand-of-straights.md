@@ -9,6 +9,8 @@ permalink:  /hand-of-straights/
 
 ## 846. 一手顺子 (Medium)
 
+{% raw %}
+
 <p>爱丽丝有一手（<code>hand</code>）由整数数组给定的牌。&nbsp;</p>
 
 <p>现在她想把牌重新排列成组，使得每个组的大小都是 <code>W</code>，且由 <code>W</code> 张连续的牌组成。</p>
@@ -41,6 +43,8 @@ permalink:  /hand-of-straights/
 	<li><code>0 &lt;= hand[i]&nbsp;&lt;= 10^9</code></li>
 	<li><code>1 &lt;= W &lt;= hand.length</code></li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[Ordered Map](https://github.com/openset/leetcode/tree/master/tag/ordered-map/README.md)]

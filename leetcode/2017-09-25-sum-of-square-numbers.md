@@ -9,6 +9,8 @@ permalink:  /sum-of-square-numbers/
 
 ## 633. 平方数之和 (Easy)
 
+{% raw %}
+
 <p>给定一个非负整数&nbsp;<code>c</code>&nbsp;，你要判断是否存在两个整数 <code>a</code> 和 <code>b</code>，使得&nbsp;a<sup>2</sup> + b<sup>2</sup> = c。</p>
 
 <p><strong>示例1:</strong></p>
@@ -27,6 +29,8 @@ permalink:  /sum-of-square-numbers/
 <strong>输入:</strong> 3
 <strong>输出:</strong> False
 </pre>
+
+{% endraw %}
 
 ### 相关话题
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]

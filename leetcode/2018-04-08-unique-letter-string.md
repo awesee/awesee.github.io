@@ -9,6 +9,8 @@ permalink:  /unique-letter-string/
 
 ## 828. 独特字符串 (Hard)
 
+{% raw %}
+
 <p>如果一个字符在字符串&nbsp;<code>S</code>&nbsp;中有且仅有出现一次，那么我们称其为独特字符。</p>
 
 <p>例如，在字符串&nbsp;<code>S = &quot;LETTER&quot;</code>&nbsp;中，<code>&quot;L&quot;</code>&nbsp;和&nbsp;<code>&quot;R&quot;</code>&nbsp;可以被称为独特字符。</p>
@@ -44,6 +46,8 @@ permalink:  /unique-letter-string/
 <p>&nbsp;</p>
 
 <p><strong>说明:</strong> <code>0 &lt;= S.length &lt;= 10000</code>。</p>
+
+{% endraw %}
 
 ### 相关话题
   [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]

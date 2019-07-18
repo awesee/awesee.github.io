@@ -9,6 +9,8 @@ permalink:  /sort-an-array/
 
 ## 912. 排序数组 (Medium)
 
+{% raw %}
+
 <p>给定一个整数数组&nbsp;<code>nums</code>，将该数组升序排列。</p>
 
 <p>&nbsp;</p>
@@ -38,6 +40,8 @@ permalink:  /sort-an-array/
 	<li><code>1 &lt;= A.length &lt;= 10000</code></li>
 	<li><code>-50000 &lt;= A[i] &lt;= 50000</code></li>
 </ol>
+
+{% endraw %}
 
 ---
 

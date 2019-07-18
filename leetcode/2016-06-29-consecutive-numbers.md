@@ -9,6 +9,8 @@ permalink:  /consecutive-numbers/
 
 ## 180. 连续出现的数字 (Medium)
 
+{% raw %}
+
 <p>编写一个 SQL 查询，查找所有至少连续出现三次的数字。</p>
 
 <pre>+----+-----+
@@ -32,6 +34,8 @@ permalink:  /consecutive-numbers/
 | 1               |
 +-----------------+
 </pre>
+
+{% endraw %}
 
 ---
 

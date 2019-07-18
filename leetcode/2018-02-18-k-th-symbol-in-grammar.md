@@ -9,6 +9,8 @@ permalink:  /k-th-symbol-in-grammar/
 
 ## 779. 第K个语法符号 (Medium)
 
+{% raw %}
+
 <p>在第一行我们写上一个 <code>0</code>。接下来的每一行，将前一行中的<code>0</code>替换为<code>01</code>，<code>1</code>替换为<code>10</code>。</p>
 
 <p>给定行数&nbsp;<code>N</code>&nbsp;和序数 <code>K</code>，返回第 <code>N</code> 行中第 <code>K</code>个字符。（<code>K</code>从1开始）</p>
@@ -42,6 +44,8 @@ permalink:  /k-th-symbol-in-grammar/
 	<li><code>N</code>&nbsp;的范围&nbsp;<code>[1, 30]</code>.</li>
 	<li><code>K</code>&nbsp;的范围&nbsp;<code>[1, 2^(N-1)]</code>.</li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[递归](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]

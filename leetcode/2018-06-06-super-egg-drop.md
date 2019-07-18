@@ -9,6 +9,8 @@ permalink:  /super-egg-drop/
 
 ## 887. 鸡蛋掉落 (Hard)
 
+{% raw %}
+
 <p>你将获得&nbsp;<code>K</code>&nbsp;个鸡蛋，并可以使用一栋从&nbsp;<code>1</code>&nbsp;到&nbsp;<code>N</code>&nbsp;&nbsp;共有 <code>N</code>&nbsp;层楼的建筑。</p>
 
 <p>每个蛋的功能都是一样的，如果一个蛋碎了，你就不能再把它掉下去。</p>
@@ -57,6 +59,8 @@ permalink:  /super-egg-drop/
 	<li><code>1 &lt;= K &lt;= 100</code></li>
 	<li><code>1 &lt;= N &lt;= 10000</code></li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]

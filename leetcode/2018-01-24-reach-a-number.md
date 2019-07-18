@@ -9,6 +9,8 @@ permalink:  /reach-a-number/
 
 ## 754. 到达终点数字 (Easy)
 
+{% raw %}
+
 <p>在一根无限长的数轴上，你站在<code>0</code>的位置。终点在<code>target</code>的位置。</p>
 
 <p>每次你可以选择向左或向右移动。第 n 次移动（从 1 开始），可以走 n 步。</p>
@@ -41,6 +43,8 @@ permalink:  /reach-a-number/
 <ul>
 	<li><code>target</code>是在<code>[-10^9, 10^9]</code>范围中的非零整数。</li>
 </ul>
+
+{% endraw %}
 
 ### 相关话题
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]

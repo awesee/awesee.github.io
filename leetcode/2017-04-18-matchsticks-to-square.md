@@ -9,6 +9,8 @@ permalink:  /matchsticks-to-square/
 
 ## 473. 火柴拼正方形 (Medium)
 
+{% raw %}
+
 <p>还记得童话《卖火柴的小女孩》吗？现在，你知道小女孩有多少根火柴，请找出一种能使用所有火柴拼成一个正方形的方法。不能折断火柴，可以把火柴连接起来，并且每根火柴都要用到。</p>
 
 <p>输入为小女孩拥有火柴的数目，每根火柴用其长度表示。输出即为是否能用所有的火柴拼成正方形。</p>
@@ -37,6 +39,8 @@ permalink:  /matchsticks-to-square/
 	<li>给定的火柴长度和在&nbsp;<code>0</code>&nbsp;到&nbsp;<code>10^9</code>之间。</li>
 	<li>火柴数组的长度不超过15。</li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]

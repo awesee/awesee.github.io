@@ -9,6 +9,8 @@ permalink:  /delete-node-in-a-linked-list/
 
 ## 237. 删除链表中的节点 (Easy)
 
+{% raw %}
+
 <p>请编写一个函数，使其可以删除某个链表中给定的（非末尾）节点，你将只被给定要求被删除的节点。</p>
 
 <p>现有一个链表 --&nbsp;head =&nbsp;[4,5,1,9]，它可以表示为:</p>
@@ -41,6 +43,8 @@ permalink:  /delete-node-in-a-linked-list/
 	<li>给定的节点为非末尾节点并且一定是链表中的一个有效节点。</li>
 	<li>不要从你的函数中返回任何结果。</li>
 </ul>
+
+{% endraw %}
 
 ### 相关话题
   [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]

@@ -9,6 +9,8 @@ permalink:  /power-of-three/
 
 ## 326. 3的幂 (Easy)
 
+{% raw %}
+
 <p>给定一个整数，写一个函数来判断它是否是 3&nbsp;的幂次方。</p>
 
 <p><strong>示例 1:</strong></p>
@@ -34,6 +36,8 @@ permalink:  /power-of-three/
 
 <p><strong>进阶：</strong><br>
 你能不使用循环或者递归来完成本题吗？</p>
+
+{% endraw %}
 
 ### 相关话题
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]

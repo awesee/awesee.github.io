@@ -9,6 +9,8 @@ permalink:  /binary-watch/
 
 ## 401. 二进制手表 (Easy)
 
+{% raw %}
+
 <p>二进制手表顶部有 4 个 LED 代表<strong>小时（0-11）</strong>，底部的 6 个 LED 代表<strong>分钟（0-59）</strong>。</p>
 
 <p>每个 LED 代表一个 0 或 1，最低位在右侧。</p>
@@ -34,6 +36,8 @@ permalink:  /binary-watch/
 	<li>小时不会以零开头，比如 &ldquo;01:00&rdquo;&nbsp;是不允许的，应为 &ldquo;1:00&rdquo;。</li>
 	<li>分钟必须由两位数组成，可能会以零开头，比如 &ldquo;10:2&rdquo;&nbsp;是无效的，应为 &ldquo;10:02&rdquo;。</li>
 </ul>
+
+{% endraw %}
 
 ### 相关话题
   [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]

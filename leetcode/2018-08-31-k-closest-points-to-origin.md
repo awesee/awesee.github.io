@@ -9,6 +9,8 @@ permalink:  /k-closest-points-to-origin/
 
 ## 973. 最接近原点的 K 个点 (Medium)
 
+{% raw %}
+
 <p>我们有一个由平面上的点组成的列表 <code>points</code>。需要从中找出 <code>K</code> 个距离原点 <code>(0, 0)</code> 最近的点。</p>
 
 <p>（这里，平面上两点之间的距离是欧几里德距离。）</p>
@@ -44,6 +46,8 @@ permalink:  /k-closest-points-to-origin/
 	<li><code>-10000 &lt; points[i][0] &lt; 10000</code></li>
 	<li><code>-10000 &lt; points[i][1] &lt; 10000</code></li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[堆](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]

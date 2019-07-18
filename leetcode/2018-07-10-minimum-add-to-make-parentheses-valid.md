@@ -9,6 +9,8 @@ permalink:  /minimum-add-to-make-parentheses-valid/
 
 ## 921. 使括号有效的最少添加 (Medium)
 
+{% raw %}
+
 <p>给定一个由&nbsp;<code>&#39;(&#39;</code>&nbsp;和&nbsp;<code>&#39;)&#39;</code>&nbsp;括号组成的字符串 <code>S</code>，我们需要添加最少的括号（ <code>&#39;(&#39;</code>&nbsp;或是&nbsp;<code>&#39;)&#39;</code>，可以在任何位置），以使得到的括号字符串有效。</p>
 
 <p>从形式上讲，只有满足下面几点之一，括号字符串才是有效的：</p>
@@ -56,6 +58,8 @@ permalink:  /minimum-add-to-make-parentheses-valid/
 </ol>
 
 <p>&nbsp;</p>
+
+{% endraw %}
 
 ### 相关话题
   [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]

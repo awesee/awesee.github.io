@@ -9,6 +9,8 @@ permalink:  /longest-continuous-increasing-subsequence/
 
 ## 674. 最长连续递增序列 (Easy)
 
+{% raw %}
+
 <p>给定一个未经排序的整数数组，找到最长且<strong>连续</strong>的的递增序列。</p>
 
 <p><strong>示例 1:</strong></p>
@@ -29,6 +31,8 @@ permalink:  /longest-continuous-increasing-subsequence/
 </pre>
 
 <p><strong>注意：</strong>数组长度不会超过10000。</p>
+
+{% endraw %}
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]

@@ -9,6 +9,8 @@ permalink:  /corporate-flight-bookings/
 
 ## 1109. 航班预订统计 (Medium)
 
+{% raw %}
+
 <p>这里有&nbsp;<code>n</code>&nbsp;个航班，它们分别从 <code>1</code> 到 <code>n</code> 进行编号。</p>
 
 <p>我们这儿有一份航班预订表，表中第&nbsp;<code>i</code>&nbsp;条预订记录&nbsp;<code>bookings[i] = [i, j, k]</code>&nbsp;意味着我们在从&nbsp;<code>i</code>&nbsp;到&nbsp;<code>j</code>&nbsp;的每个航班上预订了 <code>k</code> 个座位。</p>
@@ -32,6 +34,8 @@ permalink:  /corporate-flight-bookings/
 	<li><code>1 &lt;= bookings[i][0] &lt;= bookings[i][1] &lt;= n &lt;= 20000</code></li>
 	<li><code>1 &lt;= bookings[i][2] &lt;= 10000</code></li>
 </ul>
+
+{% endraw %}
 
 ---
 

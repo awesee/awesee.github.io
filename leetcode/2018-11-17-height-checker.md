@@ -9,6 +9,8 @@ permalink:  /height-checker/
 
 ## 1051. 高度检查器 (Easy)
 
+{% raw %}
+
 <p>学校在拍年度纪念照时，一般要求学生按照 <strong>非递减</strong> 的高度顺序排列。</p>
 
 <p>请你返回至少有多少个学生没有站在正确位置数量。该人数指的是：能让所有学生以 <strong>非递减</strong> 高度排列的必要移动人数。</p>
@@ -30,6 +32,8 @@ permalink:  /height-checker/
 	<li><code>1 &lt;= heights.length &lt;= 100</code></li>
 	<li><code>1 &lt;= heights[i] &lt;= 100</code></li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]

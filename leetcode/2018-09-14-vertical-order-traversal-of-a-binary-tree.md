@@ -9,6 +9,8 @@ permalink:  /vertical-order-traversal-of-a-binary-tree/
 
 ## 987. 二叉树的垂序遍历 (Medium)
 
+{% raw %}
+
 <p>给定二叉树，按<em>垂序</em>遍历返回其结点值。</p>
 
 <p>对位于&nbsp;<code>(X, Y)</code>&nbsp;的每个结点而言，其左右子结点分别位于&nbsp;<code>(X-1, Y-1)</code>&nbsp;和&nbsp;<code>(X+1, Y-1)</code>。</p>
@@ -54,6 +56,8 @@ permalink:  /vertical-order-traversal-of-a-binary-tree/
 	<li>树的结点数介于 <code>1</code>&nbsp;和&nbsp;<code>1000</code>&nbsp;之间。</li>
 	<li>每个结点值介于&nbsp;<code>0</code>&nbsp;和&nbsp;<code>1000</code>&nbsp;之间。</li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]

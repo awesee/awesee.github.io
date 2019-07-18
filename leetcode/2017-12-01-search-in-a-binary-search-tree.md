@@ -9,6 +9,8 @@ permalink:  /search-in-a-binary-search-tree/
 
 ## 700. 二叉搜索树中的搜索 (Easy)
 
+{% raw %}
+
 <p>给定二叉搜索树（BST）的根节点和一个值。 你需要在BST中找到节点值等于给定值的节点。 返回以该节点为根的子树。 如果节点不存在，则返回 NULL。</p>
 
 <p>例如，</p>
@@ -34,6 +36,8 @@ permalink:  /search-in-a-binary-search-tree/
 </pre>
 
 <p>在上述示例中，如果要找的值是 <code>5</code>，但因为没有节点值为 <code>5</code>，我们应该返回 <code>NULL</code>。</p>
+
+{% endraw %}
 
 ### 相关话题
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]

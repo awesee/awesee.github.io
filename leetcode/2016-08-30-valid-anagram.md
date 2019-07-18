@@ -9,6 +9,8 @@ permalink:  /valid-anagram/
 
 ## 242. 有效的字母异位词 (Easy)
 
+{% raw %}
+
 <p>给定两个字符串 <em>s</em> 和 <em>t</em> ，编写一个函数来判断 <em>t</em> 是否是 <em>s</em> 的字母异位词。</p>
 
 <p><strong>示例&nbsp;1:</strong></p>
@@ -27,6 +29,8 @@ permalink:  /valid-anagram/
 
 <p><strong>进阶:</strong><br>
 如果输入字符串包含 unicode 字符怎么办？你能否调整你的解法来应对这种情况？</p>
+
+{% endraw %}
 
 ### 相关话题
   [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]

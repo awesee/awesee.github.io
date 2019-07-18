@@ -9,6 +9,8 @@ permalink:  /distribute-candies-to-people/
 
 ## 1103. 分糖果 II (Easy)
 
+{% raw %}
+
 <p>排排坐，分糖果。</p>
 
 <p>我们买了一些糖果 <code>candies</code>，打算把它们分给排好队的 <strong><code>n = num_people</code></strong> 个小朋友。</p>
@@ -53,6 +55,8 @@ permalink:  /distribute-candies-to-people/
 	<li><code>1 &lt;= candies &lt;= 10^9</code></li>
 	<li><code>1 &lt;= num_people &lt;= 1000</code></li>
 </ul>
+
+{% endraw %}
 
 ### 相关话题
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]

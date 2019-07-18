@@ -9,6 +9,8 @@ permalink:  /pyramid-transition-matrix/
 
 ## 756. 金字塔转换矩阵 (Medium)
 
+{% raw %}
+
 <p>现在，我们用一些方块来堆砌一个金字塔。 每个方块用仅包含一个字母的字符串表示，例如 &ldquo;Z&rdquo;。</p>
 
 <p>使用三元组表示金字塔的堆砌规则如下：</p>
@@ -52,6 +54,8 @@ X   Y   Z
 	<li><code>allowed</code> 的长度范围在<code>[0, 200]</code>。</li>
 	<li>方块的标记字母范围为<code>{&#39;A&#39;, &#39;B&#39;, &#39;C&#39;, &#39;D&#39;, &#39;E&#39;, &#39;F&#39;, &#39;G&#39;}</code>。</li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]

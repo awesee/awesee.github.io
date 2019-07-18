@@ -9,6 +9,8 @@ permalink:  /flip-binary-tree-to-match-preorder-traversal/
 
 ## 971. 翻转二叉树以匹配先序遍历 (Medium)
 
+{% raw %}
+
 <p>给定一个有 <code>N</code> 个节点的二叉树，每个节点都有一个不同于其他节点且处于 <code>{1, ..., N}</code> 中的值。</p>
 
 <p>通过交换节点的左子节点和右子节点，可以翻转该二叉树中的节点。</p>
@@ -56,6 +58,8 @@ permalink:  /flip-binary-tree-to-match-preorder-traversal/
 <ol>
 	<li><code>1 &lt;= N &lt;= 100</code></li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]

@@ -9,6 +9,8 @@ permalink:  /is-graph-bipartite/
 
 ## 785. 判断二分图 (Medium)
 
+{% raw %}
+
 <p>给定一个无向图<code>graph</code>，当这个图为二分图时返回<code>true</code>。</p>
 
 <p>如果我们能将一个图的节点集合分割成两个独立的子集A和B，并使图中的每一条边的两个节点一个来自A集合，一个来自B集合，我们就将这个图称为二分图。</p>
@@ -51,6 +53,8 @@ permalink:  /is-graph-bipartite/
 	<li><code>graph[i]</code> 不会包含 <code>i</code> 或者有重复的值。</li>
 	<li>图是无向的: 如果<code>j</code> 在 <code>graph[i]</code>里边, 那么 <code>i</code> 也会在 <code>graph[j]</code>里边。</li>
 </ul>
+
+{% endraw %}
 
 ### 相关话题
   [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]

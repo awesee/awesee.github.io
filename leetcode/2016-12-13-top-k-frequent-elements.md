@@ -9,6 +9,8 @@ permalink:  /top-k-frequent-elements/
 
 ## 347. 前 K 个高频元素 (Medium)
 
+{% raw %}
+
 <p>给定一个非空的整数数组，返回其中出现频率前&nbsp;<strong><em>k&nbsp;</em></strong>高的元素。</p>
 
 <p><strong>示例 1:</strong></p>
@@ -28,6 +30,8 @@ permalink:  /top-k-frequent-elements/
 	<li>你可以假设给定的&nbsp;<em>k&nbsp;</em>总是合理的，且 1 &le; k &le; 数组中不相同的元素的个数。</li>
 	<li>你的算法的时间复杂度<strong>必须</strong>优于 O(<em>n</em> log <em>n</em>) ,&nbsp;<em>n&nbsp;</em>是数组的大小。</li>
 </ul>
+
+{% endraw %}
 
 ### 相关话题
   [[堆](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]

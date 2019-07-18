@@ -9,6 +9,8 @@ permalink:  /prime-palindrome/
 
 ## 866. 回文素数 (Medium)
 
+{% raw %}
+
 <p>求出大于或等于&nbsp;<code>N</code>&nbsp;的最小回文素数。</p>
 
 <p>回顾一下，如果一个数大于 1，且其因数只有 1 和它自身，那么这个数是<em>素数</em>。</p>
@@ -50,6 +52,8 @@ permalink:  /prime-palindrome/
 <p>&nbsp;</p>
 
 <p>&nbsp;</p>
+
+{% endraw %}
 
 ### 相关话题
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]

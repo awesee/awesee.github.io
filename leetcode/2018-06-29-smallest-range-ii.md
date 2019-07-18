@@ -9,6 +9,8 @@ permalink:  /smallest-range-ii/
 
 ## 910. 最小差值 II (Medium)
 
+{% raw %}
+
 <p>给定一个整数数组 <code>A</code>，对于每个整数 <code>A[i]</code>，我们可以选择<strong>&nbsp;<code>x = -K</code>&nbsp;或是&nbsp;<code>x = K</code></strong>，并将&nbsp;<code>x</code>&nbsp;加到&nbsp;<code>A[i]</code>&nbsp;中。</p>
 
 <p>在此过程之后，我们得到一些数组&nbsp;<code>B</code>。</p>
@@ -50,6 +52,8 @@ permalink:  /smallest-range-ii/
 	<li><code>0 &lt;= A[i] &lt;= 10000</code></li>
 	<li><code>0 &lt;= K &lt;= 10000</code></li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]

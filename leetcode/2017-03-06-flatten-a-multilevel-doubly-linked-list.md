@@ -9,6 +9,8 @@ permalink:  /flatten-a-multilevel-doubly-linked-list/
 
 ## 430. 扁平化多级双向链表 (Medium)
 
+{% raw %}
+
 <p>您将获得一个双向链表，除了下一个和前一个指针之外，它还有一个子指针，可能指向单独的双向链表。这些子列表可能有一个或多个自己的子项，依此类推，生成多级数据结构，如下面的示例所示。</p>
 
 <p>扁平化列表，使所有结点出现在单级双链表中。您将获得列表第一级的头部。</p>
@@ -41,6 +43,8 @@ permalink:  /flatten-a-multilevel-doubly-linked-list/
 <p>我们应该返回如下所示的扁平双向链表:</p>
 
 <pre><img src="https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2018/10/12/multilevellinkedlistflattened.png" style="width: 1100px;"></pre>
+
+{% endraw %}
 
 ### 相关话题
   [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]

@@ -9,6 +9,8 @@ permalink:  /single-number/
 
 ## 136. 只出现一次的数字 (Easy)
 
+{% raw %}
+
 <p>给定一个<strong>非空</strong>整数数组，除了某个元素只出现一次以外，其余每个元素均出现两次。找出那个只出现了一次的元素。</p>
 
 <p><strong>说明：</strong></p>
@@ -25,6 +27,8 @@ permalink:  /single-number/
 
 <pre><strong>输入:</strong> [4,1,2,1,2]
 <strong>输出:</strong> 4</pre>
+
+{% endraw %}
 
 ### 相关话题
   [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]

@@ -9,6 +9,8 @@ permalink:  /total-hamming-distance/
 
 ## 477. 汉明距离总和 (Medium)
 
+{% raw %}
+
 <p>两个整数的&nbsp;<a href="https://baike.baidu.com/item/%E6%B1%89%E6%98%8E%E8%B7%9D%E7%A6%BB/475174?fr=aladdin">汉明距离</a> 指的是这两个数字的二进制数对应位不同的数量。</p>
 
 <p>计算一个数组中，任意两个数之间汉明距离的总和。</p>
@@ -31,6 +33,8 @@ HammingDistance(4, 14) + HammingDistance(4, 2) + HammingDistance(14, 2) = 2 + 2 
 	<li>数组中元素的范围为从&nbsp;<code>0</code>到&nbsp;<code>10^9</code>。</li>
 	<li>数组的长度不超过&nbsp;<code>10^4</code>。</li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]

@@ -9,6 +9,8 @@ permalink:  /find-right-interval/
 
 ## 436. 寻找右区间 (Medium)
 
+{% raw %}
+
 <p>给定一组区间，对于每一个区间 i，检查是否存在一个区间 j，它的起始点大于或等于区间&nbsp;i 的终点，这可以称为 j 在 i 的&ldquo;右侧&rdquo;。</p>
 
 <p>对于任何区间，你需要存储的满足条件的区间&nbsp;j 的最小索引，这意味着区间 j 有最小的起始点可以使其成为&ldquo;右侧&rdquo;区间。如果区间&nbsp;j 不存在，则将区间 i 存储为 -1。最后，你需要输出一个值为存储的区间值的数组。</p>
@@ -49,6 +51,8 @@ permalink:  /find-right-interval/
 <strong>解释:对于</strong>区间[1,4]和[3,4]，没有满足条件的&ldquo;右侧&rdquo;区间。
 对于[2,3]，区间[3,4]有最小的&ldquo;右&rdquo;起点。
 </pre>
+
+{% endraw %}
 
 ### 相关话题
   [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]

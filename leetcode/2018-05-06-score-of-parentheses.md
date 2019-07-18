@@ -9,6 +9,8 @@ permalink:  /score-of-parentheses/
 
 ## 856. 括号的分数 (Medium)
 
+{% raw %}
+
 <p>给定一个平衡括号字符串&nbsp;<code>S</code>，按下述规则计算该字符串的分数：</p>
 
 <ul>
@@ -51,6 +53,8 @@ permalink:  /score-of-parentheses/
 	<li><code>S</code>&nbsp;是平衡括号字符串，且只含有&nbsp;<code>(</code>&nbsp;和&nbsp;<code>)</code>&nbsp;。</li>
 	<li><code>2 &lt;= S.length &lt;= 50</code></li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]

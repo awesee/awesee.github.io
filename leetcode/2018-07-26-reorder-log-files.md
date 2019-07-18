@@ -9,6 +9,8 @@ permalink:  /reorder-log-files/
 
 ## 937. 重新排列日志文件 (Easy)
 
+{% raw %}
+
 <p>你有一个日志数组 <code>logs</code>。每条日志都是以空格分隔的字串。</p>
 
 <p>对于每条日志，其第一个字为字母数字<em>标识符</em>。然后，要么：</p>
@@ -41,6 +43,8 @@ permalink:  /reorder-log-files/
 	<li><code>3 &lt;= logs[i].length &lt;= 100</code></li>
 	<li><code>logs[i]</code>&nbsp;保证有一个标识符，并且标识符后面有一个字。</li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]

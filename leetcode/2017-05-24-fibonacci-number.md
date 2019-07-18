@@ -9,6 +9,8 @@ permalink:  /fibonacci-number/
 
 ## 509. 斐波那契数 (Easy)
 
+{% raw %}
+
 <p><strong>斐波那契数</strong>，通常用&nbsp;<code>F(n)</code> 表示，形成的序列称为<strong>斐波那契数列</strong>。该数列由&nbsp;<code>0</code> 和 <code>1</code> 开始，后面的每一项数字都是前面两项数字的和。也就是：</p>
 
 <pre>F(0) = 0,&nbsp; &nbsp;F(1)&nbsp;= 1
@@ -47,6 +49,8 @@ F(N) = F(N - 1) + F(N - 2), 其中 N &gt; 1.
 <ul>
 	<li>0 &le; <code>N</code> &le; 30</li>
 </ul>
+
+{% endraw %}
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]

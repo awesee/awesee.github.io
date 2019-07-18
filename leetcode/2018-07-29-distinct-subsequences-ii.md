@@ -9,6 +9,8 @@ permalink:  /distinct-subsequences-ii/
 
 ## 940. 不同的子序列 II (Hard)
 
+{% raw %}
+
 <p>给定一个字符串&nbsp;<code>S</code>，计算&nbsp;<code>S</code>&nbsp;的不同非空子序列的个数。</p>
 
 <p>因为结果可能很大，所以<strong>返回答案模</strong><strong> <code>10^9 + 7</code></strong>.</p>
@@ -50,6 +52,8 @@ permalink:  /distinct-subsequences-ii/
 <p>&nbsp;</p>
 
 <p>&nbsp;</p>
+
+{% endraw %}
 
 ### 相关话题
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]

@@ -9,6 +9,8 @@ permalink:  /maximum-length-of-repeated-subarray/
 
 ## 718. 最长重复子数组 (Medium)
 
+{% raw %}
+
 <p>给两个整数数组&nbsp;<code>A</code>&nbsp;和&nbsp;<code>B</code>&nbsp;，返回两个数组中公共的、长度最长的子数组的长度。</p>
 
 <p><strong>示例 1:</strong></p>
@@ -28,6 +30,8 @@ B: [3,2,1,4,7]
 	<li>1 &lt;= len(A), len(B) &lt;= 1000</li>
 	<li>0 &lt;= A[i], B[i] &lt; 100</li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]

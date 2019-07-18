@@ -9,6 +9,8 @@ permalink:  /nth-magical-number/
 
 ## 878. 第 N 个神奇数字 (Hard)
 
+{% raw %}
+
 <p>如果正整数可以被 A 或 B 整除，那么它是神奇的。</p>
 
 <p>返回第 N 个神奇数字。由于答案可能非常大，<strong>返回它模&nbsp;</strong><code>10^9 + 7</code>&nbsp;<strong>的结果</strong>。</p>
@@ -51,6 +53,8 @@ permalink:  /nth-magical-number/
 	<li><code>2 &lt;= A&nbsp;&lt;= 40000</code></li>
 	<li><code>2 &lt;= B&nbsp;&lt;= 40000</code></li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]

@@ -9,6 +9,8 @@ permalink:  /binary-tree-cameras/
 
 ## 968. 监控二叉树 (Hard)
 
+{% raw %}
+
 <p>给定一个二叉树，我们在树的节点上安装摄像头。</p>
 
 <p>节点上的每个摄影头都可以监视<strong>其父对象、自身及其直接子对象。</strong></p>
@@ -42,6 +44,8 @@ permalink:  /binary-tree-cameras/
 	<li>给定树的节点数的范围是&nbsp;<code>[1, 1000]</code>。</li>
 	<li>每个节点的值都是 0。</li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]

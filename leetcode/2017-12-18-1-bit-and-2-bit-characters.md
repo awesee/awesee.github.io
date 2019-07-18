@@ -9,6 +9,8 @@ permalink:  /1-bit-and-2-bit-characters/
 
 ## 717. 1比特与2比特字符 (Easy)
 
+{% raw %}
+
 <p>有两种特殊字符。第一种字符可以用一比特<code>0</code>来表示。第二种字符可以用两比特(<code>10</code>&nbsp;或&nbsp;<code>11</code>)来表示。</p>
 
 <p>现给一个由若干比特组成的字符串。问最后一个字符是否必定为一个一比特字符。给定的字符串总是由0结束。</p>
@@ -39,6 +41,8 @@ bits = [1, 1, 1, 0]
 	<li><code>1 &lt;= len(bits) &lt;= 1000</code>.</li>
 	<li><code>bits[i]</code> 总是<code>0</code> 或&nbsp;<code>1</code>.</li>
 </ul>
+
+{% endraw %}
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]

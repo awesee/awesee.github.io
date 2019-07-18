@@ -9,6 +9,8 @@ permalink:  /minimum-distance-between-bst-nodes/
 
 ## 783. 二叉搜索树结点最小距离 (Easy)
 
+{% raw %}
+
 <p>给定一个二叉搜索树的根结点&nbsp;<code>root</code>, 返回树中任意两节点的差的最小值。</p>
 
 <p><strong>示例：</strong></p>
@@ -35,6 +37,8 @@ permalink:  /minimum-distance-between-bst-nodes/
 	<li>二叉树的大小范围在 <code>2</code> 到&nbsp;<code>100</code>。</li>
 	<li>二叉树总是有效的，每个节点的值都是整数，且不重复。</li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]

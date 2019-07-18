@@ -9,6 +9,8 @@ permalink:  /grid-illumination/
 
 ## 1001. 网格照明 (Hard)
 
+{% raw %}
+
 <p>在&nbsp;<code>N x N</code>&nbsp;的网格上，每个单元格&nbsp;<code>(x, y)</code>&nbsp;上都有一盏灯，其中&nbsp;<code>0 &lt;= x &lt; N</code>&nbsp;且&nbsp;<code>0 &lt;= y &lt; N</code> 。</p>
 
 <p>最初，一定数量的灯是亮着的。<code>lamps[i]</code>&nbsp;告诉我们亮着的第 <code>i</code> 盏灯的位置。每盏灯都照亮其所在 x 轴、y 轴和两条对角线上的每个正方形（类似于国际象棋中的皇后）。</p>
@@ -52,6 +54,8 @@ permalink:  /grid-illumination/
 	<li><code>0 &lt;= queries.length &lt;= 20000</code></li>
 	<li><code>lamps[i].length == queries[i].length == 2</code></li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]

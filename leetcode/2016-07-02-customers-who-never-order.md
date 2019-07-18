@@ -9,6 +9,8 @@ permalink:  /customers-who-never-order/
 
 ## 183. 从不订购的客户 (Easy)
 
+{% raw %}
+
 <p>某网站包含两个表，<code>Customers</code> 表和 <code>Orders</code> 表。编写一个 SQL 查询，找出所有从不订购任何东西的客户。</p>
 
 <p><code>Customers</code> 表：</p>
@@ -42,6 +44,8 @@ permalink:  /customers-who-never-order/
 | Max       |
 +-----------+
 </pre>
+
+{% endraw %}
 
 ---
 

@@ -9,6 +9,8 @@ permalink:  /image-overlap/
 
 ## 835. 图像重叠 (Medium)
 
+{% raw %}
+
 <p>给出两个图像 <code>A</code> 和 <code>B</code>&nbsp;，<code>A</code> 和 <code>B</code>&nbsp;为大小相同的二维正方形矩阵。（并且为二进制矩阵，只包含0和1）。</p>
 
 <p>我们转换其中一个图像，向左，右，上，或下滑动任何数量的单位，并把它放在另一个图像的上面。之后，该转换的重叠是指两个图像都具有 1 的位置的数目。</p>
@@ -34,6 +36,8 @@ permalink:  /image-overlap/
 	<li><code>1 &lt;= A.length = A[0].length = B.length = B[0].length &lt;= 30</code></li>
 	<li><code>0 &lt;=&nbsp;A[i][j], B[i][j] &lt;= 1</code></li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]

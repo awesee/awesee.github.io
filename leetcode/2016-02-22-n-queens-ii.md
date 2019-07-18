@@ -9,6 +9,8 @@ permalink:  /n-queens-ii/
 
 ## 52. N皇后 II (Hard)
 
+{% raw %}
+
 <p><em>n&nbsp;</em>皇后问题研究的是如何将 <em>n</em>&nbsp;个皇后放置在 <em>n</em>&times;<em>n</em> 的棋盘上，并且使皇后彼此之间不能相互攻击。</p>
 
 <p><img src="https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2018/10/12/8-queens.png" style="height: 276px; width: 258px;"></p>
@@ -34,6 +36,8 @@ permalink:  /n-queens-ii/
 &nbsp; &quot;.Q..&quot;]
 ]
 </pre>
+
+{% endraw %}
 
 ### 相关话题
   [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]

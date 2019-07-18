@@ -9,6 +9,8 @@ permalink:  /binary-tree-preorder-traversal/
 
 ## 144. 二叉树的前序遍历 (Medium)
 
+{% raw %}
+
 <p>给定一个二叉树，返回它的&nbsp;<em>前序&nbsp;</em>遍历。</p>
 
 <p>&nbsp;<strong>示例:</strong></p>
@@ -24,6 +26,8 @@ permalink:  /binary-tree-preorder-traversal/
 </pre>
 
 <p><strong>进阶:</strong>&nbsp;递归算法很简单，你可以通过迭代算法完成吗？</p>
+
+{% endraw %}
 
 ### 相关话题
   [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]

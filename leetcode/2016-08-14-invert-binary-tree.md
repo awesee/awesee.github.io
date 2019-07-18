@@ -9,6 +9,8 @@ permalink:  /invert-binary-tree/
 
 ## 226. 翻转二叉树 (Easy)
 
+{% raw %}
+
 <p>翻转一棵二叉树。</p>
 
 <p><strong>示例：</strong></p>
@@ -33,6 +35,8 @@ permalink:  /invert-binary-tree/
 这个问题是受到 <a href="https://twitter.com/mxcl" target="_blank">Max Howell </a>的 <a href="https://twitter.com/mxcl/status/608682016205344768" target="_blank">原问题</a> 启发的 ：</p>
 
 <blockquote>谷歌：我们90％的工程师使用您编写的软件(Homebrew)，但是您却无法在面试时在白板上写出翻转二叉树这道题，这太糟糕了。</blockquote>
+
+{% endraw %}
 
 ### 相关话题
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]

@@ -9,6 +9,8 @@ permalink:  /shuffle-an-array/
 
 ## 384. 打乱数组 (Medium)
 
+{% raw %}
+
 <p>打乱一个没有重复元素的数组。</p>
 
 <p><strong>示例:</strong></p>
@@ -27,6 +29,8 @@ solution.reset();
 // 随机返回数组[1,2,3]打乱后的结果。
 solution.shuffle();
 </pre>
+
+{% endraw %}
 
 ---
 

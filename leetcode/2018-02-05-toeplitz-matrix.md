@@ -9,6 +9,8 @@ permalink:  /toeplitz-matrix/
 
 ## 766. 托普利茨矩阵 (Easy)
 
+{% raw %}
+
 <p>如果一个矩阵的每一方向由左上到右下的对角线上具有相同元素，那么这个矩阵是<em>托普利茨矩阵</em>。</p>
 
 <p>给定一个&nbsp;<code>M x N</code>&nbsp;的矩阵，当且仅当它是<em>托普利茨矩阵</em>时返回&nbsp;<code>True</code>。</p>
@@ -54,6 +56,8 @@ matrix = [
 	<li>如果矩阵存储在磁盘上，并且磁盘内存是有限的，因此一次最多只能将一行矩阵加载到内存中，该怎么办？</li>
 	<li>如果矩阵太大以至于只能一次将部分行加载到内存中，该怎么办？</li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]

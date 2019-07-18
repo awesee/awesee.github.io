@@ -9,6 +9,8 @@ permalink:  /valid-parentheses/
 
 ## 20. 有效的括号 (Easy)
 
+{% raw %}
+
 <p>给定一个只包括 <code>&#39;(&#39;</code>，<code>&#39;)&#39;</code>，<code>&#39;{&#39;</code>，<code>&#39;}&#39;</code>，<code>&#39;[&#39;</code>，<code>&#39;]&#39;</code>&nbsp;的字符串，判断字符串是否有效。</p>
 
 <p>有效字符串需满足：</p>
@@ -48,6 +50,8 @@ permalink:  /valid-parentheses/
 
 <pre><strong>输入:</strong> &quot;{[]}&quot;
 <strong>输出:</strong> true</pre>
+
+{% endraw %}
 
 ### 相关话题
   [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]

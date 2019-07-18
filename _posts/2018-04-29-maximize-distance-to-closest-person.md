@@ -9,6 +9,8 @@ permalink:  /maximize-distance-to-closest-person/
 
 ## 849. 到最近的人的最大距离 (Easy)
 
+{% raw %}
+
 <p>在一排座位（&nbsp;<code>seats</code>）中，<code>1</code>&nbsp;代表有人坐在座位上，<code>0</code>&nbsp;代表座位上是空的。</p>
 
 <p>至少有一个空座位，且至少有一人坐在座位上。</p>
@@ -42,6 +44,8 @@ permalink:  /maximize-distance-to-closest-person/
 	<li><code>1 &lt;= seats.length &lt;= 20000</code></li>
 	<li><code>seats</code>&nbsp;中只含有 0 和 1，至少有一个 <code>0</code>，且至少有一个 <code>1</code>。</li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]

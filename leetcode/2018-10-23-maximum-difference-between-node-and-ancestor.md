@@ -9,6 +9,8 @@ permalink:  /maximum-difference-between-node-and-ancestor/
 
 ## 1026. 节点与其祖先之间的最大差值 (Medium)
 
+{% raw %}
+
 <p>给定二叉树的根节点&nbsp;<code>root</code>，找出存在于不同节点&nbsp;<code>A</code> 和&nbsp;<code>B</code>&nbsp;之间的最大值 <code>V</code>，其中&nbsp;<code>V = |A.val - B.val|</code>，且&nbsp;<code>A</code>&nbsp;是&nbsp;<code>B</code>&nbsp;的祖先。</p>
 
 <p>（如果 A 的任何子节点之一为 B，或者 A 的任何子节点是 B 的祖先，那么我们认为 A 是 B 的祖先）</p>
@@ -38,6 +40,8 @@ permalink:  /maximum-difference-between-node-and-ancestor/
 	<li>树中的节点数在&nbsp;<code>2</code>&nbsp;到&nbsp;<code>5000</code>&nbsp;之间。</li>
 	<li>每个节点的值介于&nbsp;<code>0</code>&nbsp;到&nbsp;<code>100000</code>&nbsp;之间。</li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]

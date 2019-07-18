@@ -9,6 +9,8 @@ permalink:  /partition-labels/
 
 ## 763. 划分字母区间 (Medium)
 
+{% raw %}
+
 <p>字符串 <code>S</code> 由小写字母组成。我们要把这个字符串划分为尽可能多的片段，同一个字母只会出现在其中的一个片段。返回一个表示每个字符串片段的长度的列表。</p>
 
 <p><strong>示例 1:</strong></p>
@@ -27,6 +29,8 @@ permalink:  /partition-labels/
 	<li><code>S</code>的长度在<code>[1, 500]</code>之间。</li>
 	<li><code>S</code>只包含小写字母<code>&#39;a&#39;</code>到<code>&#39;z&#39;</code>。</li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]

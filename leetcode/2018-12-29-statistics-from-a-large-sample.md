@@ -9,6 +9,8 @@ permalink:  /statistics-from-a-large-sample/
 
 ## 1093. 大样本统计 (Medium)
 
+{% raw %}
+
 <p>我们对&nbsp;<code>0</code>&nbsp;到&nbsp;<code>255</code>&nbsp;之间的整数进行采样，并将结果存储在数组&nbsp;<code>count</code>&nbsp;中：<code>count[k]</code>&nbsp;就是整数&nbsp;<code>k</code> 的采样个数。</p>
 
 <p>我们以&nbsp;<strong>浮点数&nbsp;</strong>数组的形式，分别返回样本的最小值、最大值、平均值、中位数和众数。其中，众数是保证唯一的。</p>
@@ -44,6 +46,8 @@ permalink:  /statistics-from-a-large-sample/
 	<li>计数表示的众数是唯一的</li>
 	<li>答案与真实值误差在&nbsp;<code>10^-5</code>&nbsp;以内就会被视为正确答案</li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]

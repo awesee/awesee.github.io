@@ -9,6 +9,8 @@ permalink:  /all-oone-data-structure/
 
 ## 432. 全 O(1) 的数据结构 (Hard)
 
+{% raw %}
+
 <p>实现一个数据结构支持以下操作：</p>
 
 <ol>
@@ -19,6 +21,8 @@ permalink:  /all-oone-data-structure/
 </ol>
 
 <p>挑战：以 O(1) 的时间复杂度实现所有操作。</p>
+
+{% endraw %}
 
 ### 相关话题
   [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]

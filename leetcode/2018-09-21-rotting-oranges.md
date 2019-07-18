@@ -9,6 +9,8 @@ permalink:  /rotting-oranges/
 
 ## 994. 腐烂的橘子 (Easy)
 
+{% raw %}
+
 <p>在给定的网格中，每个单元格可以有以下三个值之一：</p>
 
 <ul>
@@ -54,6 +56,8 @@ permalink:  /rotting-oranges/
 	<li><code>1 &lt;= grid[0].length &lt;= 10</code></li>
 	<li><code>grid[i][j]</code> 仅为&nbsp;<code>0</code>、<code>1</code>&nbsp;或&nbsp;<code>2</code></li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]

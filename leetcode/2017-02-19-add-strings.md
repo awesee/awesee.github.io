@@ -9,6 +9,8 @@ permalink:  /add-strings/
 
 ## 415. 字符串相加 (Easy)
 
+{% raw %}
+
 <p>给定两个字符串形式的非负整数&nbsp;<code>num1</code> 和<code>num2</code>&nbsp;，计算它们的和。</p>
 
 <p><strong>注意：</strong></p>
@@ -19,6 +21,8 @@ permalink:  /add-strings/
 	<li><code>num1</code> 和<code>num2</code> 都不包含任何前导零。</li>
 	<li><strong>你不能使用任何內建 BigInteger 库，&nbsp;也不能直接将输入的字符串转换为整数形式。</strong></li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]

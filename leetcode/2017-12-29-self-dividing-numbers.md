@@ -9,6 +9,8 @@ permalink:  /self-dividing-numbers/
 
 ## 728. 自除数 (Easy)
 
+{% raw %}
+
 <p><em>自除数&nbsp;</em>是指可以被它包含的每一位数除尽的数。</p>
 
 <p>例如，128 是一个自除数，因为&nbsp;<code>128 % 1 == 0</code>，<code>128 % 2 == 0</code>，<code>128 % 8 == 0</code>。</p>
@@ -30,6 +32,8 @@ permalink:  /self-dividing-numbers/
 <ul>
 	<li>每个输入参数的边界满足&nbsp;<code>1 &lt;= left &lt;= right &lt;= 10000</code>。</li>
 </ul>
+
+{% endraw %}
 
 ### 相关话题
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]

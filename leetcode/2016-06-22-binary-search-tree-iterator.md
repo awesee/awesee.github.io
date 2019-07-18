@@ -9,6 +9,8 @@ permalink:  /binary-search-tree-iterator/
 
 ## 173. 二叉搜索树迭代器 (Medium)
 
+{% raw %}
+
 <p>实现一个二叉搜索树迭代器。你将使用二叉搜索树的根节点初始化迭代器。</p>
 
 <p>调用 <code>next()</code> 将返回二叉搜索树中的下一个最小的数。</p>
@@ -38,6 +40,8 @@ iterator.hasNext(); // 返回 false</pre>
 	<li><code>next()</code>&nbsp;和&nbsp;<code>hasNext()</code>&nbsp;操作的时间复杂度是&nbsp;O(1)，并使用&nbsp;O(<em>h</em>) 内存，其中&nbsp;<em>h&nbsp;</em>是树的高度。</li>
 	<li>你可以假设&nbsp;<code>next()</code>&nbsp;调用总是有效的，也就是说，当调用 <code>next()</code>&nbsp;时，BST 中至少存在一个下一个最小的数。</li>
 </ul>
+
+{% endraw %}
 
 ### 相关话题
   [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]

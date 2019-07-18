@@ -9,6 +9,8 @@ permalink:  /non-overlapping-intervals/
 
 ## 435. 无重叠区间 (Medium)
 
+{% raw %}
+
 <p>给定一个区间的集合，找到需要移除区间的最小数量，使剩余区间互不重叠。</p>
 
 <p><strong>注意:</strong></p>
@@ -47,6 +49,8 @@ permalink:  /non-overlapping-intervals/
 
 <strong>解释:</strong> 你不需要移除任何区间，因为它们已经是无重叠的了。
 </pre>
+
+{% endraw %}
 
 ### 相关话题
   [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]

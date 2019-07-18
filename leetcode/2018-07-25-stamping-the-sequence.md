@@ -9,6 +9,8 @@ permalink:  /stamping-the-sequence/
 
 ## 936. 戳印序列 (Hard)
 
+{% raw %}
+
 <p>你想要用<strong>小写字母</strong>组成一个目标字符串&nbsp;<code>target</code>。&nbsp;</p>
 
 <p>开始的时候，序列由&nbsp;<code>target.length</code>&nbsp;个&nbsp;<code>&#39;?&#39;</code>&nbsp;记号组成。而你有一个小写字母印章&nbsp;<code>stamp</code>。</p>
@@ -46,6 +48,8 @@ permalink:  /stamping-the-sequence/
 	<li><code>1 &lt;= stamp.length &lt;= target.length &lt;= 1000</code></li>
 	<li><code>stamp</code> 和&nbsp;<code>target</code>&nbsp;只包含小写字母。</li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]

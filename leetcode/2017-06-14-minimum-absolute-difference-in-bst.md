@@ -9,6 +9,8 @@ permalink:  /minimum-absolute-difference-in-bst/
 
 ## 530. 二叉搜索树的最小绝对差 (Easy)
 
+{% raw %}
+
 <p>给定一个所有节点为非负值的二叉搜索树，求树中任意两节点的差的绝对值的最小值。</p>
 
 <p><strong>示例 :</strong></p>
@@ -30,6 +32,8 @@ permalink:  /minimum-absolute-difference-in-bst/
 </pre>
 
 <p><strong>注意: </strong>树中至少有2个节点。</p>
+
+{% endraw %}
 
 ### 相关话题
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]

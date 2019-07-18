@@ -9,6 +9,8 @@ permalink:  /exclusive-time-of-functions/
 
 ## 636. 函数的独占时间 (Medium)
 
+{% raw %}
+
 <p>给出一个非抢占单线程CPU的 <strong>n </strong>个函数运行日志，找到函数的独占时间。</p>
 
 <p>每个函数都有一个唯一的 Id，从 <strong>0</strong> 到<strong> n-1</strong>，函数可能会递归调用或者被其他函数调用。</p>
@@ -43,6 +45,8 @@ logs =
 	<li>函数允许被递归调用，直到运行结束。</li>
 	<li>1 &lt;= n &lt;= 100</li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]

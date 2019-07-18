@@ -9,6 +9,8 @@ permalink:  /student-attendance-record-i/
 
 ## 551. 学生出勤记录 I (Easy)
 
+{% raw %}
+
 <p>给定一个字符串来代表一个学生的出勤记录，这个记录仅包含以下三个字符：</p>
 
 <ol>
@@ -32,6 +34,8 @@ permalink:  /student-attendance-record-i/
 <pre><strong>输入:</strong> &quot;PPALLL&quot;
 <strong>输出:</strong> False
 </pre>
+
+{% endraw %}
 
 ### 相关话题
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]

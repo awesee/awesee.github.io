@@ -9,6 +9,8 @@ permalink:  /largest-component-size-by-common-factor/
 
 ## 952. 按公因数计算最大组件大小 (Hard)
 
+{% raw %}
+
 <p>给定一个由不同正整数的组成的非空数组 <code>A</code>，考虑下面的图：</p>
 
 <ul>
@@ -52,6 +54,8 @@ permalink:  /largest-component-size-by-common-factor/
 	<li><code>1 &lt;= A.length &lt;= 20000</code></li>
 	<li><code>1 &lt;= A[i] &lt;= 100000</code></li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[并查集](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)]

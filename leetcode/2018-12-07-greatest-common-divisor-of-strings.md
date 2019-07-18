@@ -9,6 +9,8 @@ permalink:  /greatest-common-divisor-of-strings/
 
 ## 1071. 字符串的最大公因子 (Easy)
 
+{% raw %}
+
 <p>对于字符串&nbsp;<code>S</code> 和&nbsp;<code>T</code>，只有在 <code>S = T + ... + T</code>（<code>T</code>&nbsp;与自身连接 1 次或多次）时，我们才认定&nbsp;&ldquo;<code>T</code> 能除尽 <code>S</code>&rdquo;。</p>
 
 <p>返回字符串&nbsp;<code>X</code>，要求满足&nbsp;<code>X</code> 能除尽 <code>str1</code> 且&nbsp;<code>X</code> 能除尽 <code>str2</code>。</p>
@@ -42,6 +44,8 @@ permalink:  /greatest-common-divisor-of-strings/
 	<li><code>1 &lt;= str2.length &lt;= 1000</code></li>
 	<li><code>str1[i]</code> 和&nbsp;<code>str2[i]</code> 为大写英文字母</li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]

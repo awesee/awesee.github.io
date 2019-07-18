@@ -9,6 +9,8 @@ permalink:  /smallest-range-i/
 
 ## 908. 最小差值 I (Easy)
 
+{% raw %}
+
 <p>给定一个整数数组 <code>A</code>，对于每个整数 <code>A[i]</code>，我们可以选择任意&nbsp;<code>x</code> 满足&nbsp;<code>-K &lt;= x &lt;= K</code>，并将&nbsp;<code>x</code>&nbsp;加到&nbsp;<code>A[i]</code>&nbsp;中。</p>
 
 <p>在此过程之后，我们得到一些数组&nbsp;<code>B</code>。</p>
@@ -50,6 +52,8 @@ permalink:  /smallest-range-i/
 	<li><code>0 &lt;= A[i] &lt;= 10000</code></li>
 	<li><code>0 &lt;= K &lt;= 10000</code></li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]

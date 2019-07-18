@@ -9,6 +9,8 @@ permalink:  /sliding-window-median/
 
 ## 480. 滑动窗口中位数 (Hard)
 
+{% raw %}
+
 <p>中位数是有序序列最中间的那个数。如果序列的大小是偶数，则没有最中间的数；此时中位数是最中间的两个数的平均数。</p>
 
 <p>例如：</p>
@@ -38,6 +40,8 @@ permalink:  /sliding-window-median/
 
 <p><strong>提示：</strong><br />
 假设<code>k</code>是合法的，即：<code>k</code> 始终小于输入的非空数组的元素个数.</p>
+
+{% endraw %}
 
 ### 相关话题
   [[Sliding Window](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]

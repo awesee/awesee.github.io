@@ -9,6 +9,8 @@ permalink:  /maximum-binary-tree/
 
 ## 654. 最大二叉树 (Medium)
 
+{% raw %}
+
 <p>给定一个不含重复元素的整数数组。一个以此数组构建的最大二叉树定义如下：</p>
 
 <ol>
@@ -39,6 +41,8 @@ permalink:  /maximum-binary-tree/
 <ol>
 	<li>给定的数组的大小在 [1, 1000] 之间。</li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]

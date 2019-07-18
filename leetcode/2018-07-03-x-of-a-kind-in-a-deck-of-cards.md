@@ -9,6 +9,8 @@ permalink:  /x-of-a-kind-in-a-deck-of-cards/
 
 ## 914. 卡牌分组 (Easy)
 
+{% raw %}
+
 <p>给定一副牌，每张牌上都写着一个整数。</p>
 
 <p>此时，你需要选定一个数字 <code>X</code>，使我们可以将整副牌按下述规则分成 1 组或更多组：</p>
@@ -66,6 +68,8 @@ permalink:  /x-of-a-kind-in-a-deck-of-cards/
 </ol>
 
 <p>&nbsp;</p>
+
+{% endraw %}
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]

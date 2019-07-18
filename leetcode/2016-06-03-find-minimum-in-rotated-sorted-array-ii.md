@@ -9,6 +9,8 @@ permalink:  /find-minimum-in-rotated-sorted-array-ii/
 
 ## 154. 寻找旋转排序数组中的最小值 II (Hard)
 
+{% raw %}
+
 <p>假设按照升序排序的数组在预先未知的某个点上进行了旋转。</p>
 
 <p>( 例如，数组&nbsp;<code>[0,1,2,4,5,6,7]</code> <strong> </strong>可能变为&nbsp;<code>[4,5,6,7,0,1,2]</code>&nbsp;)。</p>
@@ -33,6 +35,8 @@ permalink:  /find-minimum-in-rotated-sorted-array-ii/
 	<li>这道题是&nbsp;<a href="https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/description/">寻找旋转排序数组中的最小值</a>&nbsp;的延伸题目。</li>
 	<li>允许重复会影响算法的时间复杂度吗？会如何影响，为什么？</li>
 </ul>
+
+{% endraw %}
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]

@@ -9,6 +9,8 @@ permalink:  /broken-calculator/
 
 ## 991. 坏了的计算器 (Medium)
 
+{% raw %}
+
 <p>在显示着数字的坏计算器上，我们可以执行以下两种操作：</p>
 
 <ul>
@@ -58,6 +60,8 @@ permalink:  /broken-calculator/
 	<li><code>1 &lt;= X &lt;= 10^9</code></li>
 	<li><code>1 &lt;= Y &lt;= 10^9</code></li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]

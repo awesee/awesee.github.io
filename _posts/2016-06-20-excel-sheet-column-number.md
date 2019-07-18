@@ -9,6 +9,8 @@ permalink:  /excel-sheet-column-number/
 
 ## 171. Excel表列序号 (Easy)
 
+{% raw %}
+
 <p>给定一个Excel表格中的列名称，返回其相应的列序号。</p>
 
 <p>例如，</p>
@@ -42,6 +44,8 @@ permalink:  /excel-sheet-column-number/
 
 <p><strong>致谢：</strong><br>
 特别感谢&nbsp;<a href="http://leetcode.com/discuss/user/ts">@ts</a>&nbsp;添加此问题并创建所有测试用例。</p>
+
+{% endraw %}
 
 ### 相关话题
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]

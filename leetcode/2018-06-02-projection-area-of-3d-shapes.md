@@ -9,6 +9,8 @@ permalink:  /projection-area-of-3d-shapes/
 
 ## 883. 三维形体投影面积 (Easy)
 
+{% raw %}
+
 <p>在&nbsp;<code>N&nbsp;*&nbsp;N</code>&nbsp;的网格中，我们放置了一些与 x，y，z 三轴对齐的&nbsp;<code>1 * 1 * 1</code>&nbsp;立方体。</p>
 
 <p>每个值&nbsp;<code>v = grid[i][j]</code>&nbsp;表示 <code>v</code>&nbsp;个正方体叠放在单元格&nbsp;<code>(i, j)</code>&nbsp;上。</p>
@@ -76,6 +78,8 @@ permalink:  /projection-area-of-3d-shapes/
 	<li><code>1 &lt;= grid.length = grid[0].length&nbsp;&lt;= 50</code></li>
 	<li><code>0 &lt;= grid[i][j] &lt;= 50</code></li>
 </ul>
+
+{% endraw %}
 
 ### 相关话题
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]

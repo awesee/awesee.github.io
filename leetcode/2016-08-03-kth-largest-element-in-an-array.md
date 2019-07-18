@@ -9,6 +9,8 @@ permalink:  /kth-largest-element-in-an-array/
 
 ## 215. 数组中的第K个最大元素 (Medium)
 
+{% raw %}
+
 <p>在未排序的数组中找到第 <strong>k</strong> 个最大的元素。请注意，你需要找的是数组排序后的第 k 个最大的元素，而不是第 k 个不同的元素。</p>
 
 <p><strong>示例 1:</strong></p>
@@ -25,6 +27,8 @@ permalink:  /kth-largest-element-in-an-array/
 <p><strong>说明: </strong></p>
 
 <p>你可以假设 k 总是有效的，且 1 &le; k &le; 数组的长度。</p>
+
+{% endraw %}
 
 ### 相关话题
   [[堆](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]

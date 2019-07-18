@@ -9,6 +9,8 @@ permalink:  /all-possible-full-binary-trees/
 
 ## 894. 所有可能的满二叉树 (Medium)
 
+{% raw %}
+
 <p><em>满二叉树</em>是一类二叉树，其中每个结点恰好有 0 或 2 个子结点。</p>
 
 <p>返回包含 <code>N</code> 个结点的所有可能满二叉树的列表。 答案的每个元素都是一个可能树的根结点。</p>
@@ -34,6 +36,8 @@ permalink:  /all-possible-full-binary-trees/
 <ul>
 	<li><code>1 &lt;= N &lt;= 20</code></li>
 </ul>
+
+{% endraw %}
 
 ### 相关话题
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]

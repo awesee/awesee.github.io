@@ -9,6 +9,8 @@ permalink:  /evaluate-division/
 
 ## 399. 除法求值 (Medium)
 
+{% raw %}
+
 <p>给出方程式&nbsp;<code>A / B = k</code>, 其中&nbsp;<code>A</code> 和&nbsp;<code>B</code> 均为代表字符串的变量，&nbsp;<code>k</code> 是一个浮点型数字。根据已知方程式求解问题，并返回计算结果。如果结果不存在，则返回&nbsp;<code>-1.0</code>。</p>
 
 <p><strong>示例 :</strong><br />
@@ -27,6 +29,8 @@ queries(问题方程式) = [ [&quot;a&quot;, &quot;c&quot;], [&quot;b&quot;, &qu
 </pre>
 
 <p>输入总是有效的。你可以假设除法运算中不会出现除数为0的情况，且不存在任何矛盾的结果。</p>
+
+{% endraw %}
 
 ### 相关话题
   [[并查集](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)]

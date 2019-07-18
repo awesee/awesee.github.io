@@ -9,6 +9,8 @@ permalink:  /2-keys-keyboard/
 
 ## 650. 只有两个键的键盘 (Medium)
 
+{% raw %}
+
 <p>最初在一个记事本上只有一个字符 &#39;A&#39;。你每次可以对这个记事本进行两种操作：</p>
 
 <ol>
@@ -35,6 +37,8 @@ permalink:  /2-keys-keyboard/
 <ol>
 	<li><code>n</code>&nbsp;的取值范围是 [1, 1000] 。</li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]

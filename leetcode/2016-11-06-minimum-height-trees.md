@@ -9,6 +9,8 @@ permalink:  /minimum-height-trees/
 
 ## 310. 最小高度树 (Medium)
 
+{% raw %}
+
 <p>对于一个具有树特征的无向图，我们可选择任何一个节点作为根。图因此可以成为树，在所有可能的树中，具有最小高度的树被称为最小高度树。给出这样的一个图，写出一个函数找到所有的最小高度树并返回他们的根节点。</p>
 
 <p><strong>格式</strong></p>
@@ -50,6 +52,8 @@ permalink:  /minimum-height-trees/
 	<li>&nbsp;根据<a href="https://baike.baidu.com/item/%E6%A0%91/2699484?fromtitle=%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84+%E6%A0%91&amp;fromid=12062173&amp;fr=aladdin" target="_blank">树的定义</a>，树是一个无向图，其中任何两个顶点只通过一条路径连接。 换句话说，一个任何没有简单环路的连通图都是一棵树。</li>
 	<li>树的高度是指根节点和叶子节点之间最长向下路径上边的数量。</li>
 </ul>
+
+{% endraw %}
 
 ### 相关话题
   [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]

@@ -9,6 +9,8 @@ permalink:  /largest-number-at-least-twice-of-others/
 
 ## 747. 至少是其他数字两倍的最大数 (Easy)
 
+{% raw %}
+
 <p>在一个给定的数组<code>nums</code>中，总是存在一个最大元素 。</p>
 
 <p>查找数组中的最大元素是否至少是数组中每个其他数字的两倍。</p>
@@ -42,6 +44,8 @@ permalink:  /largest-number-at-least-twice-of-others/
 	<li><code>nums</code>&nbsp;的长度范围在<code>[1, 50]</code>.</li>
 	<li>每个&nbsp;<code>nums[i]</code>&nbsp;的整数范围在&nbsp;<code>[0, 99]</code>.</li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]

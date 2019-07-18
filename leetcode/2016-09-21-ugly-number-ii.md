@@ -9,6 +9,8 @@ permalink:  /ugly-number-ii/
 
 ## 264. 丑数 II (Medium)
 
+{% raw %}
+
 <p>编写一个程序，找出第 <code>n</code> 个丑数。</p>
 
 <p>丑数就是只包含质因数&nbsp;<code>2, 3, 5</code> 的<strong>正整数</strong>。</p>
@@ -25,6 +27,8 @@ permalink:  /ugly-number-ii/
 	<li><code>1</code>&nbsp;是丑数。</li>
 	<li><code>n</code>&nbsp;<strong>不超过</strong>1690。</li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[堆](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]

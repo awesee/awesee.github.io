@@ -9,6 +9,8 @@ permalink:  /numbers-at-most-n-given-digit-set/
 
 ## 902. 最大为 N 的数字组合 (Hard)
 
+{% raw %}
+
 <p>我们有一组<strong>排序的</strong>数字 <code>D</code>，它是&nbsp; <code>{&#39;1&#39;,&#39;2&#39;,&#39;3&#39;,&#39;4&#39;,&#39;5&#39;,&#39;6&#39;,&#39;7&#39;,&#39;8&#39;,&#39;9&#39;}</code>&nbsp;的非空子集。（请注意，<code>&#39;0&#39;</code> 不包括在内。）</p>
 
 <p>现在，我们用这些数字进行组合写数字，想用多少次就用多少次。例如&nbsp;<code>D = {&#39;1&#39;,&#39;3&#39;,&#39;5&#39;}</code>，我们可以写出像&nbsp;<code>&#39;13&#39;, &#39;551&#39;, &#39;1351315&#39;</code>&nbsp;这样的数字。</p>
@@ -44,6 +46,8 @@ permalink:  /numbers-at-most-n-given-digit-set/
 	<li><code>D</code> 是按排序顺序的数字 <code>&#39;1&#39;-&#39;9&#39;</code> 的子集。</li>
 	<li><code>1 &lt;= N &lt;= 10^9</code></li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]

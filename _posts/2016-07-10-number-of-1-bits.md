@@ -9,6 +9,8 @@ permalink:  /number-of-1-bits/
 
 ## 191. 位1的个数 (Easy)
 
+{% raw %}
+
 <p>编写一个函数，输入是一个无符号整数，返回其二进制表达式中数字位数为 &lsquo;1&rsquo;&nbsp;的个数（也被称为<a href="https://baike.baidu.com/item/%E6%B1%89%E6%98%8E%E9%87%8D%E9%87%8F" target="_blank">汉明重量</a>）。</p>
 
 <p>&nbsp;</p>
@@ -46,6 +48,8 @@ permalink:  /number-of-1-bits/
 
 <p><strong>进阶</strong>:<br>
 如果多次调用这个函数，你将如何优化你的算法？</p>
+
+{% endraw %}
 
 ### 相关话题
   [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]

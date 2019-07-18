@@ -9,6 +9,8 @@ permalink:  /implement-stack-using-queues/
 
 ## 225. 用队列实现栈 (Easy)
 
+{% raw %}
+
 <p>使用队列实现栈的下列操作：</p>
 
 <ul>
@@ -25,6 +27,8 @@ permalink:  /implement-stack-using-queues/
 	<li>你所使用的语言也许不支持队列。&nbsp;你可以使用 list 或者 deque（双端队列）来模拟一个队列&nbsp;, 只要是标准的队列操作即可。</li>
 	<li>你可以假设所有操作都是有效的（例如, 对一个空的栈不会调用 pop 或者 top 操作）。</li>
 </ul>
+
+{% endraw %}
 
 ### 相关话题
   [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]

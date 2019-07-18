@@ -9,6 +9,8 @@ permalink:  /remove-comments/
 
 ## 722. 删除注释 (Medium)
 
+{% raw %}
+
 <p>给一个 C++ 程序，删除程序中的注释。这个程序<code>source</code>是一个数组，其中<code>source[i]</code>表示第<code>i</code>行源码。&nbsp;这表示每行源码由<code>\n</code>分隔。</p>
 
 <p>在 C++ 中有两种注释风格，行内注释和块注释。</p>
@@ -79,6 +81,8 @@ source = [&quot;a/*comment&quot;, &quot;line&quot;, &quot;more_comment*/b&quot;]
 	<li>每个块注释都会被闭合。</li>
 	<li>给定的源码中不会有单引号、双引号或其他控制字符。</li>
 </ul>
+
+{% endraw %}
 
 ### 相关话题
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]

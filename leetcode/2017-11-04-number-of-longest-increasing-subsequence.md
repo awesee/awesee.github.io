@@ -9,6 +9,8 @@ permalink:  /number-of-longest-increasing-subsequence/
 
 ## 673. 最长递增子序列的个数 (Medium)
 
+{% raw %}
+
 <p>给定一个未排序的整数数组，找到最长递增子序列的个数。</p>
 
 <p><strong>示例 1:</strong></p>
@@ -28,6 +30,8 @@ permalink:  /number-of-longest-increasing-subsequence/
 </pre>
 
 <p><strong>注意:</strong>&nbsp;给定的数组长度不超过 2000 并且结果一定是32位有符号整数。</p>
+
+{% endraw %}
 
 ### 相关话题
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]

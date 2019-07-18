@@ -9,6 +9,8 @@ permalink:  /partition-array-into-disjoint-intervals/
 
 ## 915. 分割数组 (Medium)
 
+{% raw %}
+
 <p>给定一个数组&nbsp;<code>A</code>，将其划分为两个不相交（没有公共元素）的连续子数组&nbsp;<code>left</code>&nbsp;和&nbsp;<code>right</code>，&nbsp;使得：</p>
 
 <ul>
@@ -46,6 +48,8 @@ permalink:  /partition-array-into-disjoint-intervals/
 </ol>
 
 <p>&nbsp;</p>
+
+{% endraw %}
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]

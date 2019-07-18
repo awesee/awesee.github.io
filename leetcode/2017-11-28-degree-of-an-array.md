@@ -9,6 +9,8 @@ permalink:  /degree-of-an-array/
 
 ## 697. 数组的度 (Easy)
 
+{% raw %}
+
 <p>给定一个非空且只包含非负数的整数数组&nbsp;<code>nums</code>, 数组的度的定义是指数组里任一元素出现频数的最大值。</p>
 
 <p>你的任务是找到与&nbsp;<code>nums</code>&nbsp;拥有相同大小的度的最短连续子数组，返回其长度。</p>
@@ -38,6 +40,8 @@ permalink:  /degree-of-an-array/
 	<li><code>nums.length</code>&nbsp;在1到50,000区间范围内。</li>
 	<li><code>nums[i]</code>&nbsp;是一个在0到49,999范围内的整数。</li>
 </ul>
+
+{% endraw %}
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]

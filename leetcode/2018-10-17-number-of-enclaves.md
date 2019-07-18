@@ -9,6 +9,8 @@ permalink:  /number-of-enclaves/
 
 ## 1020. 飞地的数量 (Medium)
 
+{% raw %}
+
 <p>给出一个二维数组&nbsp;<code>A</code>，每个单元格为 0（代表海）或 1（代表陆地）。</p>
 
 <p>移动是指在陆地上从一个地方走到另一个地方（朝四个方向之一）或离开网格的边界。</p>
@@ -41,6 +43,8 @@ permalink:  /number-of-enclaves/
 	<li><code>0 &lt;= A[i][j] &lt;= 1</code></li>
 	<li>所有行的大小都相同</li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]

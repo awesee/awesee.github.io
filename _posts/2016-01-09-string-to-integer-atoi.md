@@ -9,6 +9,8 @@ permalink:  /string-to-integer-atoi/
 
 ## 8. 字符串转换整数 (atoi) (Medium)
 
+{% raw %}
+
 <p>请你来实现一个&nbsp;<code>atoi</code>&nbsp;函数，使其能将字符串转换成整数。</p>
 
 <p>首先，该函数会根据需要丢弃无用的开头空格字符，直到寻找到第一个非空格的字符为止。</p>
@@ -60,6 +62,8 @@ permalink:  /string-to-integer-atoi/
 <strong>解释:</strong> 数字 &quot;-91283472332&quot; 超过 32 位有符号整数范围。 
 &nbsp;    因此返回 INT_MIN (&minus;2<sup>31</sup>) 。
 </pre>
+
+{% endraw %}
 
 ### 相关话题
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]

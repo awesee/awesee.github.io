@@ -9,6 +9,8 @@ permalink:  /missing-number/
 
 ## 268. 缺失数字 (Easy)
 
+{% raw %}
+
 <p>给定一个包含 <code>0, 1, 2, ..., n</code>&nbsp;中&nbsp;<em>n</em>&nbsp;个数的序列，找出 0 .. <em>n</em>&nbsp;中没有出现在序列中的那个数。</p>
 
 <p><strong>示例 1:</strong></p>
@@ -25,6 +27,8 @@ permalink:  /missing-number/
 
 <p><strong>说明:</strong><br>
 你的算法应具有线性时间复杂度。你能否仅使用额外常数空间来实现?</p>
+
+{% endraw %}
 
 ### 相关话题
   [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]

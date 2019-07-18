@@ -9,6 +9,8 @@ permalink:  /palindromic-substrings/
 
 ## 647. 回文子串 (Medium)
 
+{% raw %}
+
 <p>给定一个字符串，你的任务是计算这个字符串中有多少个回文子串。</p>
 
 <p>具有不同开始位置或结束位置的子串，即使是由相同的字符组成，也会被计为是不同的子串。</p>
@@ -34,6 +36,8 @@ permalink:  /palindromic-substrings/
 <ol>
 	<li>输入的字符串长度不会超过1000。</li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]

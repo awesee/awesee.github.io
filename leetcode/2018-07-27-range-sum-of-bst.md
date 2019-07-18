@@ -9,6 +9,8 @@ permalink:  /range-sum-of-bst/
 
 ## 938. 二叉搜索树的范围和 (Easy)
 
+{% raw %}
+
 <p>给定二叉搜索树的根结点&nbsp;<code>root</code>，返回 <code>L</code> 和 <code>R</code>（含）之间的所有结点的值的和。</p>
 
 <p>二叉搜索树保证具有唯一的值。</p>
@@ -35,6 +37,8 @@ permalink:  /range-sum-of-bst/
 	<li>树中的结点数量最多为&nbsp;<code>10000</code>&nbsp;个。</li>
 	<li>最终的答案保证小于&nbsp;<code>2^31</code>。</li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]

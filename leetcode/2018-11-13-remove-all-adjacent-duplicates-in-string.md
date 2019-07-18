@@ -9,6 +9,8 @@ permalink:  /remove-all-adjacent-duplicates-in-string/
 
 ## 1047. 删除字符串中的所有相邻重复项 (Easy)
 
+{% raw %}
+
 <p>给出由小写字母组成的字符串&nbsp;<code>S</code>，<strong>重复项删除操作</strong>会选择两个相邻且相同的字母，并删除它们。</p>
 
 <p>在 S 上反复执行重复项删除操作，直到无法继续删除。</p>
@@ -33,6 +35,8 @@ permalink:  /remove-all-adjacent-duplicates-in-string/
 	<li><code>1 &lt;= S.length &lt;= 20000</code></li>
 	<li><code>S</code> 仅由小写英文字母组成。</li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]

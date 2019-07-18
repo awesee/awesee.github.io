@@ -9,6 +9,8 @@ permalink:  /edit-distance/
 
 ## 72. 编辑距离 (Hard)
 
+{% raw %}
+
 <p>给定两个单词&nbsp;<em>word1</em> 和&nbsp;<em>word2</em>，计算出将&nbsp;<em>word1</em>&nbsp;转换成&nbsp;<em>word2 </em>所使用的最少操作数&nbsp;。</p>
 
 <p>你可以对一个单词进行如下三种操作：</p>
@@ -40,6 +42,8 @@ enention -&gt; exention (将 &#39;n&#39; 替换为 &#39;x&#39;)
 exention -&gt; exection (将 &#39;n&#39; 替换为 &#39;c&#39;)
 exection -&gt; execution (插入 &#39;u&#39;)
 </pre>
+
+{% endraw %}
 
 ### 相关话题
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]

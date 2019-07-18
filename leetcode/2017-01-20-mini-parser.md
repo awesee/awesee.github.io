@@ -9,6 +9,8 @@ permalink:  /mini-parser/
 
 ## 385. 迷你语法分析器 (Medium)
 
+{% raw %}
+
 <p>给定一个用字符串表示的整数的嵌套列表，实现一个解析它的语法分析器。</p>
 
 <p>列表中的每个元素只可能是整数或整数嵌套列表</p>
@@ -48,6 +50,8 @@ permalink:  /mini-parser/
 </pre>
 
 <p>&nbsp;</p>
+
+{% endraw %}
 
 ### 相关话题
   [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]

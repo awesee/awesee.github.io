@@ -9,6 +9,8 @@ permalink:  /minimum-ascii-delete-sum-for-two-strings/
 
 ## 712. 两个字符串的最小ASCII删除和 (Medium)
 
+{% raw %}
+
 <p>给定两个字符串<code>s1, s2</code>，找到使两个字符串相等所需删除字符的ASCII值的最小和。</p>
 
 <p><strong>示例 1:</strong></p>
@@ -38,6 +40,8 @@ permalink:  /minimum-ascii-delete-sum-for-two-strings/
 	<li><code>0 &lt; s1.length, s2.length &lt;= 1000</code>。</li>
 	<li>所有字符串中的字符ASCII值在<code>[97, 122]</code>之间。</li>
 </ul>
+
+{% endraw %}
 
 ### 相关话题
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]

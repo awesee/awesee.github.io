@@ -9,6 +9,8 @@ permalink:  /domino-and-tromino-tiling/
 
 ## 790. 多米诺和托米诺平铺 (Medium)
 
+{% raw %}
+
 <p>有两种形状的瓷砖：一种是&nbsp;2x1 的多米诺形，另一种是形如&nbsp;&quot;L&quot; 的托米诺形。两种形状都可以旋转。</p>
 
 <pre>
@@ -38,6 +40,8 @@ XYZ YYZ XZZ XYY XXY</pre>
 </ul>
 
 <p>&nbsp;</p>
+
+{% endraw %}
 
 ### 相关话题
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]

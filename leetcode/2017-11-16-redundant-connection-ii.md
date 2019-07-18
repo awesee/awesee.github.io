@@ -9,6 +9,8 @@ permalink:  /redundant-connection-ii/
 
 ## 685. 冗余连接 II (Hard)
 
+{% raw %}
+
 <p>在本问题中，有根树指满足以下条件的<strong>有向</strong>图。该树只有一个根节点，所有其他节点都是该根节点的后继。每一个节点只有一个父节点，除了根节点没有父节点。</p>
 
 <p>输入一个有向图，该图由一个有着N个节点 (节点值不重复1, 2, ..., N) 的树及一条附加的边构成。附加的边的两个顶点包含在1到N中间，这条附加的边不属于树中已存在的边。</p>
@@ -47,6 +49,8 @@ v   v
 	<li>二维数组大小的在3到1000范围内。</li>
 	<li>二维数组中的每个整数在1到N之间，其中 N 是二维数组的大小。</li>
 </ul>
+
+{% endraw %}
 
 ### 相关话题
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]

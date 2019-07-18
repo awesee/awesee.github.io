@@ -9,6 +9,8 @@ permalink:  /search-a-2d-matrix-ii/
 
 ## 240. 搜索二维矩阵 II (Medium)
 
+{% raw %}
+
 <p>编写一个高效的算法来搜索&nbsp;<em>m</em>&nbsp;x&nbsp;<em>n</em>&nbsp;矩阵 matrix 中的一个目标值 target。该矩阵具有以下特性：</p>
 
 <ul>
@@ -32,6 +34,8 @@ permalink:  /search-a-2d-matrix-ii/
 <p>给定 target&nbsp;=&nbsp;<code>5</code>，返回&nbsp;<code>true</code>。</p>
 
 <p>给定&nbsp;target&nbsp;=&nbsp;<code>20</code>，返回&nbsp;<code>false</code>。</p>
+
+{% endraw %}
 
 ### 相关话题
   [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]

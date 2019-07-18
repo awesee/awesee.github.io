@@ -9,6 +9,8 @@ permalink:  /binary-subarrays-with-sum/
 
 ## 930. 和相同的二元子数组 (Medium)
 
+{% raw %}
+
 <p>在由若干&nbsp;<code>0</code>&nbsp;和&nbsp;<code>1</code>&nbsp; 组成的数组&nbsp;<code>A</code>&nbsp;中，有多少个和为 <code>S</code>&nbsp;的<strong>非空</strong>子数组。</p>
 
 <p>&nbsp;</p>
@@ -34,6 +36,8 @@ permalink:  /binary-subarrays-with-sum/
 	<li><code>0 &lt;= S &lt;= A.length</code></li>
 	<li><code>A[i]</code>&nbsp;为&nbsp;<code>0</code>&nbsp;或&nbsp;<code>1</code></li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]

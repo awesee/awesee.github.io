@@ -9,6 +9,8 @@ permalink:  /shortest-distance-to-a-character/
 
 ## 821. 字符的最短距离 (Easy)
 
+{% raw %}
+
 <p>给定一个字符串&nbsp;<code>S</code>&nbsp;和一个字符&nbsp;<code>C</code>。返回一个代表字符串&nbsp;<code>S</code>&nbsp;中每个字符到字符串&nbsp;<code>S</code>&nbsp;中的字符&nbsp;<code>C</code>&nbsp;的最短距离的数组。</p>
 
 <p><strong>示例 1:</strong></p>
@@ -25,6 +27,8 @@ permalink:  /shortest-distance-to-a-character/
 	<li><code>C</code>&nbsp;是一个单字符，且保证是字符串&nbsp;<code>S</code>&nbsp;里的字符。</li>
 	<li><code>S</code>&nbsp;和&nbsp;<code>C</code>&nbsp;中的所有字母均为小写字母。</li>
 </ol>
+
+{% endraw %}
 
 ---
 

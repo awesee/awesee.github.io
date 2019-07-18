@@ -9,6 +9,8 @@ permalink:  /third-maximum-number/
 
 ## 414. 第三大的数 (Easy)
 
+{% raw %}
+
 <p>给定一个非空数组，返回此数组中第三大的数。如果不存在，则返回数组中最大的数。要求算法时间复杂度必须是O(n)。</p>
 
 <p><strong>示例 1:</strong></p>
@@ -41,6 +43,8 @@ permalink:  /third-maximum-number/
 <strong>解释:</strong> 注意，要求返回第三大的数，是指第三大且唯一出现的数。
 存在两个值为2的数，它们都排第二。
 </pre>
+
+{% endraw %}
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]

@@ -9,6 +9,8 @@ permalink:  /shortest-completing-word/
 
 ## 748. 最短完整词 (Easy)
 
+{% raw %}
+
 <p>如果单词列表（<code>words</code>）中的一个单词包含牌照（<code>licensePlate</code>）中所有的字母，那么我们称之为完整词。在所有完整词中，最短的单词我们称之为最短完整词。</p>
 
 <p>单词在匹配牌照中的字母时不区分大小写，比如牌照中的&nbsp;<code>&quot;P&quot;</code>&nbsp;依然可以匹配单词中的&nbsp;<code>&quot;p&quot;</code>&nbsp;字母。</p>
@@ -46,6 +48,8 @@ permalink:  /shortest-completing-word/
 </ol>
 
 <p>&nbsp;</p>
+
+{% endraw %}
 
 ### 相关话题
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]

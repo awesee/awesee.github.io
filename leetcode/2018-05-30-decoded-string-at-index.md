@@ -9,6 +9,8 @@ permalink:  /decoded-string-at-index/
 
 ## 880. 索引处的解码字符串 (Medium)
 
+{% raw %}
+
 <p>给定一个编码字符串 <code>S</code>。为了找出<em>解码</em>字符串并将其写入磁带，从编码字符串中<code>每次读取一个字符</code>，并采取以下步骤：</p>
 
 <ul>
@@ -56,6 +58,8 @@ permalink:  /decoded-string-at-index/
 	<li><code>1 &lt;= K &lt;= 10^9</code></li>
 	<li>解码后的字符串保证少于&nbsp;<code>2^63</code>&nbsp;个字母。</li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]

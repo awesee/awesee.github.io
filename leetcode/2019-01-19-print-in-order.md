@@ -9,6 +9,8 @@ permalink:  /print-in-order/
 
 ## 1114. 按序打印 (Easy)
 
+{% raw %}
+
 <p>我们提供了一个类：</p>
 
 <pre>
@@ -58,6 +60,8 @@ public class Foo {
 <p>尽管输入中的数字似乎暗示了顺序，但是我们并不保证线程在操作系统中的调度顺序。</p>
 
 <p>你看到的输入格式主要是为了确保测试的全面性。</p>
+
+{% endraw %}
 
 ### 相似题目
   1. [Print FooBar Alternately](/print-foobar-alternately) (Medium)

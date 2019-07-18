@@ -9,6 +9,8 @@ permalink:  /count-primes/
 
 ## 204. 计数质数 (Easy)
 
+{% raw %}
+
 <p>统计所有小于非负整数&nbsp;<em>n&nbsp;</em>的质数的数量。</p>
 
 <p><strong>示例:</strong></p>
@@ -17,6 +19,8 @@ permalink:  /count-primes/
 <strong>输出:</strong> 4
 <strong>解释:</strong> 小于 10 的质数一共有 4 个, 它们是 2, 3, 5, 7 。
 </pre>
+
+{% endraw %}
 
 ### 相关话题
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]

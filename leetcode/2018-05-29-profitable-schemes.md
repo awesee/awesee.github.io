@@ -9,6 +9,8 @@ permalink:  /profitable-schemes/
 
 ## 879. 盈利计划 (Hard)
 
+{% raw %}
+
 <p>帮派里有 G 名成员，他们可能犯下各种各样的罪行。</p>
 
 <p>第&nbsp;<code>i</code>&nbsp;种犯罪会产生&nbsp;<code>profit[i]</code>&nbsp;的利润，它要求&nbsp;<code>group[i]</code>&nbsp;名成员共同参与。</p>
@@ -50,6 +52,8 @@ permalink:  /profitable-schemes/
 </ol>
 
 <p>&nbsp;</p>
+
+{% endraw %}
 
 ### 相关话题
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]

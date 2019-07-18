@@ -9,6 +9,8 @@ permalink:  /validate-stack-sequences/
 
 ## 946. 验证栈序列 (Medium)
 
+{% raw %}
+
 <p>给定&nbsp;<code>pushed</code>&nbsp;和&nbsp;<code>popped</code>&nbsp;两个序列，只有当它们可能是在最初空栈上进行的推入 push 和弹出 pop 操作序列的结果时，返回 <code>true</code>；否则，返回 <code>false</code>&nbsp;。</p>
 
 <p>&nbsp;</p>
@@ -38,6 +40,8 @@ push(5), pop() -&gt; 5, pop() -&gt; 3, pop() -&gt; 2, pop() -&gt; 1
 	<li><code>0 &lt;= pushed[i], popped[i] &lt; 1000</code></li>
 	<li><code>pushed</code>&nbsp;是&nbsp;<code>popped</code>&nbsp;的排列。</li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]

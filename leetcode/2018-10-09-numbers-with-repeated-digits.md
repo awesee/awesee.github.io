@@ -9,6 +9,8 @@ permalink:  /numbers-with-repeated-digits/
 
 ## 1012. 至少有 1 位重复的数字 (Hard)
 
+{% raw %}
+
 <p>给定正整数&nbsp;<code>N</code>，返回小于等于 <code>N</code>&nbsp;且具有至少 1 位重复数字的正整数。</p>
 
 <p>&nbsp;</p>
@@ -40,6 +42,8 @@ permalink:  /numbers-with-repeated-digits/
 <ol>
 	<li><code>1 &lt;= N &lt;= 10^9</code></li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]

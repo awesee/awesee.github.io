@@ -9,6 +9,8 @@ permalink:  /video-stitching/
 
 ## 1024. 视频拼接 (Medium)
 
+{% raw %}
+
 <p>你将会获得一系列视频片段，这些片段来自于一项持续时长为&nbsp;<code>T</code>&nbsp;秒的体育赛事。这些片段可能有所重叠，也可能长度不一。</p>
 
 <p>视频片段&nbsp;<code>clips[i]</code>&nbsp;都用区间进行表示：开始于&nbsp;<code>clips[i][0]</code>&nbsp;并于&nbsp;<code>clips[i][1]</code>&nbsp;结束。我们甚至可以对这些片段自由地再剪辑，例如片段&nbsp;<code>[0, 7]</code>&nbsp;可以剪切成&nbsp;<code>[0, 1] +&nbsp;[1, 3] + [3, 7]</code>&nbsp;三部分。</p>
@@ -61,6 +63,8 @@ permalink:  /video-stitching/
 	<li><code>0 &lt;= clips[i][0], clips[i][1] &lt;= 100</code></li>
 	<li><code>0 &lt;= T &lt;= 100</code></li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]

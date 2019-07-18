@@ -9,6 +9,8 @@ permalink:  /valid-phone-numbers/
 
 ## 193. 有效电话号码 (Easy)
 
+{% raw %}
+
 <p>给定一个包含电话号码列表（一行一个电话号码）的文本文件 <code>file.txt</code>，写一个 bash 脚本输出所有有效的电话号码。</p>
 
 <p>你可以假设一个有效的电话号码必须满足以下两种格式： (xxx) xxx-xxxx 或&nbsp;xxx-xxx-xxxx。（x 表示一个数字）</p>
@@ -29,6 +31,8 @@ permalink:  /valid-phone-numbers/
 <pre>987-123-4567
 (123) 456-7890
 </pre>
+
+{% endraw %}
 
 ---
 

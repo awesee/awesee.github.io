@@ -9,6 +9,8 @@ permalink:  /arithmetic-slices-ii-subsequence/
 
 ## 446. 等差数列划分 II - 子序列 (Hard)
 
+{% raw %}
+
 <p>如果一个数列至少有三个元素，并且任意两个相邻元素之差相同，则称该数列为等差数列。</p>
 
 <p>例如，以下数列为等差数列:</p>
@@ -55,6 +57,8 @@ permalink:  /arithmetic-slices-ii-subsequence/
 </pre>
 
 <p>&nbsp;</p>
+
+{% endraw %}
 
 ### 相关话题
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]

@@ -9,6 +9,8 @@ permalink:  /number-of-submatrices-that-sum-to-target/
 
 ## 1074. 元素和为目标值的子矩阵数量 (Hard)
 
+{% raw %}
+
 <p>给出矩阵&nbsp;<code>matrix</code>&nbsp;和目标值&nbsp;<code>target</code>，返回元素总和等于目标值的非空子矩阵的数量。</p>
 
 <p>子矩阵&nbsp;<code>x1, y1, x2, y2</code>&nbsp;是满足 <code>x1 &lt;= x &lt;= x2</code>&nbsp;且&nbsp;<code>y1 &lt;= y &lt;= y2</code>&nbsp;的所有单元&nbsp;<code>matrix[x][y]</code>&nbsp;的集合。</p>
@@ -41,6 +43,8 @@ permalink:  /number-of-submatrices-that-sum-to-target/
 	<li><code>-1000 &lt;= matrix[i] &lt;= 1000</code></li>
 	<li><code>-10^8 &lt;= target &lt;= 10^8</code></li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]

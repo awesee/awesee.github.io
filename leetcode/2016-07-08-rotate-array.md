@@ -9,6 +9,8 @@ permalink:  /rotate-array/
 
 ## 189. 旋转数组 (Easy)
 
+{% raw %}
+
 <p>给定一个数组，将数组中的元素向右移动&nbsp;<em>k&nbsp;</em>个位置，其中&nbsp;<em>k&nbsp;</em>是非负数。</p>
 
 <p><strong>示例 1:</strong></p>
@@ -35,6 +37,8 @@ permalink:  /rotate-array/
 	<li>尽可能想出更多的解决方案，至少有三种不同的方法可以解决这个问题。</li>
 	<li>要求使用空间复杂度为&nbsp;O(1) 的&nbsp;<strong>原地&nbsp;</strong>算法。</li>
 </ul>
+
+{% endraw %}
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]

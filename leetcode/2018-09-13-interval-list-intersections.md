@@ -9,6 +9,8 @@ permalink:  /interval-list-intersections/
 
 ## 986. 区间列表的交集 (Medium)
 
+{% raw %}
+
 <p>给定两个由一些<strong>闭区间</strong>组成的列表，每个区间列表都是成对不相交的，并且已经排序。</p>
 
 <p>返回这两个区间列表的交集。</p>
@@ -35,6 +37,8 @@ permalink:  /interval-list-intersections/
 	<li><code>0 &lt;= B.length &lt; 1000</code></li>
 	<li><code>0 &lt;= A[i].start, A[i].end, B[i].start, B[i].end &lt; 10^9</code></li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]

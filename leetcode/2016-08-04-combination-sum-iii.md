@@ -9,6 +9,8 @@ permalink:  /combination-sum-iii/
 
 ## 216. 组合总和 III (Medium)
 
+{% raw %}
+
 <p>找出所有相加之和为&nbsp;<em><strong>n</strong> </em>的&nbsp;<strong><em>k&nbsp;</em></strong>个数的组合<strong><em>。</em></strong>组合中只允许含有 1 -&nbsp;9 的正整数，并且每种组合中不存在重复的数字。</p>
 
 <p><strong>说明：</strong></p>
@@ -29,6 +31,8 @@ permalink:  /combination-sum-iii/
 <pre><strong>输入:</strong> <em><strong>k</strong></em> = 3, <em><strong>n</strong></em> = 9
 <strong>输出:</strong> [[1,2,6], [1,3,5], [2,3,4]]
 </pre>
+
+{% endraw %}
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]

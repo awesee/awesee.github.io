@@ -9,6 +9,8 @@ permalink:  /occurrences-after-bigram/
 
 ## 1078. Bigram 分词 (Easy)
 
+{% raw %}
+
 <p>给出第一个词&nbsp;<code>first</code> 和第二个词&nbsp;<code>second</code>，考虑在某些文本&nbsp;<code>text</code>&nbsp;中可能以 &quot;<code>first second third</code>&quot; 形式出现的情况，其中&nbsp;<code>second</code>&nbsp;紧随&nbsp;<code>first</code>&nbsp;出现，<code>third</code>&nbsp;紧随&nbsp;<code>second</code>&nbsp;出现。</p>
 
 <p>对于每种这样的情况，将第三个词 &quot;<code>third</code>&quot; 添加到答案中，并返回答案。</p>
@@ -37,6 +39,8 @@ permalink:  /occurrences-after-bigram/
 	<li><code>1 &lt;= first.length, second.length &lt;= 10</code></li>
 	<li><code>first</code> 和&nbsp;<code>second</code>&nbsp;由小写英文字母组成</li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]

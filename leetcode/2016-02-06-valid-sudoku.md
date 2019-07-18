@@ -9,6 +9,8 @@ permalink:  /valid-sudoku/
 
 ## 36. 有效的数独 (Medium)
 
+{% raw %}
+
 <p>判断一个&nbsp;9x9 的数独是否有效。只需要<strong>根据以下规则</strong>，验证已经填入的数字是否有效即可。</p>
 
 <ol>
@@ -66,6 +68,8 @@ permalink:  /valid-sudoku/
 	<li>给定数独序列只包含数字&nbsp;<code>1-9</code>&nbsp;和字符&nbsp;<code>&#39;.&#39;</code>&nbsp;。</li>
 	<li>给定数独永远是&nbsp;<code>9x9</code>&nbsp;形式的。</li>
 </ul>
+
+{% endraw %}
 
 ### 相关话题
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]

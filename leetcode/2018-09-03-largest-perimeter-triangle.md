@@ -9,6 +9,8 @@ permalink:  /largest-perimeter-triangle/
 
 ## 976. 三角形的最大周长 (Easy)
 
+{% raw %}
+
 <p>给定由一些正数（代表长度）组成的数组 <code>A</code>，返回由其中三个长度组成的、<strong>面积不为零</strong>的三角形的最大周长。</p>
 
 <p>如果不能形成任何面积不为零的三角形，返回&nbsp;<code>0</code>。</p>
@@ -50,6 +52,8 @@ permalink:  /largest-perimeter-triangle/
 	<li><code>3 &lt;= A.length &lt;= 10000</code></li>
 	<li><code>1 &lt;= A[i] &lt;= 10^6</code></li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]

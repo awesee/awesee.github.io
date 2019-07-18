@@ -9,6 +9,8 @@ permalink:  /consecutive-numbers-sum/
 
 ## 829. 连续整数求和 (Hard)
 
+{% raw %}
+
 <p>给定一个正整数 <code>N</code>，试求有多少组连续正整数满足所有数字之和为 <code>N</code>?</p>
 
 <p><strong>示</strong><strong>例 1:</strong></p>
@@ -33,6 +35,8 @@ permalink:  /consecutive-numbers-sum/
 <strong>解释: </strong>15 = 15 = 8 + 7 = 4 + 5 + 6 = 1 + 2 + 3 + 4 + 5</pre>
 
 <p><strong>说明:&nbsp;</strong><code>1 &lt;= N &lt;= 10 ^ 9</code></p>
+
+{% endraw %}
 
 ### 相关话题
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]

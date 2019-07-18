@@ -9,6 +9,8 @@ permalink:  /range-addition-ii/
 
 ## 598. 范围求和 II (Easy)
 
+{% raw %}
+
 <p>给定一个初始元素全部为&nbsp;<strong>0</strong>，大小为 m*n 的矩阵&nbsp;<strong>M&nbsp;</strong>以及在&nbsp;<strong>M&nbsp;</strong>上的一系列更新操作。</p>
 
 <p>操作用二维数组表示，其中的每个操作用一个含有两个<strong>正整数&nbsp;a</strong> 和 <strong>b</strong> 的数组表示，含义是将所有符合&nbsp;<strong>0 &lt;= i &lt; a</strong> 以及 <strong>0 &lt;= j &lt; b</strong> 的元素&nbsp;<strong>M[i][j]&nbsp;</strong>的值都<strong>增加 1</strong>。</p>
@@ -48,6 +50,8 @@ M 中最大的整数是 2, 而且 M 中有4个值为2的元素。因此返回 4�
 	<li>a 的范围是 [1,m]，b 的范围是 [1,n]。</li>
 	<li>操作数目不超过 10000。</li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]

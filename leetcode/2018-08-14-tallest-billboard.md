@@ -9,6 +9,8 @@ permalink:  /tallest-billboard/
 
 ## 956. 最高的广告牌 (Hard)
 
+{% raw %}
+
 <p>你正在安装一个广告牌，并希望它高度最大。这块广告牌将有两个钢制支架，两边各一个。每个钢支架的高度必须相等。</p>
 
 <p>你有一堆可以焊接在一起的钢筋 <code>rods</code>。举个例子，如果钢筋的长度为 1、2 和 3，则可以将它们焊接在一起形成长度为 6 的支架。</p>
@@ -45,6 +47,8 @@ permalink:  /tallest-billboard/
 	<li><code>1 &lt;= rods[i] &lt;= 1000</code></li>
 	<li><code>钢筋的长度总和最多为 5000</code></li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]

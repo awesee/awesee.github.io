@@ -9,6 +9,8 @@ permalink:  /split-array-with-same-average/
 
 ## 805. 数组的均值分割 (Hard)
 
+{% raw %}
+
 <p>给定的整数数组 A ，我们要将 A数组 中的每个元素移动到 B数组 或者 C数组中。（B数组和C数组在开始的时候都为空）</p>
 
 <p>返回<code>true</code> ，当且仅当在我们的完成这样的移动后，可使得B数组的平均值和C数组的平均值相等，并且B数组和C数组都不为空。</p>
@@ -27,6 +29,8 @@ permalink:  /split-array-with-same-average/
 	<li><code>A</code> 数组的长度范围为 <code>[1, 30]</code>.</li>
 	<li><code>A[i]</code> 的数据范围为 <code>[0, 10000]</code>.</li>
 </ul>
+
+{% endraw %}
 
 ### 相关话题
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]

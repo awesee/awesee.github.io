@@ -9,6 +9,8 @@ permalink:  /design-hashmap/
 
 ## 706. 设计哈希映射 (Easy)
 
+{% raw %}
+
 <p>不使用任何内建的哈希表库设计一个哈希映射</p>
 
 <p>具体地说，你的设计应该包含以下的功能</p>
@@ -42,6 +44,8 @@ hashMap.get(2); &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;// 返回 -1 (未找到
 	<li>操作的总数目在<code>[1, 10000]</code>范围内。</li>
 	<li>不要使用内建的哈希库。</li>
 </ul>
+
+{% endraw %}
 
 ### 相关话题
   [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]

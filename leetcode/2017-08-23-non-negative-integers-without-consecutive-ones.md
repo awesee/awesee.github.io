@@ -9,6 +9,8 @@ permalink:  /non-negative-integers-without-consecutive-ones/
 
 ## 600. 不含连续1的非负整数 (Hard)
 
+{% raw %}
+
 <p>给定一个正整数 n，找出小于或等于 n 的非负整数中，其二进制表示不包含&nbsp;<strong>连续的1&nbsp;</strong>的个数。</p>
 
 <p><strong>示例 1:</strong></p>
@@ -26,6 +28,8 @@ permalink:  /non-negative-integers-without-consecutive-ones/
 其中，只有整数3违反规则（有两个连续的1），其他5个满足规则。</pre>
 
 <p><strong>说明:</strong> 1 &lt;= n &lt;= 10<sup>9</sup></p>
+
+{% endraw %}
 
 ### 相关话题
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]

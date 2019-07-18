@@ -9,6 +9,8 @@ permalink:  /longest-word-in-dictionary/
 
 ## 720. 词典中最长的单词 (Easy)
 
+{% raw %}
+
 <p>给出一个字符串数组<code>words</code>组成的一本英语词典。从中找出最长的一个单词，该单词是由<code>words</code>词典中其他单词逐步添加一个字母组成。若其中有多个可行的答案，则返回答案中字典序最小的单词。</p>
 
 <p>若无答案，则返回空字符串。</p>
@@ -40,6 +42,8 @@ words = [&quot;a&quot;, &quot;banana&quot;, &quot;app&quot;, &quot;appl&quot;, &
 	<li><code>words</code>数组长度范围为<code>[1,1000]</code>。</li>
 	<li><code>words[i]</code>的长度范围为<code>[1,30]</code>。</li>
 </ul>
+
+{% endraw %}
 
 ### 相关话题
   [[字典树](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)]

@@ -9,6 +9,8 @@ permalink:  /move-zeroes/
 
 ## 283. 移动零 (Easy)
 
+{% raw %}
+
 <p>给定一个数组 <code>nums</code>，编写一个函数将所有 <code>0</code> 移动到数组的末尾，同时保持非零元素的相对顺序。</p>
 
 <p><strong>示例:</strong></p>
@@ -22,6 +24,8 @@ permalink:  /move-zeroes/
 	<li>必须在原数组上操作，不能拷贝额外的数组。</li>
 	<li>尽量减少操作次数。</li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]

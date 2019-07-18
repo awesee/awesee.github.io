@@ -9,6 +9,8 @@ permalink:  /array-of-doubled-pairs/
 
 ## 954. 二倍数对数组 (Medium)
 
+{% raw %}
+
 <p>给定一个长度为偶数的整数数组&nbsp;<code>A</code>，只有对&nbsp;<code>A</code>&nbsp;进行重组后可以满足 &ldquo;对于每个 <code>0 &lt;=&nbsp;i &lt; len(A) / 2</code>，都有 <code>A[2 * i + 1] = 2 * A[2 * i]</code>&rdquo;&nbsp;时，返回 <code>true</code>；否则，返回 <code>false</code>。</p>
 
 <p>&nbsp;</p>
@@ -46,6 +48,8 @@ permalink:  /array-of-doubled-pairs/
 	<li><code>A.length</code>&nbsp;为偶数</li>
 	<li><code>-100000 &lt;= A[i] &lt;= 100000</code></li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]

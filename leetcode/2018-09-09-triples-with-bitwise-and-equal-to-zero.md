@@ -9,6 +9,8 @@ permalink:  /triples-with-bitwise-and-equal-to-zero/
 
 ## 982. 按位与为零的三元组 (Hard)
 
+{% raw %}
+
 <p>给定一个整数数组&nbsp;<code>A</code>，找出索引为 (i, j, k) 的三元组，使得：</p>
 
 <ul>
@@ -47,6 +49,8 @@ permalink:  /triples-with-bitwise-and-equal-to-zero/
 	<li><code>1 &lt;= A.length &lt;= 1000</code></li>
 	<li><code>0 &lt;= A[i] &lt; 2^16</code></li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]

@@ -9,6 +9,8 @@ permalink:  /trips-and-users/
 
 ## 262. 行程和用户 (Hard)
 
+{% raw %}
+
 <p><code>Trips</code>&nbsp;表中存所有出租车的行程信息。每段行程有唯一键 Id，Client_Id 和&nbsp;Driver_Id 是&nbsp;<code>Users</code>&nbsp;表中 Users_Id 的外键。Status 是枚举类型，枚举成员为 (&lsquo;completed&rsquo;, &lsquo;cancelled_by_driver&rsquo;, &lsquo;cancelled_by_client&rsquo;)。</p>
 
 <pre>+----+-----------+-----------+---------+--------------------+----------+
@@ -56,6 +58,8 @@ permalink:  /trips-and-users/
 
 <p><strong>致谢:</strong><br>
 非常感谢&nbsp;<a href="https://leetcode.com/discuss/user/cak1erlizhou">@cak1erlizhou</a>&nbsp;详细的提供了这道题和相应的测试用例。</p>
+
+{% endraw %}
 
 ---
 

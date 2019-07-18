@@ -9,6 +9,8 @@ permalink:  /minimum-area-rectangle-ii/
 
 ## 963. 最小面积矩形 II (Medium)
 
+{% raw %}
+
 <p>给定在 xy 平面上的一组点，确定由这些点组成的任何矩形的最小面积，其中矩形的边<strong>不一定平行于</strong> x 轴和 y 轴。</p>
 
 <p>如果没有任何矩形，就返回 0。</p>
@@ -61,6 +63,8 @@ permalink:  /minimum-area-rectangle-ii/
 	<li>所有的点都是不同的。</li>
 	<li>与真实值误差不超过 <code>10^-5</code>&nbsp;的答案将视为正确结果。</li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[几何](https://github.com/openset/leetcode/tree/master/tag/geometry/README.md)]

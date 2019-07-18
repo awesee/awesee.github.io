@@ -9,6 +9,8 @@ permalink:  /positions-of-large-groups/
 
 ## 830. 较大分组的位置 (Easy)
 
+{% raw %}
+
 <p>在一个由小写字母构成的字符串&nbsp;<code>S</code>&nbsp;中，包含由一些连续的相同字符所构成的分组。</p>
 
 <p>例如，在字符串 <code>S = &quot;abbxxxxzyy&quot;</code>&nbsp;中，就含有 <code>&quot;a&quot;</code>, <code>&quot;bb&quot;</code>, <code>&quot;xxxx&quot;</code>, <code>&quot;z&quot;</code> 和 <code>&quot;yy&quot;</code> 这样的一些分组。</p>
@@ -40,6 +42,8 @@ permalink:  /positions-of-large-groups/
 <strong>输出: </strong>[[3,5],[6,9],[12,14]]</pre>
 
 <p><strong>说明:&nbsp;</strong>&nbsp;<code>1 &lt;= S.length &lt;= 1000</code></p>
+
+{% endraw %}
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]

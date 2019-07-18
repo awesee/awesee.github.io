@@ -9,6 +9,8 @@ permalink:  /minimum-number-of-k-consecutive-bit-flips/
 
 ## 995. K 连续位的最小翻转次数 (Hard)
 
+{% raw %}
+
 <p>在仅包含 <code>0</code> 和 <code>1</code> 的数组 <code>A</code> 中，一次 <em><code>K</code> 位翻转</em>包括选择一个长度为 <code>K</code> 的（连续）子数组，同时将子数组中的每个 <code>0</code> 更改为 <code>1</code>，而每个 <code>1</code> 更改为 <code>0</code>。</p>
 
 <p>返回所需的 <code>K</code> 位翻转的次数，以便数组没有值为 <code>0</code> 的元素。如果不可能，返回 <code>-1</code>。</p>
@@ -47,6 +49,8 @@ permalink:  /minimum-number-of-k-consecutive-bit-flips/
 	<li><code>1 &lt;= A.length &lt;=&nbsp;30000</code></li>
 	<li><code>1 &lt;= K &lt;= A.length</code></li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]

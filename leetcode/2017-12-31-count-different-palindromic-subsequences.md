@@ -9,6 +9,8 @@ permalink:  /count-different-palindromic-subsequences/
 
 ## 730. 统计不同回文子字符串 (Hard)
 
+{% raw %}
+
 <p>给定一个字符串 S，找出 S 中不同的非空回文子序列个数，并<strong>返回该数字与 <code>10^9 + 7 </code>的模。</strong></p>
 
 <p>通过从 S 中删除 0 个或多个字符来获得子字符序列。</p>
@@ -48,6 +50,8 @@ S = &#39;abcdabcdabcdabcdabcdabcdabcdabcddcbadcbadcbadcbadcbadcbadcbadcba&#39;
 </ul>
 
 <p>&nbsp;</p>
+
+{% endraw %}
 
 ### 相关话题
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]

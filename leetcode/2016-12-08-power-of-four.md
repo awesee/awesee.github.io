@@ -9,6 +9,8 @@ permalink:  /power-of-four/
 
 ## 342. 4的幂 (Easy)
 
+{% raw %}
+
 <p>给定一个整数 (32 位有符号整数)，请编写一个函数来判断它是否是 4&nbsp;的幂次方。</p>
 
 <p><strong>示例 1:</strong></p>
@@ -24,6 +26,8 @@ permalink:  /power-of-four/
 
 <p><strong>进阶：</strong><br>
 你能不使用循环或者递归来完成本题吗？</p>
+
+{% endraw %}
 
 ### 相关话题
   [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]

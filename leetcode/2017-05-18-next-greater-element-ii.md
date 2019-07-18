@@ -9,6 +9,8 @@ permalink:  /next-greater-element-ii/
 
 ## 503. 下一个更大元素 II (Medium)
 
+{% raw %}
+
 <p>给定一个循环数组（最后一个元素的下一个元素是数组的第一个元素），输出每个元素的下一个更大元素。数字 x 的下一个更大的元素是按数组遍历顺序，这个数字之后的第一个比它更大的数，这意味着你应该循环地搜索它的下一个更大的数。如果不存在，则输出 -1。</p>
 
 <p><strong>示例 1:</strong></p>
@@ -22,6 +24,8 @@ permalink:  /next-greater-element-ii/
 </pre>
 
 <p><strong>注意:</strong> 输入数组的长度不会超过 10000。</p>
+
+{% endraw %}
 
 ### 相关话题
   [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]

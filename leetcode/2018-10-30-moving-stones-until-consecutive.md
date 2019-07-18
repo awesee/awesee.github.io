@@ -9,6 +9,8 @@ permalink:  /moving-stones-until-consecutive/
 
 ## 1033. 移动石子直到连续 (Easy)
 
+{% raw %}
+
 <p>三枚石子放置在数轴上，位置分别为 <code>a</code>，<code>b</code>，<code>c</code>。</p>
 
 <p>每一回合，我们假设这三枚石子当前分别位于位置 <code>x, y, z</code> 且 <code>x &lt; y &lt; z</code>。从位置 <code>x</code> 或者是位置 <code>z</code> 拿起一枚石子，并将该石子移动到某一整数位置 <code>k</code> 处，其中 <code>x &lt; k &lt; z</code> 且 <code>k != y</code>。</p>
@@ -43,6 +45,8 @@ permalink:  /moving-stones-until-consecutive/
 	<li><code>1 &lt;= c &lt;= 100</code></li>
 	<li><code>a != b, b != c, c != a</code></li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[脑筋急转弯](https://github.com/openset/leetcode/tree/master/tag/brainteaser/README.md)]

@@ -9,6 +9,8 @@ permalink:  /construct-quad-tree/
 
 ## 427. 建立四叉树 (Medium)
 
+{% raw %}
+
 <p>我们想要使用一棵四叉树来储存一个&nbsp;<code>N x N</code> 的布尔值网络。网络中每一格的值只会是真或假。树的根结点代表整个网络。对于每个结点, 它将被分等成四个孩子结点<strong>直到这个区域内的值都是相同的.</strong></p>
 
 <p>每个结点还有另外两个布尔变量:&nbsp;<code>isLeaf</code> 和&nbsp;<code>val</code>。<code>isLeaf</code> 当这个节点是一个叶子结点时为真。<code>val</code>&nbsp;变量储存叶子结点所代表的区域的值。</p>
@@ -37,6 +39,8 @@ permalink:  /construct-quad-tree/
 	<li><code>N</code>&nbsp;将小于&nbsp;<code>1000</code>&nbsp;且确保是 2 的整次幂。</li>
 	<li>如果你想了解更多关于四叉树的知识，你可以参考这个&nbsp;<a href="https://en.wikipedia.org/wiki/Quadtree">wiki</a>&nbsp;页面。</li>
 </ol>
+
+{% endraw %}
 
 ---
 

@@ -9,6 +9,8 @@ permalink:  /uncommon-words-from-two-sentences/
 
 ## 884. 两句话中的不常见单词 (Easy)
 
+{% raw %}
+
 <p>给定两个句子&nbsp;<code>A</code>&nbsp;和&nbsp;<code>B</code>&nbsp;。&nbsp;（<em>句子</em>是一串由空格分隔的单词。每个<em>单词</em>仅由小写字母组成。）</p>
 
 <p>如果一个单词在其中一个句子中只出现一次，在另一个句子中却没有出现，那么这个单词就是<em>不常见的</em>。</p>
@@ -43,6 +45,8 @@ permalink:  /uncommon-words-from-two-sentences/
 	<li><code>0 &lt;= B.length &lt;= 200</code></li>
 	<li><code>A</code> 和&nbsp;<code>B</code>&nbsp;都只包含空格和小写字母。</li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]

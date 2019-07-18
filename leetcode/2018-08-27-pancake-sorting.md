@@ -9,6 +9,8 @@ permalink:  /pancake-sorting/
 
 ## 969. 煎饼排序 (Medium)
 
+{% raw %}
+
 <p>给定数组&nbsp;<code>A</code>，我们可以对其进行<em>煎饼翻转</em>：我们选择一些正整数&nbsp;<code><strong>k</strong>&nbsp;&lt;= A.length</code>，然后反转 <code>A</code> 的前 <strong>k</strong>&nbsp;个元素的顺序。我们要执行零次或多次煎饼翻转（按顺序一次接一次地进行）以完成对数组 <code>A</code> 的排序。</p>
 
 <p>返回能使&nbsp;<code>A</code> 排序的煎饼翻转操作所对应的 k 值序列。任何将数组排序且翻转次数在&nbsp;<code>10 * A.length</code> 范围内的有效答案都将被判断为正确。</p>
@@ -45,6 +47,8 @@ permalink:  /pancake-sorting/
 	<li><code>1 &lt;= A.length &lt;= 100</code></li>
 	<li><code>A[i]</code> 是&nbsp;<code>[1, 2, ..., A.length]</code>&nbsp;的排列</li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]

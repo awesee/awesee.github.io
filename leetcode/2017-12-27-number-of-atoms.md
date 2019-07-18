@@ -9,6 +9,8 @@ permalink:  /number-of-atoms/
 
 ## 726. 原子的数量 (Hard)
 
+{% raw %}
+
 <p>给定一个化学式<code>formula</code>（作为字符串），返回每种原子的数量。</p>
 
 <p>原子总是以一个大写字母开始，接着跟随0个或任意个小写字母，表示原子的名字。</p>
@@ -58,6 +60,8 @@ formula = &quot;K4(ON(SO3)2)2&quot;
 	<li><code>formula</code>的长度在<code>[1, 1000]</code>之间。</li>
 	<li><code>formula</code>只包含字母、数字和圆括号，并且题目中给定的是合法的化学式。</li>
 </ul>
+
+{% endraw %}
 
 ### 相关话题
   [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]

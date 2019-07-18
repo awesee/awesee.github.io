@@ -9,6 +9,8 @@ permalink:  /merge-two-sorted-lists/
 
 ## 21. 合并两个有序链表 (Easy)
 
+{% raw %}
+
 <p>将两个有序链表合并为一个新的有序链表并返回。新链表是通过拼接给定的两个链表的所有节点组成的。&nbsp;</p>
 
 <p><strong>示例：</strong></p>
@@ -16,6 +18,8 @@ permalink:  /merge-two-sorted-lists/
 <pre><strong>输入：</strong>1-&gt;2-&gt;4, 1-&gt;3-&gt;4
 <strong>输出：</strong>1-&gt;1-&gt;2-&gt;3-&gt;4-&gt;4
 </pre>
+
+{% endraw %}
 
 ### 相关话题
   [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]

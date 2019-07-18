@@ -9,6 +9,8 @@ permalink:  /average-of-levels-in-binary-tree/
 
 ## 637. 二叉树的层平均值 (Easy)
 
+{% raw %}
+
 <p>给定一个非空二叉树, 返回一个由每层节点平均值组成的数组.</p>
 
 <p><strong>示例 1:</strong></p>
@@ -29,6 +31,8 @@ permalink:  /average-of-levels-in-binary-tree/
 <ol>
 	<li>节点值的范围在32位有符号整数范围内。</li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]

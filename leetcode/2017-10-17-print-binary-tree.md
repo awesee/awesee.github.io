@@ -9,6 +9,8 @@ permalink:  /print-binary-tree/
 
 ## 655. 输出二叉树 (Medium)
 
+{% raw %}
+
 <p>在一个 m*n 的二维字符串数组中输出二叉树，并遵守以下规则：</p>
 
 <ol>
@@ -65,6 +67,8 @@ permalink:  /print-binary-tree/
 </pre>
 
 <p><strong>注意:</strong> 二叉树的高度在范围 [1, 10] 中。</p>
+
+{% endraw %}
 
 ### 相关话题
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]

@@ -9,6 +9,8 @@ permalink:  /count-binary-substrings/
 
 ## 696. 计数二进制子串 (Easy)
 
+{% raw %}
+
 <p>给定一个字符串&nbsp;<code>s</code>，计算具有相同数量0和1的非空(连续)子字符串的数量，并且这些子字符串中的所有0和所有1都是组合在一起的。</p>
 
 <p>重复出现的子串要计算它们出现的次数。</p>
@@ -39,6 +41,8 @@ permalink:  /count-binary-substrings/
 	<li><code>s.length</code>&nbsp;在1到50,000之间。</li>
 	<li><code>s</code>&nbsp;只包含&ldquo;0&rdquo;或&ldquo;1&rdquo;字符。</li>
 </ul>
+
+{% endraw %}
 
 ### 相关话题
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]

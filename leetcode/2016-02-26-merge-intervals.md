@@ -9,6 +9,8 @@ permalink:  /merge-intervals/
 
 ## 56. 合并区间 (Medium)
 
+{% raw %}
+
 <p>给出一个区间的集合，请合并所有重叠的区间。</p>
 
 <p><strong>示例 1:</strong></p>
@@ -23,6 +25,8 @@ permalink:  /merge-intervals/
 <pre><strong>输入:</strong> [[1,4],[4,5]]
 <strong>输出:</strong> [[1,5]]
 <strong>解释:</strong> 区间 [1,4] 和 [4,5] 可被视为重叠区间。</pre>
+
+{% endraw %}
 
 ### 相关话题
   [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]

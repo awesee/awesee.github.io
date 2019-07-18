@@ -9,6 +9,8 @@ permalink:  /number-complement/
 
 ## 476. 数字的补数 (Easy)
 
+{% raw %}
+
 <p>给定一个正整数，输出它的补数。补数是对该数的二进制表示取反。</p>
 
 <p><strong>注意:</strong></p>
@@ -33,6 +35,8 @@ permalink:  /number-complement/
 <strong>输出:</strong> 0
 <strong>解释:</strong> 1的二进制表示为1（没有前导零位），其补数为0。所以你需要输出0。
 </pre>
+
+{% endraw %}
 
 ### 相关话题
   [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]

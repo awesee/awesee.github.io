@@ -9,6 +9,8 @@ permalink:  /binary-gap/
 
 ## 868. 二进制间距 (Easy)
 
+{% raw %}
+
 <p>给定一个正整数&nbsp;<code>N</code>，找到并返回 <code>N</code>&nbsp;的二进制表示中两个连续的 1 之间的最长距离。&nbsp;</p>
 
 <p>如果没有两个连续的 1，返回 <code>0</code> 。</p>
@@ -62,6 +64,8 @@ permalink:  /binary-gap/
 <ul>
 	<li><code>1 &lt;= N &lt;= 10^9</code></li>
 </ul>
+
+{% endraw %}
 
 ### 相关话题
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]

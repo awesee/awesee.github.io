@@ -9,6 +9,8 @@ permalink:  /maximum-depth-of-n-ary-tree/
 
 ## 559. N叉树的最大深度 (Easy)
 
+{% raw %}
+
 <p>给定一个 N 叉树，找到其最大深度。</p>
 
 <p>最大深度是指从根节点到最远叶子节点的最长路径上的节点总数。</p>
@@ -29,6 +31,8 @@ permalink:  /maximum-depth-of-n-ary-tree/
 	<li>树的深度不会超过&nbsp;<code>1000</code>。</li>
 	<li>树的节点总不会超过&nbsp;<code>5000</code>。</li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]

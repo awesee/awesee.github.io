@@ -9,6 +9,8 @@ permalink:  /find-peak-element/
 
 ## 162. 寻找峰值 (Medium)
 
+{% raw %}
+
 <p>峰值元素是指其值大于左右相邻值的元素。</p>
 
 <p>给定一个输入数组&nbsp;<code>nums</code>，其中 <code>nums[i] &ne; nums[i+1]</code>，找到峰值元素并返回其索引。</p>
@@ -34,6 +36,8 @@ permalink:  /find-peak-element/
 <p><strong>说明:</strong></p>
 
 <p>你的解法应该是&nbsp;<em>O</em>(<em>logN</em>)<em>&nbsp;</em>时间复杂度的。</p>
+
+{% endraw %}
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]

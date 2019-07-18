@@ -9,6 +9,8 @@ permalink:  /contain-virus/
 
 ## 749. 隔离病毒 (Hard)
 
+{% raw %}
+
 <p>病毒扩散得很快，现在你的任务是尽可能地通过安装防火墙来隔离病毒。</p>
 
 <p>假设世界由二维矩阵组成，<code>0</code> 表示该区域未感染病毒，而 <code>1</code> 表示该区域已感染病毒。可以在任意 2 个四方向相邻单元之间的共享边界上安装一个防火墙（并且只有一个防火墙）。</p>
@@ -72,6 +74,8 @@ permalink:  /contain-virus/
 </ol>
 
 <p>&nbsp;</p>
+
+{% endraw %}
 
 ### 相关话题
   [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]

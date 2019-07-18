@@ -9,6 +9,8 @@ permalink:  /array-nesting/
 
 ## 565. 数组嵌套 (Medium)
 
+{% raw %}
+
 <p>索引从<code>0</code>开始长度为<code>N</code>的数组<code>A</code>，包含<code>0</code>到<code>N - 1</code>的所有整数。找到并返回最大的集合<code>S</code>，<code>S[i] = {A[i], A[A[i]], A[A[A[i]]], ... }</code>且遵守以下的规则。</p>
 
 <p>假设选择索引为<code>i</code>的元素<code>A[i]</code>为<code>S</code>的第一个元素，<code>S</code>的下一个元素应该是<code>A[A[i]]</code>，之后是<code>A[A[A[i]]]...</code> 以此类推，不断添加直到<code>S</code>出现重复的元素。</p>
@@ -32,6 +34,8 @@ S[0] = {A[0], A[5], A[6], A[2]} = {5, 6, 2, 0}
 	<li><code>A</code>中不含有重复的元素。</li>
 	<li><code>A</code>中的元素大小在<code>[0, N-1]</code>之间。</li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]

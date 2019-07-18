@@ -9,6 +9,8 @@ permalink:  /find-k-closest-elements/
 
 ## 658. 找到 K 个最接近的元素 (Medium)
 
+{% raw %}
+
 <p>给定一个排序好的数组，两个整数 <code>k</code> 和 <code>x</code>，从数组中找到最靠近 <code>x</code>（两数之差最小）的 <code>k</code> 个数。返回的结果必须要是按升序排好的。如果有两个数与 <code>x</code> 的差值一样，优先选择数值较小的那个数。</p>
 
 <p><strong>示例&nbsp;1:</strong></p>
@@ -41,6 +43,8 @@ permalink:  /find-k-closest-elements/
 
 <p><strong>更新(2017/9/19):</strong><br />
 这个参数 <em>arr</em> 已经被改变为一个<strong>整数数组</strong>（而不是整数列表）。<strong><em>&nbsp;请重新加载代码定义以获取最新更改。</em></strong></p>
+
+{% endraw %}
 
 ### 相关话题
   [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]

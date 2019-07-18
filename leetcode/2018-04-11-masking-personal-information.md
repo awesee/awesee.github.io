@@ -9,6 +9,8 @@ permalink:  /masking-personal-information/
 
 ## 831. 隐藏个人信息 (Medium)
 
+{% raw %}
+
 <p>给你一条个人信息 string <code>S</code>，它可能是一个邮箱地址，也可能是一个电话号码。</p>
 
 <p>我们将隐藏它的隐私信息，通过如下规则:</p>
@@ -88,6 +90,8 @@ permalink:  /masking-personal-information/
 	<li>邮箱的长度至少是 8。</li>
 	<li>电话号码的长度至少是 10。</li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]

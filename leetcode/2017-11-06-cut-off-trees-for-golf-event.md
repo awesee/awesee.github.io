@@ -9,6 +9,8 @@ permalink:  /cut-off-trees-for-golf-event/
 
 ## 675. 为高尔夫比赛砍树 (Hard)
 
+{% raw %}
+
 <p>你被请来给一个要举办高尔夫比赛的树林砍树. 树林由一个非负的二维数组表示， 在这个数组中：</p>
 
 <ol>
@@ -68,6 +70,8 @@ permalink:  /cut-off-trees-for-golf-event/
 <p>&nbsp;</p>
 
 <p><strong>提示</strong>: 矩阵大小不会超过 50x50 。</p>
+
+{% endraw %}
 
 ### 相关话题
   [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]

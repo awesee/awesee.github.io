@@ -9,6 +9,8 @@ permalink:  /super-ugly-number/
 
 ## 313. 超级丑数 (Medium)
 
+{% raw %}
+
 <p>编写一段程序来查找第 <code><em>n</em></code> 个超级丑数。</p>
 
 <p>超级丑数是指其所有质因数都是长度为&nbsp;<code>k</code>&nbsp;的质数列表&nbsp;<code>primes</code>&nbsp;中的正整数。</p>
@@ -27,6 +29,8 @@ permalink:  /super-ugly-number/
 	<li>0 &lt; <code>k</code> &le; 100, 0 &lt; <code>n</code> &le; 10<sup>6</sup>, 0 &lt; <code>primes[i]</code> &lt; 1000 。</li>
 	<li>第&nbsp;<code>n</code>&nbsp;个超级丑数确保在 32 位有符整数范围内。</li>
 </ul>
+
+{% endraw %}
 
 ### 相关话题
   [[堆](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]

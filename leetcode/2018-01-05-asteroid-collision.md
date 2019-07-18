@@ -9,6 +9,8 @@ permalink:  /asteroid-collision/
 
 ## 735. 行星碰撞 (Medium)
 
+{% raw %}
+
 <p>给定一个整数数组 <code>asteroids</code>，表示在同一行的行星。</p>
 
 <p>对于数组中的每一个元素，其绝对值表示行星的大小，正负表示行星的移动方向（正表示向右移动，负表示向左移动）。每一颗行星以相同的速度移动。</p>
@@ -62,6 +64,8 @@ asteroids = [-2, -1, 1, 2]
 	<li>数组&nbsp;<code>asteroids</code> 的长度不超过&nbsp;<code>10000</code>。</li>
 	<li>每一颗行星的大小都是非零整数，范围是&nbsp;<code>[-1000, 1000]</code>&nbsp;。</li>
 </ul>
+
+{% endraw %}
 
 ### 相关话题
   [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]

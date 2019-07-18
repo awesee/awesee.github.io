@@ -9,6 +9,8 @@ permalink:  /maximum-frequency-stack/
 
 ## 895. 最大频率栈 (Hard)
 
+{% raw %}
+
 <p>实现 <code>FreqStack</code>，模拟类似栈的数据结构的操作的一个类。</p>
 
 <p><code>FreqStack</code>&nbsp;有两个函数：</p>
@@ -59,6 +61,8 @@ pop() -&gt; 返回 4 。
 </ul>
 
 <p>&nbsp;</p>
+
+{% endraw %}
 
 ### 相关话题
   [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]

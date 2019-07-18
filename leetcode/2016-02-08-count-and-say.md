@@ -9,6 +9,8 @@ permalink:  /count-and-say/
 
 ## 38. 报数 (Easy)
 
+{% raw %}
+
 <p>报数序列是一个整数序列，按照其中的整数的顺序进行报数，得到下一个数。其前五项如下：</p>
 
 <pre>1.     1
@@ -39,6 +41,8 @@ permalink:  /count-and-say/
 <pre><strong>输入:</strong> 4
 <strong>输出:</strong> &quot;1211&quot;
 </pre>
+
+{% endraw %}
 
 ### 相关话题
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]

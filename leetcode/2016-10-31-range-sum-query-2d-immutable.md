@@ -9,6 +9,8 @@ permalink:  /range-sum-query-2d-immutable/
 
 ## 304. 二维区域和检索 - 矩阵不可变 (Medium)
 
+{% raw %}
+
 <p>给定一个二维矩阵，计算其子矩形范围内元素的总和，该子矩阵的左上角为 (<em>row</em>1,&nbsp;<em>col</em>1) ，右下角为 (<em>row</em>2,&nbsp;<em>col</em>2)。</p>
 
 <p><img alt="Range Sum Query 2D" src="https://assets.leetcode-cn.com/aliyun-lc-upload/images/304.png" style="width: 130px;"><br>
@@ -36,6 +38,8 @@ sumRegion(1, 2, 2, 4) -&gt; 12
 	<li>会多次调用&nbsp;<em>sumRegion&nbsp;</em>方法<em>。</em></li>
 	<li>你可以假设&nbsp;<em>row</em>1 &le; <em>row</em>2 且&nbsp;<em>col</em>1 &le; <em>col</em>2。</li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]

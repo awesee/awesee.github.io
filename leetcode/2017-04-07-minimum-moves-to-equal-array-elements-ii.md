@@ -9,6 +9,8 @@ permalink:  /minimum-moves-to-equal-array-elements-ii/
 
 ## 462. 最少移动次数使数组元素相等 II (Medium)
 
+{% raw %}
+
 <p>给定一个非空整数数组，找到使所有数组元素相等所需的最小移动数，其中每次移动可将选定的一个元素加1或减1。 您可以假设数组的长度最多为10000。</p>
 
 <p><strong>例如:</strong></p>
@@ -25,6 +27,8 @@ permalink:  /minimum-moves-to-equal-array-elements-ii/
 
 [1,2,3]  =&gt;  [2,2,3]  =&gt;  [2,2,2]
 </pre>
+
+{% endraw %}
 
 ### 相关话题
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]

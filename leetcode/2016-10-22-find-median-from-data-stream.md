@@ -9,6 +9,8 @@ permalink:  /find-median-from-data-stream/
 
 ## 295. 数据流的中位数 (Hard)
 
+{% raw %}
+
 <p>中位数是有序列表中间的数。如果列表长度是偶数，中位数则是中间两个数的平均值。</p>
 
 <p>例如，</p>
@@ -38,6 +40,8 @@ findMedian() -&gt; 2</pre>
 	<li>如果数据流中所有整数都在 0 到 100 范围内，你将如何优化你的算法？</li>
 	<li>如果数据流中 99% 的整数都在 0 到 100 范围内，你将如何优化你的算法？</li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[堆](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]

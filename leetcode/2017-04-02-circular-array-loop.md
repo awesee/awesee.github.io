@@ -9,6 +9,8 @@ permalink:  /circular-array-loop/
 
 ## 457. 环形数组循环 (Medium)
 
+{% raw %}
+
 <p>给定一个含有正整数和负整数的<strong>环形</strong>数组&nbsp;<code>nums</code>。 如果某个索引中的数 <em>k</em>&nbsp;为正数，则向前移动 <em>k</em>&nbsp;个索引。相反，如果是负数 (<em>-k</em>)，则向后移动 <em>k</em>&nbsp;个索引。因为数组是环形的，所以可以假设最后一个元素的下一个元素是第一个元素，而第一个元素的前一个元素是最后一个元素。</p>
 
 <p>确定 <code>nums</code>&nbsp;中是否存在循环（或周期）。循环必须在相同的索引处开始和结束并且循环长度 &gt; 1。此外，一个循环中的所有运动都必须沿着同一方向进行。换句话说，一个循环中不能同时包括向前的运动和向后的运动。<br>
@@ -49,6 +51,8 @@ permalink:  /circular-array-loop/
 <p><strong>进阶：</strong></p>
 
 <p>你能写出时间时间复杂度为 <strong>O(n)</strong>&nbsp;和额外空间复杂度为 <strong>O(1)</strong> 的算法吗？</p>
+
+{% endraw %}
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]

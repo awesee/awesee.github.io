@@ -9,6 +9,8 @@ permalink:  /merge-k-sorted-lists/
 
 ## 23. 合并K个排序链表 (Hard)
 
+{% raw %}
+
 <p>合并&nbsp;<em>k&nbsp;</em>个排序链表，返回合并后的排序链表。请分析和描述算法的复杂度。</p>
 
 <p><strong>示例:</strong></p>
@@ -20,6 +22,8 @@ permalink:  /merge-k-sorted-lists/
 &nbsp; 2-&gt;6
 ]
 <strong>输出:</strong> 1-&gt;1-&gt;2-&gt;3-&gt;4-&gt;4-&gt;5-&gt;6</pre>
+
+{% endraw %}
 
 ### 相关话题
   [[堆](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]

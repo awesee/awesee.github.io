@@ -9,6 +9,8 @@ permalink:  /maximize-sum-of-array-after-k-negations/
 
 ## 1005. K 次取反后最大化的数组和 (Easy)
 
+{% raw %}
+
 <p>给定一个整数数组 A，我们<strong>只能</strong>用以下方法修改该数组：我们选择某个个索引 <code>i</code>&nbsp;并将 <code>A[i]</code> 替换为 <code>-A[i]</code>，然后总共重复这个过程 <code>K</code> 次。（我们可以多次选择同一个索引 <code>i</code>。）</p>
 
 <p>以这种方式修改数组后，返回数组可能的最大和。</p>
@@ -45,6 +47,8 @@ permalink:  /maximize-sum-of-array-after-k-negations/
 	<li><code>1 &lt;= K &lt;= 10000</code></li>
 	<li><code>-100 &lt;= A[i] &lt;= 100</code></li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]

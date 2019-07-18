@@ -9,6 +9,8 @@ permalink:  /backspace-string-compare/
 
 ## 844. 比较含退格的字符串 (Easy)
 
+{% raw %}
+
 <p>给定 <code>S</code> 和 <code>T</code> 两个字符串，当它们分别被输入到空白的文本编辑器后，判断二者是否相等，并返回结果。 <code>#</code> 代表退格字符。</p>
 
 <p>&nbsp;</p>
@@ -51,6 +53,8 @@ permalink:  /backspace-string-compare/
 </ol>
 
 <p>&nbsp;</p>
+
+{% endraw %}
 
 ### 相关话题
   [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]

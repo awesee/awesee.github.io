@@ -9,6 +9,8 @@ permalink:  /target-sum/
 
 ## 494. 目标和 (Medium)
 
+{% raw %}
+
 <p>给定一个非负整数数组，a1, a2, ..., an, 和一个目标数，S。现在你有两个符号&nbsp;<code>+</code>&nbsp;和&nbsp;<code>-</code>。对于数组中的任意一个整数，你都可以从&nbsp;<code>+</code>&nbsp;或&nbsp;<code>-</code>中选择一个符号添加在前面。</p>
 
 <p>返回可以使最终数组和为目标数 S 的所有添加符号的方法数。</p>
@@ -36,6 +38,8 @@ permalink:  /target-sum/
 	<li>初始的数组的和不会超过1000。</li>
 	<li>保证返回的最终结果为32位整数。</li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]

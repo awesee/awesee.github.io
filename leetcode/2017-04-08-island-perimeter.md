@@ -9,6 +9,8 @@ permalink:  /island-perimeter/
 
 ## 463. 岛屿的周长 (Easy)
 
+{% raw %}
+
 <p>给定一个包含 0 和 1 的二维网格地图，其中 1 表示陆地&nbsp;0 表示水域。</p>
 
 <p>网格中的格子水平和垂直方向相连（对角线方向不相连）。整个网格被水完全包围，但其中恰好有一个岛屿（或者说，一个或多个表示陆地的格子相连组成的岛屿）。</p>
@@ -31,6 +33,8 @@ permalink:  /island-perimeter/
 
 <img src="https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2018/10/12/island.png">
 </pre>
+
+{% endraw %}
 
 ### 相关话题
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]

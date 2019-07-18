@@ -9,6 +9,8 @@ permalink:  /letter-case-permutation/
 
 ## 784. 字母大小写全排列 (Easy)
 
+{% raw %}
+
 <p>给定一个字符串<code>S</code>，通过将字符串<code>S</code>中的每个字母转变大小写，我们可以获得一个新的字符串。返回所有可能得到的字符串集合。</p>
 
 <pre>
@@ -29,6 +31,8 @@ permalink:  /letter-case-permutation/
 	<li><code>S</code>&nbsp;的长度不超过<code>12</code>。</li>
 	<li><code>S</code>&nbsp;仅由数字和字母组成。</li>
 </ul>
+
+{% endraw %}
 
 ### 相关话题
   [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]

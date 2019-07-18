@@ -9,6 +9,8 @@ permalink:  /transpose-matrix/
 
 ## 867. 转置矩阵 (Easy)
 
+{% raw %}
+
 <p>给定一个矩阵&nbsp;<code>A</code>，&nbsp;返回&nbsp;<code>A</code>&nbsp;的转置矩阵。</p>
 
 <p>矩阵的转置是指将矩阵的主对角线翻转，交换矩阵的行索引与列索引。</p>
@@ -35,6 +37,8 @@ permalink:  /transpose-matrix/
 	<li><code>1 &lt;= A.length&nbsp;&lt;= 1000</code></li>
 	<li><code>1 &lt;= A[0].length&nbsp;&lt;= 1000</code></li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]

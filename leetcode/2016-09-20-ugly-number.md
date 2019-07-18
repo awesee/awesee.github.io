@@ -9,6 +9,8 @@ permalink:  /ugly-number/
 
 ## 263. 丑数 (Easy)
 
+{% raw %}
+
 <p>编写一个程序判断给定的数是否为丑数。</p>
 
 <p>丑数就是只包含质因数&nbsp;<code>2, 3, 5</code>&nbsp;的<strong>正整数</strong>。</p>
@@ -38,6 +40,8 @@ permalink:  /ugly-number/
 	<li><code>1</code>&nbsp;是丑数。</li>
 	<li>输入不会超过 32 位有符号整数的范围:&nbsp;[&minus;2<sup>31</sup>,&nbsp; 2<sup>31&nbsp;</sup>&minus; 1]。</li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]

@@ -9,6 +9,8 @@ permalink:  /design-circular-deque/
 
 ## 641. 设计循环双端队列 (Medium)
 
+{% raw %}
+
 <p>设计实现双端队列。<br>
 你的实现需要支持以下操作：</p>
 
@@ -47,6 +49,8 @@ circularDeque.getFront();				// 返回 4
 	<li>操作次数的范围为 [1, 1000]</li>
 	<li>请不要使用内置的双端队列库。</li>
 </ul>
+
+{% endraw %}
 
 ### 相关话题
   [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]

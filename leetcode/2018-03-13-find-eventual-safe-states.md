@@ -9,6 +9,8 @@ permalink:  /find-eventual-safe-states/
 
 ## 802. 找到最终的安全状态 (Medium)
 
+{% raw %}
+
 <p>在有向图中, 我们从某个节点和每个转向处开始, 沿着图的有向边走。 如果我们到达的节点是终点 (即它没有连出的有向边), 我们停止。</p>
 
 <p>现在, 如果我们最后能走到终点，那么我们的起始节点是<em>最终安全</em>的。 更具体地说, 存在一个自然数 <code>K</code>,&nbsp; 无论选择从哪里开始行走, 我们走了不到 <code>K</code> 步后必能停止在一个终点。</p>
@@ -34,6 +36,8 @@ permalink:  /find-eventual-safe-states/
 	<li>图的边数不会超过 <code>32000</code>.</li>
 	<li>每个 <code>graph[i]</code> 被排序为不同的整数列表， 在区间 <code>[0, graph.length - 1]</code>&nbsp;中选取。</li>
 </ul>
+
+{% endraw %}
 
 ### 相关话题
   [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]

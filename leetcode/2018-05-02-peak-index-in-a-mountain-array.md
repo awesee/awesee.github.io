@@ -9,6 +9,8 @@ permalink:  /peak-index-in-a-mountain-array/
 
 ## 852. 山脉数组的峰顶索引 (Easy)
 
+{% raw %}
+
 <p>我们把符合下列属性的数组&nbsp;<code>A</code>&nbsp;称作山脉：</p>
 
 <ul>
@@ -42,6 +44,8 @@ permalink:  /peak-index-in-a-mountain-array/
 </ol>
 
 <p>&nbsp;</p>
+
+{% endraw %}
 
 ### 相关话题
   [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]

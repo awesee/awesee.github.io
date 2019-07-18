@@ -9,6 +9,8 @@ permalink:  /maximum-length-of-pair-chain/
 
 ## 646. 最长数对链 (Medium)
 
+{% raw %}
+
 <p>给出&nbsp;<code>n</code>&nbsp;个数对。&nbsp;在每一个数对中，第一个数字总是比第二个数字小。</p>
 
 <p>现在，我们定义一种跟随关系，当且仅当&nbsp;<code>b &lt; c</code>&nbsp;时，数对<code>(c, d)</code>&nbsp;才可以跟在&nbsp;<code>(a, b)</code>&nbsp;后面。我们用这种形式来构造一个数对链。</p>
@@ -28,6 +30,8 @@ permalink:  /maximum-length-of-pair-chain/
 <ol>
 	<li>给出数对的个数在&nbsp;[1, 1000] 范围内。</li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]

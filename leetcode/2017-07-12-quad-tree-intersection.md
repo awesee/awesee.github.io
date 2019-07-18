@@ -9,6 +9,8 @@ permalink:  /quad-tree-intersection/
 
 ## 558. 四叉树交集 (Easy)
 
+{% raw %}
+
 <p>四叉树是一种树数据，其中每个结点恰好有四个子结点：<code>topLeft</code>、<code>topRight</code>、<code>bottomLeft</code>&nbsp;和&nbsp;<code>bottomRight</code>。四叉树通常被用来划分一个二维空间，递归地将其细分为四个象限或区域。</p>
 
 <p>我们希望在四叉树中存储 True/False 信息。四叉树用来表示 <code>N * N</code> 的布尔网格。对于每个结点, 它将被等分成四个孩子结点<strong>直到这个区域内的值都是相同的</strong>。每个节点都有另外两个布尔属性：<code>isLeaf</code>&nbsp;和&nbsp;<code>val</code>。当这个节点是一个叶子结点时&nbsp;<code>isLeaf</code>&nbsp;为真。<code>val</code>&nbsp;变量储存叶子结点所代表的区域的值。</p>
@@ -76,6 +78,8 @@ bottomRight: F
 	<li>如果你想了解更多关于四叉树的知识，你可以参考这个&nbsp;<a href="https://en.wikipedia.org/wiki/Quadtree">wiki</a>&nbsp;页面。</li>
 	<li>逻辑或的定义如下：如果&nbsp;<code>A 为 True</code> ，或者&nbsp;<code>B 为 True</code> ，或者&nbsp;<code>A 和 B 都为 True</code>，则 &quot;A 或 B&quot; 为 True。</li>
 </ol>
+
+{% endraw %}
 
 ---
 

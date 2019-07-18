@@ -9,6 +9,8 @@ permalink:  /find-mode-in-binary-search-tree/
 
 ## 501. 二叉搜索树中的众数 (Easy)
 
+{% raw %}
+
 <p>给定一个有相同值的二叉搜索树（BST），找出 BST 中的所有众数（出现频率最高的元素）。</p>
 
 <p>假定 BST 有如下定义：</p>
@@ -34,6 +36,8 @@ permalink:  /find-mode-in-binary-search-tree/
 <p><strong>提示</strong>：如果众数超过1个，不需考虑输出顺序</p>
 
 <p><strong>进阶：</strong>你可以不使用额外的空间吗？（假设由递归产生的隐式调用栈的开销不被计算在内）</p>
+
+{% endraw %}
 
 ### 相关话题
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]

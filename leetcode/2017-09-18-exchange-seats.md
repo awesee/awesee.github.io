@@ -9,6 +9,8 @@ permalink:  /exchange-seats/
 
 ## 626. 换座位 (Medium)
 
+{% raw %}
+
 <p>小美是一所中学的信息科技老师，她有一张 <code>seat</code>&nbsp;座位表，平时用来储存学生名字和与他们相对应的座位 id。</p>
 
 <p>其中纵列的&nbsp;<strong>id&nbsp;</strong>是连续递增的</p>
@@ -49,6 +51,8 @@ permalink:  /exchange-seats/
 <p><strong>注意：</strong></p>
 
 <p>如果学生人数是奇数，则不需要改变最后一个同学的座位。</p>
+
+{% endraw %}
 
 ---
 

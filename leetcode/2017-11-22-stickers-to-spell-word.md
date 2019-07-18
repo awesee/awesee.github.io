@@ -9,6 +9,8 @@ permalink:  /stickers-to-spell-word/
 
 ## 691. 贴纸拼词 (Hard)
 
+{% raw %}
+
 <p>我们给出了 N 种不同类型的贴纸。每个贴纸上都有一个小写的英文单词。</p>
 
 <p>你希望从自己的贴纸集合中裁剪单个字母并重新排列它们，从而拼写出给定的目标字符串 <code>target</code>。</p>
@@ -68,6 +70,8 @@ permalink:  /stickers-to-spell-word/
 </ul>
 
 <p>&nbsp;</p>
+
+{% endraw %}
 
 ### 相关话题
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]

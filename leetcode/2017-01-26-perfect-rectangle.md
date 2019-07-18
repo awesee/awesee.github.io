@@ -9,6 +9,8 @@ permalink:  /perfect-rectangle/
 
 ## 391. 完美矩形 (Hard)
 
+{% raw %}
+
 <p>我们有 N 个与坐标轴对齐的矩形, 其中 N &gt; 0, 判断它们是否能精确地覆盖一个矩形区域。</p>
 
 <p>每个矩形用左下角的点和右上角的点的坐标来表示。例如，&nbsp;一个单位正方形可以表示为 [1,1,2,2]。&nbsp;( 左下角的点的坐标为 (1, 1) 以及右上角的点的坐标为 (2, 2) )。</p>
@@ -75,6 +77,8 @@ permalink:  /perfect-rectangle/
 
 返回 false。因为中间有相交区域，虽然形成了矩形，但不是精确覆盖。
 </pre>
+
+{% endraw %}
 
 ### 相关话题
   [[Line Sweep](https://github.com/openset/leetcode/tree/master/tag/line-sweep/README.md)]

@@ -9,6 +9,8 @@ permalink:  /vowel-spellchecker/
 
 ## 966. 元音拼写检查器 (Medium)
 
+{% raw %}
+
 <p>在给定单词列表&nbsp;<code>wordlist</code>&nbsp;的情况下，我们希望实现一个拼写检查器，将查询单词转换为正确的单词。</p>
 
 <p>对于给定的查询单词&nbsp;<code>query</code>，拼写检查器将会处理两类拼写错误：</p>
@@ -59,6 +61,8 @@ permalink:  /vowel-spellchecker/
 	<li><code>1 &lt;= queries[i].length &lt;= 7</code></li>
 	<li><code>wordlist</code> 和&nbsp;<code>queries</code>&nbsp;中的所有字符串仅由<strong>英文</strong>字母组成。</li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]

@@ -9,6 +9,8 @@ permalink:  /counting-bits/
 
 ## 338. 比特位计数 (Medium)
 
+{% raw %}
+
 <p>给定一个非负整数&nbsp;<strong>num</strong>。对于&nbsp;<strong>0 &le; i &le; num </strong>范围中的每个数字&nbsp;<strong>i&nbsp;</strong>，计算其二进制数中的 1 的数目并将它们作为数组返回。</p>
 
 <p><strong>示例 1:</strong></p>
@@ -28,6 +30,8 @@ permalink:  /counting-bits/
 	<li>要求算法的空间复杂度为<strong>O(n)</strong>。</li>
 	<li>你能进一步完善解法吗？要求在C++或任何其他语言中不使用任何内置函数（如 C++ 中的&nbsp;<strong>__builtin_popcount</strong>）来执行此操作。</li>
 </ul>
+
+{% endraw %}
 
 ### 相关话题
   [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]

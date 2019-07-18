@@ -9,6 +9,8 @@ permalink:  /add-to-array-form-of-integer/
 
 ## 989. 数组形式的整数加法 (Easy)
 
+{% raw %}
+
 <p>对于非负整数&nbsp;<code>X</code>&nbsp;而言，<em><code>X</code></em>&nbsp;的<em>数组形式</em>是每位数字按从左到右的顺序形成的数组。例如，如果&nbsp;<code>X = 1231</code>，那么其数组形式为&nbsp;<code>[1,2,3,1]</code>。</p>
 
 <p>给定非负整数 <code>X</code> 的数组形式&nbsp;<code>A</code>，返回整数&nbsp;<code>X+K</code>&nbsp;的数组形式。</p>
@@ -56,6 +58,8 @@ permalink:  /add-to-array-form-of-integer/
 	<li><code>0 &lt;= K &lt;= 10000</code></li>
 	<li>如果&nbsp;<code>A.length &gt; 1</code>，那么&nbsp;<code>A[0] != 0</code></li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]

@@ -9,6 +9,8 @@ permalink:  /contains-duplicate-ii/
 
 ## 219. 存在重复元素 II (Easy)
 
+{% raw %}
+
 <p>给定一个整数数组和一个整数&nbsp;<em>k</em>，判断数组中是否存在两个不同的索引<em>&nbsp;i</em>&nbsp;和<em>&nbsp;j</em>，使得&nbsp;<strong>nums [i] = nums [j]</strong>，并且 <em>i</em> 和 <em>j</em>&nbsp;的差的绝对值最大为 <em>k</em>。</p>
 
 <p><strong>示例&nbsp;1:</strong></p>
@@ -25,6 +27,8 @@ permalink:  /contains-duplicate-ii/
 
 <pre><strong>输入: </strong>nums = [1,2,3,1,2,3], k<em> </em>=<em> </em>2
 <strong>输出:</strong> false</pre>
+
+{% endraw %}
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]

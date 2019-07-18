@@ -9,6 +9,8 @@ permalink:  /split-linked-list-in-parts/
 
 ## 725. 分隔链表 (Medium)
 
+{% raw %}
+
 <p>给定一个头结点为 <code>root</code> 的链表, 编写一个函数以将链表分隔为 <code>k</code> 个连续的部分。</p>
 
 <p>每部分的长度应该尽可能的相等: 任意两部分的长度差距不能超过 1，也就是说可能有些部分为 null。</p>
@@ -53,6 +55,8 @@ root = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10], k = 3
 </ul>
 
 <p>&nbsp;</p>
+
+{% endraw %}
 
 ### 相关话题
   [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]

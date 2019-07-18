@@ -9,6 +9,8 @@ permalink:  /find-minimum-in-rotated-sorted-array/
 
 ## 153. 寻找旋转排序数组中的最小值 (Medium)
 
+{% raw %}
+
 <p>假设按照升序排序的数组在预先未知的某个点上进行了旋转。</p>
 
 <p>( 例如，数组&nbsp;<code>[0,1,2,4,5,6,7]</code> <strong> </strong>可能变为&nbsp;<code>[4,5,6,7,0,1,2]</code>&nbsp;)。</p>
@@ -26,6 +28,8 @@ permalink:  /find-minimum-in-rotated-sorted-array/
 
 <pre><strong>输入:</strong> [4,5,6,7,0,1,2]
 <strong>输出:</strong> 0</pre>
+
+{% endraw %}
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]

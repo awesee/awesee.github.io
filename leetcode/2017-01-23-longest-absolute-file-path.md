@@ -9,6 +9,8 @@ permalink:  /longest-absolute-file-path/
 
 ## 388. 文件的最长绝对路径 (Medium)
 
+{% raw %}
+
 <p>假设我们以下述方式将我们的文件系统抽象成一个字符串:</p>
 
 <p>字符串&nbsp;<code>&quot;dir\n\tsubdir1\n\tsubdir2\n\t\tfile.ext&quot;</code> 表示:</p>
@@ -50,6 +52,8 @@ dir
 <p>要求时间复杂度为&nbsp;<code>O(n)</code>&nbsp;，其中&nbsp;<code>n</code> 是输入字符串的大小。</p>
 
 <p>请注意，如果存在路径&nbsp;<code>aaaaaaaaaaaaaaaaaaaaa/sth.png</code>&nbsp;的话，那么&nbsp;&nbsp;<code>a/aa/aaa/file1.txt</code>&nbsp;就不是一个最长的路径。</p>
+
+{% endraw %}
 
 ---
 

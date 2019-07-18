@@ -9,6 +9,8 @@ permalink:  /robot-return-to-origin/
 
 ## 657. 机器人能否返回原点 (Easy)
 
+{% raw %}
+
 <p>在二维平面上，有一个机器人从原点 (0, 0) 开始。给出它的移动顺序，判断这个机器人在完成移动后是否在<strong>&nbsp;(0, 0) 处结束</strong>。</p>
 
 <p>移动顺序由字符串表示。字符 move[i] 表示其第 i 次移动。机器人的有效动作有&nbsp;<code>R</code>（右），<code>L</code>（左），<code>U</code>（上）和 <code>D</code>（下）。如果机器人在完成所有动作后返回原点，则返回 true。否则，返回 false。</p>
@@ -28,6 +30,8 @@ permalink:  /robot-return-to-origin/
 <pre><strong>输入:</strong> &quot;LL&quot;
 <strong>输出:</strong> false
 <strong>解释：</strong>机器人向左移动两次。它最终位于原点的左侧，距原点有两次 &ldquo;移动&rdquo; 的距离。我们返回 false，因为它在移动结束时没有返回原点。</pre>
+
+{% endraw %}
 
 ### 相关话题
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]

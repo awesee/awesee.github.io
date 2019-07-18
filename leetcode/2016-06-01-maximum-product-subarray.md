@@ -9,6 +9,8 @@ permalink:  /maximum-product-subarray/
 
 ## 152. 乘积最大子序列 (Medium)
 
+{% raw %}
+
 <p>给定一个整数数组 <code>nums</code>&nbsp;，找出一个序列中乘积最大的连续子序列（该序列至少包含一个数）。</p>
 
 <p><strong>示例 1:</strong></p>
@@ -23,6 +25,8 @@ permalink:  /maximum-product-subarray/
 <pre><strong>输入:</strong> [-2,0,-1]
 <strong>输出:</strong> 0
 <strong>解释:</strong>&nbsp;结果不能为 2, 因为 [-2,-1] 不是子数组。</pre>
+
+{% endraw %}
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]

@@ -9,6 +9,8 @@ permalink:  /clone-graph/
 
 ## 133. 克隆图 (Medium)
 
+{% raw %}
+
 <p>给定无向<a href="https://baike.baidu.com/item/连通图/6460995?fr=aladdin" target="_blank"><strong>连通</strong></a>图中一个节点的引用，返回该图的<a href="https://baike.baidu.com/item/深拷贝/22785317?fr=aladdin" target="_blank"><strong>深拷贝</strong></a>（克隆）。图中的每个节点都包含它的值 <code>val</code>（<code>Int</code>） 和其邻居的列表（<code>list[Node]</code>）。</p>
 
 <p><strong>示例：</strong></p>
@@ -35,6 +37,8 @@ permalink:  /clone-graph/
 	<li>由于图是无向的，如果节点 <em>p</em> 是节点 <em>q</em> 的邻居，那么节点 <em>q</em> 也必须是节点 <em>p</em>&nbsp;的邻居。</li>
 	<li>必须将<strong>给定节点的拷贝</strong>作为对克隆图的引用返回。</li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]

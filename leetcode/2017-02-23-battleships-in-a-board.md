@@ -9,6 +9,8 @@ permalink:  /battleships-in-a-board/
 
 ## 419. 甲板上的战舰 (Medium)
 
+{% raw %}
+
 <p>给定一个二维的甲板， 请计算其中有多少艘战舰。&nbsp;战舰用&nbsp;<code>&#39;X&#39;</code>表示，空位用&nbsp;<code>&#39;.&#39;</code>表示。&nbsp;你需要遵守以下规则：</p>
 
 <ul>
@@ -40,6 +42,8 @@ XXXX
 <p><strong>进阶:</strong></p>
 
 <p>你可以用<strong>一次扫描算法</strong>，只使用<strong>O(1)额外空间，</strong>并且<strong>不修改</strong>甲板的值来解决这个问题吗？</p>
+
+{% endraw %}
 
 ---
 

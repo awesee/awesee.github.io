@@ -9,6 +9,8 @@ permalink:  /unique-paths-iii/
 
 ## 980. 不同路径 III (Hard)
 
+{% raw %}
+
 <p>在二维网格 <code>grid</code> 上，有 4 种类型的方格：</p>
 
 <ul>
@@ -56,6 +58,8 @@ permalink:  /unique-paths-iii/
 <ol>
 	<li><code>1 &lt;= grid.length * grid[0].length &lt;= 20</code></li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]

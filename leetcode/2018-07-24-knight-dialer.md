@@ -9,6 +9,8 @@ permalink:  /knight-dialer/
 
 ## 935. 骑士拨号器 (Medium)
 
+{% raw %}
+
 <p>国际象棋中的骑士可以按下图所示进行移动：</p>
 
 <p><img alt="" src="https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2018/11/03/knight.png" style="height: 150px; width: 150px;">&nbsp;.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img alt="" src="https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2018/11/03/keypad.png" style="height: 150px; width: 134px;"></p>
@@ -52,6 +54,8 @@ permalink:  /knight-dialer/
 <ul>
 	<li><code>1 &lt;= N &lt;= 5000</code></li>
 </ul>
+
+{% endraw %}
 
 ### 相关话题
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]

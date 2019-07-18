@@ -9,6 +9,8 @@ permalink:  /falling-squares/
 
 ## 699. 掉落的方块 (Hard)
 
+{% raw %}
+
 <p>在无限长的数轴（即 x 轴）上，我们根据给定的顺序放置对应的正方形方块。</p>
 
 <p>第 <code>i</code> 个掉落的方块（<code>positions[i] = (left, side_length)</code>）是正方形，其中&nbsp;<code>left 表示该方块最左边的点位置(positions[i][0])，side_length 表示该方块的边长(positions[i][1])。</code></p>
@@ -79,6 +81,8 @@ _aa___a
 </ul>
 
 <p>&nbsp;</p>
+
+{% endraw %}
 
 ### 相关话题
   [[线段树](https://github.com/openset/leetcode/tree/master/tag/segment-tree/README.md)]

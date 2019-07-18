@@ -9,6 +9,8 @@ permalink:  /climbing-stairs/
 
 ## 70. 爬楼梯 (Easy)
 
+{% raw %}
+
 <p>假设你正在爬楼梯。需要 <em>n</em>&nbsp;阶你才能到达楼顶。</p>
 
 <p>每次你可以爬 1 或 2 个台阶。你有多少种不同的方法可以爬到楼顶呢？</p>
@@ -32,6 +34,8 @@ permalink:  /climbing-stairs/
 2.  1 阶 + 2 阶
 3.  2 阶 + 1 阶
 </pre>
+
+{% endraw %}
 
 ### 相关话题
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]

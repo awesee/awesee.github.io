@@ -9,6 +9,8 @@ permalink:  /remove-k-digits/
 
 ## 402. 移掉K位数字 (Medium)
 
+{% raw %}
+
 <p>给定一个以字符串表示的非负整数&nbsp;<em>num</em>，移除这个数中的 <em>k </em>位数字，使得剩下的数字最小。</p>
 
 <p><strong>注意:</strong></p>
@@ -41,6 +43,8 @@ permalink:  /remove-k-digits/
 输出: &quot;0&quot;
 解释: 从原数字移除所有的数字，剩余为空就是0。
 </pre>
+
+{% endraw %}
 
 ### 相关话题
   [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]

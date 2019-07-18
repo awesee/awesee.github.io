@@ -9,6 +9,8 @@ permalink:  /insufficient-nodes-in-root-to-leaf-paths/
 
 ## 1080. 根到叶路径上的不足节点 (Medium)
 
+{% raw %}
+
 <p>给定一棵二叉树的根 <code>root</code>，请你考虑它所有&nbsp;<strong>从根到叶的路径</strong>：从根到任何叶的路径。（所谓一个叶子节点，就是一个没有子节点的节点）</p>
 
 <p>假如通过节点 <code>node</code> 的每种可能的 &ldquo;根-叶&rdquo; 路径上值的总和全都小于给定的 <code>limit</code>，则该节点被称之为「不足节点」，需要被删除。</p>
@@ -49,6 +51,8 @@ permalink:  /insufficient-nodes-in-root-to-leaf-paths/
 </ol>
 
 <p>&nbsp;</p>
+
+{% endraw %}
 
 ### 相关话题
   [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]

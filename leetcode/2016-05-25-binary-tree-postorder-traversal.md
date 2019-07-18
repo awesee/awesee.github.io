@@ -9,6 +9,8 @@ permalink:  /binary-tree-postorder-traversal/
 
 ## 145. 二叉树的后序遍历 (Hard)
 
+{% raw %}
+
 <p>给定一个二叉树，返回它的 <em>后序&nbsp;</em>遍历。</p>
 
 <p><strong>示例:</strong></p>
@@ -23,6 +25,8 @@ permalink:  /binary-tree-postorder-traversal/
 <strong>输出:</strong> [3,2,1]</pre>
 
 <p><strong>进阶:</strong>&nbsp;递归算法很简单，你可以通过迭代算法完成吗？</p>
+
+{% endraw %}
 
 ### 相关话题
   [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]

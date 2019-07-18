@@ -9,6 +9,8 @@ permalink:  /binary-search-tree-to-greater-sum-tree/
 
 ## 1038. 从二叉搜索树到更大和树 (Medium)
 
+{% raw %}
+
 <p>给出二叉<strong>搜索</strong>树的根节点，该二叉树的节点值各不相同，修改二叉树，使每个节点 <code>node</code>&nbsp;的新值等于原树中大于或等于&nbsp;<code>node.val</code>&nbsp;的值之和。</p>
 
 <p>提醒一下，二叉搜索树满足下列约束条件：</p>
@@ -40,6 +42,8 @@ permalink:  /binary-search-tree-to-greater-sum-tree/
 </ol>
 
 <p>&nbsp;</p>
+
+{% endraw %}
 
 ### 相关话题
   [[二叉搜索树](https://github.com/openset/leetcode/tree/master/tag/binary-search-tree/README.md)]

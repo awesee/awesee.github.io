@@ -9,6 +9,8 @@ permalink:  /find-bottom-left-tree-value/
 
 ## 513. 找树左下角的值 (Medium)
 
+{% raw %}
+
 <p>给定一个二叉树，在树的最后一行找到最左边的值。</p>
 
 <p><strong>示例 1:</strong></p>
@@ -46,6 +48,8 @@ permalink:  /find-bottom-left-tree-value/
 <p>&nbsp;</p>
 
 <p><strong>注意:</strong> 您可以假设树（即给定的根节点）不为 <strong>NULL</strong>。</p>
+
+{% endraw %}
 
 ### 相关话题
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]

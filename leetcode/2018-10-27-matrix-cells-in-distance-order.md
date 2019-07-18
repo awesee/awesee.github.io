@@ -9,6 +9,8 @@ permalink:  /matrix-cells-in-distance-order/
 
 ## 1030. 距离顺序排列矩阵单元格 (Easy)
 
+{% raw %}
+
 <p>给出 <code>R</code> 行 <code>C</code> 列的矩阵，其中的单元格的整数坐标为 <code>(r, c)</code>，满足 <code>0 &lt;= r &lt; R</code> 且 <code>0 &lt;= c &lt; C</code>。</p>
 
 <p>另外，我们在该矩阵中给出了一个坐标为&nbsp;<code>(r0, c0)</code> 的单元格。</p>
@@ -50,6 +52,8 @@ permalink:  /matrix-cells-in-distance-order/
 	<li><code>0 &lt;= r0 &lt; R</code></li>
 	<li><code>0 &lt;= c0 &lt; C</code></li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]

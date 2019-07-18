@@ -9,6 +9,8 @@ permalink:  /integer-replacement/
 
 ## 397. 整数替换 (Medium)
 
+{% raw %}
+
 <p>给定一个正整数&nbsp;<em>n</em>，你可以做如下操作：</p>
 
 <p>1. 如果&nbsp;<em>n&nbsp;</em>是偶数，则用&nbsp;<code>n / 2</code>替换&nbsp;<em>n</em>。<br />
@@ -42,6 +44,8 @@ permalink:  /integer-replacement/
 或
 7 -&gt; 6 -&gt; 3 -&gt; 2 -&gt; 1
 </pre>
+
+{% endraw %}
 
 ### 相关话题
   [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]

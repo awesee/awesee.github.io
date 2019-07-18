@@ -9,6 +9,8 @@ permalink:  /best-sightseeing-pair/
 
 ## 1014. 最佳观光组合 (Medium)
 
+{% raw %}
+
 <p>给定正整数数组&nbsp;<code>A</code>，<code>A[i]</code>&nbsp;表示第 <code>i</code> 个观光景点的评分，并且两个景点&nbsp;<code>i</code> 和&nbsp;<code>j</code>&nbsp;之间的距离为&nbsp;<code>j - i</code>。</p>
 
 <p>一对景点（<code>i &lt; j</code>）组成的观光组合的得分为（<code>A[i] + A[j] + i&nbsp;- j</code>）：景点的评分之和<strong>减去</strong>它们两者之间的距离。</p>
@@ -32,6 +34,8 @@ permalink:  /best-sightseeing-pair/
 	<li><code>2 &lt;= A.length &lt;= 50000</code></li>
 	<li><code>1 &lt;= A[i] &lt;= 1000</code></li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
