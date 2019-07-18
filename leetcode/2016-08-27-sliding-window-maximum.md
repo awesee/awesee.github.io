@@ -9,6 +9,8 @@ permalink:  /sliding-window-maximum/
 
 ## 239. 滑动窗口最大值 (Hard)
 
+{% raw %}
+
 <p>给定一个数组 <em>nums</em>，有一个大小为&nbsp;<em>k&nbsp;</em>的滑动窗口从数组的最左侧移动到数组的最右侧。你只可以看到在滑动窗口 <em>k</em> 内的数字。滑动窗口每次只向右移动一位。</p>
 
 <p>返回滑动窗口最大值。</p>
@@ -35,6 +37,8 @@ permalink:  /sliding-window-maximum/
 <p><strong>进阶：</strong></p>
 
 <p>你能在线性时间复杂度内解决此题吗？</p>
+
+{% endraw %}
 
 ### 相关话题
   [[堆](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]

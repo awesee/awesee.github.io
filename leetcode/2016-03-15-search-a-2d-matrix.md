@@ -9,6 +9,8 @@ permalink:  /search-a-2d-matrix/
 
 ## 74. 搜索二维矩阵 (Medium)
 
+{% raw %}
+
 <p>编写一个高效的算法来判断&nbsp;<em>m</em> x <em>n</em>&nbsp;矩阵中，是否存在一个目标值。该矩阵具有如下特性：</p>
 
 <ul>
@@ -38,6 +40,8 @@ matrix = [
 ]
 target = 13
 <strong>输出:</strong> false</pre>
+
+{% endraw %}
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]

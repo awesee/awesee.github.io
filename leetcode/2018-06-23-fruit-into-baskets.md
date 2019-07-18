@@ -9,6 +9,8 @@ permalink:  /fruit-into-baskets/
 
 ## 904. 水果成篮 (Medium)
 
+{% raw %}
+
 <p>在一排树中，第 <code>i</code> 棵树产生&nbsp;<code>tree[i]</code> 型的水果。<br>
 你可以<strong>从你选择的任何树开始</strong>，然后重复执行以下步骤：</p>
 
@@ -63,6 +65,8 @@ permalink:  /fruit-into-baskets/
 	<li><code>1 &lt;= tree.length &lt;= 40000</code></li>
 	<li><code>0 &lt;= tree[i] &lt; tree.length</code></li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]

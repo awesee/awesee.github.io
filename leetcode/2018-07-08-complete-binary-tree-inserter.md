@@ -9,6 +9,8 @@ permalink:  /complete-binary-tree-inserter/
 
 ## 919. 完全二叉树插入器 (Medium)
 
+{% raw %}
+
 <p>完全二叉树是每一层（除最后一层外）都是完全填充（即，结点数达到最大）的，并且所有的结点都尽可能地集中在左侧。</p>
 
 <p>设计一个用完全二叉树初始化的数据结构&nbsp;<code>CBTInserter</code>，它支持以下几种操作：</p>
@@ -45,6 +47,8 @@ permalink:  /complete-binary-tree-inserter/
 	<li>每个测试用例最多调用&nbsp;<code>CBTInserter.insert</code>&nbsp; 操作&nbsp;<code>10000</code>&nbsp;次。</li>
 	<li>给定结点或插入结点的每个值都在&nbsp;<code>0</code>&nbsp;到&nbsp;<code>5000</code>&nbsp;之间。</li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]

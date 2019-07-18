@@ -9,6 +9,8 @@ permalink:  /additive-number/
 
 ## 306. 累加数 (Medium)
 
+{% raw %}
+
 <p>累加数是一个字符串，组成它的数字可以形成累加序列。</p>
 
 <p>一个有效的累加序列必须<strong>至少</strong>包含 3 个数。除了最开始的两个数以外，字符串中的其他数都等于它之前两个数相加的和。</p>
@@ -32,6 +34,8 @@ permalink:  /additive-number/
 
 <p><strong>进阶:</strong><br>
 你如何处理一个溢出的过大的整数输入?</p>
+
+{% endraw %}
 
 ### 相关话题
   [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]

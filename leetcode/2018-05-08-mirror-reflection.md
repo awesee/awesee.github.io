@@ -9,6 +9,8 @@ permalink:  /mirror-reflection/
 
 ## 858. 镜面反射 (Medium)
 
+{% raw %}
+
 <p>有一个特殊的正方形房间，每面墙上都有一面镜子。除西南角以外，每个角落都放有一个接受器，编号为&nbsp;<code>0</code>，&nbsp;<code>1</code>，以及&nbsp;<code>2</code>。</p>
 
 <p>正方形房间的墙壁长度为&nbsp;<code>p</code>，一束激光从西南角射出，首先会与东墙相遇，入射点到接收器 <code>0</code> 的距离为 <code>q</code> 。</p>
@@ -32,6 +34,8 @@ permalink:  /mirror-reflection/
 	<li><code>1 &lt;= p &lt;= 1000</code></li>
 	<li><code>0 &lt;= q &lt;= p</code></li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]

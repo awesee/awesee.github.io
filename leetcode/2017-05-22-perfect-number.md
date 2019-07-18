@@ -9,6 +9,8 @@ permalink:  /perfect-number/
 
 ## 507. 完美数 (Easy)
 
+{% raw %}
+
 <p>对于一个&nbsp;<strong>正整数</strong>，如果它和除了它自身以外的所有正因子之和相等，我们称它为&ldquo;完美数&rdquo;。</p>
 
 <p>给定一个&nbsp;<strong>正整数&nbsp;</strong><code>n</code>，&nbsp;如果他是完美数，返回&nbsp;<code>True</code>，否则返回&nbsp;<code>False</code></p>
@@ -28,6 +30,8 @@ permalink:  /perfect-number/
 <p><strong>注意:</strong></p>
 
 <p>输入的数字&nbsp;<strong><code>n</code></strong> 不会超过 100,000,000. (1e8)</p>
+
+{% endraw %}
 
 ### 相关话题
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]

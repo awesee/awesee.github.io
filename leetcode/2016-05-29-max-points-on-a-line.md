@@ -9,6 +9,8 @@ permalink:  /max-points-on-a-line/
 
 ## 149. 直线上最多的点数 (Hard)
 
+{% raw %}
+
 <p>给定一个二维平面，平面上有&nbsp;<em>n&nbsp;</em>个点，求最多有多少个点在同一条直线上。</p>
 
 <p><strong>示例 1:</strong></p>
@@ -38,6 +40,8 @@ permalink:  /max-points-on-a-line/
 | &nbsp;o &nbsp;      o
 +-------------------&gt;
 0 &nbsp;1 &nbsp;2 &nbsp;3 &nbsp;4 &nbsp;5 &nbsp;6</pre>
+
+{% endraw %}
 
 ### 相关话题
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]

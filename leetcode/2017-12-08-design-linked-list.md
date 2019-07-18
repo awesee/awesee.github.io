@@ -9,6 +9,8 @@ permalink:  /design-linked-list/
 
 ## 707. 设计链表 (Easy)
 
+{% raw %}
+
 <p>设计链表的实现。您可以选择使用单链表或双链表。单链表中的节点应该具有两个属性：<code>val</code>&nbsp;和&nbsp;<code>next</code>。<code>val</code>&nbsp;是当前节点的值，<code>next</code>&nbsp;是指向下一个节点的指针/引用。如果要使用双向链表，则还需要一个属性&nbsp;<code>prev</code>&nbsp;以指示链表中的上一个节点。假设链表中的所有节点都是 0-index 的。</p>
 
 <p>在链表类中实现这些功能：</p>
@@ -43,6 +45,8 @@ linkedList.get(1);            //返回3
 	<li>操作次数将在&nbsp;&nbsp;<code>[1, 1000]</code>&nbsp;之内。</li>
 	<li>请不要使用内置的 LinkedList 库。</li>
 </ul>
+
+{% endraw %}
 
 ### 相关话题
   [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]

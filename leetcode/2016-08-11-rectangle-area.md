@@ -9,6 +9,8 @@ permalink:  /rectangle-area/
 
 ## 223. 矩形面积 (Medium)
 
+{% raw %}
+
 <p>在<strong>二维</strong>平面上计算出两个<strong>由直线构成的</strong>矩形重叠后形成的总面积。</p>
 
 <p>每个矩形由其左下顶点和右上顶点坐标表示，如图所示。</p>
@@ -21,6 +23,8 @@ permalink:  /rectangle-area/
 <strong>输出:</strong> 45</pre>
 
 <p><strong>说明:</strong> 假设矩形面积不会超出&nbsp;<strong>int&nbsp;</strong>的范围。</p>
+
+{% endraw %}
 
 ### 相关话题
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]

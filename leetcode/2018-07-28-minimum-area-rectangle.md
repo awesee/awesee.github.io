@@ -9,6 +9,8 @@ permalink:  /minimum-area-rectangle/
 
 ## 939. 最小面积矩形 (Medium)
 
+{% raw %}
+
 <p>给定在 xy 平面上的一组点，确定由这些点组成的矩形的最小面积，其中矩形的边平行于 x 轴和 y 轴。</p>
 
 <p>如果没有任何矩形，就返回 0。</p>
@@ -37,6 +39,8 @@ permalink:  /minimum-area-rectangle/
 	<li><code>0 &lt;=&nbsp;points[i][1] &lt;=&nbsp;40000</code></li>
 	<li>所有的点都是不同的。</li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]

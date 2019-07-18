@@ -9,6 +9,8 @@ permalink:  /online-stock-span/
 
 ## 901. 股票价格跨度 (Medium)
 
+{% raw %}
+
 <p>编写一个 <code>StockSpanner</code> 类，它收集某些股票的每日报价，并返回该股票当日价格的跨度。</p>
 
 <p>今天股票价格的跨度被定义为股票价格小于或等于今天价格的最大连续日数（从今天开始往回数，包括今天）。</p>
@@ -45,6 +47,8 @@ S.next(85) 被调用并返回 6。
 	<li>在所有测试用例中，最多调用&nbsp;<code>150000</code>&nbsp;次&nbsp;<code>StockSpanner.next</code>。</li>
 	<li>此问题的总时间限制减少了 50%。</li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]

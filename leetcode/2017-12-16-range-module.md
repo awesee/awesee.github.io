@@ -9,6 +9,8 @@ permalink:  /range-module/
 
 ## 715. Range 模块 (Hard)
 
+{% raw %}
+
 <p>Range 模块是跟踪数字范围的模块。你的任务是以一种有效的方式设计和实现以下接口。</p>
 
 <ul>
@@ -41,6 +43,8 @@ permalink:  /range-module/
 </ul>
 
 <p>&nbsp;</p>
+
+{% endraw %}
 
 ### 相关话题
   [[线段树](https://github.com/openset/leetcode/tree/master/tag/segment-tree/README.md)]

@@ -9,6 +9,8 @@ permalink:  /stream-of-characters/
 
 ## 1032. 字符流 (Hard)
 
+{% raw %}
+
 <p>按下述要求实现 <code>StreamChecker</code> 类：</p>
 
 <ul>
@@ -45,6 +47,8 @@ streamChecker.query(&#39;l&#39;);          // 返回 true，因为 &#39;kl&#39; 
 	<li>待查项只包含小写英文字母。</li>
 	<li>待查项最多 40000 个。</li>
 </ul>
+
+{% endraw %}
 
 ### 相关话题
   [[字典树](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)]

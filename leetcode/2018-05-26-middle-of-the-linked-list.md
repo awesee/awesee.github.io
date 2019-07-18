@@ -9,6 +9,8 @@ permalink:  /middle-of-the-linked-list/
 
 ## 876. 链表的中间结点 (Easy)
 
+{% raw %}
+
 <p>给定一个带有头结点&nbsp;<code>head</code>&nbsp;的非空单链表，返回链表的中间结点。</p>
 
 <p>如果有两个中间结点，则返回第二个中间结点。</p>
@@ -38,6 +40,8 @@ ans.val = 3, ans.next.val = 4, ans.next.next.val = 5, 以及 ans.next.next.next 
 <ul>
 	<li>给定链表的结点数介于&nbsp;<code>1</code>&nbsp;和&nbsp;<code>100</code>&nbsp;之间。</li>
 </ul>
+
+{% endraw %}
 
 ### 相关话题
   [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]

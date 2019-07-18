@@ -9,6 +9,8 @@ permalink:  /dota2-senate/
 
 ## 649. Dota2 参议院 (Medium)
 
+{% raw %}
+
 <p>&nbsp;Dota2 的世界里有两个阵营：<code>Radiant</code>(天辉)和&nbsp;<code>Dire</code>(夜魇)</p>
 
 <p>Dota2 参议院由来自两派的参议员组成。现在参议院希望对一个 Dota2 游戏里的改变作出决定。他们以一个基于轮为过程的投票进行。在每一轮中，每一位参议员都可以行使两项权利中的<code><strong>一</strong></code>项：</p>
@@ -62,6 +64,8 @@ permalink:  /dota2-senate/
 </ol>
 
 <p>&nbsp;</p>
+
+{% endraw %}
 
 ### 相关话题
   [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]

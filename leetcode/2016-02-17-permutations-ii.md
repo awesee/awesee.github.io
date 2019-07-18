@@ -9,6 +9,8 @@ permalink:  /permutations-ii/
 
 ## 47. 全排列 II (Medium)
 
+{% raw %}
+
 <p>给定一个可包含重复数字的序列，返回所有不重复的全排列。</p>
 
 <p><strong>示例:</strong></p>
@@ -20,6 +22,8 @@ permalink:  /permutations-ii/
   [1,2,1],
   [2,1,1]
 ]</pre>
+
+{% endraw %}
 
 ### 相关话题
   [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]

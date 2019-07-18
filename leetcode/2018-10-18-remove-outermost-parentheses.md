@@ -9,6 +9,8 @@ permalink:  /remove-outermost-parentheses/
 
 ## 1021. 删除最外层的括号 (Easy)
 
+{% raw %}
+
 <p>有效括号字符串为空&nbsp;<code>(&quot;&quot;)</code>、<code>&quot;(&quot; + A + &quot;)&quot;</code>&nbsp;或&nbsp;<code>A + B</code>，其中&nbsp;<code>A</code> 和&nbsp;<code>B</code>&nbsp;都是有效的括号字符串，<code>+</code>&nbsp;代表字符串的连接。例如，<code>&quot;&quot;</code>，<code>&quot;()&quot;</code>，<code>&quot;(())()&quot;</code>&nbsp;和&nbsp;<code>&quot;(()(()))&quot;</code>&nbsp;都是有效的括号字符串。</p>
 
 <p>如果有效字符串&nbsp;<code>S</code>&nbsp;非空，且不存在将其拆分为&nbsp;<code>S = A+B</code>&nbsp;的方法，我们称其为<strong>原语（primitive）</strong>，其中&nbsp;<code>A</code> 和&nbsp;<code>B</code>&nbsp;都是非空有效括号字符串。</p>
@@ -54,6 +56,8 @@ permalink:  /remove-outermost-parentheses/
 	<li><code>S[i]</code> 为&nbsp;<code>&quot;(&quot;</code> 或&nbsp;<code>&quot;)&quot;</code></li>
 	<li><code>S</code> 是一个有效括号字符串</li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]

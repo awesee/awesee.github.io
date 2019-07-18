@@ -9,6 +9,8 @@ permalink:  /rotate-list/
 
 ## 61. 旋转链表 (Medium)
 
+{% raw %}
+
 <p>给定一个链表，旋转链表，将链表每个节点向右移动&nbsp;<em>k&nbsp;</em>个位置，其中&nbsp;<em>k&nbsp;</em>是非负数。</p>
 
 <p><strong>示例&nbsp;1:</strong></p>
@@ -29,6 +31,8 @@ permalink:  /rotate-list/
 向右旋转 2 步: 1-&gt;2-&gt;0-&gt;NULL
 向右旋转 3 步:&nbsp;<code>0-&gt;1-&gt;2-&gt;NULL</code>
 向右旋转 4 步:&nbsp;<code>2-&gt;0-&gt;1-&gt;NULL</code></pre>
+
+{% endraw %}
 
 ### 相关话题
   [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]

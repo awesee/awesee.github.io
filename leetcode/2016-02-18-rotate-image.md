@@ -9,6 +9,8 @@ permalink:  /rotate-image/
 
 ## 48. 旋转图像 (Medium)
 
+{% raw %}
+
 <p>给定一个 <em>n&nbsp;</em>&times;&nbsp;<em>n</em> 的二维矩阵表示一个图像。</p>
 
 <p>将图像顺时针旋转 90 度。</p>
@@ -52,6 +54,8 @@ permalink:  /rotate-image/
   [16, 7,10,11]
 ]
 </pre>
+
+{% endraw %}
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]

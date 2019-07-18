@@ -9,6 +9,8 @@ permalink:  /simplify-path/
 
 ## 71. 简化路径 (Medium)
 
+{% raw %}
+
 <p>以 Unix 风格给出一个文件的<strong>绝对路径</strong>，你需要简化它。或者换句话说，将其转换为规范路径。</p>
 
 <p>在 Unix 风格的文件系统中，一个点（<code>.</code>）表示当前目录本身；此外，两个点 （<code>..</code>）&nbsp;表示将目录切换到上一级（指向父目录）；两者都可以是复杂相对路径的组成部分。更多信息请参阅：<a href="https://blog.csdn.net/u011327334/article/details/50355600" target="_blank">Linux / Unix中的绝对路径 vs 相对路径</a></p>
@@ -54,6 +56,8 @@ permalink:  /simplify-path/
 
 <pre><strong>输入：&quot;</strong>/a//b////c/d//././/..&quot;
 <strong>输出：&quot;</strong>/a/b/c&quot;</pre>
+
+{% endraw %}
 
 ### 相关话题
   [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]

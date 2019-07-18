@@ -9,6 +9,8 @@ permalink:  /random-flip-matrix/
 
 ## 519. 随机翻转矩阵 (Medium)
 
+{% raw %}
+
 <p>题中给出一个 <code>n</code> 行 <code>n</code> 列的二维矩阵<code> (n_rows,n_cols)</code>，且所有值被初始化为 0。要求编写一个 <code>flip</code> 函数，<a href="https://en.wikipedia.org/wiki/Discrete_uniform_distribution">均匀随机</a>的将矩阵中的 0 变为 1，并返回该值的位置下标 <code>[row_id,col_id]</code>；同样编写一个 <code>reset</code> 函数，将所有的值都重新置为 0。<strong>尽量最少调用随机函数 Math.random()</strong>，并且优化时间和空间复杂度。</p>
 
 <p>注意:</p>
@@ -41,6 +43,8 @@ permalink:  /random-flip-matrix/
 <p><strong>输入语法解释：</strong></p>
 
 <p>输入包含两个列表：被调用的子程序和他们的参数。<code>Solution</code> 的构造函数有两个参数，分别为 <code>n_rows</code> 和 <code>n_cols</code>。<code>flip</code>&nbsp;和 <code>reset</code> 没有参数，参数总会以列表形式给出，哪怕该列表为空</p>
+
+{% endraw %}
 
 ### 相关话题
   [[Random](https://github.com/openset/leetcode/tree/master/tag/random/README.md)]

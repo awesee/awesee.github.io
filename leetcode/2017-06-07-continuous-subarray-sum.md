@@ -9,6 +9,8 @@ permalink:  /continuous-subarray-sum/
 
 ## 523. 连续的子数组和 (Medium)
 
+{% raw %}
+
 <p>给定一个包含<strong>非负数</strong>的数组和一个目标<strong>整数</strong>&nbsp;k，编写一个函数来判断该数组是否含有连续的子数组，其大小至少为 2，总和为 <strong>k</strong> 的倍数，即总和为 n*k，其中 n 也是一个<strong>整数</strong>。</p>
 
 <p><strong>示例 1:</strong></p>
@@ -31,6 +33,8 @@ permalink:  /continuous-subarray-sum/
 	<li>数组的长度不会超过10,000。</li>
 	<li>你可以认为所有数字总和在 32 位有符号整数范围内。</li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]

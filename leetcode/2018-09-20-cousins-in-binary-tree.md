@@ -9,6 +9,8 @@ permalink:  /cousins-in-binary-tree/
 
 ## 993. 二叉树的堂兄弟节点 (Easy)
 
+{% raw %}
+
 <p>在二叉树中，根节点位于深度 <code>0</code> 处，每个深度为 <code>k</code> 的节点的子节点位于深度 <code>k+1</code> 处。</p>
 
 <p>如果二叉树的两个节点深度相同，但<strong>父节点不同</strong>，则它们是一对<em>堂兄弟节点</em>。</p>
@@ -50,6 +52,8 @@ permalink:  /cousins-in-binary-tree/
 </ol>
 
 <p>&nbsp;</p>
+
+{% endraw %}
 
 ### 相关话题
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]

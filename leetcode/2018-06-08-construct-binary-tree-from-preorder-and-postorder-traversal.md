@@ -9,6 +9,8 @@ permalink:  /construct-binary-tree-from-preorder-and-postorder-traversal/
 
 ## 889. 根据前序和后序遍历构造二叉树 (Medium)
 
+{% raw %}
+
 <p>返回与给定的前序和后序遍历匹配的任何二叉树。</p>
 
 <p>&nbsp;<code>pre</code>&nbsp;和&nbsp;<code>post</code>&nbsp;遍历中的值是不同的正整数。</p>
@@ -30,6 +32,8 @@ permalink:  /construct-binary-tree-from-preorder-and-postorder-traversal/
 	<li><code>pre[]</code>&nbsp;和&nbsp;<code>post[]</code>&nbsp;都是&nbsp;<code>1, 2, ..., pre.length</code>&nbsp;的排列</li>
 	<li>每个输入保证至少有一个答案。如果有多个答案，可以返回其中一个。</li>
 </ul>
+
+{% endraw %}
 
 ### 相关话题
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]

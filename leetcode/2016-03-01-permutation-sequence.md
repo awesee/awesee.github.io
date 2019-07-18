@@ -9,6 +9,8 @@ permalink:  /permutation-sequence/
 
 ## 60. 第k个排列 (Medium)
 
+{% raw %}
+
 <p>给出集合&nbsp;<code>[1,2,3,&hellip;,<em>n</em>]</code>，其所有元素共有&nbsp;<em>n</em>! 种排列。</p>
 
 <p>按大小顺序列出所有排列情况，并一一标记，当&nbsp;<em>n </em>= 3 时, 所有排列如下：</p>
@@ -42,6 +44,8 @@ permalink:  /permutation-sequence/
 <pre><strong>输入:</strong> n = 4, k = 9
 <strong>输出:</strong> &quot;2314&quot;
 </pre>
+
+{% endraw %}
 
 ### 相关话题
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]

@@ -9,6 +9,8 @@ permalink:  /number-of-music-playlists/
 
 ## 920. 播放列表的数量 (Hard)
 
+{% raw %}
+
 <p>你的音乐播放器里有&nbsp;<code>N</code>&nbsp;首不同的歌，在旅途中，你的旅伴想要听 <code>L</code>&nbsp;首歌（不一定不同，即，允许歌曲重复）。请你为她按如下规则创建一个播放列表：</p>
 
 <ul>
@@ -48,6 +50,8 @@ permalink:  /number-of-music-playlists/
 <ol>
 	<li><code>0 &lt;= K &lt; N &lt;= L &lt;= 100</code></li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]

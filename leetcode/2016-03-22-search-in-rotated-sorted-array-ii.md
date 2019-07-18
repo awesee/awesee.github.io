@@ -9,6 +9,8 @@ permalink:  /search-in-rotated-sorted-array-ii/
 
 ## 81. 搜索旋转排序数组 II (Medium)
 
+{% raw %}
+
 <p>假设按照升序排序的数组在预先未知的某个点上进行了旋转。</p>
 
 <p>( 例如，数组&nbsp;<code>[0,0,1,2,2,5,6]</code>&nbsp;可能变为&nbsp;<code>[2,5,6,0,0,1,2]</code>&nbsp;)。</p>
@@ -32,6 +34,8 @@ permalink:  /search-in-rotated-sorted-array-ii/
 	<li>这是 <a href="https://leetcode-cn.com/problems/search-in-rotated-sorted-array/description/">搜索旋转排序数组</a>&nbsp;的延伸题目，本题中的&nbsp;<code>nums</code>&nbsp; 可能包含重复元素。</li>
 	<li>这会影响到程序的时间复杂度吗？会有怎样的影响，为什么？</li>
 </ul>
+
+{% endraw %}
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]

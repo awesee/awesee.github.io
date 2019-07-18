@@ -9,6 +9,8 @@ permalink:  /subarray-sums-divisible-by-k/
 
 ## 974. 和可被 K 整除的子数组 (Medium)
 
+{% raw %}
+
 <p>给定一个整数数组 <code>A</code>，返回其中元素之和可被 <code>K</code>&nbsp;整除的（连续、非空）子数组的数目。</p>
 
 <p>&nbsp;</p>
@@ -31,6 +33,8 @@ permalink:  /subarray-sums-divisible-by-k/
 	<li><code>-10000 &lt;= A[i] &lt;= 10000</code></li>
 	<li><code>2 &lt;= K &lt;= 10000</code></li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]

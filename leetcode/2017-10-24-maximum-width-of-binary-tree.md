@@ -9,6 +9,8 @@ permalink:  /maximum-width-of-binary-tree/
 
 ## 662. 二叉树最大宽度 (Medium)
 
+{% raw %}
+
 <p>给定一个二叉树，编写一个函数来获取这个树的最大宽度。树的宽度是所有层中的最大宽度。这个二叉树与<strong>满二叉树（full binary tree）</strong>结构相同，但一些节点为空。</p>
 
 <p>每一层的宽度被定义为两个端点（该层最左和最右的非空节点，两端点间的<code>null</code>节点也计入长度）之间的长度。</p>
@@ -75,6 +77,8 @@ permalink:  /maximum-width-of-binary-tree/
 </pre>
 
 <p><strong>注意:</strong> 答案在32位有符号整数的表示范围内。</p>
+
+{% endraw %}
 
 ### 相关话题
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]

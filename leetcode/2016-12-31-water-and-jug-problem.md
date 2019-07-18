@@ -9,6 +9,8 @@ permalink:  /water-and-jug-problem/
 
 ## 365. 水壶问题 (Medium)
 
+{% raw %}
+
 <p>有两个容量分别为&nbsp;<em>x</em>升 和<em> y</em>升 的水壶以及无限多的水。请判断能否通过使用这两个水壶，从而可以得到恰好&nbsp;<em>z</em>升 的水？</p>
 
 <p>如果可以，最后请用以上水壶中的一或两个来盛放取得的&nbsp;<em>z升&nbsp;</em>水。</p>
@@ -32,6 +34,8 @@ permalink:  /water-and-jug-problem/
 <pre>输入: x = 2, y = 6, z = 5
 输出: False
 </pre>
+
+{% endraw %}
 
 ### 相关话题
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]

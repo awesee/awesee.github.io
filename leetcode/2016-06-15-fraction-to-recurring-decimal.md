@@ -9,6 +9,8 @@ permalink:  /fraction-to-recurring-decimal/
 
 ## 166. 分数到小数 (Medium)
 
+{% raw %}
+
 <p>给定两个整数，分别表示分数的分子&nbsp;numerator 和分母 denominator，以字符串形式返回小数。</p>
 
 <p>如果小数部分为循环小数，则将循环的部分括在括号内。</p>
@@ -29,6 +31,8 @@ permalink:  /fraction-to-recurring-decimal/
 <pre><strong>输入:</strong> numerator = 2, denominator = 3
 <strong>输出: </strong>&quot;0.(6)&quot;
 </pre>
+
+{% endraw %}
 
 ### 相关话题
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]

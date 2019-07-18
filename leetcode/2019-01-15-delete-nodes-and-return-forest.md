@@ -9,6 +9,8 @@ permalink:  /delete-nodes-and-return-forest/
 
 ## 1110. 删点成林 (Medium)
 
+{% raw %}
+
 <p>给出二叉树的根节点&nbsp;<code>root</code>，树上每个节点都有一个不同的值。</p>
 
 <p>如果节点值在&nbsp;<code>to_delete</code>&nbsp;中出现，我们就把该节点从树上删去，最后得到一个森林（一些不相交的树构成的集合）。</p>
@@ -35,6 +37,8 @@ permalink:  /delete-nodes-and-return-forest/
 	<li><code>to_delete.length &lt;= 1000</code></li>
 	<li><code>to_delete</code> 包含一些从&nbsp;<code>1</code> 到&nbsp;<code>1000</code>、各不相同的值。</li>
 </ul>
+
+{% endraw %}
 
 ---
 

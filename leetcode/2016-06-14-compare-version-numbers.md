@@ -9,6 +9,8 @@ permalink:  /compare-version-numbers/
 
 ## 165. 比较版本号 (Medium)
 
+{% raw %}
+
 <p>比较两个版本号 <em>version1&nbsp;</em>和 <em>version2</em>。<br>
 如果&nbsp;<code><em>version1&nbsp;</em>&gt;&nbsp;<em>version2</em></code>&nbsp;返回&nbsp;<code>1</code>，如果&nbsp;<code><em>version1&nbsp;</em>&lt;&nbsp;<em>version2</em></code> 返回 <code>-1</code>， 除此之外返回 <code>0</code>。</p>
 
@@ -56,6 +58,8 @@ permalink:  /compare-version-numbers/
 	<li>版本字符串由以点&nbsp;（<code>.</code>）&nbsp;分隔的数字字符串组成。这个数字字符串<strong>可能</strong>有前导零。</li>
 	<li>版本字符串不以点开始或结束，并且其中不会有两个连续的点。</li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]

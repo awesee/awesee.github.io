@@ -9,6 +9,8 @@ permalink:  /longest-mountain-in-array/
 
 ## 845. 数组中的最长山脉 (Medium)
 
+{% raw %}
+
 <p>我们把数组 A 中符合下列属性的任意连续子数组 B 称为 &ldquo;<em>山脉&rdquo;</em>：</p>
 
 <ul>
@@ -46,6 +48,8 @@ permalink:  /longest-mountain-in-array/
 	<li><code>0 &lt;= A.length &lt;= 10000</code></li>
 	<li><code>0 &lt;= A[i] &lt;= 10000</code></li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]

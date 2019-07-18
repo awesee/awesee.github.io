@@ -9,6 +9,8 @@ permalink:  /two-sum-iv-input-is-a-bst/
 
 ## 653. 两数之和 IV - 输入 BST (Easy)
 
+{% raw %}
+
 <p>给定一个二叉搜索树和一个目标结果，如果 BST 中存在两个元素且它们的和等于给定的目标结果，则返回 true。</p>
 
 <p><strong>案例 1:</strong></p>
@@ -44,6 +46,8 @@ Target = 28
 </pre>
 
 <p>&nbsp;</p>
+
+{% endraw %}
 
 ### 相关话题
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]

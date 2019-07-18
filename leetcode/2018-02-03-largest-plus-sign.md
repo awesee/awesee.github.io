@@ -9,6 +9,8 @@ permalink:  /largest-plus-sign/
 
 ## 764. 最大加号标志 (Medium)
 
+{% raw %}
+
 <p>在一个大小在 (0, 0) 到 (N-1, N-1) 的2D网格&nbsp;<code>grid</code>&nbsp;中，除了在&nbsp;<code>mines</code>&nbsp;中给出的单元为&nbsp;<code>0</code>，其他每个单元都是&nbsp;<code>1</code>。网格中包含&nbsp;<code>1</code>&nbsp;的最大的轴对齐加号标志是多少阶？返回加号标志的阶数。如果未找到加号标志，则返回 0。</p>
 
 <p>一个&nbsp;<strong>k</strong>&quot; 阶由&nbsp;<em><code>1</code></em>&nbsp;组成的&ldquo;轴对称&rdquo;加号标志具有中心网格&nbsp;&nbsp;<code>grid[x][y] = 1</code>&nbsp;，以及4个从中心向上、向下、向左、向右延伸，长度为&nbsp;<code>k-1</code>，由&nbsp;<code>1</code>&nbsp;组成的臂。下面给出&nbsp;<strong>k</strong>&quot; 阶&ldquo;轴对称&rdquo;加号标志的示例。注意，只有加号标志的所有网格要求为 1，别的网格可能为 0 也可能为 1。</p>
@@ -99,6 +101,8 @@ permalink:  /largest-plus-sign/
 </ol>
 
 <p>&nbsp;</p>
+
+{% endraw %}
 
 ### 相关话题
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]

@@ -9,6 +9,8 @@ permalink:  /orderly-queue/
 
 ## 899. 有序队列 (Hard)
 
+{% raw %}
+
 <p>给出了一个由小写字母组成的字符串 <code>S</code>。然后，我们可以进行任意次数的<em>移动</em>。</p>
 
 <p>在每次移动中，我们选择前 <code>K</code> 个字母中的一个（从左侧开始），将其从原位置移除，并放置在字符串的末尾。</p>
@@ -43,6 +45,8 @@ permalink:  /orderly-queue/
 	<li><code>1 &lt;= K &lt;= S.length&nbsp;&lt;= 1000</code></li>
 	<li><code>S</code>&nbsp;只由小写字母组成。</li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]

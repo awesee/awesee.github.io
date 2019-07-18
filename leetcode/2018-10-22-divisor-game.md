@@ -9,6 +9,8 @@ permalink:  /divisor-game/
 
 ## 1025. 除数博弈 (Easy)
 
+{% raw %}
+
 <p>爱丽丝和鲍勃一起玩游戏，他们轮流行动。爱丽丝先手开局。</p>
 
 <p>最初，黑板上有一个数字&nbsp;<code>N</code>&nbsp;。在每个玩家的回合，玩家需要执行以下操作：</p>
@@ -48,6 +50,8 @@ permalink:  /divisor-game/
 <ol>
 	<li><code>1 &lt;= N &lt;= 1000</code></li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]

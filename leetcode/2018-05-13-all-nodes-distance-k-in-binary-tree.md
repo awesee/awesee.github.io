@@ -9,6 +9,8 @@ permalink:  /all-nodes-distance-k-in-binary-tree/
 
 ## 863. 二叉树中所有距离为 K 的结点 (Medium)
 
+{% raw %}
+
 <p>给定一个二叉树（具有根结点&nbsp;<code>root</code>），&nbsp;一个目标结点&nbsp;<code>target</code>&nbsp;，和一个整数值 <code>K</code> 。</p>
 
 <p>返回到目标结点 <code>target</code> 距离为 <code>K</code> 的所有结点的值的列表。 答案可以以任何顺序返回。</p>
@@ -44,6 +46,8 @@ permalink:  /all-nodes-distance-k-in-binary-tree/
 	<li>目标结点&nbsp;<code>target</code>&nbsp;是树上的结点。</li>
 	<li><code>0 &lt;= K &lt;= 1000</code>.</li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]

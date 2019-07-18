@@ -9,6 +9,8 @@ permalink:  /different-ways-to-add-parentheses/
 
 ## 241. 为运算表达式设计优先级 (Medium)
 
+{% raw %}
+
 <p>给定一个含有数字和运算符的字符串，为表达式添加括号，改变其运算优先级以求出不同的结果。你需要给出所有可能的组合的结果。有效的运算符号包含 <code>+</code>,&nbsp;<code>-</code>&nbsp;以及&nbsp;<code>*</code>&nbsp;。</p>
 
 <p><strong>示例&nbsp;1:</strong></p>
@@ -29,6 +31,8 @@ permalink:  /different-ways-to-add-parentheses/
 ((2*(3-4))*5) = -10 
 (2*((3-4)*5)) = -10 
 (((2*3)-4)*5) = 10</pre>
+
+{% endraw %}
 
 ### 相关话题
   [[分治算法](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]

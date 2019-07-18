@@ -9,6 +9,8 @@ permalink:  /linked-list-components/
 
 ## 817. 链表组件 (Medium)
 
+{% raw %}
+
 <p>给定一个链表（链表结点包含一个整型值）的头结点&nbsp;<code>head</code>。</p>
 
 <p>同时给定列表&nbsp;<code>G</code>，该列表是上述链表中整型值的一个子集。</p>
@@ -43,6 +45,8 @@ G = [0, 3, 1, 4]
 	<li><code>1 &lt;= G.length &lt;= 10000</code></li>
 	<li><code>G</code> 是链表中所有结点的值的一个子集.</li>
 </ul>
+
+{% endraw %}
 
 ### 相关话题
   [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]

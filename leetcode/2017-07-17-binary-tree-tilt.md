@@ -9,6 +9,8 @@ permalink:  /binary-tree-tilt/
 
 ## 563. 二叉树的坡度 (Easy)
 
+{% raw %}
+
 <p>给定一个二叉树，计算<strong>整个树</strong>的坡度。</p>
 
 <p>一个树的<strong>节点的坡度</strong>定义即为，该节点左子树的结点之和和右子树结点之和的<strong>差的绝对值</strong>。空结点的的坡度是0。</p>
@@ -36,6 +38,8 @@ permalink:  /binary-tree-tilt/
 	<li>任何子树的结点的和不会超过32位整数的范围。</li>
 	<li>坡度的值不会超过32位整数的范围。</li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]

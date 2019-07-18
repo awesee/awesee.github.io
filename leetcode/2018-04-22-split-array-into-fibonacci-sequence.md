@@ -9,6 +9,8 @@ permalink:  /split-array-into-fibonacci-sequence/
 
 ## 842. 将数组拆分成斐波那契序列 (Medium)
 
+{% raw %}
+
 <p>给定一个数字字符串 <code>S</code>，比如 <code>S = &quot;123456579&quot;</code>，我们可以将它分成斐波那契式的序列 <code>[123, 456, 579]</code>。</p>
 
 <p>形式上，斐波那契式序列是一个非负整数列表 <code>F</code>，且满足：</p>
@@ -62,6 +64,8 @@ permalink:  /split-array-into-fibonacci-sequence/
 	<li><code>1 &lt;= S.length&nbsp;&lt;= 200</code></li>
 	<li>字符串 <code>S</code> 中只含有数字。</li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]

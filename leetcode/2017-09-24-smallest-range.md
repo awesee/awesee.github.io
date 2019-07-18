@@ -9,6 +9,8 @@ permalink:  /smallest-range/
 
 ## 632. 最小区间 (Hard)
 
+{% raw %}
+
 <p>你有&nbsp;<code>k</code>&nbsp;个升序排列的整数数组。找到一个<strong>最小</strong>区间，使得&nbsp;<code>k</code>&nbsp;个列表中的每个列表至少有一个数包含在其中。</p>
 
 <p>我们定义如果&nbsp;<code>b-a &lt; d-c</code>&nbsp;或者在&nbsp;<code>b-a == d-c</code>&nbsp;时&nbsp;<code>a &lt; c</code>，则区间 [a,b] 比 [c,d] 小。</p>
@@ -32,6 +34,8 @@ permalink:  /smallest-range/
 	<li>-10<sup>5</sup> &lt;= <code>元素的值</code>&nbsp;&lt;= 10<sup>5</sup></li>
 	<li><strong>对于使用Java的用户，请注意传入类型已修改为List&lt;List&lt;Integer&gt;&gt;。重置代码模板后可以看到这项改动。</strong></li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]

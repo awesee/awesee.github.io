@@ -9,6 +9,8 @@ permalink:  /longest-repeating-character-replacement/
 
 ## 424. 替换后的最长重复字符 (Medium)
 
+{% raw %}
+
 <p>给你一个仅由大写英文字母组成的字符串，你可以将任意位置上的字符替换成另外的字符，总共可最多替换&nbsp;<em>k&nbsp;</em>次。在执行上述操作后，找到包含重复字母的最长子串的长度。</p>
 
 <p><strong>注意:</strong><br>
@@ -38,6 +40,8 @@ s = &quot;AABABBA&quot;, k = 1
 将中间的一个&#39;A&#39;替换为&#39;B&#39;,字符串变为 &quot;AABBBBA&quot;。
 子串 &quot;BBBB&quot; 有最长重复字母, 答案为 4。
 </pre>
+
+{% endraw %}
 
 ### 相关话题
   [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]

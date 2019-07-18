@@ -9,6 +9,8 @@ permalink:  /partition-array-for-maximum-sum/
 
 ## 1043. 分隔数组以得到最大和 (Medium)
 
+{% raw %}
+
 <p>给出整数数组&nbsp;<code>A</code>，将该数组分隔为长度最多为 K 的几个（连续）子数组。分隔完成后，每个子数组的中的值都会变为该子数组中的最大值。</p>
 
 <p>返回给定数组完成分隔后的最大和。</p>
@@ -29,6 +31,8 @@ permalink:  /partition-array-for-maximum-sum/
 	<li><code>1 &lt;= K &lt;= A.length&nbsp;&lt;= 500</code></li>
 	<li><code>0 &lt;= A[i] &lt;= 10^6</code></li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]

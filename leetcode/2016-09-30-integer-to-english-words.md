@@ -9,6 +9,8 @@ permalink:  /integer-to-english-words/
 
 ## 273. 整数转换英文表示 (Hard)
 
+{% raw %}
+
 <p>将非负整数转换为其对应的英文表示。可以保证给定输入小于&nbsp;2<sup>31</sup> - 1 。</p>
 
 <p><strong>示例 1:</strong></p>
@@ -31,6 +33,8 @@ permalink:  /integer-to-english-words/
 
 <pre><strong>输入:</strong> 1234567891
 <strong>输出:</strong> &quot;One Billion Two Hundred Thirty Four Million Five Hundred Sixty Seven Thousand Eight Hundred Ninety One&quot;</pre>
+
+{% endraw %}
 
 ### 相关话题
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]

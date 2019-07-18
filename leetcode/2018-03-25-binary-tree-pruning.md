@@ -9,6 +9,8 @@ permalink:  /binary-tree-pruning/
 
 ## 814. 二叉树剪枝 (Medium)
 
+{% raw %}
+
 <p>给定二叉树根结点&nbsp;<code>root</code>&nbsp;，此外树的每个结点的值要么是 0，要么是 1。</p>
 
 <p>返回移除了所有不包含 1 的子树的原二叉树。</p>
@@ -51,6 +53,8 @@ permalink:  /binary-tree-pruning/
 	<li>给定的二叉树最多有&nbsp;<code>100</code>&nbsp;个节点。</li>
 	<li>每个节点的值只会为&nbsp;<code>0</code> 或&nbsp;<code>1</code>&nbsp;。</li>
 </ul>
+
+{% endraw %}
 
 ### 相关话题
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]

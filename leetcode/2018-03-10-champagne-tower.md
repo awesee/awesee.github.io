@@ -9,6 +9,8 @@ permalink:  /champagne-tower/
 
 ## 799. 香槟塔 (Medium)
 
+{% raw %}
+
 <p>我们把玻璃杯摆成金字塔的形状，其中第一层有1个玻璃杯，第二层有2个，依次类推到第100层，每个玻璃杯(250ml)将盛有香槟。</p>
 
 <p>从顶层的第一个玻璃杯开始倾倒一些香槟，当顶层的杯子满了，任何溢出的香槟都会立刻等流量的流向左右两侧的玻璃杯。当左右两边的杯子也满了，就会等流量的流向它们左右两边的杯子，依次类推。（当最底层的玻璃杯满了，香槟会流到地板上）</p>
@@ -39,6 +41,8 @@ permalink:  /champagne-tower/
 	<li><code>poured</code>&nbsp;的范围<code>[0, 10 ^ 9]</code>。</li>
 	<li><code>query_glass</code>&nbsp;和<code>query_row</code>&nbsp;的范围&nbsp;<code>[0, 99]</code>。</li>
 </ul>
+
+{% endraw %}
 
 ---
 

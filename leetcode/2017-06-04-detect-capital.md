@@ -9,6 +9,8 @@ permalink:  /detect-capital/
 
 ## 520. 检测大写字母 (Easy)
 
+{% raw %}
+
 <p>给定一个单词，你需要判断单词的大写使用是否正确。</p>
 
 <p>我们定义，在以下情况时，单词的大写用法是正确的：</p>
@@ -36,6 +38,8 @@ permalink:  /detect-capital/
 </pre>
 
 <p><strong>注意:</strong> 输入是由大写和小写拉丁字母组成的非空单词。</p>
+
+{% endraw %}
 
 ### 相关话题
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]

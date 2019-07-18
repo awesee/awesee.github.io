@@ -9,6 +9,8 @@ permalink:  /department-top-three-salaries/
 
 ## 185. 部门工资前三高的员工 (Hard)
 
+{% raw %}
+
 <p><code>Employee</code> 表包含所有员工信息，每个员工有其对应的&nbsp;Id, salary 和 department Id 。</p>
 
 <pre>+----+-------+--------+--------------+
@@ -45,6 +47,8 @@ permalink:  /department-top-three-salaries/
 | Sales      | Sam      | 60000  |
 +------------+----------+--------+
 </pre>
+
+{% endraw %}
 
 ---
 

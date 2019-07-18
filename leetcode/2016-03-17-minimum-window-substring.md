@@ -9,6 +9,8 @@ permalink:  /minimum-window-substring/
 
 ## 76. 最小覆盖子串 (Hard)
 
+{% raw %}
+
 <p>给你一个字符串 S、一个字符串 T，请在字符串 S 里面找出：包含 T 所有字母的最小子串。</p>
 
 <p><strong>示例：</strong></p>
@@ -22,6 +24,8 @@ permalink:  /minimum-window-substring/
 	<li>如果 S 中不存这样的子串，则返回空字符串 <code>&quot;&quot;</code>。</li>
 	<li>如果 S 中存在这样的子串，我们保证它是唯一的答案。</li>
 </ul>
+
+{% endraw %}
 
 ### 相关话题
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]

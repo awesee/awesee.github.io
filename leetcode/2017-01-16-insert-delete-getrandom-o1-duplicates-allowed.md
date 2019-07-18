@@ -9,6 +9,8 @@ permalink:  /insert-delete-getrandom-o1-duplicates-allowed/
 
 ## 381. O(1) 时间插入、删除和获取随机元素 - 允许重复 (Hard)
 
+{% raw %}
+
 <p>设计一个支持在<em>平均&nbsp;</em>时间复杂度&nbsp;<strong>O(1)&nbsp;</strong>下<strong>，&nbsp;</strong>执行以下操作的数据结构。</p>
 
 <p><strong>注意: 允许出现重复元素。</strong></p>
@@ -42,6 +44,8 @@ collection.remove(1);
 // getRandom 应有相同概率返回 1 和 2 。
 collection.getRandom();
 </pre>
+
+{% endraw %}
 
 ### 相关话题
   [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]

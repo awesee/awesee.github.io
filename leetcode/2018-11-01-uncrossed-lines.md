@@ -9,6 +9,8 @@ permalink:  /uncrossed-lines/
 
 ## 1035. 不相交的线 (Medium)
 
+{% raw %}
+
 <p>我们在两条独立的水平线上按给定的顺序写下&nbsp;<code>A</code>&nbsp;和&nbsp;<code>B</code>&nbsp;中的整数。</p>
 
 <p>现在，我们可以绘制一些连接两个数字&nbsp;<code>A[i]</code>&nbsp;和&nbsp;<code>B[j]</code>&nbsp;的直线，只要&nbsp;<code>A[i] == B[j]</code>，且我们绘制的直线不与任何其他连线（非水平线）相交。</p>
@@ -49,6 +51,8 @@ permalink:  /uncrossed-lines/
 </ol>
 
 <p>&nbsp;</p>
+
+{% endraw %}
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]

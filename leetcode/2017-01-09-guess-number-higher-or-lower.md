@@ -9,6 +9,8 @@ permalink:  /guess-number-higher-or-lower/
 
 ## 374. 猜数字大小 (Easy)
 
+{% raw %}
+
 <p>我们正在玩一个猜数字游戏。 游戏规则如下：<br>
 我从&nbsp;<strong>1</strong>&nbsp;到&nbsp;<em><strong>n</strong></em>&nbsp;选择一个数字。 你需要猜我选择了哪个数字。<br>
 每次你猜错了，我会告诉你这个数字是大了还是小了。<br>
@@ -23,6 +25,8 @@ permalink:  /guess-number-higher-or-lower/
 
 <pre><strong>输入: </strong>n = 10, pick = 6
 <strong>输出: </strong>6</pre>
+
+{% endraw %}
 
 ### 相关话题
   [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]

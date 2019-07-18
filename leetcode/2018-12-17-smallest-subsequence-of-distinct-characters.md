@@ -9,6 +9,8 @@ permalink:  /smallest-subsequence-of-distinct-characters/
 
 ## 1081. 不同字符的最小子序列 (Medium)
 
+{% raw %}
+
 <p>返回字符串 <code>text</code>&nbsp;中按字典序排列最小的子序列，该子序列包含&nbsp;<code>text</code>&nbsp;中所有不同字符一次。</p>
 
 <p>&nbsp;</p>
@@ -45,6 +47,8 @@ permalink:  /smallest-subsequence-of-distinct-characters/
 	<li><code>1 &lt;= text.length &lt;= 1000</code></li>
 	<li><code>text</code>&nbsp;由小写英文字母组成</li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]

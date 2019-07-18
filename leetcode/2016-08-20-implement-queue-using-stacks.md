@@ -9,6 +9,8 @@ permalink:  /implement-queue-using-stacks/
 
 ## 232. 用栈实现队列 (Easy)
 
+{% raw %}
+
 <p>使用栈实现队列的下列操作：</p>
 
 <ul>
@@ -35,6 +37,8 @@ queue.empty(); // 返回 false</pre>
 	<li>你所使用的语言也许不支持栈。你可以使用 list 或者 deque（双端队列）来模拟一个栈，只要是标准的栈操作即可。</li>
 	<li>假设所有操作都是有效的 （例如，一个空的队列不会调用 pop 或者 peek 操作）。</li>
 </ul>
+
+{% endraw %}
 
 ### 相关话题
   [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]

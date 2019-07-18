@@ -9,6 +9,8 @@ permalink:  /find-all-numbers-disappeared-in-an-array/
 
 ## 448. 找到所有数组中消失的数字 (Easy)
 
+{% raw %}
+
 <p>给定一个范围在&nbsp; 1 &le; a[i] &le; <em>n</em> (&nbsp;<em>n</em> = 数组大小 ) 的 整型数组，数组中的元素一些出现了两次，另一些只出现一次。</p>
 
 <p>找到所有在 [1, <em>n</em>] 范围之间没有出现在数组中的数字。</p>
@@ -24,6 +26,8 @@ permalink:  /find-all-numbers-disappeared-in-an-array/
 <strong>输出:</strong>
 [5,6]
 </pre>
+
+{% endraw %}
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]

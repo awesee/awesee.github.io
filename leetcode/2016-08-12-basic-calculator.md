@@ -9,6 +9,8 @@ permalink:  /basic-calculator/
 
 ## 224. 基本计算器 (Hard)
 
+{% raw %}
+
 <p>实现一个基本的计算器来计算一个简单的字符串表达式的值。</p>
 
 <p>字符串表达式可以包含左括号&nbsp;<code>(</code>&nbsp;，右括号&nbsp;<code>)</code>，加号&nbsp;<code>+</code>&nbsp;，减号&nbsp;<code>-</code>，<strong>非负</strong>整数和空格&nbsp;<code>&nbsp;</code>。</p>
@@ -35,6 +37,8 @@ permalink:  /basic-calculator/
 	<li>你可以假设所给定的表达式都是有效的。</li>
 	<li>请<strong>不要</strong>使用内置的库函数 <code>eval</code>。</li>
 </ul>
+
+{% endraw %}
 
 ### 相关话题
   [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]

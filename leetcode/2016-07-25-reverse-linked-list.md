@@ -9,6 +9,8 @@ permalink:  /reverse-linked-list/
 
 ## 206. 反转链表 (Easy)
 
+{% raw %}
+
 <p>反转一个单链表。</p>
 
 <p><strong>示例:</strong></p>
@@ -18,6 +20,8 @@ permalink:  /reverse-linked-list/
 
 <p><strong>进阶:</strong><br>
 你可以迭代或递归地反转链表。你能否用两种方法解决这道题？</p>
+
+{% endraw %}
 
 ### 相关话题
   [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]

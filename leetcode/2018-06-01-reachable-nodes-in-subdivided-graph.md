@@ -9,6 +9,8 @@ permalink:  /reachable-nodes-in-subdivided-graph/
 
 ## 882. 细分图中的可到达结点 (Hard)
 
+{% raw %}
+
 <p>从具有&nbsp;<code>0</code> 到 <code>N-1</code> 的结点的<strong>无向</strong>图（&ldquo;原始图&rdquo;）开始，对一些边进行细分。</p>
 
 <p>该图给出如下：<code>edges[k]</code>&nbsp;是整数对&nbsp;<code>(i, j, n)</code>&nbsp;组成的列表，使&nbsp;<code>(i, j)</code> 是原始图的边。</p>
@@ -55,6 +57,8 @@ permalink:  /reachable-nodes-in-subdivided-graph/
 </ol>
 
 <p>&nbsp;</p>
+
+{% endraw %}
 
 ### 相关话题
   [[堆](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]

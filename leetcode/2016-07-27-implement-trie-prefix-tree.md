@@ -9,6 +9,8 @@ permalink:  /implement-trie-prefix-tree/
 
 ## 208. 实现 Trie (前缀树) (Medium)
 
+{% raw %}
+
 <p>实现一个 Trie (前缀树)，包含&nbsp;<code>insert</code>,&nbsp;<code>search</code>, 和&nbsp;<code>startsWith</code>&nbsp;这三个操作。</p>
 
 <p><strong>示例:</strong></p>
@@ -28,6 +30,8 @@ trie.search(&quot;app&quot;);     // 返回 true</pre>
 	<li>你可以假设所有的输入都是由小写字母&nbsp;<code>a-z</code>&nbsp;构成的。</li>
 	<li>保证所有输入均为非空字符串。</li>
 </ul>
+
+{% endraw %}
 
 ### 相关话题
   [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]

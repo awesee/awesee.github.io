@@ -9,6 +9,8 @@ permalink:  /letter-tile-possibilities/
 
 ## 1079. 活字印刷 (Medium)
 
+{% raw %}
+
 <p>你有一套活字字模&nbsp;<code>tiles</code>，其中每个字模上都刻有一个字母&nbsp;<code>tiles[i]</code>。返回你可以印出的非空字母序列的数目。</p>
 
 <p>&nbsp;</p>
@@ -34,6 +36,8 @@ permalink:  /letter-tile-possibilities/
 	<li><code>1 &lt;= tiles.length &lt;= 7</code></li>
 	<li><code>tiles</code> 由大写英文字母组成</li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]

@@ -9,6 +9,8 @@ permalink:  /minimum-increment-to-make-array-unique/
 
 ## 945. 使数组唯一的最小增量 (Medium)
 
+{% raw %}
+
 <p>给定整数数组 A，每次 <em>move</em> 操作将会选择任意&nbsp;<code>A[i]</code>，并将其递增&nbsp;<code>1</code>。</p>
 
 <p>返回使 <code>A</code>&nbsp;中的每个值都是唯一的最少操作次数。</p>
@@ -33,6 +35,8 @@ permalink:  /minimum-increment-to-make-array-unique/
 	<li><code>0 &lt;= A.length &lt;= 40000</code></li>
 	<li><code>0 &lt;= A[i] &lt; 40000</code></li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]

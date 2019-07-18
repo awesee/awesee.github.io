@@ -9,6 +9,8 @@ permalink:  /group-anagrams/
 
 ## 49. 字母异位词分组 (Medium)
 
+{% raw %}
+
 <p>给定一个字符串数组，将字母异位词组合在一起。字母异位词指字母相同，但排列不同的字符串。</p>
 
 <p><strong>示例:</strong></p>
@@ -27,6 +29,8 @@ permalink:  /group-anagrams/
 	<li>所有输入均为小写字母。</li>
 	<li>不考虑答案输出的顺序。</li>
 </ul>
+
+{% endraw %}
 
 ### 相关话题
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]

@@ -9,6 +9,8 @@ permalink:  /valid-number/
 
 ## 65. 有效数字 (Hard)
 
+{% raw %}
+
 <p>验证给定的字符串是否可以解释为十进制数字。</p>
 
 <p>例如:</p>
@@ -41,6 +43,8 @@ permalink:  /valid-number/
 
 <p><strong>更新于 2015-02-10:</strong><br>
 <code>C++</code>函数的形式已经更新了。如果你仍然看见你的函数接收&nbsp;<code>const char *</code> 类型的参数，请点击重载按钮重置你的代码。</p>
+
+{% endraw %}
 
 ### 相关话题
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]

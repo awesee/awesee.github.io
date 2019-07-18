@@ -9,6 +9,8 @@ permalink:  /card-flipping-game/
 
 ## 822. 翻转卡片游戏 (Medium)
 
+{% raw %}
+
 <p>在桌子上有 <code>N</code> 张卡片，每张卡片的正面和背面都写着一个正数（正面与背面上的数有可能不一样）。</p>
 
 <p>我们可以先翻转任意张卡片，然后选择其中一张卡片。</p>
@@ -38,6 +40,8 @@ permalink:  /card-flipping-game/
 	<li><code>1 &lt;=&nbsp;fronts[i]&nbsp;&lt;= 2000</code></li>
 	<li><code>1 &lt;= backs[i]&nbsp;&lt;= 2000</code></li>
 </ol>
+
+{% endraw %}
 
 ---
 

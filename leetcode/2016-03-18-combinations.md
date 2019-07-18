@@ -9,6 +9,8 @@ permalink:  /combinations/
 
 ## 77. 组合 (Medium)
 
+{% raw %}
+
 <p>给定两个整数 <em>n</em> 和 <em>k</em>，返回 1 ... <em>n </em>中所有可能的 <em>k</em> 个数的组合。</p>
 
 <p><strong>示例:</strong></p>
@@ -23,6 +25,8 @@ permalink:  /combinations/
   [1,3],
   [1,4],
 ]</pre>
+
+{% endraw %}
 
 ### 相关话题
   [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]

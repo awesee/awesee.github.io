@@ -9,6 +9,8 @@ permalink:  /special-binary-string/
 
 ## 761. 特殊的二进制序列 (Hard)
 
+{% raw %}
+
 <p>特殊的二进制序列是具有以下两个性质的二进制序列：</p>
 
 <ul>
@@ -36,6 +38,8 @@ permalink:  /special-binary-string/
 	<li><code>S</code>&nbsp;的长度不超过&nbsp;<code>50</code>。</li>
 	<li><code>S</code>&nbsp;保证为一个满足上述定义的<em>特殊 </em>的二进制序列。</li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[递归](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]

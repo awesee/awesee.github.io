@@ -9,6 +9,8 @@ permalink:  /duplicate-zeros/
 
 ## 1089. 复写零 (Easy)
 
+{% raw %}
+
 <p>给你一个长度固定的整数数组&nbsp;<code>arr</code>，请你将该数组中出现的每个零都复写一遍，并将其余的元素向右平移。</p>
 
 <p>注意：请不要在超过该数组长度的位置写入元素。</p>
@@ -39,6 +41,8 @@ permalink:  /duplicate-zeros/
 	<li><code>1 &lt;= arr.length &lt;= 10000</code></li>
 	<li><code>0 &lt;= arr[i] &lt;= 9</code></li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]

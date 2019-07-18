@@ -9,6 +9,8 @@ permalink:  /valid-parenthesis-string/
 
 ## 678. 有效的括号字符串 (Medium)
 
+{% raw %}
+
 <p>给定一个只包含三种字符的字符串：<code>（&nbsp;</code>，<code>）</code>&nbsp;和 <code>*</code>，写一个函数来检验这个字符串是否为有效字符串。有效字符串具有如下规则：</p>
 
 <ol>
@@ -45,6 +47,8 @@ permalink:  /valid-parenthesis-string/
 <ol>
 	<li>字符串大小将在 [1，100] 范围内。</li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]

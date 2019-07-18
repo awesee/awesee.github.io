@@ -9,6 +9,8 @@ permalink:  /second-highest-salary/
 
 ## 176. 第二高的薪水 (Easy)
 
+{% raw %}
+
 <p>编写一个 SQL 查询，获取 <code>Employee</code>&nbsp;表中第二高的薪水（Salary）&nbsp;。</p>
 
 <pre>+----+--------+
@@ -28,6 +30,8 @@ permalink:  /second-highest-salary/
 | 200                 |
 +---------------------+
 </pre>
+
+{% endraw %}
 
 ---
 

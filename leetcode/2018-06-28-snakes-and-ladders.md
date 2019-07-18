@@ -9,6 +9,8 @@ permalink:  /snakes-and-ladders/
 
 ## 909. 蛇梯棋 (Medium)
 
+{% raw %}
+
 <p>在一块 N x N 的棋盘&nbsp;<code>board</code>&nbsp;上，<strong>从棋盘的左下角开始</strong>，每一行交替方向，按从&nbsp;<code>1</code> 到 <code>N*N</code>&nbsp;的数字给方格编号。例如，对于一块 6 x 6 大小的棋盘，可以编号如下：</p>
 
 <pre><img alt="" src="https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2019/01/31/snakes.png" style="height: 200px; width: 254px;">
@@ -60,6 +62,8 @@ permalink:  /snakes-and-ladders/
 	<li>编号为&nbsp;<code>1</code>&nbsp;的方格上没有蛇或梯子。</li>
 	<li>编号为&nbsp;<code>N*N</code>&nbsp;的方格上没有蛇或梯子。</li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]

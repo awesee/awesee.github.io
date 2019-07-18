@@ -9,6 +9,8 @@ permalink:  /find-and-replace-in-string/
 
 ## 833. 字符串中的查找与替换 (Medium)
 
+{% raw %}
+
 <p>对于某些字符串 <code>S</code>，我们将执行一些替换操作，用新的字母组替换原有的字母组（不一定大小相同）。</p>
 
 <p>每个替换操作具有 3 个参数：起始索引 <code>i</code>，源字 <code>x</code> 和目标字 <code>y</code>。规则是如果 <code>x</code> 从<strong>原始字符串 <code>S</code></strong> 中的位置 <code>i</code> 开始，那么我们将用 <code>y</code> 替换出现的 <code>x</code>。如果没有，我们什么都不做。</p>
@@ -50,6 +52,8 @@ permalink:  /find-and-replace-in-string/
 </ol>
 
 <p>&nbsp;</p>
+
+{% endraw %}
 
 ### 相关话题
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]

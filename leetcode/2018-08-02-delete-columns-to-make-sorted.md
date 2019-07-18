@@ -9,6 +9,8 @@ permalink:  /delete-columns-to-make-sorted/
 
 ## 944. 删列造序 (Easy)
 
+{% raw %}
+
 <p>给定由&nbsp;<code>N</code>&nbsp;个小写字母字符串组成的数组 <code>A</code>，其中每个字符串长度相等。</p>
 
 <p><strong>删除</strong> 操作的定义是：选出一组要删掉的列，删去&nbsp;<code>A</code> 中对应列中的所有字符，形式上，第 <code>n</code>&nbsp;列为&nbsp;<code>[A[0][n], A[1][n], ..., A[A.length-1][n]]</code>）。</p>
@@ -56,6 +58,8 @@ permalink:  /delete-columns-to-make-sorted/
 	<li><code>1 &lt;= A.length &lt;= 100</code></li>
 	<li><code>1 &lt;= A[i].length &lt;= 1000</code></li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]

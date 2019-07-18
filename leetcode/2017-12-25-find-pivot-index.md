@@ -9,6 +9,8 @@ permalink:  /find-pivot-index/
 
 ## 724. 寻找数组的中心索引 (Easy)
 
+{% raw %}
+
 <p>给定一个整数类型的数组&nbsp;<code>nums</code>，请编写一个能够返回数组<strong>&ldquo;中心索引&rdquo;</strong>的方法。</p>
 
 <p>我们是这样定义数组<strong>中心索引</strong>的：数组中心索引的左侧所有元素相加的和等于右侧所有元素相加的和。</p>
@@ -41,6 +43,8 @@ nums = [1, 2, 3]
 	<li><code>nums</code> 的长度范围为&nbsp;<code>[0, 10000]</code>。</li>
 	<li>任何一个&nbsp;<code>nums[i]</code> 将会是一个范围在&nbsp;<code>[-1000, 1000]</code>的整数。</li>
 </ul>
+
+{% endraw %}
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]

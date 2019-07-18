@@ -9,6 +9,8 @@ permalink:  /reorganize-string/
 
 ## 767. 重构字符串 (Medium)
 
+{% raw %}
+
 <p>给定一个字符串<code>S</code>，检查是否能重新排布其中的字母，使得两相邻的字符不同。</p>
 
 <p>若可行，输出任意可行的结果。若不可行，返回空字符串。</p>
@@ -32,6 +34,8 @@ permalink:  /reorganize-string/
 <ul>
 	<li><code>S</code> 只包含小写字母并且长度在<code>[1, 500]</code>区间内。</li>
 </ul>
+
+{% endraw %}
 
 ### 相关话题
   [[堆](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]

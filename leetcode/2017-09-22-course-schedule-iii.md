@@ -9,6 +9,8 @@ permalink:  /course-schedule-iii/
 
 ## 630. 课程表 III (Hard)
 
+{% raw %}
+
 <p>这里有 <code>n</code> 门不同的在线课程，他们按从 <code>1</code> 到 <code>n</code>&nbsp;编号。每一门课程有一定的持续上课时间（课程时间）<code>t</code> 以及关闭时间第 d<sub>&nbsp;</sub>天。一门课要持续学习 <code>t</code> 天直到第 d<span style="font-size:10.5px"> </span>天时要完成，你将会从第 1 天开始。</p>
 
 <p>给出 <code>n</code> 个在线课程用 <code>(t, d)</code> 对表示。你的任务是找出最多可以修几门课。</p>
@@ -37,6 +39,8 @@ permalink:  /course-schedule-iii/
 </ol>
 
 <p>&nbsp;</p>
+
+{% endraw %}
 
 ### 相关话题
   [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]

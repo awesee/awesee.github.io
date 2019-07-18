@@ -9,6 +9,8 @@ permalink:  /largest-sum-of-averages/
 
 ## 813. 最大平均值和的分组 (Medium)
 
+{% raw %}
+
 <p>我们将给定的数组&nbsp;<code>A</code>&nbsp;分成&nbsp;<code>K</code>&nbsp;个相邻的非空子数组 ，我们的分数由每个子数组内的平均值的总和构成。计算我们所能得到的最大分数是多少。</p>
 
 <p>注意我们必须使用 A 数组中的每一个数进行分组，并且分数不一定需要是整数。</p>
@@ -33,6 +35,8 @@ A 的最优分组是[9], [1, 2, 3], [9]. 得到的分数是 9 + (1 + 2 + 3) / 3 
 	<li><code>1 &lt;= K &lt;= A.length</code>.</li>
 	<li>答案误差在&nbsp;<code>10^-6</code>&nbsp;内被视为是正确的。</li>
 </ul>
+
+{% endraw %}
 
 ### 相关话题
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]

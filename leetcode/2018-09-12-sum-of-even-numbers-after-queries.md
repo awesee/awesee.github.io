@@ -9,6 +9,8 @@ permalink:  /sum-of-even-numbers-after-queries/
 
 ## 985. 查询后的偶数和 (Easy)
 
+{% raw %}
+
 <p>给出一个整数数组&nbsp;<code>A</code>&nbsp;和一个查询数组&nbsp;<code>queries</code>。</p>
 
 <p>对于第&nbsp;<code>i</code>&nbsp;次查询，有&nbsp;<code>val =&nbsp;queries[i][0], index&nbsp;= queries[i][1]</code>，我们会把&nbsp;<code>val</code>&nbsp;加到&nbsp;<code>A[index]</code>&nbsp;上。然后，第&nbsp;<code>i</code>&nbsp;次查询的答案是 <code>A</code> 中偶数值的和。</p>
@@ -42,6 +44,8 @@ permalink:  /sum-of-even-numbers-after-queries/
 	<li><code>-10000 &lt;= queries[i][0] &lt;= 10000</code></li>
 	<li><code>0 &lt;= queries[i][1] &lt; A.length</code></li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]

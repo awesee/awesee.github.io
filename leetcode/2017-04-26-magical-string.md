@@ -9,6 +9,8 @@ permalink:  /magical-string/
 
 ## 481. 神奇字符串 (Medium)
 
+{% raw %}
+
 <p>神奇的字符串&nbsp;<strong>S&nbsp;</strong>只包含 &#39;1&#39; 和 &#39;2&#39;，并遵守以下规则：</p>
 
 <p>字符串 <strong>S</strong> 是神奇的，因为串联字符 &#39;1&#39; 和 &#39;2&#39; 的连续出现次数会生成字符串 <strong>S</strong> 本身。</p>
@@ -37,6 +39,8 @@ permalink:  /magical-string/
 </pre>
 
 <p>&nbsp;</p>
+
+{% endraw %}
 
 ---
 

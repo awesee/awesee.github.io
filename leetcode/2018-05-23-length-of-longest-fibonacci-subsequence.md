@@ -9,6 +9,8 @@ permalink:  /length-of-longest-fibonacci-subsequence/
 
 ## 873. 最长的斐波那契子序列的长度 (Medium)
 
+{% raw %}
+
 <p>如果序列&nbsp;<code>X_1, X_2, ..., X_n</code>&nbsp;满足下列条件，就说它是&nbsp;<em>斐波那契式&nbsp;</em>的：</p>
 
 <ul>
@@ -51,6 +53,8 @@ permalink:  /length-of-longest-fibonacci-subsequence/
 	<li><code>1 &lt;= A[0] &lt; A[1] &lt; ... &lt; A[A.length - 1] &lt;= 10^9</code></li>
 	<li><em>（对于以 Java，C，C++，以及&nbsp;C# 的提交，时间限制被减少了 50%）</em></li>
 </ul>
+
+{% endraw %}
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]

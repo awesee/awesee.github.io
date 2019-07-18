@@ -9,6 +9,8 @@ permalink:  /largest-time-for-given-digits/
 
 ## 949. 给定数字能组成的最大时间 (Easy)
 
+{% raw %}
+
 <p>给定一个由 4 位数字组成的数组，返回可以设置的符合 24 小时制的最大时间。</p>
 
 <p>最小的 24 小时制时间是&nbsp;00:00，而最大的是&nbsp;23:59。从 00:00 （午夜）开始算起，过得越久，时间越大。</p>
@@ -37,6 +39,8 @@ permalink:  /largest-time-for-given-digits/
 	<li><code>A.length == 4</code></li>
 	<li><code>0 &lt;= A[i] &lt;= 9</code></li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]

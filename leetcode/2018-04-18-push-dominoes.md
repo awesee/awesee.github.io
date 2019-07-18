@@ -9,6 +9,8 @@ permalink:  /push-dominoes/
 
 ## 838. 推多米诺 (Medium)
 
+{% raw %}
+
 <p>一行中有 <code>N</code> 张多米诺骨牌，我们将每张多米诺骨牌垂直竖立。</p>
 
 <p>在开始时，我们同时把一些多米诺骨牌向左或向右推。</p>
@@ -44,6 +46,8 @@ permalink:  /push-dominoes/
 	<li><code>0 &lt;= N &lt;= 10^5</code></li>
 	<li>表示多米诺骨牌状态的字符串只含有 <code>&#39;L&#39;</code>，<code>&#39;R&#39;</code>; 以及 <code>&#39;.&#39;</code>;</li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]

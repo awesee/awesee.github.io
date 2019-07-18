@@ -9,6 +9,8 @@ permalink:  /groups-of-special-equivalent-strings/
 
 ## 893. 特殊等价字符串组 (Easy)
 
+{% raw %}
+
 <p>你将得到一个字符串数组 <code>A</code>。</p>
 
 <p>如果经过任意次数的移动，S == T，那么两个字符串 <code>S</code> 和 <code>T</code> 是<strong>特殊等价</strong>的。</p>
@@ -62,6 +64,8 @@ permalink:  /groups-of-special-equivalent-strings/
 	<li>所有&nbsp;<code>A[i]</code>&nbsp;都具有相同的长度。</li>
 	<li>所有&nbsp;<code>A[i]</code>&nbsp;都只由小写字母组成。</li>
 </ul>
+
+{% endraw %}
 
 ### 相关话题
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]

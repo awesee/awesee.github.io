@@ -9,6 +9,8 @@ permalink:  /keyboard-row/
 
 ## 500. 键盘行 (Easy)
 
+{% raw %}
+
 <p>给定一个单词列表，只返回可以使用在键盘同一行的字母打印出来的单词。键盘如下图所示。</p>
 
 <p>&nbsp;</p>
@@ -31,6 +33,8 @@ permalink:  /keyboard-row/
 	<li>你可以重复使用键盘上同一字符。</li>
 	<li>你可以假设输入的字符串将只包含字母。</li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]

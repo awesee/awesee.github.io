@@ -9,6 +9,8 @@ permalink:  /word-break-ii/
 
 ## 140. 单词拆分 II (Hard)
 
+{% raw %}
+
 <p>给定一个<strong>非空</strong>字符串 <em>s</em> 和一个包含<strong>非空</strong>单词列表的字典 <em>wordDict</em>，在字符串中增加空格来构建一个句子，使得句子中所有的单词都在词典中。返回所有这些可能的句子。</p>
 
 <p><strong>说明：</strong></p>
@@ -52,6 +54,8 @@ wordDict = [&quot;cats&quot;, &quot;dog&quot;, &quot;sand&quot;, &quot;and&quot;
 <strong>输出:
 </strong>[]
 </pre>
+
+{% endraw %}
 
 ### 相关话题
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]

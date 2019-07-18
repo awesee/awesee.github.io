@@ -9,6 +9,8 @@ permalink:  /building-h2o/
 
 ## 1117. H2O 生成 (Hard)
 
+{% raw %}
+
 <p>现在有两种线程，氢 <code>oxygen</code> 和氧 <code>hydrogen</code>，你的目标是组织这两种线程来产生水分子。</p>
 
 <p>存在一个屏障（barrier）使得每个线程必须等候直到一个完整水分子能够被产生出来。</p>
@@ -55,6 +57,8 @@ permalink:  /building-h2o/
 	<li>输入字符串中的 &ldquo;H&rdquo; 总数将会是 2n；</li>
 	<li>输入字符串中的 &ldquo;O&rdquo; 总数将会是 n。</li>
 </ul>
+
+{% endraw %}
 
 ---
 

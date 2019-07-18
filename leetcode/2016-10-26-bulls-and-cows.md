@@ -9,6 +9,8 @@ permalink:  /bulls-and-cows/
 
 ## 299. 猜数字游戏 (Medium)
 
+{% raw %}
+
 <p>你正在和你的朋友玩&nbsp;<a href="https://baike.baidu.com/item/%E7%8C%9C%E6%95%B0%E5%AD%97/83200?fromtitle=Bulls+and+Cows&amp;fromid=12003488&amp;fr=aladdin" target="_blank">猜数字（Bulls and Cows）</a>游戏：你写下一个数字让你的朋友猜。每次他猜测后，你给他一个提示，告诉他有多少位数字和确切位置都猜对了（称为&ldquo;Bulls&rdquo;, 公牛），有多少位数字猜对了但是位置不对（称为&ldquo;Cows&rdquo;, 奶牛）。你的朋友将会根据提示继续猜，直到猜出秘密数字。</p>
 
 <p>请写出一个根据秘密数字和朋友的猜测数返回提示的函数，用 <code>A</code> 表示公牛，用&nbsp;<code>B</code>&nbsp;表示奶牛。</p>
@@ -32,6 +34,8 @@ permalink:  /bulls-and-cows/
 <strong>解释: </strong>朋友猜测数中的第一个 <code>1</code>&nbsp;是公牛，第二个或第三个 <code>1</code>&nbsp;可被视为奶牛。</pre>
 
 <p><strong>说明: </strong>你可以假设秘密数字和朋友的猜测数都只包含数字，并且它们的长度永远相等。</p>
+
+{% endraw %}
 
 ### 相关话题
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]

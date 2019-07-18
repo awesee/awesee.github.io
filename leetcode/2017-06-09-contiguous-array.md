@@ -9,6 +9,8 @@ permalink:  /contiguous-array/
 
 ## 525. 连续数组 (Medium)
 
+{% raw %}
+
 <p>给定一个二进制数组, 找到含有相同数量的 0 和 1 的最长连续子数组（的长度）。</p>
 
 <p>&nbsp;</p>
@@ -28,6 +30,8 @@ permalink:  /contiguous-array/
 <p>&nbsp;</p>
 
 <p><strong>注意:&nbsp;</strong>给定的二进制数组的长度不会超过50000。</p>
+
+{% endraw %}
 
 ### 相关话题
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]

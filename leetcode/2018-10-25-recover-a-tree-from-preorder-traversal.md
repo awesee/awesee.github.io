@@ -9,6 +9,8 @@ permalink:  /recover-a-tree-from-preorder-traversal/
 
 ## 1028. 从先序遍历还原二叉树 (Hard)
 
+{% raw %}
+
 <p>我们从二叉树的根节点 <code>root</code>&nbsp;开始进行深度优先搜索。</p>
 
 <p>在遍历中的每个节点处，我们输出&nbsp;<code>D</code>&nbsp;条短划线（其中&nbsp;<code>D</code>&nbsp;是该节点的深度），然后输出该节点的值。（<em>如果节点的深度为 <code>D</code>，则其直接子节点的深度为 <code>D + 1</code>。根节点的深度为 <code>0</code>）。</em></p>
@@ -51,6 +53,8 @@ permalink:  /recover-a-tree-from-preorder-traversal/
 	<li>原始树中的节点数介于 <code>1</code> 和 <code>1000</code> 之间。</li>
 	<li>每个节点的值介于 <code>1</code> 和 <code>10 ^ 9</code> 之间。</li>
 </ul>
+
+{% endraw %}
 
 ### 相关话题
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]

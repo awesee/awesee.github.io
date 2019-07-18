@@ -9,6 +9,8 @@ permalink:  /magic-squares-in-grid/
 
 ## 840. 矩阵中的幻方 (Easy)
 
+{% raw %}
+
 <p>3 x 3 的幻方是一个填充有<strong>从 1 到 9</strong> 的不同数字的 3 x 3 矩阵，其中每行，每列以及两条对角线上的各数之和都相等。</p>
 
 <p>给定一个由整数组成的 <code>grid</code>，其中有多少个 3 &times; 3 的 &ldquo;幻方&rdquo; 子矩阵？（每个子矩阵都是连续的）。</p>
@@ -42,6 +44,8 @@ permalink:  /magic-squares-in-grid/
 	<li><code>1 &lt;= grid[0].length&nbsp;&lt;= 10</code></li>
 	<li><code>0 &lt;= grid[i][j] &lt;= 15</code></li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]

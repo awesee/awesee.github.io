@@ -9,6 +9,8 @@ permalink:  /cheapest-flights-within-k-stops/
 
 ## 787. K 站中转内最便宜的航班 (Medium)
 
+{% raw %}
+
 <p>有 <code>n</code> 个城市通过 <code>m</code> 个航班连接。每个航班都从城市 <code>u</code> 开始，以价格 <code>w</code> 抵达 <code>v</code>。</p>
 
 <p>现在给定所有的城市和航班，以及出发城市 <code>src</code> 和目的地 <code>dst</code>，你的任务是找到从 <code>src</code> 到 <code>dst</code> 最多经过 <code>k</code>&nbsp;站中转的最便宜的价格。 如果没有这样的路线，则输出 <code>-1</code>。</p>
@@ -45,6 +47,8 @@ src = 0, dst = 2, k = 0
 	<li><code>k</code> 范围是 <code>[0, n - 1]</code>.</li>
 	<li>航班没有重复，且不存在环路</li>
 </ul>
+
+{% endraw %}
 
 ### 相关话题
   [[堆](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]

@@ -9,6 +9,8 @@ permalink:  /max-consecutive-ones-iii/
 
 ## 1004. 最大连续1的个数 III (Medium)
 
+{% raw %}
+
 <p>给定一个由若干 <code>0</code> 和 <code>1</code> 组成的数组&nbsp;<code>A</code>，我们最多可以将&nbsp;<code>K</code>&nbsp;个值从 0 变成 1 。</p>
 
 <p>返回仅包含 1 的最长（连续）子数组的长度。</p>
@@ -40,6 +42,8 @@ permalink:  /max-consecutive-ones-iii/
 	<li><code>0 &lt;= K &lt;= A.length</code></li>
 	<li><code>A[i]</code> 为&nbsp;<code>0</code>&nbsp;或&nbsp;<code>1</code>&nbsp;</li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]

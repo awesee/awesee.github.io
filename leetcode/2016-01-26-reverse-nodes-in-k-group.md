@@ -9,6 +9,8 @@ permalink:  /reverse-nodes-in-k-group/
 
 ## 25. K 个一组翻转链表 (Hard)
 
+{% raw %}
+
 <p>给你一个链表，每&nbsp;<em>k&nbsp;</em>个节点一组进行翻转，请你返回翻转后的链表。</p>
 
 <p><em>k&nbsp;</em>是一个正整数，它的值小于或等于链表的长度。</p>
@@ -29,6 +31,8 @@ permalink:  /reverse-nodes-in-k-group/
 	<li>你的算法只能使用常数的额外空间。</li>
 	<li><strong>你不能只是单纯的改变节点内部的值</strong>，而是需要实际的进行节点交换。</li>
 </ul>
+
+{% endraw %}
 
 ### 相关话题
   [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]

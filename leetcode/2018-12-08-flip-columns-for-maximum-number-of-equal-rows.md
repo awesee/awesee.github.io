@@ -9,6 +9,8 @@ permalink:  /flip-columns-for-maximum-number-of-equal-rows/
 
 ## 1072. 按列翻转得到最大值等行数 (Medium)
 
+{% raw %}
+
 <p>给定由若干 0 和 1 组成的矩阵&nbsp;<code>matrix</code>，从中选出任意数量的列并翻转其上的&nbsp;<strong>每个&nbsp;</strong>单元格。翻转后，单元格的值从 0 变成 1，或者从 1 变为 0 。</p>
 
 <p>返回经过一些翻转后，行上所有值都相等的最大行数。</p>
@@ -48,6 +50,8 @@ permalink:  /flip-columns-for-maximum-number-of-equal-rows/
 	<li>所有 <code>matrix[i].length</code>&nbsp;都相等</li>
 	<li><code>matrix[i][j]</code> 为&nbsp;<code>0</code> 或&nbsp;<code>1</code></li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]

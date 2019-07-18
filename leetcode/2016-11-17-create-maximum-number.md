@@ -9,6 +9,8 @@ permalink:  /create-maximum-number/
 
 ## 321. 拼接最大数 (Hard)
 
+{% raw %}
+
 <p>给定长度分别为&nbsp;<code>m</code>&nbsp;和&nbsp;<code>n</code>&nbsp;的两个数组，其元素由&nbsp;<code>0-9</code>&nbsp;构成，表示两个自然数各位上的数字。现在从这两个数组中选出 <code>k (k &lt;= m + n)</code>&nbsp;个数字拼接成一个新的数，要求从同一个数组中取出的数字保持其在原数组中的相对顺序。</p>
 
 <p>求满足该条件的最大数。结果返回一个表示该最大数的长度为&nbsp;<code>k</code>&nbsp;的数组。</p>
@@ -41,6 +43,8 @@ nums2 = <code>[8, 9]</code>
 k = <code>3</code>
 <strong>输出:</strong>
 <code>[9, 8, 9]</code></pre>
+
+{% endraw %}
 
 ### 相关话题
   [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]

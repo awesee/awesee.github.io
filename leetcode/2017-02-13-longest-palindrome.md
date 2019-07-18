@@ -9,6 +9,8 @@ permalink:  /longest-palindrome/
 
 ## 409. 最长回文串 (Easy)
 
+{% raw %}
+
 <p>给定一个包含大写字母和小写字母的字符串，找到通过这些字母构造成的最长的回文串。</p>
 
 <p>在构造过程中，请注意区分大小写。比如&nbsp;<code>&quot;Aa&quot;</code>&nbsp;不能当做一个回文字符串。</p>
@@ -28,6 +30,8 @@ permalink:  /longest-palindrome/
 解释:
 我们可以构造的最长的回文串是&quot;dccaccd&quot;, 它的长度是 7。
 </pre>
+
+{% endraw %}
 
 ### 相关话题
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]

@@ -9,6 +9,8 @@ permalink:  /unique-paths/
 
 ## 62. 不同路径 (Medium)
 
+{% raw %}
+
 <p>一个机器人位于一个 <em>m x n </em>网格的左上角 （起始点在下图中标记为&ldquo;Start&rdquo; ）。</p>
 
 <p>机器人每次只能向下或者向右移动一步。机器人试图达到网格的右下角（在下图中标记为&ldquo;Finish&rdquo;）。</p>
@@ -36,6 +38,8 @@ permalink:  /unique-paths/
 
 <pre><strong>输入:</strong> m = 7, n = 3
 <strong>输出:</strong> 28</pre>
+
+{% endraw %}
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]

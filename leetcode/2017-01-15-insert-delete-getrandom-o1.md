@@ -9,6 +9,8 @@ permalink:  /insert-delete-getrandom-o1/
 
 ## 380. 常数时间插入、删除和获取随机元素 (Medium)
 
+{% raw %}
+
 <p>设计一个支持在<em>平均&nbsp;</em>时间复杂度 <strong>O(1)</strong>&nbsp;下，执行以下操作的数据结构。</p>
 
 <ol>
@@ -44,6 +46,8 @@ randomSet.insert(2);
 // 由于 2 是集合中唯一的数字，getRandom 总是返回 2 。
 randomSet.getRandom();
 </pre>
+
+{% endraw %}
 
 ### 相关话题
   [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]

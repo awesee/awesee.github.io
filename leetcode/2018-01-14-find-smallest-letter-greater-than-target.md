@@ -9,6 +9,8 @@ permalink:  /find-smallest-letter-greater-than-target/
 
 ## 744. 寻找比目标字母大的最小字母 (Easy)
 
+{% raw %}
+
 <p>给定一个只包含小写字母的有序数组<code>letters</code>&nbsp;和一个目标字母&nbsp;<code>target</code>，寻找有序数组里面比目标字母大的最小字母。</p>
 
 <p>数组里字母的顺序是循环的。举个例子，如果目标字母<code>target = &#39;z&#39;</code> 并且有序数组为&nbsp;<code>letters = [&#39;a&#39;, &#39;b&#39;]</code>，则答案返回&nbsp;<code>&#39;a&#39;</code>。</p>
@@ -54,6 +56,8 @@ target = &quot;k&quot;
 	<li><code>letters</code> 仅由小写字母组成，最少包含两个不同的字母。</li>
 	<li>目标字母<code>target</code> 是一个小写字母。</li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]

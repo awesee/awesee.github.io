@@ -9,6 +9,8 @@ permalink:  /rising-temperature/
 
 ## 197. 上升的温度 (Easy)
 
+{% raw %}
+
 <p>给定一个 <code>Weather</code> 表，编写一个 SQL 查询，来查找与之前（昨天的）日期相比温度更高的所有日期的 Id。</p>
 
 <pre>+---------+------------------+------------------+
@@ -28,6 +30,8 @@ permalink:  /rising-temperature/
 |  2 |
 |  4 |
 +----+</pre>
+
+{% endraw %}
 
 ---
 

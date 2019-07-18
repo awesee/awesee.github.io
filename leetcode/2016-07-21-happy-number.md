@@ -9,6 +9,8 @@ permalink:  /happy-number/
 
 ## 202. 快乐数 (Easy)
 
+{% raw %}
+
 <p>编写一个算法来判断一个数是不是&ldquo;快乐数&rdquo;。</p>
 
 <p>一个&ldquo;快乐数&rdquo;定义为：对于一个正整数，每一次将该数替换为它每个位置上的数字的平方和，然后重复这个过程直到这个数变为 1，也可能是无限循环但始终变不到 1。如果可以变为 1，那么这个数就是快乐数。</p>
@@ -23,6 +25,8 @@ permalink:  /happy-number/
 6<sup>2</sup> + 8<sup>2</sup> = 100
 1<sup>2</sup> + 0<sup>2</sup> + 0<sup>2</sup> = 1
 </pre>
+
+{% endraw %}
 
 ### 相关话题
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]

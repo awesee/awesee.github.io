@@ -9,6 +9,8 @@ permalink:  /max-consecutive-ones/
 
 ## 485. 最大连续1的个数 (Easy)
 
+{% raw %}
+
 <p>给定一个二进制数组， 计算其中最大连续1的个数。</p>
 
 <p><strong>示例 1:</strong></p>
@@ -25,6 +27,8 @@ permalink:  /max-consecutive-ones/
 	<li>输入的数组只包含&nbsp;<code>0</code> 和<code>1</code>。</li>
 	<li>输入数组的长度是正整数，且不超过 10,000。</li>
 </ul>
+
+{% endraw %}
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]

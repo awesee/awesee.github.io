@@ -9,6 +9,8 @@ permalink:  /most-frequent-subtree-sum/
 
 ## 508. 出现次数最多的子树元素和 (Medium)
 
+{% raw %}
+
 <p>给出二叉树的根，找出出现次数最多的子树元素和。一个结点的子树元素和定义为以该结点为根的二叉树上所有结点的元素之和（包括结点本身）。然后求出出现次数最多的子树元素和。如果有多个元素出现的次数相同，返回所有出现次数最多的元素（不限顺序）。</p>
 
 <p>&nbsp;</p>
@@ -36,6 +38,8 @@ permalink:  /most-frequent-subtree-sum/
 <p>&nbsp;</p>
 
 <p><strong>提示：</strong>&nbsp;假设任意子树元素和均可以用 32 位有符号整数表示。</p>
+
+{% endraw %}
 
 ### 相关话题
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]

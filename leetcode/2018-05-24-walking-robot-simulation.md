@@ -9,6 +9,8 @@ permalink:  /walking-robot-simulation/
 
 ## 874. 模拟行走机器人 (Easy)
 
+{% raw %}
+
 <p>机器人在一个无限大小的网格上行走，从点&nbsp;(0, 0) 处开始出发，面向北方。该机器人可以接收以下三种类型的命令：</p>
 
 <ul>
@@ -52,6 +54,8 @@ permalink:  /walking-robot-simulation/
 	<li><code>-30000 &lt;= obstacle[i][1] &lt;= 30000</code></li>
 	<li>答案保证小于&nbsp;<code>2 ^ 31</code></li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]

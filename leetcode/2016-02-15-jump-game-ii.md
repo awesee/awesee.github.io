@@ -9,6 +9,8 @@ permalink:  /jump-game-ii/
 
 ## 45. 跳跃游戏 II (Hard)
 
+{% raw %}
+
 <p>给定一个非负整数数组，你最初位于数组的第一个位置。</p>
 
 <p>数组中的每个元素代表你在该位置可以跳跃的最大长度。</p>
@@ -26,6 +28,8 @@ permalink:  /jump-game-ii/
 <p><strong>说明:</strong></p>
 
 <p>假设你总是可以到达数组的最后一个位置。</p>
+
+{% endraw %}
 
 ### 相关话题
   [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]

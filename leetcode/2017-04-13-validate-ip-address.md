@@ -9,6 +9,8 @@ permalink:  /validate-ip-address/
 
 ## 468. 验证IP地址 (Medium)
 
+{% raw %}
+
 <p>编写一个函数来验证输入的字符串是否是有效的 IPv4 或&nbsp;IPv6 地址。</p>
 
 <p><strong>IPv4</strong>&nbsp;地址由十进制数和点来表示，每个地址包含4个十进制数，其范围为&nbsp;0 -&nbsp;255，&nbsp;用(&quot;.&quot;)分割。比如，<code>172.16.254.1</code>；</p>
@@ -52,6 +54,8 @@ permalink:  /validate-ip-address/
 
 <strong>解释:</strong> 这个地址既不是 IPv4 也不是 IPv6 地址。
 </pre>
+
+{% endraw %}
 
 ### 相关话题
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]

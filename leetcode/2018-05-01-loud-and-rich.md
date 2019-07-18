@@ -9,6 +9,8 @@ permalink:  /loud-and-rich/
 
 ## 851. 喧闹和富有 (Medium)
 
+{% raw %}
+
 <p>在一组 N 个人（编号为&nbsp;<code>0, 1, 2, ..., N-1</code>）中，每个人都有不同数目的钱，以及不同程度的安静（quietness）。</p>
 
 <p>为了方便起见，我们将编号为&nbsp;<code>x</code>&nbsp;的人简称为 &quot;person&nbsp;<code>x</code>&nbsp;&quot;。</p>
@@ -47,6 +49,8 @@ answer[7] = 7，
 	<li><code>richer[i]</code>&nbsp;都是不同的。</li>
 	<li>对&nbsp;<code>richer</code>&nbsp;的观察在逻辑上是一致的。</li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]

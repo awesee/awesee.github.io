@@ -9,6 +9,8 @@ permalink:  /wildcard-matching/
 
 ## 44. 通配符匹配 (Hard)
 
+{% raw %}
+
 <p>给定一个字符串&nbsp;(<code>s</code>) 和一个字符模式&nbsp;(<code>p</code>) ，实现一个支持&nbsp;<code>&#39;?&#39;</code>&nbsp;和&nbsp;<code>&#39;*&#39;</code>&nbsp;的通配符匹配。</p>
 
 <pre>&#39;?&#39; 可以匹配任何单个字符。
@@ -65,6 +67,8 @@ p = &quot;*a*b&quot;
 s = &quot;acdcb&quot;
 p = &quot;a*c?b&quot;
 <strong>输入:</strong> false</pre>
+
+{% endraw %}
 
 ### 相关话题
   [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]

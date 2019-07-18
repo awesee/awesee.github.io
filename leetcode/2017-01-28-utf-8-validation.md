@@ -9,6 +9,8 @@ permalink:  /utf-8-validation/
 
 ## 393. UTF-8 编码验证 (Medium)
 
+{% raw %}
+
 <p>UTF-8 中的一个字符可能的长度为 <strong>1 到 4 字节</strong>，遵循以下的规则：</p>
 
 <ol>
@@ -52,6 +54,8 @@ data = [235, 140, 4], 表示 8 位的序列: <strong>11101011 10001100 00000100<
 下一个字节是开头为 10 的延续字节，这是正确的。
 但第二个延续字节不以 10 开头，所以是不符合规则的。
 </pre>
+
+{% endraw %}
 
 ### 相关话题
   [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]

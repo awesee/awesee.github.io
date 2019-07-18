@@ -9,6 +9,8 @@ permalink:  /reverse-bits/
 
 ## 190. 颠倒二进制位 (Easy)
 
+{% raw %}
+
 <p>颠倒给定的 32 位无符号整数的二进制位。</p>
 
 <p>&nbsp;</p>
@@ -40,6 +42,8 @@ permalink:  /reverse-bits/
 
 <p><strong>进阶</strong>:<br>
 如果多次调用这个函数，你将如何优化你的算法？</p>
+
+{% endraw %}
 
 ### 相关话题
   [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]

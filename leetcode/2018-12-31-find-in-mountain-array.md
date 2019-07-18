@@ -9,6 +9,8 @@ permalink:  /find-in-mountain-array/
 
 ## 1095. 山脉数组中查找目标值 (Hard)
 
+{% raw %}
+
 <p>（这是一个 <strong>交互式问题&nbsp;</strong>）</p>
 
 <p>给你一个 <strong>山脉数组</strong>&nbsp;<code>mountainArr</code>，请你返回能够使得&nbsp;<code>mountainArr.get(index)</code>&nbsp;<strong>等于</strong>&nbsp;<code>target</code>&nbsp;<strong>最小</strong>&nbsp;的下标 <code>index</code>&nbsp;值。</p>
@@ -72,6 +74,8 @@ permalink:  /find-in-mountain-array/
 	<li><code>0 &lt;= target &lt;= 10^9</code></li>
 	<li><code>0 &lt;= mountain_arr.get(index) &lt;=&nbsp;10^9</code></li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]

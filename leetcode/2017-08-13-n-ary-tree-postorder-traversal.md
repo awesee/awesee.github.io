@@ -9,6 +9,8 @@ permalink:  /n-ary-tree-postorder-traversal/
 
 ## 590. N叉树的后序遍历 (Easy)
 
+{% raw %}
+
 <p>给定一个 N 叉树，返回其节点值的<em>后序遍历</em>。</p>
 
 <p>例如，给定一个&nbsp;<code>3叉树</code>&nbsp;:</p>
@@ -24,6 +26,8 @@ permalink:  /n-ary-tree-postorder-traversal/
 <p>&nbsp;</p>
 
 <p><strong>说明:</strong>&nbsp;递归法很简单，你可以使用迭代法完成此题吗?</p>
+
+{% endraw %}
 
 ### 相关话题
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]

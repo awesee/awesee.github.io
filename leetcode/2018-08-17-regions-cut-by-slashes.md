@@ -9,6 +9,8 @@ permalink:  /regions-cut-by-slashes/
 
 ## 959. 由斜杠划分区域 (Medium)
 
+{% raw %}
+
 <p>在由 1 x 1 方格组成的 N x N 网格&nbsp;<code>grid</code> 中，每个 1 x 1&nbsp;方块由 <code>/</code>、<code>\</code> 或空格构成。这些字符会将方块划分为一些共边的区域。</p>
 
 <p>（请注意，反斜杠字符是转义的，因此 <code>\</code> 用 <code>&quot;\\&quot;</code>&nbsp;表示。）。</p>
@@ -86,6 +88,8 @@ permalink:  /regions-cut-by-slashes/
 	<li><code>1 &lt;= grid.length == grid[0].length &lt;= 30</code></li>
 	<li><code>grid[i][j]</code> 是&nbsp;<code>&#39;/&#39;</code>、<code>&#39;\&#39;</code>、或&nbsp;<code>&#39; &#39;</code>。</li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]

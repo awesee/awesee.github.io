@@ -9,6 +9,8 @@ permalink:  /add-and-search-word-data-structure-design/
 
 ## 211. 添加与搜索单词 - 数据结构设计 (Medium)
 
+{% raw %}
+
 <p>设计一个支持以下两种操作的数据结构：</p>
 
 <pre>void addWord(word)
@@ -31,6 +33,8 @@ search(&quot;b..&quot;) -&gt; true
 <p><strong>说明:</strong></p>
 
 <p>你可以假设所有单词都是由小写字母 <code>a-z</code>&nbsp;组成的。</p>
+
+{% endraw %}
 
 ### 相关话题
   [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]

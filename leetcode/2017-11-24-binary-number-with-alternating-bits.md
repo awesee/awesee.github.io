@@ -9,6 +9,8 @@ permalink:  /binary-number-with-alternating-bits/
 
 ## 693. 交替位二进制数 (Easy)
 
+{% raw %}
+
 <p>给定一个正整数，检查他是否为交替位二进制数：换句话说，就是他的二进制数相邻的两个位数永不相等。</p>
 
 <p><strong>示例 1:</strong></p>
@@ -46,6 +48,8 @@ permalink:  /binary-number-with-alternating-bits/
 <strong>解释:</strong>
 10的二进制数是: 1010
 </pre>
+
+{% endraw %}
 
 ### 相关话题
   [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]

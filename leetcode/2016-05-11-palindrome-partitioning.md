@@ -9,6 +9,8 @@ permalink:  /palindrome-partitioning/
 
 ## 131. 分割回文串 (Medium)
 
+{% raw %}
+
 <p>给定一个字符串 <em>s</em>，将<em> s </em>分割成一些子串，使每个子串都是回文串。</p>
 
 <p>返回 <em>s</em> 所有可能的分割方案。</p>
@@ -21,6 +23,8 @@ permalink:  /palindrome-partitioning/
   [&quot;aa&quot;,&quot;b&quot;],
   [&quot;a&quot;,&quot;a&quot;,&quot;b&quot;]
 ]</pre>
+
+{% endraw %}
 
 ### 相关话题
   [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]

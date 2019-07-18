@@ -9,6 +9,8 @@ permalink:  /implement-rand10-using-rand7/
 
 ## 470. 用 Rand7() 实现 Rand10() (Medium)
 
+{% raw %}
+
 <p>已有方法&nbsp;<code>rand7</code>&nbsp;可生成 1 到 7 范围内的均匀随机整数，试写一个方法&nbsp;<code>rand10</code>&nbsp;生成 1 到 10 范围内的均匀随机整数。</p>
 
 <p>不要使用系统的&nbsp;<code>Math.random()</code>&nbsp;方法。</p>
@@ -56,6 +58,8 @@ permalink:  /implement-rand10-using-rand7/
 	<li><code>rand7()</code>调用次数的&nbsp;<a href="https://en.wikipedia.org/wiki/Expected_value" target="_blank">期望值</a>&nbsp;是多少&nbsp;?</li>
 	<li>你能否尽量少调用 <code>rand7()</code> ?</li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[Random](https://github.com/openset/leetcode/tree/master/tag/random/README.md)]

@@ -9,6 +9,8 @@ permalink:  /minimum-number-of-refueling-stops/
 
 ## 871. 最低加油次数 (Hard)
 
+{% raw %}
+
 <p>汽车从起点出发驶向目的地，该目的地位于出发位置东面 <code>target</code>&nbsp;英里处。</p>
 
 <p>沿途有加油站，每个&nbsp;<code>station[i]</code>&nbsp;代表一个加油站，它位于出发位置东面&nbsp;<code>station[i][0]</code>&nbsp;英里处，并且有&nbsp;<code>station[i][1]</code>&nbsp;升汽油。</p>
@@ -58,6 +60,8 @@ permalink:  /minimum-number-of-refueling-stops/
 	<li><code>0 &lt;= stations.length &lt;= 500</code></li>
 	<li><code>0 &lt; stations[0][0] &lt; stations[1][0] &lt; ... &lt; stations[stations.length-1][0] &lt; target</code></li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[堆](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]

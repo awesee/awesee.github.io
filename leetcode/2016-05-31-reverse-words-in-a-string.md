@@ -9,6 +9,8 @@ permalink:  /reverse-words-in-a-string/
 
 ## 151. 翻转字符串里的单词 (Medium)
 
+{% raw %}
+
 <p>给定一个字符串，逐个翻转字符串中的每个单词。</p>
 
 <p>&nbsp;</p>
@@ -48,6 +50,8 @@ permalink:  /reverse-words-in-a-string/
 <p><strong>进阶：</strong></p>
 
 <p>请选用 C 语言的用户尝试使用&nbsp;<em>O</em>(1) 额外空间复杂度的原地解法。</p>
+
+{% endraw %}
 
 ### 相关话题
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]

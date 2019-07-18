@@ -9,6 +9,8 @@ permalink:  /escape-the-ghosts/
 
 ## 789. 逃脱阻碍者 (Medium)
 
+{% raw %}
+
 <p>你在进行一个简化版的吃豆人游戏。你从&nbsp;<code>(0, 0)</code>&nbsp;点开始出发，你的目的地是&nbsp;<code>(target[0], target[1])</code>&nbsp;。地图上有一些阻碍者，第 i 个阻碍者从&nbsp;<code>(ghosts[i][0], ghosts[i][1])</code>&nbsp;出发。</p>
 
 <p>每一回合，你和阻碍者们*可以*同时向东，西，南，北四个方向移动，每次可以移动到距离原位置1个单位的新位置。</p>
@@ -50,6 +52,8 @@ target = [1, 0]
 	<li>所有的点的坐标值的绝对值 &lt;=&nbsp;<code>10000</code>。</li>
 	<li>阻碍者的数量不会超过&nbsp;<code>100</code>。</li>
 </ul>
+
+{% endraw %}
 
 ### 相关话题
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]

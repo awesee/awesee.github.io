@@ -9,6 +9,8 @@ permalink:  /leaf-similar-trees/
 
 ## 872. 叶子相似的树 (Easy)
 
+{% raw %}
+
 <p>请考虑一颗二叉树上所有的叶子，这些叶子的值按从左到右的顺序排列形成一个&nbsp;<em>叶值序列</em> 。</p>
 
 <p><img alt="" src="https://s3-lc-upload.s3.amazonaws.com/uploads/2018/07/16/tree.png" style="height: 240px; width: 300px;"></p>
@@ -26,6 +28,8 @@ permalink:  /leaf-similar-trees/
 <ul>
 	<li>给定的两颗树可能会有&nbsp;<code>1</code>&nbsp;到&nbsp;<code>100</code>&nbsp;个结点。</li>
 </ul>
+
+{% endraw %}
 
 ### 相关话题
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]

@@ -9,6 +9,8 @@ permalink:  /path-sum-iii/
 
 ## 437. 路径总和 III (Easy)
 
+{% raw %}
+
 <p>给定一个二叉树，它的每个结点都存放着一个整数值。</p>
 
 <p>找出路径和等于给定数值的路径总数。</p>
@@ -35,6 +37,8 @@ permalink:  /path-sum-iii/
 2.  5 -&gt; 2 -&gt; 1
 3.  -3 -&gt; 11
 </pre>
+
+{% endraw %}
 
 ### 相关话题
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]

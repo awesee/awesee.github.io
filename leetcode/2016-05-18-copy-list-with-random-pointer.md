@@ -9,6 +9,8 @@ permalink:  /copy-list-with-random-pointer/
 
 ## 138. 复制带随机指针的链表 (Medium)
 
+{% raw %}
+
 <p>给定一个链表，每个节点包含一个额外增加的随机指针，该指针可以指向链表中的任何节点或空节点。</p>
 
 <p>要求返回这个链表的<strong><a href="https://baike.baidu.com/item/深拷贝/22785317?fr=aladdin" target="_blank">深拷贝</a></strong>。&nbsp;</p>
@@ -34,6 +36,8 @@ permalink:  /copy-list-with-random-pointer/
 <ol>
 	<li>你必须返回<strong>给定头的拷贝</strong>作为对克隆列表的引用。</li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]

@@ -9,6 +9,8 @@ permalink:  /fair-candy-swap/
 
 ## 888. 公平的糖果交换 (Easy)
 
+{% raw %}
+
 <p>爱丽丝和鲍勃有不同大小的糖果棒：<code>A[i]</code> 是爱丽丝拥有的第 <code>i</code>&nbsp;块糖的大小，<code>B[j]</code> 是鲍勃拥有的第 <code>j</code>&nbsp;块糖的大小。</p>
 
 <p>因为他们是朋友，所以他们想交换一个糖果棒，这样交换后，他们都有相同的糖果总量。<em>（一个人拥有的糖果总量是他们拥有的糖果棒大小的总和。）</em></p>
@@ -55,6 +57,8 @@ permalink:  /fair-candy-swap/
 	<li>保证爱丽丝与鲍勃的糖果总量不同。</li>
 	<li>答案肯定存在。</li>
 </ul>
+
+{% endraw %}
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]

@@ -9,6 +9,8 @@ permalink:  /freedom-trail/
 
 ## 514. 自由之路 (Hard)
 
+{% raw %}
+
 <p>视频游戏&ldquo;辐射4&rdquo;中，任务&ldquo;通向自由&rdquo;要求玩家到达名为&ldquo;Freedom Trail Ring&rdquo;的金属表盘，并使用表盘拼写特定关键词才能开门。</p>
 
 <p>给定一个字符串&nbsp;<strong>ring</strong>，表示刻在外环上的编码；给定另一个字符串&nbsp;<strong>key</strong>，表示需要拼写的关键词。您需要算出能够拼写关键词中所有字符的<strong>最少</strong>步数。</p>
@@ -45,6 +47,8 @@ permalink:  /freedom-trail/
 	<li>两个字符串中都只有小写字符，并且均可能存在重复字符；</li>
 	<li>字符串&nbsp;<strong>key</strong>&nbsp;一定可以由字符串 <strong>ring</strong>&nbsp;旋转拼出。</li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]

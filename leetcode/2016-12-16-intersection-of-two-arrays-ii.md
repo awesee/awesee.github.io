@@ -9,6 +9,8 @@ permalink:  /intersection-of-two-arrays-ii/
 
 ## 350. 两个数组的交集 II (Easy)
 
+{% raw %}
+
 <p>给定两个数组，编写一个函数来计算它们的交集。</p>
 
 <p><strong>示例 1:</strong></p>
@@ -36,6 +38,8 @@ permalink:  /intersection-of-two-arrays-ii/
 	<li>如果&nbsp;<em>nums1&nbsp;</em>的大小比&nbsp;<em>nums2&nbsp;</em>小很多，哪种方法更优？</li>
 	<li>如果&nbsp;<em>nums2&nbsp;</em>的元素存储在磁盘上，磁盘内存是有限的，并且你不能一次加载所有的元素到内存中，你该怎么办？</li>
 </ul>
+
+{% endraw %}
 
 ### 相关话题
   [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]

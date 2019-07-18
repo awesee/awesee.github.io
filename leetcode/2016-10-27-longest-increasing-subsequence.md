@@ -9,6 +9,8 @@ permalink:  /longest-increasing-subsequence/
 
 ## 300. 最长上升子序列 (Medium)
 
+{% raw %}
+
 <p>给定一个无序的整数数组，找到其中最长上升子序列的长度。</p>
 
 <p><strong>示例:</strong></p>
@@ -25,6 +27,8 @@ permalink:  /longest-increasing-subsequence/
 </ul>
 
 <p><strong>进阶:</strong> 你能将算法的时间复杂度降低到&nbsp;O(<em>n</em> log <em>n</em>) 吗?</p>
+
+{% endraw %}
 
 ### 相关话题
   [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]

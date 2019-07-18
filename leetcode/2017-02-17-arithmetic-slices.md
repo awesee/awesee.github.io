@@ -9,6 +9,8 @@ permalink:  /arithmetic-slices/
 
 ## 413. 等差数列划分 (Medium)
 
+{% raw %}
+
 <p>如果一个数列至少有三个元素，并且任意两个相邻元素之差相同，则称该数列为等差数列。</p>
 
 <p>例如，以下数列为等差数列:</p>
@@ -42,6 +44,8 @@ A = [1, 2, 3, 4]
 
 返回: 3, A 中有三个子等差数组: [1, 2, 3], [2, 3, 4] 以及自身 [1, 2, 3, 4]。
 </pre>
+
+{% endraw %}
 
 ### 相关话题
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]

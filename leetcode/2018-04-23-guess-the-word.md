@@ -9,6 +9,8 @@ permalink:  /guess-the-word/
 
 ## 843. 猜猜这个单词 (Hard)
 
+{% raw %}
+
 <p>这个问题是 LeetCode 平台新增的<strong><em>交互式问题 </em></strong>。</p>
 
 <p>我们给出了一个由一些独特的单词组成的单词列表，每个单词都是 6 个字母长，并且这个列表中的一个单词将被选作<strong>秘密</strong>。</p>
@@ -36,6 +38,8 @@ permalink:  /guess-the-word/
 </pre>
 
 <p><strong>提示：</strong>任何试图绕过评判的解决方案都将导致比赛资格被取消。</p>
+
+{% endraw %}
 
 ### 相关话题
   [[极小化极大](https://github.com/openset/leetcode/tree/master/tag/minimax/README.md)]

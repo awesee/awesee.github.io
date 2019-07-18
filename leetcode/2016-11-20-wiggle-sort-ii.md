@@ -9,6 +9,8 @@ permalink:  /wiggle-sort-ii/
 
 ## 324. 摆动排序 II (Medium)
 
+{% raw %}
+
 <p>给定一个无序的数组&nbsp;<code>nums</code>，将它重新排列成&nbsp;<code>nums[0] &lt; nums[1] &gt; nums[2] &lt; nums[3]...</code>&nbsp;的顺序。</p>
 
 <p><strong>示例&nbsp;1:</strong></p>
@@ -26,6 +28,8 @@ permalink:  /wiggle-sort-ii/
 
 <p><strong>进阶:</strong><br>
 你能用&nbsp;O(n) 时间复杂度和 / 或原地 O(1) 额外空间来实现吗？</p>
+
+{% endraw %}
 
 ### 相关话题
   [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]

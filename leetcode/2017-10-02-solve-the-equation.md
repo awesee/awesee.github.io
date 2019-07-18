@@ -9,6 +9,8 @@ permalink:  /solve-the-equation/
 
 ## 640. 求解方程 (Medium)
 
+{% raw %}
+
 <p>求解一个给定的方程，将<code>x</code>以字符串&quot;x=#value&quot;的形式返回。该方程仅包含&#39;+&#39;，&#39; - &#39;操作，变量&nbsp;<code>x</code>&nbsp;和其对应系数。</p>
 
 <p>如果方程没有解，请返回&ldquo;No solution&rdquo;。</p>
@@ -46,6 +48,8 @@ permalink:  /solve-the-equation/
 <pre><strong>输入:</strong> &quot;x=x+2&quot;
 <strong>输出:</strong> &quot;No solution&quot;
 </pre>
+
+{% endraw %}
 
 ### 相关话题
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]

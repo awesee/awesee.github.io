@@ -9,6 +9,8 @@ permalink:  /find-the-duplicate-number/
 
 ## 287. 寻找重复数 (Medium)
 
+{% raw %}
+
 <p>给定一个包含&nbsp;<em>n</em> + 1 个整数的数组&nbsp;<em>nums</em>，其数字都在 1 到 <em>n&nbsp;</em>之间（包括 1 和 <em>n</em>），可知至少存在一个重复的整数。假设只有一个重复的整数，找出这个重复的数。</p>
 
 <p><strong>示例 1:</strong></p>
@@ -31,6 +33,8 @@ permalink:  /find-the-duplicate-number/
 	<li>时间复杂度小于 <em>O</em>(<em>n</em><sup>2</sup>) 。</li>
 	<li>数组中只有一个重复的数字，但它可能不止重复出现一次。</li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]

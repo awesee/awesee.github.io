@@ -9,6 +9,8 @@ permalink:  /perfect-squares/
 
 ## 279. 完全平方数 (Medium)
 
+{% raw %}
+
 <p>给定正整数&nbsp;<em>n</em>，找到若干个完全平方数（比如&nbsp;<code>1, 4, 9, 16, ...</code>）使得它们的和等于<em> n</em>。你需要让组成和的完全平方数的个数最少。</p>
 
 <p><strong>示例&nbsp;1:</strong></p>
@@ -22,6 +24,8 @@ permalink:  /perfect-squares/
 <pre><strong>输入:</strong> <em>n</em> = <code>13</code>
 <strong>输出:</strong> 2
 <strong>解释: </strong><code>13 = 4 + 9.</code></pre>
+
+{% endraw %}
 
 ### 相关话题
   [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]

@@ -9,6 +9,8 @@ permalink:  /keys-and-rooms/
 
 ## 841. 钥匙和房间 (Medium)
 
+{% raw %}
+
 <p>有 <code>N</code> 个房间，开始时你位于 <code>0</code> 号房间。每个房间有不同的号码：<code>0，1，2，...，N-1</code>，并且房间里可能有一些钥匙能使你进入下一个房间。</p>
 
 <p>在形式上，对于每个房间 <code>i</code> 都有一个钥匙列表 <code>rooms[i]</code>，每个钥匙 <code>rooms[i][j]</code> 由 <code>[0,1，...，N-1]</code> 中的一个整数表示，其中 <code>N = rooms.length</code>。 钥匙 <code>rooms[i][j] = v</code> 可以打开编号为 <code>v</code> 的房间。</p>
@@ -48,6 +50,8 @@ permalink:  /keys-and-rooms/
 	<li><code>0 &lt;= rooms[i].length &lt;= 1000</code></li>
 	<li>所有房间中的钥匙数量总计不超过&nbsp;<code>3000</code>。</li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]

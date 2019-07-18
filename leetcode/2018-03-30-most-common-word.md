@@ -9,6 +9,8 @@ permalink:  /most-common-word/
 
 ## 819. 最常见的单词 (Easy)
 
+{% raw %}
+
 <p>给定一个段落 (paragraph) 和一个禁用单词列表 (banned)。返回出现次数最多，同时不在禁用列表中的单词。题目保证至少有一个词不在禁用列表中，而且答案唯一。</p>
 
 <p>禁用列表中的单词用小写字母表示，不含标点符号。段落中的单词不区分大小写。答案都是小写字母。</p>
@@ -41,6 +43,8 @@ banned = [&quot;hit&quot;]
 	<li>不存在没有连字符或者带有连字符的单词。</li>
 	<li>单词里只包含字母，不会出现省略号或者其他标点符号。</li>
 </ul>
+
+{% endraw %}
 
 ### 相关话题
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]

@@ -9,6 +9,8 @@ permalink:  /erect-the-fence/
 
 ## 587. 安装栅栏 (Hard)
 
+{% raw %}
+
 <p>在一个二维的花园中，有一些用 (x, y) 坐标表示的树。由于安装费用十分昂贵，你的任务是先用<strong>最短</strong>的绳子围起所有的树。只有当所有的树都被绳子包围时，花园才能围好栅栏。你需要找到正好位于栅栏边界上的树的坐标。</p>
 
 <p>&nbsp;</p>
@@ -41,6 +43,8 @@ permalink:  /erect-the-fence/
 	<li>所有树的坐标都是不同的。</li>
 	<li>输入的点<strong>没有</strong>顺序。输出顺序也没有要求。</li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[几何](https://github.com/openset/leetcode/tree/master/tag/geometry/README.md)]

@@ -9,6 +9,8 @@ permalink:  /self-crossing/
 
 ## 335. 路径交叉 (Hard)
 
+{% raw %}
+
 <p>给定一个含有&nbsp;<code>n</code>&nbsp;个正数的数组&nbsp;<em>x</em>。从点&nbsp;<code>(0,0)</code>&nbsp;开始，先向北移动&nbsp;<code>x[0]</code>&nbsp;米，然后向西移动&nbsp;<code>x[1]</code>&nbsp;米，向南移动&nbsp;<code>x[2]</code>&nbsp;米，向东移动&nbsp;<code>x[3]</code>&nbsp;米，持续移动。也就是说，每次移动后你的方位会发生逆时针变化。</p>
 
 <p>编写一个&nbsp;<code>O(1)</code>&nbsp;空间复杂度的一趟扫描算法，判断你所经过的路径是否相交。</p>
@@ -47,6 +49,8 @@ permalink:  /self-crossing/
 输入:</strong> <code>[1,1,1,1]</code>
 <strong>输出:</strong> true 
 </pre>
+
+{% endraw %}
 
 ### 相关话题
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]

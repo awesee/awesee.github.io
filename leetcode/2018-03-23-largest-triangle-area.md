@@ -9,6 +9,8 @@ permalink:  /largest-triangle-area/
 
 ## 812. 最大三角形面积 (Easy)
 
+{% raw %}
+
 <p>给定包含多个点的集合，从其中取三个点组成三角形，返回能组成的最大三角形的面积。</p>
 
 <pre>
@@ -29,6 +31,8 @@ permalink:  /largest-triangle-area/
 	<li>&nbsp;<code>-50 &lt;= points[i][j] &lt;= 50</code>.</li>
 	<li>结果误差值在&nbsp;<code>10^-6</code>&nbsp;以内都认为是正确答案。</li>
 </ul>
+
+{% endraw %}
 
 ### 相关话题
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]

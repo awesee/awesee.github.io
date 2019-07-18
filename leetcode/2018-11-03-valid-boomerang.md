@@ -9,6 +9,8 @@ permalink:  /valid-boomerang/
 
 ## 1037. 有效的回旋镖 (Easy)
 
+{% raw %}
+
 <p>回旋镖定义为一组三个点，这些点各不相同且<strong>不</strong>在一条直线上。</p>
 
 <p>给出平面上三个点组成的列表，判断这些点是否可以构成回旋镖。</p>
@@ -35,6 +37,8 @@ permalink:  /valid-boomerang/
 	<li><code>points[i].length == 2</code></li>
 	<li><code>0 &lt;= points[i][j] &lt;= 100</code></li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]

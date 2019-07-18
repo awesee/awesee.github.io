@@ -9,6 +9,8 @@ permalink:  /largest-palindrome-product/
 
 ## 479. 最大回文数乘积 (Hard)
 
+{% raw %}
+
 <p>你需要找到由两个 n 位数的乘积组成的最大回文数。</p>
 
 <p>由于结果会很大，你只需返回最大回文数 mod 1337得到的结果。</p>
@@ -24,6 +26,8 @@ permalink:  /largest-palindrome-product/
 <p><strong>说明:</strong></p>
 
 <p>n 的取值范围为&nbsp;[1,8]。</p>
+
+{% endraw %}
 
 ---
 

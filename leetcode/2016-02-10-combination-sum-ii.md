@@ -9,6 +9,8 @@ permalink:  /combination-sum-ii/
 
 ## 40. 组合总和 II (Medium)
 
+{% raw %}
+
 <p>给定一个数组&nbsp;<code>candidates</code>&nbsp;和一个目标数&nbsp;<code>target</code>&nbsp;，找出&nbsp;<code>candidates</code>&nbsp;中所有可以使数字和为&nbsp;<code>target</code>&nbsp;的组合。</p>
 
 <p><code>candidates</code>&nbsp;中的每个数字在每个组合中只能使用一次。</p>
@@ -40,6 +42,8 @@ permalink:  /combination-sum-ii/
 &nbsp; [1,2,2],
 &nbsp; [5]
 ]</pre>
+
+{% endraw %}
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]

@@ -9,6 +9,8 @@ permalink:  /shortest-path-in-binary-matrix/
 
 ## 1091. 二进制矩阵中的最短路径 (Medium)
 
+{% raw %}
+
 <p>在一个&nbsp;N &times;&nbsp;N 的方形网格中，每个单元格有两种状态：空（0）或者阻塞（1）。</p>
 
 <p>一条从左上角到右下角、长度为 <code>k</code> 的畅通路径，由满足下述条件的单元格&nbsp;<code>C_1, C_2, ..., C_k</code>&nbsp;组成：</p>
@@ -48,6 +50,8 @@ permalink:  /shortest-path-in-binary-matrix/
 	<li><code>1 &lt;= grid.length == grid[0].length &lt;= 100</code></li>
 	<li><code>grid[i][j]</code> 为&nbsp;<code>0</code> 或&nbsp;<code>1</code></li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]

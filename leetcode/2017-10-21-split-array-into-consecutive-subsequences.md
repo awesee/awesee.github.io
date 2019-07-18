@@ -9,6 +9,8 @@ permalink:  /split-array-into-consecutive-subsequences/
 
 ## 659. 分割数组为连续子序列 (Medium)
 
+{% raw %}
+
 <p>输入一个按升序排序的整数数组（可能包含重复数字），你需要将它们分割成几个子序列，其中每个子序列至少包含三个连续整数。返回你是否能做出这样的分割？</p>
 
 <p>&nbsp;</p>
@@ -55,6 +57,8 @@ permalink:  /split-array-into-consecutive-subsequences/
 </ol>
 
 <p>&nbsp;</p>
+
+{% endraw %}
 
 ### 相关话题
   [[堆](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]

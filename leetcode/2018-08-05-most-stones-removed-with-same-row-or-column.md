@@ -9,6 +9,8 @@ permalink:  /most-stones-removed-with-same-row-or-column/
 
 ## 947. 移除最多的同行或同列石头 (Medium)
 
+{% raw %}
+
 <p>在二维平面上，我们将石头放置在一些整数坐标点上。每个坐标点上最多只能有一块石头。<br>
 <br>
 现在，<em>move</em> 操作将会移除与网格上的某一块石头共享一列或一行的一块石头。<br>
@@ -43,6 +45,8 @@ permalink:  /most-stones-removed-with-same-row-or-column/
 	<li><code>1 &lt;= stones.length &lt;= 1000</code></li>
 	<li><code>0 &lt;= stones[i][j] &lt; 10000</code></li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]

@@ -9,6 +9,8 @@ permalink:  /palindrome-linked-list/
 
 ## 234. 回文链表 (Easy)
 
+{% raw %}
+
 <p>请判断一个链表是否为回文链表。</p>
 
 <p><strong>示例 1:</strong></p>
@@ -24,6 +26,8 @@ permalink:  /palindrome-linked-list/
 
 <p><strong>进阶：</strong><br>
 你能否用&nbsp;O(n) 时间复杂度和 O(1) 空间复杂度解决此题？</p>
+
+{% endraw %}
 
 ### 相关话题
   [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]

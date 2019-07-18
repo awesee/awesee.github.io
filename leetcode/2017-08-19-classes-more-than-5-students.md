@@ -9,6 +9,8 @@ permalink:  /classes-more-than-5-students/
 
 ## 596. 超过5名学生的课 (Easy)
 
+{% raw %}
+
 <p>有一个<code>courses</code> 表 ，有: <strong>student&nbsp;(学生) </strong>和 <strong>class (课程)</strong>。</p>
 
 <p>请列出所有超过或等于5名学生的课。</p>
@@ -43,6 +45,8 @@ permalink:  /classes-more-than-5-students/
 
 <p><strong>Note:</strong><br />
 学生在每个课中不应被重复计算。</p>
+
+{% endraw %}
 
 ---
 

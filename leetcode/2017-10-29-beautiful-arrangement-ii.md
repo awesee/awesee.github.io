@@ -9,6 +9,8 @@ permalink:  /beautiful-arrangement-ii/
 
 ## 667. 优美的排列 II (Medium)
 
+{% raw %}
+
 <p>给定两个整数&nbsp;<code>n</code>&nbsp;和&nbsp;<code>k</code>，你需要实现一个数组，这个数组包含从&nbsp;<code>1</code>&nbsp;到&nbsp;<code>n</code>&nbsp;的 <code>n</code>&nbsp;个不同整数，同时满足以下条件：</p>
 
 <p>① 如果这个数组是 [a<sub>1</sub>, a<sub>2</sub>, a<sub>3</sub>, ... , a<sub>n</sub>] ，那么数组&nbsp;[|a<sub>1</sub> - a<sub>2</sub>|, |a<sub>2</sub> - a<sub>3</sub>|, |a<sub>3</sub> - a<sub>4</sub>|, ... , |a<sub>n-1</sub> - a<sub>n</sub>|] 中应该有且仅有&nbsp;k 个不同整数；.</p>
@@ -42,6 +44,8 @@ permalink:  /beautiful-arrangement-ii/
 </ol>
 
 <p>&nbsp;</p>
+
+{% endraw %}
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]

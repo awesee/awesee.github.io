@@ -9,6 +9,8 @@ permalink:  /partition-equal-subset-sum/
 
 ## 416. 分割等和子集 (Medium)
 
+{% raw %}
+
 <p>给定一个<strong>只包含正整数</strong>的<strong>非空</strong>数组。是否可以将这个数组分割成两个子集，使得两个子集的元素和相等。</p>
 
 <p><strong>注意:</strong></p>
@@ -39,6 +41,8 @@ permalink:  /partition-equal-subset-sum/
 </pre>
 
 <p>&nbsp;</p>
+
+{% endraw %}
 
 ### 相关话题
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]

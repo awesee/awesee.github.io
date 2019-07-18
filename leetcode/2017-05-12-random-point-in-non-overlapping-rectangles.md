@@ -9,6 +9,8 @@ permalink:  /random-point-in-non-overlapping-rectangles/
 
 ## 497. 非重叠矩形中的随机点 (Medium)
 
+{% raw %}
+
 <p>给定一个非重叠轴对齐矩形的列表 <code>rects</code>，写一个函数 <code>pick</code> 随机均匀地选取矩形覆盖的空间中的整数点。</p>
 
 <p>提示：</p>
@@ -51,6 +53,8 @@ permalink:  /random-point-in-non-overlapping-rectangles/
 <p>输入是两个列表：调用的子例程及其参数。<code>Solution</code> 的构造函数有一个参数，即矩形数组 <code>rects</code>。<code>pick</code> 没有参数。参数总是用列表包装的，即使没有也是如此。</p>
 
 <p>&nbsp;</p>
+
+{% endraw %}
 
 ### 相关话题
   [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]

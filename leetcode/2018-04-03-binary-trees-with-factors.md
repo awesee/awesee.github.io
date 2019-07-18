@@ -9,6 +9,8 @@ permalink:  /binary-trees-with-factors/
 
 ## 823. 带因子的二叉树 (Medium)
 
+{% raw %}
+
 <p>给出一个含有不重复整数元素的数组，每个整数均大于 1。</p>
 
 <p>我们用这些整数来构建二叉树，每个整数可以使用任意次数。</p>
@@ -41,6 +43,8 @@ permalink:  /binary-trees-with-factors/
 	<li><code>1 &lt;= A.length &lt;=&nbsp;1000.</code></li>
 	<li><code>2 &lt;=&nbsp;A[i]&nbsp;&lt;=&nbsp;10 ^ 9</code>.</li>
 </ol>
+
+{% endraw %}
 
 ---
 

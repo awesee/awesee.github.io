@@ -9,6 +9,8 @@ permalink:  /flipping-an-image/
 
 ## 832. 翻转图像 (Easy)
 
+{% raw %}
+
 <p>给定一个二进制矩阵&nbsp;<code>A</code>，我们想先水平翻转图像，然后反转图像并返回结果。</p>
 
 <p>水平翻转图片就是将图片的每一行都进行翻转，即逆序。例如，水平翻转&nbsp;<code>[1, 1, 0]</code>&nbsp;的结果是&nbsp;<code>[0, 1, 1]</code>。</p>
@@ -39,6 +41,8 @@ permalink:  /flipping-an-image/
 	<li><code>1 &lt;= A.length = A[0].length &lt;= 20</code></li>
 	<li><code>0 &lt;= A[i][j]&nbsp;&lt;=&nbsp;1</code></li>
 </ul>
+
+{% endraw %}
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]

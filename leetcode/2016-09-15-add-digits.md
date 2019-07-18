@@ -9,6 +9,8 @@ permalink:  /add-digits/
 
 ## 258. 各位相加 (Easy)
 
+{% raw %}
+
 <p>给定一个非负整数 <code>num</code>，反复将各个位上的数字相加，直到结果为一位数。</p>
 
 <p><strong>示例:</strong></p>
@@ -20,6 +22,8 @@ permalink:  /add-digits/
 
 <p><strong>进阶:</strong><br>
 你可以不使用循环或者递归，且在 O(1) 时间复杂度内解决这个问题吗？</p>
+
+{% endraw %}
 
 ### 相关话题
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]

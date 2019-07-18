@@ -9,6 +9,8 @@ permalink:  /smallest-good-base/
 
 ## 483. 最小好进制 (Hard)
 
+{% raw %}
+
 <p>对于给定的整数 n, 如果n的k（k&gt;=2）进制数的所有数位全为1，则称&nbsp;k（k&gt;=2）是 n 的一个<em><strong>好进制</strong></em>。</p>
 
 <p>以字符串的形式给出 n, 以字符串的形式返回 n 的最小好进制。</p>
@@ -49,6 +51,8 @@ permalink:  /smallest-good-base/
 </ol>
 
 <p>&nbsp;</p>
+
+{% endraw %}
 
 ### 相关话题
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]

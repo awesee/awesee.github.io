@@ -9,6 +9,8 @@ permalink:  /short-encoding-of-words/
 
 ## 820. 单词的压缩编码 (Medium)
 
+{% raw %}
+
 <p>给定一个单词列表，我们将这个列表编码成一个索引字符串&nbsp;<code>S</code>&nbsp;与一个索引列表 <code>A</code>。</p>
 
 <p>例如，如果这个列表是 <code>[&quot;time&quot;, &quot;me&quot;, &quot;bell&quot;]</code>，我们就可以将其表示为 <code>S = &quot;time#bell#&quot;</code> 和 <code>indexes = [0, 2, 5]</code>。</p>
@@ -35,6 +37,8 @@ permalink:  /short-encoding-of-words/
 	<li><code>1 &lt;=&nbsp;words[i].length&nbsp;&lt;= 7</code></li>
 	<li>每个单词都是小写字母 。</li>
 </ol>
+
+{% endraw %}
 
 ---
 

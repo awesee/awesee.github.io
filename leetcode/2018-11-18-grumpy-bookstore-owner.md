@@ -9,6 +9,8 @@ permalink:  /grumpy-bookstore-owner/
 
 ## 1052. 爱生气的书店老板 (Medium)
 
+{% raw %}
+
 <p>今天，书店老板有一家店打算试营业&nbsp;<code>customers.length</code>&nbsp;分钟。每分钟都有一些顾客（<code>customers[i]</code>）会进入书店，所有这些顾客都会在那一分钟结束后离开。</p>
 
 <p>在某些时候，书店老板会生气。 如果书店老板在第 <code>i</code> 分钟生气，那么 <code>grumpy[i] = 1</code>，否则 <code>grumpy[i] = 0</code>。 当书店老板生气时，那一分钟的顾客就会不满意，不生气则他们是满意的。</p>
@@ -36,6 +38,8 @@ permalink:  /grumpy-bookstore-owner/
 	<li><code>0 &lt;=&nbsp;customers[i] &lt;= 1000</code></li>
 	<li><code>0 &lt;=&nbsp;grumpy[i] &lt;= 1</code></li>
 </ul>
+
+{% endraw %}
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]

@@ -9,6 +9,8 @@ permalink:  /reveal-cards-in-increasing-order/
 
 ## 950. 按递增顺序显示卡牌 (Medium)
 
+{% raw %}
+
 <p>牌组中的每张卡牌都对应有一个唯一的整数。你可以按你想要的顺序对这套卡片进行排序。</p>
 
 <p>最初，这些卡牌在牌组里是正面朝下的（即，未显示状态）。</p>
@@ -53,6 +55,8 @@ permalink:  /reveal-cards-in-increasing-order/
 	<li><code>1 &lt;= A[i] &lt;= 10^6</code></li>
 	<li>对于所有的&nbsp;<code>i != j</code>，<code>A[i] != A[j]</code></li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]

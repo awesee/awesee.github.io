@@ -9,6 +9,8 @@ permalink:  /minimum-size-subarray-sum/
 
 ## 209. 长度最小的子数组 (Medium)
 
+{% raw %}
+
 <p>给定一个含有&nbsp;<strong>n&nbsp;</strong>个正整数的数组和一个正整数&nbsp;<strong>s ，</strong>找出该数组中满足其和<strong> &ge; s </strong>的长度最小的连续子数组<strong>。</strong>如果不存在符合条件的连续子数组，返回 0。</p>
 
 <p><strong>示例:&nbsp;</strong></p>
@@ -21,6 +23,8 @@ permalink:  /minimum-size-subarray-sum/
 <p><strong>进阶:</strong></p>
 
 <p>如果你已经完成了<em>O</em>(<em>n</em>) 时间复杂度的解法, 请尝试&nbsp;<em>O</em>(<em>n</em> log <em>n</em>) 时间复杂度的解法。</p>
+
+{% endraw %}
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]

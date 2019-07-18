@@ -9,6 +9,8 @@ permalink:  /ones-and-zeroes/
 
 ## 474. 一和零 (Medium)
 
+{% raw %}
+
 <p>在计算机界中，我们总是追求用有限的资源获取最大的收益。</p>
 
 <p>现在，假设你分别支配着 <strong>m</strong> 个&nbsp;<code>0</code>&nbsp;和 <strong>n</strong> 个&nbsp;<code>1</code>。另外，还有一个仅包含&nbsp;<code>0</code>&nbsp;和&nbsp;<code>1</code>&nbsp;字符串的数组。</p>
@@ -39,6 +41,8 @@ permalink:  /ones-and-zeroes/
 
 <strong>解释:</strong> 你可以拼出 &quot;10&quot;，但之后就没有剩余数字了。更好的选择是拼出 &quot;0&quot; 和 &quot;1&quot; 。
 </pre>
+
+{% endraw %}
 
 ### 相关话题
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]

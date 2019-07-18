@@ -9,6 +9,8 @@ permalink:  /convert-to-base-2/
 
 ## 1017. 负二进制转换 (Medium)
 
+{% raw %}
+
 <p>给出数字&nbsp;<code>N</code>，返回由若干&nbsp;<code>&quot;0&quot;</code>&nbsp;和&nbsp;<code>&quot;1&quot;</code>组成的字符串，该字符串为 <code>N</code>&nbsp;的<strong>负二进制（<code>base -2</code>）</strong>表示。</p>
 
 <p>除非字符串就是&nbsp;<code>&quot;0&quot;</code>，否则返回的字符串中不能含有前导零。</p>
@@ -43,6 +45,8 @@ permalink:  /convert-to-base-2/
 <ol>
 	<li><code>0 &lt;= N &lt;= 10^9</code></li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]

@@ -9,6 +9,8 @@ permalink:  /squares-of-a-sorted-array/
 
 ## 977. 有序数组的平方 (Easy)
 
+{% raw %}
+
 <p>给定一个按非递减顺序排序的整数数组 <code>A</code>，返回每个数字的平方组成的新数组，要求也按非递减顺序排序。</p>
 
 <p>&nbsp;</p>
@@ -34,6 +36,8 @@ permalink:  /squares-of-a-sorted-array/
 	<li><code>-10000 &lt;= A[i] &lt;= 10000</code></li>
 	<li><code>A</code>&nbsp;已按非递减顺序排序。</li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]

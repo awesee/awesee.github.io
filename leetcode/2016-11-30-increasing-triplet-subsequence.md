@@ -9,6 +9,8 @@ permalink:  /increasing-triplet-subsequence/
 
 ## 334. 递增的三元子序列 (Medium)
 
+{% raw %}
+
 <p>给定一个未排序的数组，判断这个数组中是否存在长度为 3 的递增子序列。</p>
 
 <p>数学表达式如下:</p>
@@ -28,6 +30,8 @@ permalink:  /increasing-triplet-subsequence/
 
 <pre><strong>输入: </strong>[5,4,3,2,1]
 <strong>输出: </strong>false</pre>
+
+{% endraw %}
 
 ### 相似题目
   1. [最长上升子序列](/longest-increasing-subsequence) (Medium)

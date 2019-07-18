@@ -9,6 +9,8 @@ permalink:  /maximum-subarray/
 
 ## 53. 最大子序和 (Easy)
 
+{% raw %}
+
 <p>给定一个整数数组 <code>nums</code>&nbsp;，找到一个具有最大和的连续子数组（子数组最少包含一个元素），返回其最大和。</p>
 
 <p><strong>示例:</strong></p>
@@ -21,6 +23,8 @@ permalink:  /maximum-subarray/
 <p><strong>进阶:</strong></p>
 
 <p>如果你已经实现复杂度为 O(<em>n</em>) 的解法，尝试使用更为精妙的分治法求解。</p>
+
+{% endraw %}
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]

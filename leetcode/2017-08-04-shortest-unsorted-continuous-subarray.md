@@ -9,6 +9,8 @@ permalink:  /shortest-unsorted-continuous-subarray/
 
 ## 581. 最短无序连续子数组 (Easy)
 
+{% raw %}
+
 <p>给定一个整数数组，你需要寻找一个<strong>连续的子数组</strong>，如果对这个子数组进行升序排序，那么整个数组都会变为升序排序。</p>
 
 <p>你找到的子数组应是<strong>最短</strong>的，请输出它的长度。</p>
@@ -27,6 +29,8 @@ permalink:  /shortest-unsorted-continuous-subarray/
 	<li>输入的数组长度范围在&nbsp;[1, 10,000]。</li>
 	<li>输入的数组可能包含<strong>重复</strong>元素&nbsp;，所以<strong>升序</strong>的意思是<strong>&lt;=。</strong></li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]

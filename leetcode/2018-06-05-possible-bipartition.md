@@ -9,6 +9,8 @@ permalink:  /possible-bipartition/
 
 ## 886. 可能的二分法 (Medium)
 
+{% raw %}
+
 <p>给定一组&nbsp;<code>N</code>&nbsp;人（编号为&nbsp;<code>1, 2, ..., N</code>），&nbsp;我们想把每个人分进<strong>任意</strong>大小的两组。</p>
 
 <p>每个人都可能不喜欢其他人，那么他们不应该属于同一组。</p>
@@ -52,6 +54,8 @@ permalink:  /possible-bipartition/
 	<li><code>dislikes[i][0] &lt; dislikes[i][1]</code></li>
 	<li>对于&nbsp;<code>dislikes[i] == dislikes[j]</code>&nbsp;不存在&nbsp;<code>i != j</code>&nbsp;</li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]

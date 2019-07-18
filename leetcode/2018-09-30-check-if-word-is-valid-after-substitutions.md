@@ -9,6 +9,8 @@ permalink:  /check-if-word-is-valid-after-substitutions/
 
 ## 1003. 检查替换后的词是否有效 (Medium)
 
+{% raw %}
+
 <p>给定有效字符串&nbsp;<code>&quot;abc&quot;</code>。</p>
 
 <p>对于任何有效的字符串 <code>V</code>，我们可以将 <code>V</code> 分成两个部分 <code>X</code> 和 <code>Y</code>，使得 <code>X + Y</code>（<code>X</code> 与 <code>Y</code> 连接）等于 <code>V</code>。（<code>X</code>&nbsp;或 <code>Y</code> 可以为空。）那么，<code>X + &quot;abc&quot; + Y</code> 也同样是有效的。</p>
@@ -58,6 +60,8 @@ permalink:  /check-if-word-is-valid-after-substitutions/
 </ol>
 
 <p>&nbsp;</p>
+
+{% endraw %}
 
 ### 相关话题
   [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]

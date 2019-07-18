@@ -9,6 +9,8 @@ permalink:  /employees-earning-more-than-their-managers/
 
 ## 181. 超过经理收入的员工 (Easy)
 
+{% raw %}
+
 <p><code>Employee</code>&nbsp;表包含所有员工，他们的经理也属于员工。每个员工都有一个 Id，此外还有一列对应员工的经理的 Id。</p>
 
 <pre>+----+-------+--------+-----------+
@@ -29,6 +31,8 @@ permalink:  /employees-earning-more-than-their-managers/
 | Joe      |
 +----------+
 </pre>
+
+{% endraw %}
 
 ---
 

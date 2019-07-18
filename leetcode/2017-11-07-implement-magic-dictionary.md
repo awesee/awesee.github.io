@@ -9,6 +9,8 @@ permalink:  /implement-magic-dictionary/
 
 ## 676. 实现一个魔法字典 (Medium)
 
+{% raw %}
+
 <p>实现一个带有<code>buildDict</code>, 以及&nbsp;<code>search</code>方法的魔法字典。</p>
 
 <p>对于<code>buildDict</code>方法，你将被给定一串不重复的单词来构建一个字典。</p>
@@ -32,6 +34,8 @@ Input: search(&quot;leetcoded&quot;), Output: False
 	<li>为了便于竞赛，测试所用的数据量很小。你可以在竞赛结束后，考虑更高效的算法。</li>
 	<li>请记住<strong>重置</strong>MagicDictionary类中声明的类变量，因为静态/类变量会在多个测试用例中保留。 请参阅<a href="http://leetcode.com/faq/#different-output">这里</a>了解更多详情。</li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[字典树](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)]

@@ -9,6 +9,8 @@ permalink:  /top-k-frequent-words/
 
 ## 692. 前K个高频单词 (Medium)
 
+{% raw %}
+
 <p>给一非空的单词列表，返回前&nbsp;<em>k&nbsp;</em>个出现次数最多的单词。</p>
 
 <p>返回的答案应该按单词出现频率由高到低排序。如果不同的单词有相同出现频率，按字母顺序排序。</p>
@@ -49,6 +51,8 @@ permalink:  /top-k-frequent-words/
 <ol>
 	<li>尝试以&nbsp;<em>O</em>(<em>n</em> log <em>k</em>) 时间复杂度和&nbsp;<em>O</em>(<em>n</em>) 空间复杂度解决。</li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[堆](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]

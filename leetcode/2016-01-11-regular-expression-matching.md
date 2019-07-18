@@ -9,6 +9,8 @@ permalink:  /regular-expression-matching/
 
 ## 10. 正则表达式匹配 (Hard)
 
+{% raw %}
+
 <p>给你一个字符串&nbsp;<code>s</code>&nbsp;和一个字符规律&nbsp;<code>p</code>，请你来实现一个支持 <code>&#39;.&#39;</code>&nbsp;和&nbsp;<code>&#39;*&#39;</code>&nbsp;的正则表达式匹配。</p>
 
 <pre>&#39;.&#39; 匹配任意单个字符
@@ -66,6 +68,8 @@ p = &quot;c*a*b&quot;
 s = &quot;mississippi&quot;
 p = &quot;mis*is*p*.&quot;
 <strong>输出:</strong> false</pre>
+
+{% endraw %}
 
 ### 相关话题
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]

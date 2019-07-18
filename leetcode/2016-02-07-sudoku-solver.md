@@ -9,6 +9,8 @@ permalink:  /sudoku-solver/
 
 ## 37. 解数独 (Hard)
 
+{% raw %}
+
 <p>编写一个程序，通过已填充的空格来解决数独问题。</p>
 
 <p>一个数独的解法需<strong>遵循如下规则</strong>：</p>
@@ -36,6 +38,8 @@ permalink:  /sudoku-solver/
 	<li>你可以假设给定的数独只有唯一解。</li>
 	<li>给定数独永远是&nbsp;<code>9x9</code>&nbsp;形式的。</li>
 </ul>
+
+{% endraw %}
 
 ### 相关话题
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]

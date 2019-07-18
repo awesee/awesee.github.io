@@ -9,6 +9,8 @@ permalink:  /soup-servings/
 
 ## 808. 分汤 (Medium)
 
+{% raw %}
+
 <p>有&nbsp;A&nbsp;和&nbsp;B 两种类型的汤。一开始每种类型的汤有&nbsp;<code>N</code>&nbsp;毫升。有四种分配操作：</p>
 
 <ol>
@@ -41,6 +43,8 @@ permalink:  /soup-servings/
 	<p>返回值在&nbsp;<code>10^-6</code>&nbsp;的范围将被认为是正确的。</p>
 	</li>
 </ul>
+
+{% endraw %}
 
 ### 相关话题
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]

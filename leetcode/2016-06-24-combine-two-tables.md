@@ -9,6 +9,8 @@ permalink:  /combine-two-tables/
 
 ## 175. 组合两个表 (Easy)
 
+{% raw %}
+
 <p>表1: <code>Person</code></p>
 
 <pre>+-------------+---------+
@@ -42,6 +44,8 @@ AddressId 是上表主键
 
 <pre>FirstName, LastName, City, State
 </pre>
+
+{% endraw %}
 
 ### 相似题目
   1. [员工奖金](/employee-bonus) (Easy)

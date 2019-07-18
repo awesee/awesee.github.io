@@ -9,6 +9,8 @@ permalink:  /rectangle-area-ii/
 
 ## 850. 矩形面积 II (Hard)
 
+{% raw %}
+
 <p>我们给出了一个（轴对齐的）矩形列表&nbsp;<code>rectangles</code>&nbsp;。 对于&nbsp;<code>rectangle[i] = [x1, y1, x2, y2]</code>，其中（x1，y1）是矩形&nbsp;<code>i</code>&nbsp;左下角的坐标，（x2，y2）是该矩形右上角的坐标。</p>
 
 <p>找出平面中所有矩形叠加覆盖后的总面积。 由于答案可能太大，<strong>请返回它对 10 ^ 9 + 7 取模的结果</strong>。</p>
@@ -37,6 +39,8 @@ permalink:  /rectangle-area-ii/
 	<li><code>0 &lt;= rectangles[i][j] &lt;= 10^9</code></li>
 	<li>矩形叠加覆盖后的总面积不会超越&nbsp;<code>2^63 - 1</code>&nbsp;，这意味着可以用一个&nbsp;64 位有符号整数来保存面积结果。</li>
 </ul>
+
+{% endraw %}
 
 ### 相关话题
   [[线段树](https://github.com/openset/leetcode/tree/master/tag/segment-tree/README.md)]

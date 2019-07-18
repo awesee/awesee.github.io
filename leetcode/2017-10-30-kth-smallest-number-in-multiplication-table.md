@@ -9,6 +9,8 @@ permalink:  /kth-smallest-number-in-multiplication-table/
 
 ## 668. 乘法表中第k小的数 (Hard)
 
+{% raw %}
+
 <p>几乎每一个人都用&nbsp;<a href="https://baike.baidu.com/item/%E4%B9%98%E6%B3%95%E8%A1%A8">乘法表</a>。但是你能在乘法表中快速找到第<code>k</code>小的数字吗？</p>
 
 <p>给定高度<code>m</code>&nbsp;、宽度<code>n</code> 的一张&nbsp;<code>m * n</code>的乘法表，以及正整数<code>k</code>，你需要返回表中第<code>k</code>&nbsp;小的数字。</p>
@@ -46,6 +48,8 @@ permalink:  /kth-smallest-number-in-multiplication-table/
 	<li><code>m</code> 和&nbsp;<code>n</code>&nbsp;的范围在 [1, 30000] 之间。</li>
 	<li><code>k</code> 的范围在 [1, m * n] 之间。</li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]

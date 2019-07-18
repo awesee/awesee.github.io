@@ -9,6 +9,8 @@ permalink:  /prison-cells-after-n-days/
 
 ## 957. N 天后的牢房 (Medium)
 
+{% raw %}
+
 <p>8 间牢房排成一排，每间牢房不是有人住就是空着。</p>
 
 <p>每天，无论牢房是被占用或空置，都会根据以下规则进行更改：</p>
@@ -61,6 +63,8 @@ Day 7: [0, 0, 1, 1, 0, 0, 0, 0]
 	<li><code>cells[i]</code>&nbsp;的值为 <code>0</code> 或 <code>1</code>&nbsp;</li>
 	<li><code>1 &lt;= N &lt;= 10^9</code></li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]

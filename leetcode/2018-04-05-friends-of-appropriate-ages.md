@@ -9,6 +9,8 @@ permalink:  /friends-of-appropriate-ages/
 
 ## 825. 适龄的朋友 (Medium)
 
+{% raw %}
+
 <p>人们会互相发送好友请求，现在给定一个包含有他们年龄的数组，<code>ages[i]</code>&nbsp;表示第 i 个人的年龄。</p>
 
 <p>当满足以下条件时，A 不能给 B（A、B不为同一人）发送好友请求：</p>
@@ -55,6 +57,8 @@ permalink:  /friends-of-appropriate-ages/
 	<li><code>1 &lt;= ages.length&nbsp;&lt;= 20000</code>.</li>
 	<li><code>1 &lt;= ages[i] &lt;= 120</code>.</li>
 </ul>
+
+{% endraw %}
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]

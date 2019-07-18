@@ -9,6 +9,8 @@ permalink:  /last-stone-weight-ii/
 
 ## 1049. 最后一块石头的重量 II (Medium)
 
+{% raw %}
+
 <p>有一堆石头，每块石头的重量都是正整数。</p>
 
 <p>每一回合，从中选出<strong>任意两块石头</strong>，然后将它们一起粉碎。假设石头的重量分别为&nbsp;<code>x</code> 和&nbsp;<code>y</code>，且&nbsp;<code>x &lt;= y</code>。那么粉碎的可能结果如下：</p>
@@ -41,6 +43,8 @@ permalink:  /last-stone-weight-ii/
 	<li><code>1 &lt;= stones.length &lt;= 30</code></li>
 	<li><code>1 &lt;= stones[i] &lt;= 1000</code></li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]

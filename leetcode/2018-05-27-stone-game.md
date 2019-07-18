@@ -9,6 +9,8 @@ permalink:  /stone-game/
 
 ## 877. 石子游戏 (Medium)
 
+{% raw %}
+
 <p>亚历克斯和李用几堆石子在做游戏。偶数堆石子<strong>排成一行</strong>，每堆都有正整数颗石子&nbsp;<code>piles[i]</code>&nbsp;。</p>
 
 <p>游戏以谁手中的石子最多来决出胜负。石子的总数是奇数，所以没有平局。</p>
@@ -41,6 +43,8 @@ permalink:  /stone-game/
 	<li><code>1 &lt;= piles[i] &lt;= 500</code></li>
 	<li><code>sum(piles)</code>&nbsp;是奇数。</li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[极小化极大](https://github.com/openset/leetcode/tree/master/tag/minimax/README.md)]

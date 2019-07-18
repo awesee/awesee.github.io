@@ -9,6 +9,8 @@ permalink:  /shopping-offers/
 
 ## 638. 大礼包 (Medium)
 
+{% raw %}
+
 <p>在LeetCode商店中， 有许多在售的物品。</p>
 
 <p>然而，也有一些大礼包，每个大礼包以优惠的价格捆绑销售一组物品。</p>
@@ -47,6 +49,8 @@ A，B，C的价格分别为&yen;2，&yen;3，&yen;4.
 	<li>每种物品，你最多只需要购买6个。</li>
 	<li>你不可以购买超出待购清单的物品，即使更便宜。</li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]

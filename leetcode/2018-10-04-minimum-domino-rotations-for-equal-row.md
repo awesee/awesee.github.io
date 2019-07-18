@@ -9,6 +9,8 @@ permalink:  /minimum-domino-rotations-for-equal-row/
 
 ## 1007. 行相等的最少多米诺旋转 (Medium)
 
+{% raw %}
+
 <p>在一排多米诺骨牌中，<code>A[i]</code> 和 <code>B[i]</code>&nbsp;分别代表第 i 个多米诺骨牌的上半部分和下半部分。（一个多米诺是两个从 1 到 6 的数字同列平铺形成的&nbsp;&mdash;&mdash; 该平铺的每一半上都有一个数字。）</p>
 
 <p>我们可以旋转第&nbsp;<code>i</code>&nbsp;张多米诺，使得&nbsp;<code>A[i]</code> 和&nbsp;<code>B[i]</code>&nbsp;的值交换。</p>
@@ -46,6 +48,8 @@ permalink:  /minimum-domino-rotations-for-equal-row/
 	<li><code>1 &lt;= A[i], B[i] &lt;= 6</code></li>
 	<li><code>2 &lt;= A.length == B.length &lt;= 20000</code></li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]

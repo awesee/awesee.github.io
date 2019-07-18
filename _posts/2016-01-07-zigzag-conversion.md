@@ -9,6 +9,8 @@ permalink:  /zigzag-conversion/
 
 ## 6. Z 字形变换 (Medium)
 
+{% raw %}
+
 <p>将一个给定字符串根据给定的行数，以从上往下、从左到右进行&nbsp;Z 字形排列。</p>
 
 <p>比如输入字符串为 <code>&quot;LEETCODEISHIRING&quot;</code>&nbsp;行数为 3 时，排列如下：</p>
@@ -40,6 +42,8 @@ L     D     R
 E   O E   I I
 E C   I H   N
 T     S     G</pre>
+
+{% endraw %}
 
 ### 相关话题
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]

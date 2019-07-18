@@ -9,6 +9,8 @@ permalink:  /shortest-path-visiting-all-nodes/
 
 ## 847. 访问所有节点的最短路径 (Hard)
 
+{% raw %}
+
 <p>给出&nbsp;<code>graph</code>&nbsp;为有 N 个节点（编号为&nbsp;<code>0, 1, 2, ..., N-1</code>）的无向连通图。&nbsp;</p>
 
 <p><code>graph.length = N</code>，且只有节点 <code>i</code>&nbsp;和 <code>j</code>&nbsp;连通时，<code>j != i</code>&nbsp;在列表&nbsp;<code>graph[i]</code>&nbsp;中恰好出现一次。</p>
@@ -41,6 +43,8 @@ permalink:  /shortest-path-visiting-all-nodes/
 	<li><code>1 &lt;= graph.length &lt;= 12</code></li>
 	<li><code>0 &lt;= graph[i].length &lt;&nbsp;graph.length</code></li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]

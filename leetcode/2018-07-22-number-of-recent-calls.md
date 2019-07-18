@@ -9,6 +9,8 @@ permalink:  /number-of-recent-calls/
 
 ## 933. 最近的请求次数 (Easy)
 
+{% raw %}
+
 <p>写一个&nbsp;<code>RecentCounter</code>&nbsp;类来计算最近的请求。</p>
 
 <p>它只有一个方法：<code>ping(int t)</code>，其中&nbsp;<code>t</code>&nbsp;代表以毫秒为单位的某个时间。</p>
@@ -37,6 +39,8 @@ permalink:  /number-of-recent-calls/
 </ol>
 
 <p>&nbsp;</p>
+
+{% endraw %}
 
 ### 相关话题
   [[队列](https://github.com/openset/leetcode/tree/master/tag/queue/README.md)]

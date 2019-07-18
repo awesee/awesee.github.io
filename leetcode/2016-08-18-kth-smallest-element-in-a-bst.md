@@ -9,6 +9,8 @@ permalink:  /kth-smallest-element-in-a-bst/
 
 ## 230. 二叉搜索树中第K小的元素 (Medium)
 
+{% raw %}
+
 <p>给定一个二叉搜索树，编写一个函数&nbsp;<code>kthSmallest</code>&nbsp;来查找其中第&nbsp;<strong>k&nbsp;</strong>个最小的元素。</p>
 
 <p><strong>说明：</strong><br>
@@ -38,6 +40,8 @@ permalink:  /kth-smallest-element-in-a-bst/
 
 <p><strong>进阶：</strong><br>
 如果二叉搜索树经常被修改（插入/删除操作）并且你需要频繁地查找第 k 小的值，你将如何优化&nbsp;<code>kthSmallest</code>&nbsp;函数？</p>
+
+{% endraw %}
 
 ### 相关话题
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]

@@ -9,6 +9,8 @@ permalink:  /strange-printer/
 
 ## 664. 奇怪的打印机 (Hard)
 
+{% raw %}
+
 <p>有台奇怪的打印机有以下两个特殊要求：</p>
 
 <ol>
@@ -34,6 +36,8 @@ permalink:  /strange-printer/
 <strong>解释:</strong> 首先打印 &quot;aaa&quot; 然后在第二个位置打印 &quot;b&quot; 覆盖掉原来的字符 &#39;a&#39;。</pre>
 
 <p><strong>提示</strong>: 输入字符串的长度不会超过 100。</p>
+
+{% endraw %}
 
 ### 相关话题
   [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]

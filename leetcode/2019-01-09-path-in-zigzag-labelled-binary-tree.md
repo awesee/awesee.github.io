@@ -9,6 +9,8 @@ permalink:  /path-in-zigzag-labelled-binary-tree/
 
 ## 1104. 二叉树寻路 (Medium)
 
+{% raw %}
+
 <p>在一棵无限的二叉树上，每个节点都有两个子节点，树中的节点 <strong>逐行</strong> 依次按&nbsp;&ldquo;之&rdquo; 字形进行标记。</p>
 
 <p>如下图所示，在奇数行（即，第一行、第三行、第五行&hellip;&hellip;）中，按从左到右的顺序进行标记；</p>
@@ -40,6 +42,8 @@ permalink:  /path-in-zigzag-labelled-binary-tree/
 <ul>
 	<li><code>1 &lt;= label &lt;= 10^6</code></li>
 </ul>
+
+{% endraw %}
 
 ### 相关话题
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]

@@ -9,6 +9,8 @@ permalink:  /parse-lisp-expression/
 
 ## 736. Lisp 语法解析 (Hard)
 
+{% raw %}
+
 <p>给定一个类似 Lisp 语句的表达式 <code>expression</code>，求出其计算结果。</p>
 
 <p>表达式语法如下所示:</p>
@@ -76,6 +78,8 @@ permalink:  /parse-lisp-expression/
 </ul>
 
 <p>&nbsp;</p>
+
+{% endraw %}
 
 ### 相关话题
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]

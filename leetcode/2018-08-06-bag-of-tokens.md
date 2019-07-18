@@ -9,6 +9,8 @@ permalink:  /bag-of-tokens/
 
 ## 948. 令牌放置 (Medium)
 
+{% raw %}
+
 <p>你的初始能量为&nbsp;<code>P</code>，初始分数为&nbsp;<code>0</code>，只有一包令牌。</p>
 
 <p>令牌的值为&nbsp;<code>token[i]</code>，每个令牌最多只能使用一次，可能的两种使用方法如下：</p>
@@ -52,6 +54,8 @@ permalink:  /bag-of-tokens/
 	<li><code>0 &lt;= tokens[i] &lt; 10000</code></li>
 	<li><code>0 &lt;= P &lt; 10000</code></li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]

@@ -9,6 +9,8 @@ permalink:  /find-the-difference/
 
 ## 389. 找不同 (Easy)
 
+{% raw %}
+
 <p>给定两个字符串 <em><strong>s</strong></em> 和 <em><strong>t</strong></em>，它们只包含小写字母。</p>
 
 <p>字符串&nbsp;<strong><em>t</em></strong>&nbsp;由字符串&nbsp;<strong><em>s</em></strong>&nbsp;随机重排，然后在随机位置添加一个字母。</p>
@@ -29,6 +31,8 @@ e
 解释：
 &#39;e&#39; 是那个被添加的字母。
 </pre>
+
+{% endraw %}
 
 ### 相关话题
   [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]

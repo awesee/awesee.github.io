@@ -9,6 +9,8 @@ permalink:  /sum-of-subarray-minimums/
 
 ## 907. 子数组的最小值之和 (Medium)
 
+{% raw %}
+
 <p>给定一个整数数组 <code>A</code>，找到 <code>min(B)</code>&nbsp;的总和，其中 <code>B</code> 的范围为&nbsp;<code>A</code> 的每个（连续）子数组。</p>
 
 <p>由于答案可能很大，因此<strong>返回答案模 <code>10^9 + 7</code></strong>。</p>
@@ -33,6 +35,8 @@ permalink:  /sum-of-subarray-minimums/
 </ol>
 
 <p>&nbsp;</p>
+
+{% endraw %}
 
 ### 相关话题
   [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]

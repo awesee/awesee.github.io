@@ -9,6 +9,8 @@ permalink:  /tenth-line/
 
 ## 195. 第十行 (Easy)
 
+{% raw %}
+
 <p>给定一个文本文件&nbsp;<code>file.txt</code>，请只打印这个文件中的第十行。</p>
 
 <p><strong>示例:</strong></p>
@@ -35,6 +37,8 @@ Line 10
 <p><strong>说明:</strong><br>
 1. 如果文件少于十行，你应当输出什么？<br>
 2. 至少有三种不同的解法，请尝试尽可能多的方法来解题。</p>
+
+{% endraw %}
 
 ---
 

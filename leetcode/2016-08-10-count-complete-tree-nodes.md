@@ -9,6 +9,8 @@ permalink:  /count-complete-tree-nodes/
 
 ## 222. 完全二叉树的节点个数 (Medium)
 
+{% raw %}
+
 <p>给出一个<strong>完全二叉树</strong>，求出该树的节点个数。</p>
 
 <p><strong>说明：</strong></p>
@@ -25,6 +27,8 @@ permalink:  /count-complete-tree-nodes/
 4  5 6
 
 <strong>输出:</strong> 6</pre>
+
+{% endraw %}
 
 ### 相关话题
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]

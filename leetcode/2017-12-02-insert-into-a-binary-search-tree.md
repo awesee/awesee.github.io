@@ -9,6 +9,8 @@ permalink:  /insert-into-a-binary-search-tree/
 
 ## 701. 二叉搜索树中的插入操作 (Medium)
 
+{% raw %}
+
 <p>给定二叉搜索树（BST）的根节点和要插入树中的值，将值插入二叉搜索树。 返回插入后二叉搜索树的根节点。 保证原始二叉搜索树中不存在新值。</p>
 
 <p>注意，可能存在多种有效的插入方式，只要树在插入后仍保持为二叉搜索树即可。 你可以返回任意有效的结果。</p>
@@ -48,6 +50,8 @@ permalink:  /insert-into-a-binary-search-tree/
          \
           4
 </pre>
+
+{% endraw %}
 
 ### 相关话题
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]

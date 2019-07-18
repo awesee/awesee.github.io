@@ -9,6 +9,8 @@ permalink:  /sort-characters-by-frequency/
 
 ## 451. 根据字符出现频率排序 (Medium)
 
+{% raw %}
+
 <p>给定一个字符串，请将字符串里的字符按照出现的频率降序排列。</p>
 
 <p><strong>示例 1:</strong></p>
@@ -52,6 +54,8 @@ permalink:  /sort-characters-by-frequency/
 </strong>此外，&quot;bbaA&quot;也是一个有效的答案，但&quot;Aabb&quot;是不正确的。
 注意&#39;A&#39;和&#39;a&#39;被认为是两种不同的字符。
 </pre>
+
+{% endraw %}
 
 ### 相关话题
   [[堆](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]

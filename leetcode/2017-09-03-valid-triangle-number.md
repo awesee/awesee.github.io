@@ -9,6 +9,8 @@ permalink:  /valid-triangle-number/
 
 ## 611. 有效三角形的个数 (Medium)
 
+{% raw %}
+
 <p>给定一个包含非负整数的数组，你的任务是统计其中可以组成三角形三条边的三元组个数。</p>
 
 <p><strong>示例 1:</strong></p>
@@ -29,6 +31,8 @@ permalink:  /valid-triangle-number/
 	<li>数组长度不超过1000。</li>
 	<li>数组里整数的范围为 [0, 1000]。</li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]

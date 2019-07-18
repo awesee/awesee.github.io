@@ -9,6 +9,8 @@ permalink:  /baseball-game/
 
 ## 682. 棒球比赛 (Easy)
 
+{% raw %}
+
 <p>你现在是棒球比赛记录员。<br>
 给定一个字符串列表，每个字符串可以是以下四种类型之一：<br>
 1.<code>整数</code>（一轮的得分）：直接表示您在本轮中获得的积分数。<br>
@@ -52,6 +54,8 @@ permalink:  /baseball-game/
 	<li>输入列表的大小将介于1和1000之间。</li>
 	<li>列表中的每个整数都将介于-30000和30000之间。</li>
 </ul>
+
+{% endraw %}
 
 ### 相关话题
   [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]

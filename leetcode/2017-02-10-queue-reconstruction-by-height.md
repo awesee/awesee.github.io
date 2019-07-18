@@ -9,6 +9,8 @@ permalink:  /queue-reconstruction-by-height/
 
 ## 406. 根据身高重建队列 (Medium)
 
+{% raw %}
+
 <p>假设有打乱顺序的一群人站成一个队列。 每个人由一个整数对<code>(h, k)</code>表示，其中<code>h</code>是这个人的身高，<code>k</code>是排在这个人前面且身高大于或等于<code>h</code>的人数。 编写一个算法来重建这个队列。</p>
 
 <p><strong>注意：</strong><br />
@@ -23,6 +25,8 @@ permalink:  /queue-reconstruction-by-height/
 输出:
 [[5,0], [7,0], [5,2], [6,1], [4,4], [7,1]]
 </pre>
+
+{% endraw %}
 
 ### 相关话题
   [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]

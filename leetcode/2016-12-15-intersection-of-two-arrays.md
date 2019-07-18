@@ -9,6 +9,8 @@ permalink:  /intersection-of-two-arrays/
 
 ## 349. 两个数组的交集 (Easy)
 
+{% raw %}
+
 <p>给定两个数组，编写一个函数来计算它们的交集。</p>
 
 <p><strong>示例 1:</strong></p>
@@ -28,6 +30,8 @@ permalink:  /intersection-of-two-arrays/
 	<li>输出结果中的每个元素一定是唯一的。</li>
 	<li>我们可以不考虑输出结果的顺序。</li>
 </ul>
+
+{% endraw %}
 
 ### 相关话题
   [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]

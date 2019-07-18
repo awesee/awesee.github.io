@@ -9,6 +9,8 @@ permalink:  /sum-of-subsequence-widths/
 
 ## 891. 子序列宽度之和 (Hard)
 
+{% raw %}
+
 <p>给定一个整数数组 <code>A</code> ，考虑 <code>A</code> 的所有非空子序列。</p>
 
 <p>对于任意序列 S ，设 S 的宽度是 S 的最大元素和最小元素的差。</p>
@@ -37,6 +39,8 @@ permalink:  /sum-of-subsequence-widths/
 	<li><code>1 &lt;= A.length &lt;= 20000</code></li>
 	<li><code>1 &lt;= A[i] &lt;= 20000</code></li>
 </ul>
+
+{% endraw %}
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]

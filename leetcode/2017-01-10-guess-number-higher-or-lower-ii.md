@@ -9,6 +9,8 @@ permalink:  /guess-number-higher-or-lower-ii/
 
 ## 375. 猜数字大小 II (Medium)
 
+{% raw %}
+
 <p>我们正在玩一个猜数游戏，游戏规则如下：</p>
 
 <p>我从&nbsp;<strong>1&nbsp;</strong>到 <strong>n</strong> 之间选择一个数字，你来猜我选了哪个数字。</p>
@@ -31,6 +33,8 @@ permalink:  /guess-number-higher-or-lower-ii/
 </pre>
 
 <p>给定&nbsp;<strong>n &ge; 1，</strong>计算你至少需要拥有多少现金才能确保你能赢得这个游戏。</p>
+
+{% endraw %}
 
 ### 相关话题
   [[极小化极大](https://github.com/openset/leetcode/tree/master/tag/minimax/README.md)]

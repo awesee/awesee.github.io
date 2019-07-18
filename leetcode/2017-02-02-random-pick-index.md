@@ -9,6 +9,8 @@ permalink:  /random-pick-index/
 
 ## 398. 随机数索引 (Medium)
 
+{% raw %}
+
 <p>给定一个可能含有重复元素的整数数组，要求随机输出给定的数字的索引。 您可以假设给定的数字一定存在于数组中。</p>
 
 <p><strong>注意：</strong><br />
@@ -26,6 +28,8 @@ solution.pick(3);
 // pick(1) 应该返回 0。因为只有nums[0]等于1。
 solution.pick(1);
 </pre>
+
+{% endraw %}
 
 ### 相关话题
   [[蓄水池抽样](https://github.com/openset/leetcode/tree/master/tag/reservoir-sampling/README.md)]

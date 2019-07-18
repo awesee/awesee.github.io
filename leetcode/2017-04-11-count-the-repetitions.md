@@ -9,6 +9,8 @@ permalink:  /count-the-repetitions/
 
 ## 466. 统计重复个数 (Hard)
 
+{% raw %}
+
 <p>定义由 n 个连接的字符串 s 组成字符串 S，即&nbsp;<code>S = [s,n]</code>。例如，<code>[&quot;abc&quot;, 3]</code>=&ldquo;abcabcabc&rdquo;。</p>
 
 <p>另一方面，如果我们可以从 s<sub>2&nbsp;</sub>中删除某些字符使其变为 s<sub>1</sub>，我们称字符串 s<sub>1&nbsp;</sub>可以从字符串 s<sub>2&nbsp;</sub>获得。例如，&ldquo;abc&rdquo; 可以根据我们的定义从 &ldquo;abdbec&rdquo; 获得，但不能从 &ldquo;acbbe&rdquo; 获得。</p>
@@ -24,6 +26,8 @@ s2 =&quot;ab&quot;,n2 = 2
 返回：
 2
 </pre>
+
+{% endraw %}
 
 ### 相关话题
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]

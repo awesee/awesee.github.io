@@ -9,6 +9,8 @@ permalink:  /shortest-subarray-with-sum-at-least-k/
 
 ## 862. 和至少为 K 的最短子数组 (Hard)
 
+{% raw %}
+
 <p>返回 <code>A</code> 的最短的非空连续子数组的<strong>长度</strong>，该子数组的和至少为 <code>K</code> 。</p>
 
 <p>如果没有和至少为&nbsp;<code>K</code>&nbsp;的非空子数组，返回&nbsp;<code>-1</code>&nbsp;。</p>
@@ -45,6 +47,8 @@ permalink:  /shortest-subarray-with-sum-at-least-k/
 	<li><code>-10 ^ 5&nbsp;&lt;= A[i] &lt;= 10 ^ 5</code></li>
 	<li><code>1 &lt;= K &lt;= 10 ^ 9</code></li>
 </ol>
+
+{% endraw %}
 
 ### 相关话题
   [[队列](https://github.com/openset/leetcode/tree/master/tag/queue/README.md)]

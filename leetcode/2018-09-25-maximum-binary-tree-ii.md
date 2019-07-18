@@ -9,6 +9,8 @@ permalink:  /maximum-binary-tree-ii/
 
 ## 998. 最大二叉树 II (Medium)
 
+{% raw %}
+
 <p>最大树定义：一个树，其中每个节点的值都大于其子树中的任何其他值。</p>
 
 <p>给出最大树的根节点 <code>root</code>。</p>
@@ -67,6 +69,8 @@ permalink:  /maximum-binary-tree-ii/
 <p>&nbsp;</p>
 
 <p>&nbsp;</p>
+
+{% endraw %}
 
 ### 相关话题
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
