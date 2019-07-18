@@ -9,6 +9,7 @@ permalink:  /brace-expansion-ii/
 
 ## 1096. 花括号展开 II (Hard)
 
+{% raw %}
 <p>如果你熟悉 Shell 编程，那么一定了解过花括号展开，它可以用来生成任意字符串。</p>
 
 <p>花括号展开的表达式可以看作一个由 <strong>花括号</strong>、<strong>逗号</strong> 和 <strong>小写英文字母</strong> 组成的字符串，定义下面几条语法规则：</p>
@@ -67,6 +68,7 @@ permalink:  /brace-expansion-ii/
 	<li><code>expression[i]</code> 由 <code>&#39;{&#39;</code>，<code>&#39;}&#39;</code>，<code>&#39;,&#39;</code>&nbsp;或小写英文字母组成</li>
 	<li>给出的表达式&nbsp;<code>expression</code>&nbsp;用以表示一组基于题目描述中语法构造的字符串</li>
 </ol>
+{% endraw %}
 
 ### 相关话题
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
