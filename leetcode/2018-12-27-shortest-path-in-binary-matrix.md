@@ -3,7 +3,7 @@ layout:     single
 title:      "二进制矩阵中的最短路径"
 date:       2018-12-27 21:30:00 +0800
 categories: [Leetcode]
-tags:       []
+tags:       [Breadth-first Search]
 permalink:  /shortest-path-in-binary-matrix/
 ---
 
@@ -48,6 +48,9 @@ permalink:  /shortest-path-in-binary-matrix/
 	<li><code>1 &lt;= grid.length == grid[0].length &lt;= 100</code></li>
 	<li><code>grid[i][j]</code> 为&nbsp;<code>0</code> 或&nbsp;<code>1</code></li>
 </ol>
+
+### 相关话题
+  [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
 
 ---
 

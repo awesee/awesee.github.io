@@ -21,8 +21,7 @@ permalink:  /shopping-offers/
 
 <p><strong>示例 1:</strong></p>
 
-<pre>
-<strong>输入:</strong> [2,5], [[3,0,5],[1,2,10]], [3,2]
+<pre><strong>输入:</strong> [2,5], [[3,0,5],[1,2,10]], [3,2]
 <strong>输出:</strong> 14
 <strong>解释:</strong> 
 有A和B两种物品，价格分别为&yen;2和&yen;5。
@@ -32,12 +31,11 @@ permalink:  /shopping-offers/
 
 <p><strong>示例 2:</strong></p>
 
-<pre>
-<strong>输入:</strong> [2,3,4], [[1,1,0,4],[2,2,1,9]], [1,2,1]
+<pre><strong>输入:</strong> [2,3,4], [[1,1,0,4],[2,2,1,9]], [1,2,1]
 <strong>输出:</strong> 11
 <strong>解释:</strong> 
 A，B，C的价格分别为&yen;2，&yen;3，&yen;4.
-你可以用&yen;4购买1A和2B，也可以用&yen;9购买2A，2B和1C。
+你可以用&yen;4购买1A和1B，也可以用&yen;9购买2A，2B和1C。
 你需要买1A，2B和1C，所以你付了&yen;4买了1A和1B（大礼包1），以及&yen;3购买1B， &yen;4购买1C。
 你不可以购买超出待购清单的物品，尽管购买大礼包2更加便宜。
 </pre>

@@ -58,7 +58,7 @@ permalink:  /sort-characters-by-frequency/
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
 
 ### 相似题目
-  1. [前K个高频元素](/top-k-frequent-elements) (Medium)
+  1. [前 K 个高频元素](/top-k-frequent-elements) (Medium)
   1. [字符串中的第一个唯一字符](/first-unique-character-in-a-string) (Easy)
 
 ---

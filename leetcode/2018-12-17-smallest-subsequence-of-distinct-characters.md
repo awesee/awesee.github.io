@@ -3,7 +3,7 @@ layout:     single
 title:      "不同字符的最小子序列"
 date:       2018-12-17 21:30:00 +0800
 categories: [Leetcode]
-tags:       []
+tags:       [String]
 permalink:  /smallest-subsequence-of-distinct-characters/
 ---
 
@@ -45,6 +45,9 @@ permalink:  /smallest-subsequence-of-distinct-characters/
 	<li><code>1 &lt;= text.length &lt;= 1000</code></li>
 	<li><code>text</code>&nbsp;由小写英文字母组成</li>
 </ol>
+
+### 相关话题
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ---
 

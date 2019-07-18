@@ -36,7 +36,7 @@ permalink:  /letter-case-permutation/
 
 ### 相似题目
   1. [子集](/subsets) (Medium)
-  1. [字母切换](/permutation-of-letters) (Medium)
+  1. [字母切换](/brace-expansion) (Medium)
 
 ---
 

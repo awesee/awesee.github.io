@@ -34,6 +34,7 @@ permalink:  /two-sum-ii-input-array-is-sorted/
 ### 相似题目
   1. [两数之和](/two-sum) (Easy)
   1. [两数之和 IV - 输入 BST](/two-sum-iv-input-is-a-bst) (Easy)
+  1. [小于 K 的两数之和](/two-sum-less-than-k) (Easy)
 
 ---
 

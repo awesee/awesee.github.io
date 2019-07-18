@@ -52,7 +52,7 @@ permalink:  /k-closest-points-to-origin/
 
 ### 相似题目
   1. [数组中的第K个最大元素](/kth-largest-element-in-an-array) (Medium)
-  1. [前K个高频元素](/top-k-frequent-elements) (Medium)
+  1. [前 K 个高频元素](/top-k-frequent-elements) (Medium)
   1. [前K个高频单词](/top-k-frequent-words) (Medium)
 
 ---

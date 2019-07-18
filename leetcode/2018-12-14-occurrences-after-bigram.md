@@ -3,7 +3,7 @@ layout:     single
 title:      "Bigram 分词"
 date:       2018-12-14 21:30:00 +0800
 categories: [Leetcode]
-tags:       []
+tags:       [Hash Table]
 permalink:  /occurrences-after-bigram/
 ---
 
@@ -37,6 +37,9 @@ permalink:  /occurrences-after-bigram/
 	<li><code>1 &lt;= first.length, second.length &lt;= 10</code></li>
 	<li><code>first</code> 和&nbsp;<code>second</code>&nbsp;由小写英文字母组成</li>
 </ol>
+
+### 相关话题
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
 
 ---
 
