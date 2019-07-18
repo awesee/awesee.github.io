@@ -1,13 +1,13 @@
 ---
 layout:     single
-title:      "前K个高频元素"
+title:      "前 K 个高频元素"
 date:       2016-12-13 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Heap, Hash Table]
 permalink:  /top-k-frequent-elements/
 ---
 
-## 347. 前K个高频元素 (Medium)
+## 347. 前 K 个高频元素 (Medium)
 
 <p>给定一个非空的整数数组，返回其中出现频率前&nbsp;<strong><em>k&nbsp;</em></strong>高的元素。</p>
 

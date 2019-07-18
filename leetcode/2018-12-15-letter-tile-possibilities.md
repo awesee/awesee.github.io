@@ -3,7 +3,7 @@ layout:     single
 title:      "活字印刷"
 date:       2018-12-15 21:30:00 +0800
 categories: [Leetcode]
-tags:       []
+tags:       [Backtracking]
 permalink:  /letter-tile-possibilities/
 ---
 
@@ -34,6 +34,9 @@ permalink:  /letter-tile-possibilities/
 	<li><code>1 &lt;= tiles.length &lt;= 7</code></li>
 	<li><code>tiles</code> 由大写英文字母组成</li>
 </ol>
+
+### 相关话题
+  [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
 
 ---
 

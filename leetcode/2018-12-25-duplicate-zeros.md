@@ -3,7 +3,7 @@ layout:     single
 title:      "复写零"
 date:       2018-12-25 21:30:00 +0800
 categories: [Leetcode]
-tags:       []
+tags:       [Array]
 permalink:  /duplicate-zeros/
 ---
 
@@ -39,6 +39,9 @@ permalink:  /duplicate-zeros/
 	<li><code>1 &lt;= arr.length &lt;= 10000</code></li>
 	<li><code>0 &lt;= arr[i] &lt;= 9</code></li>
 </ol>
+
+### 相关话题
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 
 ---
 

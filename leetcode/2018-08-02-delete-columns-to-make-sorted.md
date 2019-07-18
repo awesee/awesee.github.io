@@ -11,11 +11,19 @@ permalink:  /delete-columns-to-make-sorted/
 
 <p>给定由&nbsp;<code>N</code>&nbsp;个小写字母字符串组成的数组 <code>A</code>，其中每个字符串长度相等。</p>
 
-<p>选取一个删除索引序列，对于 <code>A</code> 中的每个字符串，删除对应每个索引处的字符。 所余下的字符串行从上往下读形成列。</p>
+<p><strong>删除</strong> 操作的定义是：选出一组要删掉的列，删去&nbsp;<code>A</code> 中对应列中的所有字符，形式上，第 <code>n</code>&nbsp;列为&nbsp;<code>[A[0][n], A[1][n], ..., A[A.length-1][n]]</code>）。</p>
 
-<p>比如，有&nbsp;<code>A = [&quot;abcdef&quot;, &quot;uvwxyz&quot;]</code>，删除索引序列&nbsp;<code>{0, 2, 3}</code>，删除后 <code>A</code>&nbsp;为<code>[&quot;bef&quot;, &quot;vyz&quot;]</code>， <code>A</code>&nbsp;的列分别为<code>[&quot;b&quot;,&quot;v&quot;], [&quot;e&quot;,&quot;y&quot;], [&quot;f&quot;,&quot;z&quot;]</code>。（形式上，第 n&nbsp;列为&nbsp;<code>[A[0][n], A[1][n], ..., A[A.length-1][n]]</code>）。</p>
+<p>比如，有&nbsp;<code>A = [&quot;abcdef&quot;, &quot;uvwxyz&quot;]</code>，</p>
 
-<p>假设，我们选择了一组删除索引&nbsp;<code>D</code>，那么在执行删除操作之后，<code>A</code> 中所剩余的每一列都必须是 <strong>非降序</strong>&nbsp;排列的，然后请你返回&nbsp;<code>D.length</code>&nbsp;的最小可能值。</p>
+<p><img alt="" src="https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2019/07/06/944_1.png" style="height: 48px; width: 300px;"></p>
+
+<p>要删掉的列为&nbsp;<code>{0, 2, 3}</code>，删除后 <code>A</code>&nbsp;为<code>[&quot;bef&quot;, &quot;vyz&quot;]</code>， <code>A</code>&nbsp;的列分别为<code>[&quot;b&quot;,&quot;v&quot;], [&quot;e&quot;,&quot;y&quot;], [&quot;f&quot;,&quot;z&quot;]</code>。</p>
+
+<p><img alt="" src="https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2019/07/06/944_2.png" style="height: 76px; width: 300px;"></p>
+
+<p>你需要选出一组要删掉的列&nbsp;<code>D</code>，对&nbsp;<code>A</code> 执行删除操作，使 <code>A</code> 中剩余的每一列都是 <strong>非降序</strong>&nbsp;排列的，然后请你返回&nbsp;<code>D.length</code>&nbsp;的最小可能值。</p>
+
+<p>&nbsp;</p>
 
 <p><strong>示例 1：</strong></p>
 
@@ -39,6 +47,8 @@ permalink:  /delete-columns-to-make-sorted/
 <strong>输出：</strong>3
 <strong>解释：</strong>D = {0, 1, 2}
 </pre>
+
+<p>&nbsp;</p>
 
 <p><strong>提示：</strong></p>
 

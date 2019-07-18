@@ -53,6 +53,7 @@ permalink:  /friend-circles/
   1. [机器人能否返回原点](/robot-return-to-origin) (Easy)
   1. [句子相似性](/sentence-similarity) (Easy)
   1. [句子相似性 II](/sentence-similarity-ii) (Medium)
+  1. [彼此熟识的最早时间](/the-earliest-moment-when-everyone-become-friends) (Medium)
 
 ---
 

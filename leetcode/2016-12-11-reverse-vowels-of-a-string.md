@@ -31,6 +31,7 @@ permalink:  /reverse-vowels-of-a-string/
 
 ### 相似题目
   1. [反转字符串](/reverse-string) (Easy)
+  1. [删去字符串中的元音](/remove-vowels-from-a-string) (Easy)
 
 ---
 

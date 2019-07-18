@@ -38,6 +38,7 @@ permalink:  /subarray-product-less-than-k/
   1. [乘积最大子序列](/maximum-product-subarray) (Medium)
   1. [和等于 k 的最长子数组长度](/maximum-size-subarray-sum-equals-k) (Medium)
   1. [和为K的子数组](/subarray-sum-equals-k) (Medium)
+  1. [小于 K 的两数之和](/two-sum-less-than-k) (Easy)
 
 ---
 
