@@ -4,6 +4,7 @@ title:  "Go系统命令管道操作"
 date:   2019-09-05 12:30:00 +0800
 categories: [Go]
 tags: [Go, Guide]
+permalink:  /go-cmd-pipe/
 ---
 
 go 执行系统命令时不能直接使用管道操作
