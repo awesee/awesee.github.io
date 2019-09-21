@@ -4,7 +4,7 @@ title:      "寻找数组的中心索引"
 date:       2017-12-25 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array]
-permalink:  /find-pivot-index/
+permalink:  /problems/find-pivot-index/
 ---
 
 ## 724. 寻找数组的中心索引 (Easy)
@@ -50,7 +50,7 @@ nums = [1, 2, 3]
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 
 ### 相似题目
-  1. [和为K的子数组](/subarray-sum-equals-k) (Medium)
+  1. [和为K的子数组](/problems/subarray-sum-equals-k) (Medium)
 
 ---
 

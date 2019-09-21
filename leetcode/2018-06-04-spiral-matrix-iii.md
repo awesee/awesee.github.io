@@ -4,7 +4,7 @@ title:      "螺旋矩阵 III"
 date:       2018-06-04 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Math]
-permalink:  /spiral-matrix-iii/
+permalink:  /problems/spiral-matrix-iii/
 ---
 
 ## 885. 螺旋矩阵 III (Medium)

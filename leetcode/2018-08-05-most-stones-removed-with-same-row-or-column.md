@@ -4,7 +4,7 @@ title:      "移除最多的同行或同列石头"
 date:       2018-08-05 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Depth-first Search, Union Find]
-permalink:  /most-stones-removed-with-same-row-or-column/
+permalink:  /problems/most-stones-removed-with-same-row-or-column/
 ---
 
 ## 947. 移除最多的同行或同列石头 (Medium)

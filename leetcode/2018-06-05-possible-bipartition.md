@@ -4,7 +4,7 @@ title:      "可能的二分法"
 date:       2018-06-05 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Depth-first Search]
-permalink:  /possible-bipartition/
+permalink:  /problems/possible-bipartition/
 ---
 
 ## 886. 可能的二分法 (Medium)

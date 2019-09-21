@@ -4,7 +4,7 @@ title:      "字符流"
 date:       2018-10-29 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Trie]
-permalink:  /stream-of-characters/
+permalink:  /problems/stream-of-characters/
 ---
 
 ## 1032. 字符流 (Hard)

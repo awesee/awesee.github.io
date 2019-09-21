@@ -4,7 +4,7 @@ title:      "最常见的单词"
 date:       2018-03-30 21:30:00 +0800
 categories: [Leetcode]
 tags:       [String]
-permalink:  /most-common-word/
+permalink:  /problems/most-common-word/
 ---
 
 ## 819. 最常见的单词 (Easy)

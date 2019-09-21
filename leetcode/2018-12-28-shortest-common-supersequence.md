@@ -4,7 +4,7 @@ title:      "最短公共超序列"
 date:       2018-12-28 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Dynamic Programming]
-permalink:  /shortest-common-supersequence/
+permalink:  /problems/shortest-common-supersequence/
 ---
 
 ## 1092. 最短公共超序列 (Hard)

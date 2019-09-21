@@ -4,7 +4,7 @@ title:      "有序数组中的单一元素"
 date:       2017-06-24 21:30:00 +0800
 categories: [Leetcode]
 tags:       []
-permalink:  /single-element-in-a-sorted-array/
+permalink:  /problems/single-element-in-a-sorted-array/
 ---
 
 ## 540. 有序数组中的单一元素 (Medium)

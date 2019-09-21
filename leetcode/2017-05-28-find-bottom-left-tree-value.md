@@ -4,7 +4,7 @@ title:      "找树左下角的值"
 date:       2017-05-28 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Tree, Depth-first Search, Breadth-first Search]
-permalink:  /find-bottom-left-tree-value/
+permalink:  /problems/find-bottom-left-tree-value/
 ---
 
 ## 513. 找树左下角的值 (Medium)

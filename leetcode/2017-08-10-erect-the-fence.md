@@ -4,7 +4,7 @@ title:      "安装栅栏"
 date:       2017-08-10 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Geometry]
-permalink:  /erect-the-fence/
+permalink:  /problems/erect-the-fence/
 ---
 
 ## 587. 安装栅栏 (Hard)

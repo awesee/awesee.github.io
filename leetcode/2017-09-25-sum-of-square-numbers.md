@@ -4,7 +4,7 @@ title:      "平方数之和"
 date:       2017-09-25 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Math]
-permalink:  /sum-of-square-numbers/
+permalink:  /problems/sum-of-square-numbers/
 ---
 
 ## 633. 平方数之和 (Easy)
@@ -36,7 +36,7 @@ permalink:  /sum-of-square-numbers/
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
 
 ### 相似题目
-  1. [有效的完全平方数](/valid-perfect-square) (Easy)
+  1. [有效的完全平方数](/problems/valid-perfect-square) (Easy)
 
 ---
 

@@ -4,7 +4,7 @@ title:      "猫和老鼠"
 date:       2018-07-02 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Breadth-first Search, Minimax]
-permalink:  /cat-and-mouse/
+permalink:  /problems/cat-and-mouse/
 ---
 
 ## 913. 猫和老鼠 (Hard)

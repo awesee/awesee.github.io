@@ -4,10 +4,12 @@ title:      "扰乱字符串"
 date:       2016-03-28 21:30:00 +0800
 categories: [Leetcode]
 tags:       [String, Dynamic Programming]
-permalink:  /scramble-string/
+permalink:  /problems/scramble-string/
 ---
 
 ## 87. 扰乱字符串 (Hard)
+
+{% raw %}
 
 <p>给定一个字符串&nbsp;<em>s1</em>，我们可以把它递归地分割成两个非空子字符串，从而将其表示为二叉树。</p>
 
@@ -37,7 +39,7 @@ r   g  e   at
 
 <p>我们将&nbsp;<code>&quot;rgeat&rdquo;</code>&nbsp;称作&nbsp;<code>&quot;great&quot;</code>&nbsp;的一个扰乱字符串。</p>
 
-<p>同样地，如果我们继续将其节点&nbsp;<code>&quot;eat&quot;</code>&nbsp;和&nbsp;<code>&quot;at&quot;</code>&nbsp;进行交换，将会产生另一个新的扰乱字符串&nbsp;<code>&quot;rgtae&quot;</code>&nbsp;。</p>
+<p>同样地，如果我们继续交换节点&nbsp;<code>&quot;eat&quot;</code>&nbsp;和&nbsp;<code>&quot;at&quot;</code>&nbsp;的子节点，将会产生另一个新的扰乱字符串&nbsp;<code>&quot;rgtae&quot;</code>&nbsp;。</p>
 
 <pre>    rgtae
    /    \
@@ -62,6 +64,8 @@ r   g  ta  e
 
 <pre><strong>输入:</strong> s1 = &quot;abcde&quot;, s2 = &quot;caebd&quot;
 <strong>输出:</strong> false</pre>
+
+{% endraw %}
 
 ### 相关话题
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]

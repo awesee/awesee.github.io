@@ -4,7 +4,7 @@ title:      "从根到叶的二进制数之和"
 date:       2018-10-19 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Tree]
-permalink:  /sum-of-root-to-leaf-binary-numbers/
+permalink:  /problems/sum-of-root-to-leaf-binary-numbers/
 ---
 
 ## 1022. 从根到叶的二进制数之和 (Easy)

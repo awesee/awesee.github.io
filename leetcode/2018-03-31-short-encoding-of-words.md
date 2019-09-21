@@ -4,7 +4,7 @@ title:      "单词的压缩编码"
 date:       2018-03-31 21:30:00 +0800
 categories: [Leetcode]
 tags:       []
-permalink:  /short-encoding-of-words/
+permalink:  /problems/short-encoding-of-words/
 ---
 
 ## 820. 单词的压缩编码 (Medium)

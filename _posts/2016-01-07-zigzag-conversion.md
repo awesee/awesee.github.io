@@ -4,7 +4,7 @@ title:      "Z 字形变换"
 date:       2016-01-07 21:30:00 +0800
 categories: [Leetcode]
 tags:       [String]
-permalink:  /zigzag-conversion/
+permalink:  /problems/zigzag-conversion/
 ---
 
 ## 6. Z 字形变换 (Medium)

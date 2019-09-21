@@ -4,7 +4,7 @@ title:      "重复 N 次的元素"
 date:       2018-08-19 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Hash Table]
-permalink:  /n-repeated-element-in-size-2n-array/
+permalink:  /problems/n-repeated-element-in-size-2n-array/
 ---
 
 ## 961. 重复 N 次的元素 (Easy)

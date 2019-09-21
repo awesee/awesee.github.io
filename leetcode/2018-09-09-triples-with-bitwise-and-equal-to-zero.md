@@ -4,7 +4,7 @@ title:      "按位与为零的三元组"
 date:       2018-09-09 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Dynamic Programming]
-permalink:  /triples-with-bitwise-and-equal-to-zero/
+permalink:  /problems/triples-with-bitwise-and-equal-to-zero/
 ---
 
 ## 982. 按位与为零的三元组 (Hard)

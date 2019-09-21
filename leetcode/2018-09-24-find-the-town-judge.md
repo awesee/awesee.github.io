@@ -4,7 +4,7 @@ title:      "找到小镇的法官"
 date:       2018-09-24 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Graph]
-permalink:  /find-the-town-judge/
+permalink:  /problems/find-the-town-judge/
 ---
 
 ## 997. 找到小镇的法官 (Easy)
@@ -74,7 +74,7 @@ permalink:  /find-the-town-judge/
   [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
 
 ### 相似题目
-  1. [搜寻名人](/find-the-celebrity) (Medium)
+  1. [搜寻名人](/problems/find-the-celebrity) (Medium)
 
 ---
 

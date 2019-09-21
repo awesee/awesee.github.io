@@ -4,7 +4,7 @@ title:      "旋转字符串"
 date:       2018-03-07 21:30:00 +0800
 categories: [Leetcode]
 tags:       []
-permalink:  /rotate-string/
+permalink:  /problems/rotate-string/
 ---
 
 ## 796. 旋转字符串 (Easy)

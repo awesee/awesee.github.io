@@ -4,7 +4,7 @@ title:      "N叉树的前序遍历"
 date:       2017-08-12 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Tree]
-permalink:  /n-ary-tree-preorder-traversal/
+permalink:  /problems/n-ary-tree-preorder-traversal/
 ---
 
 ## 589. N叉树的前序遍历 (Easy)
@@ -33,9 +33,9 @@ permalink:  /n-ary-tree-preorder-traversal/
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
 
 ### 相似题目
-  1. [二叉树的前序遍历](/binary-tree-preorder-traversal) (Medium)
-  1. [N叉树的层序遍历](/n-ary-tree-level-order-traversal) (Easy)
-  1. [N叉树的后序遍历](/n-ary-tree-postorder-traversal) (Easy)
+  1. [二叉树的前序遍历](/problems/binary-tree-preorder-traversal) (Medium)
+  1. [N叉树的层序遍历](/problems/n-ary-tree-level-order-traversal) (Easy)
+  1. [N叉树的后序遍历](/problems/n-ary-tree-postorder-traversal) (Easy)
 
 ---
 

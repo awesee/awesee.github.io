@@ -4,7 +4,7 @@ title:      "香槟塔"
 date:       2018-03-10 21:30:00 +0800
 categories: [Leetcode]
 tags:       []
-permalink:  /champagne-tower/
+permalink:  /problems/champagne-tower/
 ---
 
 ## 799. 香槟塔 (Medium)

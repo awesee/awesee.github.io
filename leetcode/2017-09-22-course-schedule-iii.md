@@ -4,7 +4,7 @@ title:      "课程表 III"
 date:       2017-09-22 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Greedy]
-permalink:  /course-schedule-iii/
+permalink:  /problems/course-schedule-iii/
 ---
 
 ## 630. 课程表 III (Hard)
@@ -46,8 +46,8 @@ permalink:  /course-schedule-iii/
   [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
 
 ### 相似题目
-  1. [课程表](/course-schedule) (Medium)
-  1. [课程表 II](/course-schedule-ii) (Medium)
+  1. [课程表](/problems/course-schedule) (Medium)
+  1. [课程表 II](/problems/course-schedule-ii) (Medium)
 
 ---
 

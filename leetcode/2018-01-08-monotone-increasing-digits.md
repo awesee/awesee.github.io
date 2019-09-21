@@ -4,7 +4,7 @@ title:      "单调递增的数字"
 date:       2018-01-08 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Greedy]
-permalink:  /monotone-increasing-digits/
+permalink:  /problems/monotone-increasing-digits/
 ---
 
 ## 738. 单调递增的数字 (Medium)
@@ -41,7 +41,7 @@ permalink:  /monotone-increasing-digits/
   [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
 
 ### 相似题目
-  1. [移掉K位数字](/remove-k-digits) (Medium)
+  1. [移掉K位数字](/problems/remove-k-digits) (Medium)
 
 ---
 

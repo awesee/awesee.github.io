@@ -4,7 +4,7 @@ title:      "键盘行"
 date:       2017-05-15 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Hash Table]
-permalink:  /keyboard-row/
+permalink:  /problems/keyboard-row/
 ---
 
 ## 500. 键盘行 (Easy)

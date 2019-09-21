@@ -4,7 +4,7 @@ title:      "寻找重复数"
 date:       2016-10-14 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array, Two Pointers, Binary Search]
-permalink:  /find-the-duplicate-number/
+permalink:  /problems/find-the-duplicate-number/
 ---
 
 ## 287. 寻找重复数 (Medium)
@@ -42,11 +42,11 @@ permalink:  /find-the-duplicate-number/
   [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
 
 ### 相似题目
-  1. [缺失的第一个正数](/first-missing-positive) (Hard)
-  1. [只出现一次的数字](/single-number) (Easy)
-  1. [环形链表 II](/linked-list-cycle-ii) (Medium)
-  1. [缺失数字](/missing-number) (Easy)
-  1. [错误的集合](/set-mismatch) (Easy)
+  1. [缺失的第一个正数](/problems/first-missing-positive) (Hard)
+  1. [只出现一次的数字](/problems/single-number) (Easy)
+  1. [环形链表 II](/problems/linked-list-cycle-ii) (Medium)
+  1. [缺失数字](/problems/missing-number) (Easy)
+  1. [错误的集合](/problems/set-mismatch) (Easy)
 
 ---
 

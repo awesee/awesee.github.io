@@ -4,7 +4,7 @@ title:      "最多能完成排序的块 II"
 date:       2018-02-07 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array]
-permalink:  /max-chunks-to-make-sorted-ii/
+permalink:  /problems/max-chunks-to-make-sorted-ii/
 ---
 
 ## 768. 最多能完成排序的块 II (Hard)
@@ -50,7 +50,7 @@ permalink:  /max-chunks-to-make-sorted-ii/
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 
 ### 相似题目
-  1. [最多能完成排序的块](/max-chunks-to-make-sorted) (Medium)
+  1. [最多能完成排序的块](/problems/max-chunks-to-make-sorted) (Medium)
 
 ---
 

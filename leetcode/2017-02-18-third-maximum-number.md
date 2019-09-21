@@ -4,7 +4,7 @@ title:      "第三大的数"
 date:       2017-02-18 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array]
-permalink:  /third-maximum-number/
+permalink:  /problems/third-maximum-number/
 ---
 
 ## 414. 第三大的数 (Easy)
@@ -50,7 +50,7 @@ permalink:  /third-maximum-number/
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 
 ### 相似题目
-  1. [数组中的第K个最大元素](/kth-largest-element-in-an-array) (Medium)
+  1. [数组中的第K个最大元素](/problems/kth-largest-element-in-an-array) (Medium)
 
 ---
 

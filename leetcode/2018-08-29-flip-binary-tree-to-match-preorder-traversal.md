@@ -4,7 +4,7 @@ title:      "翻转二叉树以匹配先序遍历"
 date:       2018-08-29 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Tree, Depth-first Search]
-permalink:  /flip-binary-tree-to-match-preorder-traversal/
+permalink:  /problems/flip-binary-tree-to-match-preorder-traversal/
 ---
 
 ## 971. 翻转二叉树以匹配先序遍历 (Medium)

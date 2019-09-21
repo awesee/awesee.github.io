@@ -4,7 +4,7 @@ title:      "山脉数组的峰顶索引"
 date:       2018-05-02 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Binary Search]
-permalink:  /peak-index-in-a-mountain-array/
+permalink:  /problems/peak-index-in-a-mountain-array/
 ---
 
 ## 852. 山脉数组的峰顶索引 (Easy)
@@ -51,7 +51,7 @@ permalink:  /peak-index-in-a-mountain-array/
   [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
 
 ### 相似题目
-  1. [寻找峰值](/find-peak-element) (Medium)
+  1. [寻找峰值](/problems/find-peak-element) (Medium)
 
 ---
 

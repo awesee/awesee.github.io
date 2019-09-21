@@ -4,7 +4,7 @@ title:      "最长数对链"
 date:       2017-10-08 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Dynamic Programming]
-permalink:  /maximum-length-of-pair-chain/
+permalink:  /problems/maximum-length-of-pair-chain/
 ---
 
 ## 646. 最长数对链 (Medium)
@@ -37,8 +37,8 @@ permalink:  /maximum-length-of-pair-chain/
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### 相似题目
-  1. [最长上升子序列](/longest-increasing-subsequence) (Medium)
-  1. [递增子序列](/increasing-subsequences) (Medium)
+  1. [最长上升子序列](/problems/longest-increasing-subsequence) (Medium)
+  1. [递增子序列](/problems/increasing-subsequences) (Medium)
 
 ---
 

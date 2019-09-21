@@ -4,7 +4,7 @@ title:      "交换一次的先前排列"
 date:       2018-11-19 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Greedy, Array]
-permalink:  /previous-permutation-with-one-swap/
+permalink:  /problems/previous-permutation-with-one-swap/
 ---
 
 ## 1053. 交换一次的先前排列 (Medium)

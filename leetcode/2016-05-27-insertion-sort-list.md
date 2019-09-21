@@ -4,7 +4,7 @@ title:      "对链表进行插入排序"
 date:       2016-05-27 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Sort, Linked List]
-permalink:  /insertion-sort-list/
+permalink:  /problems/insertion-sort-list/
 ---
 
 ## 147. 对链表进行插入排序 (Medium)
@@ -48,8 +48,8 @@ permalink:  /insertion-sort-list/
   [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
 
 ### 相似题目
-  1. [排序链表](/sort-list) (Medium)
-  1. [循环有序列表的插入](/insert-into-a-cyclic-sorted-list) (Medium)
+  1. [排序链表](/problems/sort-list) (Medium)
+  1. [循环有序列表的插入](/problems/insert-into-a-cyclic-sorted-list) (Medium)
 
 ---
 

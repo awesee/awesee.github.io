@@ -4,7 +4,7 @@ title:      "令牌放置"
 date:       2018-08-06 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Greedy]
-permalink:  /bag-of-tokens/
+permalink:  /problems/bag-of-tokens/
 ---
 
 ## 948. 令牌放置 (Medium)

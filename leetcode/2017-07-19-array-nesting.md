@@ -4,7 +4,7 @@ title:      "数组嵌套"
 date:       2017-07-19 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array]
-permalink:  /array-nesting/
+permalink:  /problems/array-nesting/
 ---
 
 ## 565. 数组嵌套 (Medium)
@@ -41,9 +41,9 @@ S[0] = {A[0], A[5], A[6], A[2]} = {5, 6, 2, 0}
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 
 ### 相似题目
-  1. [嵌套列表权重和](/nested-list-weight-sum) (Easy)
-  1. [扁平化嵌套列表迭代器](/flatten-nested-list-iterator) (Medium)
-  1. [加权嵌套序列和 II](/nested-list-weight-sum-ii) (Medium)
+  1. [嵌套列表权重和](/problems/nested-list-weight-sum) (Easy)
+  1. [扁平化嵌套列表迭代器](/problems/flatten-nested-list-iterator) (Medium)
+  1. [加权嵌套序列和 II](/problems/nested-list-weight-sum-ii) (Medium)
 
 ---
 

@@ -4,7 +4,7 @@ title:      "水果成篮"
 date:       2018-06-23 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Two Pointers]
-permalink:  /fruit-into-baskets/
+permalink:  /problems/fruit-into-baskets/
 ---
 
 ## 904. 水果成篮 (Medium)

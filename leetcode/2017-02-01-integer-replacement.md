@@ -4,7 +4,7 @@ title:      "整数替换"
 date:       2017-02-01 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Bit Manipulation, Math]
-permalink:  /integer-replacement/
+permalink:  /problems/integer-replacement/
 ---
 
 ## 397. 整数替换 (Medium)

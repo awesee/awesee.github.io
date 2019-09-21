@@ -4,7 +4,7 @@ title:      "砖墙"
 date:       2017-07-08 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Hash Table]
-permalink:  /brick-wall/
+permalink:  /problems/brick-wall/
 ---
 
 ## 554. 砖墙 (Medium)

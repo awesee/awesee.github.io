@@ -4,7 +4,7 @@ title:      "设计哈希集合"
 date:       2017-12-06 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Design, Hash Table]
-permalink:  /design-hashset/
+permalink:  /problems/design-hashset/
 ---
 
 ## 705. 设计哈希集合 (Easy)
@@ -51,7 +51,7 @@ hashSet.contains(2); &nbsp;&nbsp;&nbsp;// 返回  false (已经被删除)
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
 
 ### 相似题目
-  1. [设计哈希映射](/design-hashmap) (Easy)
+  1. [设计哈希映射](/problems/design-hashmap) (Easy)
 
 ---
 

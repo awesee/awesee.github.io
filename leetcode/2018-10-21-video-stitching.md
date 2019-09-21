@@ -4,7 +4,7 @@ title:      "视频拼接"
 date:       2018-10-21 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Dynamic Programming]
-permalink:  /video-stitching/
+permalink:  /problems/video-stitching/
 ---
 
 ## 1024. 视频拼接 (Medium)

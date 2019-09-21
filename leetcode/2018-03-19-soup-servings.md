@@ -4,7 +4,7 @@ title:      "分汤"
 date:       2018-03-19 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Dynamic Programming]
-permalink:  /soup-servings/
+permalink:  /problems/soup-servings/
 ---
 
 ## 808. 分汤 (Medium)

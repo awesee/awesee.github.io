@@ -4,7 +4,7 @@ title:      "环形链表"
 date:       2016-05-21 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Linked List, Two Pointers]
-permalink:  /linked-list-cycle/
+permalink:  /problems/linked-list-cycle/
 ---
 
 ## 141. 环形链表 (Easy)
@@ -57,8 +57,8 @@ permalink:  /linked-list-cycle/
   [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
 
 ### 相似题目
-  1. [环形链表 II](/linked-list-cycle-ii) (Medium)
-  1. [快乐数](/happy-number) (Easy)
+  1. [环形链表 II](/problems/linked-list-cycle-ii) (Medium)
+  1. [快乐数](/problems/happy-number) (Easy)
 
 ---
 

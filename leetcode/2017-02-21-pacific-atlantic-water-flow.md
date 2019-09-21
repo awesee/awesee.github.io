@@ -4,7 +4,7 @@ title:      "太平洋大西洋水流问题"
 date:       2017-02-21 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Depth-first Search, Breadth-first Search]
-permalink:  /pacific-atlantic-water-flow/
+permalink:  /problems/pacific-atlantic-water-flow/
 ---
 
 ## 417. 太平洋大西洋水流问题 (Medium)

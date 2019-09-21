@@ -4,7 +4,7 @@ title:      "找到 K 个最接近的元素"
 date:       2017-10-20 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Binary Search]
-permalink:  /find-k-closest-elements/
+permalink:  /problems/find-k-closest-elements/
 ---
 
 ## 658. 找到 K 个最接近的元素 (Medium)
@@ -50,9 +50,9 @@ permalink:  /find-k-closest-elements/
   [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
 
 ### 相似题目
-  1. [猜数字大小](/guess-number-higher-or-lower) (Easy)
-  1. [猜数字大小 II](/guess-number-higher-or-lower-ii) (Medium)
-  1. [找出第 k 小的距离对](/find-k-th-smallest-pair-distance) (Hard)
+  1. [猜数字大小](/problems/guess-number-higher-or-lower) (Easy)
+  1. [猜数字大小 II](/problems/guess-number-higher-or-lower-ii) (Medium)
+  1. [找出第 k 小的距离对](/problems/find-k-th-smallest-pair-distance) (Hard)
 
 ---
 

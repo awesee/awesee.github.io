@@ -4,7 +4,7 @@ title:      "缺失数字"
 date:       2016-09-25 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Bit Manipulation, Array, Math]
-permalink:  /missing-number/
+permalink:  /problems/missing-number/
 ---
 
 ## 268. 缺失数字 (Easy)
@@ -36,10 +36,10 @@ permalink:  /missing-number/
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
 
 ### 相似题目
-  1. [缺失的第一个正数](/first-missing-positive) (Hard)
-  1. [只出现一次的数字](/single-number) (Easy)
-  1. [寻找重复数](/find-the-duplicate-number) (Medium)
-  1. [情侣牵手](/couples-holding-hands) (Hard)
+  1. [缺失的第一个正数](/problems/first-missing-positive) (Hard)
+  1. [只出现一次的数字](/problems/single-number) (Easy)
+  1. [寻找重复数](/problems/find-the-duplicate-number) (Medium)
+  1. [情侣牵手](/problems/couples-holding-hands) (Hard)
 
 ---
 

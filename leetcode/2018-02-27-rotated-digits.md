@@ -4,7 +4,7 @@ title:      "旋转数字"
 date:       2018-02-27 21:30:00 +0800
 categories: [Leetcode]
 tags:       [String]
-permalink:  /rotated-digits/
+permalink:  /problems/rotated-digits/
 ---
 
 ## 788. 旋转数字 (Easy)

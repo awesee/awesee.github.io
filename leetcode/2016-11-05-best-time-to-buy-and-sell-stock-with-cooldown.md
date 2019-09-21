@@ -4,7 +4,7 @@ title:      "最佳买卖股票时机含冷冻期"
 date:       2016-11-05 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Dynamic Programming]
-permalink:  /best-time-to-buy-and-sell-stock-with-cooldown/
+permalink:  /problems/best-time-to-buy-and-sell-stock-with-cooldown/
 ---
 
 ## 309. 最佳买卖股票时机含冷冻期 (Medium)
@@ -32,8 +32,8 @@ permalink:  /best-time-to-buy-and-sell-stock-with-cooldown/
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### 相似题目
-  1. [买卖股票的最佳时机](/best-time-to-buy-and-sell-stock) (Easy)
-  1. [买卖股票的最佳时机 II](/best-time-to-buy-and-sell-stock-ii) (Easy)
+  1. [买卖股票的最佳时机](/problems/best-time-to-buy-and-sell-stock) (Easy)
+  1. [买卖股票的最佳时机 II](/problems/best-time-to-buy-and-sell-stock-ii) (Easy)
 
 ---
 

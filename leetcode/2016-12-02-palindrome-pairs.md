@@ -4,7 +4,7 @@ title:      "回文对"
 date:       2016-12-02 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Trie, Hash Table, String]
-permalink:  /palindrome-pairs/
+permalink:  /problems/palindrome-pairs/
 ---
 
 ## 336. 回文对 (Hard)
@@ -34,8 +34,8 @@ permalink:  /palindrome-pairs/
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ### 相似题目
-  1. [最长回文子串](/longest-palindromic-substring) (Medium)
-  1. [最短回文串](/shortest-palindrome) (Hard)
+  1. [最长回文子串](/problems/longest-palindromic-substring) (Medium)
+  1. [最短回文串](/problems/shortest-palindrome) (Hard)
 
 ---
 

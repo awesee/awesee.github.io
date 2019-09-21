@@ -4,7 +4,7 @@ title:      "字符串中的查找与替换"
 date:       2018-04-13 21:30:00 +0800
 categories: [Leetcode]
 tags:       [String]
-permalink:  /find-and-replace-in-string/
+permalink:  /problems/find-and-replace-in-string/
 ---
 
 ## 833. 字符串中的查找与替换 (Medium)

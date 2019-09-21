@@ -4,7 +4,7 @@ title:      "区间列表的交集"
 date:       2018-09-13 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Two Pointers]
-permalink:  /interval-list-intersections/
+permalink:  /problems/interval-list-intersections/
 ---
 
 ## 986. 区间列表的交集 (Medium)
@@ -44,9 +44,9 @@ permalink:  /interval-list-intersections/
   [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
 
 ### 相似题目
-  1. [合并区间](/merge-intervals) (Medium)
-  1. [合并两个有序数组](/merge-sorted-array) (Easy)
-  1. [员工空闲时间](/employee-free-time) (Hard)
+  1. [合并区间](/problems/merge-intervals) (Medium)
+  1. [合并两个有序数组](/problems/merge-sorted-array) (Easy)
+  1. [员工空闲时间](/problems/employee-free-time) (Hard)
 
 ---
 

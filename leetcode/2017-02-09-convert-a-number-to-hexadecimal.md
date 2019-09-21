@@ -4,7 +4,7 @@ title:      "数字转换为十六进制数"
 date:       2017-02-09 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Bit Manipulation]
-permalink:  /convert-a-number-to-hexadecimal/
+permalink:  /problems/convert-a-number-to-hexadecimal/
 ---
 
 ## 405. 数字转换为十六进制数 (Easy)

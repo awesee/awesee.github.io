@@ -4,10 +4,12 @@ title:      "对称二叉树"
 date:       2016-04-11 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Tree, Depth-first Search, Breadth-first Search]
-permalink:  /symmetric-tree/
+permalink:  /problems/symmetric-tree/
 ---
 
 ## 101. 对称二叉树 (Easy)
+
+{% raw %}
 
 <p>给定一个二叉树，检查它是否是镜像对称的。</p>
 
@@ -32,6 +34,8 @@ permalink:  /symmetric-tree/
 <p><strong>说明:</strong></p>
 
 <p>如果你可以运用递归和迭代两种方法解决这个问题，会很加分。</p>
+
+{% endraw %}
 
 ### 相关话题
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]

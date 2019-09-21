@@ -4,7 +4,7 @@ title:      "最少移动次数使数组元素相等 II"
 date:       2017-04-07 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Math]
-permalink:  /minimum-moves-to-equal-array-elements-ii/
+permalink:  /problems/minimum-moves-to-equal-array-elements-ii/
 ---
 
 ## 462. 最少移动次数使数组元素相等 II (Medium)
@@ -34,8 +34,8 @@ permalink:  /minimum-moves-to-equal-array-elements-ii/
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
 
 ### 相似题目
-  1. [最佳的碰头地点](/best-meeting-point) (Hard)
-  1. [最小移动次数使数组元素相等](/minimum-moves-to-equal-array-elements) (Easy)
+  1. [最佳的碰头地点](/problems/best-meeting-point) (Hard)
+  1. [最小移动次数使数组元素相等](/problems/minimum-moves-to-equal-array-elements) (Easy)
 
 ---
 

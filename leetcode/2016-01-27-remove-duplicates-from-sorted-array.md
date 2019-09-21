@@ -4,7 +4,7 @@ title:      "删除排序数组中的重复项"
 date:       2016-01-27 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array, Two Pointers]
-permalink:  /remove-duplicates-from-sorted-array/
+permalink:  /problems/remove-duplicates-from-sorted-array/
 ---
 
 ## 26. 删除排序数组中的重复项 (Easy)
@@ -57,8 +57,8 @@ for (int i = 0; i &lt; len; i++) {
   [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
 
 ### 相似题目
-  1. [移除元素](/remove-element) (Easy)
-  1. [删除排序数组中的重复项 II](/remove-duplicates-from-sorted-array-ii) (Medium)
+  1. [移除元素](/problems/remove-element) (Easy)
+  1. [删除排序数组中的重复项 II](/problems/remove-duplicates-from-sorted-array-ii) (Medium)
 
 ---
 

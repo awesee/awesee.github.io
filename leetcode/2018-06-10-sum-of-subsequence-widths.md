@@ -4,7 +4,7 @@ title:      "子序列宽度之和"
 date:       2018-06-10 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array, Math]
-permalink:  /sum-of-subsequence-widths/
+permalink:  /problems/sum-of-subsequence-widths/
 ---
 
 ## 891. 子序列宽度之和 (Hard)

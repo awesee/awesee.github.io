@@ -4,7 +4,7 @@ title:      "逃脱阻碍者"
 date:       2018-02-28 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Math]
-permalink:  /escape-the-ghosts/
+permalink:  /problems/escape-the-ghosts/
 ---
 
 ## 789. 逃脱阻碍者 (Medium)

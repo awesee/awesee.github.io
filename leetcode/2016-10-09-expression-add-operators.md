@@ -4,7 +4,7 @@ title:      "给表达式添加运算符"
 date:       2016-10-09 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Divide and Conquer]
-permalink:  /expression-add-operators/
+permalink:  /problems/expression-add-operators/
 ---
 
 ## 282. 给表达式添加运算符 (Hard)
@@ -47,11 +47,11 @@ permalink:  /expression-add-operators/
   [[分治算法](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]
 
 ### 相似题目
-  1. [逆波兰表达式求值](/evaluate-reverse-polish-notation) (Medium)
-  1. [基本计算器](/basic-calculator) (Hard)
-  1. [基本计算器 II](/basic-calculator-ii) (Medium)
-  1. [为运算表达式设计优先级](/different-ways-to-add-parentheses) (Medium)
-  1. [目标和](/target-sum) (Medium)
+  1. [逆波兰表达式求值](/problems/evaluate-reverse-polish-notation) (Medium)
+  1. [基本计算器](/problems/basic-calculator) (Hard)
+  1. [基本计算器 II](/problems/basic-calculator-ii) (Medium)
+  1. [为运算表达式设计优先级](/problems/different-ways-to-add-parentheses) (Medium)
+  1. [目标和](/problems/target-sum) (Medium)
 
 ---
 

@@ -4,7 +4,7 @@ title:      "我的日程安排表 I"
 date:       2017-12-30 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array]
-permalink:  /my-calendar-i/
+permalink:  /problems/my-calendar-i/
 ---
 
 ## 729. 我的日程安排表 I (Medium)
@@ -45,8 +45,8 @@ MyCalendar.book(20, 30); // returns true
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 
 ### 相似题目
-  1. [我的日程安排表 II](/my-calendar-ii) (Medium)
-  1. [我的日程安排表 III](/my-calendar-iii) (Hard)
+  1. [我的日程安排表 II](/problems/my-calendar-ii) (Medium)
+  1. [我的日程安排表 III](/problems/my-calendar-iii) (Hard)
 
 ---
 

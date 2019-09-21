@@ -4,7 +4,7 @@ title:      "Dota2 参议院"
 date:       2017-10-11 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Greedy]
-permalink:  /dota2-senate/
+permalink:  /problems/dota2-senate/
 ---
 
 ## 649. Dota2 参议院 (Medium)
@@ -71,7 +71,7 @@ permalink:  /dota2-senate/
   [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
 
 ### 相似题目
-  1. [提莫攻击](/teemo-attacking) (Medium)
+  1. [提莫攻击](/problems/teemo-attacking) (Medium)
 
 ---
 

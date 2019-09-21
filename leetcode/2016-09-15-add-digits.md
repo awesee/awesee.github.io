@@ -4,7 +4,7 @@ title:      "各位相加"
 date:       2016-09-15 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Math]
-permalink:  /add-digits/
+permalink:  /problems/add-digits/
 ---
 
 ## 258. 各位相加 (Easy)
@@ -29,8 +29,8 @@ permalink:  /add-digits/
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
 
 ### 相似题目
-  1. [快乐数](/happy-number) (Easy)
-  1. [最小元素各数位之和](/sum-of-digits-in-the-minimum-number) (Easy)
+  1. [快乐数](/problems/happy-number) (Easy)
+  1. [最小元素各数位之和](/problems/sum-of-digits-in-the-minimum-number) (Easy)
 
 ---
 

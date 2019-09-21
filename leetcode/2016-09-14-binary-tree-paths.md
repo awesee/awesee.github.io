@@ -4,7 +4,7 @@ title:      "二叉树的所有路径"
 date:       2016-09-14 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Tree, Depth-first Search]
-permalink:  /binary-tree-paths/
+permalink:  /problems/binary-tree-paths/
 ---
 
 ## 257. 二叉树的所有路径 (Easy)
@@ -36,8 +36,8 @@ permalink:  /binary-tree-paths/
   [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
 
 ### 相似题目
-  1. [路径总和 II](/path-sum-ii) (Medium)
-  1. [从叶结点开始的最小字符串](/smallest-string-starting-from-leaf) (Medium)
+  1. [路径总和 II](/problems/path-sum-ii) (Medium)
+  1. [从叶结点开始的最小字符串](/problems/smallest-string-starting-from-leaf) (Medium)
 
 ---
 

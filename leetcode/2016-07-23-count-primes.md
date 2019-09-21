@@ -4,7 +4,7 @@ title:      "计数质数"
 date:       2016-07-23 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Hash Table, Math]
-permalink:  /count-primes/
+permalink:  /problems/count-primes/
 ---
 
 ## 204. 计数质数 (Easy)
@@ -27,9 +27,9 @@ permalink:  /count-primes/
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
 
 ### 相似题目
-  1. [丑数](/ugly-number) (Easy)
-  1. [丑数 II](/ugly-number-ii) (Medium)
-  1. [完全平方数](/perfect-squares) (Medium)
+  1. [丑数](/problems/ugly-number) (Easy)
+  1. [丑数 II](/problems/ugly-number-ii) (Medium)
+  1. [完全平方数](/problems/perfect-squares) (Medium)
 
 ---
 

@@ -4,7 +4,7 @@ title:      "数组中的第K个最大元素"
 date:       2016-08-03 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Heap, Divide and Conquer]
-permalink:  /kth-largest-element-in-an-array/
+permalink:  /problems/kth-largest-element-in-an-array/
 ---
 
 ## 215. 数组中的第K个最大元素 (Medium)
@@ -35,11 +35,11 @@ permalink:  /kth-largest-element-in-an-array/
   [[分治算法](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]
 
 ### 相似题目
-  1. [摆动排序 II](/wiggle-sort-ii) (Medium)
-  1. [前 K 个高频元素](/top-k-frequent-elements) (Medium)
-  1. [第三大的数](/third-maximum-number) (Easy)
-  1. [数据流中的第K大元素](/kth-largest-element-in-a-stream) (Easy)
-  1. [最接近原点的 K 个点](/k-closest-points-to-origin) (Medium)
+  1. [摆动排序 II](/problems/wiggle-sort-ii) (Medium)
+  1. [前 K 个高频元素](/problems/top-k-frequent-elements) (Medium)
+  1. [第三大的数](/problems/third-maximum-number) (Easy)
+  1. [数据流中的第K大元素](/problems/kth-largest-element-in-a-stream) (Easy)
+  1. [最接近原点的 K 个点](/problems/k-closest-points-to-origin) (Medium)
 
 ---
 

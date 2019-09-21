@@ -4,7 +4,7 @@ title:      "三等分"
 date:       2018-07-16 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Greedy, Math, Binary Search]
-permalink:  /three-equal-parts/
+permalink:  /problems/three-equal-parts/
 ---
 
 ## 927. 三等分 (Hard)

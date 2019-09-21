@@ -4,7 +4,7 @@ title:      "矩阵中的幻方"
 date:       2018-04-20 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array]
-permalink:  /magic-squares-in-grid/
+permalink:  /problems/magic-squares-in-grid/
 ---
 
 ## 840. 矩阵中的幻方 (Easy)

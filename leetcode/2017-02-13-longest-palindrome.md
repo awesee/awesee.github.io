@@ -4,7 +4,7 @@ title:      "最长回文串"
 date:       2017-02-13 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Hash Table]
-permalink:  /longest-palindrome/
+permalink:  /problems/longest-palindrome/
 ---
 
 ## 409. 最长回文串 (Easy)
@@ -37,7 +37,7 @@ permalink:  /longest-palindrome/
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
 
 ### 相似题目
-  1. [回文排列](/palindrome-permutation) (Easy)
+  1. [回文排列](/problems/palindrome-permutation) (Easy)
 
 ---
 

@@ -4,7 +4,7 @@ title:      "区域和检索 - 数组不可变"
 date:       2016-10-30 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Dynamic Programming]
-permalink:  /range-sum-query-immutable/
+permalink:  /problems/range-sum-query-immutable/
 ---
 
 ## 303. 区域和检索 - 数组不可变 (Easy)
@@ -34,9 +34,9 @@ sumRange(0, 5) -&gt; -3</pre>
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### 相似题目
-  1. [二维区域和检索 - 矩阵不可变](/range-sum-query-2d-immutable) (Medium)
-  1. [区域和检索 - 数组可修改](/range-sum-query-mutable) (Medium)
-  1. [和等于 k 的最长子数组长度](/maximum-size-subarray-sum-equals-k) (Medium)
+  1. [二维区域和检索 - 矩阵不可变](/problems/range-sum-query-2d-immutable) (Medium)
+  1. [区域和检索 - 数组可修改](/problems/range-sum-query-mutable) (Medium)
+  1. [和等于 k 的最长子数组长度](/problems/maximum-size-subarray-sum-equals-k) (Medium)
 
 ---
 

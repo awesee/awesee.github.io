@@ -4,7 +4,7 @@ title:      "有效的完全平方数"
 date:       2017-01-02 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Math, Binary Search]
-permalink:  /valid-perfect-square/
+permalink:  /problems/valid-perfect-square/
 ---
 
 ## 367. 有效的完全平方数 (Easy)
@@ -33,8 +33,8 @@ permalink:  /valid-perfect-square/
   [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
 
 ### 相似题目
-  1. [x 的平方根](/sqrtx) (Easy)
-  1. [平方数之和](/sum-of-square-numbers) (Easy)
+  1. [x 的平方根](/problems/sqrtx) (Easy)
+  1. [平方数之和](/problems/sum-of-square-numbers) (Easy)
 
 ---
 

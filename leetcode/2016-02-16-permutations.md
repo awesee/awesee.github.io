@@ -4,7 +4,7 @@ title:      "全排列"
 date:       2016-02-16 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Backtracking]
-permalink:  /permutations/
+permalink:  /problems/permutations/
 ---
 
 ## 46. 全排列 (Medium)
@@ -32,10 +32,10 @@ permalink:  /permutations/
   [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
 
 ### 相似题目
-  1. [下一个排列](/next-permutation) (Medium)
-  1. [全排列 II](/permutations-ii) (Medium)
-  1. [第k个排列](/permutation-sequence) (Medium)
-  1. [组合](/combinations) (Medium)
+  1. [下一个排列](/problems/next-permutation) (Medium)
+  1. [全排列 II](/problems/permutations-ii) (Medium)
+  1. [第k个排列](/problems/permutation-sequence) (Medium)
+  1. [组合](/problems/combinations) (Medium)
 
 ---
 

@@ -4,7 +4,7 @@ title:      "山脉数组中查找目标值"
 date:       2018-12-31 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Binary Search]
-permalink:  /find-in-mountain-array/
+permalink:  /problems/find-in-mountain-array/
 ---
 
 ## 1095. 山脉数组中查找目标值 (Hard)

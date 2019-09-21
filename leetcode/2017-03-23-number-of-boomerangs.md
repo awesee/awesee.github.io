@@ -4,7 +4,7 @@ title:      "回旋镖的数量"
 date:       2017-03-23 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Hash Table]
-permalink:  /number-of-boomerangs/
+permalink:  /problems/number-of-boomerangs/
 ---
 
 ## 447. 回旋镖的数量 (Easy)
@@ -34,7 +34,7 @@ permalink:  /number-of-boomerangs/
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
 
 ### 相似题目
-  1. [直线镜像](/line-reflection) (Medium)
+  1. [直线镜像](/problems/line-reflection) (Medium)
 
 ---
 

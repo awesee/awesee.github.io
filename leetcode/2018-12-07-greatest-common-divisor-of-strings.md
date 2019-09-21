@@ -4,7 +4,7 @@ title:      "字符串的最大公因子"
 date:       2018-12-07 21:30:00 +0800
 categories: [Leetcode]
 tags:       [String]
-permalink:  /greatest-common-divisor-of-strings/
+permalink:  /problems/greatest-common-divisor-of-strings/
 ---
 
 ## 1071. 字符串的最大公因子 (Easy)

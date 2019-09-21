@@ -4,7 +4,7 @@ title:      "二叉树的垂序遍历"
 date:       2018-09-14 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Tree, Hash Table]
-permalink:  /vertical-order-traversal-of-a-binary-tree/
+permalink:  /problems/vertical-order-traversal-of-a-binary-tree/
 ---
 
 ## 987. 二叉树的垂序遍历 (Medium)

@@ -4,7 +4,7 @@ title:      "密钥格式化"
 date:       2017-04-27 21:30:00 +0800
 categories: [Leetcode]
 tags:       []
-permalink:  /license-key-formatting/
+permalink:  /problems/license-key-formatting/
 ---
 
 ## 482. 密钥格式化 (Easy)

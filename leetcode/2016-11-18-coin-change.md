@@ -4,7 +4,7 @@ title:      "零钱兑换"
 date:       2016-11-18 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Dynamic Programming]
-permalink:  /coin-change/
+permalink:  /problems/coin-change/
 ---
 
 ## 322. 零钱兑换 (Medium)
@@ -33,7 +33,7 @@ permalink:  /coin-change/
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### 相似题目
-  1. [最低票价](/minimum-cost-for-tickets) (Medium)
+  1. [最低票价](/problems/minimum-cost-for-tickets) (Medium)
 
 ---
 

@@ -4,7 +4,7 @@ title:      "链表随机节点"
 date:       2017-01-17 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Reservoir Sampling]
-permalink:  /linked-list-random-node/
+permalink:  /problems/linked-list-random-node/
 ---
 
 ## 382. 链表随机节点 (Medium)
@@ -35,7 +35,7 @@ solution.getRandom();
   [[蓄水池抽样](https://github.com/openset/leetcode/tree/master/tag/reservoir-sampling/README.md)]
 
 ### 相似题目
-  1. [随机数索引](/random-pick-index) (Medium)
+  1. [随机数索引](/problems/random-pick-index) (Medium)
 
 ---
 

@@ -4,7 +4,7 @@ title:      "到达终点"
 date:       2018-02-19 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Math]
-permalink:  /reaching-points/
+permalink:  /problems/reaching-points/
 ---
 
 ## 780. 到达终点 (Hard)

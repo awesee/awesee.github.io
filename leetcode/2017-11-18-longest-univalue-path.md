@@ -4,7 +4,7 @@ title:      "最长同值路径"
 date:       2017-11-18 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Tree, Recursion]
-permalink:  /longest-univalue-path/
+permalink:  /problems/longest-univalue-path/
 ---
 
 ## 687. 最长同值路径 (Easy)
@@ -60,9 +60,9 @@ permalink:  /longest-univalue-path/
   [[递归](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]
 
 ### 相似题目
-  1. [二叉树中的最大路径和](/binary-tree-maximum-path-sum) (Hard)
-  1. [统计同值子树](/count-univalue-subtrees) (Medium)
-  1. [路径总和 III](/path-sum-iii) (Easy)
+  1. [二叉树中的最大路径和](/problems/binary-tree-maximum-path-sum) (Hard)
+  1. [统计同值子树](/problems/count-univalue-subtrees) (Medium)
+  1. [路径总和 III](/problems/path-sum-iii) (Easy)
 
 ---
 

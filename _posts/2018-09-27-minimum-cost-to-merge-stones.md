@@ -4,7 +4,7 @@ title:      "合并石头的最低成本"
 date:       2018-09-27 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Dynamic Programming]
-permalink:  /minimum-cost-to-merge-stones/
+permalink:  /problems/minimum-cost-to-merge-stones/
 ---
 
 ## 1000. 合并石头的最低成本 (Hard)
@@ -65,7 +65,8 @@ permalink:  /minimum-cost-to-merge-stones/
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### 相似题目
-  1. [戳气球](/burst-balloons) (Hard)
+  1. [戳气球](/problems/burst-balloons) (Hard)
+  1. [连接棒材的最低费用](/problems/minimum-cost-to-connect-sticks) (Medium)
 
 ---
 

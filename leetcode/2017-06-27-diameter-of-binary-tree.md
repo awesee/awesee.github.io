@@ -4,7 +4,7 @@ title:      "二叉树的直径"
 date:       2017-06-27 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Tree]
-permalink:  /diameter-of-binary-tree/
+permalink:  /problems/diameter-of-binary-tree/
 ---
 
 ## 543. 二叉树的直径 (Easy)

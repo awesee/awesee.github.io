@@ -4,7 +4,7 @@ title:      "灯泡开关"
 date:       2016-11-15 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Brainteaser, Math]
-permalink:  /bulb-switcher/
+permalink:  /problems/bulb-switcher/
 ---
 
 ## 319. 灯泡开关 (Medium)
@@ -33,8 +33,8 @@ permalink:  /bulb-switcher/
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
 
 ### 相似题目
-  1. [灯泡开关 Ⅱ](/bulb-switcher-ii) (Medium)
-  1. [K 连续位的最小翻转次数](/minimum-number-of-k-consecutive-bit-flips) (Hard)
+  1. [灯泡开关 Ⅱ](/problems/bulb-switcher-ii) (Medium)
+  1. [K 连续位的最小翻转次数](/problems/minimum-number-of-k-consecutive-bit-flips) (Hard)
 
 ---
 

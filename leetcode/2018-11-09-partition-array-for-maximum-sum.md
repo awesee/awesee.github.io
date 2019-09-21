@@ -4,7 +4,7 @@ title:      "分隔数组以得到最大和"
 date:       2018-11-09 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Graph]
-permalink:  /partition-array-for-maximum-sum/
+permalink:  /problems/partition-array-for-maximum-sum/
 ---
 
 ## 1043. 分隔数组以得到最大和 (Medium)

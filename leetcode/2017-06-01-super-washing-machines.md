@@ -4,7 +4,7 @@ title:      "超级洗衣机"
 date:       2017-06-01 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Math, Dynamic Programming]
-permalink:  /super-washing-machines/
+permalink:  /problems/super-washing-machines/
 ---
 
 ## 517. 超级洗衣机 (Hard)

@@ -4,7 +4,7 @@ title:      "独特字符串"
 date:       2018-04-08 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Two Pointers]
-permalink:  /unique-letter-string/
+permalink:  /problems/unique-letter-string/
 ---
 
 ## 828. 独特字符串 (Hard)

@@ -4,7 +4,7 @@ title:      "不同字符的最小子序列"
 date:       2018-12-17 21:30:00 +0800
 categories: [Leetcode]
 tags:       [String]
-permalink:  /smallest-subsequence-of-distinct-characters/
+permalink:  /problems/smallest-subsequence-of-distinct-characters/
 ---
 
 ## 1081. 不同字符的最小子序列 (Medium)

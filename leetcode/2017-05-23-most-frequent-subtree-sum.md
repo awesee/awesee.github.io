@@ -4,7 +4,7 @@ title:      "出现次数最多的子树元素和"
 date:       2017-05-23 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Tree, Hash Table]
-permalink:  /most-frequent-subtree-sum/
+permalink:  /problems/most-frequent-subtree-sum/
 ---
 
 ## 508. 出现次数最多的子树元素和 (Medium)
@@ -46,7 +46,7 @@ permalink:  /most-frequent-subtree-sum/
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
 
 ### 相似题目
-  1. [另一个树的子树](/subtree-of-another-tree) (Easy)
+  1. [另一个树的子树](/problems/subtree-of-another-tree) (Easy)
 
 ---
 

@@ -4,7 +4,7 @@ title:      "合并区间"
 date:       2016-02-26 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Sort, Array]
-permalink:  /merge-intervals/
+permalink:  /problems/merge-intervals/
 ---
 
 ## 56. 合并区间 (Medium)
@@ -33,15 +33,15 @@ permalink:  /merge-intervals/
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 
 ### 相似题目
-  1. [插入区间](/insert-interval) (Hard)
-  1. [会议室](/meeting-rooms) (Easy)
-  1. [会议室 II](/meeting-rooms-ii) (Medium)
-  1. [提莫攻击](/teemo-attacking) (Medium)
-  1. [给字符串添加加粗标签](/add-bold-tag-in-string) (Medium)
-  1. [Range 模块](/range-module) (Hard)
-  1. [员工空闲时间](/employee-free-time) (Hard)
-  1. [划分字母区间](/partition-labels) (Medium)
-  1. [区间列表的交集](/interval-list-intersections) (Medium)
+  1. [插入区间](/problems/insert-interval) (Hard)
+  1. [会议室](/problems/meeting-rooms) (Easy)
+  1. [会议室 II](/problems/meeting-rooms-ii) (Medium)
+  1. [提莫攻击](/problems/teemo-attacking) (Medium)
+  1. [给字符串添加加粗标签](/problems/add-bold-tag-in-string) (Medium)
+  1. [Range 模块](/problems/range-module) (Hard)
+  1. [员工空闲时间](/problems/employee-free-time) (Hard)
+  1. [划分字母区间](/problems/partition-labels) (Medium)
+  1. [区间列表的交集](/problems/interval-list-intersections) (Medium)
 
 ---
 

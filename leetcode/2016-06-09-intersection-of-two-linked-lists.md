@@ -4,7 +4,7 @@ title:      "相交链表"
 date:       2016-06-09 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Linked List]
-permalink:  /intersection-of-two-linked-lists/
+permalink:  /problems/intersection-of-two-linked-lists/
 ---
 
 ## 160. 相交链表 (Easy)
@@ -70,7 +70,7 @@ permalink:  /intersection-of-two-linked-lists/
   [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
 
 ### 相似题目
-  1. [两个列表的最小索引总和](/minimum-index-sum-of-two-lists) (Easy)
+  1. [两个列表的最小索引总和](/problems/minimum-index-sum-of-two-lists) (Easy)
 
 ---
 

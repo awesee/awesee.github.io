@@ -4,7 +4,7 @@ title:      "二叉搜索树结点最小距离"
 date:       2018-02-22 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Tree, Recursion]
-permalink:  /minimum-distance-between-bst-nodes/
+permalink:  /problems/minimum-distance-between-bst-nodes/
 ---
 
 ## 783. 二叉搜索树结点最小距离 (Easy)
@@ -45,7 +45,7 @@ permalink:  /minimum-distance-between-bst-nodes/
   [[递归](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]
 
 ### 相似题目
-  1. [二叉树的中序遍历](/binary-tree-inorder-traversal) (Medium)
+  1. [二叉树的中序遍历](/problems/binary-tree-inorder-traversal) (Medium)
 
 ---
 

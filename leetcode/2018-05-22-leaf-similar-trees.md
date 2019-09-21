@@ -4,7 +4,7 @@ title:      "叶子相似的树"
 date:       2018-05-22 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Tree, Depth-first Search]
-permalink:  /leaf-similar-trees/
+permalink:  /problems/leaf-similar-trees/
 ---
 
 ## 872. 叶子相似的树 (Easy)

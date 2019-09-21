@@ -4,7 +4,7 @@ title:      "较大分组的位置"
 date:       2018-04-10 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array]
-permalink:  /positions-of-large-groups/
+permalink:  /problems/positions-of-large-groups/
 ---
 
 ## 830. 较大分组的位置 (Easy)

@@ -4,7 +4,7 @@ title:      "环形链表 II"
 date:       2016-05-22 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Linked List, Two Pointers]
-permalink:  /linked-list-cycle-ii/
+permalink:  /problems/linked-list-cycle-ii/
 ---
 
 ## 142. 环形链表 II (Medium)
@@ -58,8 +58,8 @@ permalink:  /linked-list-cycle-ii/
   [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
 
 ### 相似题目
-  1. [环形链表](/linked-list-cycle) (Easy)
-  1. [寻找重复数](/find-the-duplicate-number) (Medium)
+  1. [环形链表](/problems/linked-list-cycle) (Easy)
+  1. [寻找重复数](/problems/find-the-duplicate-number) (Medium)
 
 ---
 

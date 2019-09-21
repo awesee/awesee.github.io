@@ -4,7 +4,7 @@ title:      "任务调度器"
 date:       2017-09-13 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Greedy, Queue, Array]
-permalink:  /task-scheduler/
+permalink:  /problems/task-scheduler/
 ---
 
 ## 621. 任务调度器 (Medium)
@@ -40,8 +40,8 @@ permalink:  /task-scheduler/
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 
 ### 相似题目
-  1. [K 距离间隔重排字符串](/rearrange-string-k-distance-apart) (Hard)
-  1. [重构字符串](/reorganize-string) (Medium)
+  1. [K 距离间隔重排字符串](/problems/rearrange-string-k-distance-apart) (Hard)
+  1. [重构字符串](/problems/reorganize-string) (Medium)
 
 ---
 

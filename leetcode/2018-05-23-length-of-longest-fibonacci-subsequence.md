@@ -4,7 +4,7 @@ title:      "最长的斐波那契子序列的长度"
 date:       2018-05-23 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array, Dynamic Programming]
-permalink:  /length-of-longest-fibonacci-subsequence/
+permalink:  /problems/length-of-longest-fibonacci-subsequence/
 ---
 
 ## 873. 最长的斐波那契子序列的长度 (Medium)
@@ -61,7 +61,7 @@ permalink:  /length-of-longest-fibonacci-subsequence/
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### 相似题目
-  1. [斐波那契数](/fibonacci-number) (Easy)
+  1. [斐波那契数](/problems/fibonacci-number) (Easy)
 
 ---
 

@@ -4,7 +4,7 @@ title:      "无重叠区间"
 date:       2017-03-11 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Greedy]
-permalink:  /non-overlapping-intervals/
+permalink:  /problems/non-overlapping-intervals/
 ---
 
 ## 435. 无重叠区间 (Medium)
@@ -56,7 +56,7 @@ permalink:  /non-overlapping-intervals/
   [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
 
 ### 相似题目
-  1. [用最少数量的箭引爆气球](/minimum-number-of-arrows-to-burst-balloons) (Medium)
+  1. [用最少数量的箭引爆气球](/problems/minimum-number-of-arrows-to-burst-balloons) (Medium)
 
 ---
 

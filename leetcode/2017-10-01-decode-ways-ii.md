@@ -4,7 +4,7 @@ title:      "解码方法 2"
 date:       2017-10-01 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Dynamic Programming]
-permalink:  /decode-ways-ii/
+permalink:  /problems/decode-ways-ii/
 ---
 
 ## 639. 解码方法 2 (Hard)
@@ -51,7 +51,7 @@ permalink:  /decode-ways-ii/
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### 相似题目
-  1. [解码方法](/decode-ways) (Medium)
+  1. [解码方法](/problems/decode-ways) (Medium)
 
 ---
 

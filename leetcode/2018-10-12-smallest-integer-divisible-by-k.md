@@ -4,7 +4,7 @@ title:      "可被 K 整除的最小整数"
 date:       2018-10-12 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Math]
-permalink:  /smallest-integer-divisible-by-k/
+permalink:  /problems/smallest-integer-divisible-by-k/
 ---
 
 ## 1015. 可被 K 整除的最小整数 (Medium)

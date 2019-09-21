@@ -4,7 +4,7 @@ title:      "煎饼排序"
 date:       2018-08-27 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Sort, Array]
-permalink:  /pancake-sorting/
+permalink:  /problems/pancake-sorting/
 ---
 
 ## 969. 煎饼排序 (Medium)

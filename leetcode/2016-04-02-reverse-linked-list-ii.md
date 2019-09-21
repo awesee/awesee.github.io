@@ -4,10 +4,12 @@ title:      "反转链表 II"
 date:       2016-04-02 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Linked List]
-permalink:  /reverse-linked-list-ii/
+permalink:  /problems/reverse-linked-list-ii/
 ---
 
 ## 92. 反转链表 II (Medium)
+
+{% raw %}
 
 <p>反转从位置 <em>m</em> 到 <em>n</em> 的链表。请使用一趟扫描完成反转。</p>
 
@@ -19,11 +21,13 @@ permalink:  /reverse-linked-list-ii/
 <pre><strong>输入:</strong> 1-&gt;2-&gt;3-&gt;4-&gt;5-&gt;NULL, <em>m</em> = 2, <em>n</em> = 4
 <strong>输出:</strong> 1-&gt;4-&gt;3-&gt;2-&gt;5-&gt;NULL</pre>
 
+{% endraw %}
+
 ### 相关话题
   [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
 
 ### 相似题目
-  1. [反转链表](/reverse-linked-list) (Easy)
+  1. [反转链表](/problems/reverse-linked-list) (Easy)
 
 ---
 

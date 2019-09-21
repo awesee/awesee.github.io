@@ -4,7 +4,7 @@ title:      "俄罗斯套娃信封问题"
 date:       2016-12-20 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Binary Search, Dynamic Programming]
-permalink:  /russian-doll-envelopes/
+permalink:  /problems/russian-doll-envelopes/
 ---
 
 ## 354. 俄罗斯套娃信封问题 (Hard)
@@ -32,7 +32,7 @@ permalink:  /russian-doll-envelopes/
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### 相似题目
-  1. [最长上升子序列](/longest-increasing-subsequence) (Medium)
+  1. [最长上升子序列](/problems/longest-increasing-subsequence) (Medium)
 
 ---
 

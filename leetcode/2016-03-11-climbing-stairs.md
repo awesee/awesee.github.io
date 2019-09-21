@@ -4,7 +4,7 @@ title:      "爬楼梯"
 date:       2016-03-11 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Dynamic Programming]
-permalink:  /climbing-stairs/
+permalink:  /problems/climbing-stairs/
 ---
 
 ## 70. 爬楼梯 (Easy)
@@ -41,8 +41,9 @@ permalink:  /climbing-stairs/
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### 相似题目
-  1. [使用最小花费爬楼梯](/min-cost-climbing-stairs) (Easy)
-  1. [斐波那契数](/fibonacci-number) (Easy)
+  1. [使用最小花费爬楼梯](/problems/min-cost-climbing-stairs) (Easy)
+  1. [斐波那契数](/problems/fibonacci-number) (Easy)
+  1. [第 N 个泰波那契数](/problems/n-th-tribonacci-number) (Easy)
 
 ---
 

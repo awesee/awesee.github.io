@@ -4,7 +4,7 @@ title:      "两整数之和"
 date:       2017-01-06 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Bit Manipulation]
-permalink:  /sum-of-two-integers/
+permalink:  /problems/sum-of-two-integers/
 ---
 
 ## 371. 两整数之和 (Easy)
@@ -30,7 +30,7 @@ permalink:  /sum-of-two-integers/
   [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
 
 ### 相似题目
-  1. [两数相加](/add-two-numbers) (Medium)
+  1. [两数相加](/problems/add-two-numbers) (Medium)
 
 ---
 

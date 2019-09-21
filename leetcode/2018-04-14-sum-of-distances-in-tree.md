@@ -4,7 +4,7 @@ title:      "树中距离之和"
 date:       2018-04-14 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Tree, Depth-first Search]
-permalink:  /sum-of-distances-in-tree/
+permalink:  /problems/sum-of-distances-in-tree/
 ---
 
 ## 834. 树中距离之和 (Hard)
@@ -43,7 +43,7 @@ permalink:  /sum-of-distances-in-tree/
   [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
 
 ### 相似题目
-  1. [在二叉树中分配硬币](/distribute-coins-in-binary-tree) (Medium)
+  1. [在二叉树中分配硬币](/problems/distribute-coins-in-binary-tree) (Medium)
 
 ---
 

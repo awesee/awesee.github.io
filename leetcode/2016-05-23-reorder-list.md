@@ -4,7 +4,7 @@ title:      "重排链表"
 date:       2016-05-23 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Linked List]
-permalink:  /reorder-list/
+permalink:  /problems/reorder-list/
 ---
 
 ## 143. 重排链表 (Medium)

@@ -4,7 +4,7 @@ title:      "带因子的二叉树"
 date:       2018-04-03 21:30:00 +0800
 categories: [Leetcode]
 tags:       []
-permalink:  /binary-trees-with-factors/
+permalink:  /problems/binary-trees-with-factors/
 ---
 
 ## 823. 带因子的二叉树 (Medium)

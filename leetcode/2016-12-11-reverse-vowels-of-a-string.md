@@ -4,7 +4,7 @@ title:      "反转字符串中的元音字母"
 date:       2016-12-11 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Two Pointers, String]
-permalink:  /reverse-vowels-of-a-string/
+permalink:  /problems/reverse-vowels-of-a-string/
 ---
 
 ## 345. 反转字符串中的元音字母 (Easy)
@@ -34,8 +34,8 @@ permalink:  /reverse-vowels-of-a-string/
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ### 相似题目
-  1. [反转字符串](/reverse-string) (Easy)
-  1. [删去字符串中的元音](/remove-vowels-from-a-string) (Easy)
+  1. [反转字符串](/problems/reverse-string) (Easy)
+  1. [删去字符串中的元音](/problems/remove-vowels-from-a-string) (Easy)
 
 ---
 

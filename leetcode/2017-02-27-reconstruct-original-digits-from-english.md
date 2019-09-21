@@ -4,7 +4,7 @@ title:      "从英文中重建数字"
 date:       2017-02-27 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Math]
-permalink:  /reconstruct-original-digits-from-english/
+permalink:  /problems/reconstruct-original-digits-from-english/
 ---
 
 ## 423. 从英文中重建数字 (Medium)

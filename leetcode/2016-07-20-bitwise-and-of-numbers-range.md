@@ -4,7 +4,7 @@ title:      "数字范围按位与"
 date:       2016-07-20 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Bit Manipulation]
-permalink:  /bitwise-and-of-numbers-range/
+permalink:  /problems/bitwise-and-of-numbers-range/
 ---
 
 ## 201. 数字范围按位与 (Medium)

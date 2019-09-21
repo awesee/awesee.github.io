@@ -4,7 +4,7 @@ title:      "匹配子序列的单词数"
 date:       2018-03-03 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array]
-permalink:  /number-of-matching-subsequences/
+permalink:  /problems/number-of-matching-subsequences/
 ---
 
 ## 792. 匹配子序列的单词数 (Medium)
@@ -37,7 +37,7 @@ words = [&quot;a&quot;, &quot;bb&quot;, &quot;acd&quot;, &quot;ace&quot;]
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 
 ### 相似题目
-  1. [判断子序列](/is-subsequence) (Medium)
+  1. [判断子序列](/problems/is-subsequence) (Easy)
 
 ---
 

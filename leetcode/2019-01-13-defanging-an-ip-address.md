@@ -4,7 +4,7 @@ title:      "IP 地址无效化"
 date:       2019-01-13 21:30:00 +0800
 categories: [Leetcode]
 tags:       []
-permalink:  /defanging-an-ip-address/
+permalink:  /problems/defanging-an-ip-address/
 ---
 
 ## 1108. IP 地址无效化 (Easy)

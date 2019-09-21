@@ -4,7 +4,7 @@ title:      "等差数列划分 II - 子序列"
 date:       2017-03-22 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Dynamic Programming]
-permalink:  /arithmetic-slices-ii-subsequence/
+permalink:  /problems/arithmetic-slices-ii-subsequence/
 ---
 
 ## 446. 等差数列划分 II - 子序列 (Hard)
@@ -64,7 +64,7 @@ permalink:  /arithmetic-slices-ii-subsequence/
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### 相似题目
-  1. [等差数列划分](/arithmetic-slices) (Medium)
+  1. [等差数列划分](/problems/arithmetic-slices) (Medium)
 
 ---
 

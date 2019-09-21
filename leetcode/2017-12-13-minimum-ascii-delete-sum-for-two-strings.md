@@ -4,7 +4,7 @@ title:      "两个字符串的最小ASCII删除和"
 date:       2017-12-13 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Dynamic Programming]
-permalink:  /minimum-ascii-delete-sum-for-two-strings/
+permalink:  /problems/minimum-ascii-delete-sum-for-two-strings/
 ---
 
 ## 712. 两个字符串的最小ASCII删除和 (Medium)
@@ -47,9 +47,9 @@ permalink:  /minimum-ascii-delete-sum-for-two-strings/
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### 相似题目
-  1. [编辑距离](/edit-distance) (Hard)
-  1. [最长上升子序列](/longest-increasing-subsequence) (Medium)
-  1. [两个字符串的删除操作](/delete-operation-for-two-strings) (Medium)
+  1. [编辑距离](/problems/edit-distance) (Hard)
+  1. [最长上升子序列](/problems/longest-increasing-subsequence) (Medium)
+  1. [两个字符串的删除操作](/problems/delete-operation-for-two-strings) (Medium)
 
 ---
 

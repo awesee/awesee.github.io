@@ -4,10 +4,12 @@ title:      "填充每个节点的下一个右侧节点指针"
 date:       2016-04-26 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Tree, Depth-first Search]
-permalink:  /populating-next-right-pointers-in-each-node/
+permalink:  /problems/populating-next-right-pointers-in-each-node/
 ---
 
 ## 116. 填充每个节点的下一个右侧节点指针 (Medium)
+
+{% raw %}
 
 <p>给定一个<strong>完美二叉树</strong>，其所有叶子节点都在同一层，每个父节点都有两个子节点。二叉树定义如下：</p>
 
@@ -44,13 +46,15 @@ permalink:  /populating-next-right-pointers-in-each-node/
 	<li>使用递归解题也符合要求，本题中递归程序占用的栈空间不算做额外的空间复杂度。</li>
 </ul>
 
+{% endraw %}
+
 ### 相关话题
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
   [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
 
 ### 相似题目
-  1. [填充每个节点的下一个右侧节点指针 II](/populating-next-right-pointers-in-each-node-ii) (Medium)
-  1. [二叉树的右视图](/binary-tree-right-side-view) (Medium)
+  1. [填充每个节点的下一个右侧节点指针 II](/problems/populating-next-right-pointers-in-each-node-ii) (Medium)
+  1. [二叉树的右视图](/problems/binary-tree-right-side-view) (Medium)
 
 ---
 

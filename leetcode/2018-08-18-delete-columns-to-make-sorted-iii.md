@@ -4,7 +4,7 @@ title:      "删列造序 III"
 date:       2018-08-18 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Dynamic Programming]
-permalink:  /delete-columns-to-make-sorted-iii/
+permalink:  /problems/delete-columns-to-make-sorted-iii/
 ---
 
 ## 960. 删列造序 III (Hard)

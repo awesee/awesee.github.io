@@ -4,7 +4,7 @@ title:      "金字塔转换矩阵"
 date:       2018-01-26 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Bit Manipulation, Depth-first Search]
-permalink:  /pyramid-transition-matrix/
+permalink:  /problems/pyramid-transition-matrix/
 ---
 
 ## 756. 金字塔转换矩阵 (Medium)

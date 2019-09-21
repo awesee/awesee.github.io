@@ -4,7 +4,7 @@ title:      "戳气球"
 date:       2016-11-08 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Divide and Conquer, Dynamic Programming]
-permalink:  /burst-balloons/
+permalink:  /problems/burst-balloons/
 ---
 
 ## 312. 戳气球 (Hard)
@@ -39,7 +39,7 @@ permalink:  /burst-balloons/
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### 相似题目
-  1. [合并石头的最低成本](/minimum-cost-to-merge-stones) (Hard)
+  1. [合并石头的最低成本](/problems/minimum-cost-to-merge-stones) (Hard)
 
 ---
 

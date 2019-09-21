@@ -4,7 +4,7 @@ title:      "检查替换后的词是否有效"
 date:       2018-09-30 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Stack, String]
-permalink:  /check-if-word-is-valid-after-substitutions/
+permalink:  /problems/check-if-word-is-valid-after-substitutions/
 ---
 
 ## 1003. 检查替换后的词是否有效 (Medium)
@@ -68,7 +68,7 @@ permalink:  /check-if-word-is-valid-after-substitutions/
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ### 相似题目
-  1. [有效的括号](/valid-parentheses) (Easy)
+  1. [有效的括号](/problems/valid-parentheses) (Easy)
 
 ---
 

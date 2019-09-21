@@ -4,7 +4,7 @@ title:      "宝石与石头"
 date:       2018-02-10 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Hash Table]
-permalink:  /jewels-and-stones/
+permalink:  /problems/jewels-and-stones/
 ---
 
 ## 771. 宝石与石头 (Easy)

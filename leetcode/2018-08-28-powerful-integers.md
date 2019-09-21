@@ -4,7 +4,7 @@ title:      "强整数"
 date:       2018-08-28 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Hash Table, Math]
-permalink:  /powerful-integers/
+permalink:  /problems/powerful-integers/
 ---
 
 ## 970. 强整数 (Easy)

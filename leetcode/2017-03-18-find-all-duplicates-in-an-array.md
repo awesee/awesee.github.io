@@ -4,7 +4,7 @@ title:      "数组中重复的数据"
 date:       2017-03-18 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array]
-permalink:  /find-all-duplicates-in-an-array/
+permalink:  /problems/find-all-duplicates-in-an-array/
 ---
 
 ## 442. 数组中重复的数据 (Medium)
@@ -33,7 +33,7 @@ permalink:  /find-all-duplicates-in-an-array/
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 
 ### 相似题目
-  1. [找到所有数组中消失的数字](/find-all-numbers-disappeared-in-an-array) (Easy)
+  1. [找到所有数组中消失的数字](/problems/find-all-numbers-disappeared-in-an-array) (Easy)
 
 ---
 

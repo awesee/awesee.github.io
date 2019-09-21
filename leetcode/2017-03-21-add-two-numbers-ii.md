@@ -4,7 +4,7 @@ title:      "两数相加 II"
 date:       2017-03-21 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Linked List]
-permalink:  /add-two-numbers-ii/
+permalink:  /problems/add-two-numbers-ii/
 ---
 
 ## 445. 两数相加 II (Medium)
@@ -34,7 +34,7 @@ permalink:  /add-two-numbers-ii/
   [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
 
 ### 相似题目
-  1. [两数相加](/add-two-numbers) (Medium)
+  1. [两数相加](/problems/add-two-numbers) (Medium)
 
 ---
 

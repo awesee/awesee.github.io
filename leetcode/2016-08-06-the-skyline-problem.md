@@ -4,7 +4,7 @@ title:      "天际线问题"
 date:       2016-08-06 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Heap, Binary Indexed Tree, Segment Tree, Divide and Conquer, Line Sweep]
-permalink:  /the-skyline-problem/
+permalink:  /problems/the-skyline-problem/
 ---
 
 ## 218. 天际线问题 (Hard)
@@ -42,7 +42,7 @@ permalink:  /the-skyline-problem/
   [[Line Sweep](https://github.com/openset/leetcode/tree/master/tag/line-sweep/README.md)]
 
 ### 相似题目
-  1. [掉落的方块](/falling-squares) (Hard)
+  1. [掉落的方块](/problems/falling-squares) (Hard)
 
 ---
 

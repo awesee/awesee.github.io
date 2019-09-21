@@ -4,7 +4,7 @@ title:      "转置文件"
 date:       2016-07-13 21:30:00 +0800
 categories: [Leetcode]
 tags:       []
-permalink:  /transpose-file/
+permalink:  /problems/transpose-file/
 ---
 
 ## 194. 转置文件 (Medium)

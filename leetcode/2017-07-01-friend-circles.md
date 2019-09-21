@@ -4,7 +4,7 @@ title:      "朋友圈"
 date:       2017-07-01 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Depth-first Search, Union Find]
-permalink:  /friend-circles/
+permalink:  /problems/friend-circles/
 ---
 
 ## 547. 朋友圈 (Medium)
@@ -53,11 +53,11 @@ permalink:  /friend-circles/
   [[并查集](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)]
 
 ### 相似题目
-  1. [无向图中连通分量的数目](/number-of-connected-components-in-an-undirected-graph) (Medium)
-  1. [机器人能否返回原点](/robot-return-to-origin) (Easy)
-  1. [句子相似性](/sentence-similarity) (Easy)
-  1. [句子相似性 II](/sentence-similarity-ii) (Medium)
-  1. [彼此熟识的最早时间](/the-earliest-moment-when-everyone-become-friends) (Medium)
+  1. [无向图中连通分量的数目](/problems/number-of-connected-components-in-an-undirected-graph) (Medium)
+  1. [机器人能否返回原点](/problems/robot-return-to-origin) (Easy)
+  1. [句子相似性](/problems/sentence-similarity) (Easy)
+  1. [句子相似性 II](/problems/sentence-similarity-ii) (Medium)
+  1. [彼此熟识的最早时间](/problems/the-earliest-moment-when-everyone-become-friends) (Medium)
 
 ---
 

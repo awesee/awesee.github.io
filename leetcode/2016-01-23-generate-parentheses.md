@@ -4,7 +4,7 @@ title:      "括号生成"
 date:       2016-01-23 21:30:00 +0800
 categories: [Leetcode]
 tags:       [String, Backtracking]
-permalink:  /generate-parentheses/
+permalink:  /problems/generate-parentheses/
 ---
 
 ## 22. 括号生成 (Medium)
@@ -31,8 +31,8 @@ permalink:  /generate-parentheses/
   [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
 
 ### 相似题目
-  1. [电话号码的字母组合](/letter-combinations-of-a-phone-number) (Medium)
-  1. [有效的括号](/valid-parentheses) (Easy)
+  1. [电话号码的字母组合](/problems/letter-combinations-of-a-phone-number) (Medium)
+  1. [有效的括号](/problems/valid-parentheses) (Easy)
 
 ---
 

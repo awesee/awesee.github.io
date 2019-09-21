@@ -4,7 +4,7 @@ title:      "猜数字大小"
 date:       2017-01-09 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Binary Search]
-permalink:  /guess-number-higher-or-lower/
+permalink:  /problems/guess-number-higher-or-lower/
 ---
 
 ## 374. 猜数字大小 (Easy)
@@ -32,9 +32,9 @@ permalink:  /guess-number-higher-or-lower/
   [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
 
 ### 相似题目
-  1. [第一个错误的版本](/first-bad-version) (Easy)
-  1. [猜数字大小 II](/guess-number-higher-or-lower-ii) (Medium)
-  1. [找到 K 个最接近的元素](/find-k-closest-elements) (Medium)
+  1. [第一个错误的版本](/problems/first-bad-version) (Easy)
+  1. [猜数字大小 II](/problems/guess-number-higher-or-lower-ii) (Medium)
+  1. [找到 K 个最接近的元素](/problems/find-k-closest-elements) (Medium)
 
 ---
 

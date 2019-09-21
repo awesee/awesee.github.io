@@ -4,7 +4,7 @@ title:      "使用最小花费爬楼梯"
 date:       2018-01-16 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array, Dynamic Programming]
-permalink:  /min-cost-climbing-stairs/
+permalink:  /problems/min-cost-climbing-stairs/
 ---
 
 ## 746. 使用最小花费爬楼梯 (Easy)
@@ -47,7 +47,7 @@ permalink:  /min-cost-climbing-stairs/
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### 相似题目
-  1. [爬楼梯](/climbing-stairs) (Easy)
+  1. [爬楼梯](/problems/climbing-stairs) (Easy)
 
 ---
 

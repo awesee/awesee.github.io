@@ -4,7 +4,7 @@ title:      "子串能表示从 1 到 N 数字的二进制串"
 date:       2018-10-13 21:30:00 +0800
 categories: [Leetcode]
 tags:       [String]
-permalink:  /binary-string-with-substrings-representing-1-to-n/
+permalink:  /problems/binary-string-with-substrings-representing-1-to-n/
 ---
 
 ## 1016. 子串能表示从 1 到 N 数字的二进制串 (Medium)

@@ -4,7 +4,7 @@ title:      "在LR字符串中交换相邻字符"
 date:       2018-02-16 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Brainteaser]
-permalink:  /swap-adjacent-in-lr-string/
+permalink:  /problems/swap-adjacent-in-lr-string/
 ---
 
 ## 777. 在LR字符串中交换相邻字符 (Medium)

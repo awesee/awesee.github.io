@@ -4,7 +4,7 @@ title:      "元素和为目标值的子矩阵数量"
 date:       2018-12-10 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array, Dynamic Programming, Sliding Window]
-permalink:  /number-of-submatrices-that-sum-to-target/
+permalink:  /problems/number-of-submatrices-that-sum-to-target/
 ---
 
 ## 1074. 元素和为目标值的子矩阵数量 (Hard)

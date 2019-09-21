@@ -4,7 +4,7 @@ title:      "公平的糖果交换"
 date:       2018-06-07 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array]
-permalink:  /fair-candy-swap/
+permalink:  /problems/fair-candy-swap/
 ---
 
 ## 888. 公平的糖果交换 (Easy)

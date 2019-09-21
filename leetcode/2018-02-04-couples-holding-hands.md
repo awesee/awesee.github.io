@@ -4,7 +4,7 @@ title:      "情侣牵手"
 date:       2018-02-04 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Greedy, Union Find, Graph]
-permalink:  /couples-holding-hands/
+permalink:  /problems/couples-holding-hands/
 ---
 
 ## 765. 情侣牵手 (Hard)
@@ -48,9 +48,9 @@ permalink:  /couples-holding-hands/
   [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
 
 ### 相似题目
-  1. [缺失的第一个正数](/first-missing-positive) (Hard)
-  1. [缺失数字](/missing-number) (Easy)
-  1. [相似度为 K 的字符串](/k-similar-strings) (Hard)
+  1. [缺失的第一个正数](/problems/first-missing-positive) (Hard)
+  1. [缺失数字](/problems/missing-number) (Easy)
+  1. [相似度为 K 的字符串](/problems/k-similar-strings) (Hard)
 
 ---
 

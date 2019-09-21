@@ -4,7 +4,7 @@ title:      "变为棋盘"
 date:       2018-02-21 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array, Math]
-permalink:  /transform-to-chessboard/
+permalink:  /problems/transform-to-chessboard/
 ---
 
 ## 782. 变为棋盘 (Hard)

@@ -4,7 +4,7 @@ title:      "N皇后 II"
 date:       2016-02-22 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Backtracking]
-permalink:  /n-queens-ii/
+permalink:  /problems/n-queens-ii/
 ---
 
 ## 52. N皇后 II (Hard)
@@ -43,7 +43,7 @@ permalink:  /n-queens-ii/
   [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
 
 ### 相似题目
-  1. [N皇后](/n-queens) (Hard)
+  1. [N皇后](/problems/n-queens) (Hard)
 
 ---
 

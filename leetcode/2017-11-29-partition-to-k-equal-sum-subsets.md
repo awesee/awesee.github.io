@@ -4,7 +4,7 @@ title:      "划分为k个相等的子集"
 date:       2017-11-29 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Recursion, Dynamic Programming]
-permalink:  /partition-to-k-equal-sum-subsets/
+permalink:  /problems/partition-to-k-equal-sum-subsets/
 ---
 
 ## 698. 划分为k个相等的子集 (Medium)
@@ -36,7 +36,7 @@ permalink:  /partition-to-k-equal-sum-subsets/
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### 相似题目
-  1. [分割等和子集](/partition-equal-subset-sum) (Medium)
+  1. [分割等和子集](/problems/partition-equal-subset-sum) (Medium)
 
 ---
 

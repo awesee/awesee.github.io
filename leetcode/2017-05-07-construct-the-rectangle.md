@@ -4,7 +4,7 @@ title:      "构造矩形"
 date:       2017-05-07 21:30:00 +0800
 categories: [Leetcode]
 tags:       []
-permalink:  /construct-the-rectangle/
+permalink:  /problems/construct-the-rectangle/
 ---
 
 ## 492. 构造矩形 (Easy)

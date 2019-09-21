@@ -4,7 +4,7 @@ title:      "子数组最大平均数 I"
 date:       2017-10-05 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array]
-permalink:  /maximum-average-subarray-i/
+permalink:  /problems/maximum-average-subarray-i/
 ---
 
 ## 643. 子数组最大平均数 I (Easy)
@@ -35,7 +35,7 @@ permalink:  /maximum-average-subarray-i/
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 
 ### 相似题目
-  1. [最大平均子段和 II](/maximum-average-subarray-ii) (Hard)
+  1. [最大平均子段和 II](/problems/maximum-average-subarray-ii) (Hard)
 
 ---
 

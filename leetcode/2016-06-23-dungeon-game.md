@@ -4,7 +4,7 @@ title:      "地下城游戏"
 date:       2016-06-23 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Binary Search, Dynamic Programming]
-permalink:  /dungeon-game/
+permalink:  /problems/dungeon-game/
 ---
 
 ## 174. 地下城游戏 (Hard)
@@ -64,9 +64,9 @@ permalink:  /dungeon-game/
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### 相似题目
-  1. [不同路径](/unique-paths) (Medium)
-  1. [最小路径和](/minimum-path-sum) (Medium)
-  1. [摘樱桃](/cherry-pickup) (Hard)
+  1. [不同路径](/problems/unique-paths) (Medium)
+  1. [最小路径和](/problems/minimum-path-sum) (Medium)
+  1. [摘樱桃](/problems/cherry-pickup) (Hard)
 
 ---
 

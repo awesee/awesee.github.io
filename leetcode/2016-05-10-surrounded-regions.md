@@ -4,7 +4,7 @@ title:      "被围绕的区域"
 date:       2016-05-10 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Depth-first Search, Breadth-first Search, Union Find]
-permalink:  /surrounded-regions/
+permalink:  /problems/surrounded-regions/
 ---
 
 ## 130. 被围绕的区域 (Medium)
@@ -43,8 +43,8 @@ X O X X
   [[并查集](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)]
 
 ### 相似题目
-  1. [岛屿数量](/number-of-islands) (Medium)
-  1. [墙与门](/walls-and-gates) (Medium)
+  1. [岛屿数量](/problems/number-of-islands) (Medium)
+  1. [墙与门](/problems/walls-and-gates) (Medium)
 
 ---
 

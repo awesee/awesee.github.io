@@ -4,7 +4,7 @@ title:      " 设置交集大小至少为2"
 date:       2018-01-27 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Greedy]
-permalink:  /set-intersection-size-at-least-two/
+permalink:  /problems/set-intersection-size-at-least-two/
 ---
 
 ## 757.  设置交集大小至少为2 (Hard)

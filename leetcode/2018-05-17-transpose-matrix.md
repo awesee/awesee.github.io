@@ -4,7 +4,7 @@ title:      "转置矩阵"
 date:       2018-05-17 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array]
-permalink:  /transpose-matrix/
+permalink:  /problems/transpose-matrix/
 ---
 
 ## 867. 转置矩阵 (Easy)

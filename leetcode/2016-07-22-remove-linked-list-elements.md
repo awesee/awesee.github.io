@@ -4,7 +4,7 @@ title:      "移除链表元素"
 date:       2016-07-22 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Linked List]
-permalink:  /remove-linked-list-elements/
+permalink:  /problems/remove-linked-list-elements/
 ---
 
 ## 203. 移除链表元素 (Easy)
@@ -25,8 +25,8 @@ permalink:  /remove-linked-list-elements/
   [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
 
 ### 相似题目
-  1. [移除元素](/remove-element) (Easy)
-  1. [删除链表中的节点](/delete-node-in-a-linked-list) (Easy)
+  1. [移除元素](/problems/remove-element) (Easy)
+  1. [删除链表中的节点](/problems/delete-node-in-a-linked-list) (Easy)
 
 ---
 

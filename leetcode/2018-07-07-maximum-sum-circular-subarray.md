@@ -4,7 +4,7 @@ title:      "环形子数组的最大和"
 date:       2018-07-07 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array]
-permalink:  /maximum-sum-circular-subarray/
+permalink:  /problems/maximum-sum-circular-subarray/
 ---
 
 ## 918. 环形子数组的最大和 (Medium)

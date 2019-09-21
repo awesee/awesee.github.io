@@ -1,13 +1,13 @@
 ---
 layout:     single
-title:      "实现strStr()"
+title:      "实现 strStr()"
 date:       2016-01-29 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Two Pointers, String]
-permalink:  /implement-strstr/
+permalink:  /problems/implement-strstr/
 ---
 
-## 28. 实现strStr() (Easy)
+## 28. 实现 strStr() (Easy)
 
 {% raw %}
 
@@ -40,8 +40,8 @@ permalink:  /implement-strstr/
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ### 相似题目
-  1. [最短回文串](/shortest-palindrome) (Hard)
-  1. [重复的子字符串](/repeated-substring-pattern) (Easy)
+  1. [最短回文串](/problems/shortest-palindrome) (Hard)
+  1. [重复的子字符串](/problems/repeated-substring-pattern) (Easy)
 
 ---
 

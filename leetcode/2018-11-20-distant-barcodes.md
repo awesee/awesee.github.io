@@ -4,7 +4,7 @@ title:      "距离相等的条形码"
 date:       2018-11-20 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Heap, Sort]
-permalink:  /distant-barcodes/
+permalink:  /problems/distant-barcodes/
 ---
 
 ## 1054. 距离相等的条形码 (Medium)

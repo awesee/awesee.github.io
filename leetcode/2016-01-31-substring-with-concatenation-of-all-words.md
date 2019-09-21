@@ -4,7 +4,7 @@ title:      "串联所有单词的子串"
 date:       2016-01-31 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Hash Table, Two Pointers, String]
-permalink:  /substring-with-concatenation-of-all-words/
+permalink:  /problems/substring-with-concatenation-of-all-words/
 ---
 
 ## 30. 串联所有单词的子串 (Hard)
@@ -44,7 +44,7 @@ permalink:  /substring-with-concatenation-of-all-words/
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ### 相似题目
-  1. [最小覆盖子串](/minimum-window-substring) (Hard)
+  1. [最小覆盖子串](/problems/minimum-window-substring) (Hard)
 
 ---
 

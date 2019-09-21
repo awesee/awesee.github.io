@@ -4,7 +4,7 @@ title:      "骑士拨号器"
 date:       2018-07-24 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Dynamic Programming]
-permalink:  /knight-dialer/
+permalink:  /problems/knight-dialer/
 ---
 
 ## 935. 骑士拨号器 (Medium)

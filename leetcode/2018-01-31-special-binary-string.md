@@ -4,7 +4,7 @@ title:      "特殊的二进制序列"
 date:       2018-01-31 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Recursion, String]
-permalink:  /special-binary-string/
+permalink:  /problems/special-binary-string/
 ---
 
 ## 761. 特殊的二进制序列 (Hard)
@@ -46,7 +46,7 @@ permalink:  /special-binary-string/
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ### 相似题目
-  1. [有效的括号字符串](/valid-parenthesis-string) (Medium)
+  1. [有效的括号字符串](/problems/valid-parenthesis-string) (Medium)
 
 ---
 

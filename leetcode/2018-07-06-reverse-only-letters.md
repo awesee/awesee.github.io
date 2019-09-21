@@ -4,7 +4,7 @@ title:      "仅仅反转字母"
 date:       2018-07-06 21:30:00 +0800
 categories: [Leetcode]
 tags:       [String]
-permalink:  /reverse-only-letters/
+permalink:  /problems/reverse-only-letters/
 ---
 
 ## 917. 仅仅反转字母 (Easy)

@@ -4,7 +4,7 @@ title:      "图片平滑器"
 date:       2017-10-23 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array]
-permalink:  /image-smoother/
+permalink:  /problems/image-smoother/
 ---
 
 ## 661. 图片平滑器 (Easy)

@@ -4,7 +4,7 @@ title:      "适龄的朋友"
 date:       2018-04-05 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array]
-permalink:  /friends-of-appropriate-ages/
+permalink:  /problems/friends-of-appropriate-ages/
 ---
 
 ## 825. 适龄的朋友 (Medium)

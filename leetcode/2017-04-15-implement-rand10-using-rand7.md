@@ -4,7 +4,7 @@ title:      "用 Rand7() 实现 Rand10()"
 date:       2017-04-15 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Random, Rejection Sampling]
-permalink:  /implement-rand10-using-rand7/
+permalink:  /problems/implement-rand10-using-rand7/
 ---
 
 ## 470. 用 Rand7() 实现 Rand10() (Medium)

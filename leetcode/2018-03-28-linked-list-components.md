@@ -4,7 +4,7 @@ title:      "链表组件"
 date:       2018-03-28 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Linked List]
-permalink:  /linked-list-components/
+permalink:  /problems/linked-list-components/
 ---
 
 ## 817. 链表组件 (Medium)

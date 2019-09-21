@@ -4,7 +4,7 @@ title:      "笨阶乘"
 date:       2018-10-03 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Math]
-permalink:  /clumsy-factorial/
+permalink:  /problems/clumsy-factorial/
 ---
 
 ## 1006. 笨阶乘 (Medium)

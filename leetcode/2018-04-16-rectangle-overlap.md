@@ -4,7 +4,7 @@ title:      "矩形重叠"
 date:       2018-04-16 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Math]
-permalink:  /rectangle-overlap/
+permalink:  /problems/rectangle-overlap/
 ---
 
 ## 836. 矩形重叠 (Easy)
@@ -42,7 +42,7 @@ permalink:  /rectangle-overlap/
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
 
 ### 相似题目
-  1. [矩形面积](/rectangle-area) (Medium)
+  1. [矩形面积](/problems/rectangle-area) (Medium)
 
 ---
 

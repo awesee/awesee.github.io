@@ -4,7 +4,7 @@ title:      "贴纸拼词"
 date:       2017-11-22 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Dynamic Programming, Backtracking]
-permalink:  /stickers-to-spell-word/
+permalink:  /problems/stickers-to-spell-word/
 ---
 
 ## 691. 贴纸拼词 (Hard)
@@ -78,7 +78,7 @@ permalink:  /stickers-to-spell-word/
   [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
 
 ### 相似题目
-  1. [赎金信](/ransom-note) (Easy)
+  1. [赎金信](/problems/ransom-note) (Easy)
 
 ---
 

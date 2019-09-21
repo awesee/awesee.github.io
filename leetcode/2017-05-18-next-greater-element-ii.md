@@ -4,7 +4,7 @@ title:      "下一个更大元素 II"
 date:       2017-05-18 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Stack]
-permalink:  /next-greater-element-ii/
+permalink:  /problems/next-greater-element-ii/
 ---
 
 ## 503. 下一个更大元素 II (Medium)
@@ -31,8 +31,8 @@ permalink:  /next-greater-element-ii/
   [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
 
 ### 相似题目
-  1. [下一个更大元素 I](/next-greater-element-i) (Easy)
-  1. [下一个更大元素 III](/next-greater-element-iii) (Medium)
+  1. [下一个更大元素 I](/problems/next-greater-element-i) (Easy)
+  1. [下一个更大元素 III](/problems/next-greater-element-iii) (Medium)
 
 ---
 

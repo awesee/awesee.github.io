@@ -4,7 +4,7 @@ title:      "火柴拼正方形"
 date:       2017-04-18 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Depth-first Search]
-permalink:  /matchsticks-to-square/
+permalink:  /problems/matchsticks-to-square/
 ---
 
 ## 473. 火柴拼正方形 (Medium)

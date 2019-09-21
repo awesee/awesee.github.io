@@ -4,7 +4,7 @@ title:      "从二叉搜索树到更大和树"
 date:       2018-11-04 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Binary Search Tree]
-permalink:  /binary-search-tree-to-greater-sum-tree/
+permalink:  /problems/binary-search-tree-to-greater-sum-tree/
 ---
 
 ## 1038. 从二叉搜索树到更大和树 (Medium)

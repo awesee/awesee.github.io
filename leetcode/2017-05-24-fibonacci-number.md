@@ -4,7 +4,7 @@ title:      "斐波那契数"
 date:       2017-05-24 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array]
-permalink:  /fibonacci-number/
+permalink:  /problems/fibonacci-number/
 ---
 
 ## 509. 斐波那契数 (Easy)
@@ -56,9 +56,9 @@ F(N) = F(N - 1) + F(N - 2), 其中 N &gt; 1.
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 
 ### 相似题目
-  1. [爬楼梯](/climbing-stairs) (Easy)
-  1. [将数组拆分成斐波那契序列](/split-array-into-fibonacci-sequence) (Medium)
-  1. [最长的斐波那契子序列的长度](/length-of-longest-fibonacci-subsequence) (Medium)
+  1. [爬楼梯](/problems/climbing-stairs) (Easy)
+  1. [将数组拆分成斐波那契序列](/problems/split-array-into-fibonacci-sequence) (Medium)
+  1. [最长的斐波那契子序列的长度](/problems/length-of-longest-fibonacci-subsequence) (Medium)
 
 ---
 

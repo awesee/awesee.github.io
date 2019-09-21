@@ -4,7 +4,7 @@ title:      "单调数列"
 date:       2018-06-15 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array]
-permalink:  /monotonic-array/
+permalink:  /problems/monotonic-array/
 ---
 
 ## 896. 单调数列 (Easy)

@@ -4,7 +4,7 @@ title:      "搜索旋转排序数组"
 date:       2016-02-03 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array, Binary Search]
-permalink:  /search-in-rotated-sorted-array/
+permalink:  /problems/search-in-rotated-sorted-array/
 ---
 
 ## 33. 搜索旋转排序数组 (Medium)
@@ -39,8 +39,8 @@ permalink:  /search-in-rotated-sorted-array/
   [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
 
 ### 相似题目
-  1. [搜索旋转排序数组 II](/search-in-rotated-sorted-array-ii) (Medium)
-  1. [寻找旋转排序数组中的最小值](/find-minimum-in-rotated-sorted-array) (Medium)
+  1. [搜索旋转排序数组 II](/problems/search-in-rotated-sorted-array-ii) (Medium)
+  1. [寻找旋转排序数组中的最小值](/problems/find-minimum-in-rotated-sorted-array) (Medium)
 
 ---
 

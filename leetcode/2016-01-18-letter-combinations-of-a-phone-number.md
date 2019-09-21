@@ -4,7 +4,7 @@ title:      "电话号码的字母组合"
 date:       2016-01-18 21:30:00 +0800
 categories: [Leetcode]
 tags:       [String, Backtracking]
-permalink:  /letter-combinations-of-a-phone-number/
+permalink:  /problems/letter-combinations-of-a-phone-number/
 ---
 
 ## 17. 电话号码的字母组合 (Medium)
@@ -33,9 +33,9 @@ permalink:  /letter-combinations-of-a-phone-number/
   [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
 
 ### 相似题目
-  1. [括号生成](/generate-parentheses) (Medium)
-  1. [组合总和](/combination-sum) (Medium)
-  1. [二进制手表](/binary-watch) (Easy)
+  1. [括号生成](/problems/generate-parentheses) (Medium)
+  1. [组合总和](/problems/combination-sum) (Medium)
+  1. [二进制手表](/problems/binary-watch) (Easy)
 
 ---
 

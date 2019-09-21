@@ -4,7 +4,7 @@ title:      "二叉搜索树的最小绝对差"
 date:       2017-06-14 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Tree]
-permalink:  /minimum-absolute-difference-in-bst/
+permalink:  /problems/minimum-absolute-difference-in-bst/
 ---
 
 ## 530. 二叉搜索树的最小绝对差 (Easy)
@@ -39,7 +39,7 @@ permalink:  /minimum-absolute-difference-in-bst/
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
 
 ### 相似题目
-  1. [数组中的K-diff数对](/k-diff-pairs-in-an-array) (Easy)
+  1. [数组中的K-diff数对](/problems/k-diff-pairs-in-an-array) (Easy)
 
 ---
 

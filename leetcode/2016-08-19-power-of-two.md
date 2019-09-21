@@ -4,7 +4,7 @@ title:      "2的幂"
 date:       2016-08-19 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Bit Manipulation, Math]
-permalink:  /power-of-two/
+permalink:  /problems/power-of-two/
 ---
 
 ## 231. 2的幂 (Easy)
@@ -37,9 +37,9 @@ permalink:  /power-of-two/
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
 
 ### 相似题目
-  1. [位1的个数](/number-of-1-bits) (Easy)
-  1. [3的幂](/power-of-three) (Easy)
-  1. [4的幂](/power-of-four) (Easy)
+  1. [位1的个数](/problems/number-of-1-bits) (Easy)
+  1. [3的幂](/problems/power-of-three) (Easy)
+  1. [4的幂](/problems/power-of-four) (Easy)
 
 ---
 

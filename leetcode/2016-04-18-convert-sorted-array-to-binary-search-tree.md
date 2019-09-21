@@ -4,10 +4,12 @@ title:      "将有序数组转换为二叉搜索树"
 date:       2016-04-18 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Tree, Depth-first Search]
-permalink:  /convert-sorted-array-to-binary-search-tree/
+permalink:  /problems/convert-sorted-array-to-binary-search-tree/
 ---
 
 ## 108. 将有序数组转换为二叉搜索树 (Easy)
+
+{% raw %}
 
 <p>将一个按照升序排列的有序数组，转换为一棵高度平衡二叉搜索树。</p>
 
@@ -26,12 +28,14 @@ permalink:  /convert-sorted-array-to-binary-search-tree/
  -10  5
 </pre>
 
+{% endraw %}
+
 ### 相关话题
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
   [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
 
 ### 相似题目
-  1. [有序链表转换二叉搜索树](/convert-sorted-list-to-binary-search-tree) (Medium)
+  1. [有序链表转换二叉搜索树](/problems/convert-sorted-list-to-binary-search-tree) (Medium)
 
 ---
 

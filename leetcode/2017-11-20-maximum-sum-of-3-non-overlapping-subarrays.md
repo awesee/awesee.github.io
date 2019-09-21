@@ -4,7 +4,7 @@ title:      "三个无重叠子数组的最大和"
 date:       2017-11-20 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array, Dynamic Programming]
-permalink:  /maximum-sum-of-3-non-overlapping-subarrays/
+permalink:  /problems/maximum-sum-of-3-non-overlapping-subarrays/
 ---
 
 ## 689. 三个无重叠子数组的最大和 (Hard)
@@ -41,7 +41,7 @@ permalink:  /maximum-sum-of-3-non-overlapping-subarrays/
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### 相似题目
-  1. [买卖股票的最佳时机 III](/best-time-to-buy-and-sell-stock-iii) (Hard)
+  1. [买卖股票的最佳时机 III](/problems/best-time-to-buy-and-sell-stock-iii) (Hard)
 
 ---
 

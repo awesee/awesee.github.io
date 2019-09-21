@@ -4,7 +4,7 @@ title:      "最短完整词"
 date:       2018-01-18 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Hash Table]
-permalink:  /shortest-completing-word/
+permalink:  /problems/shortest-completing-word/
 ---
 
 ## 748. 最短完整词 (Easy)

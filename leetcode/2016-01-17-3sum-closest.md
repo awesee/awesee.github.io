@@ -4,7 +4,7 @@ title:      "最接近的三数之和"
 date:       2016-01-17 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array, Two Pointers]
-permalink:  /3sum-closest/
+permalink:  /problems/3sum-closest/
 ---
 
 ## 16. 最接近的三数之和 (Medium)
@@ -25,8 +25,8 @@ permalink:  /3sum-closest/
   [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
 
 ### 相似题目
-  1. [三数之和](/3sum) (Medium)
-  1. [较小的三数之和](/3sum-smaller) (Medium)
+  1. [三数之和](/problems/3sum) (Medium)
+  1. [较小的三数之和](/problems/3sum-smaller) (Medium)
 
 ---
 

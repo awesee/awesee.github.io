@@ -4,7 +4,7 @@ title:      "最小面积矩形 II"
 date:       2018-08-21 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Geometry, Math]
-permalink:  /minimum-area-rectangle-ii/
+permalink:  /problems/minimum-area-rectangle-ii/
 ---
 
 ## 963. 最小面积矩形 II (Medium)

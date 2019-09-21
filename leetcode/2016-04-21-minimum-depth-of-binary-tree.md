@@ -4,10 +4,12 @@ title:      "二叉树的最小深度"
 date:       2016-04-21 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Tree, Depth-first Search, Breadth-first Search]
-permalink:  /minimum-depth-of-binary-tree/
+permalink:  /problems/minimum-depth-of-binary-tree/
 ---
 
 ## 111. 二叉树的最小深度 (Easy)
+
+{% raw %}
 
 <p>给定一个二叉树，找出其最小深度。</p>
 
@@ -27,14 +29,16 @@ permalink:  /minimum-depth-of-binary-tree/
 
 <p>返回它的最小深度 &nbsp;2.</p>
 
+{% endraw %}
+
 ### 相关话题
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
   [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
   [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
 
 ### 相似题目
-  1. [二叉树的层次遍历](/binary-tree-level-order-traversal) (Medium)
-  1. [二叉树的最大深度](/maximum-depth-of-binary-tree) (Easy)
+  1. [二叉树的层次遍历](/problems/binary-tree-level-order-traversal) (Medium)
+  1. [二叉树的最大深度](/problems/maximum-depth-of-binary-tree) (Easy)
 
 ---
 

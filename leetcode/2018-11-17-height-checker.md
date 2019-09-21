@@ -4,7 +4,7 @@ title:      "高度检查器"
 date:       2018-11-17 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array]
-permalink:  /height-checker/
+permalink:  /problems/height-checker/
 ---
 
 ## 1051. 高度检查器 (Easy)

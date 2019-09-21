@@ -4,7 +4,7 @@ title:      "删除字符串中的所有相邻重复项"
 date:       2018-11-13 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Stack]
-permalink:  /remove-all-adjacent-duplicates-in-string/
+permalink:  /problems/remove-all-adjacent-duplicates-in-string/
 ---
 
 ## 1047. 删除字符串中的所有相邻重复项 (Easy)

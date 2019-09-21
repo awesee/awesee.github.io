@@ -4,7 +4,7 @@ title:      "非递减数列"
 date:       2017-10-27 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array]
-permalink:  /non-decreasing-array/
+permalink:  /problems/non-decreasing-array/
 ---
 
 ## 665. 非递减数列 (Easy)

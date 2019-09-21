@@ -4,7 +4,7 @@ title:      "奇怪的打印机"
 date:       2017-10-26 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Depth-first Search, Dynamic Programming]
-permalink:  /strange-printer/
+permalink:  /problems/strange-printer/
 ---
 
 ## 664. 奇怪的打印机 (Hard)
@@ -44,7 +44,7 @@ permalink:  /strange-printer/
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### 相似题目
-  1. [移除盒子](/remove-boxes) (Hard)
+  1. [移除盒子](/problems/remove-boxes) (Hard)
 
 ---
 

@@ -4,10 +4,12 @@ title:      "二叉树的中序遍历"
 date:       2016-04-04 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Stack, Tree, Hash Table]
-permalink:  /binary-tree-inorder-traversal/
+permalink:  /problems/binary-tree-inorder-traversal/
 ---
 
 ## 94. 二叉树的中序遍历 (Medium)
+
+{% raw %}
 
 <p>给定一个二叉树，返回它的<em>中序&nbsp;</em>遍历。</p>
 
@@ -24,21 +26,23 @@ permalink:  /binary-tree-inorder-traversal/
 
 <p><strong>进阶:</strong>&nbsp;递归算法很简单，你可以通过迭代算法完成吗？</p>
 
+{% endraw %}
+
 ### 相关话题
   [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
 
 ### 相似题目
-  1. [验证二叉搜索树](/validate-binary-search-tree) (Medium)
-  1. [二叉树的前序遍历](/binary-tree-preorder-traversal) (Medium)
-  1. [二叉树的后序遍历](/binary-tree-postorder-traversal) (Hard)
-  1. [二叉搜索树迭代器](/binary-search-tree-iterator) (Medium)
-  1. [二叉搜索树中第K小的元素](/kth-smallest-element-in-a-bst) (Medium)
-  1. [最接近的二叉搜索树值 II](/closest-binary-search-tree-value-ii) (Hard)
-  1. [二叉搜索树中的顺序后继](/inorder-successor-in-bst) (Medium)
-  1. [将二叉搜索树转化为排序的双向链表](/convert-binary-search-tree-to-sorted-doubly-linked-list) (Medium)
-  1. [二叉搜索树结点最小距离](/minimum-distance-between-bst-nodes) (Easy)
+  1. [验证二叉搜索树](/problems/validate-binary-search-tree) (Medium)
+  1. [二叉树的前序遍历](/problems/binary-tree-preorder-traversal) (Medium)
+  1. [二叉树的后序遍历](/problems/binary-tree-postorder-traversal) (Hard)
+  1. [二叉搜索树迭代器](/problems/binary-search-tree-iterator) (Medium)
+  1. [二叉搜索树中第K小的元素](/problems/kth-smallest-element-in-a-bst) (Medium)
+  1. [最接近的二叉搜索树值 II](/problems/closest-binary-search-tree-value-ii) (Hard)
+  1. [二叉搜索树中的顺序后继](/problems/inorder-successor-in-bst) (Medium)
+  1. [将二叉搜索树转化为排序的双向链表](/problems/convert-binary-search-tree-to-sorted-doubly-linked-list) (Medium)
+  1. [二叉搜索树结点最小距离](/problems/minimum-distance-between-bst-nodes) (Easy)
 
 ---
 

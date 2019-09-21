@@ -4,7 +4,7 @@ title:      "有效三角形的个数"
 date:       2017-09-03 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array]
-permalink:  /valid-triangle-number/
+permalink:  /problems/valid-triangle-number/
 ---
 
 ## 611. 有效三角形的个数 (Medium)
@@ -38,7 +38,7 @@ permalink:  /valid-triangle-number/
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 
 ### 相似题目
-  1. [较小的三数之和](/3sum-smaller) (Medium)
+  1. [较小的三数之和](/problems/3sum-smaller) (Medium)
 
 ---
 

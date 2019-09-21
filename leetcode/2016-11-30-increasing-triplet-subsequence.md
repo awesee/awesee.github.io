@@ -4,7 +4,7 @@ title:      "递增的三元子序列"
 date:       2016-11-30 21:30:00 +0800
 categories: [Leetcode]
 tags:       []
-permalink:  /increasing-triplet-subsequence/
+permalink:  /problems/increasing-triplet-subsequence/
 ---
 
 ## 334. 递增的三元子序列 (Medium)
@@ -34,7 +34,7 @@ permalink:  /increasing-triplet-subsequence/
 {% endraw %}
 
 ### 相似题目
-  1. [最长上升子序列](/longest-increasing-subsequence) (Medium)
+  1. [最长上升子序列](/problems/longest-increasing-subsequence) (Medium)
 
 ---
 

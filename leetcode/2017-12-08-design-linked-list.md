@@ -4,7 +4,7 @@ title:      "设计链表"
 date:       2017-12-08 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Design, Linked List]
-permalink:  /design-linked-list/
+permalink:  /problems/design-linked-list/
 ---
 
 ## 707. 设计链表 (Easy)
@@ -19,7 +19,7 @@ permalink:  /design-linked-list/
 	<li>get(index)：获取链表中第&nbsp;<code>index</code>&nbsp;个节点的值。如果索引无效，则返回<code>-1</code>。</li>
 	<li>addAtHead(val)：在链表的第一个元素之前添加一个值为&nbsp;<code>val</code>&nbsp;的节点。插入后，新节点将成为链表的第一个节点。</li>
 	<li>addAtTail(val)：将值为&nbsp;<code>val</code> 的节点追加到链表的最后一个元素。</li>
-	<li>addAtIndex(index,val)：在链表中的第&nbsp;<code>index</code>&nbsp;个节点之前添加值为&nbsp;<code>val</code>&nbsp; 的节点。如果&nbsp;<code>index</code>&nbsp;等于链表的长度，则该节点将附加到链表的末尾。如果 <code>index</code> 大于链表长度，则不会插入节点。</li>
+	<li>addAtIndex(index,val)：在链表中的第&nbsp;<code>index</code>&nbsp;个节点之前添加值为&nbsp;<code>val</code>&nbsp; 的节点。如果&nbsp;<code>index</code>&nbsp;等于链表的长度，则该节点将附加到链表的末尾。如果 <code>index</code> 大于链表长度，则不会插入节点。如果<code>index</code>小于0，则在头部插入节点。</li>
 	<li>deleteAtIndex(index)：如果索引&nbsp;<code>index</code> 有效，则删除链表中的第&nbsp;<code>index</code> 个节点。</li>
 </ul>
 
@@ -41,7 +41,7 @@ linkedList.get(1);            //返回3
 <p><strong>提示：</strong></p>
 
 <ul>
-	<li>所有值都在&nbsp;<code>[1, 1000]</code>&nbsp;之内。</li>
+	<li>所有<code>val</code>值都在&nbsp;<code>[1, 1000]</code>&nbsp;之内。</li>
 	<li>操作次数将在&nbsp;&nbsp;<code>[1, 1000]</code>&nbsp;之内。</li>
 	<li>请不要使用内置的 LinkedList 库。</li>
 </ul>

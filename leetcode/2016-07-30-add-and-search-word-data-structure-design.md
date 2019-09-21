@@ -4,7 +4,7 @@ title:      "添加与搜索单词 - 数据结构设计"
 date:       2016-07-30 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Design, Trie, Backtracking]
-permalink:  /add-and-search-word-data-structure-design/
+permalink:  /problems/add-and-search-word-data-structure-design/
 ---
 
 ## 211. 添加与搜索单词 - 数据结构设计 (Medium)
@@ -42,8 +42,8 @@ search(&quot;b..&quot;) -&gt; true
   [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
 
 ### 相似题目
-  1. [实现 Trie (前缀树)](/implement-trie-prefix-tree) (Medium)
-  1. [前缀和后缀搜索](/prefix-and-suffix-search) (Hard)
+  1. [实现 Trie (前缀树)](/problems/implement-trie-prefix-tree) (Medium)
+  1. [前缀和后缀搜索](/problems/prefix-and-suffix-search) (Hard)
 
 ---
 

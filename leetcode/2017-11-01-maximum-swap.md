@@ -4,7 +4,7 @@ title:      "最大交换"
 date:       2017-11-01 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array, Math]
-permalink:  /maximum-swap/
+permalink:  /problems/maximum-swap/
 ---
 
 ## 670. 最大交换 (Medium)
@@ -42,7 +42,7 @@ permalink:  /maximum-swap/
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
 
 ### 相似题目
-  1. [拼接最大数](/create-maximum-number) (Hard)
+  1. [拼接最大数](/problems/create-maximum-number) (Hard)
 
 ---
 

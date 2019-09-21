@@ -4,7 +4,7 @@ title:      "三维形体投影面积"
 date:       2018-06-02 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Math]
-permalink:  /projection-area-of-3d-shapes/
+permalink:  /problems/projection-area-of-3d-shapes/
 ---
 
 ## 883. 三维形体投影面积 (Easy)

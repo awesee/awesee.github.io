@@ -4,7 +4,7 @@ title:      "移掉K位数字"
 date:       2017-02-06 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Stack, Greedy]
-permalink:  /remove-k-digits/
+permalink:  /problems/remove-k-digits/
 ---
 
 ## 402. 移掉K位数字 (Medium)
@@ -51,8 +51,8 @@ permalink:  /remove-k-digits/
   [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
 
 ### 相似题目
-  1. [拼接最大数](/create-maximum-number) (Hard)
-  1. [单调递增的数字](/monotone-increasing-digits) (Medium)
+  1. [拼接最大数](/problems/create-maximum-number) (Hard)
+  1. [单调递增的数字](/problems/monotone-increasing-digits) (Medium)
 
 ---
 

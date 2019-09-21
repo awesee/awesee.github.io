@@ -4,7 +4,7 @@ title:      "二叉树中第二小的节点"
 date:       2017-11-02 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Tree]
-permalink:  /second-minimum-node-in-a-binary-tree/
+permalink:  /problems/second-minimum-node-in-a-binary-tree/
 ---
 
 ## 671. 二叉树中第二小的节点 (Easy)
@@ -47,7 +47,7 @@ permalink:  /second-minimum-node-in-a-binary-tree/
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
 
 ### 相似题目
-  1. [二叉搜索树中第K小的元素](/kth-smallest-element-in-a-bst) (Medium)
+  1. [二叉搜索树中第K小的元素](/problems/kth-smallest-element-in-a-bst) (Medium)
 
 ---
 

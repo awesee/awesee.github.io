@@ -4,7 +4,7 @@ title:      "基本计算器 II"
 date:       2016-08-15 21:30:00 +0800
 categories: [Leetcode]
 tags:       [String]
-permalink:  /basic-calculator-ii/
+permalink:  /problems/basic-calculator-ii/
 ---
 
 ## 227. 基本计算器 II (Medium)
@@ -45,9 +45,9 @@ permalink:  /basic-calculator-ii/
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ### 相似题目
-  1. [基本计算器](/basic-calculator) (Hard)
-  1. [给表达式添加运算符](/expression-add-operators) (Hard)
-  1. [基本计算器 III](/basic-calculator-iii) (Hard)
+  1. [基本计算器](/problems/basic-calculator) (Hard)
+  1. [给表达式添加运算符](/problems/expression-add-operators) (Hard)
+  1. [基本计算器 III](/problems/basic-calculator-iii) (Hard)
 
 ---
 

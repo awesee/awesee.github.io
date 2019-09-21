@@ -4,7 +4,7 @@ title:      "三角形的最大周长"
 date:       2018-09-03 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Sort, Math]
-permalink:  /largest-perimeter-triangle/
+permalink:  /problems/largest-perimeter-triangle/
 ---
 
 ## 976. 三角形的最大周长 (Easy)
@@ -60,7 +60,7 @@ permalink:  /largest-perimeter-triangle/
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
 
 ### 相似题目
-  1. [最大三角形面积](/largest-triangle-area) (Easy)
+  1. [最大三角形面积](/problems/largest-triangle-area) (Easy)
 
 ---
 

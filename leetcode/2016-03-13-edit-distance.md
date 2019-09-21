@@ -4,7 +4,7 @@ title:      "编辑距离"
 date:       2016-03-13 21:30:00 +0800
 categories: [Leetcode]
 tags:       [String, Dynamic Programming]
-permalink:  /edit-distance/
+permalink:  /problems/edit-distance/
 ---
 
 ## 72. 编辑距离 (Hard)
@@ -50,10 +50,10 @@ exection -&gt; execution (插入 &#39;u&#39;)
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### 相似题目
-  1. [相隔为 1 的编辑距离](/one-edit-distance) (Medium)
-  1. [两个字符串的删除操作](/delete-operation-for-two-strings) (Medium)
-  1. [两个字符串的最小ASCII删除和](/minimum-ascii-delete-sum-for-two-strings) (Medium)
-  1. [不相交的线](/uncrossed-lines) (Medium)
+  1. [相隔为 1 的编辑距离](/problems/one-edit-distance) (Medium)
+  1. [两个字符串的删除操作](/problems/delete-operation-for-two-strings) (Medium)
+  1. [两个字符串的最小ASCII删除和](/problems/minimum-ascii-delete-sum-for-two-strings) (Medium)
+  1. [不相交的线](/problems/uncrossed-lines) (Medium)
 
 ---
 

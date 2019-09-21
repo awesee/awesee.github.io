@@ -4,7 +4,7 @@ title:      "除自身以外数组的乘积"
 date:       2016-08-26 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array]
-permalink:  /product-of-array-except-self/
+permalink:  /problems/product-of-array-except-self/
 ---
 
 ## 238. 除自身以外数组的乘积 (Medium)
@@ -29,9 +29,9 @@ permalink:  /product-of-array-except-self/
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 
 ### 相似题目
-  1. [接雨水](/trapping-rain-water) (Hard)
-  1. [乘积最大子序列](/maximum-product-subarray) (Medium)
-  1. [粉刷房子 II](/paint-house-ii) (Hard)
+  1. [接雨水](/problems/trapping-rain-water) (Hard)
+  1. [乘积最大子序列](/problems/maximum-product-subarray) (Medium)
+  1. [粉刷房子 II](/problems/paint-house-ii) (Hard)
 
 ---
 

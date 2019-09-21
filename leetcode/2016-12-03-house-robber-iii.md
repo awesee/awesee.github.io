@@ -4,7 +4,7 @@ title:      "打家劫舍 III"
 date:       2016-12-03 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Tree, Depth-first Search]
-permalink:  /house-robber-iii/
+permalink:  /problems/house-robber-iii/
 ---
 
 ## 337. 打家劫舍 III (Medium)
@@ -49,8 +49,8 @@ permalink:  /house-robber-iii/
   [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
 
 ### 相似题目
-  1. [打家劫舍](/house-robber) (Easy)
-  1. [打家劫舍 II](/house-robber-ii) (Medium)
+  1. [打家劫舍](/problems/house-robber) (Easy)
+  1. [打家劫舍 II](/problems/house-robber-ii) (Medium)
 
 ---
 

@@ -4,7 +4,7 @@ title:      "行相等的最少多米诺旋转"
 date:       2018-10-04 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Greedy, Array]
-permalink:  /minimum-domino-rotations-for-equal-row/
+permalink:  /problems/minimum-domino-rotations-for-equal-row/
 ---
 
 ## 1007. 行相等的最少多米诺旋转 (Medium)

@@ -4,7 +4,7 @@ title:      "反转字符串 II"
 date:       2017-06-25 21:30:00 +0800
 categories: [Leetcode]
 tags:       [String]
-permalink:  /reverse-string-ii/
+permalink:  /problems/reverse-string-ii/
 ---
 
 ## 541. 反转字符串 II (Easy)
@@ -33,8 +33,8 @@ permalink:  /reverse-string-ii/
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ### 相似题目
-  1. [反转字符串](/reverse-string) (Easy)
-  1. [反转字符串中的单词 III](/reverse-words-in-a-string-iii) (Easy)
+  1. [反转字符串](/problems/reverse-string) (Easy)
+  1. [反转字符串中的单词 III](/problems/reverse-words-in-a-string-iii) (Easy)
 
 ---
 

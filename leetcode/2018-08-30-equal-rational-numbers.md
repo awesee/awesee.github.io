@@ -4,7 +4,7 @@ title:      "相等的有理数"
 date:       2018-08-30 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Math]
-permalink:  /equal-rational-numbers/
+permalink:  /problems/equal-rational-numbers/
 ---
 
 ## 972. 相等的有理数 (Hard)

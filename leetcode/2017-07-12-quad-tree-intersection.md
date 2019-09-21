@@ -4,7 +4,7 @@ title:      "四叉树交集"
 date:       2017-07-12 21:30:00 +0800
 categories: [Leetcode]
 tags:       []
-permalink:  /quad-tree-intersection/
+permalink:  /problems/quad-tree-intersection/
 ---
 
 ## 558. 四叉树交集 (Easy)

@@ -4,7 +4,7 @@ title:      "统计不同回文子字符串"
 date:       2017-12-31 21:30:00 +0800
 categories: [Leetcode]
 tags:       [String, Dynamic Programming]
-permalink:  /count-different-palindromic-subsequences/
+permalink:  /problems/count-different-palindromic-subsequences/
 ---
 
 ## 730. 统计不同回文子字符串 (Hard)
@@ -58,7 +58,7 @@ S = &#39;abcdabcdabcdabcdabcdabcdabcdabcddcbadcbadcbadcbadcbadcbadcbadcba&#39;
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### 相似题目
-  1. [最长回文子序列](/longest-palindromic-subsequence) (Medium)
+  1. [最长回文子序列](/problems/longest-palindromic-subsequence) (Medium)
 
 ---
 

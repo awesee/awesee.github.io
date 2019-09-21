@@ -4,7 +4,7 @@ title:      "最大为 N 的数字组合"
 date:       2018-06-21 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Math, Dynamic Programming]
-permalink:  /numbers-at-most-n-given-digit-set/
+permalink:  /problems/numbers-at-most-n-given-digit-set/
 ---
 
 ## 902. 最大为 N 的数字组合 (Hard)

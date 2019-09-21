@@ -4,7 +4,7 @@ title:      "有效数字"
 date:       2016-03-06 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Math, String]
-permalink:  /valid-number/
+permalink:  /problems/valid-number/
 ---
 
 ## 65. 有效数字 (Hard)
@@ -51,7 +51,7 @@ permalink:  /valid-number/
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ### 相似题目
-  1. [字符串转换整数 (atoi)](/string-to-integer-atoi) (Medium)
+  1. [字符串转换整数 (atoi)](/problems/string-to-integer-atoi) (Medium)
 
 ---
 

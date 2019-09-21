@@ -4,7 +4,7 @@ title:      "实现一个魔法字典"
 date:       2017-11-07 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Trie, Hash Table]
-permalink:  /implement-magic-dictionary/
+permalink:  /problems/implement-magic-dictionary/
 ---
 
 ## 676. 实现一个魔法字典 (Medium)
@@ -42,8 +42,8 @@ Input: search(&quot;leetcoded&quot;), Output: False
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
 
 ### 相似题目
-  1. [实现 Trie (前缀树)](/implement-trie-prefix-tree) (Medium)
-  1. [词典中最长的单词](/longest-word-in-dictionary) (Easy)
+  1. [实现 Trie (前缀树)](/problems/implement-trie-prefix-tree) (Medium)
+  1. [词典中最长的单词](/problems/longest-word-in-dictionary) (Easy)
 
 ---
 

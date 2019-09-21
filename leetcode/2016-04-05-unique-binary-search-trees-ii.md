@@ -4,10 +4,12 @@ title:      "不同的二叉搜索树 II"
 date:       2016-04-05 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Tree, Dynamic Programming]
-permalink:  /unique-binary-search-trees-ii/
+permalink:  /problems/unique-binary-search-trees-ii/
 ---
 
 ## 95. 不同的二叉搜索树 II (Medium)
+
+{% raw %}
 
 <p>给定一个整数 <em>n</em>，生成所有由 1 ...&nbsp;<em>n</em> 为节点所组成的<strong>二叉搜索树</strong>。</p>
 
@@ -32,13 +34,15 @@ permalink:  /unique-binary-search-trees-ii/
    2     1         2                 3
 </pre>
 
+{% endraw %}
+
 ### 相关话题
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### 相似题目
-  1. [不同的二叉搜索树](/unique-binary-search-trees) (Medium)
-  1. [为运算表达式设计优先级](/different-ways-to-add-parentheses) (Medium)
+  1. [不同的二叉搜索树](/problems/unique-binary-search-trees) (Medium)
+  1. [为运算表达式设计优先级](/problems/different-ways-to-add-parentheses) (Medium)
 
 ---
 

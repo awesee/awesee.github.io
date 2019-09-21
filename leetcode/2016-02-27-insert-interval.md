@@ -4,7 +4,7 @@ title:      "插入区间"
 date:       2016-02-27 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Sort, Array]
-permalink:  /insert-interval/
+permalink:  /problems/insert-interval/
 ---
 
 ## 57. 插入区间 (Hard)
@@ -35,8 +35,8 @@ permalink:  /insert-interval/
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 
 ### 相似题目
-  1. [合并区间](/merge-intervals) (Medium)
-  1. [Range 模块](/range-module) (Hard)
+  1. [合并区间](/problems/merge-intervals) (Medium)
+  1. [Range 模块](/problems/range-module) (Hard)
 
 ---
 

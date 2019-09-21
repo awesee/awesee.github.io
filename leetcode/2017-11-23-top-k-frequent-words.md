@@ -4,7 +4,7 @@ title:      "前K个高频单词"
 date:       2017-11-23 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Heap, Trie, Hash Table]
-permalink:  /top-k-frequent-words/
+permalink:  /problems/top-k-frequent-words/
 ---
 
 ## 692. 前K个高频单词 (Medium)
@@ -60,8 +60,8 @@ permalink:  /top-k-frequent-words/
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
 
 ### 相似题目
-  1. [前 K 个高频元素](/top-k-frequent-elements) (Medium)
-  1. [最接近原点的 K 个点](/k-closest-points-to-origin) (Medium)
+  1. [前 K 个高频元素](/problems/top-k-frequent-elements) (Medium)
+  1. [最接近原点的 K 个点](/problems/k-closest-points-to-origin) (Medium)
 
 ---
 

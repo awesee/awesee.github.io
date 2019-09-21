@@ -4,7 +4,7 @@ title:      "有效的正方形"
 date:       2017-08-16 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Math]
-permalink:  /valid-square/
+permalink:  /problems/valid-square/
 ---
 
 ## 593. 有效的正方形 (Medium)

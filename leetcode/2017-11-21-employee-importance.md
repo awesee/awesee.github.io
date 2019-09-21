@@ -4,7 +4,7 @@ title:      "员工的重要性"
 date:       2017-11-21 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Depth-first Search, Breadth-first Search, Hash Table]
-permalink:  /employee-importance/
+permalink:  /problems/employee-importance/
 ---
 
 ## 690. 员工的重要性 (Easy)
@@ -41,7 +41,7 @@ permalink:  /employee-importance/
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
 
 ### 相似题目
-  1. [嵌套列表权重和](/nested-list-weight-sum) (Easy)
+  1. [嵌套列表权重和](/problems/nested-list-weight-sum) (Easy)
 
 ---
 

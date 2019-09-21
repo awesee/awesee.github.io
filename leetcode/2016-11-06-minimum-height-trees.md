@@ -4,7 +4,7 @@ title:      "最小高度树"
 date:       2016-11-06 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Breadth-first Search, Graph]
-permalink:  /minimum-height-trees/
+permalink:  /problems/minimum-height-trees/
 ---
 
 ## 310. 最小高度树 (Medium)
@@ -60,8 +60,8 @@ permalink:  /minimum-height-trees/
   [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
 
 ### 相似题目
-  1. [课程表](/course-schedule) (Medium)
-  1. [课程表 II](/course-schedule-ii) (Medium)
+  1. [课程表](/problems/course-schedule) (Medium)
+  1. [课程表 II](/problems/course-schedule-ii) (Medium)
 
 ---
 

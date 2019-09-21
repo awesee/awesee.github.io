@@ -4,7 +4,7 @@ title:      "二叉树的后序遍历"
 date:       2016-05-25 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Stack, Tree]
-permalink:  /binary-tree-postorder-traversal/
+permalink:  /problems/binary-tree-postorder-traversal/
 ---
 
 ## 145. 二叉树的后序遍历 (Hard)
@@ -33,8 +33,8 @@ permalink:  /binary-tree-postorder-traversal/
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
 
 ### 相似题目
-  1. [二叉树的中序遍历](/binary-tree-inorder-traversal) (Medium)
-  1. [N叉树的后序遍历](/n-ary-tree-postorder-traversal) (Easy)
+  1. [二叉树的中序遍历](/problems/binary-tree-inorder-traversal) (Medium)
+  1. [N叉树的后序遍历](/problems/n-ary-tree-postorder-traversal) (Easy)
 
 ---
 

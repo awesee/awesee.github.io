@@ -4,7 +4,7 @@ title:      "写字符串需要的行数"
 date:       2018-03-17 21:30:00 +0800
 categories: [Leetcode]
 tags:       []
-permalink:  /number-of-lines-to-write-string/
+permalink:  /problems/number-of-lines-to-write-string/
 ---
 
 ## 806. 写字符串需要的行数 (Easy)

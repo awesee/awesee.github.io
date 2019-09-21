@@ -4,7 +4,7 @@ title:      "连续整数求和"
 date:       2018-04-09 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Math]
-permalink:  /consecutive-numbers-sum/
+permalink:  /problems/consecutive-numbers-sum/
 ---
 
 ## 829. 连续整数求和 (Hard)

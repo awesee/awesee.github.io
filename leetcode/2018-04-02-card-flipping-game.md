@@ -4,7 +4,7 @@ title:      "翻转卡片游戏"
 date:       2018-04-02 21:30:00 +0800
 categories: [Leetcode]
 tags:       []
-permalink:  /card-flipping-game/
+permalink:  /problems/card-flipping-game/
 ---
 
 ## 822. 翻转卡片游戏 (Medium)

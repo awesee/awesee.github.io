@@ -4,7 +4,7 @@ title:      "细分图中的可到达结点"
 date:       2018-06-01 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Heap]
-permalink:  /reachable-nodes-in-subdivided-graph/
+permalink:  /problems/reachable-nodes-in-subdivided-graph/
 ---
 
 ## 882. 细分图中的可到达结点 (Hard)

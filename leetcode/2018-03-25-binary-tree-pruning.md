@@ -4,7 +4,7 @@ title:      "二叉树剪枝"
 date:       2018-03-25 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Tree]
-permalink:  /binary-tree-pruning/
+permalink:  /problems/binary-tree-pruning/
 ---
 
 ## 814. 二叉树剪枝 (Medium)

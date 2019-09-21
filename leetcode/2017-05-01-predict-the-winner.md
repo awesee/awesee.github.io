@@ -4,7 +4,7 @@ title:      "预测赢家"
 date:       2017-05-01 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Minimax, Dynamic Programming]
-permalink:  /predict-the-winner/
+permalink:  /problems/predict-the-winner/
 ---
 
 ## 486. 预测赢家 (Medium)
@@ -50,7 +50,7 @@ permalink:  /predict-the-winner/
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### 相似题目
-  1. [我能赢吗](/can-i-win) (Medium)
+  1. [我能赢吗](/problems/can-i-win) (Medium)
 
 ---
 

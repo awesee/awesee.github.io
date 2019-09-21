@@ -4,7 +4,7 @@ title:      "车的可用捕获量"
 date:       2018-09-26 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array]
-permalink:  /available-captures-for-rook/
+permalink:  /problems/available-captures-for-rook/
 ---
 
 ## 999. 车的可用捕获量 (Easy)

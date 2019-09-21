@@ -4,7 +4,7 @@ title:      "左叶子之和"
 date:       2017-02-08 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Tree]
-permalink:  /sum-of-left-leaves/
+permalink:  /problems/sum-of-left-leaves/
 ---
 
 ## 404. 左叶子之和 (Easy)

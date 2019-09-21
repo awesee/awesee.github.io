@@ -4,7 +4,7 @@ title:      "根到叶路径上的不足节点"
 date:       2018-12-16 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Depth-first Search]
-permalink:  /insufficient-nodes-in-root-to-leaf-paths/
+permalink:  /problems/insufficient-nodes-in-root-to-leaf-paths/
 ---
 
 ## 1080. 根到叶路径上的不足节点 (Medium)

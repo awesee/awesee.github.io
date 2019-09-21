@@ -4,7 +4,7 @@ title:      "滑动谜题"
 date:       2018-02-12 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Breadth-first Search]
-permalink:  /sliding-puzzle/
+permalink:  /problems/sliding-puzzle/
 ---
 
 ## 773. 滑动谜题 (Hard)

@@ -4,7 +4,7 @@ title:      "连接词"
 date:       2017-04-17 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Depth-first Search, Trie, Dynamic Programming]
-permalink:  /concatenated-words/
+permalink:  /problems/concatenated-words/
 ---
 
 ## 472. 连接词 (Hard)
@@ -44,7 +44,7 @@ permalink:  /concatenated-words/
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### 相似题目
-  1. [单词拆分 II](/word-break-ii) (Hard)
+  1. [单词拆分 II](/problems/word-break-ii) (Hard)
 
 ---
 

@@ -4,7 +4,7 @@ title:      "自由之路"
 date:       2017-05-29 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Depth-first Search, Divide and Conquer, Dynamic Programming]
-permalink:  /freedom-trail/
+permalink:  /problems/freedom-trail/
 ---
 
 ## 514. 自由之路 (Hard)

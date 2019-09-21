@@ -4,7 +4,7 @@ title:      "重复的DNA序列"
 date:       2016-07-06 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Bit Manipulation, Hash Table]
-permalink:  /repeated-dna-sequences/
+permalink:  /problems/repeated-dna-sequences/
 ---
 
 ## 187. 重复的DNA序列 (Medium)

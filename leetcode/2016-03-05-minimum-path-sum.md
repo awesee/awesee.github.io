@@ -4,7 +4,7 @@ title:      "最小路径和"
 date:       2016-03-05 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array, Dynamic Programming]
-permalink:  /minimum-path-sum/
+permalink:  /problems/minimum-path-sum/
 ---
 
 ## 64. 最小路径和 (Medium)
@@ -34,9 +34,9 @@ permalink:  /minimum-path-sum/
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### 相似题目
-  1. [不同路径](/unique-paths) (Medium)
-  1. [地下城游戏](/dungeon-game) (Hard)
-  1. [摘樱桃](/cherry-pickup) (Hard)
+  1. [不同路径](/problems/unique-paths) (Medium)
+  1. [地下城游戏](/problems/dungeon-game) (Hard)
+  1. [摘樱桃](/problems/cherry-pickup) (Hard)
 
 ---
 

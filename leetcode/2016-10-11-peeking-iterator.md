@@ -4,7 +4,7 @@ title:      "顶端迭代器"
 date:       2016-10-11 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Design]
-permalink:  /peeking-iterator/
+permalink:  /problems/peeking-iterator/
 ---
 
 ## 284. 顶端迭代器 (Medium)
@@ -30,9 +30,9 @@ permalink:  /peeking-iterator/
   [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
 
 ### 相似题目
-  1. [二叉搜索树迭代器](/binary-search-tree-iterator) (Medium)
-  1. [展开二维向量](/flatten-2d-vector) (Medium)
-  1. [锯齿迭代器](/zigzag-iterator) (Medium)
+  1. [二叉搜索树迭代器](/problems/binary-search-tree-iterator) (Medium)
+  1. [展开二维向量](/problems/flatten-2d-vector) (Medium)
+  1. [锯齿迭代器](/problems/zigzag-iterator) (Medium)
 
 ---
 

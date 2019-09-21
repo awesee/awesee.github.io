@@ -4,7 +4,7 @@ title:      "在 D 天内送达包裹的能力"
 date:       2018-10-08 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array, Binary Search]
-permalink:  /capacity-to-ship-packages-within-d-days/
+permalink:  /problems/capacity-to-ship-packages-within-d-days/
 ---
 
 ## 1011. 在 D 天内送达包裹的能力 (Medium)

@@ -4,7 +4,7 @@ title:      "打家劫舍 II"
 date:       2016-08-01 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Dynamic Programming]
-permalink:  /house-robber-ii/
+permalink:  /problems/house-robber-ii/
 ---
 
 ## 213. 打家劫舍 II (Medium)
@@ -35,12 +35,12 @@ permalink:  /house-robber-ii/
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### 相似题目
-  1. [打家劫舍](/house-robber) (Easy)
-  1. [粉刷房子](/paint-house) (Easy)
-  1. [栅栏涂色](/paint-fence) (Easy)
-  1. [打家劫舍 III](/house-robber-iii) (Medium)
-  1. [不含连续1的非负整数](/non-negative-integers-without-consecutive-ones) (Hard)
-  1. [金币路径](/coin-path) (Hard)
+  1. [打家劫舍](/problems/house-robber) (Easy)
+  1. [粉刷房子](/problems/paint-house) (Easy)
+  1. [栅栏涂色](/problems/paint-fence) (Easy)
+  1. [打家劫舍 III](/problems/house-robber-iii) (Medium)
+  1. [不含连续1的非负整数](/problems/non-negative-integers-without-consecutive-ones) (Hard)
+  1. [金币路径](/problems/coin-path) (Hard)
 
 ---
 

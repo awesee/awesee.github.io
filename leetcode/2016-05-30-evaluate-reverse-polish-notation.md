@@ -4,7 +4,7 @@ title:      "逆波兰表达式求值"
 date:       2016-05-30 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Stack]
-permalink:  /evaluate-reverse-polish-notation/
+permalink:  /problems/evaluate-reverse-polish-notation/
 ---
 
 ## 150. 逆波兰表达式求值 (Medium)
@@ -55,8 +55,8 @@ permalink:  /evaluate-reverse-polish-notation/
   [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
 
 ### 相似题目
-  1. [基本计算器](/basic-calculator) (Hard)
-  1. [给表达式添加运算符](/expression-add-operators) (Hard)
+  1. [基本计算器](/problems/basic-calculator) (Hard)
+  1. [给表达式添加运算符](/problems/expression-add-operators) (Hard)
 
 ---
 

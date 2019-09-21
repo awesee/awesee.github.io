@@ -4,7 +4,7 @@ title:      "受标签影响的最大值"
 date:       2018-12-26 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Greedy, Hash Table]
-permalink:  /largest-values-from-labels/
+permalink:  /problems/largest-values-from-labels/
 ---
 
 ## 1090. 受标签影响的最大值 (Medium)

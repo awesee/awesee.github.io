@@ -4,7 +4,7 @@ title:      "移除元素"
 date:       2016-01-28 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array, Two Pointers]
-permalink:  /remove-element/
+permalink:  /problems/remove-element/
 ---
 
 ## 27. 移除元素 (Easy)
@@ -62,9 +62,9 @@ for (int i = 0; i &lt; len; i++) {
   [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
 
 ### 相似题目
-  1. [删除排序数组中的重复项](/remove-duplicates-from-sorted-array) (Easy)
-  1. [移除链表元素](/remove-linked-list-elements) (Easy)
-  1. [移动零](/move-zeroes) (Easy)
+  1. [删除排序数组中的重复项](/problems/remove-duplicates-from-sorted-array) (Easy)
+  1. [移除链表元素](/problems/remove-linked-list-elements) (Easy)
+  1. [移动零](/problems/move-zeroes) (Easy)
 
 ---
 

@@ -4,7 +4,7 @@ title:      "整数转罗马数字"
 date:       2016-01-13 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Math, String]
-permalink:  /integer-to-roman/
+permalink:  /problems/integer-to-roman/
 ---
 
 ## 12. 整数转罗马数字 (Medium)
@@ -69,8 +69,8 @@ M             1000</pre>
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ### 相似题目
-  1. [罗马数字转整数](/roman-to-integer) (Easy)
-  1. [整数转换英文表示](/integer-to-english-words) (Hard)
+  1. [罗马数字转整数](/problems/roman-to-integer) (Easy)
+  1. [整数转换英文表示](/problems/integer-to-english-words) (Hard)
 
 ---
 

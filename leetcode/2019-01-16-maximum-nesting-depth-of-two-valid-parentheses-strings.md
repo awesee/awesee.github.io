@@ -4,7 +4,7 @@ title:      "有效括号的嵌套深度"
 date:       2019-01-16 21:30:00 +0800
 categories: [Leetcode]
 tags:       []
-permalink:  /maximum-nesting-depth-of-two-valid-parentheses-strings/
+permalink:  /problems/maximum-nesting-depth-of-two-valid-parentheses-strings/
 ---
 
 ## 1111. 有效括号的嵌套深度 (Medium)

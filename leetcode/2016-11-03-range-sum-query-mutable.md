@@ -4,7 +4,7 @@ title:      "区域和检索 - 数组可修改"
 date:       2016-11-03 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Binary Indexed Tree, Segment Tree]
-permalink:  /range-sum-query-mutable/
+permalink:  /problems/range-sum-query-mutable/
 ---
 
 ## 307. 区域和检索 - 数组可修改 (Medium)
@@ -38,8 +38,8 @@ sumRange(0, 2) -&gt; 8
   [[线段树](https://github.com/openset/leetcode/tree/master/tag/segment-tree/README.md)]
 
 ### 相似题目
-  1. [区域和检索 - 数组不可变](/range-sum-query-immutable) (Easy)
-  1. [二维区域和检索 - 可变](/range-sum-query-2d-mutable) (Hard)
+  1. [区域和检索 - 数组不可变](/problems/range-sum-query-immutable) (Easy)
+  1. [二维区域和检索 - 可变](/problems/range-sum-query-2d-mutable) (Hard)
 
 ---
 

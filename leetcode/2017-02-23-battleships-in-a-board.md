@@ -4,7 +4,7 @@ title:      "甲板上的战舰"
 date:       2017-02-23 21:30:00 +0800
 categories: [Leetcode]
 tags:       []
-permalink:  /battleships-in-a-board/
+permalink:  /problems/battleships-in-a-board/
 ---
 
 ## 419. 甲板上的战舰 (Medium)

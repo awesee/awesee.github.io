@@ -4,7 +4,7 @@ title:      "找出第 k 小的距离对"
 date:       2017-12-20 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Heap, Array, Binary Search]
-permalink:  /find-k-th-smallest-pair-distance/
+permalink:  /problems/find-k-th-smallest-pair-distance/
 ---
 
 ## 719. 找出第 k 小的距离对 (Hard)
@@ -44,11 +44,11 @@ k = 1
   [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
 
 ### 相似题目
-  1. [查找和最小的K对数字](/find-k-pairs-with-smallest-sums) (Medium)
-  1. [有序矩阵中第K小的元素](/kth-smallest-element-in-a-sorted-matrix) (Medium)
-  1. [找到 K 个最接近的元素](/find-k-closest-elements) (Medium)
-  1. [乘法表中第k小的数](/kth-smallest-number-in-multiplication-table) (Hard)
-  1. [第 K 个最小的素数分数](/k-th-smallest-prime-fraction) (Hard)
+  1. [查找和最小的K对数字](/problems/find-k-pairs-with-smallest-sums) (Medium)
+  1. [有序矩阵中第K小的元素](/problems/kth-smallest-element-in-a-sorted-matrix) (Medium)
+  1. [找到 K 个最接近的元素](/problems/find-k-closest-elements) (Medium)
+  1. [乘法表中第k小的数](/problems/kth-smallest-number-in-multiplication-table) (Hard)
+  1. [第 K 个最小的素数分数](/problems/k-th-smallest-prime-fraction) (Hard)
 
 ---
 

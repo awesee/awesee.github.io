@@ -4,7 +4,7 @@ title:      "验证回文字符串 Ⅱ"
 date:       2017-11-11 21:30:00 +0800
 categories: [Leetcode]
 tags:       [String]
-permalink:  /valid-palindrome-ii/
+permalink:  /problems/valid-palindrome-ii/
 ---
 
 ## 680. 验证回文字符串 Ⅱ (Easy)
@@ -40,7 +40,7 @@ permalink:  /valid-palindrome-ii/
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ### 相似题目
-  1. [验证回文串](/valid-palindrome) (Easy)
+  1. [验证回文串](/problems/valid-palindrome) (Easy)
 
 ---
 

@@ -4,7 +4,7 @@ title:      "克隆图"
 date:       2016-05-13 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Depth-first Search, Breadth-first Search, Graph]
-permalink:  /clone-graph/
+permalink:  /problems/clone-graph/
 ---
 
 ## 133. 克隆图 (Medium)
@@ -46,7 +46,7 @@ permalink:  /clone-graph/
   [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
 
 ### 相似题目
-  1. [复制带随机指针的链表](/copy-list-with-random-pointer) (Medium)
+  1. [复制带随机指针的链表](/problems/copy-list-with-random-pointer) (Medium)
 
 ---
 

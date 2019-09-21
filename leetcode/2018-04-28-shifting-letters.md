@@ -4,7 +4,7 @@ title:      "字母移位"
 date:       2018-04-28 21:30:00 +0800
 categories: [Leetcode]
 tags:       [String]
-permalink:  /shifting-letters/
+permalink:  /problems/shifting-letters/
 ---
 
 ## 848. 字母移位 (Medium)

@@ -4,7 +4,7 @@ title:      "第k个排列"
 date:       2016-03-01 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Math, Backtracking]
-permalink:  /permutation-sequence/
+permalink:  /problems/permutation-sequence/
 ---
 
 ## 60. 第k个排列 (Medium)
@@ -52,8 +52,8 @@ permalink:  /permutation-sequence/
   [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
 
 ### 相似题目
-  1. [下一个排列](/next-permutation) (Medium)
-  1. [全排列](/permutations) (Medium)
+  1. [下一个排列](/problems/next-permutation) (Medium)
+  1. [全排列](/problems/permutations) (Medium)
 
 ---
 

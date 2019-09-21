@@ -4,7 +4,7 @@ title:      "基于时间的键值存储"
 date:       2018-09-08 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Hash Table, Binary Search]
-permalink:  /time-based-key-value-store/
+permalink:  /problems/time-based-key-value-store/
 ---
 
 ## 981. 基于时间的键值存储 (Medium)

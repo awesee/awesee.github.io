@@ -4,7 +4,7 @@ title:      "查找和替换模式"
 date:       2018-06-09 21:30:00 +0800
 categories: [Leetcode]
 tags:       [String]
-permalink:  /find-and-replace-pattern/
+permalink:  /problems/find-and-replace-pattern/
 ---
 
 ## 890. 查找和替换模式 (Medium)

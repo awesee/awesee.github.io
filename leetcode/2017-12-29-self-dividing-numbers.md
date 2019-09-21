@@ -4,7 +4,7 @@ title:      "自除数"
 date:       2017-12-29 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Math]
-permalink:  /self-dividing-numbers/
+permalink:  /problems/self-dividing-numbers/
 ---
 
 ## 728. 自除数 (Easy)
@@ -39,7 +39,7 @@ permalink:  /self-dividing-numbers/
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
 
 ### 相似题目
-  1. [完美数](/perfect-number) (Easy)
+  1. [完美数](/problems/perfect-number) (Easy)
 
 ---
 

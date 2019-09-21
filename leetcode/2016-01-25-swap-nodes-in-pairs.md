@@ -4,7 +4,7 @@ title:      "两两交换链表中的节点"
 date:       2016-01-25 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Linked List]
-permalink:  /swap-nodes-in-pairs/
+permalink:  /problems/swap-nodes-in-pairs/
 ---
 
 ## 24. 两两交换链表中的节点 (Medium)
@@ -28,7 +28,7 @@ permalink:  /swap-nodes-in-pairs/
   [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
 
 ### 相似题目
-  1. [K 个一组翻转链表](/reverse-nodes-in-k-group) (Hard)
+  1. [K 个一组翻转链表](/problems/reverse-nodes-in-k-group) (Hard)
 
 ---
 

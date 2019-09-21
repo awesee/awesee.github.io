@@ -4,7 +4,7 @@ title:      "相似度为 K 的字符串"
 date:       2018-05-04 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Breadth-first Search, Graph]
-permalink:  /k-similar-strings/
+permalink:  /problems/k-similar-strings/
 ---
 
 ## 854. 相似度为 K 的字符串 (Hard)
@@ -56,7 +56,7 @@ permalink:  /k-similar-strings/
   [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
 
 ### 相似题目
-  1. [情侣牵手](/couples-holding-hands) (Hard)
+  1. [情侣牵手](/problems/couples-holding-hands) (Hard)
 
 ---
 

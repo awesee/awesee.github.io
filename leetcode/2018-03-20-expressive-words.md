@@ -4,7 +4,7 @@ title:      "情感丰富的文字"
 date:       2018-03-20 21:30:00 +0800
 categories: [Leetcode]
 tags:       [String]
-permalink:  /expressive-words/
+permalink:  /problems/expressive-words/
 ---
 
 ## 809. 情感丰富的文字 (Medium)

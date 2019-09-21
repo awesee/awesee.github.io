@@ -4,7 +4,7 @@ title:      "下一个更大元素 I"
 date:       2017-05-11 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Stack]
-permalink:  /next-greater-element-i/
+permalink:  /problems/next-greater-element-i/
 ---
 
 ## 496. 下一个更大元素 I (Easy)
@@ -48,9 +48,9 @@ permalink:  /next-greater-element-i/
   [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
 
 ### 相似题目
-  1. [下一个更大元素 II](/next-greater-element-ii) (Medium)
-  1. [下一个更大元素 III](/next-greater-element-iii) (Medium)
-  1. [每日温度](/daily-temperatures) (Medium)
+  1. [下一个更大元素 II](/problems/next-greater-element-ii) (Medium)
+  1. [下一个更大元素 III](/problems/next-greater-element-iii) (Medium)
+  1. [每日温度](/problems/daily-temperatures) (Medium)
 
 ---
 

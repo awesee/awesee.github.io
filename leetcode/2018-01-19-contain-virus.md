@@ -4,7 +4,7 @@ title:      "隔离病毒"
 date:       2018-01-19 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Depth-first Search]
-permalink:  /contain-virus/
+permalink:  /problems/contain-virus/
 ---
 
 ## 749. 隔离病毒 (Hard)

@@ -4,7 +4,7 @@ title:      "分隔链表"
 date:       2017-12-26 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Linked List]
-permalink:  /split-linked-list-in-parts/
+permalink:  /problems/split-linked-list-in-parts/
 ---
 
 ## 725. 分隔链表 (Medium)
@@ -62,8 +62,8 @@ root = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10], k = 3
   [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
 
 ### 相似题目
-  1. [旋转链表](/rotate-list) (Medium)
-  1. [奇偶链表](/odd-even-linked-list) (Medium)
+  1. [旋转链表](/problems/rotate-list) (Medium)
+  1. [奇偶链表](/problems/odd-even-linked-list) (Medium)
 
 ---
 

@@ -4,7 +4,7 @@ title:      "两数相加"
 date:       2016-01-03 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Linked List, Math]
-permalink:  /add-two-numbers/
+permalink:  /problems/add-two-numbers/
 ---
 
 ## 2. 两数相加 (Medium)
@@ -31,12 +31,12 @@ permalink:  /add-two-numbers/
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
 
 ### 相似题目
-  1. [字符串相乘](/multiply-strings) (Medium)
-  1. [二进制求和](/add-binary) (Easy)
-  1. [两整数之和](/sum-of-two-integers) (Easy)
-  1. [字符串相加](/add-strings) (Easy)
-  1. [两数相加 II](/add-two-numbers-ii) (Medium)
-  1. [数组形式的整数加法](/add-to-array-form-of-integer) (Easy)
+  1. [字符串相乘](/problems/multiply-strings) (Medium)
+  1. [二进制求和](/problems/add-binary) (Easy)
+  1. [两整数之和](/problems/sum-of-two-integers) (Easy)
+  1. [字符串相加](/problems/add-strings) (Easy)
+  1. [两数相加 II](/problems/add-two-numbers-ii) (Medium)
+  1. [数组形式的整数加法](/problems/add-to-array-form-of-integer) (Easy)
 
 ---
 

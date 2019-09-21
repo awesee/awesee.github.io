@@ -4,7 +4,7 @@ title:      "二叉搜索树的范围和"
 date:       2018-07-27 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Tree, Recursion]
-permalink:  /range-sum-of-bst/
+permalink:  /problems/range-sum-of-bst/
 ---
 
 ## 938. 二叉搜索树的范围和 (Easy)

@@ -4,7 +4,7 @@ title:      "统计词频"
 date:       2016-07-11 21:30:00 +0800
 categories: [Leetcode]
 tags:       []
-permalink:  /word-frequency/
+permalink:  /problems/word-frequency/
 ---
 
 ## 192. 统计词频 (Medium)
@@ -47,7 +47,7 @@ day 1
 {% endraw %}
 
 ### 相似题目
-  1. [前 K 个高频元素](/top-k-frequent-elements) (Medium)
+  1. [前 K 个高频元素](/problems/top-k-frequent-elements) (Medium)
 
 ---
 

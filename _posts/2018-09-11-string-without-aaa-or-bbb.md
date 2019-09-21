@@ -4,7 +4,7 @@ title:      "不含 AAA 或 BBB 的字符串"
 date:       2018-09-11 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Greedy]
-permalink:  /string-without-aaa-or-bbb/
+permalink:  /problems/string-without-aaa-or-bbb/
 ---
 
 ## 984. 不含 AAA 或 BBB 的字符串 (Medium)

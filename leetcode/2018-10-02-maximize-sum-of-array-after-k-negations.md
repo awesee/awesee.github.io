@@ -4,7 +4,7 @@ title:      "K 次取反后最大化的数组和"
 date:       2018-10-02 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Greedy]
-permalink:  /maximize-sum-of-array-after-k-negations/
+permalink:  /problems/maximize-sum-of-array-after-k-negations/
 ---
 
 ## 1005. K 次取反后最大化的数组和 (Easy)

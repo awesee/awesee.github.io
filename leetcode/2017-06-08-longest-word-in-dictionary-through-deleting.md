@@ -4,7 +4,7 @@ title:      "通过删除字母匹配到字典里最长单词"
 date:       2017-06-08 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Sort, Two Pointers]
-permalink:  /longest-word-in-dictionary-through-deleting/
+permalink:  /problems/longest-word-in-dictionary-through-deleting/
 ---
 
 ## 524. 通过删除字母匹配到字典里最长单词 (Medium)
@@ -48,7 +48,7 @@ s = &quot;abpcplea&quot;, d = [&quot;a&quot;,&quot;b&quot;,&quot;c&quot;]
   [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
 
 ### 相似题目
-  1. [词典中最长的单词](/longest-word-in-dictionary) (Easy)
+  1. [词典中最长的单词](/problems/longest-word-in-dictionary) (Easy)
 
 ---
 

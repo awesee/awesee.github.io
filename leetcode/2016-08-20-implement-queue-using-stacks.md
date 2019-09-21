@@ -4,7 +4,7 @@ title:      "用栈实现队列"
 date:       2016-08-20 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Stack, Design]
-permalink:  /implement-queue-using-stacks/
+permalink:  /problems/implement-queue-using-stacks/
 ---
 
 ## 232. 用栈实现队列 (Easy)
@@ -45,7 +45,7 @@ queue.empty(); // 返回 false</pre>
   [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
 
 ### 相似题目
-  1. [用队列实现栈](/implement-stack-using-queues) (Easy)
+  1. [用队列实现栈](/problems/implement-stack-using-queues) (Easy)
 
 ---
 

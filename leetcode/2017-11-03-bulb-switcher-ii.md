@@ -4,7 +4,7 @@ title:      "灯泡开关 Ⅱ"
 date:       2017-11-03 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Math]
-permalink:  /bulb-switcher-ii/
+permalink:  /problems/bulb-switcher-ii/
 ---
 
 ## 672. 灯泡开关 Ⅱ (Medium)
@@ -51,7 +51,7 @@ permalink:  /bulb-switcher-ii/
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
 
 ### 相似题目
-  1. [灯泡开关](/bulb-switcher) (Medium)
+  1. [灯泡开关](/problems/bulb-switcher) (Medium)
 
 ---
 

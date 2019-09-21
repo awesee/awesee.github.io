@@ -4,7 +4,7 @@ title:      "边框着色"
 date:       2018-10-31 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Depth-first Search]
-permalink:  /coloring-a-border/
+permalink:  /problems/coloring-a-border/
 ---
 
 ## 1034. 边框着色 (Medium)
@@ -59,7 +59,7 @@ permalink:  /coloring-a-border/
   [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
 
 ### 相似题目
-  1. [岛屿的周长](/island-perimeter) (Easy)
+  1. [岛屿的周长](/problems/island-perimeter) (Easy)
 
 ---
 

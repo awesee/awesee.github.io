@@ -4,7 +4,7 @@ title:      "旋转数组"
 date:       2016-07-08 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array]
-permalink:  /rotate-array/
+permalink:  /problems/rotate-array/
 ---
 
 ## 189. 旋转数组 (Easy)
@@ -44,8 +44,8 @@ permalink:  /rotate-array/
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 
 ### 相似题目
-  1. [旋转链表](/rotate-list) (Medium)
-  1. [翻转字符串里的单词 II](/reverse-words-in-a-string-ii) (Medium)
+  1. [旋转链表](/problems/rotate-list) (Medium)
+  1. [翻转字符串里的单词 II](/problems/reverse-words-in-a-string-ii) (Medium)
 
 ---
 

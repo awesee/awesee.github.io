@@ -4,7 +4,7 @@ title:      "设计哈希映射"
 date:       2017-12-07 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Design, Hash Table]
-permalink:  /design-hashmap/
+permalink:  /problems/design-hashmap/
 ---
 
 ## 706. 设计哈希映射 (Easy)
@@ -52,7 +52,7 @@ hashMap.get(2); &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;// 返回 -1 (未找到
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
 
 ### 相似题目
-  1. [设计哈希集合](/design-hashset) (Easy)
+  1. [设计哈希集合](/problems/design-hashset) (Easy)
 
 ---
 

@@ -4,7 +4,7 @@ title:      "翻转对"
 date:       2017-05-08 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Sort, Binary Indexed Tree, Segment Tree, Binary Search, Divide and Conquer]
-permalink:  /reverse-pairs/
+permalink:  /problems/reverse-pairs/
 ---
 
 ## 493. 翻转对 (Hard)
@@ -46,8 +46,8 @@ permalink:  /reverse-pairs/
   [[分治算法](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]
 
 ### 相似题目
-  1. [计算右侧小于当前元素的个数](/count-of-smaller-numbers-after-self) (Hard)
-  1. [区间和的个数](/count-of-range-sum) (Hard)
+  1. [计算右侧小于当前元素的个数](/problems/count-of-smaller-numbers-after-self) (Hard)
+  1. [区间和的个数](/problems/count-of-range-sum) (Hard)
 
 ---
 

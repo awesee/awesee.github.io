@@ -4,7 +4,7 @@ title:      "按列翻转得到最大值等行数"
 date:       2018-12-08 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Hash Table]
-permalink:  /flip-columns-for-maximum-number-of-equal-rows/
+permalink:  /problems/flip-columns-for-maximum-number-of-equal-rows/
 ---
 
 ## 1072. 按列翻转得到最大值等行数 (Medium)

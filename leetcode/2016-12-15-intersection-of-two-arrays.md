@@ -4,7 +4,7 @@ title:      "两个数组的交集"
 date:       2016-12-15 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Sort, Hash Table, Two Pointers, Binary Search]
-permalink:  /intersection-of-two-arrays/
+permalink:  /problems/intersection-of-two-arrays/
 ---
 
 ## 349. 两个数组的交集 (Easy)
@@ -40,7 +40,7 @@ permalink:  /intersection-of-two-arrays/
   [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
 
 ### 相似题目
-  1. [两个数组的交集 II](/intersection-of-two-arrays-ii) (Easy)
+  1. [两个数组的交集 II](/problems/intersection-of-two-arrays-ii) (Easy)
 
 ---
 

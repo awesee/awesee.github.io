@@ -4,7 +4,7 @@ title:      "正方形数组的数目"
 date:       2018-09-23 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Graph, Math, Backtracking]
-permalink:  /number-of-squareful-arrays/
+permalink:  /problems/number-of-squareful-arrays/
 ---
 
 ## 996. 正方形数组的数目 (Hard)
@@ -48,7 +48,7 @@ permalink:  /number-of-squareful-arrays/
   [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
 
 ### 相似题目
-  1. [全排列 II](/permutations-ii) (Medium)
+  1. [全排列 II](/problems/permutations-ii) (Medium)
 
 ---
 

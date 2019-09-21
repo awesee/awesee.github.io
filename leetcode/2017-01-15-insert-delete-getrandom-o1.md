@@ -4,7 +4,7 @@ title:      "常数时间插入、删除和获取随机元素"
 date:       2017-01-15 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Design, Array, Hash Table]
-permalink:  /insert-delete-getrandom-o1/
+permalink:  /problems/insert-delete-getrandom-o1/
 ---
 
 ## 380. 常数时间插入、删除和获取随机元素 (Medium)
@@ -55,7 +55,7 @@ randomSet.getRandom();
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
 
 ### 相似题目
-  1. [O(1) 时间插入、删除和获取随机元素 - 允许重复](/insert-delete-getrandom-o1-duplicates-allowed) (Hard)
+  1. [O(1) 时间插入、删除和获取随机元素 - 允许重复](/problems/insert-delete-getrandom-o1-duplicates-allowed) (Hard)
 
 ---
 

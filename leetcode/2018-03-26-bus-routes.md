@@ -4,7 +4,7 @@ title:      "公交路线"
 date:       2018-03-26 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Breadth-first Search]
-permalink:  /bus-routes/
+permalink:  /problems/bus-routes/
 ---
 
 ## 815. 公交路线 (Hard)

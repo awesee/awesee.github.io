@@ -4,7 +4,7 @@ title:      "找到所有数组中消失的数字"
 date:       2017-03-24 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array]
-permalink:  /find-all-numbers-disappeared-in-an-array/
+permalink:  /problems/find-all-numbers-disappeared-in-an-array/
 ---
 
 ## 448. 找到所有数组中消失的数字 (Easy)
@@ -33,8 +33,8 @@ permalink:  /find-all-numbers-disappeared-in-an-array/
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 
 ### 相似题目
-  1. [缺失的第一个正数](/first-missing-positive) (Hard)
-  1. [数组中重复的数据](/find-all-duplicates-in-an-array) (Medium)
+  1. [缺失的第一个正数](/problems/first-missing-positive) (Hard)
+  1. [数组中重复的数据](/problems/find-all-duplicates-in-an-array) (Medium)
 
 ---
 

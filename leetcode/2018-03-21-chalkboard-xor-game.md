@@ -4,7 +4,7 @@ title:      "黑板异或游戏"
 date:       2018-03-21 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Math]
-permalink:  /chalkboard-xor-game/
+permalink:  /problems/chalkboard-xor-game/
 ---
 
 ## 810. 黑板异或游戏 (Hard)

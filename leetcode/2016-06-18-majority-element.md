@@ -4,7 +4,7 @@ title:      "求众数"
 date:       2016-06-18 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Bit Manipulation, Array, Divide and Conquer]
-permalink:  /majority-element/
+permalink:  /problems/majority-element/
 ---
 
 ## 169. 求众数 (Easy)
@@ -34,7 +34,8 @@ permalink:  /majority-element/
   [[分治算法](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]
 
 ### 相似题目
-  1. [求众数 II](/majority-element-ii) (Medium)
+  1. [求众数 II](/problems/majority-element-ii) (Medium)
+  1. [检查一个数是否在数组中占绝大多数](/problems/check-if-a-number-is-majority-element-in-a-sorted-array) (Easy)
 
 ---
 

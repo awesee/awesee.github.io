@@ -4,7 +4,7 @@ title:      "大样本统计"
 date:       2018-12-29 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Math, Two Pointers]
-permalink:  /statistics-from-a-large-sample/
+permalink:  /problems/statistics-from-a-large-sample/
 ---
 
 ## 1093. 大样本统计 (Medium)

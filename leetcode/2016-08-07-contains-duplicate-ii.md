@@ -4,7 +4,7 @@ title:      "存在重复元素 II"
 date:       2016-08-07 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array, Hash Table]
-permalink:  /contains-duplicate-ii/
+permalink:  /problems/contains-duplicate-ii/
 ---
 
 ## 219. 存在重复元素 II (Easy)
@@ -35,8 +35,8 @@ permalink:  /contains-duplicate-ii/
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
 
 ### 相似题目
-  1. [存在重复元素](/contains-duplicate) (Easy)
-  1. [存在重复元素 III](/contains-duplicate-iii) (Medium)
+  1. [存在重复元素](/problems/contains-duplicate) (Easy)
+  1. [存在重复元素 III](/problems/contains-duplicate-iii) (Medium)
 
 ---
 

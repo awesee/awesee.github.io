@@ -4,7 +4,7 @@ title:      "加油站"
 date:       2016-05-14 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Greedy]
-permalink:  /gas-station/
+permalink:  /problems/gas-station/
 ---
 
 ## 134. 加油站 (Medium)

@@ -4,7 +4,7 @@ title:      "活字印刷"
 date:       2018-12-15 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Backtracking]
-permalink:  /letter-tile-possibilities/
+permalink:  /problems/letter-tile-possibilities/
 ---
 
 ## 1079. 活字印刷 (Medium)

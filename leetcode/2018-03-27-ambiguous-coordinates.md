@@ -4,7 +4,7 @@ title:      "模糊坐标"
 date:       2018-03-27 21:30:00 +0800
 categories: [Leetcode]
 tags:       [String]
-permalink:  /ambiguous-coordinates/
+permalink:  /problems/ambiguous-coordinates/
 ---
 
 ## 816. 模糊坐标 (Medium)

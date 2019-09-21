@@ -4,7 +4,7 @@ title:      "比较版本号"
 date:       2016-06-14 21:30:00 +0800
 categories: [Leetcode]
 tags:       [String]
-permalink:  /compare-version-numbers/
+permalink:  /problems/compare-version-numbers/
 ---
 
 ## 165. 比较版本号 (Medium)

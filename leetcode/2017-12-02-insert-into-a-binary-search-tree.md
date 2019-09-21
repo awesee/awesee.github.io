@@ -4,7 +4,7 @@ title:      "二叉搜索树中的插入操作"
 date:       2017-12-02 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Tree]
-permalink:  /insert-into-a-binary-search-tree/
+permalink:  /problems/insert-into-a-binary-search-tree/
 ---
 
 ## 701. 二叉搜索树中的插入操作 (Medium)
@@ -57,7 +57,7 @@ permalink:  /insert-into-a-binary-search-tree/
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
 
 ### 相似题目
-  1. [二叉搜索树中的搜索](/search-in-a-binary-search-tree) (Easy)
+  1. [二叉搜索树中的搜索](/problems/search-in-a-binary-search-tree) (Easy)
 
 ---
 

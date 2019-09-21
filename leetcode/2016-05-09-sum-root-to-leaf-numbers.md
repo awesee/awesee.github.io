@@ -4,7 +4,7 @@ title:      "求根到叶子节点数字之和"
 date:       2016-05-09 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Tree, Depth-first Search]
-permalink:  /sum-root-to-leaf-numbers/
+permalink:  /problems/sum-root-to-leaf-numbers/
 ---
 
 ## 129. 求根到叶子节点数字之和 (Medium)
@@ -53,9 +53,9 @@ permalink:  /sum-root-to-leaf-numbers/
   [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
 
 ### 相似题目
-  1. [路径总和](/path-sum) (Easy)
-  1. [二叉树中的最大路径和](/binary-tree-maximum-path-sum) (Hard)
-  1. [从叶结点开始的最小字符串](/smallest-string-starting-from-leaf) (Medium)
+  1. [路径总和](/problems/path-sum) (Easy)
+  1. [二叉树中的最大路径和](/problems/binary-tree-maximum-path-sum) (Hard)
+  1. [从叶结点开始的最小字符串](/problems/smallest-string-starting-from-leaf) (Medium)
 
 ---
 

@@ -4,7 +4,7 @@ title:      "所有可能的路径"
 date:       2018-03-08 21:30:00 +0800
 categories: [Leetcode]
 tags:       []
-permalink:  /all-paths-from-source-to-target/
+permalink:  /problems/all-paths-from-source-to-target/
 ---
 
 ## 797. 所有可能的路径 (Medium)

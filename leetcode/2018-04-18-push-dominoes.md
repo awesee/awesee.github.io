@@ -4,7 +4,7 @@ title:      "推多米诺"
 date:       2018-04-18 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Two Pointers, Dynamic Programming]
-permalink:  /push-dominoes/
+permalink:  /problems/push-dominoes/
 ---
 
 ## 838. 推多米诺 (Medium)

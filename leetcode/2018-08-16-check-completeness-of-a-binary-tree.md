@@ -4,7 +4,7 @@ title:      "二叉树的完全性检验"
 date:       2018-08-16 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Tree]
-permalink:  /check-completeness-of-a-binary-tree/
+permalink:  /problems/check-completeness-of-a-binary-tree/
 ---
 
 ## 958. 二叉树的完全性检验 (Medium)

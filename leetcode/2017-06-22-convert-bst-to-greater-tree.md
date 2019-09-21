@@ -4,7 +4,7 @@ title:      "把二叉搜索树转换为累加树"
 date:       2017-06-22 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Tree]
-permalink:  /convert-bst-to-greater-tree/
+permalink:  /problems/convert-bst-to-greater-tree/
 ---
 
 ## 538. 把二叉搜索树转换为累加树 (Easy)

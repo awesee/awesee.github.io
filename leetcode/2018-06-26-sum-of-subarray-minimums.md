@@ -4,7 +4,7 @@ title:      "子数组的最小值之和"
 date:       2018-06-26 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Stack, Array]
-permalink:  /sum-of-subarray-minimums/
+permalink:  /problems/sum-of-subarray-minimums/
 ---
 
 ## 907. 子数组的最小值之和 (Medium)

@@ -4,7 +4,7 @@ title:      "N叉树的最大深度"
 date:       2017-07-13 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Tree, Depth-first Search, Breadth-first Search]
-permalink:  /maximum-depth-of-n-ary-tree/
+permalink:  /problems/maximum-depth-of-n-ary-tree/
 ---
 
 ## 559. N叉树的最大深度 (Easy)
@@ -40,7 +40,7 @@ permalink:  /maximum-depth-of-n-ary-tree/
   [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
 
 ### 相似题目
-  1. [二叉树的最大深度](/maximum-depth-of-binary-tree) (Easy)
+  1. [二叉树的最大深度](/problems/maximum-depth-of-binary-tree) (Easy)
 
 ---
 

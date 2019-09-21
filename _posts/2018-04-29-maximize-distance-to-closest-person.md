@@ -4,7 +4,7 @@ title:      "到最近的人的最大距离"
 date:       2018-04-29 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array]
-permalink:  /maximize-distance-to-closest-person/
+permalink:  /problems/maximize-distance-to-closest-person/
 ---
 
 ## 849. 到最近的人的最大距离 (Easy)
@@ -51,7 +51,7 @@ permalink:  /maximize-distance-to-closest-person/
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 
 ### 相似题目
-  1. [考场就座](/exam-room) (Medium)
+  1. [考场就座](/problems/exam-room) (Medium)
 
 ---
 

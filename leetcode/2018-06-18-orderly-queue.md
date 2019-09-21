@@ -4,7 +4,7 @@ title:      "有序队列"
 date:       2018-06-18 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Math, String]
-permalink:  /orderly-queue/
+permalink:  /problems/orderly-queue/
 ---
 
 ## 899. 有序队列 (Hard)

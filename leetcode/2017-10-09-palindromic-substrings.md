@@ -4,7 +4,7 @@ title:      "回文子串"
 date:       2017-10-09 21:30:00 +0800
 categories: [Leetcode]
 tags:       [String, Dynamic Programming]
-permalink:  /palindromic-substrings/
+permalink:  /problems/palindromic-substrings/
 ---
 
 ## 647. 回文子串 (Medium)
@@ -44,9 +44,9 @@ permalink:  /palindromic-substrings/
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### 相似题目
-  1. [最长回文子串](/longest-palindromic-substring) (Medium)
-  1. [最长回文子序列](/longest-palindromic-subsequence) (Medium)
-  1. [回文子串](/palindromic-substrings) (Medium)
+  1. [最长回文子串](/problems/longest-palindromic-substring) (Medium)
+  1. [最长回文子序列](/problems/longest-palindromic-subsequence) (Medium)
+  1. [回文子串](/problems/palindromic-substrings) (Medium)
 
 ---
 

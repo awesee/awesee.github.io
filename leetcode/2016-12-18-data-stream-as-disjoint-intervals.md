@@ -4,7 +4,7 @@ title:      "将数据流变为多个不相交区间"
 date:       2016-12-18 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Binary Search, Ordered Map]
-permalink:  /data-stream-as-disjoint-intervals/
+permalink:  /problems/data-stream-as-disjoint-intervals/
 ---
 
 ## 352. 将数据流变为多个不相交区间 (Hard)
@@ -37,9 +37,9 @@ permalink:  /data-stream-as-disjoint-intervals/
   [[Ordered Map](https://github.com/openset/leetcode/tree/master/tag/ordered-map/README.md)]
 
 ### 相似题目
-  1. [汇总区间](/summary-ranges) (Medium)
-  1. [寻找右区间](/find-right-interval) (Medium)
-  1. [Range 模块](/range-module) (Hard)
+  1. [汇总区间](/problems/summary-ranges) (Medium)
+  1. [寻找右区间](/problems/find-right-interval) (Medium)
+  1. [Range 模块](/problems/range-module) (Hard)
 
 ---
 

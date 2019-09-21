@@ -4,7 +4,7 @@ title:      "漂亮数组"
 date:       2018-07-21 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Divide and Conquer]
-permalink:  /beautiful-array/
+permalink:  /problems/beautiful-array/
 ---
 
 ## 932. 漂亮数组 (Medium)

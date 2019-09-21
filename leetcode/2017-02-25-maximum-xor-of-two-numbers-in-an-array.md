@@ -4,7 +4,7 @@ title:      "数组中两个数的最大异或值"
 date:       2017-02-25 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Bit Manipulation, Trie]
-permalink:  /maximum-xor-of-two-numbers-in-an-array/
+permalink:  /problems/maximum-xor-of-two-numbers-in-an-array/
 ---
 
 ## 421. 数组中两个数的最大异或值 (Medium)

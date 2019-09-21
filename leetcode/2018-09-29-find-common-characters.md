@@ -4,7 +4,7 @@ title:      "查找常用字符"
 date:       2018-09-29 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array, Hash Table]
-permalink:  /find-common-characters/
+permalink:  /problems/find-common-characters/
 ---
 
 ## 1002. 查找常用字符 (Easy)
@@ -46,7 +46,7 @@ permalink:  /find-common-characters/
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
 
 ### 相似题目
-  1. [两个数组的交集 II](/intersection-of-two-arrays-ii) (Easy)
+  1. [两个数组的交集 II](/problems/intersection-of-two-arrays-ii) (Easy)
 
 ---
 

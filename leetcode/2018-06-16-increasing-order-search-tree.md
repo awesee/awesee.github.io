@@ -4,7 +4,7 @@ title:      "递增顺序查找树"
 date:       2018-06-16 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Tree, Depth-first Search]
-permalink:  /increasing-order-search-tree/
+permalink:  /problems/increasing-order-search-tree/
 ---
 
 ## 897. 递增顺序查找树 (Easy)

@@ -4,7 +4,7 @@ title:      "优势洗牌"
 date:       2018-05-20 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Greedy, Array]
-permalink:  /advantage-shuffle/
+permalink:  /problems/advantage-shuffle/
 ---
 
 ## 870. 优势洗牌 (Medium)

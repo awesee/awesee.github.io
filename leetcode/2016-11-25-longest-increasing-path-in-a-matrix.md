@@ -4,7 +4,7 @@ title:      "矩阵中的最长递增路径"
 date:       2016-11-25 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Depth-first Search, Topological Sort, Memoization]
-permalink:  /longest-increasing-path-in-a-matrix/
+permalink:  /problems/longest-increasing-path-in-a-matrix/
 ---
 
 ## 329. 矩阵中的最长递增路径 (Hard)

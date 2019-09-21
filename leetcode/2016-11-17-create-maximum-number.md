@@ -4,7 +4,7 @@ title:      "拼接最大数"
 date:       2016-11-17 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Greedy, Dynamic Programming]
-permalink:  /create-maximum-number/
+permalink:  /problems/create-maximum-number/
 ---
 
 ## 321. 拼接最大数 (Hard)
@@ -51,8 +51,8 @@ k = <code>3</code>
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### 相似题目
-  1. [移掉K位数字](/remove-k-digits) (Medium)
-  1. [最大交换](/maximum-swap) (Medium)
+  1. [移掉K位数字](/problems/remove-k-digits) (Medium)
+  1. [最大交换](/problems/maximum-swap) (Medium)
 
 ---
 

@@ -4,7 +4,7 @@ title:      "随机翻转矩阵"
 date:       2017-06-03 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Random]
-permalink:  /random-flip-matrix/
+permalink:  /problems/random-flip-matrix/
 ---
 
 ## 519. 随机翻转矩阵 (Medium)

@@ -4,7 +4,7 @@ title:      "为高尔夫比赛砍树"
 date:       2017-11-06 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Breadth-first Search]
-permalink:  /cut-off-trees-for-golf-event/
+permalink:  /problems/cut-off-trees-for-golf-event/
 ---
 
 ## 675. 为高尔夫比赛砍树 (Hard)

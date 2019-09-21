@@ -4,7 +4,7 @@ title:      "买卖股票的最佳时机含手续费"
 date:       2017-12-15 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Greedy, Array, Dynamic Programming]
-permalink:  /best-time-to-buy-and-sell-stock-with-transaction-fee/
+permalink:  /problems/best-time-to-buy-and-sell-stock-with-transaction-fee/
 ---
 
 ## 714. 买卖股票的最佳时机含手续费 (Medium)
@@ -44,7 +44,7 @@ permalink:  /best-time-to-buy-and-sell-stock-with-transaction-fee/
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### 相似题目
-  1. [买卖股票的最佳时机 II](/best-time-to-buy-and-sell-stock-ii) (Easy)
+  1. [买卖股票的最佳时机 II](/problems/best-time-to-buy-and-sell-stock-ii) (Easy)
 
 ---
 

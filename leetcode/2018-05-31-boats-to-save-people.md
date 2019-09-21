@@ -4,7 +4,7 @@ title:      "救生艇"
 date:       2018-05-31 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Greedy, Two Pointers]
-permalink:  /boats-to-save-people/
+permalink:  /problems/boats-to-save-people/
 ---
 
 ## 881. 救生艇 (Medium)

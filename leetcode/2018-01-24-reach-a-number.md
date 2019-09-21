@@ -4,7 +4,7 @@ title:      "到达终点数字"
 date:       2018-01-24 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Math]
-permalink:  /reach-a-number/
+permalink:  /problems/reach-a-number/
 ---
 
 ## 754. 到达终点数字 (Easy)

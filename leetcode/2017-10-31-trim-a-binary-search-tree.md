@@ -4,7 +4,7 @@ title:      "修剪二叉搜索树"
 date:       2017-10-31 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Tree]
-permalink:  /trim-a-binary-search-tree/
+permalink:  /problems/trim-a-binary-search-tree/
 ---
 
 ## 669. 修剪二叉搜索树 (Easy)

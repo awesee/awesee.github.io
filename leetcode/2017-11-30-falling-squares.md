@@ -4,7 +4,7 @@ title:      "掉落的方块"
 date:       2017-11-30 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Segment Tree, Ordered Map]
-permalink:  /falling-squares/
+permalink:  /problems/falling-squares/
 ---
 
 ## 699. 掉落的方块 (Hard)
@@ -89,7 +89,7 @@ _aa___a
   [[Ordered Map](https://github.com/openset/leetcode/tree/master/tag/ordered-map/README.md)]
 
 ### 相似题目
-  1. [天际线问题](/the-skyline-problem) (Hard)
+  1. [天际线问题](/problems/the-skyline-problem) (Hard)
 
 ---
 

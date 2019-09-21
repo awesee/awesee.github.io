@@ -4,7 +4,7 @@ title:      "我的日程安排表 III"
 date:       2018-01-02 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Segment Tree, Ordered Map]
-permalink:  /my-calendar-iii/
+permalink:  /problems/my-calendar-iii/
 ---
 
 ## 732. 我的日程安排表 III (Hard)
@@ -52,8 +52,8 @@ MyCalendarThree.book(25, 55); // returns 3
   [[Ordered Map](https://github.com/openset/leetcode/tree/master/tag/ordered-map/README.md)]
 
 ### 相似题目
-  1. [我的日程安排表 I](/my-calendar-i) (Medium)
-  1. [我的日程安排表 II](/my-calendar-ii) (Medium)
+  1. [我的日程安排表 I](/problems/my-calendar-i) (Medium)
+  1. [我的日程安排表 II](/problems/my-calendar-ii) (Medium)
 
 ---
 

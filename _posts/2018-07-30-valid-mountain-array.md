@@ -4,7 +4,7 @@ title:      "有效的山脉数组"
 date:       2018-07-30 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array]
-permalink:  /valid-mountain-array/
+permalink:  /problems/valid-mountain-array/
 ---
 
 ## 941. 有效的山脉数组 (Easy)

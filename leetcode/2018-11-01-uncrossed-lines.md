@@ -4,7 +4,7 @@ title:      "不相交的线"
 date:       2018-11-01 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array]
-permalink:  /uncrossed-lines/
+permalink:  /problems/uncrossed-lines/
 ---
 
 ## 1035. 不相交的线 (Medium)
@@ -58,7 +58,7 @@ permalink:  /uncrossed-lines/
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 
 ### 相似题目
-  1. [编辑距离](/edit-distance) (Hard)
+  1. [编辑距离](/problems/edit-distance) (Hard)
 
 ---
 

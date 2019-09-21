@@ -4,7 +4,7 @@ title:      "相对名次"
 date:       2017-05-21 21:30:00 +0800
 categories: [Leetcode]
 tags:       []
-permalink:  /relative-ranks/
+permalink:  /problems/relative-ranks/
 ---
 
 ## 506. 相对名次 (Easy)

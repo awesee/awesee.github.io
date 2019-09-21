@@ -4,7 +4,7 @@ title:      "文本左右对齐"
 date:       2016-03-09 21:30:00 +0800
 categories: [Leetcode]
 tags:       [String]
-permalink:  /text-justification/
+permalink:  /problems/text-justification/
 ---
 
 ## 68. 文本左右对齐 (Hard)

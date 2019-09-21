@@ -4,10 +4,12 @@ title:      "恢复二叉搜索树"
 date:       2016-04-09 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Tree, Depth-first Search]
-permalink:  /recover-binary-search-tree/
+permalink:  /problems/recover-binary-search-tree/
 ---
 
 ## 99. 恢复二叉搜索树 (Hard)
+
+{% raw %}
 
 <p>二叉搜索树中的两个节点被错误地交换。</p>
 
@@ -56,6 +58,8 @@ permalink:  /recover-binary-search-tree/
 	<li>使用 O(<em>n</em>) 空间复杂度的解法很容易实现。</li>
 	<li>你能想出一个只使用常数空间的解决方案吗？</li>
 </ul>
+
+{% endraw %}
 
 ### 相关话题
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]

@@ -4,7 +4,7 @@ title:      "字符串转换整数 (atoi)"
 date:       2016-01-09 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Math, String]
-permalink:  /string-to-integer-atoi/
+permalink:  /problems/string-to-integer-atoi/
 ---
 
 ## 8. 字符串转换整数 (atoi) (Medium)
@@ -25,7 +25,7 @@ permalink:  /string-to-integer-atoi/
 
 <p><strong>说明：</strong></p>
 
-<p>假设我们的环境只能存储 32 位大小的有符号整数，那么其数值范围为&nbsp;[&minus;2<sup>31</sup>,&nbsp; 2<sup>31&nbsp;</sup>&minus; 1]。如果数值超过这个范围，qing返回 &nbsp;INT_MAX (2<sup>31&nbsp;</sup>&minus; 1) 或&nbsp;INT_MIN (&minus;2<sup>31</sup>) 。</p>
+<p>假设我们的环境只能存储 32 位大小的有符号整数，那么其数值范围为&nbsp;[&minus;2<sup>31</sup>,&nbsp; 2<sup>31&nbsp;</sup>&minus; 1]。如果数值超过这个范围，请返回 &nbsp;INT_MAX (2<sup>31&nbsp;</sup>&minus; 1) 或&nbsp;INT_MIN (&minus;2<sup>31</sup>) 。</p>
 
 <p><strong>示例&nbsp;1:</strong></p>
 
@@ -70,8 +70,8 @@ permalink:  /string-to-integer-atoi/
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ### 相似题目
-  1. [整数反转](/reverse-integer) (Easy)
-  1. [有效数字](/valid-number) (Hard)
+  1. [整数反转](/problems/reverse-integer) (Easy)
+  1. [有效数字](/problems/valid-number) (Hard)
 
 ---
 

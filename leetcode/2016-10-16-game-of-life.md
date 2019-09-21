@@ -4,7 +4,7 @@ title:      "生命游戏"
 date:       2016-10-16 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array]
-permalink:  /game-of-life/
+permalink:  /problems/game-of-life/
 ---
 
 ## 289. 生命游戏 (Medium)
@@ -54,7 +54,7 @@ permalink:  /game-of-life/
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 
 ### 相似题目
-  1. [矩阵置零](/set-matrix-zeroes) (Medium)
+  1. [矩阵置零](/problems/set-matrix-zeroes) (Medium)
 
 ---
 

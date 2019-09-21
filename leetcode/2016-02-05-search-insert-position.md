@@ -4,7 +4,7 @@ title:      "搜索插入位置"
 date:       2016-02-05 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array, Binary Search]
-permalink:  /search-insert-position/
+permalink:  /problems/search-insert-position/
 ---
 
 ## 35. 搜索插入位置 (Easy)
@@ -46,7 +46,7 @@ permalink:  /search-insert-position/
   [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
 
 ### 相似题目
-  1. [第一个错误的版本](/first-bad-version) (Easy)
+  1. [第一个错误的版本](/problems/first-bad-version) (Easy)
 
 ---
 

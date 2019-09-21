@@ -4,7 +4,7 @@ title:      "根据二叉树创建字符串"
 date:       2017-08-29 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Tree, String]
-permalink:  /construct-string-from-binary-tree/
+permalink:  /problems/construct-string-from-binary-tree/
 ---
 
 ## 606. 根据二叉树创建字符串 (Easy)
@@ -55,8 +55,8 @@ permalink:  /construct-string-from-binary-tree/
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ### 相似题目
-  1. [从字符串生成二叉树](/construct-binary-tree-from-string) (Medium)
-  1. [寻找重复的子树](/find-duplicate-subtrees) (Medium)
+  1. [从字符串生成二叉树](/problems/construct-binary-tree-from-string) (Medium)
+  1. [寻找重复的子树](/problems/find-duplicate-subtrees) (Medium)
 
 ---
 

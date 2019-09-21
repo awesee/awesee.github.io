@@ -4,7 +4,7 @@ title:      "每日温度"
 date:       2018-01-09 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Stack, Hash Table]
-permalink:  /daily-temperatures/
+permalink:  /problems/daily-temperatures/
 ---
 
 ## 739. 每日温度 (Medium)
@@ -24,7 +24,7 @@ permalink:  /daily-temperatures/
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
 
 ### 相似题目
-  1. [下一个更大元素 I](/next-greater-element-i) (Easy)
+  1. [下一个更大元素 I](/problems/next-greater-element-i) (Easy)
 
 ---
 

@@ -4,7 +4,7 @@ title:      "多边形三角剖分的最低得分"
 date:       2018-11-05 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Dynamic Programming]
-permalink:  /minimum-score-triangulation-of-polygon/
+permalink:  /problems/minimum-score-triangulation-of-polygon/
 ---
 
 ## 1039. 多边形三角剖分的最低得分 (Medium)

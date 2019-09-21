@@ -4,7 +4,7 @@ title:      "多米诺和托米诺平铺"
 date:       2018-03-01 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Dynamic Programming]
-permalink:  /domino-and-tromino-tiling/
+permalink:  /problems/domino-and-tromino-tiling/
 ---
 
 ## 790. 多米诺和托米诺平铺 (Medium)

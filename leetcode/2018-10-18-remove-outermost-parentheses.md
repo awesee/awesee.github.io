@@ -4,7 +4,7 @@ title:      "删除最外层的括号"
 date:       2018-10-18 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Stack]
-permalink:  /remove-outermost-parentheses/
+permalink:  /problems/remove-outermost-parentheses/
 ---
 
 ## 1021. 删除最外层的括号 (Easy)

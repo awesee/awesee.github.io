@@ -4,7 +4,7 @@ title:      "字母异位词分组"
 date:       2016-02-19 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Hash Table, String]
-permalink:  /group-anagrams/
+permalink:  /problems/group-anagrams/
 ---
 
 ## 49. 字母异位词分组 (Medium)
@@ -37,8 +37,8 @@ permalink:  /group-anagrams/
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ### 相似题目
-  1. [有效的字母异位词](/valid-anagram) (Easy)
-  1. [移位字符串分组](/group-shifted-strings) (Medium)
+  1. [有效的字母异位词](/problems/valid-anagram) (Easy)
+  1. [移位字符串分组](/problems/group-shifted-strings) (Medium)
 
 ---
 

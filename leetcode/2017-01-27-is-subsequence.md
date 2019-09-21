@@ -4,10 +4,10 @@ title:      "判断子序列"
 date:       2017-01-27 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Greedy, Binary Search, Dynamic Programming]
-permalink:  /is-subsequence/
+permalink:  /problems/is-subsequence/
 ---
 
-## 392. 判断子序列 (Medium)
+## 392. 判断子序列 (Easy)
 
 {% raw %}
 
@@ -43,8 +43,8 @@ permalink:  /is-subsequence/
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### 相似题目
-  1. [匹配子序列的单词数](/number-of-matching-subsequences) (Medium)
-  1. [形成字符串的最短路径](/shortest-way-to-form-string) (Medium)
+  1. [匹配子序列的单词数](/problems/number-of-matching-subsequences) (Medium)
+  1. [形成字符串的最短路径](/problems/shortest-way-to-form-string) (Medium)
 
 ---
 

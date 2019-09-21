@@ -4,7 +4,7 @@ title:      "同构字符串"
 date:       2016-07-24 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Hash Table]
-permalink:  /isomorphic-strings/
+permalink:  /problems/isomorphic-strings/
 ---
 
 ## 205. 同构字符串 (Easy)
@@ -42,7 +42,7 @@ permalink:  /isomorphic-strings/
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
 
 ### 相似题目
-  1. [单词规律](/word-pattern) (Easy)
+  1. [单词规律](/problems/word-pattern) (Easy)
 
 ---
 

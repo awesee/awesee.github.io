@@ -4,7 +4,7 @@ title:      "4的幂"
 date:       2016-12-08 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Bit Manipulation]
-permalink:  /power-of-four/
+permalink:  /problems/power-of-four/
 ---
 
 ## 342. 4的幂 (Easy)
@@ -33,8 +33,8 @@ permalink:  /power-of-four/
   [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
 
 ### 相似题目
-  1. [2的幂](/power-of-two) (Easy)
-  1. [3的幂](/power-of-three) (Easy)
+  1. [2的幂](/problems/power-of-two) (Easy)
+  1. [3的幂](/problems/power-of-three) (Easy)
 
 ---
 

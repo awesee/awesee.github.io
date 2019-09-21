@@ -4,7 +4,7 @@ title:      "交替位二进制数"
 date:       2017-11-24 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Bit Manipulation]
-permalink:  /binary-number-with-alternating-bits/
+permalink:  /problems/binary-number-with-alternating-bits/
 ---
 
 ## 693. 交替位二进制数 (Easy)
@@ -55,7 +55,7 @@ permalink:  /binary-number-with-alternating-bits/
   [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
 
 ### 相似题目
-  1. [位1的个数](/number-of-1-bits) (Easy)
+  1. [位1的个数](/problems/number-of-1-bits) (Easy)
 
 ---
 

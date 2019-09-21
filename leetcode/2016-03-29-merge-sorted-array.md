@@ -4,10 +4,12 @@ title:      "合并两个有序数组"
 date:       2016-03-29 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array, Two Pointers]
-permalink:  /merge-sorted-array/
+permalink:  /problems/merge-sorted-array/
 ---
 
 ## 88. 合并两个有序数组 (Easy)
+
+{% raw %}
 
 <p>给定两个有序整数数组&nbsp;<em>nums1 </em>和 <em>nums2</em>，将 <em>nums2 </em>合并到&nbsp;<em>nums1&nbsp;</em>中<em>，</em>使得&nbsp;<em>num1 </em>成为一个有序数组。</p>
 
@@ -26,14 +28,16 @@ nums2 = [2,5,6],       n = 3
 
 <strong>输出:</strong>&nbsp;[1,2,2,3,5,6]</pre>
 
+{% endraw %}
+
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
 
 ### 相似题目
-  1. [合并两个有序链表](/merge-two-sorted-lists) (Easy)
-  1. [有序数组的平方](/squares-of-a-sorted-array) (Easy)
-  1. [区间列表的交集](/interval-list-intersections) (Medium)
+  1. [合并两个有序链表](/problems/merge-two-sorted-lists) (Easy)
+  1. [有序数组的平方](/problems/squares-of-a-sorted-array) (Easy)
+  1. [区间列表的交集](/problems/interval-list-intersections) (Medium)
 
 ---
 
