@@ -4,7 +4,7 @@ title:      "基本计算器"
 date:       2016-08-12 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Stack, Math]
-permalink:  /basic-calculator/
+permalink:  /problems/basic-calculator/
 ---
 
 ## 224. 基本计算器 (Hard)
@@ -45,11 +45,11 @@ permalink:  /basic-calculator/
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
 
 ### 相似题目
-  1. [逆波兰表达式求值](/evaluate-reverse-polish-notation) (Medium)
-  1. [基本计算器 II](/basic-calculator-ii) (Medium)
-  1. [为运算表达式设计优先级](/different-ways-to-add-parentheses) (Medium)
-  1. [给表达式添加运算符](/expression-add-operators) (Hard)
-  1. [基本计算器 III](/basic-calculator-iii) (Hard)
+  1. [逆波兰表达式求值](/problems/evaluate-reverse-polish-notation) (Medium)
+  1. [基本计算器 II](/problems/basic-calculator-ii) (Medium)
+  1. [为运算表达式设计优先级](/problems/different-ways-to-add-parentheses) (Medium)
+  1. [给表达式添加运算符](/problems/expression-add-operators) (Hard)
+  1. [基本计算器 III](/problems/basic-calculator-iii) (Hard)
 
 ---
 

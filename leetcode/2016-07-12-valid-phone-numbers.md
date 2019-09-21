@@ -4,7 +4,7 @@ title:      "有效电话号码"
 date:       2016-07-12 21:30:00 +0800
 categories: [Leetcode]
 tags:       []
-permalink:  /valid-phone-numbers/
+permalink:  /problems/valid-phone-numbers/
 ---
 
 ## 193. 有效电话号码 (Easy)

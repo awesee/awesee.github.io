@@ -4,7 +4,7 @@ title:      "分数到小数"
 date:       2016-06-15 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Hash Table, Math]
-permalink:  /fraction-to-recurring-decimal/
+permalink:  /problems/fraction-to-recurring-decimal/
 ---
 
 ## 166. 分数到小数 (Medium)

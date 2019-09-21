@@ -4,7 +4,7 @@ title:      "Excel表列序号"
 date:       2016-06-20 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Math]
-permalink:  /excel-sheet-column-number/
+permalink:  /problems/excel-sheet-column-number/
 ---
 
 ## 171. Excel表列序号 (Easy)
@@ -51,7 +51,7 @@ permalink:  /excel-sheet-column-number/
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
 
 ### 相似题目
-  1. [Excel表列名称](/excel-sheet-column-title) (Easy)
+  1. [Excel表列名称](/problems/excel-sheet-column-title) (Easy)
 
 ---
 

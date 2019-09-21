@@ -4,7 +4,7 @@ title:      "数组形式的整数加法"
 date:       2018-09-16 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array]
-permalink:  /add-to-array-form-of-integer/
+permalink:  /problems/add-to-array-form-of-integer/
 ---
 
 ## 989. 数组形式的整数加法 (Easy)
@@ -65,10 +65,10 @@ permalink:  /add-to-array-form-of-integer/
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 
 ### 相似题目
-  1. [两数相加](/add-two-numbers) (Medium)
-  1. [加一](/plus-one) (Easy)
-  1. [二进制求和](/add-binary) (Easy)
-  1. [字符串相加](/add-strings) (Easy)
+  1. [两数相加](/problems/add-two-numbers) (Medium)
+  1. [加一](/problems/plus-one) (Easy)
+  1. [二进制求和](/problems/add-binary) (Easy)
+  1. [字符串相加](/problems/add-strings) (Easy)
 
 ---
 

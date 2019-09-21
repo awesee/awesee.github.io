@@ -4,7 +4,7 @@ title:      "行程和用户"
 date:       2016-09-19 21:30:00 +0800
 categories: [Leetcode]
 tags:       []
-permalink:  /trips-and-users/
+permalink:  /problems/trips-and-users/
 ---
 
 ## 262. 行程和用户 (Hard)

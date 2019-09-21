@@ -4,7 +4,7 @@ title:      "分割回文串"
 date:       2016-05-11 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Backtracking]
-permalink:  /palindrome-partitioning/
+permalink:  /problems/palindrome-partitioning/
 ---
 
 ## 131. 分割回文串 (Medium)
@@ -30,7 +30,7 @@ permalink:  /palindrome-partitioning/
   [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
 
 ### 相似题目
-  1. [分割回文串 II](/palindrome-partitioning-ii) (Hard)
+  1. [分割回文串 II](/problems/palindrome-partitioning-ii) (Hard)
 
 ---
 

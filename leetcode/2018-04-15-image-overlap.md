@@ -4,7 +4,7 @@ title:      "图像重叠"
 date:       2018-04-15 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array]
-permalink:  /image-overlap/
+permalink:  /problems/image-overlap/
 ---
 
 ## 835. 图像重叠 (Medium)

@@ -4,7 +4,7 @@ title:      "优美的排列"
 date:       2017-06-10 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Backtracking]
-permalink:  /beautiful-arrangement/
+permalink:  /problems/beautiful-arrangement/
 ---
 
 ## 526. 优美的排列 (Medium)
@@ -48,7 +48,7 @@ permalink:  /beautiful-arrangement/
   [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
 
 ### 相似题目
-  1. [优美的排列 II](/beautiful-arrangement-ii) (Medium)
+  1. [优美的排列 II](/problems/beautiful-arrangement-ii) (Medium)
 
 ---
 

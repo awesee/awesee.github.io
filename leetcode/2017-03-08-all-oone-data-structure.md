@@ -4,7 +4,7 @@ title:      "全 O(1) 的数据结构"
 date:       2017-03-08 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Design]
-permalink:  /all-oone-data-structure/
+permalink:  /problems/all-oone-data-structure/
 ---
 
 ## 432. 全 O(1) 的数据结构 (Hard)

@@ -4,7 +4,7 @@ title:      "数组的度"
 date:       2017-11-28 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array]
-permalink:  /degree-of-an-array/
+permalink:  /problems/degree-of-an-array/
 ---
 
 ## 697. 数组的度 (Easy)
@@ -47,7 +47,7 @@ permalink:  /degree-of-an-array/
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 
 ### 相似题目
-  1. [最大子序和](/maximum-subarray) (Easy)
+  1. [最大子序和](/problems/maximum-subarray) (Easy)
 
 ---
 

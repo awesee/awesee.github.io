@@ -4,7 +4,7 @@ title:      "寻找旋转排序数组中的最小值 II"
 date:       2016-06-03 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array, Binary Search]
-permalink:  /find-minimum-in-rotated-sorted-array-ii/
+permalink:  /problems/find-minimum-in-rotated-sorted-array-ii/
 ---
 
 ## 154. 寻找旋转排序数组中的最小值 II (Hard)
@@ -43,7 +43,7 @@ permalink:  /find-minimum-in-rotated-sorted-array-ii/
   [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
 
 ### 相似题目
-  1. [寻找旋转排序数组中的最小值](/find-minimum-in-rotated-sorted-array) (Medium)
+  1. [寻找旋转排序数组中的最小值](/problems/find-minimum-in-rotated-sorted-array) (Medium)
 
 ---
 

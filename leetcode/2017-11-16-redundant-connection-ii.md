@@ -4,7 +4,7 @@ title:      "冗余连接 II"
 date:       2017-11-16 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Tree, Depth-first Search, Union Find, Graph]
-permalink:  /redundant-connection-ii/
+permalink:  /problems/redundant-connection-ii/
 ---
 
 ## 685. 冗余连接 II (Hard)
@@ -59,7 +59,7 @@ v   v
   [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
 
 ### 相似题目
-  1. [冗余连接](/redundant-connection) (Medium)
+  1. [冗余连接](/problems/redundant-connection) (Medium)
 
 ---
 

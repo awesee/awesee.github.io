@@ -4,7 +4,7 @@ title:      "求解方程"
 date:       2017-10-02 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Math]
-permalink:  /solve-the-equation/
+permalink:  /problems/solve-the-equation/
 ---
 
 ## 640. 求解方程 (Medium)
@@ -55,7 +55,7 @@ permalink:  /solve-the-equation/
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
 
 ### 相似题目
-  1. [分数加减运算](/fraction-addition-and-subtraction) (Medium)
+  1. [分数加减运算](/problems/fraction-addition-and-subtraction) (Medium)
 
 ---
 

@@ -4,7 +4,7 @@ title:      "原子的数量"
 date:       2017-12-27 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Stack, Recursion, Hash Table]
-permalink:  /number-of-atoms/
+permalink:  /problems/number-of-atoms/
 ---
 
 ## 726. 原子的数量 (Hard)
@@ -69,9 +69,9 @@ formula = &quot;K4(ON(SO3)2)2&quot;
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
 
 ### 相似题目
-  1. [字符串解码](/decode-string) (Medium)
-  1. [编码最短长度的字符串](/encode-string-with-shortest-length) (Hard)
-  1. [Lisp 语法解析](/parse-lisp-expression) (Hard)
+  1. [字符串解码](/problems/decode-string) (Medium)
+  1. [编码最短长度的字符串](/problems/encode-string-with-shortest-length) (Hard)
+  1. [Lisp 语法解析](/problems/parse-lisp-expression) (Hard)
 
 ---
 

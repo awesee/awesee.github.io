@@ -4,7 +4,7 @@ title:      "复写零"
 date:       2018-12-25 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array]
-permalink:  /duplicate-zeros/
+permalink:  /problems/duplicate-zeros/
 ---
 
 ## 1089. 复写零 (Easy)

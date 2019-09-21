@@ -4,7 +4,7 @@ title:      "单词接龙 II"
 date:       2016-05-06 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Breadth-first Search, Array, String, Backtracking]
-permalink:  /word-ladder-ii/
+permalink:  /problems/word-ladder-ii/
 ---
 
 ## 126. 单词接龙 II (Hard)
@@ -62,7 +62,7 @@ wordList = [&quot;hot&quot;,&quot;dot&quot;,&quot;dog&quot;,&quot;lot&quot;,&quo
   [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
 
 ### 相似题目
-  1. [单词接龙](/word-ladder) (Medium)
+  1. [单词接龙](/problems/word-ladder) (Medium)
 
 ---
 

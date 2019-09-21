@@ -4,7 +4,7 @@ title:      "最小好进制"
 date:       2017-04-28 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Math, Binary Search]
-permalink:  /smallest-good-base/
+permalink:  /problems/smallest-good-base/
 ---
 
 ## 483. 最小好进制 (Hard)

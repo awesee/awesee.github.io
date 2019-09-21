@@ -4,7 +4,7 @@ title:      "排序数组"
 date:       2018-07-01 21:30:00 +0800
 categories: [Leetcode]
 tags:       []
-permalink:  /sort-an-array/
+permalink:  /problems/sort-an-array/
 ---
 
 ## 912. 排序数组 (Medium)

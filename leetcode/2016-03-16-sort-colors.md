@@ -4,7 +4,7 @@ title:      "颜色分类"
 date:       2016-03-16 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Sort, Array, Two Pointers]
-permalink:  /sort-colors/
+permalink:  /problems/sort-colors/
 ---
 
 ## 75. 颜色分类 (Medium)
@@ -39,9 +39,9 @@ permalink:  /sort-colors/
   [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
 
 ### 相似题目
-  1. [排序链表](/sort-list) (Medium)
-  1. [摆动排序](/wiggle-sort) (Medium)
-  1. [摆动排序 II](/wiggle-sort-ii) (Medium)
+  1. [排序链表](/problems/sort-list) (Medium)
+  1. [摆动排序](/problems/wiggle-sort) (Medium)
+  1. [摆动排序 II](/problems/wiggle-sort-ii) (Medium)
 
 ---
 

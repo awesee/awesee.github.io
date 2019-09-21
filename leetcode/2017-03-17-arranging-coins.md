@@ -4,7 +4,7 @@ title:      "排列硬币"
 date:       2017-03-17 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Math, Binary Search]
-permalink:  /arranging-coins/
+permalink:  /problems/arranging-coins/
 ---
 
 ## 441. 排列硬币 (Easy)

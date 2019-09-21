@@ -4,7 +4,7 @@ title:      "最长公共前缀"
 date:       2016-01-15 21:30:00 +0800
 categories: [Leetcode]
 tags:       [String]
-permalink:  /longest-common-prefix/
+permalink:  /problems/longest-common-prefix/
 ---
 
 ## 14. 最长公共前缀 (Easy)

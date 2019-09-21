@@ -4,7 +4,7 @@ title:      "验证外星语词典"
 date:       2018-08-11 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Hash Table]
-permalink:  /verifying-an-alien-dictionary/
+permalink:  /problems/verifying-an-alien-dictionary/
 ---
 
 ## 953. 验证外星语词典 (Easy)

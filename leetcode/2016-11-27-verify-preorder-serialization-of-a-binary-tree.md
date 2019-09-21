@@ -4,7 +4,7 @@ title:      "验证二叉树的前序序列化"
 date:       2016-11-27 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Stack]
-permalink:  /verify-preorder-serialization-of-a-binary-tree/
+permalink:  /problems/verify-preorder-serialization-of-a-binary-tree/
 ---
 
 ## 331. 验证二叉树的前序序列化 (Medium)

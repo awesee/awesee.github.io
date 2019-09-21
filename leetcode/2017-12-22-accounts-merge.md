@@ -4,7 +4,7 @@ title:      "账户合并"
 date:       2017-12-22 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Depth-first Search, Union Find]
-permalink:  /accounts-merge/
+permalink:  /problems/accounts-merge/
 ---
 
 ## 721. 账户合并 (Medium)
@@ -46,9 +46,9 @@ accounts = [[&quot;John&quot;, &quot;johnsmith@mail.com&quot;, &quot;john00@mail
   [[并查集](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)]
 
 ### 相似题目
-  1. [冗余连接](/redundant-connection) (Medium)
-  1. [句子相似性](/sentence-similarity) (Easy)
-  1. [句子相似性 II](/sentence-similarity-ii) (Medium)
+  1. [冗余连接](/problems/redundant-connection) (Medium)
+  1. [句子相似性](/problems/sentence-similarity) (Easy)
+  1. [句子相似性 II](/problems/sentence-similarity-ii) (Medium)
 
 ---
 

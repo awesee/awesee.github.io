@@ -4,7 +4,7 @@ title:      "分发饼干"
 date:       2017-03-31 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Greedy]
-permalink:  /assign-cookies/
+permalink:  /problems/assign-cookies/
 ---
 
 ## 455. 分发饼干 (Easy)

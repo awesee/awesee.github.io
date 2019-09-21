@@ -4,7 +4,7 @@ title:      "连续数组"
 date:       2017-06-09 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Hash Table]
-permalink:  /contiguous-array/
+permalink:  /problems/contiguous-array/
 ---
 
 ## 525. 连续数组 (Medium)
@@ -37,7 +37,7 @@ permalink:  /contiguous-array/
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
 
 ### 相似题目
-  1. [和等于 k 的最长子数组长度](/maximum-size-subarray-sum-equals-k) (Medium)
+  1. [和等于 k 的最长子数组长度](/problems/maximum-size-subarray-sum-equals-k) (Medium)
 
 ---
 

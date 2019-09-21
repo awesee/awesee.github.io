@@ -4,7 +4,7 @@ title:      "计数二进制子串"
 date:       2017-11-27 21:30:00 +0800
 categories: [Leetcode]
 tags:       [String]
-permalink:  /count-binary-substrings/
+permalink:  /problems/count-binary-substrings/
 ---
 
 ## 696. 计数二进制子串 (Easy)
@@ -48,7 +48,7 @@ permalink:  /count-binary-substrings/
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ### 相似题目
-  1. [字符串的编码与解码](/encode-and-decode-strings) (Medium)
+  1. [字符串的编码与解码](/problems/encode-and-decode-strings) (Medium)
 
 ---
 

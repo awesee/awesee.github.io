@@ -4,7 +4,7 @@ title:      "最长回文子串"
 date:       2016-01-06 21:30:00 +0800
 categories: [Leetcode]
 tags:       [String, Dynamic Programming]
-permalink:  /longest-palindromic-substring/
+permalink:  /problems/longest-palindromic-substring/
 ---
 
 ## 5. 最长回文子串 (Medium)
@@ -33,11 +33,11 @@ permalink:  /longest-palindromic-substring/
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### 相似题目
-  1. [最短回文串](/shortest-palindrome) (Hard)
-  1. [回文排列](/palindrome-permutation) (Easy)
-  1. [回文对](/palindrome-pairs) (Hard)
-  1. [最长回文子序列](/longest-palindromic-subsequence) (Medium)
-  1. [回文子串](/palindromic-substrings) (Medium)
+  1. [最短回文串](/problems/shortest-palindrome) (Hard)
+  1. [回文排列](/problems/palindrome-permutation) (Easy)
+  1. [回文对](/problems/palindrome-pairs) (Hard)
+  1. [最长回文子序列](/problems/longest-palindromic-subsequence) (Medium)
+  1. [回文子串](/problems/palindromic-substrings) (Medium)
 
 ---
 

@@ -4,7 +4,7 @@ title:      "数字的补数"
 date:       2017-04-21 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Bit Manipulation]
-permalink:  /number-complement/
+permalink:  /problems/number-complement/
 ---
 
 ## 476. 数字的补数 (Easy)

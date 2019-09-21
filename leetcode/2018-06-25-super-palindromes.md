@@ -4,7 +4,7 @@ title:      "超级回文数"
 date:       2018-06-25 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Math]
-permalink:  /super-palindromes/
+permalink:  /problems/super-palindromes/
 ---
 
 ## 906. 超级回文数 (Hard)

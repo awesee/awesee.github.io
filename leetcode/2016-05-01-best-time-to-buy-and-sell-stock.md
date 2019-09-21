@@ -4,10 +4,12 @@ title:      "买卖股票的最佳时机"
 date:       2016-05-01 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array, Dynamic Programming]
-permalink:  /best-time-to-buy-and-sell-stock/
+permalink:  /problems/best-time-to-buy-and-sell-stock/
 ---
 
 ## 121. 买卖股票的最佳时机 (Easy)
+
+{% raw %}
 
 <p>给定一个数组，它的第&nbsp;<em>i</em> 个元素是一支给定股票第 <em>i</em> 天的价格。</p>
 
@@ -30,16 +32,18 @@ permalink:  /best-time-to-buy-and-sell-stock/
 <strong>解释: </strong>在这种情况下, 没有交易完成, 所以最大利润为 0。
 </pre>
 
+{% endraw %}
+
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### 相似题目
-  1. [最大子序和](/maximum-subarray) (Easy)
-  1. [买卖股票的最佳时机 II](/best-time-to-buy-and-sell-stock-ii) (Easy)
-  1. [买卖股票的最佳时机 III](/best-time-to-buy-and-sell-stock-iii) (Hard)
-  1. [买卖股票的最佳时机 IV](/best-time-to-buy-and-sell-stock-iv) (Hard)
-  1. [最佳买卖股票时机含冷冻期](/best-time-to-buy-and-sell-stock-with-cooldown) (Medium)
+  1. [最大子序和](/problems/maximum-subarray) (Easy)
+  1. [买卖股票的最佳时机 II](/problems/best-time-to-buy-and-sell-stock-ii) (Easy)
+  1. [买卖股票的最佳时机 III](/problems/best-time-to-buy-and-sell-stock-iii) (Hard)
+  1. [买卖股票的最佳时机 IV](/problems/best-time-to-buy-and-sell-stock-iv) (Hard)
+  1. [最佳买卖股票时机含冷冻期](/problems/best-time-to-buy-and-sell-stock-with-cooldown) (Medium)
 
 ---
 

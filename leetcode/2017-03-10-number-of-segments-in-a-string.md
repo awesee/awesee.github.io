@@ -4,7 +4,7 @@ title:      "字符串中的单词数"
 date:       2017-03-10 21:30:00 +0800
 categories: [Leetcode]
 tags:       [String]
-permalink:  /number-of-segments-in-a-string/
+permalink:  /problems/number-of-segments-in-a-string/
 ---
 
 ## 434. 字符串中的单词数 (Easy)

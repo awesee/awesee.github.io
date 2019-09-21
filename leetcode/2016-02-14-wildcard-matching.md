@@ -4,7 +4,7 @@ title:      "通配符匹配"
 date:       2016-02-14 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Greedy, String, Dynamic Programming, Backtracking]
-permalink:  /wildcard-matching/
+permalink:  /problems/wildcard-matching/
 ---
 
 ## 44. 通配符匹配 (Hard)
@@ -77,7 +77,7 @@ p = &quot;a*c?b&quot;
   [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
 
 ### 相似题目
-  1. [正则表达式匹配](/regular-expression-matching) (Hard)
+  1. [正则表达式匹配](/problems/regular-expression-matching) (Hard)
 
 ---
 

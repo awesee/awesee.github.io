@@ -4,7 +4,7 @@ title:      "单词拆分 II"
 date:       2016-05-20 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Dynamic Programming, Backtracking]
-permalink:  /word-break-ii/
+permalink:  /problems/word-break-ii/
 ---
 
 ## 140. 单词拆分 II (Hard)
@@ -62,8 +62,8 @@ wordDict = [&quot;cats&quot;, &quot;dog&quot;, &quot;sand&quot;, &quot;and&quot;
   [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
 
 ### 相似题目
-  1. [单词拆分](/word-break) (Medium)
-  1. [连接词](/concatenated-words) (Hard)
+  1. [单词拆分](/problems/word-break) (Medium)
+  1. [连接词](/problems/concatenated-words) (Hard)
 
 ---
 

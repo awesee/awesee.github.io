@@ -4,7 +4,7 @@ title:      "N叉树的层序遍历"
 date:       2017-03-05 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Tree, Breadth-first Search]
-permalink:  /n-ary-tree-level-order-traversal/
+permalink:  /problems/n-ary-tree-level-order-traversal/
 ---
 
 ## 429. N叉树的层序遍历 (Easy)
@@ -46,9 +46,9 @@ permalink:  /n-ary-tree-level-order-traversal/
   [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
 
 ### 相似题目
-  1. [二叉树的层次遍历](/binary-tree-level-order-traversal) (Medium)
-  1. [N叉树的前序遍历](/n-ary-tree-preorder-traversal) (Easy)
-  1. [N叉树的后序遍历](/n-ary-tree-postorder-traversal) (Easy)
+  1. [二叉树的层次遍历](/problems/binary-tree-level-order-traversal) (Medium)
+  1. [N叉树的前序遍历](/problems/n-ary-tree-preorder-traversal) (Easy)
+  1. [N叉树的后序遍历](/problems/n-ary-tree-postorder-traversal) (Easy)
 
 ---
 

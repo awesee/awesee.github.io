@@ -4,7 +4,7 @@ title:      "比特位计数"
 date:       2016-12-04 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Bit Manipulation, Dynamic Programming]
-permalink:  /counting-bits/
+permalink:  /problems/counting-bits/
 ---
 
 ## 338. 比特位计数 (Medium)
@@ -38,7 +38,7 @@ permalink:  /counting-bits/
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### 相似题目
-  1. [位1的个数](/number-of-1-bits) (Easy)
+  1. [位1的个数](/problems/number-of-1-bits) (Easy)
 
 ---
 

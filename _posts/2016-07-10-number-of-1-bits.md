@@ -4,7 +4,7 @@ title:      "位1的个数"
 date:       2016-07-10 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Bit Manipulation]
-permalink:  /number-of-1-bits/
+permalink:  /problems/number-of-1-bits/
 ---
 
 ## 191. 位1的个数 (Easy)
@@ -55,13 +55,13 @@ permalink:  /number-of-1-bits/
   [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
 
 ### 相似题目
-  1. [颠倒二进制位](/reverse-bits) (Easy)
-  1. [2的幂](/power-of-two) (Easy)
-  1. [比特位计数](/counting-bits) (Medium)
-  1. [二进制手表](/binary-watch) (Easy)
-  1. [汉明距离](/hamming-distance) (Easy)
-  1. [交替位二进制数](/binary-number-with-alternating-bits) (Easy)
-  1. [二进制表示中质数个计算置位](/prime-number-of-set-bits-in-binary-representation) (Easy)
+  1. [颠倒二进制位](/problems/reverse-bits) (Easy)
+  1. [2的幂](/problems/power-of-two) (Easy)
+  1. [比特位计数](/problems/counting-bits) (Medium)
+  1. [二进制手表](/problems/binary-watch) (Easy)
+  1. [汉明距离](/problems/hamming-distance) (Easy)
+  1. [交替位二进制数](/problems/binary-number-with-alternating-bits) (Easy)
+  1. [二进制表示中质数个计算置位](/problems/prime-number-of-set-bits-in-binary-representation) (Easy)
 
 ---
 

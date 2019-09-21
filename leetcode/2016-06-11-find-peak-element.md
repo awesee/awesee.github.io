@@ -4,7 +4,7 @@ title:      "寻找峰值"
 date:       2016-06-11 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array, Binary Search]
-permalink:  /find-peak-element/
+permalink:  /problems/find-peak-element/
 ---
 
 ## 162. 寻找峰值 (Medium)
@@ -44,7 +44,7 @@ permalink:  /find-peak-element/
   [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
 
 ### 相似题目
-  1. [山脉数组的峰顶索引](/peak-index-in-a-mountain-array) (Easy)
+  1. [山脉数组的峰顶索引](/problems/peak-index-in-a-mountain-array) (Easy)
 
 ---
 

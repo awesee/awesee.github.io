@@ -4,7 +4,7 @@ title:      "删除注释"
 date:       2017-12-23 21:30:00 +0800
 categories: [Leetcode]
 tags:       [String]
-permalink:  /remove-comments/
+permalink:  /problems/remove-comments/
 ---
 
 ## 722. 删除注释 (Medium)
@@ -88,8 +88,8 @@ source = [&quot;a/*comment&quot;, &quot;line&quot;, &quot;more_comment*/b&quot;]
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ### 相似题目
-  1. [迷你语法分析器](/mini-parser) (Medium)
-  1. [三元表达式解析器](/ternary-expression-parser) (Medium)
+  1. [迷你语法分析器](/problems/mini-parser) (Medium)
+  1. [三元表达式解析器](/problems/ternary-expression-parser) (Medium)
 
 ---
 

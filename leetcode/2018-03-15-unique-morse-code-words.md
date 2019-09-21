@@ -4,7 +4,7 @@ title:      "唯一摩尔斯密码词"
 date:       2018-03-15 21:30:00 +0800
 categories: [Leetcode]
 tags:       [String]
-permalink:  /unique-morse-code-words/
+permalink:  /problems/unique-morse-code-words/
 ---
 
 ## 804. 唯一摩尔斯密码词 (Easy)

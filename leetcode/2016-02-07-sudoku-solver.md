@@ -4,7 +4,7 @@ title:      "解数独"
 date:       2016-02-07 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Hash Table, Backtracking]
-permalink:  /sudoku-solver/
+permalink:  /problems/sudoku-solver/
 ---
 
 ## 37. 解数独 (Hard)
@@ -46,8 +46,8 @@ permalink:  /sudoku-solver/
   [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
 
 ### 相似题目
-  1. [有效的数独](/valid-sudoku) (Medium)
-  1. [不同路径 III](/unique-paths-iii) (Hard)
+  1. [有效的数独](/problems/valid-sudoku) (Medium)
+  1. [不同路径 III](/problems/unique-paths-iii) (Hard)
 
 ---
 

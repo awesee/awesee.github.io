@@ -4,7 +4,7 @@ title:      "数组中的最长山脉"
 date:       2018-04-25 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Two Pointers]
-permalink:  /longest-mountain-in-array/
+permalink:  /problems/longest-mountain-in-array/
 ---
 
 ## 845. 数组中的最长山脉 (Medium)

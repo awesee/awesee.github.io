@@ -4,7 +4,7 @@ title:      "三个数的最大乘积"
 date:       2017-09-20 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array, Math]
-permalink:  /maximum-product-of-three-numbers/
+permalink:  /problems/maximum-product-of-three-numbers/
 ---
 
 ## 628. 三个数的最大乘积 (Easy)
@@ -41,7 +41,7 @@ permalink:  /maximum-product-of-three-numbers/
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
 
 ### 相似题目
-  1. [乘积最大子序列](/maximum-product-subarray) (Medium)
+  1. [乘积最大子序列](/problems/maximum-product-subarray) (Medium)
 
 ---
 

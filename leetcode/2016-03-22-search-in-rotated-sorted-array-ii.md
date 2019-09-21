@@ -4,7 +4,7 @@ title:      "搜索旋转排序数组 II"
 date:       2016-03-22 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array, Binary Search]
-permalink:  /search-in-rotated-sorted-array-ii/
+permalink:  /problems/search-in-rotated-sorted-array-ii/
 ---
 
 ## 81. 搜索旋转排序数组 II (Medium)
@@ -42,7 +42,7 @@ permalink:  /search-in-rotated-sorted-array-ii/
   [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
 
 ### 相似题目
-  1. [搜索旋转排序数组](/search-in-rotated-sorted-array) (Medium)
+  1. [搜索旋转排序数组](/problems/search-in-rotated-sorted-array) (Medium)
 
 ---
 

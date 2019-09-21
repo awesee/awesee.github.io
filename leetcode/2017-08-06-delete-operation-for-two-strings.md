@@ -4,7 +4,7 @@ title:      "两个字符串的删除操作"
 date:       2017-08-06 21:30:00 +0800
 categories: [Leetcode]
 tags:       [String]
-permalink:  /delete-operation-for-two-strings/
+permalink:  /problems/delete-operation-for-two-strings/
 ---
 
 ## 583. 两个字符串的删除操作 (Medium)
@@ -34,8 +34,8 @@ permalink:  /delete-operation-for-two-strings/
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ### 相似题目
-  1. [编辑距离](/edit-distance) (Hard)
-  1. [两个字符串的最小ASCII删除和](/minimum-ascii-delete-sum-for-two-strings) (Medium)
+  1. [编辑距离](/problems/edit-distance) (Hard)
+  1. [两个字符串的最小ASCII删除和](/problems/minimum-ascii-delete-sum-for-two-strings) (Medium)
 
 ---
 

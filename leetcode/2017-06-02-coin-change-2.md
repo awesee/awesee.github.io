@@ -4,7 +4,7 @@ title:      "零钱兑换 II"
 date:       2017-06-02 21:30:00 +0800
 categories: [Leetcode]
 tags:       []
-permalink:  /coin-change-2/
+permalink:  /problems/coin-change-2/
 ---
 
 ## 518. 零钱兑换 II (Medium)

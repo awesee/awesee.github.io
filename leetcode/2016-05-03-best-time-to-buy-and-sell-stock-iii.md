@@ -4,10 +4,12 @@ title:      "买卖股票的最佳时机 III"
 date:       2016-05-03 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array, Dynamic Programming]
-permalink:  /best-time-to-buy-and-sell-stock-iii/
+permalink:  /problems/best-time-to-buy-and-sell-stock-iii/
 ---
 
 ## 123. 买卖股票的最佳时机 III (Hard)
+
+{% raw %}
 
 <p>给定一个数组，它的第<em> i</em> 个元素是一支给定的股票在第 <em>i </em>天的价格。</p>
 
@@ -37,15 +39,17 @@ permalink:  /best-time-to-buy-and-sell-stock-iii/
 <strong>输出:</strong> 0 
 <strong>解释:</strong> 在这个情况下, 没有交易完成, 所以最大利润为 0。</pre>
 
+{% endraw %}
+
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### 相似题目
-  1. [买卖股票的最佳时机](/best-time-to-buy-and-sell-stock) (Easy)
-  1. [买卖股票的最佳时机 II](/best-time-to-buy-and-sell-stock-ii) (Easy)
-  1. [买卖股票的最佳时机 IV](/best-time-to-buy-and-sell-stock-iv) (Hard)
-  1. [三个无重叠子数组的最大和](/maximum-sum-of-3-non-overlapping-subarrays) (Hard)
+  1. [买卖股票的最佳时机](/problems/best-time-to-buy-and-sell-stock) (Easy)
+  1. [买卖股票的最佳时机 II](/problems/best-time-to-buy-and-sell-stock-ii) (Easy)
+  1. [买卖股票的最佳时机 IV](/problems/best-time-to-buy-and-sell-stock-iv) (Hard)
+  1. [三个无重叠子数组的最大和](/problems/maximum-sum-of-3-non-overlapping-subarrays) (Hard)
 
 ---
 

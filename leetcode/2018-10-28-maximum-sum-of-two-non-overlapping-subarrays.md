@@ -4,7 +4,7 @@ title:      "两个非重叠子数组的最大和"
 date:       2018-10-28 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array]
-permalink:  /maximum-sum-of-two-non-overlapping-subarrays/
+permalink:  /problems/maximum-sum-of-two-non-overlapping-subarrays/
 ---
 
 ## 1031. 两个非重叠子数组的最大和 (Medium)

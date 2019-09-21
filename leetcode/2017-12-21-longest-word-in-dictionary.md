@@ -4,7 +4,7 @@ title:      "词典中最长的单词"
 date:       2017-12-21 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Trie, Hash Table]
-permalink:  /longest-word-in-dictionary/
+permalink:  /problems/longest-word-in-dictionary/
 ---
 
 ## 720. 词典中最长的单词 (Easy)
@@ -50,8 +50,8 @@ words = [&quot;a&quot;, &quot;banana&quot;, &quot;app&quot;, &quot;appl&quot;, &
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
 
 ### 相似题目
-  1. [通过删除字母匹配到字典里最长单词](/longest-word-in-dictionary-through-deleting) (Medium)
-  1. [实现一个魔法字典](/implement-magic-dictionary) (Medium)
+  1. [通过删除字母匹配到字典里最长单词](/problems/longest-word-in-dictionary-through-deleting) (Medium)
+  1. [实现一个魔法字典](/problems/implement-magic-dictionary) (Medium)
 
 ---
 

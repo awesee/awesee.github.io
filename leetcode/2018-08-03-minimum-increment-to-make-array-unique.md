@@ -4,7 +4,7 @@ title:      "使数组唯一的最小增量"
 date:       2018-08-03 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array]
-permalink:  /minimum-increment-to-make-array-unique/
+permalink:  /problems/minimum-increment-to-make-array-unique/
 ---
 
 ## 945. 使数组唯一的最小增量 (Medium)

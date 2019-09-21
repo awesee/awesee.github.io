@@ -4,7 +4,7 @@ title:      "解析布尔表达式"
 date:       2019-01-11 21:30:00 +0800
 categories: [Leetcode]
 tags:       [String]
-permalink:  /parsing-a-boolean-expression/
+permalink:  /problems/parsing-a-boolean-expression/
 ---
 
 ## 1106. 解析布尔表达式 (Hard)

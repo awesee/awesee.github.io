@@ -4,7 +4,7 @@ title:      "整数转换英文表示"
 date:       2016-09-30 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Math, String]
-permalink:  /integer-to-english-words/
+permalink:  /problems/integer-to-english-words/
 ---
 
 ## 273. 整数转换英文表示 (Hard)
@@ -41,7 +41,7 @@ permalink:  /integer-to-english-words/
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ### 相似题目
-  1. [整数转罗马数字](/integer-to-roman) (Medium)
+  1. [整数转罗马数字](/problems/integer-to-roman) (Medium)
 
 ---
 

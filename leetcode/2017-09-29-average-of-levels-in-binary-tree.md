@@ -4,7 +4,7 @@ title:      "二叉树的层平均值"
 date:       2017-09-29 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Tree]
-permalink:  /average-of-levels-in-binary-tree/
+permalink:  /problems/average-of-levels-in-binary-tree/
 ---
 
 ## 637. 二叉树的层平均值 (Easy)
@@ -38,8 +38,8 @@ permalink:  /average-of-levels-in-binary-tree/
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
 
 ### 相似题目
-  1. [二叉树的层次遍历](/binary-tree-level-order-traversal) (Medium)
-  1. [二叉树的层次遍历 II](/binary-tree-level-order-traversal-ii) (Easy)
+  1. [二叉树的层次遍历](/problems/binary-tree-level-order-traversal) (Medium)
+  1. [二叉树的层次遍历 II](/problems/binary-tree-level-order-traversal-ii) (Easy)
 
 ---
 

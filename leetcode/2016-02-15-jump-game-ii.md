@@ -4,7 +4,7 @@ title:      "跳跃游戏 II"
 date:       2016-02-15 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Greedy, Array]
-permalink:  /jump-game-ii/
+permalink:  /problems/jump-game-ii/
 ---
 
 ## 45. 跳跃游戏 II (Hard)
@@ -36,7 +36,7 @@ permalink:  /jump-game-ii/
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 
 ### 相似题目
-  1. [跳跃游戏](/jump-game) (Medium)
+  1. [跳跃游戏](/problems/jump-game) (Medium)
 
 ---
 

@@ -4,7 +4,7 @@ title:      "螺旋矩阵"
 date:       2016-02-24 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array]
-permalink:  /spiral-matrix/
+permalink:  /problems/spiral-matrix/
 ---
 
 ## 54. 螺旋矩阵 (Medium)
@@ -41,7 +41,7 @@ permalink:  /spiral-matrix/
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 
 ### 相似题目
-  1. [螺旋矩阵 II](/spiral-matrix-ii) (Medium)
+  1. [螺旋矩阵 II](/problems/spiral-matrix-ii) (Medium)
 
 ---
 

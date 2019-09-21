@@ -4,7 +4,7 @@ title:      "不同路径 III"
 date:       2018-09-07 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Depth-first Search, Backtracking]
-permalink:  /unique-paths-iii/
+permalink:  /problems/unique-paths-iii/
 ---
 
 ## 980. 不同路径 III (Hard)
@@ -66,9 +66,9 @@ permalink:  /unique-paths-iii/
   [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
 
 ### 相似题目
-  1. [解数独](/sudoku-solver) (Hard)
-  1. [不同路径 II](/unique-paths-ii) (Medium)
-  1. [单词搜索 II](/word-search-ii) (Hard)
+  1. [解数独](/problems/sudoku-solver) (Hard)
+  1. [不同路径 II](/problems/unique-paths-ii) (Medium)
+  1. [单词搜索 II](/problems/word-search-ii) (Hard)
 
 ---
 

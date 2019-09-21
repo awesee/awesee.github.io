@@ -4,7 +4,7 @@ title:      "最小差值 I"
 date:       2018-06-27 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Math]
-permalink:  /smallest-range-i/
+permalink:  /problems/smallest-range-i/
 ---
 
 ## 908. 最小差值 I (Easy)

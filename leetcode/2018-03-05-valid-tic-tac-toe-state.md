@@ -4,7 +4,7 @@ title:      "有效的井字游戏"
 date:       2018-03-05 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Recursion, Math]
-permalink:  /valid-tic-tac-toe-state/
+permalink:  /problems/valid-tic-tac-toe-state/
 ---
 
 ## 794. 有效的井字游戏 (Medium)
@@ -60,7 +60,7 @@ permalink:  /valid-tic-tac-toe-state/
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
 
 ### 相似题目
-  1. [判定井字棋胜负](/design-tic-tac-toe) (Medium)
+  1. [判定井字棋胜负](/problems/design-tic-tac-toe) (Medium)
 
 ---
 

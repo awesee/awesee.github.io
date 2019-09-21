@@ -4,7 +4,7 @@ title:      "汉明距离总和"
 date:       2017-04-22 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Bit Manipulation]
-permalink:  /total-hamming-distance/
+permalink:  /problems/total-hamming-distance/
 ---
 
 ## 477. 汉明距离总和 (Medium)
@@ -40,7 +40,7 @@ HammingDistance(4, 14) + HammingDistance(4, 2) + HammingDistance(14, 2) = 2 + 2 
   [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
 
 ### 相似题目
-  1. [汉明距离](/hamming-distance) (Easy)
+  1. [汉明距离](/problems/hamming-distance) (Easy)
 
 ---
 

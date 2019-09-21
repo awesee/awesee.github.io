@@ -4,7 +4,7 @@ title:      "最小覆盖子串"
 date:       2016-03-17 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Hash Table, Two Pointers, String, Sliding Window]
-permalink:  /minimum-window-substring/
+permalink:  /problems/minimum-window-substring/
 ---
 
 ## 76. 最小覆盖子串 (Hard)
@@ -34,12 +34,11 @@ permalink:  /minimum-window-substring/
   [[Sliding Window](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
 
 ### 相似题目
-  1. [串联所有单词的子串](/substring-with-concatenation-of-all-words) (Hard)
-  1. [长度最小的子数组](/minimum-size-subarray-sum) (Medium)
-  1. [滑动窗口最大值](/sliding-window-maximum) (Hard)
-  1. [字符串的排列](/permutation-in-string) (Medium)
-  1. [最小区间](/smallest-range) (Hard)
-  1. [最小窗口子序列](/minimum-window-subsequence) (Hard)
+  1. [串联所有单词的子串](/problems/substring-with-concatenation-of-all-words) (Hard)
+  1. [长度最小的子数组](/problems/minimum-size-subarray-sum) (Medium)
+  1. [滑动窗口最大值](/problems/sliding-window-maximum) (Hard)
+  1. [字符串的排列](/problems/permutation-in-string) (Medium)
+  1. [最小窗口子序列](/problems/minimum-window-subsequence) (Hard)
 
 ---
 

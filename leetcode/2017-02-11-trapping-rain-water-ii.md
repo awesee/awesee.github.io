@@ -4,7 +4,7 @@ title:      "接雨水 II"
 date:       2017-02-11 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Heap, Breadth-first Search]
-permalink:  /trapping-rain-water-ii/
+permalink:  /problems/trapping-rain-water-ii/
 ---
 
 ## 407. 接雨水 II (Hard)
@@ -17,7 +17,7 @@ permalink:  /trapping-rain-water-ii/
 
 <p><strong>说明:</strong></p>
 
-<p><em>m&nbsp;</em>和 <em>n&nbsp;</em>都是小于110的整数。每一个单位的高度都大于0 且小于 20000。</p>
+<p><em>m&nbsp;</em>和 <em>n&nbsp;</em>都是小于110的整数。每一个单位的高度都大于 0 且小于 20000。</p>
 
 <p>&nbsp;</p>
 
@@ -33,13 +33,13 @@ permalink:  /trapping-rain-water-ii/
 返回 4。
 </pre>
 
-<p><img src="https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2018/10/12/rainwater_empty.png" style="width: 100%; max-width: 500px;"></p>
+<p><img src="https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2018/10/12/rainwater_empty.png" style="width: 200px;"></p>
 
 <p>如上图所示，这是下雨前的高度图<code>[[1,4,3,1,3,2],[3,2,1,3,2,4],[2,3,3,2,3,1]]</code> 的状态。</p>
 
 <p>&nbsp;</p>
 
-<p><img src="https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2018/10/12/rainwater_fill.png" style="width: 100%; max-width: 500px;"></p>
+<p><img src="https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2018/10/12/rainwater_fill.png" style="width: 200px;"></p>
 
 <p>下雨后，雨水将会被存储在这些方块中。总的接雨水量是4。</p>
 
@@ -50,7 +50,7 @@ permalink:  /trapping-rain-water-ii/
   [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
 
 ### 相似题目
-  1. [接雨水](/trapping-rain-water) (Hard)
+  1. [接雨水](/problems/trapping-rain-water) (Hard)
 
 ---
 

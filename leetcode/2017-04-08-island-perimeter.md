@@ -4,7 +4,7 @@ title:      "岛屿的周长"
 date:       2017-04-08 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Hash Table]
-permalink:  /island-perimeter/
+permalink:  /problems/island-perimeter/
 ---
 
 ## 463. 岛屿的周长 (Easy)
@@ -40,9 +40,9 @@ permalink:  /island-perimeter/
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
 
 ### 相似题目
-  1. [岛屿的最大面积](/max-area-of-island) (Medium)
-  1. [图像渲染](/flood-fill) (Easy)
-  1. [边框着色](/coloring-a-border) (Medium)
+  1. [岛屿的最大面积](/problems/max-area-of-island) (Medium)
+  1. [图像渲染](/problems/flood-fill) (Easy)
+  1. [边框着色](/problems/coloring-a-border) (Medium)
 
 ---
 

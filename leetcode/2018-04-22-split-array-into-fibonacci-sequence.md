@@ -4,7 +4,7 @@ title:      "将数组拆分成斐波那契序列"
 date:       2018-04-22 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Greedy, String, Backtracking]
-permalink:  /split-array-into-fibonacci-sequence/
+permalink:  /problems/split-array-into-fibonacci-sequence/
 ---
 
 ## 842. 将数组拆分成斐波那契序列 (Medium)
@@ -73,8 +73,8 @@ permalink:  /split-array-into-fibonacci-sequence/
   [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
 
 ### 相似题目
-  1. [累加数](/additive-number) (Medium)
-  1. [斐波那契数](/fibonacci-number) (Easy)
+  1. [累加数](/problems/additive-number) (Medium)
+  1. [斐波那契数](/problems/fibonacci-number) (Easy)
 
 ---
 

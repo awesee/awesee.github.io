@@ -4,10 +4,12 @@ title:      "路径总和 II"
 date:       2016-04-23 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Tree, Depth-first Search]
-permalink:  /path-sum-ii/
+permalink:  /problems/path-sum-ii/
 ---
 
 ## 113. 路径总和 II (Medium)
+
+{% raw %}
 
 <p>给定一个二叉树和一个目标和，找到所有从根节点到叶子节点路径总和等于给定目标和的路径。</p>
 
@@ -33,15 +35,17 @@ permalink:  /path-sum-ii/
 ]
 </pre>
 
+{% endraw %}
+
 ### 相关话题
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
   [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
 
 ### 相似题目
-  1. [路径总和](/path-sum) (Easy)
-  1. [二叉树的所有路径](/binary-tree-paths) (Easy)
-  1. [路径总和 III](/path-sum-iii) (Easy)
-  1. [路径和 IV](/path-sum-iv) (Medium)
+  1. [路径总和](/problems/path-sum) (Easy)
+  1. [二叉树的所有路径](/problems/binary-tree-paths) (Easy)
+  1. [路径总和 III](/problems/path-sum-iii) (Easy)
+  1. [路径和 IV](/problems/path-sum-iv) (Medium)
 
 ---
 

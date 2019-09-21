@@ -4,7 +4,7 @@ title:      "分割回文串 II"
 date:       2016-05-12 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Dynamic Programming]
-permalink:  /palindrome-partitioning-ii/
+permalink:  /problems/palindrome-partitioning-ii/
 ---
 
 ## 132. 分割回文串 II (Hard)
@@ -28,7 +28,7 @@ permalink:  /palindrome-partitioning-ii/
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### 相似题目
-  1. [分割回文串](/palindrome-partitioning) (Medium)
+  1. [分割回文串](/problems/palindrome-partitioning) (Medium)
 
 ---
 

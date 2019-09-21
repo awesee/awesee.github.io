@@ -4,7 +4,7 @@ title:      "拼车"
 date:       2018-12-30 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Greedy]
-permalink:  /car-pooling/
+permalink:  /problems/car-pooling/
 ---
 
 ## 1094. 拼车 (Medium)
@@ -68,6 +68,9 @@ permalink:  /car-pooling/
 
 ### 相关话题
   [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+
+### 相似题目
+  1. [会议室 II](/problems/meeting-rooms-ii) (Medium)
 
 ---
 

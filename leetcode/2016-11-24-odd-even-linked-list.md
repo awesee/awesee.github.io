@@ -4,7 +4,7 @@ title:      "奇偶链表"
 date:       2016-11-24 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Linked List]
-permalink:  /odd-even-linked-list/
+permalink:  /problems/odd-even-linked-list/
 ---
 
 ## 328. 奇偶链表 (Medium)
@@ -39,7 +39,7 @@ permalink:  /odd-even-linked-list/
   [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
 
 ### 相似题目
-  1. [分隔链表](/split-linked-list-in-parts) (Medium)
+  1. [分隔链表](/problems/split-linked-list-in-parts) (Medium)
 
 ---
 

@@ -4,7 +4,7 @@ title:      "可被 5 整除的二进制前缀"
 date:       2018-10-15 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array]
-permalink:  /binary-prefix-divisible-by-5/
+permalink:  /problems/binary-prefix-divisible-by-5/
 ---
 
 ## 1018. 可被 5 整除的二进制前缀 (Easy)

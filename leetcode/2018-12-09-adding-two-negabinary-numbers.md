@@ -4,7 +4,7 @@ title:      "负二进制数相加"
 date:       2018-12-09 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Math]
-permalink:  /adding-two-negabinary-numbers/
+permalink:  /problems/adding-two-negabinary-numbers/
 ---
 
 ## 1073. 负二进制数相加 (Medium)

@@ -4,7 +4,7 @@ title:      "监控二叉树"
 date:       2018-08-26 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Tree, Depth-first Search, Dynamic Programming]
-permalink:  /binary-tree-cameras/
+permalink:  /problems/binary-tree-cameras/
 ---
 
 ## 968. 监控二叉树 (Hard)
@@ -53,7 +53,7 @@ permalink:  /binary-tree-cameras/
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### 相似题目
-  1. [在二叉树中分配硬币](/distribute-coins-in-binary-tree) (Medium)
+  1. [在二叉树中分配硬币](/problems/distribute-coins-in-binary-tree) (Medium)
 
 ---
 

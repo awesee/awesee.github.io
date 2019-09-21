@@ -4,7 +4,7 @@ title:      "只出现一次的数字 III"
 date:       2016-09-17 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Bit Manipulation]
-permalink:  /single-number-iii/
+permalink:  /problems/single-number-iii/
 ---
 
 ## 260. 只出现一次的数字 III (Medium)
@@ -31,8 +31,8 @@ permalink:  /single-number-iii/
   [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
 
 ### 相似题目
-  1. [只出现一次的数字](/single-number) (Easy)
-  1. [只出现一次的数字 II](/single-number-ii) (Medium)
+  1. [只出现一次的数字](/problems/single-number) (Easy)
+  1. [只出现一次的数字 II](/problems/single-number-ii) (Medium)
 
 ---
 

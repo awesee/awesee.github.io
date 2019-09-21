@@ -4,7 +4,7 @@ title:      "设计循环双端队列"
 date:       2017-10-03 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Design, Queue]
-permalink:  /design-circular-deque/
+permalink:  /problems/design-circular-deque/
 ---
 
 ## 641. 设计循环双端队列 (Medium)
@@ -57,7 +57,7 @@ circularDeque.getFront();				// 返回 4
   [[队列](https://github.com/openset/leetcode/tree/master/tag/queue/README.md)]
 
 ### 相似题目
-  1. [设计循环队列](/design-circular-queue) (Medium)
+  1. [设计循环队列](/problems/design-circular-queue) (Medium)
 
 ---
 

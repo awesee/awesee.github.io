@@ -4,7 +4,7 @@ title:      "前 K 个高频元素"
 date:       2016-12-13 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Heap, Hash Table]
-permalink:  /top-k-frequent-elements/
+permalink:  /problems/top-k-frequent-elements/
 ---
 
 ## 347. 前 K 个高频元素 (Medium)
@@ -38,12 +38,12 @@ permalink:  /top-k-frequent-elements/
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
 
 ### 相似题目
-  1. [统计词频](/word-frequency) (Medium)
-  1. [数组中的第K个最大元素](/kth-largest-element-in-an-array) (Medium)
-  1. [根据字符出现频率排序](/sort-characters-by-frequency) (Medium)
-  1. [分割数组为连续子序列](/split-array-into-consecutive-subsequences) (Medium)
-  1. [前K个高频单词](/top-k-frequent-words) (Medium)
-  1. [最接近原点的 K 个点](/k-closest-points-to-origin) (Medium)
+  1. [统计词频](/problems/word-frequency) (Medium)
+  1. [数组中的第K个最大元素](/problems/kth-largest-element-in-an-array) (Medium)
+  1. [根据字符出现频率排序](/problems/sort-characters-by-frequency) (Medium)
+  1. [分割数组为连续子序列](/problems/split-array-into-consecutive-subsequences) (Medium)
+  1. [前K个高频单词](/problems/top-k-frequent-words) (Medium)
+  1. [最接近原点的 K 个点](/problems/k-closest-points-to-origin) (Medium)
 
 ---
 

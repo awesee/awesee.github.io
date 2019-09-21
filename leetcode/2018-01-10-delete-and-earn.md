@@ -4,7 +4,7 @@ title:      "删除与获得点数"
 date:       2018-01-10 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Dynamic Programming]
-permalink:  /delete-and-earn/
+permalink:  /problems/delete-and-earn/
 ---
 
 ## 740. 删除与获得点数 (Medium)
@@ -51,7 +51,7 @@ permalink:  /delete-and-earn/
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### 相似题目
-  1. [打家劫舍](/house-robber) (Easy)
+  1. [打家劫舍](/problems/house-robber) (Easy)
 
 ---
 

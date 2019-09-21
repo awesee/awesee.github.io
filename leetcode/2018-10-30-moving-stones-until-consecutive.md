@@ -4,7 +4,7 @@ title:      "移动石子直到连续"
 date:       2018-10-30 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Brainteaser]
-permalink:  /moving-stones-until-consecutive/
+permalink:  /problems/moving-stones-until-consecutive/
 ---
 
 ## 1033. 移动石子直到连续 (Easy)

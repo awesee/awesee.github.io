@@ -4,7 +4,7 @@ title:      "猜猜这个单词"
 date:       2018-04-23 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Minimax]
-permalink:  /guess-the-word/
+permalink:  /problems/guess-the-word/
 ---
 
 ## 843. 猜猜这个单词 (Hard)

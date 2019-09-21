@@ -4,7 +4,7 @@ title:      "最大频率栈"
 date:       2018-06-14 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Stack, Hash Table]
-permalink:  /maximum-frequency-stack/
+permalink:  /problems/maximum-frequency-stack/
 ---
 
 ## 895. 最大频率栈 (Hard)

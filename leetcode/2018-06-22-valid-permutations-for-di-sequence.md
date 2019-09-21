@@ -4,7 +4,7 @@ title:      "DI 序列的有效排列"
 date:       2018-06-22 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Divide and Conquer, Dynamic Programming]
-permalink:  /valid-permutations-for-di-sequence/
+permalink:  /problems/valid-permutations-for-di-sequence/
 ---
 
 ## 903. DI 序列的有效排列 (Hard)

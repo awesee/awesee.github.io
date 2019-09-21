@@ -4,7 +4,7 @@ title:      "为运算表达式设计优先级"
 date:       2016-08-29 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Divide and Conquer]
-permalink:  /different-ways-to-add-parentheses/
+permalink:  /problems/different-ways-to-add-parentheses/
 ---
 
 ## 241. 为运算表达式设计优先级 (Medium)
@@ -38,9 +38,9 @@ permalink:  /different-ways-to-add-parentheses/
   [[分治算法](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]
 
 ### 相似题目
-  1. [不同的二叉搜索树 II](/unique-binary-search-trees-ii) (Medium)
-  1. [基本计算器](/basic-calculator) (Hard)
-  1. [给表达式添加运算符](/expression-add-operators) (Hard)
+  1. [不同的二叉搜索树 II](/problems/unique-binary-search-trees-ii) (Medium)
+  1. [基本计算器](/problems/basic-calculator) (Hard)
+  1. [给表达式添加运算符](/problems/expression-add-operators) (Hard)
 
 ---
 

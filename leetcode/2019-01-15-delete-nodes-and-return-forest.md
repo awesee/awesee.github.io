@@ -4,7 +4,7 @@ title:      "删点成林"
 date:       2019-01-15 21:30:00 +0800
 categories: [Leetcode]
 tags:       []
-permalink:  /delete-nodes-and-return-forest/
+permalink:  /problems/delete-nodes-and-return-forest/
 ---
 
 ## 1110. 删点成林 (Medium)

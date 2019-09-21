@@ -4,7 +4,7 @@ title:      "奇偶跳"
 date:       2018-09-02 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Stack, Dynamic Programming, Ordered Map]
-permalink:  /odd-even-jump/
+permalink:  /problems/odd-even-jump/
 ---
 
 ## 975. 奇偶跳 (Hard)

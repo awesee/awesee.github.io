@@ -4,7 +4,7 @@ title:      "汉明距离"
 date:       2017-04-06 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Bit Manipulation]
-permalink:  /hamming-distance/
+permalink:  /problems/hamming-distance/
 ---
 
 ## 461. 汉明距离 (Easy)
@@ -39,8 +39,8 @@ permalink:  /hamming-distance/
   [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
 
 ### 相似题目
-  1. [位1的个数](/number-of-1-bits) (Easy)
-  1. [汉明距离总和](/total-hamming-distance) (Medium)
+  1. [位1的个数](/problems/number-of-1-bits) (Easy)
+  1. [汉明距离总和](/problems/total-hamming-distance) (Medium)
 
 ---
 

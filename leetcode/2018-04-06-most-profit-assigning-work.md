@@ -4,7 +4,7 @@ title:      "安排工作以达到最大收益"
 date:       2018-04-06 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Two Pointers]
-permalink:  /most-profit-assigning-work/
+permalink:  /problems/most-profit-assigning-work/
 ---
 
 ## 826. 安排工作以达到最大收益 (Medium)

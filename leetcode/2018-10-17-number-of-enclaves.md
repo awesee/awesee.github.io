@@ -4,7 +4,7 @@ title:      "飞地的数量"
 date:       2018-10-17 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Depth-first Search]
-permalink:  /number-of-enclaves/
+permalink:  /problems/number-of-enclaves/
 ---
 
 ## 1020. 飞地的数量 (Medium)

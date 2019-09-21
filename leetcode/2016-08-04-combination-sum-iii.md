@@ -4,7 +4,7 @@ title:      "组合总和 III"
 date:       2016-08-04 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array, Backtracking]
-permalink:  /combination-sum-iii/
+permalink:  /problems/combination-sum-iii/
 ---
 
 ## 216. 组合总和 III (Medium)
@@ -39,7 +39,7 @@ permalink:  /combination-sum-iii/
   [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
 
 ### 相似题目
-  1. [组合总和](/combination-sum) (Medium)
+  1. [组合总和](/problems/combination-sum) (Medium)
 
 ---
 

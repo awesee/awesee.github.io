@@ -4,7 +4,7 @@ title:      "完美矩形"
 date:       2017-01-26 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Line Sweep]
-permalink:  /perfect-rectangle/
+permalink:  /problems/perfect-rectangle/
 ---
 
 ## 391. 完美矩形 (Hard)

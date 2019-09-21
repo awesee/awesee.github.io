@@ -4,7 +4,7 @@ title:      "字符串相加"
 date:       2017-02-19 21:30:00 +0800
 categories: [Leetcode]
 tags:       [String]
-permalink:  /add-strings/
+permalink:  /problems/add-strings/
 ---
 
 ## 415. 字符串相加 (Easy)
@@ -28,9 +28,9 @@ permalink:  /add-strings/
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ### 相似题目
-  1. [两数相加](/add-two-numbers) (Medium)
-  1. [字符串相乘](/multiply-strings) (Medium)
-  1. [数组形式的整数加法](/add-to-array-form-of-integer) (Easy)
+  1. [两数相加](/problems/add-two-numbers) (Medium)
+  1. [字符串相乘](/problems/multiply-strings) (Medium)
+  1. [数组形式的整数加法](/problems/add-to-array-form-of-integer) (Easy)
 
 ---
 

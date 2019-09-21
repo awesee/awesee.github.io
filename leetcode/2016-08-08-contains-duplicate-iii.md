@@ -4,7 +4,7 @@ title:      "存在重复元素 III"
 date:       2016-08-08 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Sort, Ordered Map]
-permalink:  /contains-duplicate-iii/
+permalink:  /problems/contains-duplicate-iii/
 ---
 
 ## 220. 存在重复元素 III (Medium)
@@ -35,8 +35,8 @@ permalink:  /contains-duplicate-iii/
   [[Ordered Map](https://github.com/openset/leetcode/tree/master/tag/ordered-map/README.md)]
 
 ### 相似题目
-  1. [存在重复元素](/contains-duplicate) (Easy)
-  1. [存在重复元素 II](/contains-duplicate-ii) (Easy)
+  1. [存在重复元素](/problems/contains-duplicate) (Easy)
+  1. [存在重复元素 II](/problems/contains-duplicate-ii) (Easy)
 
 ---
 

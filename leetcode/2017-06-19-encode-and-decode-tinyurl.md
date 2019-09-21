@@ -4,7 +4,7 @@ title:      "TinyURL 的加密与解密"
 date:       2017-06-19 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Hash Table, Math]
-permalink:  /encode-and-decode-tinyurl/
+permalink:  /problems/encode-and-decode-tinyurl/
 ---
 
 ## 535. TinyURL 的加密与解密 (Medium)

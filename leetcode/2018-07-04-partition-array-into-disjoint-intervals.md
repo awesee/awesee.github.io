@@ -4,7 +4,7 @@ title:      "分割数组"
 date:       2018-07-04 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array]
-permalink:  /partition-array-into-disjoint-intervals/
+permalink:  /problems/partition-array-into-disjoint-intervals/
 ---
 
 ## 915. 分割数组 (Medium)

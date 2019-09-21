@@ -4,7 +4,7 @@ title:      "最短无序连续子数组"
 date:       2017-08-04 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array]
-permalink:  /shortest-unsorted-continuous-subarray/
+permalink:  /problems/shortest-unsorted-continuous-subarray/
 ---
 
 ## 581. 最短无序连续子数组 (Easy)

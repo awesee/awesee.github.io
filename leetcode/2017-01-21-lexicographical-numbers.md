@@ -4,7 +4,7 @@ title:      "字典序排数"
 date:       2017-01-21 21:30:00 +0800
 categories: [Leetcode]
 tags:       []
-permalink:  /lexicographical-numbers/
+permalink:  /problems/lexicographical-numbers/
 ---
 
 ## 386. 字典序排数 (Medium)

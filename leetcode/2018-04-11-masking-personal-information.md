@@ -4,7 +4,7 @@ title:      "隐藏个人信息"
 date:       2018-04-11 21:30:00 +0800
 categories: [Leetcode]
 tags:       [String]
-permalink:  /masking-personal-information/
+permalink:  /problems/masking-personal-information/
 ---
 
 ## 831. 隐藏个人信息 (Medium)

@@ -4,7 +4,7 @@ title:      "最长有效括号"
 date:       2016-02-02 21:30:00 +0800
 categories: [Leetcode]
 tags:       [String, Dynamic Programming]
-permalink:  /longest-valid-parentheses/
+permalink:  /problems/longest-valid-parentheses/
 ---
 
 ## 32. 最长有效括号 (Hard)
@@ -34,7 +34,7 @@ permalink:  /longest-valid-parentheses/
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### 相似题目
-  1. [有效的括号](/valid-parentheses) (Easy)
+  1. [有效的括号](/problems/valid-parentheses) (Easy)
 
 ---
 

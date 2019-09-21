@@ -4,7 +4,7 @@ title:      "航班预订统计"
 date:       2019-01-14 21:30:00 +0800
 categories: [Leetcode]
 tags:       []
-permalink:  /corporate-flight-bookings/
+permalink:  /problems/corporate-flight-bookings/
 ---
 
 ## 1109. 航班预订统计 (Medium)

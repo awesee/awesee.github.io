@@ -4,16 +4,18 @@ title:      "滑动窗口最大值"
 date:       2016-08-27 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Heap, Sliding Window]
-permalink:  /sliding-window-maximum/
+permalink:  /problems/sliding-window-maximum/
 ---
 
 ## 239. 滑动窗口最大值 (Hard)
 
 {% raw %}
 
-<p>给定一个数组 <em>nums</em>，有一个大小为&nbsp;<em>k&nbsp;</em>的滑动窗口从数组的最左侧移动到数组的最右侧。你只可以看到在滑动窗口 <em>k</em> 内的数字。滑动窗口每次只向右移动一位。</p>
+<p>给定一个数组 <em>nums</em>，有一个大小为&nbsp;<em>k&nbsp;</em>的滑动窗口从数组的最左侧移动到数组的最右侧。你只可以看到在滑动窗口内的 <em>k</em>&nbsp;个数字。滑动窗口每次只向右移动一位。</p>
 
-<p>返回滑动窗口最大值。</p>
+<p>返回滑动窗口中的最大值。</p>
+
+<p>&nbsp;</p>
 
 <p><strong>示例:</strong></p>
 
@@ -30,9 +32,13 @@ permalink:  /sliding-window-maximum/
  1  3  -1  -3 [5  3  6] 7       6
  1  3  -1  -3  5 [3  6  7]      7</pre>
 
-<p><strong>注意：</strong></p>
+<p>&nbsp;</p>
 
-<p>你可以假设 <em>k </em>总是有效的，1 &le; k &le;&nbsp;输入数组的大小，且输入数组不为空。</p>
+<p><strong>提示：</strong></p>
+
+<p>你可以假设 <em>k </em>总是有效的，在输入数组不为空的情况下，1 &le; k &le;&nbsp;输入数组的大小。</p>
+
+<p>&nbsp;</p>
 
 <p><strong>进阶：</strong></p>
 
@@ -45,10 +51,10 @@ permalink:  /sliding-window-maximum/
   [[Sliding Window](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
 
 ### 相似题目
-  1. [最小覆盖子串](/minimum-window-substring) (Hard)
-  1. [最小栈](/min-stack) (Easy)
-  1. [至多包含两个不同字符的最长子串](/longest-substring-with-at-most-two-distinct-characters) (Hard)
-  1. [粉刷房子 II](/paint-house-ii) (Hard)
+  1. [最小覆盖子串](/problems/minimum-window-substring) (Hard)
+  1. [最小栈](/problems/min-stack) (Easy)
+  1. [至多包含两个不同字符的最长子串](/problems/longest-substring-with-at-most-two-distinct-characters) (Hard)
+  1. [粉刷房子 II](/problems/paint-house-ii) (Hard)
 
 ---
 

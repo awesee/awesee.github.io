@@ -4,7 +4,7 @@ title:      "Excel表列名称"
 date:       2016-06-17 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Math]
-permalink:  /excel-sheet-column-title/
+permalink:  /problems/excel-sheet-column-title/
 ---
 
 ## 168. Excel表列名称 (Easy)
@@ -49,7 +49,7 @@ permalink:  /excel-sheet-column-title/
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
 
 ### 相似题目
-  1. [Excel表列序号](/excel-sheet-column-number) (Easy)
+  1. [Excel表列序号](/problems/excel-sheet-column-number) (Easy)
 
 ---
 

@@ -4,7 +4,7 @@ title:      "表示数字的最少运算符"
 date:       2018-08-22 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Math, Dynamic Programming]
-permalink:  /least-operators-to-express-number/
+permalink:  /problems/least-operators-to-express-number/
 ---
 
 ## 964. 表示数字的最少运算符 (Hard)

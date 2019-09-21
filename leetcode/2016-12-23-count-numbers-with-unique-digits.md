@@ -4,7 +4,7 @@ title:      "计算各个位数不同的数字个数"
 date:       2016-12-23 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Math, Dynamic Programming, Backtracking]
-permalink:  /count-numbers-with-unique-digits/
+permalink:  /problems/count-numbers-with-unique-digits/
 ---
 
 ## 357. 计算各个位数不同的数字个数 (Medium)

@@ -4,7 +4,7 @@ title:      "第一个错误的版本"
 date:       2016-10-05 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Binary Search]
-permalink:  /first-bad-version/
+permalink:  /problems/first-bad-version/
 ---
 
 ## 278. 第一个错误的版本 (Easy)
@@ -33,9 +33,9 @@ permalink:  /first-bad-version/
   [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
 
 ### 相似题目
-  1. [在排序数组中查找元素的第一个和最后一个位置](/find-first-and-last-position-of-element-in-sorted-array) (Medium)
-  1. [搜索插入位置](/search-insert-position) (Easy)
-  1. [猜数字大小](/guess-number-higher-or-lower) (Easy)
+  1. [在排序数组中查找元素的第一个和最后一个位置](/problems/find-first-and-last-position-of-element-in-sorted-array) (Medium)
+  1. [搜索插入位置](/problems/search-insert-position) (Easy)
+  1. [猜数字大小](/problems/guess-number-higher-or-lower) (Easy)
 
 ---
 

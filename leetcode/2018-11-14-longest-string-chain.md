@@ -4,7 +4,7 @@ title:      "最长字符串链"
 date:       2018-11-14 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Hash Table, Dynamic Programming]
-permalink:  /longest-string-chain/
+permalink:  /problems/longest-string-chain/
 ---
 
 ## 1048. 最长字符串链 (Medium)

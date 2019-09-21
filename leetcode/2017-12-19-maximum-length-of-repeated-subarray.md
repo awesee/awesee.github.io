@@ -4,7 +4,7 @@ title:      "最长重复子数组"
 date:       2017-12-19 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array, Hash Table, Binary Search, Dynamic Programming]
-permalink:  /maximum-length-of-repeated-subarray/
+permalink:  /problems/maximum-length-of-repeated-subarray/
 ---
 
 ## 718. 最长重复子数组 (Medium)
@@ -40,7 +40,7 @@ B: [3,2,1,4,7]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### 相似题目
-  1. [长度最小的子数组](/minimum-size-subarray-sum) (Medium)
+  1. [长度最小的子数组](/problems/minimum-size-subarray-sum) (Medium)
 
 ---
 

@@ -4,7 +4,7 @@ title:      "比较含退格的字符串"
 date:       2018-04-24 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Stack, Two Pointers]
-permalink:  /backspace-string-compare/
+permalink:  /problems/backspace-string-compare/
 ---
 
 ## 844. 比较含退格的字符串 (Easy)

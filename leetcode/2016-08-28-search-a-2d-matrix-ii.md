@@ -4,7 +4,7 @@ title:      "搜索二维矩阵 II"
 date:       2016-08-28 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Binary Search, Divide and Conquer]
-permalink:  /search-a-2d-matrix-ii/
+permalink:  /problems/search-a-2d-matrix-ii/
 ---
 
 ## 240. 搜索二维矩阵 II (Medium)
@@ -42,7 +42,7 @@ permalink:  /search-a-2d-matrix-ii/
   [[分治算法](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]
 
 ### 相似题目
-  1. [搜索二维矩阵](/search-a-2d-matrix) (Medium)
+  1. [搜索二维矩阵](/problems/search-a-2d-matrix) (Medium)
 
 ---
 

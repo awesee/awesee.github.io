@@ -4,7 +4,7 @@ title:      "学生出勤记录 I"
 date:       2017-07-05 21:30:00 +0800
 categories: [Leetcode]
 tags:       [String]
-permalink:  /student-attendance-record-i/
+permalink:  /problems/student-attendance-record-i/
 ---
 
 ## 551. 学生出勤记录 I (Easy)
@@ -41,7 +41,7 @@ permalink:  /student-attendance-record-i/
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ### 相似题目
-  1. [学生出勤记录 II](/student-attendance-record-ii) (Hard)
+  1. [学生出勤记录 II](/problems/student-attendance-record-ii) (Hard)
 
 ---
 

@@ -4,7 +4,7 @@ title:      "不同路径 II"
 date:       2016-03-04 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array, Dynamic Programming]
-permalink:  /unique-paths-ii/
+permalink:  /problems/unique-paths-ii/
 ---
 
 ## 63. 不同路径 II (Medium)
@@ -46,8 +46,8 @@ permalink:  /unique-paths-ii/
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### 相似题目
-  1. [不同路径](/unique-paths) (Medium)
-  1. [不同路径 III](/unique-paths-iii) (Hard)
+  1. [不同路径](/problems/unique-paths) (Medium)
+  1. [不同路径 III](/problems/unique-paths-iii) (Hard)
 
 ---
 

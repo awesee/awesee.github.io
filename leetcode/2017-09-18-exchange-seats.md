@@ -4,7 +4,7 @@ title:      "换座位"
 date:       2017-09-18 21:30:00 +0800
 categories: [Leetcode]
 tags:       []
-permalink:  /exchange-seats/
+permalink:  /problems/exchange-seats/
 ---
 
 ## 626. 换座位 (Medium)

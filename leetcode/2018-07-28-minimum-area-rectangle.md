@@ -4,7 +4,7 @@ title:      "最小面积矩形"
 date:       2018-07-28 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Hash Table]
-permalink:  /minimum-area-rectangle/
+permalink:  /problems/minimum-area-rectangle/
 ---
 
 ## 939. 最小面积矩形 (Medium)

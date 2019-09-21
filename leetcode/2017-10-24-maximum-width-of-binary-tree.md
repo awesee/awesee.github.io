@@ -4,7 +4,7 @@ title:      "二叉树最大宽度"
 date:       2017-10-24 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Tree]
-permalink:  /maximum-width-of-binary-tree/
+permalink:  /problems/maximum-width-of-binary-tree/
 ---
 
 ## 662. 二叉树最大宽度 (Medium)

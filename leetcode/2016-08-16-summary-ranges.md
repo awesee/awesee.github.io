@@ -4,7 +4,7 @@ title:      "汇总区间"
 date:       2016-08-16 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array]
-permalink:  /summary-ranges/
+permalink:  /problems/summary-ranges/
 ---
 
 ## 228. 汇总区间 (Medium)
@@ -31,8 +31,8 @@ permalink:  /summary-ranges/
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 
 ### 相似题目
-  1. [缺失的区间](/missing-ranges) (Medium)
-  1. [将数据流变为多个不相交区间](/data-stream-as-disjoint-intervals) (Hard)
+  1. [缺失的区间](/problems/missing-ranges) (Medium)
+  1. [将数据流变为多个不相交区间](/problems/data-stream-as-disjoint-intervals) (Hard)
 
 ---
 

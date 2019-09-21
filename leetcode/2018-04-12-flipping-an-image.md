@@ -4,7 +4,7 @@ title:      "翻转图像"
 date:       2018-04-12 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array]
-permalink:  /flipping-an-image/
+permalink:  /problems/flipping-an-image/
 ---
 
 ## 832. 翻转图像 (Easy)

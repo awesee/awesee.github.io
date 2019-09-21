@@ -4,7 +4,7 @@ title:      "完全平方数"
 date:       2016-10-06 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Breadth-first Search, Math, Dynamic Programming]
-permalink:  /perfect-squares/
+permalink:  /problems/perfect-squares/
 ---
 
 ## 279. 完全平方数 (Medium)
@@ -33,8 +33,8 @@ permalink:  /perfect-squares/
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### 相似题目
-  1. [计数质数](/count-primes) (Easy)
-  1. [丑数 II](/ugly-number-ii) (Medium)
+  1. [计数质数](/problems/count-primes) (Easy)
+  1. [丑数 II](/problems/ugly-number-ii) (Medium)
 
 ---
 

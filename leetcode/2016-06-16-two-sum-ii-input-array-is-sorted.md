@@ -4,7 +4,7 @@ title:      "两数之和 II - 输入有序数组"
 date:       2016-06-16 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array, Two Pointers, Binary Search]
-permalink:  /two-sum-ii-input-array-is-sorted/
+permalink:  /problems/two-sum-ii-input-array-is-sorted/
 ---
 
 ## 167. 两数之和 II - 输入有序数组 (Easy)
@@ -36,9 +36,9 @@ permalink:  /two-sum-ii-input-array-is-sorted/
   [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
 
 ### 相似题目
-  1. [两数之和](/two-sum) (Easy)
-  1. [两数之和 IV - 输入 BST](/two-sum-iv-input-is-a-bst) (Easy)
-  1. [小于 K 的两数之和](/two-sum-less-than-k) (Easy)
+  1. [两数之和](/problems/two-sum) (Easy)
+  1. [两数之和 IV - 输入 BST](/problems/two-sum-iv-input-is-a-bst) (Easy)
+  1. [小于 K 的两数之和](/problems/two-sum-less-than-k) (Easy)
 
 ---
 

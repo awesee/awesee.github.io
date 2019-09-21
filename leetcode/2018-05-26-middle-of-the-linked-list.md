@@ -4,7 +4,7 @@ title:      "链表的中间结点"
 date:       2018-05-26 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Linked List]
-permalink:  /middle-of-the-linked-list/
+permalink:  /problems/middle-of-the-linked-list/
 ---
 
 ## 876. 链表的中间结点 (Easy)

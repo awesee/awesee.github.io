@@ -4,7 +4,7 @@ title:      "不邻接植花"
 date:       2018-11-08 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Graph]
-permalink:  /flower-planting-with-no-adjacent/
+permalink:  /problems/flower-planting-with-no-adjacent/
 ---
 
 ## 1042. 不邻接植花 (Easy)

@@ -4,7 +4,7 @@ title:      "统计重复个数"
 date:       2017-04-11 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Dynamic Programming]
-permalink:  /count-the-repetitions/
+permalink:  /problems/count-the-repetitions/
 ---
 
 ## 466. 统计重复个数 (Hard)

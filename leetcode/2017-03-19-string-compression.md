@@ -4,7 +4,7 @@ title:      "压缩字符串"
 date:       2017-03-19 21:30:00 +0800
 categories: [Leetcode]
 tags:       [String]
-permalink:  /string-compression/
+permalink:  /problems/string-compression/
 ---
 
 ## 443. 压缩字符串 (Easy)
@@ -79,9 +79,9 @@ permalink:  /string-compression/
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ### 相似题目
-  1. [报数](/count-and-say) (Easy)
-  1. [字符串的编码与解码](/encode-and-decode-strings) (Medium)
-  1. [迭代压缩字符串](/design-compressed-string-iterator) (Easy)
+  1. [报数](/problems/count-and-say) (Easy)
+  1. [字符串的编码与解码](/problems/encode-and-decode-strings) (Medium)
+  1. [迭代压缩字符串](/problems/design-compressed-string-iterator) (Easy)
 
 ---
 

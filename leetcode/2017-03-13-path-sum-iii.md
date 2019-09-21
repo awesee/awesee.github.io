@@ -4,7 +4,7 @@ title:      "路径总和 III"
 date:       2017-03-13 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Tree]
-permalink:  /path-sum-iii/
+permalink:  /problems/path-sum-iii/
 ---
 
 ## 437. 路径总和 III (Easy)
@@ -44,10 +44,10 @@ permalink:  /path-sum-iii/
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
 
 ### 相似题目
-  1. [路径总和](/path-sum) (Easy)
-  1. [路径总和 II](/path-sum-ii) (Medium)
-  1. [路径和 IV](/path-sum-iv) (Medium)
-  1. [最长同值路径](/longest-univalue-path) (Easy)
+  1. [路径总和](/problems/path-sum) (Easy)
+  1. [路径总和 II](/problems/path-sum-ii) (Medium)
+  1. [路径和 IV](/problems/path-sum-iv) (Medium)
+  1. [最长同值路径](/problems/longest-univalue-path) (Easy)
 
 ---
 

@@ -4,7 +4,7 @@ title:      "最大回文数乘积"
 date:       2017-04-24 21:30:00 +0800
 categories: [Leetcode]
 tags:       []
-permalink:  /largest-palindrome-product/
+permalink:  /problems/largest-palindrome-product/
 ---
 
 ## 479. 最大回文数乘积 (Hard)

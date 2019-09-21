@@ -4,7 +4,7 @@ title:      "神奇字符串"
 date:       2017-04-26 21:30:00 +0800
 categories: [Leetcode]
 tags:       []
-permalink:  /magical-string/
+permalink:  /problems/magical-string/
 ---
 
 ## 481. 神奇字符串 (Medium)

@@ -4,7 +4,7 @@ title:      "最佳观光组合"
 date:       2018-10-11 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array]
-permalink:  /best-sightseeing-pair/
+permalink:  /problems/best-sightseeing-pair/
 ---
 
 ## 1014. 最佳观光组合 (Medium)

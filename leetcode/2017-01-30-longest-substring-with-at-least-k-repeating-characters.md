@@ -4,7 +4,7 @@ title:      "至少有K个重复字符的最长子串"
 date:       2017-01-30 21:30:00 +0800
 categories: [Leetcode]
 tags:       []
-permalink:  /longest-substring-with-at-least-k-repeating-characters/
+permalink:  /problems/longest-substring-with-at-least-k-repeating-characters/
 ---
 
 ## 395. 至少有K个重复字符的最长子串 (Medium)

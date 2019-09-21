@@ -4,7 +4,7 @@ title:      "Range 模块"
 date:       2017-12-16 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Segment Tree, Ordered Map]
-permalink:  /range-module/
+permalink:  /problems/range-module/
 ---
 
 ## 715. Range 模块 (Hard)
@@ -51,9 +51,9 @@ permalink:  /range-module/
   [[Ordered Map](https://github.com/openset/leetcode/tree/master/tag/ordered-map/README.md)]
 
 ### 相似题目
-  1. [合并区间](/merge-intervals) (Medium)
-  1. [插入区间](/insert-interval) (Hard)
-  1. [将数据流变为多个不相交区间](/data-stream-as-disjoint-intervals) (Hard)
+  1. [合并区间](/problems/merge-intervals) (Medium)
+  1. [插入区间](/problems/insert-interval) (Hard)
+  1. [将数据流变为多个不相交区间](/problems/data-stream-as-disjoint-intervals) (Hard)
 
 ---
 

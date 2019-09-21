@@ -4,7 +4,7 @@ title:      "学生出勤记录 II"
 date:       2017-07-06 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Dynamic Programming]
-permalink:  /student-attendance-record-ii/
+permalink:  /problems/student-attendance-record-ii/
 ---
 
 ## 552. 学生出勤记录 II (Hard)
@@ -41,7 +41,7 @@ permalink:  /student-attendance-record-ii/
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### 相似题目
-  1. [学生出勤记录 I](/student-attendance-record-i) (Easy)
+  1. [学生出勤记录 I](/problems/student-attendance-record-i) (Easy)
 
 ---
 

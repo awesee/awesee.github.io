@@ -4,7 +4,7 @@ title:      "H2O 生成"
 date:       2019-01-22 21:30:00 +0800
 categories: [Leetcode]
 tags:       []
-permalink:  /building-h2o/
+permalink:  /problems/building-h2o/
 ---
 
 ## 1117. H2O 生成 (Hard)

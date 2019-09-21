@@ -4,7 +4,7 @@ title:      "先序遍历构造二叉树"
 date:       2018-10-05 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Tree]
-permalink:  /construct-binary-search-tree-from-preorder-traversal/
+permalink:  /problems/construct-binary-search-tree-from-preorder-traversal/
 ---
 
 ## 1008. 先序遍历构造二叉树 (Medium)

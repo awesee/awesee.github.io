@@ -4,7 +4,7 @@ title:      "完全二叉树插入器"
 date:       2018-07-08 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Tree]
-permalink:  /complete-binary-tree-inserter/
+permalink:  /problems/complete-binary-tree-inserter/
 ---
 
 ## 919. 完全二叉树插入器 (Medium)

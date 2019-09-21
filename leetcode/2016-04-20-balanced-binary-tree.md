@@ -4,10 +4,12 @@ title:      "平衡二叉树"
 date:       2016-04-20 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Tree, Depth-first Search]
-permalink:  /balanced-binary-tree/
+permalink:  /problems/balanced-binary-tree/
 ---
 
 ## 110. 平衡二叉树 (Easy)
+
+{% raw %}
 
 <p>给定一个二叉树，判断它是否是高度平衡的二叉树。</p>
 
@@ -44,12 +46,14 @@ permalink:  /balanced-binary-tree/
 
 <p>返回&nbsp;<code>false</code> 。</p>
 
+{% endraw %}
+
 ### 相关话题
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
   [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
 
 ### 相似题目
-  1. [二叉树的最大深度](/maximum-depth-of-binary-tree) (Easy)
+  1. [二叉树的最大深度](/problems/maximum-depth-of-binary-tree) (Easy)
 
 ---
 

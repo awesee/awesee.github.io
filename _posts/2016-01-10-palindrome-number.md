@@ -4,7 +4,7 @@ title:      "回文数"
 date:       2016-01-10 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Math]
-permalink:  /palindrome-number/
+permalink:  /problems/palindrome-number/
 ---
 
 ## 9. 回文数 (Easy)
@@ -43,7 +43,7 @@ permalink:  /palindrome-number/
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
 
 ### 相似题目
-  1. [回文链表](/palindrome-linked-list) (Easy)
+  1. [回文链表](/problems/palindrome-linked-list) (Easy)
 
 ---
 

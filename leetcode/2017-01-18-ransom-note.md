@@ -4,7 +4,7 @@ title:      "赎金信"
 date:       2017-01-18 21:30:00 +0800
 categories: [Leetcode]
 tags:       [String]
-permalink:  /ransom-note/
+permalink:  /problems/ransom-note/
 ---
 
 ## 383. 赎金信 (Easy)
@@ -31,7 +31,7 @@ canConstruct(&quot;aa&quot;, &quot;aab&quot;) -&gt; true
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ### 相似题目
-  1. [贴纸拼词](/stickers-to-spell-word) (Hard)
+  1. [贴纸拼词](/problems/stickers-to-spell-word) (Hard)
 
 ---
 

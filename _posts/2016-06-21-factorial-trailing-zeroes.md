@@ -4,7 +4,7 @@ title:      "阶乘后的零"
 date:       2016-06-21 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Math]
-permalink:  /factorial-trailing-zeroes/
+permalink:  /problems/factorial-trailing-zeroes/
 ---
 
 ## 172. 阶乘后的零 (Easy)
@@ -33,8 +33,8 @@ permalink:  /factorial-trailing-zeroes/
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
 
 ### 相似题目
-  1. [数字 1 的个数](/number-of-digit-one) (Hard)
-  1. [阶乘函数后K个零](/preimage-size-of-factorial-zeroes-function) (Hard)
+  1. [数字 1 的个数](/problems/number-of-digit-one) (Hard)
+  1. [阶乘函数后K个零](/problems/preimage-size-of-factorial-zeroes-function) (Hard)
 
 ---
 

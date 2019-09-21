@@ -4,7 +4,7 @@ title:      "整数反转"
 date:       2016-01-08 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Math]
-permalink:  /reverse-integer/
+permalink:  /problems/reverse-integer/
 ---
 
 ## 7. 整数反转 (Easy)
@@ -41,8 +41,8 @@ permalink:  /reverse-integer/
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
 
 ### 相似题目
-  1. [字符串转换整数 (atoi)](/string-to-integer-atoi) (Medium)
-  1. [颠倒二进制位](/reverse-bits) (Easy)
+  1. [字符串转换整数 (atoi)](/problems/string-to-integer-atoi) (Medium)
+  1. [颠倒二进制位](/problems/reverse-bits) (Easy)
 
 ---
 

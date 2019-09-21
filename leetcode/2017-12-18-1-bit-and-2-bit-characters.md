@@ -4,7 +4,7 @@ title:      "1比特与2比特字符"
 date:       2017-12-18 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array]
-permalink:  /1-bit-and-2-bit-characters/
+permalink:  /problems/1-bit-and-2-bit-characters/
 ---
 
 ## 717. 1比特与2比特字符 (Easy)
@@ -48,7 +48,7 @@ bits = [1, 1, 1, 0]
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 
 ### 相似题目
-  1. [格雷编码](/gray-code) (Medium)
+  1. [格雷编码](/problems/gray-code) (Medium)
 
 ---
 

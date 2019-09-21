@@ -4,7 +4,7 @@ title:      "按权重随机选择"
 date:       2017-06-12 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Binary Search, Random]
-permalink:  /random-pick-with-weight/
+permalink:  /problems/random-pick-with-weight/
 ---
 
 ## 528. 按权重随机选择 (Medium)
@@ -49,9 +49,9 @@ permalink:  /random-pick-with-weight/
   [[Random](https://github.com/openset/leetcode/tree/master/tag/random/README.md)]
 
 ### 相似题目
-  1. [随机数索引](/random-pick-index) (Medium)
-  1. [黑名单中的随机数](/random-pick-with-blacklist) (Hard)
-  1. [非重叠矩形中的随机点](/random-point-in-non-overlapping-rectangles) (Medium)
+  1. [随机数索引](/problems/random-pick-index) (Medium)
+  1. [黑名单中的随机数](/problems/random-pick-with-blacklist) (Hard)
+  1. [非重叠矩形中的随机点](/problems/random-point-in-non-overlapping-rectangles) (Medium)
 
 ---
 

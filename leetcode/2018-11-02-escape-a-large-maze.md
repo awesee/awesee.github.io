@@ -4,7 +4,7 @@ title:      "逃离大迷宫"
 date:       2018-11-02 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Breadth-first Search]
-permalink:  /escape-a-large-maze/
+permalink:  /problems/escape-a-large-maze/
 ---
 
 ## 1036. 逃离大迷宫 (Hard)

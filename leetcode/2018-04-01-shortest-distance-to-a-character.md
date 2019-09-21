@@ -4,7 +4,7 @@ title:      "字符的最短距离"
 date:       2018-04-01 21:30:00 +0800
 categories: [Leetcode]
 tags:       []
-permalink:  /shortest-distance-to-a-character/
+permalink:  /problems/shortest-distance-to-a-character/
 ---
 
 ## 821. 字符的最短距离 (Easy)

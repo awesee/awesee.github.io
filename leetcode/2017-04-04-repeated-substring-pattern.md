@@ -4,7 +4,7 @@ title:      "重复的子字符串"
 date:       2017-04-04 21:30:00 +0800
 categories: [Leetcode]
 tags:       [String]
-permalink:  /repeated-substring-pattern/
+permalink:  /problems/repeated-substring-pattern/
 ---
 
 ## 459. 重复的子字符串 (Easy)
@@ -47,8 +47,8 @@ permalink:  /repeated-substring-pattern/
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ### 相似题目
-  1. [实现strStr()](/implement-strstr) (Easy)
-  1. [重复叠加字符串匹配](/repeated-string-match) (Easy)
+  1. [实现 strStr()](/problems/implement-strstr) (Easy)
+  1. [重复叠加字符串匹配](/problems/repeated-string-match) (Easy)
 
 ---
 

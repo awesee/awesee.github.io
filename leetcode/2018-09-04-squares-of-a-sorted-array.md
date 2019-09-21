@@ -4,7 +4,7 @@ title:      "有序数组的平方"
 date:       2018-09-04 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array, Two Pointers]
-permalink:  /squares-of-a-sorted-array/
+permalink:  /problems/squares-of-a-sorted-array/
 ---
 
 ## 977. 有序数组的平方 (Easy)
@@ -44,8 +44,8 @@ permalink:  /squares-of-a-sorted-array/
   [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
 
 ### 相似题目
-  1. [合并两个有序数组](/merge-sorted-array) (Easy)
-  1. [有序转化数组](/sort-transformed-array) (Medium)
+  1. [合并两个有序数组](/problems/merge-sorted-array) (Easy)
+  1. [有序转化数组](/problems/sort-transformed-array) (Medium)
 
 ---
 

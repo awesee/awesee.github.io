@@ -4,7 +4,7 @@ title:      "转换成小写字母"
 date:       2017-12-10 21:30:00 +0800
 categories: [Leetcode]
 tags:       [String]
-permalink:  /to-lower-case/
+permalink:  /problems/to-lower-case/
 ---
 
 ## 709. 转换成小写字母 (Easy)

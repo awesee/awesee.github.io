@@ -4,7 +4,7 @@ title:      "鸡蛋掉落"
 date:       2018-06-06 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Math, Binary Search, Dynamic Programming]
-permalink:  /super-egg-drop/
+permalink:  /problems/super-egg-drop/
 ---
 
 ## 887. 鸡蛋掉落 (Hard)

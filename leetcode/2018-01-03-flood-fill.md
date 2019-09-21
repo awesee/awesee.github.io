@@ -4,7 +4,7 @@ title:      "图像渲染"
 date:       2018-01-03 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Depth-first Search]
-permalink:  /flood-fill/
+permalink:  /problems/flood-fill/
 ---
 
 ## 733. 图像渲染 (Easy)
@@ -47,7 +47,7 @@ sr = 1, sc = 1, newColor = 2
   [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
 
 ### 相似题目
-  1. [岛屿的周长](/island-perimeter) (Easy)
+  1. [岛屿的周长](/problems/island-perimeter) (Easy)
 
 ---
 

@@ -4,7 +4,7 @@ title:      "柠檬水找零"
 date:       2018-05-10 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Greedy]
-permalink:  /lemonade-change/
+permalink:  /problems/lemonade-change/
 ---
 
 ## 860. 柠檬水找零 (Easy)

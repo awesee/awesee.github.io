@@ -4,7 +4,7 @@ title:      "打砖块"
 date:       2018-03-14 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Union Find]
-permalink:  /bricks-falling-when-hit/
+permalink:  /problems/bricks-falling-when-hit/
 ---
 
 ## 803. 打砖块 (Hard)

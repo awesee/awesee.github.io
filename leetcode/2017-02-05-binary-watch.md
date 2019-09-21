@@ -4,7 +4,7 @@ title:      "二进制手表"
 date:       2017-02-05 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Bit Manipulation, Backtracking]
-permalink:  /binary-watch/
+permalink:  /problems/binary-watch/
 ---
 
 ## 401. 二进制手表 (Easy)
@@ -44,8 +44,8 @@ permalink:  /binary-watch/
   [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
 
 ### 相似题目
-  1. [电话号码的字母组合](/letter-combinations-of-a-phone-number) (Medium)
-  1. [位1的个数](/number-of-1-bits) (Easy)
+  1. [电话号码的字母组合](/problems/letter-combinations-of-a-phone-number) (Medium)
+  1. [位1的个数](/problems/number-of-1-bits) (Easy)
 
 ---
 

@@ -4,7 +4,7 @@ title:      "第十行"
 date:       2016-07-14 21:30:00 +0800
 categories: [Leetcode]
 tags:       []
-permalink:  /tenth-line/
+permalink:  /problems/tenth-line/
 ---
 
 ## 195. 第十行 (Easy)

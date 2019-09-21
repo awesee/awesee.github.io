@@ -4,7 +4,7 @@ title:      "合并二叉树"
 date:       2017-09-09 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Tree]
-permalink:  /merge-two-binary-trees/
+permalink:  /problems/merge-two-binary-trees/
 ---
 
 ## 617. 合并二叉树 (Easy)

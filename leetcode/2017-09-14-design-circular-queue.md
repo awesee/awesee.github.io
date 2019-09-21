@@ -4,7 +4,7 @@ title:      "设计循环队列"
 date:       2017-09-14 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Design, Queue]
-permalink:  /design-circular-queue/
+permalink:  /problems/design-circular-queue/
 ---
 
 ## 622. 设计循环队列 (Medium)
@@ -69,7 +69,7 @@ circularQueue.Rear(); &nbsp;// 返回 4
   [[队列](https://github.com/openset/leetcode/tree/master/tag/queue/README.md)]
 
 ### 相似题目
-  1. [设计循环双端队列](/design-circular-deque) (Medium)
+  1. [设计循环双端队列](/problems/design-circular-deque) (Medium)
 
 ---
 

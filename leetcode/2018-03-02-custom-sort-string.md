@@ -4,7 +4,7 @@ title:      "自定义字符串排序"
 date:       2018-03-02 21:30:00 +0800
 categories: [Leetcode]
 tags:       [String]
-permalink:  /custom-sort-string/
+permalink:  /problems/custom-sort-string/
 ---
 
 ## 791. 自定义字符串排序 (Medium)

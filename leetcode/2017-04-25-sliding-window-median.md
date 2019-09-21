@@ -4,7 +4,7 @@ title:      "滑动窗口中位数"
 date:       2017-04-25 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Sliding Window]
-permalink:  /sliding-window-median/
+permalink:  /problems/sliding-window-median/
 ---
 
 ## 480. 滑动窗口中位数 (Hard)
@@ -47,7 +47,7 @@ permalink:  /sliding-window-median/
   [[Sliding Window](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
 
 ### 相似题目
-  1. [数据流的中位数](/find-median-from-data-stream) (Hard)
+  1. [数据流的中位数](/problems/find-median-from-data-stream) (Hard)
 
 ---
 

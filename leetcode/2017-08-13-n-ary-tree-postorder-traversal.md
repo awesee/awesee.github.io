@@ -4,7 +4,7 @@ title:      "N叉树的后序遍历"
 date:       2017-08-13 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Tree]
-permalink:  /n-ary-tree-postorder-traversal/
+permalink:  /problems/n-ary-tree-postorder-traversal/
 ---
 
 ## 590. N叉树的后序遍历 (Easy)
@@ -33,9 +33,9 @@ permalink:  /n-ary-tree-postorder-traversal/
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
 
 ### 相似题目
-  1. [二叉树的后序遍历](/binary-tree-postorder-traversal) (Hard)
-  1. [N叉树的层序遍历](/n-ary-tree-level-order-traversal) (Easy)
-  1. [N叉树的前序遍历](/n-ary-tree-preorder-traversal) (Easy)
+  1. [二叉树的后序遍历](/problems/binary-tree-postorder-traversal) (Hard)
+  1. [N叉树的层序遍历](/problems/n-ary-tree-level-order-traversal) (Easy)
+  1. [N叉树的前序遍历](/problems/n-ary-tree-preorder-traversal) (Easy)
 
 ---
 

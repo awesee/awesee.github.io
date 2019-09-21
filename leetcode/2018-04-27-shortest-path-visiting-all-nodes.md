@@ -4,7 +4,7 @@ title:      "访问所有节点的最短路径"
 date:       2018-04-27 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Breadth-first Search, Dynamic Programming]
-permalink:  /shortest-path-visiting-all-nodes/
+permalink:  /problems/shortest-path-visiting-all-nodes/
 ---
 
 ## 847. 访问所有节点的最短路径 (Hard)

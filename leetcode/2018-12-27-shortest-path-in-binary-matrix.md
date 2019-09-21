@@ -4,7 +4,7 @@ title:      "二进制矩阵中的最短路径"
 date:       2018-12-27 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Breadth-first Search]
-permalink:  /shortest-path-in-binary-matrix/
+permalink:  /problems/shortest-path-in-binary-matrix/
 ---
 
 ## 1091. 二进制矩阵中的最短路径 (Medium)

@@ -4,7 +4,7 @@ title:      "一手顺子"
 date:       2018-04-26 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Ordered Map]
-permalink:  /hand-of-straights/
+permalink:  /problems/hand-of-straights/
 ---
 
 ## 846. 一手顺子 (Medium)

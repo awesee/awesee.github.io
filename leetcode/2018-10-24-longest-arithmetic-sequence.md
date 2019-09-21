@@ -4,7 +4,7 @@ title:      "最长等差数列"
 date:       2018-10-24 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Dynamic Programming]
-permalink:  /longest-arithmetic-sequence/
+permalink:  /problems/longest-arithmetic-sequence/
 ---
 
 ## 1027. 最长等差数列 (Medium)

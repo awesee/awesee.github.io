@@ -4,7 +4,7 @@ title:      "最大加号标志"
 date:       2018-02-03 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Dynamic Programming]
-permalink:  /largest-plus-sign/
+permalink:  /problems/largest-plus-sign/
 ---
 
 ## 764. 最大加号标志 (Medium)
@@ -108,7 +108,7 @@ permalink:  /largest-plus-sign/
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### 相似题目
-  1. [最大正方形](/maximal-square) (Medium)
+  1. [最大正方形](/problems/maximal-square) (Medium)
 
 ---
 

@@ -4,7 +4,7 @@ title:      "丑数"
 date:       2016-09-20 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Math]
-permalink:  /ugly-number/
+permalink:  /problems/ugly-number/
 ---
 
 ## 263. 丑数 (Easy)
@@ -47,9 +47,9 @@ permalink:  /ugly-number/
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
 
 ### 相似题目
-  1. [快乐数](/happy-number) (Easy)
-  1. [计数质数](/count-primes) (Easy)
-  1. [丑数 II](/ugly-number-ii) (Medium)
+  1. [快乐数](/problems/happy-number) (Easy)
+  1. [计数质数](/problems/count-primes) (Easy)
+  1. [丑数 II](/problems/ugly-number-ii) (Medium)
 
 ---
 

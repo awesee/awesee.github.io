@@ -4,7 +4,7 @@ title:      "数字 1 的个数"
 date:       2016-08-21 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Math]
-permalink:  /number-of-digit-one/
+permalink:  /problems/number-of-digit-one/
 ---
 
 ## 233. 数字 1 的个数 (Hard)
@@ -25,8 +25,8 @@ permalink:  /number-of-digit-one/
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
 
 ### 相似题目
-  1. [阶乘后的零](/factorial-trailing-zeroes) (Easy)
-  1. [范围内的数字计数](/digit-count-in-range) (Hard)
+  1. [阶乘后的零](/problems/factorial-trailing-zeroes) (Easy)
+  1. [范围内的数字计数](/problems/digit-count-in-range) (Hard)
 
 ---
 

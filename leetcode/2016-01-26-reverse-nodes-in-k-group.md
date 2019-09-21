@@ -4,7 +4,7 @@ title:      "K 个一组翻转链表"
 date:       2016-01-26 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Linked List]
-permalink:  /reverse-nodes-in-k-group/
+permalink:  /problems/reverse-nodes-in-k-group/
 ---
 
 ## 25. K 个一组翻转链表 (Hard)
@@ -38,7 +38,7 @@ permalink:  /reverse-nodes-in-k-group/
   [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
 
 ### 相似题目
-  1. [两两交换链表中的节点](/swap-nodes-in-pairs) (Medium)
+  1. [两两交换链表中的节点](/problems/swap-nodes-in-pairs) (Medium)
 
 ---
 

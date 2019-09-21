@@ -4,7 +4,7 @@ title:      "单值二叉树"
 date:       2018-08-23 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Tree]
-permalink:  /univalued-binary-tree/
+permalink:  /problems/univalued-binary-tree/
 ---
 
 ## 965. 单值二叉树 (Easy)

@@ -4,7 +4,7 @@ title:      "不同路径"
 date:       2016-03-03 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array, Dynamic Programming]
-permalink:  /unique-paths/
+permalink:  /problems/unique-paths/
 ---
 
 ## 62. 不同路径 (Medium)
@@ -46,9 +46,9 @@ permalink:  /unique-paths/
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### 相似题目
-  1. [不同路径 II](/unique-paths-ii) (Medium)
-  1. [最小路径和](/minimum-path-sum) (Medium)
-  1. [地下城游戏](/dungeon-game) (Hard)
+  1. [不同路径 II](/problems/unique-paths-ii) (Medium)
+  1. [最小路径和](/problems/minimum-path-sum) (Medium)
+  1. [地下城游戏](/problems/dungeon-game) (Hard)
 
 ---
 

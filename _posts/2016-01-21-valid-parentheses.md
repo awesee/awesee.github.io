@@ -4,7 +4,7 @@ title:      "有效的括号"
 date:       2016-01-21 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Stack, String]
-permalink:  /valid-parentheses/
+permalink:  /problems/valid-parentheses/
 ---
 
 ## 20. 有效的括号 (Easy)
@@ -58,10 +58,10 @@ permalink:  /valid-parentheses/
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ### 相似题目
-  1. [括号生成](/generate-parentheses) (Medium)
-  1. [最长有效括号](/longest-valid-parentheses) (Hard)
-  1. [删除无效的括号](/remove-invalid-parentheses) (Hard)
-  1. [检查替换后的词是否有效](/check-if-word-is-valid-after-substitutions) (Medium)
+  1. [括号生成](/problems/generate-parentheses) (Medium)
+  1. [最长有效括号](/problems/longest-valid-parentheses) (Hard)
+  1. [删除无效的括号](/problems/remove-invalid-parentheses) (Hard)
+  1. [检查替换后的词是否有效](/problems/check-if-word-is-valid-after-substitutions) (Medium)
 
 ---
 

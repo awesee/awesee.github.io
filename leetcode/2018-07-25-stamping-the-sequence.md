@@ -4,7 +4,7 @@ title:      "戳印序列"
 date:       2018-07-25 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Greedy, String]
-permalink:  /stamping-the-sequence/
+permalink:  /problems/stamping-the-sequence/
 ---
 
 ## 936. 戳印序列 (Hard)

@@ -4,7 +4,7 @@ title:      "交换工资"
 date:       2017-09-19 21:30:00 +0800
 categories: [Leetcode]
 tags:       []
-permalink:  /swap-salary/
+permalink:  /problems/swap-salary/
 ---
 
 ## 627. 交换工资 (Easy)

@@ -4,7 +4,7 @@ title:      "棒球比赛"
 date:       2017-11-13 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Stack]
-permalink:  /baseball-game/
+permalink:  /problems/baseball-game/
 ---
 
 ## 682. 棒球比赛 (Easy)

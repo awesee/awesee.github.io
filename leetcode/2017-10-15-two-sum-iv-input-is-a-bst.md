@@ -4,7 +4,7 @@ title:      "两数之和 IV - 输入 BST"
 date:       2017-10-15 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Tree]
-permalink:  /two-sum-iv-input-is-a-bst/
+permalink:  /problems/two-sum-iv-input-is-a-bst/
 ---
 
 ## 653. 两数之和 IV - 输入 BST (Easy)
@@ -53,9 +53,9 @@ Target = 28
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
 
 ### 相似题目
-  1. [两数之和](/two-sum) (Easy)
-  1. [两数之和 II - 输入有序数组](/two-sum-ii-input-array-is-sorted) (Easy)
-  1. [两数之和 III - 数据结构设计](/two-sum-iii-data-structure-design) (Easy)
+  1. [两数之和](/problems/two-sum) (Easy)
+  1. [两数之和 II - 输入有序数组](/problems/two-sum-ii-input-array-is-sorted) (Easy)
+  1. [两数之和 III - 数据结构设计](/problems/two-sum-iii-data-structure-design) (Easy)
 
 ---
 

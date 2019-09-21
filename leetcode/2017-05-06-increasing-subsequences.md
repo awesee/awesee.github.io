@@ -4,7 +4,7 @@ title:      "递增子序列"
 date:       2017-05-06 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Depth-first Search]
-permalink:  /increasing-subsequences/
+permalink:  /problems/increasing-subsequences/
 ---
 
 ## 491. 递增子序列 (Medium)
@@ -33,7 +33,7 @@ permalink:  /increasing-subsequences/
   [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
 
 ### 相似题目
-  1. [最长数对链](/maximum-length-of-pair-chain) (Medium)
+  1. [最长数对链](/problems/maximum-length-of-pair-chain) (Medium)
 
 ---
 

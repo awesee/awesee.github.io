@@ -4,7 +4,7 @@ title:      "具有所有最深结点的最小子树"
 date:       2018-05-15 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Tree]
-permalink:  /smallest-subtree-with-all-the-deepest-nodes/
+permalink:  /problems/smallest-subtree-with-all-the-deepest-nodes/
 ---
 
 ## 865. 具有所有最深结点的最小子树 (Medium)

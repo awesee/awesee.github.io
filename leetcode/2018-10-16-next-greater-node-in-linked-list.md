@@ -4,7 +4,7 @@ title:      "链表中的下一个更大节点"
 date:       2018-10-16 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Stack, Linked List]
-permalink:  /next-greater-node-in-linked-list/
+permalink:  /problems/next-greater-node-in-linked-list/
 ---
 
 ## 1019. 链表中的下一个更大节点 (Medium)

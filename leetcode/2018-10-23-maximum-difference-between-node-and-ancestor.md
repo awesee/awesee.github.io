@@ -4,7 +4,7 @@ title:      "节点与其祖先之间的最大差值"
 date:       2018-10-23 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Tree, Depth-first Search]
-permalink:  /maximum-difference-between-node-and-ancestor/
+permalink:  /problems/maximum-difference-between-node-and-ancestor/
 ---
 
 ## 1026. 节点与其祖先之间的最大差值 (Medium)

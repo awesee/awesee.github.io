@@ -4,7 +4,7 @@ title:      "机器人能否返回原点"
 date:       2017-10-19 21:30:00 +0800
 categories: [Leetcode]
 tags:       [String]
-permalink:  /robot-return-to-origin/
+permalink:  /problems/robot-return-to-origin/
 ---
 
 ## 657. 机器人能否返回原点 (Easy)
@@ -37,7 +37,7 @@ permalink:  /robot-return-to-origin/
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ### 相似题目
-  1. [朋友圈](/friend-circles) (Medium)
+  1. [朋友圈](/problems/friend-circles) (Medium)
 
 ---
 

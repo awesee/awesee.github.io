@@ -4,7 +4,7 @@ title:      "二叉搜索树的最近公共祖先"
 date:       2016-08-23 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Tree]
-permalink:  /lowest-common-ancestor-of-a-binary-search-tree/
+permalink:  /problems/lowest-common-ancestor-of-a-binary-search-tree/
 ---
 
 ## 235. 二叉搜索树的最近公共祖先 (Easy)
@@ -49,7 +49,7 @@ permalink:  /lowest-common-ancestor-of-a-binary-search-tree/
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
 
 ### 相似题目
-  1. [二叉树的最近公共祖先](/lowest-common-ancestor-of-a-binary-tree) (Medium)
+  1. [二叉树的最近公共祖先](/problems/lowest-common-ancestor-of-a-binary-tree) (Medium)
 
 ---
 

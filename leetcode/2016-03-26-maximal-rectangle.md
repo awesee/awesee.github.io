@@ -4,7 +4,7 @@ title:      "最大矩形"
 date:       2016-03-26 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Stack, Array, Hash Table, Dynamic Programming]
-permalink:  /maximal-rectangle/
+permalink:  /problems/maximal-rectangle/
 ---
 
 ## 85. 最大矩形 (Hard)
@@ -33,8 +33,8 @@ permalink:  /maximal-rectangle/
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### 相似题目
-  1. [柱状图中最大的矩形](/largest-rectangle-in-histogram) (Hard)
-  1. [最大正方形](/maximal-square) (Medium)
+  1. [柱状图中最大的矩形](/problems/largest-rectangle-in-histogram) (Hard)
+  1. [最大正方形](/problems/maximal-square) (Medium)
 
 ---
 

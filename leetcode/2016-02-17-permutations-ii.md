@@ -4,7 +4,7 @@ title:      "全排列 II"
 date:       2016-02-17 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Backtracking]
-permalink:  /permutations-ii/
+permalink:  /problems/permutations-ii/
 ---
 
 ## 47. 全排列 II (Medium)
@@ -29,10 +29,10 @@ permalink:  /permutations-ii/
   [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
 
 ### 相似题目
-  1. [下一个排列](/next-permutation) (Medium)
-  1. [全排列](/permutations) (Medium)
-  1. [回文排列 II](/palindrome-permutation-ii) (Medium)
-  1. [正方形数组的数目](/number-of-squareful-arrays) (Hard)
+  1. [下一个排列](/problems/next-permutation) (Medium)
+  1. [全排列](/problems/permutations) (Medium)
+  1. [回文排列 II](/problems/palindrome-permutation-ii) (Medium)
+  1. [正方形数组的数目](/problems/number-of-squareful-arrays) (Hard)
 
 ---
 

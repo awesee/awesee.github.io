@@ -4,7 +4,7 @@ title:      "最大连续1的个数 III"
 date:       2018-10-01 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Two Pointers, Sliding Window]
-permalink:  /max-consecutive-ones-iii/
+permalink:  /problems/max-consecutive-ones-iii/
 ---
 
 ## 1004. 最大连续1的个数 III (Medium)
@@ -50,10 +50,10 @@ permalink:  /max-consecutive-ones-iii/
   [[Sliding Window](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
 
 ### 相似题目
-  1. [至多包含 K 个不同字符的最长子串](/longest-substring-with-at-most-k-distinct-characters) (Hard)
-  1. [替换后的最长重复字符](/longest-repeating-character-replacement) (Medium)
-  1. [最大连续1的个数](/max-consecutive-ones) (Easy)
-  1. [最大连续1的个数 II](/max-consecutive-ones-ii) (Medium)
+  1. [至多包含 K 个不同字符的最长子串](/problems/longest-substring-with-at-most-k-distinct-characters) (Hard)
+  1. [替换后的最长重复字符](/problems/longest-repeating-character-replacement) (Medium)
+  1. [最大连续1的个数](/problems/max-consecutive-ones) (Easy)
+  1. [最大连续1的个数 II](/problems/max-consecutive-ones-ii) (Medium)
 
 ---
 

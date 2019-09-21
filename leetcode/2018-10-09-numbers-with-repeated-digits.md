@@ -4,7 +4,7 @@ title:      "至少有 1 位重复的数字"
 date:       2018-10-09 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Math, Dynamic Programming]
-permalink:  /numbers-with-repeated-digits/
+permalink:  /problems/numbers-with-repeated-digits/
 ---
 
 ## 1012. 至少有 1 位重复的数字 (Hard)

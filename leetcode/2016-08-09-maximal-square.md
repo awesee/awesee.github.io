@@ -4,7 +4,7 @@ title:      "最大正方形"
 date:       2016-08-09 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Dynamic Programming]
-permalink:  /maximal-square/
+permalink:  /problems/maximal-square/
 ---
 
 ## 221. 最大正方形 (Medium)
@@ -30,8 +30,8 @@ permalink:  /maximal-square/
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### 相似题目
-  1. [最大矩形](/maximal-rectangle) (Hard)
-  1. [最大加号标志](/largest-plus-sign) (Medium)
+  1. [最大矩形](/problems/maximal-rectangle) (Hard)
+  1. [最大加号标志](/problems/largest-plus-sign) (Medium)
 
 ---
 

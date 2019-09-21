@@ -4,7 +4,7 @@ title:      "第K个语法符号"
 date:       2018-02-18 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Recursion]
-permalink:  /k-th-symbol-in-grammar/
+permalink:  /problems/k-th-symbol-in-grammar/
 ---
 
 ## 779. 第K个语法符号 (Medium)

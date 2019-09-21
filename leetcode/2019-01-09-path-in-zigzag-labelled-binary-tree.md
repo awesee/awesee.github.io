@@ -4,7 +4,7 @@ title:      "二叉树寻路"
 date:       2019-01-09 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Tree, Math]
-permalink:  /path-in-zigzag-labelled-binary-tree/
+permalink:  /problems/path-in-zigzag-labelled-binary-tree/
 ---
 
 ## 1104. 二叉树寻路 (Medium)

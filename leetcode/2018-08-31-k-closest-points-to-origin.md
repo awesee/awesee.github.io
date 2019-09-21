@@ -4,7 +4,7 @@ title:      "最接近原点的 K 个点"
 date:       2018-08-31 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Heap, Sort, Divide and Conquer]
-permalink:  /k-closest-points-to-origin/
+permalink:  /problems/k-closest-points-to-origin/
 ---
 
 ## 973. 最接近原点的 K 个点 (Medium)
@@ -55,9 +55,9 @@ permalink:  /k-closest-points-to-origin/
   [[分治算法](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]
 
 ### 相似题目
-  1. [数组中的第K个最大元素](/kth-largest-element-in-an-array) (Medium)
-  1. [前 K 个高频元素](/top-k-frequent-elements) (Medium)
-  1. [前K个高频单词](/top-k-frequent-words) (Medium)
+  1. [数组中的第K个最大元素](/problems/kth-largest-element-in-an-array) (Medium)
+  1. [前 K 个高频元素](/problems/top-k-frequent-elements) (Medium)
+  1. [前K个高频单词](/problems/top-k-frequent-words) (Medium)
 
 ---
 

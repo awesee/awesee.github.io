@@ -4,7 +4,7 @@ title:      "使括号有效的最少添加"
 date:       2018-07-10 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Stack, Greedy]
-permalink:  /minimum-add-to-make-parentheses-valid/
+permalink:  /problems/minimum-add-to-make-parentheses-valid/
 ---
 
 ## 921. 使括号有效的最少添加 (Medium)

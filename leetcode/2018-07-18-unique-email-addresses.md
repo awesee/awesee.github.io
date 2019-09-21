@@ -4,7 +4,7 @@ title:      "独特的电子邮件地址"
 date:       2018-07-18 21:30:00 +0800
 categories: [Leetcode]
 tags:       [String]
-permalink:  /unique-email-addresses/
+permalink:  /problems/unique-email-addresses/
 ---
 
 ## 929. 独特的电子邮件地址 (Easy)

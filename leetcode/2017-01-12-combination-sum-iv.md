@@ -4,7 +4,7 @@ title:      "组合总和 Ⅳ"
 date:       2017-01-12 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Dynamic Programming]
-permalink:  /combination-sum-iv/
+permalink:  /problems/combination-sum-iv/
 ---
 
 ## 377. 组合总和 Ⅳ (Medium)
@@ -47,7 +47,7 @@ permalink:  /combination-sum-iv/
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### 相似题目
-  1. [组合总和](/combination-sum) (Medium)
+  1. [组合总和](/problems/combination-sum) (Medium)
 
 ---
 

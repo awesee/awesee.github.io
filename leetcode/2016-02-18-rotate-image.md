@@ -4,7 +4,7 @@ title:      "旋转图像"
 date:       2016-02-18 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array]
-permalink:  /rotate-image/
+permalink:  /problems/rotate-image/
 ---
 
 ## 48. 旋转图像 (Medium)

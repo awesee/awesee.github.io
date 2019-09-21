@@ -4,7 +4,7 @@ title:      "随机数索引"
 date:       2017-02-02 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Reservoir Sampling]
-permalink:  /random-pick-index/
+permalink:  /problems/random-pick-index/
 ---
 
 ## 398. 随机数索引 (Medium)
@@ -35,9 +35,9 @@ solution.pick(1);
   [[蓄水池抽样](https://github.com/openset/leetcode/tree/master/tag/reservoir-sampling/README.md)]
 
 ### 相似题目
-  1. [链表随机节点](/linked-list-random-node) (Medium)
-  1. [黑名单中的随机数](/random-pick-with-blacklist) (Hard)
-  1. [按权重随机选择](/random-pick-with-weight) (Medium)
+  1. [链表随机节点](/problems/linked-list-random-node) (Medium)
+  1. [黑名单中的随机数](/problems/random-pick-with-blacklist) (Hard)
+  1. [按权重随机选择](/problems/random-pick-with-weight) (Medium)
 
 ---
 

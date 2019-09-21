@@ -4,7 +4,7 @@ title:      "将数组分成和相等的三个部分"
 date:       2018-10-10 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array]
-permalink:  /partition-array-into-three-parts-with-equal-sum/
+permalink:  /problems/partition-array-into-three-parts-with-equal-sum/
 ---
 
 ## 1013. 将数组分成和相等的三个部分 (Easy)

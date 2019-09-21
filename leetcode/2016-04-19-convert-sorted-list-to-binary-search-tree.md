@@ -4,10 +4,12 @@ title:      "有序链表转换二叉搜索树"
 date:       2016-04-19 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Depth-first Search, Linked List]
-permalink:  /convert-sorted-list-to-binary-search-tree/
+permalink:  /problems/convert-sorted-list-to-binary-search-tree/
 ---
 
 ## 109. 有序链表转换二叉搜索树 (Medium)
+
+{% raw %}
 
 <p>给定一个单链表，其中的元素按升序排序，将其转换为高度平衡的二叉搜索树。</p>
 
@@ -26,12 +28,14 @@ permalink:  /convert-sorted-list-to-binary-search-tree/
  -10  5
 </pre>
 
+{% endraw %}
+
 ### 相关话题
   [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
   [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
 
 ### 相似题目
-  1. [将有序数组转换为二叉搜索树](/convert-sorted-array-to-binary-search-tree) (Easy)
+  1. [将有序数组转换为二叉搜索树](/problems/convert-sorted-array-to-binary-search-tree) (Easy)
 
 ---
 

@@ -4,7 +4,7 @@ title:      "最长特殊序列 Ⅰ"
 date:       2017-06-05 21:30:00 +0800
 categories: [Leetcode]
 tags:       [String]
-permalink:  /longest-uncommon-subsequence-i/
+permalink:  /problems/longest-uncommon-subsequence-i/
 ---
 
 ## 521. 最长特殊序列 Ⅰ (Easy)
@@ -37,7 +37,7 @@ permalink:  /longest-uncommon-subsequence-i/
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ### 相似题目
-  1. [最长特殊序列 II](/longest-uncommon-subsequence-ii) (Medium)
+  1. [最长特殊序列 II](/problems/longest-uncommon-subsequence-ii) (Medium)
 
 ---
 

@@ -4,7 +4,7 @@ title:      "总持续时间可被 60 整除的歌曲"
 date:       2018-10-07 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array]
-permalink:  /pairs-of-songs-with-total-durations-divisible-by-60/
+permalink:  /problems/pairs-of-songs-with-total-durations-divisible-by-60/
 ---
 
 ## 1010. 总持续时间可被 60 整除的歌曲 (Easy)

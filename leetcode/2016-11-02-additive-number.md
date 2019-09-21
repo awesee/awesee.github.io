@@ -4,7 +4,7 @@ title:      "累加数"
 date:       2016-11-02 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Backtracking]
-permalink:  /additive-number/
+permalink:  /problems/additive-number/
 ---
 
 ## 306. 累加数 (Medium)
@@ -41,7 +41,7 @@ permalink:  /additive-number/
   [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
 
 ### 相似题目
-  1. [将数组拆分成斐波那契序列](/split-array-into-fibonacci-sequence) (Medium)
+  1. [将数组拆分成斐波那契序列](/problems/split-array-into-fibonacci-sequence) (Medium)
 
 ---
 

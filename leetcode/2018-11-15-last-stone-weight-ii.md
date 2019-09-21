@@ -4,7 +4,7 @@ title:      "最后一块石头的重量 II"
 date:       2018-11-15 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Dynamic Programming]
-permalink:  /last-stone-weight-ii/
+permalink:  /problems/last-stone-weight-ii/
 ---
 
 ## 1049. 最后一块石头的重量 II (Medium)

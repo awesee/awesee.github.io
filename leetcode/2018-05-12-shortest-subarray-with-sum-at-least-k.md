@@ -4,7 +4,7 @@ title:      "和至少为 K 的最短子数组"
 date:       2018-05-12 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Queue, Binary Search]
-permalink:  /shortest-subarray-with-sum-at-least-k/
+permalink:  /problems/shortest-subarray-with-sum-at-least-k/
 ---
 
 ## 862. 和至少为 K 的最短子数组 (Hard)

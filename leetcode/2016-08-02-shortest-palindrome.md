@@ -4,7 +4,7 @@ title:      "最短回文串"
 date:       2016-08-02 21:30:00 +0800
 categories: [Leetcode]
 tags:       [String]
-permalink:  /shortest-palindrome/
+permalink:  /problems/shortest-palindrome/
 ---
 
 ## 214. 最短回文串 (Hard)
@@ -30,9 +30,9 @@ permalink:  /shortest-palindrome/
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ### 相似题目
-  1. [最长回文子串](/longest-palindromic-substring) (Medium)
-  1. [实现strStr()](/implement-strstr) (Easy)
-  1. [回文对](/palindrome-pairs) (Hard)
+  1. [最长回文子串](/problems/longest-palindromic-substring) (Medium)
+  1. [实现 strStr()](/problems/implement-strstr) (Easy)
+  1. [回文对](/problems/palindrome-pairs) (Hard)
 
 ---
 

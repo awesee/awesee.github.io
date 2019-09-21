@@ -4,7 +4,7 @@ title:      "负二进制转换"
 date:       2018-10-14 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Math]
-permalink:  /convert-to-base-2/
+permalink:  /problems/convert-to-base-2/
 ---
 
 ## 1017. 负二进制转换 (Medium)

@@ -4,7 +4,7 @@ title:      "字符串解码"
 date:       2017-01-29 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Stack, Depth-first Search]
-permalink:  /decode-string/
+permalink:  /problems/decode-string/
 ---
 
 ## 394. 字符串解码 (Medium)
@@ -34,9 +34,9 @@ s = &quot;2[abc]3[cd]ef&quot;, 返回 &quot;abcabccdcdcdef&quot;.
   [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
 
 ### 相似题目
-  1. [编码最短长度的字符串](/encode-string-with-shortest-length) (Hard)
-  1. [原子的数量](/number-of-atoms) (Hard)
-  1. [字母切换](/brace-expansion) (Medium)
+  1. [编码最短长度的字符串](/problems/encode-string-with-shortest-length) (Hard)
+  1. [原子的数量](/problems/number-of-atoms) (Hard)
+  1. [字母切换](/problems/brace-expansion) (Medium)
 
 ---
 

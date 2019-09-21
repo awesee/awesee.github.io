@@ -4,7 +4,7 @@ title:      "最大平均值和的分组"
 date:       2018-03-24 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Dynamic Programming]
-permalink:  /largest-sum-of-averages/
+permalink:  /problems/largest-sum-of-averages/
 ---
 
 ## 813. 最大平均值和的分组 (Medium)

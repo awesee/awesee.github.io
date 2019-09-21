@@ -4,7 +4,7 @@ title:      "路径交叉"
 date:       2016-12-01 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Math]
-permalink:  /self-crossing/
+permalink:  /problems/self-crossing/
 ---
 
 ## 335. 路径交叉 (Hard)

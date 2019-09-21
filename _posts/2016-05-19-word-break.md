@@ -4,7 +4,7 @@ title:      "单词拆分"
 date:       2016-05-19 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Dynamic Programming]
-permalink:  /word-break/
+permalink:  /problems/word-break/
 ---
 
 ## 139. 单词拆分 (Medium)
@@ -47,7 +47,7 @@ permalink:  /word-break/
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### 相似题目
-  1. [单词拆分 II](/word-break-ii) (Hard)
+  1. [单词拆分 II](/problems/word-break-ii) (Hard)
 
 ---
 

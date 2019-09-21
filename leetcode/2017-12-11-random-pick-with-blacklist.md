@@ -4,7 +4,7 @@ title:      "黑名单中的随机数"
 date:       2017-12-11 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Sort, Hash Table, Binary Search, Random]
-permalink:  /random-pick-with-blacklist/
+permalink:  /problems/random-pick-with-blacklist/
 ---
 
 ## 710. 黑名单中的随机数 (Hard)
@@ -72,8 +72,8 @@ permalink:  /random-pick-with-blacklist/
   [[Random](https://github.com/openset/leetcode/tree/master/tag/random/README.md)]
 
 ### 相似题目
-  1. [随机数索引](/random-pick-index) (Medium)
-  1. [按权重随机选择](/random-pick-with-weight) (Medium)
+  1. [随机数索引](/problems/random-pick-index) (Medium)
+  1. [按权重随机选择](/problems/random-pick-with-weight) (Medium)
 
 ---
 

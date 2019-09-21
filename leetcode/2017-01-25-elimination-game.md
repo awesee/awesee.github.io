@@ -4,7 +4,7 @@ title:      "消除游戏"
 date:       2017-01-25 21:30:00 +0800
 categories: [Leetcode]
 tags:       []
-permalink:  /elimination-game/
+permalink:  /problems/elimination-game/
 ---
 
 ## 390. 消除游戏 (Medium)

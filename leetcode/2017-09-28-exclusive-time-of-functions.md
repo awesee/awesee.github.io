@@ -4,7 +4,7 @@ title:      "函数的独占时间"
 date:       2017-09-28 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Stack]
-permalink:  /exclusive-time-of-functions/
+permalink:  /problems/exclusive-time-of-functions/
 ---
 
 ## 636. 函数的独占时间 (Medium)

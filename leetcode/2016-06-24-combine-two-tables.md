@@ -4,7 +4,7 @@ title:      "组合两个表"
 date:       2016-06-24 21:30:00 +0800
 categories: [Leetcode]
 tags:       []
-permalink:  /combine-two-tables/
+permalink:  /problems/combine-two-tables/
 ---
 
 ## 175. 组合两个表 (Easy)
@@ -48,7 +48,7 @@ AddressId 是上表主键
 {% endraw %}
 
 ### 相似题目
-  1. [员工奖金](/employee-bonus) (Easy)
+  1. [员工奖金](/problems/employee-bonus) (Easy)
 
 ---
 

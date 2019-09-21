@@ -4,7 +4,7 @@ title:      "盈利计划"
 date:       2018-05-29 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Dynamic Programming]
-permalink:  /profitable-schemes/
+permalink:  /problems/profitable-schemes/
 ---
 
 ## 879. 盈利计划 (Hard)

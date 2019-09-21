@@ -4,7 +4,7 @@ title:      "按要求补齐数组"
 date:       2016-11-26 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Greedy]
-permalink:  /patching-array/
+permalink:  /problems/patching-array/
 ---
 
 ## 330. 按要求补齐数组 (Hard)

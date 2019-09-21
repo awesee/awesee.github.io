@@ -4,7 +4,7 @@ title:      "连续的子数组和"
 date:       2017-06-07 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Math, Dynamic Programming]
-permalink:  /continuous-subarray-sum/
+permalink:  /problems/continuous-subarray-sum/
 ---
 
 ## 523. 连续的子数组和 (Medium)
@@ -41,7 +41,7 @@ permalink:  /continuous-subarray-sum/
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### 相似题目
-  1. [和为K的子数组](/subarray-sum-equals-k) (Medium)
+  1. [和为K的子数组](/problems/subarray-sum-equals-k) (Medium)
 
 ---
 

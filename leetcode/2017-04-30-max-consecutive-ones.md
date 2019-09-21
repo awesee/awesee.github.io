@@ -4,7 +4,7 @@ title:      "最大连续1的个数"
 date:       2017-04-30 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array]
-permalink:  /max-consecutive-ones/
+permalink:  /problems/max-consecutive-ones/
 ---
 
 ## 485. 最大连续1的个数 (Easy)
@@ -34,8 +34,8 @@ permalink:  /max-consecutive-ones/
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 
 ### 相似题目
-  1. [最大连续1的个数 II](/max-consecutive-ones-ii) (Medium)
-  1. [最大连续1的个数 III](/max-consecutive-ones-iii) (Medium)
+  1. [最大连续1的个数 II](/problems/max-consecutive-ones-ii) (Medium)
+  1. [最大连续1的个数 III](/problems/max-consecutive-ones-iii) (Medium)
 
 ---
 

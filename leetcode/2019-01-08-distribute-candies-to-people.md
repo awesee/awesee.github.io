@@ -4,7 +4,7 @@ title:      "分糖果 II"
 date:       2019-01-08 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Math]
-permalink:  /distribute-candies-to-people/
+permalink:  /problems/distribute-candies-to-people/
 ---
 
 ## 1103. 分糖果 II (Easy)

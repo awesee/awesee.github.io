@@ -4,7 +4,7 @@ title:      "分割数组的最大值"
 date:       2017-02-14 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Binary Search, Dynamic Programming]
-permalink:  /split-array-largest-sum/
+permalink:  /problems/split-array-largest-sum/
 ---
 
 ## 410. 分割数组的最大值 (Hard)

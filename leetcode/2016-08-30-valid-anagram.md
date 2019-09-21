@@ -4,7 +4,7 @@ title:      "有效的字母异位词"
 date:       2016-08-30 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Sort, Hash Table]
-permalink:  /valid-anagram/
+permalink:  /problems/valid-anagram/
 ---
 
 ## 242. 有效的字母异位词 (Easy)
@@ -37,9 +37,9 @@ permalink:  /valid-anagram/
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
 
 ### 相似题目
-  1. [字母异位词分组](/group-anagrams) (Medium)
-  1. [回文排列](/palindrome-permutation) (Easy)
-  1. [找到字符串中所有字母异位词](/find-all-anagrams-in-a-string) (Easy)
+  1. [字母异位词分组](/problems/group-anagrams) (Medium)
+  1. [回文排列](/problems/palindrome-permutation) (Easy)
+  1. [找到字符串中所有字母异位词](/problems/find-all-anagrams-in-a-string) (Easy)
 
 ---
 

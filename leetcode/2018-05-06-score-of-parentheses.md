@@ -4,7 +4,7 @@ title:      "括号的分数"
 date:       2018-05-06 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Stack, String]
-permalink:  /score-of-parentheses/
+permalink:  /problems/score-of-parentheses/
 ---
 
 ## 856. 括号的分数 (Medium)

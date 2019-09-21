@@ -4,7 +4,7 @@ title:      "基本计算器 IV"
 date:       2018-02-09 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Stack, Hash Table, String]
-permalink:  /basic-calculator-iv/
+permalink:  /problems/basic-calculator-iv/
 ---
 
 ## 770. 基本计算器 IV (Hard)
@@ -74,8 +74,8 @@ evalvars = [], evalints = []
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ### 相似题目
-  1. [Lisp 语法解析](/parse-lisp-expression) (Hard)
-  1. [基本计算器 III](/basic-calculator-iii) (Hard)
+  1. [Lisp 语法解析](/problems/parse-lisp-expression) (Hard)
+  1. [基本计算器 III](/problems/basic-calculator-iii) (Hard)
 
 ---
 

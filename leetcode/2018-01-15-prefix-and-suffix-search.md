@@ -4,7 +4,7 @@ title:      "前缀和后缀搜索"
 date:       2018-01-15 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Trie]
-permalink:  /prefix-and-suffix-search/
+permalink:  /problems/prefix-and-suffix-search/
 ---
 
 ## 745. 前缀和后缀搜索 (Hard)
@@ -40,7 +40,7 @@ WordFilter.f(&quot;b&quot;, &quot;&quot;) // 返回 -1
   [[字典树](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)]
 
 ### 相似题目
-  1. [添加与搜索单词 - 数据结构设计](/add-and-search-word-data-structure-design) (Medium)
+  1. [添加与搜索单词 - 数据结构设计](/problems/add-and-search-word-data-structure-design) (Medium)
 
 ---
 

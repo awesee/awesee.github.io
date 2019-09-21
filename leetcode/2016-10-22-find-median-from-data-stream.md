@@ -4,7 +4,7 @@ title:      "数据流的中位数"
 date:       2016-10-22 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Heap, Design]
-permalink:  /find-median-from-data-stream/
+permalink:  /problems/find-median-from-data-stream/
 ---
 
 ## 295. 数据流的中位数 (Hard)
@@ -48,7 +48,7 @@ findMedian() -&gt; 2</pre>
   [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
 
 ### 相似题目
-  1. [滑动窗口中位数](/sliding-window-median) (Hard)
+  1. [滑动窗口中位数](/problems/sliding-window-median) (Hard)
 
 ---
 

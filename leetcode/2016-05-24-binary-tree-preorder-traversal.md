@@ -4,7 +4,7 @@ title:      "二叉树的前序遍历"
 date:       2016-05-24 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Stack, Tree]
-permalink:  /binary-tree-preorder-traversal/
+permalink:  /problems/binary-tree-preorder-traversal/
 ---
 
 ## 144. 二叉树的前序遍历 (Medium)
@@ -34,9 +34,9 @@ permalink:  /binary-tree-preorder-traversal/
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
 
 ### 相似题目
-  1. [二叉树的中序遍历](/binary-tree-inorder-traversal) (Medium)
-  1. [验证前序遍历序列二叉搜索树](/verify-preorder-sequence-in-binary-search-tree) (Medium)
-  1. [N叉树的前序遍历](/n-ary-tree-preorder-traversal) (Easy)
+  1. [二叉树的中序遍历](/problems/binary-tree-inorder-traversal) (Medium)
+  1. [验证前序遍历序列二叉搜索树](/problems/verify-preorder-sequence-in-binary-search-tree) (Medium)
+  1. [N叉树的前序遍历](/problems/n-ary-tree-preorder-traversal) (Easy)
 
 ---
 

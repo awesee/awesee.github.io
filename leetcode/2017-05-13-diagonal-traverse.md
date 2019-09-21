@@ -4,7 +4,7 @@ title:      "对角线遍历"
 date:       2017-05-13 21:30:00 +0800
 categories: [Leetcode]
 tags:       []
-permalink:  /diagonal-traverse/
+permalink:  /problems/diagonal-traverse/
 ---
 
 ## 498. 对角线遍历 (Medium)

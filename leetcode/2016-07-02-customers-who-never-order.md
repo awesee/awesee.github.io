@@ -4,7 +4,7 @@ title:      "从不订购的客户"
 date:       2016-07-02 21:30:00 +0800
 categories: [Leetcode]
 tags:       []
-permalink:  /customers-who-never-order/
+permalink:  /problems/customers-who-never-order/
 ---
 
 ## 183. 从不订购的客户 (Easy)

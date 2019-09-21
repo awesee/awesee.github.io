@@ -4,7 +4,7 @@ title:      "环形数组循环"
 date:       2017-04-02 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array, Two Pointers]
-permalink:  /circular-array-loop/
+permalink:  /problems/circular-array-loop/
 ---
 
 ## 457. 环形数组循环 (Medium)

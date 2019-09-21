@@ -4,7 +4,7 @@ title:      "删除无效的括号"
 date:       2016-10-28 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Depth-first Search, Breadth-first Search]
-permalink:  /remove-invalid-parentheses/
+permalink:  /problems/remove-invalid-parentheses/
 ---
 
 ## 301. 删除无效的括号 (Hard)
@@ -39,7 +39,7 @@ permalink:  /remove-invalid-parentheses/
   [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
 
 ### 相似题目
-  1. [有效的括号](/valid-parentheses) (Easy)
+  1. [有效的括号](/problems/valid-parentheses) (Easy)
 
 ---
 

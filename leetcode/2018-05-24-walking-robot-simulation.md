@@ -4,7 +4,7 @@ title:      "模拟行走机器人"
 date:       2018-05-24 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Greedy]
-permalink:  /walking-robot-simulation/
+permalink:  /problems/walking-robot-simulation/
 ---
 
 ## 874. 模拟行走机器人 (Easy)

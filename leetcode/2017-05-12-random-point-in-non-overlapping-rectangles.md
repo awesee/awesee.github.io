@@ -4,7 +4,7 @@ title:      "非重叠矩形中的随机点"
 date:       2017-05-12 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Binary Search, Random]
-permalink:  /random-point-in-non-overlapping-rectangles/
+permalink:  /problems/random-point-in-non-overlapping-rectangles/
 ---
 
 ## 497. 非重叠矩形中的随机点 (Medium)
@@ -61,8 +61,8 @@ permalink:  /random-point-in-non-overlapping-rectangles/
   [[Random](https://github.com/openset/leetcode/tree/master/tag/random/README.md)]
 
 ### 相似题目
-  1. [按权重随机选择](/random-pick-with-weight) (Medium)
-  1. [在圆内随机生成点](/generate-random-point-in-a-circle) (Medium)
+  1. [按权重随机选择](/problems/random-pick-with-weight) (Medium)
+  1. [在圆内随机生成点](/problems/generate-random-point-in-a-circle) (Medium)
 
 ---
 

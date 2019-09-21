@@ -4,10 +4,12 @@ title:      "杨辉三角 II"
 date:       2016-04-29 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array]
-permalink:  /pascals-triangle-ii/
+permalink:  /problems/pascals-triangle-ii/
 ---
 
 ## 119. 杨辉三角 II (Easy)
+
+{% raw %}
 
 <p>给定一个非负索引&nbsp;<em>k</em>，其中 <em>k</em>&nbsp;&le;&nbsp;33，返回杨辉三角的第 <em>k </em>行。</p>
 
@@ -25,11 +27,13 @@ permalink:  /pascals-triangle-ii/
 
 <p>你可以优化你的算法到 <em>O</em>(<em>k</em>) 空间复杂度吗？</p>
 
+{% endraw %}
+
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 
 ### 相似题目
-  1. [杨辉三角](/pascals-triangle) (Easy)
+  1. [杨辉三角](/problems/pascals-triangle) (Easy)
 
 ---
 

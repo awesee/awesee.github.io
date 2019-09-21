@@ -4,7 +4,7 @@ title:      "优美的排列 II"
 date:       2017-10-29 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array]
-permalink:  /beautiful-arrangement-ii/
+permalink:  /problems/beautiful-arrangement-ii/
 ---
 
 ## 667. 优美的排列 II (Medium)
@@ -51,7 +51,7 @@ permalink:  /beautiful-arrangement-ii/
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 
 ### 相似题目
-  1. [优美的排列](/beautiful-arrangement) (Medium)
+  1. [优美的排列](/problems/beautiful-arrangement) (Medium)
 
 ---
 

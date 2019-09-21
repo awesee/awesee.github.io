@@ -4,7 +4,7 @@ title:      "最长湍流子数组"
 date:       2018-09-05 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array, Dynamic Programming, Sliding Window]
-permalink:  /longest-turbulent-subarray/
+permalink:  /problems/longest-turbulent-subarray/
 ---
 
 ## 978. 最长湍流子数组 (Medium)
@@ -60,7 +60,7 @@ permalink:  /longest-turbulent-subarray/
   [[Sliding Window](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
 
 ### 相似题目
-  1. [最大子序和](/maximum-subarray) (Easy)
+  1. [最大子序和](/problems/maximum-subarray) (Easy)
 
 ---
 

@@ -4,7 +4,7 @@ title:      "二叉搜索树中的众数"
 date:       2017-05-16 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Tree]
-permalink:  /find-mode-in-binary-search-tree/
+permalink:  /problems/find-mode-in-binary-search-tree/
 ---
 
 ## 501. 二叉搜索树中的众数 (Easy)
@@ -43,7 +43,7 @@ permalink:  /find-mode-in-binary-search-tree/
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
 
 ### 相似题目
-  1. [验证二叉搜索树](/validate-binary-search-tree) (Medium)
+  1. [验证二叉搜索树](/problems/validate-binary-search-tree) (Medium)
 
 ---
 

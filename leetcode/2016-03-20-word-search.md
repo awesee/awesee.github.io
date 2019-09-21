@@ -4,7 +4,7 @@ title:      "单词搜索"
 date:       2016-03-20 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array, Backtracking]
-permalink:  /word-search/
+permalink:  /problems/word-search/
 ---
 
 ## 79. 单词搜索 (Medium)
@@ -35,7 +35,7 @@ permalink:  /word-search/
   [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
 
 ### 相似题目
-  1. [单词搜索 II](/word-search-ii) (Hard)
+  1. [单词搜索 II](/problems/word-search-ii) (Hard)
 
 ---
 

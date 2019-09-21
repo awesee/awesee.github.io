@@ -4,7 +4,7 @@ title:      "两地调度"
 date:       2018-10-26 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Greedy]
-permalink:  /two-city-scheduling/
+permalink:  /problems/two-city-scheduling/
 ---
 
 ## 1029. 两地调度 (Easy)

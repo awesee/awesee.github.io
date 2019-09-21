@@ -4,7 +4,7 @@ title:      "旋转链表"
 date:       2016-03-02 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Linked List, Two Pointers]
-permalink:  /rotate-list/
+permalink:  /problems/rotate-list/
 ---
 
 ## 61. 旋转链表 (Medium)
@@ -39,8 +39,8 @@ permalink:  /rotate-list/
   [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
 
 ### 相似题目
-  1. [旋转数组](/rotate-array) (Easy)
-  1. [分隔链表](/split-linked-list-in-parts) (Medium)
+  1. [旋转数组](/problems/rotate-array) (Easy)
+  1. [分隔链表](/problems/split-linked-list-in-parts) (Medium)
 
 ---
 

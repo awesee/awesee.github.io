@@ -4,7 +4,7 @@ title:      "增减字符串匹配"
 date:       2018-07-31 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Math]
-permalink:  /di-string-match/
+permalink:  /problems/di-string-match/
 ---
 
 ## 942. 增减字符串匹配 (Easy)

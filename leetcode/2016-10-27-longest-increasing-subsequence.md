@@ -4,7 +4,7 @@ title:      "最长上升子序列"
 date:       2016-10-27 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Binary Search, Dynamic Programming]
-permalink:  /longest-increasing-subsequence/
+permalink:  /problems/longest-increasing-subsequence/
 ---
 
 ## 300. 最长上升子序列 (Medium)
@@ -35,11 +35,11 @@ permalink:  /longest-increasing-subsequence/
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### 相似题目
-  1. [递增的三元子序列](/increasing-triplet-subsequence) (Medium)
-  1. [俄罗斯套娃信封问题](/russian-doll-envelopes) (Hard)
-  1. [最长数对链](/maximum-length-of-pair-chain) (Medium)
-  1. [最长递增子序列的个数](/number-of-longest-increasing-subsequence) (Medium)
-  1. [两个字符串的最小ASCII删除和](/minimum-ascii-delete-sum-for-two-strings) (Medium)
+  1. [递增的三元子序列](/problems/increasing-triplet-subsequence) (Medium)
+  1. [俄罗斯套娃信封问题](/problems/russian-doll-envelopes) (Hard)
+  1. [最长数对链](/problems/maximum-length-of-pair-chain) (Medium)
+  1. [最长递增子序列的个数](/problems/number-of-longest-increasing-subsequence) (Medium)
+  1. [两个字符串的最小ASCII删除和](/problems/minimum-ascii-delete-sum-for-two-strings) (Medium)
 
 ---
 

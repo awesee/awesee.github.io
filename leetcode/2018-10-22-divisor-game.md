@@ -4,7 +4,7 @@ title:      "除数博弈"
 date:       2018-10-22 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Math, Dynamic Programming]
-permalink:  /divisor-game/
+permalink:  /problems/divisor-game/
 ---
 
 ## 1025. 除数博弈 (Easy)

@@ -4,7 +4,7 @@ title:      "分数加减运算"
 date:       2017-08-15 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Math]
-permalink:  /fraction-addition-and-subtraction/
+permalink:  /problems/fraction-addition-and-subtraction/
 ---
 
 ## 592. 分数加减运算 (Medium)
@@ -57,7 +57,7 @@ permalink:  /fraction-addition-and-subtraction/
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
 
 ### 相似题目
-  1. [求解方程](/solve-the-equation) (Medium)
+  1. [求解方程](/problems/solve-the-equation) (Medium)
 
 ---
 

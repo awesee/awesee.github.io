@@ -4,7 +4,7 @@ title:      "单词搜索 II"
 date:       2016-07-31 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Trie, Backtracking]
-permalink:  /word-search-ii/
+permalink:  /problems/word-search-ii/
 ---
 
 ## 212. 单词搜索 II (Hard)
@@ -45,8 +45,8 @@ permalink:  /word-search-ii/
   [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
 
 ### 相似题目
-  1. [单词搜索](/word-search) (Medium)
-  1. [不同路径 III](/unique-paths-iii) (Hard)
+  1. [单词搜索](/problems/word-search) (Medium)
+  1. [不同路径 III](/problems/unique-paths-iii) (Hard)
 
 ---
 

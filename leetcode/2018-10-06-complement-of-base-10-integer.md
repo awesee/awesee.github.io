@@ -4,7 +4,7 @@ title:      "十进制整数的反码"
 date:       2018-10-06 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Math]
-permalink:  /complement-of-base-10-integer/
+permalink:  /problems/complement-of-base-10-integer/
 ---
 
 ## 1009. 十进制整数的反码 (Easy)

@@ -4,7 +4,7 @@ title:      "下降路径最小和"
 date:       2018-07-20 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Dynamic Programming]
-permalink:  /minimum-falling-path-sum/
+permalink:  /problems/minimum-falling-path-sum/
 ---
 
 ## 931. 下降路径最小和 (Medium)

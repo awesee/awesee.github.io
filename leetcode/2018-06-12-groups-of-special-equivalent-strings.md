@@ -4,7 +4,7 @@ title:      "特殊等价字符串组"
 date:       2018-06-12 21:30:00 +0800
 categories: [Leetcode]
 tags:       [String]
-permalink:  /groups-of-special-equivalent-strings/
+permalink:  /problems/groups-of-special-equivalent-strings/
 ---
 
 ## 893. 特殊等价字符串组 (Easy)

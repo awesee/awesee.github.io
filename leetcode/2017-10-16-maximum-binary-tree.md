@@ -4,7 +4,7 @@ title:      "最大二叉树"
 date:       2017-10-16 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Tree]
-permalink:  /maximum-binary-tree/
+permalink:  /problems/maximum-binary-tree/
 ---
 
 ## 654. 最大二叉树 (Medium)
@@ -21,11 +21,12 @@ permalink:  /maximum-binary-tree/
 
 <p>通过给定的数组构建最大二叉树，并且输出这个树的根节点。</p>
 
-<p><strong>Example 1:</strong></p>
+<p>&nbsp;</p>
 
-<pre>
-<strong>输入:</strong> [3,2,1,6,0,5]
-<strong>输入:</strong> 返回下面这棵树的根节点：
+<p><strong>示例 ：</strong></p>
+
+<pre><strong>输入：</strong>[3,2,1,6,0,5]
+<strong>输出：</strong>返回下面这棵树的根节点：
 
       6
     /   \
@@ -36,7 +37,9 @@ permalink:  /maximum-binary-tree/
         1
 </pre>
 
-<p><strong>注意:</strong></p>
+<p>&nbsp;</p>
+
+<p><strong>提示：</strong></p>
 
 <ol>
 	<li>给定的数组的大小在 [1, 1000] 之间。</li>
@@ -48,7 +51,7 @@ permalink:  /maximum-binary-tree/
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
 
 ### 相似题目
-  1. [最大二叉树 II](/maximum-binary-tree-ii) (Medium)
+  1. [最大二叉树 II](/problems/maximum-binary-tree-ii) (Medium)
 
 ---
 

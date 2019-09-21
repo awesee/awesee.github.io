@@ -4,7 +4,7 @@ title:      "整数拆分"
 date:       2016-12-09 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Math, Dynamic Programming]
-permalink:  /integer-break/
+permalink:  /problems/integer-break/
 ---
 
 ## 343. 整数拆分 (Medium)

@@ -4,7 +4,7 @@ title:      "划分字母区间"
 date:       2018-02-02 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Greedy, Two Pointers]
-permalink:  /partition-labels/
+permalink:  /problems/partition-labels/
 ---
 
 ## 763. 划分字母区间 (Medium)
@@ -37,7 +37,7 @@ permalink:  /partition-labels/
   [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
 
 ### 相似题目
-  1. [合并区间](/merge-intervals) (Medium)
+  1. [合并区间](/problems/merge-intervals) (Medium)
 
 ---
 

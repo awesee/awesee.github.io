@@ -4,7 +4,7 @@ title:      "距离顺序排列矩阵单元格"
 date:       2018-10-27 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Sort]
-permalink:  /matrix-cells-in-distance-order/
+permalink:  /problems/matrix-cells-in-distance-order/
 ---
 
 ## 1030. 距离顺序排列矩阵单元格 (Easy)

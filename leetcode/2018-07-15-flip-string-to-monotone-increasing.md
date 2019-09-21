@@ -4,7 +4,7 @@ title:      "将字符串翻转到单调递增"
 date:       2018-07-15 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array]
-permalink:  /flip-string-to-monotone-increasing/
+permalink:  /problems/flip-string-to-monotone-increasing/
 ---
 
 ## 926. 将字符串翻转到单调递增 (Medium)

@@ -4,7 +4,7 @@ title:      "两个列表的最小索引总和"
 date:       2017-08-22 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Hash Table]
-permalink:  /minimum-index-sum-of-two-lists/
+permalink:  /problems/minimum-index-sum-of-two-lists/
 ---
 
 ## 599. 两个列表的最小索引总和 (Easy)
@@ -48,7 +48,7 @@ permalink:  /minimum-index-sum-of-two-lists/
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
 
 ### 相似题目
-  1. [相交链表](/intersection-of-two-linked-lists) (Easy)
+  1. [相交链表](/problems/intersection-of-two-linked-lists) (Easy)
 
 ---
 

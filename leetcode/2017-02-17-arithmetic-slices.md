@@ -4,7 +4,7 @@ title:      "等差数列划分"
 date:       2017-02-17 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Math, Dynamic Programming]
-permalink:  /arithmetic-slices/
+permalink:  /problems/arithmetic-slices/
 ---
 
 ## 413. 等差数列划分 (Medium)
@@ -52,7 +52,7 @@ A = [1, 2, 3, 4]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### 相似题目
-  1. [等差数列划分 II - 子序列](/arithmetic-slices-ii-subsequence) (Hard)
+  1. [等差数列划分 II - 子序列](/problems/arithmetic-slices-ii-subsequence) (Hard)
 
 ---
 

@@ -4,7 +4,7 @@ title:      "提莫攻击"
 date:       2017-05-10 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array]
-permalink:  /teemo-attacking/
+permalink:  /problems/teemo-attacking/
 ---
 
 ## 495. 提莫攻击 (Medium)
@@ -47,9 +47,9 @@ permalink:  /teemo-attacking/
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 
 ### 相似题目
-  1. [合并区间](/merge-intervals) (Medium)
-  1. [种花问题](/can-place-flowers) (Easy)
-  1. [Dota2 参议院](/dota2-senate) (Medium)
+  1. [合并区间](/problems/merge-intervals) (Medium)
+  1. [种花问题](/problems/can-place-flowers) (Easy)
+  1. [Dota2 参议院](/problems/dota2-senate) (Medium)
 
 ---
 

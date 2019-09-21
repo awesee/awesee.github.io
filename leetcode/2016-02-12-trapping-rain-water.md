@@ -4,7 +4,7 @@ title:      "接雨水"
 date:       2016-02-12 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Stack, Array, Two Pointers]
-permalink:  /trapping-rain-water/
+permalink:  /problems/trapping-rain-water/
 ---
 
 ## 42. 接雨水 (Hard)
@@ -30,10 +30,10 @@ permalink:  /trapping-rain-water/
   [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
 
 ### 相似题目
-  1. [盛最多水的容器](/container-with-most-water) (Medium)
-  1. [除自身以外数组的乘积](/product-of-array-except-self) (Medium)
-  1. [接雨水 II](/trapping-rain-water-ii) (Hard)
-  1. [倒水](/pour-water) (Medium)
+  1. [盛最多水的容器](/problems/container-with-most-water) (Medium)
+  1. [除自身以外数组的乘积](/problems/product-of-array-except-self) (Medium)
+  1. [接雨水 II](/problems/trapping-rain-water-ii) (Hard)
+  1. [倒水](/problems/pour-water) (Medium)
 
 ---
 

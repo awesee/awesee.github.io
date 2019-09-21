@@ -4,7 +4,7 @@ title:      "RLE 迭代器"
 date:       2018-06-19 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array]
-permalink:  /rle-iterator/
+permalink:  /problems/rle-iterator/
 ---
 
 ## 900. RLE 迭代器 (Medium)

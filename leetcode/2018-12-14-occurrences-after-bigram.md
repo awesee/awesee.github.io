@@ -4,7 +4,7 @@ title:      "Bigram 分词"
 date:       2018-12-14 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Hash Table]
-permalink:  /occurrences-after-bigram/
+permalink:  /problems/occurrences-after-bigram/
 ---
 
 ## 1078. Bigram 分词 (Easy)

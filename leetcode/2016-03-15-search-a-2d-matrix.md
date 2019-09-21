@@ -4,7 +4,7 @@ title:      "搜索二维矩阵"
 date:       2016-03-15 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array, Binary Search]
-permalink:  /search-a-2d-matrix/
+permalink:  /problems/search-a-2d-matrix/
 ---
 
 ## 74. 搜索二维矩阵 (Medium)
@@ -48,7 +48,7 @@ target = 13
   [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
 
 ### 相似题目
-  1. [搜索二维矩阵 II](/search-a-2d-matrix-ii) (Medium)
+  1. [搜索二维矩阵 II](/problems/search-a-2d-matrix-ii) (Medium)
 
 ---
 

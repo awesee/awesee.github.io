@@ -4,7 +4,7 @@ title:      "反转字符串"
 date:       2016-12-10 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Two Pointers, String]
-permalink:  /reverse-string/
+permalink:  /problems/reverse-string/
 ---
 
 ## 344. 反转字符串 (Easy)
@@ -37,8 +37,8 @@ permalink:  /reverse-string/
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ### 相似题目
-  1. [反转字符串中的元音字母](/reverse-vowels-of-a-string) (Easy)
-  1. [反转字符串 II](/reverse-string-ii) (Easy)
+  1. [反转字符串中的元音字母](/problems/reverse-vowels-of-a-string) (Easy)
+  1. [反转字符串 II](/problems/reverse-string-ii) (Easy)
 
 ---
 

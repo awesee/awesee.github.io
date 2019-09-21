@@ -4,7 +4,7 @@ title:      "盛最多水的容器"
 date:       2016-01-12 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array, Two Pointers]
-permalink:  /container-with-most-water/
+permalink:  /problems/container-with-most-water/
 ---
 
 ## 11. 盛最多水的容器 (Medium)
@@ -33,7 +33,7 @@ permalink:  /container-with-most-water/
   [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
 
 ### 相似题目
-  1. [接雨水](/trapping-rain-water) (Hard)
+  1. [接雨水](/problems/trapping-rain-water) (Hard)
 
 ---
 

@@ -4,7 +4,7 @@ title:      "最长重复子串"
 date:       2018-11-10 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Hash Table, Binary Search]
-permalink:  /longest-duplicate-substring/
+permalink:  /problems/longest-duplicate-substring/
 ---
 
 ## 1044. 最长重复子串 (Hard)

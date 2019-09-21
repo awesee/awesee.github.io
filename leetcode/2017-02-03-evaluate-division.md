@@ -4,7 +4,7 @@ title:      "除法求值"
 date:       2017-02-03 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Union Find, Graph]
-permalink:  /evaluate-division/
+permalink:  /problems/evaluate-division/
 ---
 
 ## 399. 除法求值 (Medium)

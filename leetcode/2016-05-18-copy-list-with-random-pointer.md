@@ -4,7 +4,7 @@ title:      "复制带随机指针的链表"
 date:       2016-05-18 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Hash Table, Linked List]
-permalink:  /copy-list-with-random-pointer/
+permalink:  /problems/copy-list-with-random-pointer/
 ---
 
 ## 138. 复制带随机指针的链表 (Medium)
@@ -44,7 +44,7 @@ permalink:  /copy-list-with-random-pointer/
   [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
 
 ### 相似题目
-  1. [克隆图](/clone-graph) (Medium)
+  1. [克隆图](/problems/clone-graph) (Medium)
 
 ---
 

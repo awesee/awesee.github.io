@@ -4,7 +4,7 @@ title:      "环绕字符串中唯一的子字符串"
 date:       2017-04-12 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Dynamic Programming]
-permalink:  /unique-substrings-in-wraparound-string/
+permalink:  /problems/unique-substrings-in-wraparound-string/
 ---
 
 ## 467. 环绕字符串中唯一的子字符串 (Medium)

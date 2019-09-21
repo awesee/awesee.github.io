@@ -4,7 +4,7 @@ title:      "填充书架"
 date:       2019-01-10 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Dynamic Programming]
-permalink:  /filling-bookcase-shelves/
+permalink:  /problems/filling-bookcase-shelves/
 ---
 
 ## 1105. 填充书架 (Medium)

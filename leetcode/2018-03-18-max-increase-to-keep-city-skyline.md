@@ -4,7 +4,7 @@ title:      "保持城市天际线"
 date:       2018-03-18 21:30:00 +0800
 categories: [Leetcode]
 tags:       []
-permalink:  /max-increase-to-keep-city-skyline/
+permalink:  /problems/max-increase-to-keep-city-skyline/
 ---
 
 ## 807. 保持城市天际线 (Medium)

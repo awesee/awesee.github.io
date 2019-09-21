@@ -4,7 +4,7 @@ title:      "Lisp 语法解析"
 date:       2018-01-06 21:30:00 +0800
 categories: [Leetcode]
 tags:       [String]
-permalink:  /parse-lisp-expression/
+permalink:  /problems/parse-lisp-expression/
 ---
 
 ## 736. Lisp 语法解析 (Hard)
@@ -85,9 +85,9 @@ permalink:  /parse-lisp-expression/
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ### 相似题目
-  1. [三元表达式解析器](/ternary-expression-parser) (Medium)
-  1. [原子的数量](/number-of-atoms) (Hard)
-  1. [基本计算器 IV](/basic-calculator-iv) (Hard)
+  1. [三元表达式解析器](/problems/ternary-expression-parser) (Medium)
+  1. [原子的数量](/problems/number-of-atoms) (Hard)
+  1. [基本计算器 IV](/problems/basic-calculator-iv) (Hard)
 
 ---
 

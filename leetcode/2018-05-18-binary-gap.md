@@ -4,7 +4,7 @@ title:      "二进制间距"
 date:       2018-05-18 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Math]
-permalink:  /binary-gap/
+permalink:  /problems/binary-gap/
 ---
 
 ## 868. 二进制间距 (Easy)

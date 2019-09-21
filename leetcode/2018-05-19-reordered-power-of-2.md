@@ -4,7 +4,7 @@ title:      "重新排序得到 2 的幂"
 date:       2018-05-19 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Math]
-permalink:  /reordered-power-of-2/
+permalink:  /problems/reordered-power-of-2/
 ---
 
 ## 869. 重新排序得到 2 的幂 (Medium)

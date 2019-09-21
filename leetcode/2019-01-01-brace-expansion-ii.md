@@ -4,7 +4,7 @@ title:      "花括号展开 II"
 date:       2019-01-01 21:30:00 +0800
 categories: [Leetcode]
 tags:       [String]
-permalink:  /brace-expansion-ii/
+permalink:  /problems/brace-expansion-ii/
 ---
 
 ## 1096. 花括号展开 II (Hard)
@@ -74,6 +74,9 @@ permalink:  /brace-expansion-ii/
 
 ### 相关话题
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+
+### 相似题目
+  1. [字母切换](/problems/brace-expansion) (Medium)
 
 ---
 

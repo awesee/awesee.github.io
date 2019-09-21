@@ -4,7 +4,7 @@ title:      "丑数 II"
 date:       2016-09-21 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Heap, Math, Dynamic Programming]
-permalink:  /ugly-number-ii/
+permalink:  /problems/ugly-number-ii/
 ---
 
 ## 264. 丑数 II (Medium)
@@ -36,11 +36,11 @@ permalink:  /ugly-number-ii/
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### 相似题目
-  1. [合并K个排序链表](/merge-k-sorted-lists) (Hard)
-  1. [计数质数](/count-primes) (Easy)
-  1. [丑数](/ugly-number) (Easy)
-  1. [完全平方数](/perfect-squares) (Medium)
-  1. [超级丑数](/super-ugly-number) (Medium)
+  1. [合并K个排序链表](/problems/merge-k-sorted-lists) (Hard)
+  1. [计数质数](/problems/count-primes) (Easy)
+  1. [丑数](/problems/ugly-number) (Easy)
+  1. [完全平方数](/problems/perfect-squares) (Medium)
+  1. [超级丑数](/problems/super-ugly-number) (Medium)
 
 ---
 

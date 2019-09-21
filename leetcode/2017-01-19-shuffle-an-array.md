@@ -4,7 +4,7 @@ title:      "打乱数组"
 date:       2017-01-19 21:30:00 +0800
 categories: [Leetcode]
 tags:       []
-permalink:  /shuffle-an-array/
+permalink:  /problems/shuffle-an-array/
 ---
 
 ## 384. 打乱数组 (Medium)

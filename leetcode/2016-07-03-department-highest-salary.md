@@ -4,7 +4,7 @@ title:      "部门工资最高的员工"
 date:       2016-07-03 21:30:00 +0800
 categories: [Leetcode]
 tags:       []
-permalink:  /department-highest-salary/
+permalink:  /problems/department-highest-salary/
 ---
 
 ## 184. 部门工资最高的员工 (Medium)

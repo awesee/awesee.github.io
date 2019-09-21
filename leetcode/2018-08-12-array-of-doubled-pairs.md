@@ -4,7 +4,7 @@ title:      "二倍数对数组"
 date:       2018-08-12 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array, Hash Table]
-permalink:  /array-of-doubled-pairs/
+permalink:  /problems/array-of-doubled-pairs/
 ---
 
 ## 954. 二倍数对数组 (Medium)

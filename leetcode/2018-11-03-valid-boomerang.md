@@ -4,7 +4,7 @@ title:      "有效的回旋镖"
 date:       2018-11-03 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Math]
-permalink:  /valid-boomerang/
+permalink:  /problems/valid-boomerang/
 ---
 
 ## 1037. 有效的回旋镖 (Easy)

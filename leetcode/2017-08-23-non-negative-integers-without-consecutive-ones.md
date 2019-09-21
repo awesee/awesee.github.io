@@ -4,7 +4,7 @@ title:      "不含连续1的非负整数"
 date:       2017-08-23 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Dynamic Programming]
-permalink:  /non-negative-integers-without-consecutive-ones/
+permalink:  /problems/non-negative-integers-without-consecutive-ones/
 ---
 
 ## 600. 不含连续1的非负整数 (Hard)
@@ -35,9 +35,9 @@ permalink:  /non-negative-integers-without-consecutive-ones/
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### 相似题目
-  1. [打家劫舍](/house-robber) (Easy)
-  1. [打家劫舍 II](/house-robber-ii) (Medium)
-  1. [一和零](/ones-and-zeroes) (Medium)
+  1. [打家劫舍](/problems/house-robber) (Easy)
+  1. [打家劫舍 II](/problems/house-robber-ii) (Medium)
+  1. [一和零](/problems/ones-and-zeroes) (Medium)
 
 ---
 

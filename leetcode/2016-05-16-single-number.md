@@ -4,7 +4,7 @@ title:      "只出现一次的数字"
 date:       2016-05-16 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Bit Manipulation, Hash Table]
-permalink:  /single-number/
+permalink:  /problems/single-number/
 ---
 
 ## 136. 只出现一次的数字 (Easy)
@@ -35,11 +35,11 @@ permalink:  /single-number/
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
 
 ### 相似题目
-  1. [只出现一次的数字 II](/single-number-ii) (Medium)
-  1. [只出现一次的数字 III](/single-number-iii) (Medium)
-  1. [缺失数字](/missing-number) (Easy)
-  1. [寻找重复数](/find-the-duplicate-number) (Medium)
-  1. [找不同](/find-the-difference) (Easy)
+  1. [只出现一次的数字 II](/problems/single-number-ii) (Medium)
+  1. [只出现一次的数字 III](/problems/single-number-iii) (Medium)
+  1. [缺失数字](/problems/missing-number) (Easy)
+  1. [寻找重复数](/problems/find-the-duplicate-number) (Medium)
+  1. [找不同](/problems/find-the-difference) (Easy)
 
 ---
 

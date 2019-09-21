@@ -4,7 +4,7 @@ title:      "回文素数"
 date:       2018-05-16 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Math]
-permalink:  /prime-palindrome/
+permalink:  /problems/prime-palindrome/
 ---
 
 ## 866. 回文素数 (Medium)

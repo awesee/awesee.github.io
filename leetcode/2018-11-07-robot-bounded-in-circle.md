@@ -4,7 +4,7 @@ title:      "困于环中的机器人"
 date:       2018-11-07 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Math]
-permalink:  /robot-bounded-in-circle/
+permalink:  /problems/robot-bounded-in-circle/
 ---
 
 ## 1041. 困于环中的机器人 (Easy)

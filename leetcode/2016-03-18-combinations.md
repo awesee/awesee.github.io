@@ -4,7 +4,7 @@ title:      "组合"
 date:       2016-03-18 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Backtracking]
-permalink:  /combinations/
+permalink:  /problems/combinations/
 ---
 
 ## 77. 组合 (Medium)
@@ -32,8 +32,8 @@ permalink:  /combinations/
   [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
 
 ### 相似题目
-  1. [组合总和](/combination-sum) (Medium)
-  1. [全排列](/permutations) (Medium)
+  1. [组合总和](/problems/combination-sum) (Medium)
+  1. [全排列](/problems/permutations) (Medium)
 
 ---
 

@@ -4,10 +4,12 @@ title:      "二叉树中的最大路径和"
 date:       2016-05-04 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Tree, Depth-first Search]
-permalink:  /binary-tree-maximum-path-sum/
+permalink:  /problems/binary-tree-maximum-path-sum/
 ---
 
 ## 124. 二叉树中的最大路径和 (Hard)
+
+{% raw %}
 
 <p>给定一个<strong>非空</strong>二叉树，返回其最大路径和。</p>
 
@@ -36,15 +38,17 @@ permalink:  /binary-tree-maximum-path-sum/
 
 <strong>输出:</strong> 42</pre>
 
+{% endraw %}
+
 ### 相关话题
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
   [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
 
 ### 相似题目
-  1. [路径总和](/path-sum) (Easy)
-  1. [求根到叶子节点数字之和](/sum-root-to-leaf-numbers) (Medium)
-  1. [路径和 IV](/path-sum-iv) (Medium)
-  1. [最长同值路径](/longest-univalue-path) (Easy)
+  1. [路径总和](/problems/path-sum) (Easy)
+  1. [求根到叶子节点数字之和](/problems/sum-root-to-leaf-numbers) (Medium)
+  1. [路径和 IV](/problems/path-sum-iv) (Medium)
+  1. [最长同值路径](/problems/longest-univalue-path) (Easy)
 
 ---
 

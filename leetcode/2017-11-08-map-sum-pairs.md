@@ -4,7 +4,7 @@ title:      "键值映射"
 date:       2017-11-08 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Trie]
-permalink:  /map-sum-pairs/
+permalink:  /problems/map-sum-pairs/
 ---
 
 ## 677. 键值映射 (Medium)

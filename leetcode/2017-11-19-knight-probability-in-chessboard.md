@@ -4,7 +4,7 @@ title:      "“马”在棋盘上的概率"
 date:       2017-11-19 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Dynamic Programming]
-permalink:  /knight-probability-in-chessboard/
+permalink:  /problems/knight-probability-in-chessboard/
 ---
 
 ## 688. “马”在棋盘上的概率 (Medium)
@@ -55,7 +55,7 @@ permalink:  /knight-probability-in-chessboard/
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### 相似题目
-  1. [出界的路径数](/out-of-boundary-paths) (Medium)
+  1. [出界的路径数](/problems/out-of-boundary-paths) (Medium)
 
 ---
 

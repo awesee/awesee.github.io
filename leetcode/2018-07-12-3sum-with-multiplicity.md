@@ -4,7 +4,7 @@ title:      "三数之和的多种可能"
 date:       2018-07-12 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Two Pointers]
-permalink:  /3sum-with-multiplicity/
+permalink:  /problems/3sum-with-multiplicity/
 ---
 
 ## 923. 三数之和的多种可能 (Medium)

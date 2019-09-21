@@ -4,7 +4,7 @@ title:      "区间和的个数"
 date:       2016-11-23 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Sort, Binary Indexed Tree, Segment Tree, Binary Search, Divide and Conquer]
-permalink:  /count-of-range-sum/
+permalink:  /problems/count-of-range-sum/
 ---
 
 ## 327. 区间和的个数 (Hard)
@@ -34,8 +34,8 @@ permalink:  /count-of-range-sum/
   [[分治算法](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]
 
 ### 相似题目
-  1. [计算右侧小于当前元素的个数](/count-of-smaller-numbers-after-self) (Hard)
-  1. [翻转对](/reverse-pairs) (Hard)
+  1. [计算右侧小于当前元素的个数](/problems/count-of-smaller-numbers-after-self) (Hard)
+  1. [翻转对](/problems/reverse-pairs) (Hard)
 
 ---
 

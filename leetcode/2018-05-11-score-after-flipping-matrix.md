@@ -4,7 +4,7 @@ title:      "翻转矩阵后的得分"
 date:       2018-05-11 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Greedy]
-permalink:  /score-after-flipping-matrix/
+permalink:  /problems/score-after-flipping-matrix/
 ---
 
 ## 861. 翻转矩阵后的得分 (Medium)

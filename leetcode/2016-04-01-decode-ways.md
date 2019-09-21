@@ -4,10 +4,12 @@ title:      "解码方法"
 date:       2016-04-01 21:30:00 +0800
 categories: [Leetcode]
 tags:       [String, Dynamic Programming]
-permalink:  /decode-ways/
+permalink:  /problems/decode-ways/
 ---
 
 ## 91. 解码方法 (Medium)
+
+{% raw %}
 
 <p>一条包含字母&nbsp;<code>A-Z</code> 的消息通过以下方式进行了编码：</p>
 
@@ -33,12 +35,14 @@ permalink:  /decode-ways/
 <strong>解释:</strong>&nbsp;它可以解码为 &quot;BZ&quot; (2 26), &quot;VF&quot; (22 6), 或者 &quot;BBF&quot; (2 2 6) 。
 </pre>
 
+{% endraw %}
+
 ### 相关话题
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### 相似题目
-  1. [解码方法 2](/decode-ways-ii) (Hard)
+  1. [解码方法 2](/problems/decode-ways-ii) (Hard)
 
 ---
 

@@ -4,7 +4,7 @@ title:      "回文链表"
 date:       2016-08-22 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Linked List, Two Pointers]
-permalink:  /palindrome-linked-list/
+permalink:  /problems/palindrome-linked-list/
 ---
 
 ## 234. 回文链表 (Easy)
@@ -34,9 +34,9 @@ permalink:  /palindrome-linked-list/
   [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
 
 ### 相似题目
-  1. [回文数](/palindrome-number) (Easy)
-  1. [验证回文串](/valid-palindrome) (Easy)
-  1. [反转链表](/reverse-linked-list) (Easy)
+  1. [回文数](/problems/palindrome-number) (Easy)
+  1. [验证回文串](/problems/valid-palindrome) (Easy)
+  1. [反转链表](/problems/reverse-linked-list) (Easy)
 
 ---
 

@@ -4,7 +4,7 @@ title:      "矩形面积"
 date:       2016-08-11 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Math]
-permalink:  /rectangle-area/
+permalink:  /problems/rectangle-area/
 ---
 
 ## 223. 矩形面积 (Medium)
@@ -30,7 +30,7 @@ permalink:  /rectangle-area/
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
 
 ### 相似题目
-  1. [矩形重叠](/rectangle-overlap) (Easy)
+  1. [矩形重叠](/problems/rectangle-overlap) (Easy)
 
 ---
 

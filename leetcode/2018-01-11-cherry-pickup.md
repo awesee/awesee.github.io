@@ -4,7 +4,7 @@ title:      "摘樱桃"
 date:       2018-01-11 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Dynamic Programming]
-permalink:  /cherry-pickup/
+permalink:  /problems/cherry-pickup/
 ---
 
 ## 741. 摘樱桃 (Hard)
@@ -57,8 +57,8 @@ permalink:  /cherry-pickup/
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### 相似题目
-  1. [最小路径和](/minimum-path-sum) (Medium)
-  1. [地下城游戏](/dungeon-game) (Hard)
+  1. [最小路径和](/problems/minimum-path-sum) (Medium)
+  1. [地下城游戏](/problems/dungeon-game) (Hard)
 
 ---
 

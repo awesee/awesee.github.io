@@ -4,7 +4,7 @@ title:      "驼峰式匹配"
 date:       2018-10-20 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Trie, String]
-permalink:  /camelcase-matching/
+permalink:  /problems/camelcase-matching/
 ---
 
 ## 1023. 驼峰式匹配 (Medium)

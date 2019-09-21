@@ -4,7 +4,7 @@ title:      "连续出现的数字"
 date:       2016-06-29 21:30:00 +0800
 categories: [Leetcode]
 tags:       []
-permalink:  /consecutive-numbers/
+permalink:  /problems/consecutive-numbers/
 ---
 
 ## 180. 连续出现的数字 (Medium)

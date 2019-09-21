@@ -4,7 +4,7 @@ title:      "最长连续递增序列"
 date:       2017-11-05 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array]
-permalink:  /longest-continuous-increasing-subsequence/
+permalink:  /problems/longest-continuous-increasing-subsequence/
 ---
 
 ## 674. 最长连续递增序列 (Easy)
@@ -38,8 +38,8 @@ permalink:  /longest-continuous-increasing-subsequence/
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 
 ### 相似题目
-  1. [最长递增子序列的个数](/number-of-longest-increasing-subsequence) (Medium)
-  1. [最小窗口子序列](/minimum-window-subsequence) (Hard)
+  1. [最长递增子序列的个数](/problems/number-of-longest-increasing-subsequence) (Medium)
+  1. [最小窗口子序列](/problems/minimum-window-subsequence) (Hard)
 
 ---
 

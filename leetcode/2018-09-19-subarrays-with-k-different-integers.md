@@ -4,7 +4,7 @@ title:      "K 个不同整数的子数组"
 date:       2018-09-19 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Hash Table, Two Pointers, Sliding Window]
-permalink:  /subarrays-with-k-different-integers/
+permalink:  /problems/subarrays-with-k-different-integers/
 ---
 
 ## 992. K 个不同整数的子数组 (Hard)
@@ -51,9 +51,9 @@ permalink:  /subarrays-with-k-different-integers/
   [[Sliding Window](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
 
 ### 相似题目
-  1. [无重复字符的最长子串](/longest-substring-without-repeating-characters) (Medium)
-  1. [至多包含两个不同字符的最长子串](/longest-substring-with-at-most-two-distinct-characters) (Hard)
-  1. [至多包含 K 个不同字符的最长子串](/longest-substring-with-at-most-k-distinct-characters) (Hard)
+  1. [无重复字符的最长子串](/problems/longest-substring-without-repeating-characters) (Medium)
+  1. [至多包含两个不同字符的最长子串](/problems/longest-substring-with-at-most-two-distinct-characters) (Hard)
+  1. [至多包含 K 个不同字符的最长子串](/problems/longest-substring-with-at-most-k-distinct-characters) (Hard)
 
 ---
 

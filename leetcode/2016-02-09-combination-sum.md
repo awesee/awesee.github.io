@@ -4,7 +4,7 @@ title:      "组合总和"
 date:       2016-02-09 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array, Backtracking]
-permalink:  /combination-sum/
+permalink:  /problems/combination-sum/
 ---
 
 ## 39. 组合总和 (Medium)
@@ -49,12 +49,12 @@ permalink:  /combination-sum/
   [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
 
 ### 相似题目
-  1. [电话号码的字母组合](/letter-combinations-of-a-phone-number) (Medium)
-  1. [组合总和 II](/combination-sum-ii) (Medium)
-  1. [组合](/combinations) (Medium)
-  1. [组合总和 III](/combination-sum-iii) (Medium)
-  1. [因子的组合](/factor-combinations) (Medium)
-  1. [组合总和 Ⅳ](/combination-sum-iv) (Medium)
+  1. [电话号码的字母组合](/problems/letter-combinations-of-a-phone-number) (Medium)
+  1. [组合总和 II](/problems/combination-sum-ii) (Medium)
+  1. [组合](/problems/combinations) (Medium)
+  1. [组合总和 III](/problems/combination-sum-iii) (Medium)
+  1. [因子的组合](/problems/factor-combinations) (Medium)
+  1. [组合总和 Ⅳ](/problems/combination-sum-iv) (Medium)
 
 ---
 

@@ -4,7 +4,7 @@ title:      "找不同"
 date:       2017-01-24 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Bit Manipulation, Hash Table]
-permalink:  /find-the-difference/
+permalink:  /problems/find-the-difference/
 ---
 
 ## 389. 找不同 (Easy)
@@ -39,7 +39,7 @@ e
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
 
 ### 相似题目
-  1. [只出现一次的数字](/single-number) (Easy)
+  1. [只出现一次的数字](/problems/single-number) (Easy)
 
 ---
 

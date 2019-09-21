@@ -4,7 +4,7 @@ title:      "最小基因变化"
 date:       2017-03-09 21:30:00 +0800
 categories: [Leetcode]
 tags:       []
-permalink:  /minimum-genetic-mutation/
+permalink:  /problems/minimum-genetic-mutation/
 ---
 
 ## 433. 最小基因变化 (Medium)
@@ -62,7 +62,7 @@ bank: [&quot;AAAACCCC&quot;, &quot;AAACCCCC&quot;, &quot;AACCCCCC&quot;]
 {% endraw %}
 
 ### 相似题目
-  1. [单词接龙](/word-ladder) (Medium)
+  1. [单词接龙](/problems/word-ladder) (Medium)
 
 ---
 

@@ -4,7 +4,7 @@ title:      "一和零"
 date:       2017-04-19 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Dynamic Programming]
-permalink:  /ones-and-zeroes/
+permalink:  /problems/ones-and-zeroes/
 ---
 
 ## 474. 一和零 (Medium)
@@ -48,7 +48,7 @@ permalink:  /ones-and-zeroes/
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### 相似题目
-  1. [不含连续1的非负整数](/non-negative-integers-without-consecutive-ones) (Hard)
+  1. [不含连续1的非负整数](/problems/non-negative-integers-without-consecutive-ones) (Hard)
 
 ---
 

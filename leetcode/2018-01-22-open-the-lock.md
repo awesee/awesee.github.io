@@ -4,7 +4,7 @@ title:      "打开转盘锁"
 date:       2018-01-22 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Breadth-first Search]
-permalink:  /open-the-lock/
+permalink:  /problems/open-the-lock/
 ---
 
 ## 752. 打开转盘锁 (Medium)

@@ -4,10 +4,12 @@ title:      "杨辉三角"
 date:       2016-04-28 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array]
-permalink:  /pascals-triangle/
+permalink:  /problems/pascals-triangle/
 ---
 
 ## 118. 杨辉三角 (Easy)
+
+{% raw %}
 
 <p>给定一个非负整数&nbsp;<em>numRows，</em>生成杨辉三角的前&nbsp;<em>numRows&nbsp;</em>行。</p>
 
@@ -27,11 +29,13 @@ permalink:  /pascals-triangle/
  [1,4,6,4,1]
 ]</pre>
 
+{% endraw %}
+
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 
 ### 相似题目
-  1. [杨辉三角 II](/pascals-triangle-ii) (Easy)
+  1. [杨辉三角 II](/problems/pascals-triangle-ii) (Easy)
 
 ---
 

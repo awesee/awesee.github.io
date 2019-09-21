@@ -4,7 +4,7 @@ title:      "大礼包"
 date:       2017-09-30 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Depth-first Search, Dynamic Programming]
-permalink:  /shopping-offers/
+permalink:  /problems/shopping-offers/
 ---
 
 ## 638. 大礼包 (Medium)

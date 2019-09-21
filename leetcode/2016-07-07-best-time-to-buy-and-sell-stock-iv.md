@@ -4,7 +4,7 @@ title:      "买卖股票的最佳时机 IV"
 date:       2016-07-07 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Dynamic Programming]
-permalink:  /best-time-to-buy-and-sell-stock-iv/
+permalink:  /problems/best-time-to-buy-and-sell-stock-iv/
 ---
 
 ## 188. 买卖股票的最佳时机 IV (Hard)
@@ -38,9 +38,9 @@ permalink:  /best-time-to-buy-and-sell-stock-iv/
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### 相似题目
-  1. [买卖股票的最佳时机](/best-time-to-buy-and-sell-stock) (Easy)
-  1. [买卖股票的最佳时机 II](/best-time-to-buy-and-sell-stock-ii) (Easy)
-  1. [买卖股票的最佳时机 III](/best-time-to-buy-and-sell-stock-iii) (Hard)
+  1. [买卖股票的最佳时机](/problems/best-time-to-buy-and-sell-stock) (Easy)
+  1. [买卖股票的最佳时机 II](/problems/best-time-to-buy-and-sell-stock-ii) (Easy)
+  1. [买卖股票的最佳时机 III](/problems/best-time-to-buy-and-sell-stock-iii) (Hard)
 
 ---
 

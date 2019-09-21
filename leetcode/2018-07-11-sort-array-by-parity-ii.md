@@ -4,7 +4,7 @@ title:      "按奇偶排序数组 II"
 date:       2018-07-11 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Sort, Array]
-permalink:  /sort-array-by-parity-ii/
+permalink:  /problems/sort-array-by-parity-ii/
 ---
 
 ## 922. 按奇偶排序数组 II (Easy)

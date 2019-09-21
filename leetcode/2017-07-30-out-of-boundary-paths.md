@@ -4,7 +4,7 @@ title:      "出界的路径数"
 date:       2017-07-30 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Depth-first Search, Dynamic Programming]
-permalink:  /out-of-boundary-paths/
+permalink:  /problems/out-of-boundary-paths/
 ---
 
 ## 576. 出界的路径数 (Medium)
@@ -48,7 +48,7 @@ permalink:  /out-of-boundary-paths/
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### 相似题目
-  1. [“马”在棋盘上的概率](/knight-probability-in-chessboard) (Medium)
+  1. [“马”在棋盘上的概率](/problems/knight-probability-in-chessboard) (Medium)
 
 ---
 

@@ -4,7 +4,7 @@ title:      "UTF-8 编码验证"
 date:       2017-01-28 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Bit Manipulation]
-permalink:  /utf-8-validation/
+permalink:  /problems/utf-8-validation/
 ---
 
 ## 393. UTF-8 编码验证 (Medium)

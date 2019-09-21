@@ -4,7 +4,7 @@ title:      "K个逆序对数组"
 date:       2017-09-21 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Dynamic Programming]
-permalink:  /k-inverse-pairs-array/
+permalink:  /problems/k-inverse-pairs-array/
 ---
 
 ## 629. K个逆序对数组 (Hard)

@@ -4,7 +4,7 @@ title:      "爱生气的书店老板"
 date:       2018-11-18 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array, Sliding Window]
-permalink:  /grumpy-bookstore-owner/
+permalink:  /problems/grumpy-bookstore-owner/
 ---
 
 ## 1052. 爱生气的书店老板 (Medium)

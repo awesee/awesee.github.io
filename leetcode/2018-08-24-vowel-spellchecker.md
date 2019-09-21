@@ -4,7 +4,7 @@ title:      "元音拼写检查器"
 date:       2018-08-24 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Hash Table, String]
-permalink:  /vowel-spellchecker/
+permalink:  /problems/vowel-spellchecker/
 ---
 
 ## 966. 元音拼写检查器 (Medium)

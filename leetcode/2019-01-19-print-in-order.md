@@ -4,7 +4,7 @@ title:      "按序打印"
 date:       2019-01-19 21:30:00 +0800
 categories: [Leetcode]
 tags:       []
-permalink:  /print-in-order/
+permalink:  /problems/print-in-order/
 ---
 
 ## 1114. 按序打印 (Easy)
@@ -64,7 +64,7 @@ public class Foo {
 {% endraw %}
 
 ### 相似题目
-  1. [Print FooBar Alternately](/print-foobar-alternately) (Medium)
+  1. [交替打印FooBar](/problems/print-foobar-alternately) (Medium)
 
 ---
 

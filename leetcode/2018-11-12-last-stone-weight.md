@@ -4,7 +4,7 @@ title:      "最后一块石头的重量"
 date:       2018-11-12 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Heap, Greedy]
-permalink:  /last-stone-weight/
+permalink:  /problems/last-stone-weight/
 ---
 
 ## 1046. 最后一块石头的重量 (Easy)

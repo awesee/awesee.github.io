@@ -4,7 +4,7 @@ title:      "蛇梯棋"
 date:       2018-06-28 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Breadth-first Search]
-permalink:  /snakes-and-ladders/
+permalink:  /problems/snakes-and-ladders/
 ---
 
 ## 909. 蛇梯棋 (Medium)

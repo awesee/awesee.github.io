@@ -4,7 +4,7 @@ title:      "超过经理收入的员工"
 date:       2016-06-30 21:30:00 +0800
 categories: [Leetcode]
 tags:       []
-permalink:  /employees-earning-more-than-their-managers/
+permalink:  /problems/employees-earning-more-than-their-managers/
 ---
 
 ## 181. 超过经理收入的员工 (Easy)

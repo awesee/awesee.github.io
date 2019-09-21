@@ -4,7 +4,7 @@ title:      "行星碰撞"
 date:       2018-01-05 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Stack]
-permalink:  /asteroid-collision/
+permalink:  /problems/asteroid-collision/
 ---
 
 ## 735. 行星碰撞 (Medium)
@@ -71,7 +71,7 @@ asteroids = [-2, -1, 1, 2]
   [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
 
 ### 相似题目
-  1. [种花问题](/can-place-flowers) (Easy)
+  1. [种花问题](/problems/can-place-flowers) (Easy)
 
 ---
 

@@ -4,7 +4,7 @@ title:      "字母大小写全排列"
 date:       2018-02-23 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Bit Manipulation, Backtracking]
-permalink:  /letter-case-permutation/
+permalink:  /problems/letter-case-permutation/
 ---
 
 ## 784. 字母大小写全排列 (Easy)
@@ -39,8 +39,8 @@ permalink:  /letter-case-permutation/
   [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
 
 ### 相似题目
-  1. [子集](/subsets) (Medium)
-  1. [字母切换](/brace-expansion) (Medium)
+  1. [子集](/problems/subsets) (Medium)
+  1. [字母切换](/problems/brace-expansion) (Medium)
 
 ---
 

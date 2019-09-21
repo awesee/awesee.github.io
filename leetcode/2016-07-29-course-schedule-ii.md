@@ -4,7 +4,7 @@ title:      "课程表 II"
 date:       2016-07-29 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Depth-first Search, Breadth-first Search, Graph, Topological Sort]
-permalink:  /course-schedule-ii/
+permalink:  /problems/course-schedule-ii/
 ---
 
 ## 210. 课程表 II (Medium)
@@ -59,11 +59,11 @@ permalink:  /course-schedule-ii/
   [[拓扑排序](https://github.com/openset/leetcode/tree/master/tag/topological-sort/README.md)]
 
 ### 相似题目
-  1. [课程表](/course-schedule) (Medium)
-  1. [火星词典](/alien-dictionary) (Hard)
-  1. [最小高度树](/minimum-height-trees) (Medium)
-  1. [序列重建](/sequence-reconstruction) (Medium)
-  1. [课程表 III](/course-schedule-iii) (Hard)
+  1. [课程表](/problems/course-schedule) (Medium)
+  1. [火星词典](/problems/alien-dictionary) (Hard)
+  1. [最小高度树](/problems/minimum-height-trees) (Medium)
+  1. [序列重建](/problems/sequence-reconstruction) (Medium)
+  1. [课程表 III](/problems/course-schedule-iii) (Hard)
 
 ---
 

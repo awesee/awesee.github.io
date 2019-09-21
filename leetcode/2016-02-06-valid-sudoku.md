@@ -4,7 +4,7 @@ title:      "有效的数独"
 date:       2016-02-06 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Hash Table]
-permalink:  /valid-sudoku/
+permalink:  /problems/valid-sudoku/
 ---
 
 ## 36. 有效的数独 (Medium)
@@ -75,7 +75,7 @@ permalink:  /valid-sudoku/
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
 
 ### 相似题目
-  1. [解数独](/sudoku-solver) (Hard)
+  1. [解数独](/problems/sudoku-solver) (Hard)
 
 ---
 

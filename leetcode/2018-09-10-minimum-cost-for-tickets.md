@@ -4,7 +4,7 @@ title:      "最低票价"
 date:       2018-09-10 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Dynamic Programming]
-permalink:  /minimum-cost-for-tickets/
+permalink:  /problems/minimum-cost-for-tickets/
 ---
 
 ## 983. 最低票价 (Medium)
@@ -68,7 +68,7 @@ permalink:  /minimum-cost-for-tickets/
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### 相似题目
-  1. [零钱兑换](/coin-change) (Medium)
+  1. [零钱兑换](/problems/coin-change) (Medium)
 
 ---
 

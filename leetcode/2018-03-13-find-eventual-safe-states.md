@@ -4,7 +4,7 @@ title:      "找到最终的安全状态"
 date:       2018-03-13 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Depth-first Search, Graph]
-permalink:  /find-eventual-safe-states/
+permalink:  /problems/find-eventual-safe-states/
 ---
 
 ## 802. 找到最终的安全状态 (Medium)

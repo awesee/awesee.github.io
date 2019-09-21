@@ -4,7 +4,7 @@ title:      "找到字符串中所有字母异位词"
 date:       2017-03-14 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Hash Table]
-permalink:  /find-all-anagrams-in-a-string/
+permalink:  /problems/find-all-anagrams-in-a-string/
 ---
 
 ## 438. 找到字符串中所有字母异位词 (Easy)
@@ -57,8 +57,8 @@ s: &quot;abab&quot; p: &quot;ab&quot;
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
 
 ### 相似题目
-  1. [有效的字母异位词](/valid-anagram) (Easy)
-  1. [字符串的排列](/permutation-in-string) (Medium)
+  1. [有效的字母异位词](/problems/valid-anagram) (Easy)
+  1. [字符串的排列](/problems/permutation-in-string) (Medium)
 
 ---
 

@@ -4,7 +4,7 @@ title:      "快乐数"
 date:       2016-07-21 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Hash Table, Math]
-permalink:  /happy-number/
+permalink:  /problems/happy-number/
 ---
 
 ## 202. 快乐数 (Easy)
@@ -33,9 +33,9 @@ permalink:  /happy-number/
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
 
 ### 相似题目
-  1. [环形链表](/linked-list-cycle) (Easy)
-  1. [各位相加](/add-digits) (Easy)
-  1. [丑数](/ugly-number) (Easy)
+  1. [环形链表](/problems/linked-list-cycle) (Easy)
+  1. [各位相加](/problems/add-digits) (Easy)
+  1. [丑数](/problems/ugly-number) (Easy)
 
 ---
 

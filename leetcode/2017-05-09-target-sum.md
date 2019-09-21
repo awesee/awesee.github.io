@@ -4,7 +4,7 @@ title:      "目标和"
 date:       2017-05-09 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Depth-first Search, Dynamic Programming]
-permalink:  /target-sum/
+permalink:  /problems/target-sum/
 ---
 
 ## 494. 目标和 (Medium)
@@ -46,7 +46,7 @@ permalink:  /target-sum/
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### 相似题目
-  1. [给表达式添加运算符](/expression-add-operators) (Hard)
+  1. [给表达式添加运算符](/problems/expression-add-operators) (Hard)
 
 ---
 

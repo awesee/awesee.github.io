@@ -4,7 +4,7 @@ title:      "寻找重复的子树"
 date:       2017-10-14 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Tree]
-permalink:  /find-duplicate-subtrees/
+permalink:  /problems/find-duplicate-subtrees/
 ---
 
 ## 652. 寻找重复的子树 (Medium)
@@ -46,9 +46,9 @@ permalink:  /find-duplicate-subtrees/
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
 
 ### 相似题目
-  1. [二叉树的序列化与反序列化](/serialize-and-deserialize-binary-tree) (Hard)
-  1. [序列化和反序列化二叉搜索树](/serialize-and-deserialize-bst) (Medium)
-  1. [根据二叉树创建字符串](/construct-string-from-binary-tree) (Easy)
+  1. [二叉树的序列化与反序列化](/problems/serialize-and-deserialize-binary-tree) (Hard)
+  1. [序列化和反序列化二叉搜索树](/problems/serialize-and-deserialize-bst) (Medium)
+  1. [根据二叉树创建字符串](/problems/construct-string-from-binary-tree) (Easy)
 
 ---
 

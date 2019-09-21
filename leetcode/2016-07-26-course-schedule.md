@@ -4,7 +4,7 @@ title:      "课程表"
 date:       2016-07-26 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Depth-first Search, Breadth-first Search, Graph, Topological Sort]
-permalink:  /course-schedule/
+permalink:  /problems/course-schedule/
 ---
 
 ## 207. 课程表 (Medium)
@@ -55,10 +55,10 @@ permalink:  /course-schedule/
   [[拓扑排序](https://github.com/openset/leetcode/tree/master/tag/topological-sort/README.md)]
 
 ### 相似题目
-  1. [课程表 II](/course-schedule-ii) (Medium)
-  1. [以图判树](/graph-valid-tree) (Medium)
-  1. [最小高度树](/minimum-height-trees) (Medium)
-  1. [课程表 III](/course-schedule-iii) (Hard)
+  1. [课程表 II](/problems/course-schedule-ii) (Medium)
+  1. [以图判树](/problems/graph-valid-tree) (Medium)
+  1. [最小高度树](/problems/minimum-height-trees) (Medium)
+  1. [课程表 III](/problems/course-schedule-iii) (Hard)
 
 ---
 

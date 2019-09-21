@@ -4,7 +4,7 @@ title:      "在二叉树中增加一行"
 date:       2017-09-15 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Tree]
-permalink:  /add-one-row-to-tree/
+permalink:  /problems/add-one-row-to-tree/
 ---
 
 ## 623. 在二叉树中增加一行 (Medium)

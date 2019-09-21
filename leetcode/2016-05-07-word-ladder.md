@@ -4,7 +4,7 @@ title:      "单词接龙"
 date:       2016-05-07 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Breadth-first Search]
-permalink:  /word-ladder/
+permalink:  /problems/word-ladder/
 ---
 
 ## 127. 单词接龙 (Medium)
@@ -58,8 +58,8 @@ wordList = [&quot;hot&quot;,&quot;dot&quot;,&quot;dog&quot;,&quot;lot&quot;,&quo
   [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
 
 ### 相似题目
-  1. [单词接龙 II](/word-ladder-ii) (Hard)
-  1. [最小基因变化](/minimum-genetic-mutation) (Medium)
+  1. [单词接龙 II](/problems/word-ladder-ii) (Hard)
+  1. [最小基因变化](/problems/minimum-genetic-mutation) (Medium)
 
 ---
 

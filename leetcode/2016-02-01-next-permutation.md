@@ -4,7 +4,7 @@ title:      "下一个排列"
 date:       2016-02-01 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array]
-permalink:  /next-permutation/
+permalink:  /problems/next-permutation/
 ---
 
 ## 31. 下一个排列 (Medium)
@@ -28,10 +28,10 @@ permalink:  /next-permutation/
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 
 ### 相似题目
-  1. [全排列](/permutations) (Medium)
-  1. [全排列 II](/permutations-ii) (Medium)
-  1. [第k个排列](/permutation-sequence) (Medium)
-  1. [回文排列 II](/palindrome-permutation-ii) (Medium)
+  1. [全排列](/problems/permutations) (Medium)
+  1. [全排列 II](/problems/permutations-ii) (Medium)
+  1. [第k个排列](/problems/permutation-sequence) (Medium)
+  1. [回文排列 II](/problems/palindrome-permutation-ii) (Medium)
 
 ---
 

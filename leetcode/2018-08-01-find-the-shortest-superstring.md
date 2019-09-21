@@ -4,7 +4,7 @@ title:      "最短超级串"
 date:       2018-08-01 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Dynamic Programming]
-permalink:  /find-the-shortest-superstring/
+permalink:  /problems/find-the-shortest-superstring/
 ---
 
 ## 943. 最短超级串 (Hard)

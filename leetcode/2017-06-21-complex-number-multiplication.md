@@ -4,7 +4,7 @@ title:      "复数乘法"
 date:       2017-06-21 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Math, String]
-permalink:  /complex-number-multiplication/
+permalink:  /problems/complex-number-multiplication/
 ---
 
 ## 537. 复数乘法 (Medium)

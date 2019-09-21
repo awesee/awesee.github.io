@@ -4,7 +4,7 @@ title:      "移动石子直到连续 II"
 date:       2018-11-06 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array, Sliding Window]
-permalink:  /moving-stones-until-consecutive-ii/
+permalink:  /problems/moving-stones-until-consecutive-ii/
 ---
 
 ## 1040. 移动石子直到连续 II (Medium)

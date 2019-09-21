@@ -4,7 +4,7 @@ title:      "重复叠加字符串匹配"
 date:       2017-11-17 21:30:00 +0800
 categories: [Leetcode]
 tags:       [String]
-permalink:  /repeated-string-match/
+permalink:  /problems/repeated-string-match/
 ---
 
 ## 686. 重复叠加字符串匹配 (Easy)
@@ -27,7 +27,7 @@ permalink:  /repeated-string-match/
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ### 相似题目
-  1. [重复的子字符串](/repeated-substring-pattern) (Easy)
+  1. [重复的子字符串](/problems/repeated-substring-pattern) (Easy)
 
 ---
 

@@ -4,7 +4,7 @@ title:      "岛屿的最大面积"
 date:       2017-11-26 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Depth-first Search, Array]
-permalink:  /max-area-of-island/
+permalink:  /problems/max-area-of-island/
 ---
 
 ## 695. 岛屿的最大面积 (Medium)
@@ -46,8 +46,8 @@ permalink:  /max-area-of-island/
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 
 ### 相似题目
-  1. [岛屿数量](/number-of-islands) (Medium)
-  1. [岛屿的周长](/island-perimeter) (Easy)
+  1. [岛屿数量](/problems/number-of-islands) (Medium)
+  1. [岛屿的周长](/problems/island-perimeter) (Easy)
 
 ---
 

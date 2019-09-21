@@ -4,7 +4,7 @@ title:      "最大单词长度乘积"
 date:       2016-11-14 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Bit Manipulation]
-permalink:  /maximum-product-of-word-lengths/
+permalink:  /problems/maximum-product-of-word-lengths/
 ---
 
 ## 318. 最大单词长度乘积 (Medium)

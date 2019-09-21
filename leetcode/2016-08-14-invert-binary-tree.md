@@ -4,7 +4,7 @@ title:      "翻转二叉树"
 date:       2016-08-14 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Tree]
-permalink:  /invert-binary-tree/
+permalink:  /problems/invert-binary-tree/
 ---
 
 ## 226. 翻转二叉树 (Easy)

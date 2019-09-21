@@ -4,7 +4,7 @@ title:      "删除重复的电子邮箱"
 date:       2016-07-15 21:30:00 +0800
 categories: [Leetcode]
 tags:       []
-permalink:  /delete-duplicate-emails/
+permalink:  /problems/delete-duplicate-emails/
 ---
 
 ## 196. 删除重复的电子邮箱 (Easy)

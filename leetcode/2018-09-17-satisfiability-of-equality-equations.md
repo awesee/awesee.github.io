@@ -4,7 +4,7 @@ title:      "等式方程的可满足性"
 date:       2018-09-17 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Union Find, Graph]
-permalink:  /satisfiability-of-equality-equations/
+permalink:  /problems/satisfiability-of-equality-equations/
 ---
 
 ## 990. 等式方程的可满足性 (Medium)

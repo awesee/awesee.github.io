@@ -4,7 +4,7 @@ title:      "移除盒子"
 date:       2017-06-30 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Depth-first Search, Dynamic Programming]
-permalink:  /remove-boxes/
+permalink:  /problems/remove-boxes/
 ---
 
 ## 546. 移除盒子 (Hard)
@@ -49,7 +49,7 @@ permalink:  /remove-boxes/
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### 相似题目
-  1. [奇怪的打印机](/strange-printer) (Hard)
+  1. [奇怪的打印机](/problems/strange-printer) (Hard)
 
 ---
 

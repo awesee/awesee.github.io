@@ -4,7 +4,7 @@ title:      "最近的请求次数"
 date:       2018-07-22 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Queue]
-permalink:  /number-of-recent-calls/
+permalink:  /problems/number-of-recent-calls/
 ---
 
 ## 933. 最近的请求次数 (Easy)

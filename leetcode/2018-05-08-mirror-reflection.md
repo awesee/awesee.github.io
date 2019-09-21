@@ -4,7 +4,7 @@ title:      "镜面反射"
 date:       2018-05-08 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Math]
-permalink:  /mirror-reflection/
+permalink:  /problems/mirror-reflection/
 ---
 
 ## 858. 镜面反射 (Medium)

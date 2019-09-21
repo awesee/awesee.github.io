@@ -4,7 +4,7 @@ title:      "数组中的K-diff数对"
 date:       2017-06-16 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array, Two Pointers]
-permalink:  /k-diff-pairs-in-an-array/
+permalink:  /problems/k-diff-pairs-in-an-array/
 ---
 
 ## 532. 数组中的K-diff数对 (Easy)
@@ -53,7 +53,7 @@ permalink:  /k-diff-pairs-in-an-array/
   [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
 
 ### 相似题目
-  1. [二叉搜索树的最小绝对差](/minimum-absolute-difference-in-bst) (Easy)
+  1. [二叉搜索树的最小绝对差](/problems/minimum-absolute-difference-in-bst) (Easy)
 
 ---
 

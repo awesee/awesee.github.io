@@ -4,7 +4,7 @@ title:      "合并K个排序链表"
 date:       2016-01-24 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Heap, Linked List, Divide and Conquer]
-permalink:  /merge-k-sorted-lists/
+permalink:  /problems/merge-k-sorted-lists/
 ---
 
 ## 23. 合并K个排序链表 (Hard)
@@ -31,8 +31,8 @@ permalink:  /merge-k-sorted-lists/
   [[分治算法](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]
 
 ### 相似题目
-  1. [合并两个有序链表](/merge-two-sorted-lists) (Easy)
-  1. [丑数 II](/ugly-number-ii) (Medium)
+  1. [合并两个有序链表](/problems/merge-two-sorted-lists) (Easy)
+  1. [丑数 II](/problems/ugly-number-ii) (Medium)
 
 ---
 

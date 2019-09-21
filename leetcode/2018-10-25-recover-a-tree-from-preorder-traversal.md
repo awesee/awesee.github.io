@@ -4,7 +4,7 @@ title:      "从先序遍历还原二叉树"
 date:       2018-10-25 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Tree, Depth-first Search]
-permalink:  /recover-a-tree-from-preorder-traversal/
+permalink:  /problems/recover-a-tree-from-preorder-traversal/
 ---
 
 ## 1028. 从先序遍历还原二叉树 (Hard)

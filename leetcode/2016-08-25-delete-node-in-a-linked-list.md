@@ -4,7 +4,7 @@ title:      "删除链表中的节点"
 date:       2016-08-25 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Linked List]
-permalink:  /delete-node-in-a-linked-list/
+permalink:  /problems/delete-node-in-a-linked-list/
 ---
 
 ## 237. 删除链表中的节点 (Easy)
@@ -50,7 +50,7 @@ permalink:  /delete-node-in-a-linked-list/
   [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
 
 ### 相似题目
-  1. [移除链表元素](/remove-linked-list-elements) (Easy)
+  1. [移除链表元素](/problems/remove-linked-list-elements) (Easy)
 
 ---
 

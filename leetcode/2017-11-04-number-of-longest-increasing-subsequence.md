@@ -4,7 +4,7 @@ title:      "最长递增子序列的个数"
 date:       2017-11-04 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Dynamic Programming]
-permalink:  /number-of-longest-increasing-subsequence/
+permalink:  /problems/number-of-longest-increasing-subsequence/
 ---
 
 ## 673. 最长递增子序列的个数 (Medium)
@@ -37,8 +37,8 @@ permalink:  /number-of-longest-increasing-subsequence/
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### 相似题目
-  1. [最长上升子序列](/longest-increasing-subsequence) (Medium)
-  1. [最长连续递增序列](/longest-continuous-increasing-subsequence) (Easy)
+  1. [最长上升子序列](/problems/longest-increasing-subsequence) (Medium)
+  1. [最长连续递增序列](/problems/longest-continuous-increasing-subsequence) (Easy)
 
 ---
 

@@ -4,7 +4,7 @@ title:      "最低加油次数"
 date:       2018-05-21 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Heap, Dynamic Programming]
-permalink:  /minimum-number-of-refueling-stops/
+permalink:  /problems/minimum-number-of-refueling-stops/
 ---
 
 ## 871. 最低加油次数 (Hard)

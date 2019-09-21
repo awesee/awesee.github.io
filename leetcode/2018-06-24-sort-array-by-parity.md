@@ -4,7 +4,7 @@ title:      "按奇偶排序数组"
 date:       2018-06-24 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array]
-permalink:  /sort-array-by-parity/
+permalink:  /problems/sort-array-by-parity/
 ---
 
 ## 905. 按奇偶排序数组 (Easy)

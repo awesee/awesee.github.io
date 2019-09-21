@@ -4,7 +4,7 @@ title:      "删除二叉搜索树中的节点"
 date:       2017-03-26 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Tree]
-permalink:  /delete-node-in-a-bst/
+permalink:  /problems/delete-node-in-a-bst/
 ---
 
 ## 450. 删除二叉搜索树中的节点 (Medium)
@@ -59,7 +59,7 @@ key = 3
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
 
 ### 相似题目
-  1. [拆分二叉搜索树](/split-bst) (Medium)
+  1. [拆分二叉搜索树](/problems/split-bst) (Medium)
 
 ---
 

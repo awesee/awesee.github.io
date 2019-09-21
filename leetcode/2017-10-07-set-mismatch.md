@@ -4,7 +4,7 @@ title:      "错误的集合"
 date:       2017-10-07 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Hash Table, Math]
-permalink:  /set-mismatch/
+permalink:  /problems/set-mismatch/
 ---
 
 ## 645. 错误的集合 (Easy)
@@ -36,7 +36,7 @@ permalink:  /set-mismatch/
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
 
 ### 相似题目
-  1. [寻找重复数](/find-the-duplicate-number) (Medium)
+  1. [寻找重复数](/problems/find-the-duplicate-number) (Medium)
 
 ---
 

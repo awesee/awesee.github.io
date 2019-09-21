@@ -4,7 +4,7 @@ title:      "罗马数字转整数"
 date:       2016-01-14 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Math, String]
-permalink:  /roman-to-integer/
+permalink:  /problems/roman-to-integer/
 ---
 
 ## 13. 罗马数字转整数 (Easy)
@@ -69,7 +69,7 @@ M             1000</pre>
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ### 相似题目
-  1. [整数转罗马数字](/integer-to-roman) (Medium)
+  1. [整数转罗马数字](/problems/integer-to-roman) (Medium)
 
 ---
 

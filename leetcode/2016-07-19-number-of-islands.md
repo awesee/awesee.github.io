@@ -4,7 +4,7 @@ title:      "岛屿数量"
 date:       2016-07-19 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Depth-first Search, Breadth-first Search, Union Find]
-permalink:  /number-of-islands/
+permalink:  /problems/number-of-islands/
 ---
 
 ## 200. 岛屿数量 (Medium)
@@ -43,12 +43,12 @@ permalink:  /number-of-islands/
   [[并查集](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)]
 
 ### 相似题目
-  1. [被围绕的区域](/surrounded-regions) (Medium)
-  1. [墙与门](/walls-and-gates) (Medium)
-  1. [岛屿数量 II](/number-of-islands-ii) (Hard)
-  1. [无向图中连通分量的数目](/number-of-connected-components-in-an-undirected-graph) (Medium)
-  1. [不同岛屿的数量](/number-of-distinct-islands) (Medium)
-  1. [岛屿的最大面积](/max-area-of-island) (Medium)
+  1. [被围绕的区域](/problems/surrounded-regions) (Medium)
+  1. [墙与门](/problems/walls-and-gates) (Medium)
+  1. [岛屿数量 II](/problems/number-of-islands-ii) (Hard)
+  1. [无向图中连通分量的数目](/problems/number-of-connected-components-in-an-undirected-graph) (Medium)
+  1. [不同岛屿的数量](/problems/number-of-distinct-islands) (Medium)
+  1. [岛屿的最大面积](/problems/max-area-of-island) (Medium)
 
 ---
 

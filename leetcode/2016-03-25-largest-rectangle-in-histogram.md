@@ -4,10 +4,12 @@ title:      "柱状图中最大的矩形"
 date:       2016-03-25 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Stack, Array]
-permalink:  /largest-rectangle-in-histogram/
+permalink:  /problems/largest-rectangle-in-histogram/
 ---
 
 ## 84. 柱状图中最大的矩形 (Hard)
+
+{% raw %}
 
 <p>给定 <em>n</em> 个非负整数，用来表示柱状图中各个柱子的高度。每个柱子彼此相邻，且宽度为 1 。</p>
 
@@ -32,12 +34,14 @@ permalink:  /largest-rectangle-in-histogram/
 <pre><strong>输入:</strong> [2,1,5,6,2,3]
 <strong>输出:</strong> 10</pre>
 
+{% endraw %}
+
 ### 相关话题
   [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 
 ### 相似题目
-  1. [最大矩形](/maximal-rectangle) (Hard)
+  1. [最大矩形](/problems/maximal-rectangle) (Hard)
 
 ---
 

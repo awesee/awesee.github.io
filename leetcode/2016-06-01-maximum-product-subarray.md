@@ -4,7 +4,7 @@ title:      "乘积最大子序列"
 date:       2016-06-01 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array, Dynamic Programming]
-permalink:  /maximum-product-subarray/
+permalink:  /problems/maximum-product-subarray/
 ---
 
 ## 152. 乘积最大子序列 (Medium)
@@ -33,11 +33,11 @@ permalink:  /maximum-product-subarray/
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### 相似题目
-  1. [最大子序和](/maximum-subarray) (Easy)
-  1. [打家劫舍](/house-robber) (Easy)
-  1. [除自身以外数组的乘积](/product-of-array-except-self) (Medium)
-  1. [三个数的最大乘积](/maximum-product-of-three-numbers) (Easy)
-  1. [乘积小于K的子数组](/subarray-product-less-than-k) (Medium)
+  1. [最大子序和](/problems/maximum-subarray) (Easy)
+  1. [打家劫舍](/problems/house-robber) (Easy)
+  1. [除自身以外数组的乘积](/problems/product-of-array-except-self) (Medium)
+  1. [三个数的最大乘积](/problems/maximum-product-of-three-numbers) (Easy)
+  1. [乘积小于K的子数组](/problems/subarray-product-less-than-k) (Medium)
 
 ---
 

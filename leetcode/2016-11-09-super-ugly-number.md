@@ -4,7 +4,7 @@ title:      "超级丑数"
 date:       2016-11-09 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Heap, Math]
-permalink:  /super-ugly-number/
+permalink:  /problems/super-ugly-number/
 ---
 
 ## 313. 超级丑数 (Medium)
@@ -37,7 +37,7 @@ permalink:  /super-ugly-number/
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
 
 ### 相似题目
-  1. [丑数 II](/ugly-number-ii) (Medium)
+  1. [丑数 II](/problems/ugly-number-ii) (Medium)
 
 ---
 

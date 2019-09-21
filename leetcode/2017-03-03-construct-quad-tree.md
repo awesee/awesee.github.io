@@ -4,7 +4,7 @@ title:      "建立四叉树"
 date:       2017-03-03 21:30:00 +0800
 categories: [Leetcode]
 tags:       []
-permalink:  /construct-quad-tree/
+permalink:  /problems/construct-quad-tree/
 ---
 
 ## 427. 建立四叉树 (Medium)

@@ -4,7 +4,7 @@ title:      "计算右侧小于当前元素的个数"
 date:       2016-11-11 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Sort, Binary Indexed Tree, Segment Tree, Binary Search, Divide and Conquer]
-permalink:  /count-of-smaller-numbers-after-self/
+permalink:  /problems/count-of-smaller-numbers-after-self/
 ---
 
 ## 315. 计算右侧小于当前元素的个数 (Hard)
@@ -34,9 +34,9 @@ permalink:  /count-of-smaller-numbers-after-self/
   [[分治算法](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]
 
 ### 相似题目
-  1. [区间和的个数](/count-of-range-sum) (Hard)
-  1. [根据身高重建队列](/queue-reconstruction-by-height) (Medium)
-  1. [翻转对](/reverse-pairs) (Hard)
+  1. [区间和的个数](/problems/count-of-range-sum) (Hard)
+  1. [根据身高重建队列](/problems/queue-reconstruction-by-height) (Medium)
+  1. [翻转对](/problems/reverse-pairs) (Hard)
 
 ---
 

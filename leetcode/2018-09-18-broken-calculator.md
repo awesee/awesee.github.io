@@ -4,7 +4,7 @@ title:      "坏了的计算器"
 date:       2018-09-18 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Greedy, Math]
-permalink:  /broken-calculator/
+permalink:  /problems/broken-calculator/
 ---
 
 ## 991. 坏了的计算器 (Medium)
@@ -68,7 +68,7 @@ permalink:  /broken-calculator/
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
 
 ### 相似题目
-  1. [只有两个键的键盘](/2-keys-keyboard) (Medium)
+  1. [只有两个键的键盘](/problems/2-keys-keyboard) (Medium)
 
 ---
 

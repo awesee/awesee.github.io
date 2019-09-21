@@ -4,7 +4,7 @@ title:      "字典序的第K小数字"
 date:       2017-03-16 21:30:00 +0800
 categories: [Leetcode]
 tags:       []
-permalink:  /k-th-smallest-in-lexicographical-order/
+permalink:  /problems/k-th-smallest-in-lexicographical-order/
 ---
 
 ## 440. 字典序的第K小数字 (Hard)

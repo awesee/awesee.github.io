@@ -4,7 +4,7 @@ title:      "雇佣 K 名工人的最低成本"
 date:       2018-05-07 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Heap]
-permalink:  /minimum-cost-to-hire-k-workers/
+permalink:  /problems/minimum-cost-to-hire-k-workers/
 ---
 
 ## 857. 雇佣 K 名工人的最低成本 (Hard)

@@ -4,7 +4,7 @@ title:      "翻转字符串里的单词"
 date:       2016-05-31 21:30:00 +0800
 categories: [Leetcode]
 tags:       [String]
-permalink:  /reverse-words-in-a-string/
+permalink:  /problems/reverse-words-in-a-string/
 ---
 
 ## 151. 翻转字符串里的单词 (Medium)
@@ -57,7 +57,7 @@ permalink:  /reverse-words-in-a-string/
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ### 相似题目
-  1. [翻转字符串里的单词 II](/reverse-words-in-a-string-ii) (Medium)
+  1. [翻转字符串里的单词 II](/problems/reverse-words-in-a-string-ii) (Medium)
 
 ---
 

@@ -4,7 +4,7 @@ title:      "数组的均值分割"
 date:       2018-03-16 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Math]
-permalink:  /split-array-with-same-average/
+permalink:  /problems/split-array-with-same-average/
 ---
 
 ## 805. 数组的均值分割 (Hard)

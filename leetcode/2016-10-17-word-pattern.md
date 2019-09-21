@@ -4,7 +4,7 @@ title:      "单词规律"
 date:       2016-10-17 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Hash Table]
-permalink:  /word-pattern/
+permalink:  /problems/word-pattern/
 ---
 
 ## 290. 单词规律 (Easy)
@@ -44,8 +44,8 @@ permalink:  /word-pattern/
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
 
 ### 相似题目
-  1. [同构字符串](/isomorphic-strings) (Easy)
-  1. [单词规律 II](/word-pattern-ii) (Hard)
+  1. [同构字符串](/problems/isomorphic-strings) (Easy)
+  1. [单词规律 II](/problems/word-pattern-ii) (Hard)
 
 ---
 

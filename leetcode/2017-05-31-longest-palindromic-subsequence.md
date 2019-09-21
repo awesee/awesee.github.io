@@ -4,7 +4,7 @@ title:      "最长回文子序列"
 date:       2017-05-31 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Dynamic Programming]
-permalink:  /longest-palindromic-subsequence/
+permalink:  /problems/longest-palindromic-subsequence/
 ---
 
 ## 516. 最长回文子序列 (Medium)
@@ -49,9 +49,9 @@ permalink:  /longest-palindromic-subsequence/
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### 相似题目
-  1. [最长回文子串](/longest-palindromic-substring) (Medium)
-  1. [回文子串](/palindromic-substrings) (Medium)
-  1. [统计不同回文子字符串](/count-different-palindromic-subsequences) (Hard)
+  1. [最长回文子串](/problems/longest-palindromic-substring) (Medium)
+  1. [回文子串](/problems/palindromic-substrings) (Medium)
+  1. [统计不同回文子字符串](/problems/count-different-palindromic-subsequences) (Hard)
 
 ---
 

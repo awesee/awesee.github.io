@@ -4,7 +4,7 @@ title:      "3的幂"
 date:       2016-11-22 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Math]
-permalink:  /power-of-three/
+permalink:  /problems/power-of-three/
 ---
 
 ## 326. 3的幂 (Easy)
@@ -43,8 +43,8 @@ permalink:  /power-of-three/
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
 
 ### 相似题目
-  1. [2的幂](/power-of-two) (Easy)
-  1. [4的幂](/power-of-four) (Easy)
+  1. [2的幂](/problems/power-of-two) (Easy)
+  1. [4的幂](/problems/power-of-four) (Easy)
 
 ---
 

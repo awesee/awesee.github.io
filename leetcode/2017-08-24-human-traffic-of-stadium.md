@@ -4,7 +4,7 @@ title:      "体育馆的人流量"
 date:       2017-08-24 21:30:00 +0800
 categories: [Leetcode]
 tags:       []
-permalink:  /human-traffic-of-stadium/
+permalink:  /problems/human-traffic-of-stadium/
 ---
 
 ## 601. 体育馆的人流量 (Hard)

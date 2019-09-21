@@ -4,7 +4,7 @@ title:      "组合总和 II"
 date:       2016-02-10 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array, Backtracking]
-permalink:  /combination-sum-ii/
+permalink:  /problems/combination-sum-ii/
 ---
 
 ## 40. 组合总和 II (Medium)
@@ -50,7 +50,7 @@ permalink:  /combination-sum-ii/
   [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
 
 ### 相似题目
-  1. [组合总和](/combination-sum) (Medium)
+  1. [组合总和](/problems/combination-sum) (Medium)
 
 ---
 

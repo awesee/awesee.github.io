@@ -4,7 +4,7 @@ title:      "有效的括号字符串"
 date:       2017-11-09 21:30:00 +0800
 categories: [Leetcode]
 tags:       [String]
-permalink:  /valid-parenthesis-string/
+permalink:  /problems/valid-parenthesis-string/
 ---
 
 ## 678. 有效的括号字符串 (Medium)
@@ -54,7 +54,7 @@ permalink:  /valid-parenthesis-string/
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ### 相似题目
-  1. [特殊的二进制序列](/special-binary-string) (Hard)
+  1. [特殊的二进制序列](/problems/special-binary-string) (Hard)
 
 ---
 

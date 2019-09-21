@@ -4,7 +4,7 @@ title:      "字符串相乘"
 date:       2016-02-13 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Math, String]
-permalink:  /multiply-strings/
+permalink:  /problems/multiply-strings/
 ---
 
 ## 43. 字符串相乘 (Medium)
@@ -39,10 +39,10 @@ permalink:  /multiply-strings/
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ### 相似题目
-  1. [两数相加](/add-two-numbers) (Medium)
-  1. [加一](/plus-one) (Easy)
-  1. [二进制求和](/add-binary) (Easy)
-  1. [字符串相加](/add-strings) (Easy)
+  1. [两数相加](/problems/add-two-numbers) (Medium)
+  1. [加一](/problems/plus-one) (Easy)
+  1. [二进制求和](/problems/add-binary) (Easy)
+  1. [字符串相加](/problems/add-strings) (Easy)
 
 ---
 

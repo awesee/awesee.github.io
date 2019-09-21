@@ -4,7 +4,7 @@ title:      "石子游戏"
 date:       2018-05-27 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Minimax, Math, Dynamic Programming]
-permalink:  /stone-game/
+permalink:  /problems/stone-game/
 ---
 
 ## 877. 石子游戏 (Medium)

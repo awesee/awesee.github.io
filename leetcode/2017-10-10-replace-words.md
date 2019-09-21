@@ -4,7 +4,7 @@ title:      "单词替换"
 date:       2017-10-10 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Trie, Hash Table]
-permalink:  /replace-words/
+permalink:  /problems/replace-words/
 ---
 
 ## 648. 单词替换 (Medium)
@@ -42,7 +42,7 @@ sentence(句子) = &quot;the cattle was rattled by the battery&quot;
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
 
 ### 相似题目
-  1. [实现 Trie (前缀树)](/implement-trie-prefix-tree) (Medium)
+  1. [实现 Trie (前缀树)](/problems/implement-trie-prefix-tree) (Medium)
 
 ---
 

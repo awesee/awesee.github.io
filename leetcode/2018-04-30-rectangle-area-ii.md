@@ -4,7 +4,7 @@ title:      "矩形面积 II"
 date:       2018-04-30 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Segment Tree, Line Sweep]
-permalink:  /rectangle-area-ii/
+permalink:  /problems/rectangle-area-ii/
 ---
 
 ## 850. 矩形面积 II (Hard)

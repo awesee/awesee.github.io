@@ -4,7 +4,7 @@ title:      "摆动排序 II"
 date:       2016-11-20 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Sort]
-permalink:  /wiggle-sort-ii/
+permalink:  /problems/wiggle-sort-ii/
 ---
 
 ## 324. 摆动排序 II (Medium)
@@ -35,9 +35,9 @@ permalink:  /wiggle-sort-ii/
   [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
 
 ### 相似题目
-  1. [颜色分类](/sort-colors) (Medium)
-  1. [数组中的第K个最大元素](/kth-largest-element-in-an-array) (Medium)
-  1. [摆动排序](/wiggle-sort) (Medium)
+  1. [颜色分类](/problems/sort-colors) (Medium)
+  1. [数组中的第K个最大元素](/problems/kth-largest-element-in-an-array) (Medium)
+  1. [摆动排序](/problems/wiggle-sort) (Medium)
 
 ---
 
