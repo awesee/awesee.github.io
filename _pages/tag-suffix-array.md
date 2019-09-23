@@ -1,6 +1,6 @@
 ---
-title: ""
+title: "Suffix Array"
 layout: tag
 permalink: /tags/suffix-array/
-taxonomy: 
+taxonomy: Suffix Array
 ---
