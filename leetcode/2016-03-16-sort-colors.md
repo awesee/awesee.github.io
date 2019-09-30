@@ -45,4 +45,4 @@ permalink:  /problems/sort-colors/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/sort-colors)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/sort-colors)

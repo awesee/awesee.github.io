@@ -73,4 +73,4 @@ permalink:  /problems/longest-chunked-palindrome-decomposition/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/longest-chunked-palindrome-decomposition)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/longest-chunked-palindrome-decomposition)

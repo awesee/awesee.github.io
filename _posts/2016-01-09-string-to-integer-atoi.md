@@ -75,4 +75,4 @@ permalink:  /problems/string-to-integer-atoi/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/string-to-integer-atoi)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/string-to-integer-atoi)

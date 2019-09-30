@@ -35,4 +35,4 @@ permalink:  /problems/nth-highest-salary/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/nth-highest-salary)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/nth-highest-salary)

@@ -46,4 +46,4 @@ permalink:  /problems/unique-binary-search-trees-ii/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/unique-binary-search-trees-ii)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/unique-binary-search-trees-ii)

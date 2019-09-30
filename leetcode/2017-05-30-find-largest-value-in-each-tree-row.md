@@ -36,4 +36,4 @@ permalink:  /problems/find-largest-value-in-each-tree-row/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/find-largest-value-in-each-tree-row)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/find-largest-value-in-each-tree-row)

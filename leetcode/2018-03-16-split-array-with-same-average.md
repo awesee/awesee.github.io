@@ -37,4 +37,4 @@ permalink:  /problems/split-array-with-same-average/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/split-array-with-same-average)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/split-array-with-same-average)

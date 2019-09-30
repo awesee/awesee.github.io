@@ -55,4 +55,4 @@ permalink:  /problems/filling-bookcase-shelves/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/filling-bookcase-shelves)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/filling-bookcase-shelves)

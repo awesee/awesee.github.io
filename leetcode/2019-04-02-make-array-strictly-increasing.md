@@ -54,4 +54,4 @@ permalink:  /problems/make-array-strictly-increasing/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/make-array-strictly-increasing)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/make-array-strictly-increasing)

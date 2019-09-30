@@ -65,4 +65,4 @@ permalink:  /problems/fair-candy-swap/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/fair-candy-swap)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/fair-candy-swap)

@@ -59,4 +59,4 @@ Target = 28
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/two-sum-iv-input-is-a-bst)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/two-sum-iv-input-is-a-bst)

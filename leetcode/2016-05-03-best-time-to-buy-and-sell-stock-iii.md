@@ -53,4 +53,4 @@ permalink:  /problems/best-time-to-buy-and-sell-stock-iii/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/best-time-to-buy-and-sell-stock-iii)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/best-time-to-buy-and-sell-stock-iii)

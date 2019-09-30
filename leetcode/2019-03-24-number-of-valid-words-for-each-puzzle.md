@@ -61,4 +61,4 @@ puzzles = [&quot;aboveyz&quot;,&quot;abrodyz&quot;,&quot;abslute&quot;,&quot;abs
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/number-of-valid-words-for-each-puzzle)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/number-of-valid-words-for-each-puzzle)

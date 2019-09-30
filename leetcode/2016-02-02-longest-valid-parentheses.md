@@ -38,4 +38,4 @@ permalink:  /problems/longest-valid-parentheses/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/longest-valid-parentheses)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/longest-valid-parentheses)

@@ -61,4 +61,4 @@ permalink:  /problems/spiral-matrix-iii/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/spiral-matrix-iii)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/spiral-matrix-iii)

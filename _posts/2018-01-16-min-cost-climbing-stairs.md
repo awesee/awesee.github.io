@@ -51,4 +51,4 @@ permalink:  /problems/min-cost-climbing-stairs/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/min-cost-climbing-stairs)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/min-cost-climbing-stairs)

@@ -80,4 +80,4 @@ permalink:  /problems/brace-expansion-ii/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/brace-expansion-ii)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/brace-expansion-ii)

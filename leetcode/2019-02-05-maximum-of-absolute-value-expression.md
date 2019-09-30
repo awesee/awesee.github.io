@@ -43,4 +43,4 @@ permalink:  /problems/maximum-of-absolute-value-expression/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/maximum-of-absolute-value-expression)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/maximum-of-absolute-value-expression)

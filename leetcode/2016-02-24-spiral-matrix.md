@@ -45,4 +45,4 @@ permalink:  /problems/spiral-matrix/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/spiral-matrix)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/spiral-matrix)

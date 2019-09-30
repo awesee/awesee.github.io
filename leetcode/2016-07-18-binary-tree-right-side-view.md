@@ -39,4 +39,4 @@ permalink:  /problems/binary-tree-right-side-view/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/binary-tree-right-side-view)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/binary-tree-right-side-view)

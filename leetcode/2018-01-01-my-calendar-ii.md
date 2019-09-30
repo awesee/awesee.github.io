@@ -60,4 +60,4 @@ MyCalendar.book(25, 55); // returns true
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/my-calendar-ii)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/my-calendar-ii)

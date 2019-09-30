@@ -43,4 +43,4 @@ permalink:  /problems/power-of-two/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/power-of-two)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/power-of-two)

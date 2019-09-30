@@ -62,4 +62,4 @@ permalink:  /problems/redundant-connection/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/redundant-connection)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/redundant-connection)

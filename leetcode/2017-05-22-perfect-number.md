@@ -40,4 +40,4 @@ permalink:  /problems/perfect-number/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/perfect-number)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/perfect-number)

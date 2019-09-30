@@ -53,4 +53,4 @@ s = &quot;AABABBA&quot;, k = 1
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/longest-repeating-character-replacement)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/longest-repeating-character-replacement)

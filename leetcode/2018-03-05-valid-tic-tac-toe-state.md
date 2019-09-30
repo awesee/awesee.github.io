@@ -64,4 +64,4 @@ permalink:  /problems/valid-tic-tac-toe-state/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/valid-tic-tac-toe-state)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/valid-tic-tac-toe-state)

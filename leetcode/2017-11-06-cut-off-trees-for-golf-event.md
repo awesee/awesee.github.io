@@ -78,4 +78,4 @@ permalink:  /problems/cut-off-trees-for-golf-event/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/cut-off-trees-for-golf-event)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/cut-off-trees-for-golf-event)

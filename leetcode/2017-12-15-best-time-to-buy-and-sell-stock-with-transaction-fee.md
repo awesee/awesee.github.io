@@ -48,4 +48,4 @@ permalink:  /problems/best-time-to-buy-and-sell-stock-with-transaction-fee/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/best-time-to-buy-and-sell-stock-with-transaction-fee)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/best-time-to-buy-and-sell-stock-with-transaction-fee)

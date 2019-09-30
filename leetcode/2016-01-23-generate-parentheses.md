@@ -36,4 +36,4 @@ permalink:  /problems/generate-parentheses/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/generate-parentheses)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/generate-parentheses)

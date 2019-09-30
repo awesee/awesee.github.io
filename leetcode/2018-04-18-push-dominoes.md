@@ -55,4 +55,4 @@ permalink:  /problems/push-dominoes/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/push-dominoes)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/push-dominoes)

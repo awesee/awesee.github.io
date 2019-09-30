@@ -60,4 +60,4 @@ permalink:  /problems/k-similar-strings/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/k-similar-strings)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/k-similar-strings)

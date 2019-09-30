@@ -38,4 +38,4 @@ permalink:  /problems/find-all-numbers-disappeared-in-an-array/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/find-all-numbers-disappeared-in-an-array)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/find-all-numbers-disappeared-in-an-array)

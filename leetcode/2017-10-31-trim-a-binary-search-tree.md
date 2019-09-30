@@ -60,4 +60,4 @@ permalink:  /problems/trim-a-binary-search-tree/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/trim-a-binary-search-tree)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/trim-a-binary-search-tree)

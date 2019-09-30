@@ -39,4 +39,4 @@ permalink:  /problems/word-search/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/word-search)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/word-search)

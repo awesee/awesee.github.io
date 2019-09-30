@@ -39,4 +39,4 @@ permalink:  /problems/implement-stack-using-queues/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/implement-stack-using-queues)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/implement-stack-using-queues)

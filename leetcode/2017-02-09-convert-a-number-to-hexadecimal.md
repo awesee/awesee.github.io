@@ -49,4 +49,4 @@ permalink:  /problems/convert-a-number-to-hexadecimal/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/convert-a-number-to-hexadecimal)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/convert-a-number-to-hexadecimal)

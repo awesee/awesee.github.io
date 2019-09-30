@@ -65,4 +65,4 @@ permalink:  /problems/ambiguous-coordinates/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/ambiguous-coordinates)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/ambiguous-coordinates)

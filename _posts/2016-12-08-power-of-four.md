@@ -38,4 +38,4 @@ permalink:  /problems/power-of-four/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/power-of-four)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/power-of-four)

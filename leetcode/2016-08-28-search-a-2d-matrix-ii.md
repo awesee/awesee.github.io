@@ -46,4 +46,4 @@ permalink:  /problems/search-a-2d-matrix-ii/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/search-a-2d-matrix-ii)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/search-a-2d-matrix-ii)

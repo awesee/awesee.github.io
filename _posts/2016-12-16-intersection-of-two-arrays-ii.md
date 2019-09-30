@@ -53,4 +53,4 @@ permalink:  /problems/intersection-of-two-arrays-ii/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/intersection-of-two-arrays-ii)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/intersection-of-two-arrays-ii)

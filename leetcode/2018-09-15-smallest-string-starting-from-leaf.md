@@ -67,4 +67,4 @@ permalink:  /problems/smallest-string-starting-from-leaf/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/smallest-string-starting-from-leaf)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/smallest-string-starting-from-leaf)

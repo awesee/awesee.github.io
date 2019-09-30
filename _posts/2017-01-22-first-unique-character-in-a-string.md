@@ -38,4 +38,4 @@ s = &quot;loveleetcode&quot;,
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/first-unique-character-in-a-string)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/first-unique-character-in-a-string)

@@ -70,4 +70,4 @@ permalink:  /problems/largest-values-from-labels/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/largest-values-from-labels)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/largest-values-from-labels)

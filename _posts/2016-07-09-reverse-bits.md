@@ -54,4 +54,4 @@ permalink:  /problems/reverse-bits/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/reverse-bits)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/reverse-bits)

@@ -48,4 +48,4 @@ permalink:  /problems/rabbits-in-forest/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/rabbits-in-forest)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/rabbits-in-forest)

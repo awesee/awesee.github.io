@@ -45,4 +45,4 @@ permalink:  /problems/sort-an-array/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/sort-an-array)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/sort-an-array)

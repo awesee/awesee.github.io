@@ -57,4 +57,4 @@ permalink:  /problems/subarrays-with-k-different-integers/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/subarrays-with-k-different-integers)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/subarrays-with-k-different-integers)

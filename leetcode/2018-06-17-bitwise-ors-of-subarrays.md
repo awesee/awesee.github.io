@@ -62,4 +62,4 @@ permalink:  /problems/bitwise-ors-of-subarrays/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/bitwise-ors-of-subarrays)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/bitwise-ors-of-subarrays)

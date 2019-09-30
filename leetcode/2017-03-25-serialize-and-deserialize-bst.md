@@ -31,4 +31,4 @@ permalink:  /problems/serialize-and-deserialize-bst/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/serialize-and-deserialize-bst)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/serialize-and-deserialize-bst)

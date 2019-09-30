@@ -43,4 +43,4 @@ str2 = &quot;cab&quot; 是 &quot;cabac&quot; 的一个子串，因为我们可�
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/shortest-common-supersequence)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/shortest-common-supersequence)

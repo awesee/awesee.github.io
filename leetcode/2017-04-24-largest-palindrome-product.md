@@ -31,4 +31,4 @@ permalink:  /problems/largest-palindrome-product/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/largest-palindrome-product)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/largest-palindrome-product)

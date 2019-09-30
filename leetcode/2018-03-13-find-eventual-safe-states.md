@@ -45,4 +45,4 @@ permalink:  /problems/find-eventual-safe-states/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/find-eventual-safe-states)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/find-eventual-safe-states)

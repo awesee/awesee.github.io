@@ -72,4 +72,4 @@ permalink:  /problems/previous-permutation-with-one-swap/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/previous-permutation-with-one-swap)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/previous-permutation-with-one-swap)

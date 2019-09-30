@@ -43,4 +43,4 @@ A 的最优分组是[9], [1, 2, 3], [9]. 得到的分数是 9 + (1 + 2 + 3) / 3 
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/largest-sum-of-averages)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/largest-sum-of-averages)

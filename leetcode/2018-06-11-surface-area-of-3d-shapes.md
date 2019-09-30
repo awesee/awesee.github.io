@@ -69,4 +69,4 @@ permalink:  /problems/surface-area-of-3d-shapes/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/surface-area-of-3d-shapes)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/surface-area-of-3d-shapes)

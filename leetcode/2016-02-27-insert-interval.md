@@ -40,4 +40,4 @@ permalink:  /problems/insert-interval/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/insert-interval)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/insert-interval)

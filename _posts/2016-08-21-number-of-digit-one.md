@@ -30,4 +30,4 @@ permalink:  /problems/number-of-digit-one/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/number-of-digit-one)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/number-of-digit-one)

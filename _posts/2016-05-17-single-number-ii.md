@@ -39,4 +39,4 @@ permalink:  /problems/single-number-ii/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/single-number-ii)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/single-number-ii)

@@ -52,4 +52,4 @@ permalink:  /problems/license-key-formatting/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/license-key-formatting)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/license-key-formatting)

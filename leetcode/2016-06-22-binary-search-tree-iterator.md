@@ -57,4 +57,4 @@ iterator.hasNext(); // 返回 false</pre>
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/binary-search-tree-iterator)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/binary-search-tree-iterator)

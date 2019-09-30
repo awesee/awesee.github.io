@@ -59,4 +59,4 @@ permalink:  /problems/coin-change-2/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/coin-change-2)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/coin-change-2)

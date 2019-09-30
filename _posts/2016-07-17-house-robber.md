@@ -47,4 +47,4 @@ permalink:  /problems/house-robber/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/house-robber)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/house-robber)

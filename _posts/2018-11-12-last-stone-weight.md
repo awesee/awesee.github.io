@@ -39,4 +39,4 @@ permalink:  /problems/last-stone-weight/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/last-stone-weight)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/last-stone-weight)

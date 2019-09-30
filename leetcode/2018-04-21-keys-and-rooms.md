@@ -59,4 +59,4 @@ permalink:  /problems/keys-and-rooms/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/keys-and-rooms)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/keys-and-rooms)

@@ -53,4 +53,4 @@ permalink:  /problems/remove-boxes/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/remove-boxes)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/remove-boxes)

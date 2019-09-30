@@ -52,4 +52,4 @@ s = &quot;abpcplea&quot;, d = [&quot;a&quot;,&quot;b&quot;,&quot;c&quot;]
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/longest-word-in-dictionary-through-deleting)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/longest-word-in-dictionary-through-deleting)

@@ -29,4 +29,4 @@ permalink:  /problems/restore-ip-addresses/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/restore-ip-addresses)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/restore-ip-addresses)

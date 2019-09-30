@@ -62,4 +62,4 @@ permalink:  /problems/rotate-image/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/rotate-image)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/rotate-image)

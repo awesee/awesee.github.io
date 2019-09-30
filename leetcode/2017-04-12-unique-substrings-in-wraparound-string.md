@@ -56,4 +56,4 @@ permalink:  /problems/unique-substrings-in-wraparound-string/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/unique-substrings-in-wraparound-string)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/unique-substrings-in-wraparound-string)

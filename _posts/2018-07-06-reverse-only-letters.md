@@ -53,4 +53,4 @@ permalink:  /problems/reverse-only-letters/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/reverse-only-letters)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/reverse-only-letters)

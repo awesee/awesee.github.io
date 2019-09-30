@@ -44,4 +44,4 @@ permalink:  /problems/hamming-distance/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/hamming-distance)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/hamming-distance)

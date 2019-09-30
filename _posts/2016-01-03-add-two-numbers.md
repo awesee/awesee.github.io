@@ -40,4 +40,4 @@ permalink:  /problems/add-two-numbers/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/add-two-numbers)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/add-two-numbers)

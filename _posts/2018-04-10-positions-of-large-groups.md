@@ -50,4 +50,4 @@ permalink:  /problems/positions-of-large-groups/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/positions-of-large-groups)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/positions-of-large-groups)

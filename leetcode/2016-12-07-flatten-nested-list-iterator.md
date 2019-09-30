@@ -42,4 +42,4 @@ permalink:  /problems/flatten-nested-list-iterator/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/flatten-nested-list-iterator)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/flatten-nested-list-iterator)

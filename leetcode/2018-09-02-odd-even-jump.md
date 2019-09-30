@@ -88,4 +88,4 @@ permalink:  /problems/odd-even-jump/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/odd-even-jump)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/odd-even-jump)

@@ -42,4 +42,4 @@ permalink:  /problems/two-sum-ii-input-array-is-sorted/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/two-sum-ii-input-array-is-sorted)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/two-sum-ii-input-array-is-sorted)

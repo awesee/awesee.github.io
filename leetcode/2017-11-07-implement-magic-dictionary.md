@@ -47,4 +47,4 @@ Input: search(&quot;leetcoded&quot;), Output: False
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/implement-magic-dictionary)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/implement-magic-dictionary)

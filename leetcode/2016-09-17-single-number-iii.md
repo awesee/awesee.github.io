@@ -36,4 +36,4 @@ permalink:  /problems/single-number-iii/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/single-number-iii)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/single-number-iii)

@@ -52,4 +52,4 @@ permalink:  /problems/shortest-path-to-get-all-keys/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/shortest-path-to-get-all-keys)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/shortest-path-to-get-all-keys)

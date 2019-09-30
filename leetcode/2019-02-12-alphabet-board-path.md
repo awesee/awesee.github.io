@@ -54,4 +54,4 @@ permalink:  /problems/alphabet-board-path/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/alphabet-board-path)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/alphabet-board-path)

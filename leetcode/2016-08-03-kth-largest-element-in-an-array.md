@@ -43,4 +43,4 @@ permalink:  /problems/kth-largest-element-in-an-array/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/kth-largest-element-in-an-array)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/kth-largest-element-in-an-array)

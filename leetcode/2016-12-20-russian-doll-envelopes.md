@@ -36,4 +36,4 @@ permalink:  /problems/russian-doll-envelopes/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/russian-doll-envelopes)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/russian-doll-envelopes)

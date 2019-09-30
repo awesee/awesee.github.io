@@ -57,4 +57,4 @@ permalink:  /problems/reverse-substrings-between-each-pair-of-parentheses/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/reverse-substrings-between-each-pair-of-parentheses)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/reverse-substrings-between-each-pair-of-parentheses)

@@ -55,4 +55,4 @@ permalink:  /problems/random-pick-with-weight/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/random-pick-with-weight)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/random-pick-with-weight)

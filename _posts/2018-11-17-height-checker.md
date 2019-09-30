@@ -40,4 +40,4 @@ permalink:  /problems/height-checker/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/height-checker)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/height-checker)

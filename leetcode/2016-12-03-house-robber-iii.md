@@ -54,4 +54,4 @@ permalink:  /problems/house-robber-iii/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/house-robber-iii)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/house-robber-iii)

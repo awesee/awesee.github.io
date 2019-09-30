@@ -55,4 +55,4 @@ permalink:  /problems/escape-a-large-maze/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/escape-a-large-maze)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/escape-a-large-maze)

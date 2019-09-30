@@ -52,4 +52,4 @@ permalink:  /problems/count-binary-substrings/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/count-binary-substrings)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/count-binary-substrings)

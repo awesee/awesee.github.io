@@ -74,4 +74,4 @@ permalink:  /problems/open-the-lock/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/open-the-lock)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/open-the-lock)

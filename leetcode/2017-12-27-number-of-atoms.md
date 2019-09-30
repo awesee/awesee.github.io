@@ -75,4 +75,4 @@ formula = &quot;K4(ON(SO3)2)2&quot;
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/number-of-atoms)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/number-of-atoms)

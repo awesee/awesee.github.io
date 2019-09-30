@@ -58,4 +58,4 @@ permalink:  /problems/combination-sum/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/combination-sum)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/combination-sum)

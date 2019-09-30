@@ -53,4 +53,4 @@ permalink:  /problems/teemo-attacking/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/teemo-attacking)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/teemo-attacking)

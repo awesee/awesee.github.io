@@ -52,4 +52,4 @@ target = 13
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/search-a-2d-matrix)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/search-a-2d-matrix)

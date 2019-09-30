@@ -55,4 +55,4 @@ permalink:  /problems/department-top-three-salaries/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/department-top-three-salaries)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/department-top-three-salaries)

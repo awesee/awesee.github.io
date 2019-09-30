@@ -39,4 +39,4 @@ permalink:  /problems/delete-operation-for-two-strings/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/delete-operation-for-two-strings)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/delete-operation-for-two-strings)

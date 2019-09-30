@@ -48,4 +48,4 @@ permalink:  /problems/guess-number-higher-or-lower-ii/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/guess-number-higher-or-lower-ii)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/guess-number-higher-or-lower-ii)

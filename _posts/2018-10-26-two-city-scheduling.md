@@ -47,4 +47,4 @@ permalink:  /problems/two-city-scheduling/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/two-city-scheduling)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/two-city-scheduling)

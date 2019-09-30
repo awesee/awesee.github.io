@@ -44,4 +44,4 @@ permalink:  /problems/magical-string/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/magical-string)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/magical-string)

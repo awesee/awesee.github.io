@@ -32,4 +32,4 @@ permalink:  /problems/longest-consecutive-sequence/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/longest-consecutive-sequence)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/longest-consecutive-sequence)

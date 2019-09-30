@@ -56,4 +56,4 @@ permalink:  /problems/remove-k-digits/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/remove-k-digits)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/remove-k-digits)

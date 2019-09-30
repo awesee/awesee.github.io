@@ -52,4 +52,4 @@ permalink:  /problems/repeated-substring-pattern/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/repeated-substring-pattern)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/repeated-substring-pattern)

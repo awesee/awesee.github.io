@@ -62,4 +62,4 @@ permalink:  /problems/buddy-strings/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/buddy-strings)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/buddy-strings)

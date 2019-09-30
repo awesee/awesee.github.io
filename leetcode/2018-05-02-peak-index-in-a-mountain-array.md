@@ -55,4 +55,4 @@ permalink:  /problems/peak-index-in-a-mountain-array/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/peak-index-in-a-mountain-array)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/peak-index-in-a-mountain-array)

@@ -44,4 +44,4 @@ B: [3,2,1,4,7]
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/maximum-length-of-repeated-subarray)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/maximum-length-of-repeated-subarray)

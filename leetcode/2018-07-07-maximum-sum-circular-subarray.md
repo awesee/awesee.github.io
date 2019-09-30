@@ -70,4 +70,4 @@ permalink:  /problems/maximum-sum-circular-subarray/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/maximum-sum-circular-subarray)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/maximum-sum-circular-subarray)

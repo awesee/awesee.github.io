@@ -45,4 +45,4 @@ permalink:  /problems/split-array-largest-sum/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/split-array-largest-sum)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/split-array-largest-sum)

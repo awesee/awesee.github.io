@@ -54,4 +54,4 @@ permalink:  /problems/max-chunks-to-make-sorted-ii/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/max-chunks-to-make-sorted-ii)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/max-chunks-to-make-sorted-ii)

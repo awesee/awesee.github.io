@@ -42,4 +42,4 @@ permalink:  /problems/contains-duplicate/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/contains-duplicate)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/contains-duplicate)

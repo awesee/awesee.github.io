@@ -65,4 +65,4 @@ permalink:  /problems/length-of-longest-fibonacci-subsequence/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/length-of-longest-fibonacci-subsequence)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/length-of-longest-fibonacci-subsequence)

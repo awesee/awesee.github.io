@@ -70,4 +70,4 @@ permalink:  /problems/minimum-cost-to-merge-stones/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/minimum-cost-to-merge-stones)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/minimum-cost-to-merge-stones)

@@ -42,4 +42,4 @@ permalink:  /problems/best-sightseeing-pair/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/best-sightseeing-pair)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/best-sightseeing-pair)

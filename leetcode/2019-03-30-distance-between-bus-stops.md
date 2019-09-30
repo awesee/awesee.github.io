@@ -64,4 +64,4 @@ permalink:  /problems/distance-between-bus-stops/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/distance-between-bus-stops)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/distance-between-bus-stops)

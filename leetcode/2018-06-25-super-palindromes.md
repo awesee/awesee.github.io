@@ -45,4 +45,4 @@ permalink:  /problems/super-palindromes/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/super-palindromes)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/super-palindromes)

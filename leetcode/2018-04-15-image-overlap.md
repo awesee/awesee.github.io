@@ -44,4 +44,4 @@ permalink:  /problems/image-overlap/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/image-overlap)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/image-overlap)

@@ -45,4 +45,4 @@ permalink:  /problems/task-scheduler/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/task-scheduler)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/task-scheduler)

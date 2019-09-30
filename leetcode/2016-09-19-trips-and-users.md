@@ -63,4 +63,4 @@ permalink:  /problems/trips-and-users/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/trips-and-users)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/trips-and-users)

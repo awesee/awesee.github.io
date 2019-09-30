@@ -45,4 +45,4 @@ permalink:  /problems/all-possible-full-binary-trees/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/all-possible-full-binary-trees)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/all-possible-full-binary-trees)

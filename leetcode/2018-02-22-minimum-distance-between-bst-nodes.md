@@ -49,4 +49,4 @@ permalink:  /problems/minimum-distance-between-bst-nodes/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/minimum-distance-between-bst-nodes)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/minimum-distance-between-bst-nodes)

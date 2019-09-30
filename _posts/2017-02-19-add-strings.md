@@ -34,4 +34,4 @@ permalink:  /problems/add-strings/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/add-strings)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/add-strings)

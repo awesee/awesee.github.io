@@ -62,4 +62,4 @@ F(N) = F(N - 1) + F(N - 2), 其中 N &gt; 1.
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/fibonacci-number)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/fibonacci-number)

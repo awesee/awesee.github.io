@@ -31,4 +31,4 @@ permalink:  /problems/reorder-list/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/reorder-list)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/reorder-list)

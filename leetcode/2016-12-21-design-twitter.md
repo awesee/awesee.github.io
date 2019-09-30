@@ -58,4 +58,4 @@ twitter.getNewsFeed(1);
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/design-twitter)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/design-twitter)

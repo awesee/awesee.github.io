@@ -61,4 +61,4 @@ permalink:  /problems/smallest-range-ii/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/smallest-range-ii)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/smallest-range-ii)

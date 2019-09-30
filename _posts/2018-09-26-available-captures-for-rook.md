@@ -65,4 +65,4 @@ permalink:  /problems/available-captures-for-rook/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/available-captures-for-rook)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/available-captures-for-rook)

@@ -37,4 +37,4 @@ permalink:  /problems/increasing-subsequences/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/increasing-subsequences)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/increasing-subsequences)

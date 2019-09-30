@@ -36,4 +36,4 @@ permalink:  /problems/employees-earning-more-than-their-managers/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/employees-earning-more-than-their-managers)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/employees-earning-more-than-their-managers)

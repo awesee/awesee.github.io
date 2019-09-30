@@ -39,4 +39,4 @@ permalink:  /problems/happy-number/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/happy-number)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/happy-number)

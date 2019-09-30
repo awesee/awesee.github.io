@@ -67,4 +67,4 @@ permalink:  /problems/implement-rand10-using-rand7/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/implement-rand10-using-rand7)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/implement-rand10-using-rand7)

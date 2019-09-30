@@ -39,4 +39,4 @@ permalink:  /problems/maximum-average-subarray-i/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/maximum-average-subarray-i)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/maximum-average-subarray-i)

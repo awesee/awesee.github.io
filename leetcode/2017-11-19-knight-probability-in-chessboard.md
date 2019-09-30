@@ -59,4 +59,4 @@ permalink:  /problems/knight-probability-in-chessboard/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/knight-probability-in-chessboard)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/knight-probability-in-chessboard)

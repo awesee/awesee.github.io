@@ -42,4 +42,4 @@ permalink:  /problems/subarray-sum-equals-k/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/subarray-sum-equals-k)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/subarray-sum-equals-k)

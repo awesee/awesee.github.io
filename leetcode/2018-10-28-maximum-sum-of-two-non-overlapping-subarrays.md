@@ -62,4 +62,4 @@ permalink:  /problems/maximum-sum-of-two-non-overlapping-subarrays/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/maximum-sum-of-two-non-overlapping-subarrays)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/maximum-sum-of-two-non-overlapping-subarrays)

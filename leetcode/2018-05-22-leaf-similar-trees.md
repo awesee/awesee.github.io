@@ -37,4 +37,4 @@ permalink:  /problems/leaf-similar-trees/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/leaf-similar-trees)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/leaf-similar-trees)

@@ -40,4 +40,4 @@ permalink:  /problems/construct-binary-tree-from-preorder-and-postorder-traversa
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/construct-binary-tree-from-preorder-and-postorder-traversal)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/construct-binary-tree-from-preorder-and-postorder-traversal)

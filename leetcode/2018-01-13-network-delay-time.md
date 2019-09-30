@@ -36,4 +36,4 @@ permalink:  /problems/network-delay-time/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/network-delay-time)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/network-delay-time)

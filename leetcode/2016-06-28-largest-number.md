@@ -32,4 +32,4 @@ permalink:  /problems/largest-number/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/largest-number)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/largest-number)

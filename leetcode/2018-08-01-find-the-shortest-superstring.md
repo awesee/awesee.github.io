@@ -46,4 +46,4 @@ permalink:  /problems/find-the-shortest-superstring/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/find-the-shortest-superstring)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/find-the-shortest-superstring)

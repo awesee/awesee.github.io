@@ -46,4 +46,4 @@ permalink:  /problems/maximum-swap/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/maximum-swap)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/maximum-swap)

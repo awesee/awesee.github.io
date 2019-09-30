@@ -42,4 +42,4 @@ permalink:  /problems/water-and-jug-problem/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/water-and-jug-problem)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/water-and-jug-problem)

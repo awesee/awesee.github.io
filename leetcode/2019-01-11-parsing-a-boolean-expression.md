@@ -66,4 +66,4 @@ permalink:  /problems/parsing-a-boolean-expression/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/parsing-a-boolean-expression)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/parsing-a-boolean-expression)

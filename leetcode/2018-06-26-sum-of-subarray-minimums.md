@@ -44,4 +44,4 @@ permalink:  /problems/sum-of-subarray-minimums/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/sum-of-subarray-minimums)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/sum-of-subarray-minimums)

@@ -36,4 +36,4 @@ permalink:  /problems/merge-k-sorted-lists/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/merge-k-sorted-lists)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/merge-k-sorted-lists)

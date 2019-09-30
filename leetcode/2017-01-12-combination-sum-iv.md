@@ -51,4 +51,4 @@ permalink:  /problems/combination-sum-iv/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/combination-sum-iv)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/combination-sum-iv)

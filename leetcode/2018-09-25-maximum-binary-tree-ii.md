@@ -80,4 +80,4 @@ permalink:  /problems/maximum-binary-tree-ii/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/maximum-binary-tree-ii)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/maximum-binary-tree-ii)

@@ -55,4 +55,4 @@ permalink:  /problems/find-words-that-can-be-formed-by-characters/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/find-words-that-can-be-formed-by-characters)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/find-words-that-can-be-formed-by-characters)

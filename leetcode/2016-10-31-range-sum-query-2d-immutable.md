@@ -50,4 +50,4 @@ sumRegion(1, 2, 2, 4) -&gt; 12
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/range-sum-query-2d-immutable)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/range-sum-query-2d-immutable)

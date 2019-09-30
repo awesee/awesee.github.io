@@ -34,4 +34,4 @@ s2 =&quot;ab&quot;,n2 = 2
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/count-the-repetitions)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/count-the-repetitions)

@@ -44,4 +44,4 @@ permalink:  /problems/letter-tile-possibilities/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/letter-tile-possibilities)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/letter-tile-possibilities)

@@ -31,4 +31,4 @@ permalink:  /problems/repeated-string-match/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/repeated-string-match)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/repeated-string-match)

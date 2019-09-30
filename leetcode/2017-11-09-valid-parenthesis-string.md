@@ -58,4 +58,4 @@ permalink:  /problems/valid-parenthesis-string/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/valid-parenthesis-string)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/valid-parenthesis-string)

@@ -50,4 +50,4 @@ MyCalendar.book(20, 30); // returns true
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/my-calendar-i)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/my-calendar-i)

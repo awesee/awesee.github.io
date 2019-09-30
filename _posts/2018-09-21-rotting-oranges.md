@@ -67,4 +67,4 @@ permalink:  /problems/rotting-oranges/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/rotting-oranges)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/rotting-oranges)

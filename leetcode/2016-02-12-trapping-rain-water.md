@@ -37,4 +37,4 @@ permalink:  /problems/trapping-rain-water/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/trapping-rain-water)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/trapping-rain-water)

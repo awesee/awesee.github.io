@@ -68,4 +68,4 @@ A 的列已经是按字典序排列了，所以我们不需要删除任何东西
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/delete-columns-to-make-sorted-ii)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/delete-columns-to-make-sorted-ii)

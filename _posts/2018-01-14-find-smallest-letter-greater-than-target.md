@@ -64,4 +64,4 @@ target = &quot;k&quot;
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/find-smallest-letter-greater-than-target)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/find-smallest-letter-greater-than-target)

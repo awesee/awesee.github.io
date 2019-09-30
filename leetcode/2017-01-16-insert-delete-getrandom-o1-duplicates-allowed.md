@@ -57,4 +57,4 @@ collection.getRandom();
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/insert-delete-getrandom-o1-duplicates-allowed)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/insert-delete-getrandom-o1-duplicates-allowed)

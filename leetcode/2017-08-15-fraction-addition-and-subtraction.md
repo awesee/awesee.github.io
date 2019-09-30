@@ -61,4 +61,4 @@ permalink:  /problems/fraction-addition-and-subtraction/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/fraction-addition-and-subtraction)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/fraction-addition-and-subtraction)

@@ -45,4 +45,4 @@ permalink:  /problems/employee-importance/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/employee-importance)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/employee-importance)

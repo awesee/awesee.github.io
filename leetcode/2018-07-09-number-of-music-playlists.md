@@ -58,4 +58,4 @@ permalink:  /problems/number-of-music-playlists/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/number-of-music-playlists)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/number-of-music-playlists)

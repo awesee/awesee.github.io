@@ -48,4 +48,4 @@ permalink:  /problems/optimal-division/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/optimal-division)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/optimal-division)

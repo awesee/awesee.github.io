@@ -47,4 +47,4 @@ permalink:  /problems/longest-string-chain/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/longest-string-chain)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/longest-string-chain)

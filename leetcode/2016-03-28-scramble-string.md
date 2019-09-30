@@ -73,4 +73,4 @@ r   g  ta  e
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/scramble-string)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/scramble-string)

@@ -41,4 +41,4 @@ words = [&quot;a&quot;, &quot;bb&quot;, &quot;acd&quot;, &quot;ace&quot;]
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/number-of-matching-subsequences)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/number-of-matching-subsequences)

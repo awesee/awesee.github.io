@@ -50,4 +50,4 @@ permalink:  /problems/binary-search-tree-to-greater-sum-tree/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/binary-search-tree-to-greater-sum-tree)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/binary-search-tree-to-greater-sum-tree)

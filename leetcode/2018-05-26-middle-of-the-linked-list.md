@@ -48,4 +48,4 @@ ans.val = 3, ans.next.val = 4, ans.next.next.val = 5, 以及 ans.next.next.next 
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/middle-of-the-linked-list)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/middle-of-the-linked-list)

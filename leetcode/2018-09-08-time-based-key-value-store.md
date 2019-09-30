@@ -70,4 +70,4 @@ kv.get(&quot;foo&quot;, 5); // 输出 &quot;bar2&quot; &nbsp;
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/time-based-key-value-store)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/time-based-key-value-store)

@@ -54,4 +54,4 @@ permalink:  /problems/predict-the-winner/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/predict-the-winner)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/predict-the-winner)

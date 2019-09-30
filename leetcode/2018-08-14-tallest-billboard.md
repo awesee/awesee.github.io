@@ -55,4 +55,4 @@ permalink:  /problems/tallest-billboard/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/tallest-billboard)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/tallest-billboard)

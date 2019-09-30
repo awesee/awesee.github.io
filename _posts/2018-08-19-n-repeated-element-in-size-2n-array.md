@@ -55,4 +55,4 @@ permalink:  /problems/n-repeated-element-in-size-2n-array/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/n-repeated-element-in-size-2n-array)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/n-repeated-element-in-size-2n-array)

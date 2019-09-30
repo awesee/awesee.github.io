@@ -56,4 +56,4 @@ permalink:  /problems/longest-mountain-in-array/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/longest-mountain-in-array)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/longest-mountain-in-array)

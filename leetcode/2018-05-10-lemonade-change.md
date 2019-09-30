@@ -71,4 +71,4 @@ permalink:  /problems/lemonade-change/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/lemonade-change)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/lemonade-change)

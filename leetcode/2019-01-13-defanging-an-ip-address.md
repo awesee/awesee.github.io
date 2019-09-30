@@ -41,4 +41,4 @@ permalink:  /problems/defanging-an-ip-address/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/defanging-an-ip-address)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/defanging-an-ip-address)

@@ -54,4 +54,4 @@ permalink:  /problems/subdomain-visit-count/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/subdomain-visit-count)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/subdomain-visit-count)

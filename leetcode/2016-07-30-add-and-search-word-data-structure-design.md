@@ -47,4 +47,4 @@ search(&quot;b..&quot;) -&gt; true
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/add-and-search-word-data-structure-design)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/add-and-search-word-data-structure-design)

@@ -43,4 +43,4 @@ permalink:  /problems/self-dividing-numbers/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/self-dividing-numbers)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/self-dividing-numbers)

@@ -65,4 +65,4 @@ permalink:  /problems/shortest-path-with-alternating-colors/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/shortest-path-with-alternating-colors)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/shortest-path-with-alternating-colors)

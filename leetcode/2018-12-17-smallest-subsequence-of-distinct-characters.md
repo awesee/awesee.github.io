@@ -55,4 +55,4 @@ permalink:  /problems/smallest-subsequence-of-distinct-characters/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/smallest-subsequence-of-distinct-characters)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/smallest-subsequence-of-distinct-characters)

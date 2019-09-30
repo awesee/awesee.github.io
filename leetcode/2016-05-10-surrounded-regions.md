@@ -48,4 +48,4 @@ X O X X
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/surrounded-regions)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/surrounded-regions)

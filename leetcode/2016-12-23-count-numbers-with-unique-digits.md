@@ -29,4 +29,4 @@ permalink:  /problems/count-numbers-with-unique-digits/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/count-numbers-with-unique-digits)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/count-numbers-with-unique-digits)

@@ -38,4 +38,4 @@ permalink:  /problems/increasing-triplet-subsequence/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/increasing-triplet-subsequence)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/increasing-triplet-subsequence)

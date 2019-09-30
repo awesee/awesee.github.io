@@ -48,4 +48,4 @@ permalink:  /problems/is-subsequence/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/is-subsequence)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/is-subsequence)

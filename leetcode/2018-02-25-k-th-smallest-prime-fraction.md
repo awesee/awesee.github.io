@@ -49,4 +49,4 @@ permalink:  /problems/k-th-smallest-prime-fraction/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/k-th-smallest-prime-fraction)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/k-th-smallest-prime-fraction)

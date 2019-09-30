@@ -39,4 +39,4 @@ permalink:  /problems/partition-array-for-maximum-sum/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/partition-array-for-maximum-sum)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/partition-array-for-maximum-sum)

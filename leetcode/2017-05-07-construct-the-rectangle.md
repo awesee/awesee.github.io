@@ -43,4 +43,4 @@ permalink:  /problems/construct-the-rectangle/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/construct-the-rectangle)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/construct-the-rectangle)

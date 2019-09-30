@@ -34,4 +34,4 @@ permalink:  /problems/sum-of-two-integers/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/sum-of-two-integers)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/sum-of-two-integers)

@@ -44,4 +44,4 @@ k = 8,
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/kth-smallest-element-in-a-sorted-matrix)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/kth-smallest-element-in-a-sorted-matrix)

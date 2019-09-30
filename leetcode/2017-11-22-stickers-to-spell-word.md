@@ -82,4 +82,4 @@ permalink:  /problems/stickers-to-spell-word/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/stickers-to-spell-word)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/stickers-to-spell-word)

@@ -57,4 +57,4 @@ permalink:  /problems/k-diff-pairs-in-an-array/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/k-diff-pairs-in-an-array)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/k-diff-pairs-in-an-array)

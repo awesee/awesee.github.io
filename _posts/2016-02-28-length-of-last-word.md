@@ -30,4 +30,4 @@ permalink:  /problems/length-of-last-word/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/length-of-last-word)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/length-of-last-word)

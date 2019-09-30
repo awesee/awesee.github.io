@@ -41,4 +41,4 @@ permalink:  /problems/largest-1-bordered-square/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/largest-1-bordered-square)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/largest-1-bordered-square)

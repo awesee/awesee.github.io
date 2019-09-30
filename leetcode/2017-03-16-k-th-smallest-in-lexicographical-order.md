@@ -32,4 +32,4 @@ n: 13   k: 2
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/k-th-smallest-in-lexicographical-order)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/k-th-smallest-in-lexicographical-order)

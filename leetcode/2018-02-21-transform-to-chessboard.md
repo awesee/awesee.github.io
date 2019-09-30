@@ -63,4 +63,4 @@ permalink:  /problems/transform-to-chessboard/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/transform-to-chessboard)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/transform-to-chessboard)

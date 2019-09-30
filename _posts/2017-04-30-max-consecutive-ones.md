@@ -39,4 +39,4 @@ permalink:  /problems/max-consecutive-ones/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/max-consecutive-ones)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/max-consecutive-ones)

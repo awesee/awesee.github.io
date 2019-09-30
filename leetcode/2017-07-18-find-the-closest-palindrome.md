@@ -36,4 +36,4 @@ permalink:  /problems/find-the-closest-palindrome/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/find-the-closest-palindrome)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/find-the-closest-palindrome)

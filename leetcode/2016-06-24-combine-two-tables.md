@@ -52,4 +52,4 @@ AddressId 是上表主键
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/combine-two-tables)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/combine-two-tables)

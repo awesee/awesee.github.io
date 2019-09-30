@@ -41,4 +41,4 @@ permalink:  /problems/non-negative-integers-without-consecutive-ones/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/non-negative-integers-without-consecutive-ones)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/non-negative-integers-without-consecutive-ones)

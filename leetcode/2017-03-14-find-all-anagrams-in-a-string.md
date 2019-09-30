@@ -62,4 +62,4 @@ s: &quot;abab&quot; p: &quot;ab&quot;
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/find-all-anagrams-in-a-string)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/find-all-anagrams-in-a-string)

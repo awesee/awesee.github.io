@@ -55,4 +55,4 @@ permalink:  /problems/longest-palindromic-subsequence/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/longest-palindromic-subsequence)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/longest-palindromic-subsequence)

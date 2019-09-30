@@ -66,4 +66,4 @@ bank: [&quot;AAAACCCC&quot;, &quot;AAACCCCC&quot;, &quot;AACCCCCC&quot;]
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/minimum-genetic-mutation)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/minimum-genetic-mutation)

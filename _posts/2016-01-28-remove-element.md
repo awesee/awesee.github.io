@@ -68,4 +68,4 @@ for (int i = 0; i &lt; len; i++) {
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/remove-element)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/remove-element)

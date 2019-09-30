@@ -38,4 +38,4 @@ permalink:  /problems/bulb-switcher/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/bulb-switcher)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/bulb-switcher)

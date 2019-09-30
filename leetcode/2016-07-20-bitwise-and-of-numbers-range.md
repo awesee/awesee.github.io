@@ -30,4 +30,4 @@ permalink:  /problems/bitwise-and-of-numbers-range/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/bitwise-and-of-numbers-range)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/bitwise-and-of-numbers-range)

@@ -61,4 +61,4 @@ permalink:  /problems/binary-tree-pruning/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/binary-tree-pruning)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/binary-tree-pruning)

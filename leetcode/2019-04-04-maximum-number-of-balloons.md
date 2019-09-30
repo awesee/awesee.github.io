@@ -52,4 +52,4 @@ permalink:  /problems/maximum-number-of-balloons/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/maximum-number-of-balloons)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/maximum-number-of-balloons)

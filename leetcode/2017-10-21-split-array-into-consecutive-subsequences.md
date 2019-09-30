@@ -69,4 +69,4 @@ permalink:  /problems/split-array-into-consecutive-subsequences/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/split-array-into-consecutive-subsequences)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/split-array-into-consecutive-subsequences)

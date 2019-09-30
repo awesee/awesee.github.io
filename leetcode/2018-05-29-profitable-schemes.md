@@ -60,4 +60,4 @@ permalink:  /problems/profitable-schemes/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/profitable-schemes)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/profitable-schemes)

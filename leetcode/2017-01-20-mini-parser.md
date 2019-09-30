@@ -64,4 +64,4 @@ permalink:  /problems/mini-parser/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/mini-parser)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/mini-parser)

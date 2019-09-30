@@ -47,4 +47,4 @@ permalink:  /problems/relative-sort-array/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/relative-sort-array)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/relative-sort-array)

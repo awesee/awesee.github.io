@@ -57,4 +57,4 @@ MyCalendarThree.book(25, 55); // returns 3
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/my-calendar-iii)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/my-calendar-iii)

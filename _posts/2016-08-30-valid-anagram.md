@@ -43,4 +43,4 @@ permalink:  /problems/valid-anagram/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/valid-anagram)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/valid-anagram)

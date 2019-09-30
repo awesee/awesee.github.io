@@ -54,4 +54,4 @@ permalink:  /problems/boats-to-save-people/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/boats-to-save-people)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/boats-to-save-people)

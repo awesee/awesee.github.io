@@ -84,4 +84,4 @@ permalink:  /problems/add-one-row-to-tree/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/add-one-row-to-tree)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/add-one-row-to-tree)

@@ -49,4 +49,4 @@ permalink:  /problems/global-and-local-inversions/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/global-and-local-inversions)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/global-and-local-inversions)

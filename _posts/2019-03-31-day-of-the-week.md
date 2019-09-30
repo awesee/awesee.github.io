@@ -49,4 +49,4 @@ permalink:  /problems/day-of-the-week/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/day-of-the-week)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/day-of-the-week)

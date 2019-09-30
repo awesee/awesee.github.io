@@ -43,4 +43,4 @@ permalink:  /problems/remove-invalid-parentheses/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/remove-invalid-parentheses)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/remove-invalid-parentheses)

@@ -64,4 +64,4 @@ permalink:  /problems/valid-mountain-array/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/valid-mountain-array)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/valid-mountain-array)

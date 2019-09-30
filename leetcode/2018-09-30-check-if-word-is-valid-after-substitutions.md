@@ -72,4 +72,4 @@ permalink:  /problems/check-if-word-is-valid-after-substitutions/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/check-if-word-is-valid-after-substitutions)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/check-if-word-is-valid-after-substitutions)

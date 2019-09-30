@@ -55,4 +55,4 @@ permalink:  /problems/valid-permutations-for-di-sequence/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/valid-permutations-for-di-sequence)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/valid-permutations-for-di-sequence)

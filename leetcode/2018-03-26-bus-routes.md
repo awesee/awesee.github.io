@@ -41,4 +41,4 @@ T = 6
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/bus-routes)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/bus-routes)

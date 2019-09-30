@@ -62,4 +62,4 @@ S = &#39;abcdabcdabcdabcdabcdabcdabcdabcddcbadcbadcbadcbadcbadcbadcbadcba&#39;
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/count-different-palindromic-subsequences)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/count-different-palindromic-subsequences)

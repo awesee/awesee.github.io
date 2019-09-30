@@ -43,4 +43,4 @@ permalink:  /problems/missing-number/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/missing-number)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/missing-number)

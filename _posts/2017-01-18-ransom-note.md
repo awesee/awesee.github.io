@@ -35,4 +35,4 @@ canConstruct(&quot;aa&quot;, &quot;aab&quot;) -&gt; true
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/ransom-note)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/ransom-note)

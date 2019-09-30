@@ -53,4 +53,4 @@ permalink:  /problems/number-of-submatrices-that-sum-to-target/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/number-of-submatrices-that-sum-to-target)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/number-of-submatrices-that-sum-to-target)

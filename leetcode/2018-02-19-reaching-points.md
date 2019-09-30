@@ -46,4 +46,4 @@ permalink:  /problems/reaching-points/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/reaching-points)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/reaching-points)

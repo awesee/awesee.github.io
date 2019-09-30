@@ -112,4 +112,4 @@ permalink:  /problems/largest-plus-sign/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/largest-plus-sign)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/largest-plus-sign)

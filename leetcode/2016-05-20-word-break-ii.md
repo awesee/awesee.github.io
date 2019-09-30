@@ -67,4 +67,4 @@ wordDict = [&quot;cats&quot;, &quot;dog&quot;, &quot;sand&quot;, &quot;and&quot;
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/word-break-ii)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/word-break-ii)

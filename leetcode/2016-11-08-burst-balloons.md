@@ -43,4 +43,4 @@ permalink:  /problems/burst-balloons/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/burst-balloons)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/burst-balloons)

@@ -41,4 +41,4 @@ permalink:  /problems/robot-return-to-origin/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/robot-return-to-origin)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/robot-return-to-origin)

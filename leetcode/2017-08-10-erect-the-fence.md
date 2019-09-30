@@ -51,4 +51,4 @@ permalink:  /problems/erect-the-fence/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/erect-the-fence)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/erect-the-fence)

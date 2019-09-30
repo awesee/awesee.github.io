@@ -32,4 +32,4 @@ permalink:  /problems/remove-duplicate-letters/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/remove-duplicate-letters)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/remove-duplicate-letters)

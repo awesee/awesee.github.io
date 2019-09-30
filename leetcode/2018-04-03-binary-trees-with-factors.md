@@ -48,4 +48,4 @@ permalink:  /problems/binary-trees-with-factors/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/binary-trees-with-factors)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/binary-trees-with-factors)

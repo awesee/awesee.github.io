@@ -55,4 +55,4 @@ permalink:  /problems/numbers-at-most-n-given-digit-set/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/numbers-at-most-n-given-digit-set)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/numbers-at-most-n-given-digit-set)

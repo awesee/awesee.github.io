@@ -40,4 +40,4 @@ permalink:  /problems/palindrome-linked-list/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/palindrome-linked-list)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/palindrome-linked-list)

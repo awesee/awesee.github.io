@@ -55,4 +55,4 @@ permalink:  /problems/decode-ways-ii/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/decode-ways-ii)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/decode-ways-ii)

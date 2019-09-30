@@ -41,4 +41,4 @@ permalink:  /problems/binary-tree-paths/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/binary-tree-paths)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/binary-tree-paths)

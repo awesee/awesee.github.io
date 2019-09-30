@@ -39,4 +39,4 @@ permalink:  /problems/add-binary/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/add-binary)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/add-binary)

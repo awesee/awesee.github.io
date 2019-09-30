@@ -82,4 +82,4 @@ permalink:  /problems/find-in-mountain-array/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/find-in-mountain-array)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/find-in-mountain-array)

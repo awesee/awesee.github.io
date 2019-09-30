@@ -39,4 +39,4 @@ permalink:  /problems/pascals-triangle/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/pascals-triangle)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/pascals-triangle)

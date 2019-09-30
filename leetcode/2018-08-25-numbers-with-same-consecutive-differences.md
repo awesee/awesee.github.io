@@ -47,4 +47,4 @@ permalink:  /problems/numbers-with-same-consecutive-differences/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/numbers-with-same-consecutive-differences)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/numbers-with-same-consecutive-differences)

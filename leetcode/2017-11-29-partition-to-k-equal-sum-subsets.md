@@ -40,4 +40,4 @@ permalink:  /problems/partition-to-k-equal-sum-subsets/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/partition-to-k-equal-sum-subsets)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/partition-to-k-equal-sum-subsets)

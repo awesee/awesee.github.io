@@ -85,4 +85,4 @@ permalink:  /problems/string-compression/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/string-compression)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/string-compression)

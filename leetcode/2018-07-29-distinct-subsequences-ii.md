@@ -60,4 +60,4 @@ permalink:  /problems/distinct-subsequences-ii/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/distinct-subsequences-ii)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/distinct-subsequences-ii)

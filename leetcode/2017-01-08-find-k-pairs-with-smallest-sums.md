@@ -51,4 +51,4 @@ permalink:  /problems/find-k-pairs-with-smallest-sums/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/find-k-pairs-with-smallest-sums)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/find-k-pairs-with-smallest-sums)

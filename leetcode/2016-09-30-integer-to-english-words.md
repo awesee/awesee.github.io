@@ -45,4 +45,4 @@ permalink:  /problems/integer-to-english-words/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/integer-to-english-words)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/integer-to-english-words)

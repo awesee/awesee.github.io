@@ -48,4 +48,4 @@ permalink:  /problems/first-missing-positive/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/first-missing-positive)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/first-missing-positive)

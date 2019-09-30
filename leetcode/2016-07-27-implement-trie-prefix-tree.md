@@ -45,4 +45,4 @@ trie.search(&quot;app&quot;);     // 返回 true</pre>
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/implement-trie-prefix-tree)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/implement-trie-prefix-tree)

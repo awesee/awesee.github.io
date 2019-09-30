@@ -57,4 +57,4 @@ permalink:  /problems/longest-arithmetic-sequence/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/longest-arithmetic-sequence)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/longest-arithmetic-sequence)

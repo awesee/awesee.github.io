@@ -37,4 +37,4 @@ permalink:  /problems/container-with-most-water/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/container-with-most-water)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/container-with-most-water)

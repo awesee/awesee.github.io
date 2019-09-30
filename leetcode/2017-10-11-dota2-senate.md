@@ -75,4 +75,4 @@ permalink:  /problems/dota2-senate/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/dota2-senate)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/dota2-senate)

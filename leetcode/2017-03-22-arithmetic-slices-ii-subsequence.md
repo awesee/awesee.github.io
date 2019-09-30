@@ -68,4 +68,4 @@ permalink:  /problems/arithmetic-slices-ii-subsequence/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/arithmetic-slices-ii-subsequence)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/arithmetic-slices-ii-subsequence)

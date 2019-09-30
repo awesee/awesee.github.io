@@ -66,4 +66,4 @@ permalink:  /problems/decoded-string-at-index/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/decoded-string-at-index)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/decoded-string-at-index)

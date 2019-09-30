@@ -51,4 +51,4 @@ permalink:  /problems/max-area-of-island/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/max-area-of-island)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/max-area-of-island)

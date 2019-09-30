@@ -62,4 +62,4 @@ permalink:  /problems/knight-dialer/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/knight-dialer)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/knight-dialer)

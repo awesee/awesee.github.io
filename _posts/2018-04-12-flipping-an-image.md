@@ -49,4 +49,4 @@ permalink:  /problems/flipping-an-image/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/flipping-an-image)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/flipping-an-image)

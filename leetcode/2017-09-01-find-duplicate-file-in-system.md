@@ -63,4 +63,4 @@ permalink:  /problems/find-duplicate-file-in-system/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/find-duplicate-file-in-system)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/find-duplicate-file-in-system)

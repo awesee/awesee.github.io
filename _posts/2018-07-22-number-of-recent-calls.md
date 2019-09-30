@@ -47,4 +47,4 @@ permalink:  /problems/number-of-recent-calls/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/number-of-recent-calls)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/number-of-recent-calls)

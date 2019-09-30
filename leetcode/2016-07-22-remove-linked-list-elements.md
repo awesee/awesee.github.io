@@ -30,4 +30,4 @@ permalink:  /problems/remove-linked-list-elements/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/remove-linked-list-elements)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/remove-linked-list-elements)

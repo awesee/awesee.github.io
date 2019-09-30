@@ -93,4 +93,4 @@ source = [&quot;a/*comment&quot;, &quot;line&quot;, &quot;more_comment*/b&quot;]
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/remove-comments)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/remove-comments)

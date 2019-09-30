@@ -50,4 +50,4 @@ permalink:  /problems/pairs-of-songs-with-total-durations-divisible-by-60/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/pairs-of-songs-with-total-durations-divisible-by-60)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/pairs-of-songs-with-total-durations-divisible-by-60)

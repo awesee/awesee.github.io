@@ -51,4 +51,4 @@ permalink:  /problems/sudoku-solver/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/sudoku-solver)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/sudoku-solver)

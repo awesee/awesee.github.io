@@ -39,4 +39,4 @@ permalink:  /problems/count-of-range-sum/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/count-of-range-sum)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/count-of-range-sum)

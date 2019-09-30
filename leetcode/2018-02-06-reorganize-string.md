@@ -49,4 +49,4 @@ permalink:  /problems/reorganize-string/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/reorganize-string)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/reorganize-string)

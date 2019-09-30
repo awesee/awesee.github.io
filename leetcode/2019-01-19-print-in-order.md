@@ -68,4 +68,4 @@ public class Foo {
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/print-in-order)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/print-in-order)

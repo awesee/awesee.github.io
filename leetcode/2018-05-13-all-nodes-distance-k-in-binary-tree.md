@@ -56,4 +56,4 @@ permalink:  /problems/all-nodes-distance-k-in-binary-tree/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/all-nodes-distance-k-in-binary-tree)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/all-nodes-distance-k-in-binary-tree)

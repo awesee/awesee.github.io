@@ -36,4 +36,4 @@ permalink:  /problems/permutations-ii/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/permutations-ii)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/permutations-ii)

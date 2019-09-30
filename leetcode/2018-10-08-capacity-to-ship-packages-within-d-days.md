@@ -73,4 +73,4 @@ permalink:  /problems/capacity-to-ship-packages-within-d-days/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/capacity-to-ship-packages-within-d-days)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/capacity-to-ship-packages-within-d-days)

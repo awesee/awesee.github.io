@@ -46,4 +46,4 @@ permalink:  /problems/wiggle-subsequence/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/wiggle-subsequence)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/wiggle-subsequence)

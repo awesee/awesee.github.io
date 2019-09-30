@@ -48,4 +48,4 @@ push(5), pop() -&gt; 5, pop() -&gt; 3, pop() -&gt; 2, pop() -&gt; 1
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/validate-stack-sequences)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/validate-stack-sequences)

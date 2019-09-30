@@ -43,4 +43,4 @@ permalink:  /problems/consecutive-numbers-sum/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/consecutive-numbers-sum)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/consecutive-numbers-sum)

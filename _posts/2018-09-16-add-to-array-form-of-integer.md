@@ -72,4 +72,4 @@ permalink:  /problems/add-to-array-form-of-integer/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/add-to-array-form-of-integer)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/add-to-array-form-of-integer)

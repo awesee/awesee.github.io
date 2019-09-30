@@ -31,4 +31,4 @@ permalink:  /problems/reverse-linked-list-ii/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/reverse-linked-list-ii)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/reverse-linked-list-ii)

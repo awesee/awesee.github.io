@@ -51,4 +51,4 @@ permalink:  /problems/reach-a-number/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/reach-a-number)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/reach-a-number)

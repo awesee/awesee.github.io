@@ -70,4 +70,4 @@ permalink:  /problems/vowel-spellchecker/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/vowel-spellchecker)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/vowel-spellchecker)

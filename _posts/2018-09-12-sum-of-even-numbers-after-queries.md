@@ -52,4 +52,4 @@ permalink:  /problems/sum-of-even-numbers-after-queries/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/sum-of-even-numbers-after-queries)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/sum-of-even-numbers-after-queries)

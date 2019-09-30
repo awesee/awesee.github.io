@@ -56,4 +56,4 @@ permalink:  /problems/pancake-sorting/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/pancake-sorting)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/pancake-sorting)

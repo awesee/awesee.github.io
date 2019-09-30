@@ -59,4 +59,4 @@ permalink:  /problems/binary-number-with-alternating-bits/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/binary-number-with-alternating-bits)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/binary-number-with-alternating-bits)

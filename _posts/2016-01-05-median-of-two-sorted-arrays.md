@@ -42,4 +42,4 @@ nums2 = [3, 4]
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/median-of-two-sorted-arrays)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/median-of-two-sorted-arrays)

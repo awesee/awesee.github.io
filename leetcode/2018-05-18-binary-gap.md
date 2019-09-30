@@ -72,4 +72,4 @@ permalink:  /problems/binary-gap/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/binary-gap)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/binary-gap)

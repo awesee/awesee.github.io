@@ -40,4 +40,4 @@ s = &quot;2[abc]3[cd]ef&quot;, 返回 &quot;abcabccdcdcdef&quot;.
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/decode-string)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/decode-string)

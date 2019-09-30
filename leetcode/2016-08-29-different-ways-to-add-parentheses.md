@@ -44,4 +44,4 @@ permalink:  /problems/different-ways-to-add-parentheses/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/different-ways-to-add-parentheses)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/different-ways-to-add-parentheses)

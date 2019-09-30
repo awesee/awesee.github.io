@@ -40,4 +40,4 @@ permalink:  /problems/non-decreasing-array/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/non-decreasing-array)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/non-decreasing-array)

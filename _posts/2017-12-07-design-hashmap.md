@@ -56,4 +56,4 @@ hashMap.get(2); &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;// 返回 -1 (未找到
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/design-hashmap)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/design-hashmap)

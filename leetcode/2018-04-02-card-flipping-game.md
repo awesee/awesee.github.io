@@ -45,4 +45,4 @@ permalink:  /problems/card-flipping-game/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/card-flipping-game)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/card-flipping-game)

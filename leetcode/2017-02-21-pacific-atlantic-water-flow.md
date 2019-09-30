@@ -58,4 +58,4 @@ permalink:  /problems/pacific-atlantic-water-flow/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/pacific-atlantic-water-flow)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/pacific-atlantic-water-flow)

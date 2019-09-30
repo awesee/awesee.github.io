@@ -55,4 +55,4 @@ permalink:  /problems/flatten-a-multilevel-doubly-linked-list/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/flatten-a-multilevel-doubly-linked-list)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/flatten-a-multilevel-doubly-linked-list)

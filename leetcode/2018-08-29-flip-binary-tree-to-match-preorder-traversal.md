@@ -67,4 +67,4 @@ permalink:  /problems/flip-binary-tree-to-match-preorder-traversal/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/flip-binary-tree-to-match-preorder-traversal)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/flip-binary-tree-to-match-preorder-traversal)

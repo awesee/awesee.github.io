@@ -45,4 +45,4 @@ permalink:  /problems/adding-two-negabinary-numbers/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/adding-two-negabinary-numbers)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/adding-two-negabinary-numbers)

@@ -61,4 +61,4 @@ M 中最大的整数是 2, 而且 M 中有4个值为2的元素。因此返回 4�
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/range-addition-ii)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/range-addition-ii)

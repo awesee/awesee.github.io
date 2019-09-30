@@ -45,4 +45,4 @@ permalink:  /problems/transpose-matrix/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/transpose-matrix)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/transpose-matrix)

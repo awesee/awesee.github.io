@@ -59,4 +59,4 @@ permalink:  /problems/divisor-game/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/divisor-game)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/divisor-game)

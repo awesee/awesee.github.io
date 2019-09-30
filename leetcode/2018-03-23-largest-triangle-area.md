@@ -42,4 +42,4 @@ permalink:  /problems/largest-triangle-area/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/largest-triangle-area)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/largest-triangle-area)

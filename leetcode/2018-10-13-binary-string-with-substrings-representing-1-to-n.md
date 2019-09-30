@@ -43,4 +43,4 @@ permalink:  /problems/binary-string-with-substrings-representing-1-to-n/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/binary-string-with-substrings-representing-1-to-n)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/binary-string-with-substrings-representing-1-to-n)

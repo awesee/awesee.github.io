@@ -45,4 +45,4 @@ permalink:  /problems/implement-strstr/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/implement-strstr)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/implement-strstr)

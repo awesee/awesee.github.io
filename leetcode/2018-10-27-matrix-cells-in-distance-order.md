@@ -60,4 +60,4 @@ permalink:  /problems/matrix-cells-in-distance-order/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/matrix-cells-in-distance-order)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/matrix-cells-in-distance-order)

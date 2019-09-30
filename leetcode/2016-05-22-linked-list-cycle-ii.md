@@ -63,4 +63,4 @@ permalink:  /problems/linked-list-cycle-ii/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/linked-list-cycle-ii)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/linked-list-cycle-ii)

@@ -42,4 +42,4 @@ permalink:  /problems/minimum-window-substring/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/minimum-window-substring)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/minimum-window-substring)

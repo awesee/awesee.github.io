@@ -46,4 +46,4 @@ permalink:  /problems/longest-duplicate-substring/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/longest-duplicate-substring)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/longest-duplicate-substring)

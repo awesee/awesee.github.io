@@ -55,4 +55,4 @@ permalink:  /problems/complete-binary-tree-inserter/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/complete-binary-tree-inserter)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/complete-binary-tree-inserter)

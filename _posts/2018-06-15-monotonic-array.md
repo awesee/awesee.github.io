@@ -68,4 +68,4 @@ permalink:  /problems/monotonic-array/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/monotonic-array)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/monotonic-array)

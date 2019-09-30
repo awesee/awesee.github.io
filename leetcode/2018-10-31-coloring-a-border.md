@@ -63,4 +63,4 @@ permalink:  /problems/coloring-a-border/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/coloring-a-border)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/coloring-a-border)

@@ -45,4 +45,4 @@ permalink:  /problems/preimage-size-of-factorial-zeroes-function/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/preimage-size-of-factorial-zeroes-function)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/preimage-size-of-factorial-zeroes-function)

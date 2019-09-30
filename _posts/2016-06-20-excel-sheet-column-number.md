@@ -55,4 +55,4 @@ permalink:  /problems/excel-sheet-column-number/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/excel-sheet-column-number)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/excel-sheet-column-number)

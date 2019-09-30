@@ -55,4 +55,4 @@ words = [&quot;a&quot;, &quot;banana&quot;, &quot;app&quot;, &quot;appl&quot;, &
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/longest-word-in-dictionary)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/longest-word-in-dictionary)

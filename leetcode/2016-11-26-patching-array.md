@@ -43,4 +43,4 @@ permalink:  /problems/patching-array/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/patching-array)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/patching-array)

@@ -48,4 +48,4 @@ permalink:  /problems/k-inverse-pairs-array/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/k-inverse-pairs-array)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/k-inverse-pairs-array)

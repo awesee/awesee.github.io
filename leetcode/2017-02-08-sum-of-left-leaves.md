@@ -33,4 +33,4 @@ permalink:  /problems/sum-of-left-leaves/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/sum-of-left-leaves)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/sum-of-left-leaves)

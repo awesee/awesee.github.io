@@ -37,4 +37,4 @@ permalink:  /problems/coin-change/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/coin-change)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/coin-change)

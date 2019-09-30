@@ -57,4 +57,4 @@ permalink:  /problems/triples-with-bitwise-and-equal-to-zero/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/triples-with-bitwise-and-equal-to-zero)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/triples-with-bitwise-and-equal-to-zero)

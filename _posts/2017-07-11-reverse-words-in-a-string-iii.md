@@ -32,4 +32,4 @@ permalink:  /problems/reverse-words-in-a-string-iii/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/reverse-words-in-a-string-iii)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/reverse-words-in-a-string-iii)

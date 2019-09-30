@@ -35,4 +35,4 @@ permalink:  /problems/maximal-square/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/maximal-square)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/maximal-square)

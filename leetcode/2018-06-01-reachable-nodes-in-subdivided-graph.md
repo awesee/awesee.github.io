@@ -65,4 +65,4 @@ permalink:  /problems/reachable-nodes-in-subdivided-graph/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/reachable-nodes-in-subdivided-graph)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/reachable-nodes-in-subdivided-graph)

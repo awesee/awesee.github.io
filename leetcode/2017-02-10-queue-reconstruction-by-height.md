@@ -36,4 +36,4 @@ permalink:  /problems/queue-reconstruction-by-height/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/queue-reconstruction-by-height)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/queue-reconstruction-by-height)

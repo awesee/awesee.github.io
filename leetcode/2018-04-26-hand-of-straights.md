@@ -51,4 +51,4 @@ permalink:  /problems/hand-of-straights/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/hand-of-straights)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/hand-of-straights)

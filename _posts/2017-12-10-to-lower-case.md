@@ -41,4 +41,4 @@ permalink:  /problems/to-lower-case/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/to-lower-case)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/to-lower-case)

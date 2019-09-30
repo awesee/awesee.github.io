@@ -46,4 +46,4 @@ sentence(句子) = &quot;the cattle was rattled by the battery&quot;
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/replace-words)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/replace-words)

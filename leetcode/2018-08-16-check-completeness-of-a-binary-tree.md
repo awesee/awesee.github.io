@@ -52,4 +52,4 @@ permalink:  /problems/check-completeness-of-a-binary-tree/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/check-completeness-of-a-binary-tree)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/check-completeness-of-a-binary-tree)

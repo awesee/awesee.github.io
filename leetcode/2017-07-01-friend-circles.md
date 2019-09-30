@@ -61,4 +61,4 @@ permalink:  /problems/friend-circles/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/friend-circles)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/friend-circles)

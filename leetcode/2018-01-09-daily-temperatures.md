@@ -28,4 +28,4 @@ permalink:  /problems/daily-temperatures/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/daily-temperatures)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/daily-temperatures)

@@ -41,4 +41,4 @@ permalink:  /problems/maximum-depth-of-binary-tree/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/maximum-depth-of-binary-tree)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/maximum-depth-of-binary-tree)

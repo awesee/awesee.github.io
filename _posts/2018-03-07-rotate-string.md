@@ -34,4 +34,4 @@ permalink:  /problems/rotate-string/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/rotate-string)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/rotate-string)

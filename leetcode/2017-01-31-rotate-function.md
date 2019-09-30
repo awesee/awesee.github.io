@@ -42,4 +42,4 @@ F(3) = (0 * 3) + (1 * 2) + (2 * 6) + (3 * 4) = 0 + 2 + 12 + 12 = 26
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/rotate-function)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/rotate-function)

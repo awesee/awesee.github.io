@@ -33,4 +33,4 @@ permalink:  /problems/count-primes/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/count-primes)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/count-primes)

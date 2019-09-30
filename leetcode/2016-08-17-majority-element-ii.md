@@ -36,4 +36,4 @@ permalink:  /problems/majority-element-ii/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/majority-element-ii)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/majority-element-ii)

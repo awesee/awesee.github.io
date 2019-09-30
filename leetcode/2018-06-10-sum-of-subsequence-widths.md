@@ -48,4 +48,4 @@ permalink:  /problems/sum-of-subsequence-widths/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/sum-of-subsequence-widths)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/sum-of-subsequence-widths)

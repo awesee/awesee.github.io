@@ -79,4 +79,4 @@ evalvars = [], evalints = []
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/basic-calculator-iv)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/basic-calculator-iv)

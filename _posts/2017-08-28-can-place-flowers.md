@@ -48,4 +48,4 @@ permalink:  /problems/can-place-flowers/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/can-place-flowers)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/can-place-flowers)

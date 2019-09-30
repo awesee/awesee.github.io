@@ -43,4 +43,4 @@ S中出现了字符 &quot;a&quot;, &quot;b&quot;, &quot;c&quot;, 所以 &quot;a&
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/custom-sort-string)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/custom-sort-string)
