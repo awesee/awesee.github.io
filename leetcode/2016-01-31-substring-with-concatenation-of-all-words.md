@@ -48,4 +48,4 @@ permalink:  /problems/substring-with-concatenation-of-all-words/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/substring-with-concatenation-of-all-words)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/substring-with-concatenation-of-all-words)

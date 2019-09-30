@@ -41,4 +41,4 @@ XRLXXRRLX
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/swap-adjacent-in-lr-string)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/swap-adjacent-in-lr-string)

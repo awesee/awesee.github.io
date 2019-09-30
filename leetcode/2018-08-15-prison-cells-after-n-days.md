@@ -71,4 +71,4 @@ Day 7: [0, 0, 1, 1, 0, 0, 0, 0]
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/prison-cells-after-n-days)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/prison-cells-after-n-days)

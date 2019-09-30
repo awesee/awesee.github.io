@@ -42,4 +42,4 @@ permalink:  /problems/maximum-length-of-pair-chain/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/maximum-length-of-pair-chain)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/maximum-length-of-pair-chain)

@@ -54,4 +54,4 @@ permalink:  /problems/third-maximum-number/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/third-maximum-number)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/third-maximum-number)

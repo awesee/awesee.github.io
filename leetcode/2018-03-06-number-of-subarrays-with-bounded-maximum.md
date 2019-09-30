@@ -38,4 +38,4 @@ R = 3
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/number-of-subarrays-with-bounded-maximum)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/number-of-subarrays-with-bounded-maximum)

@@ -43,4 +43,4 @@ e
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/find-the-difference)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/find-the-difference)

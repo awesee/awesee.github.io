@@ -44,4 +44,4 @@ permalink:  /problems/image-smoother/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/image-smoother)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/image-smoother)

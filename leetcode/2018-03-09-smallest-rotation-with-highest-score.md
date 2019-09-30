@@ -50,4 +50,4 @@ A 无论怎么变化总是有 3 分。
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/smallest-rotation-with-highest-score)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/smallest-rotation-with-highest-score)

@@ -53,4 +53,4 @@ permalink:  /problems/minimum-ascii-delete-sum-for-two-strings/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/minimum-ascii-delete-sum-for-two-strings)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/minimum-ascii-delete-sum-for-two-strings)

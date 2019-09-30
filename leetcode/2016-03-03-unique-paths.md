@@ -52,4 +52,4 @@ permalink:  /problems/unique-paths/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/unique-paths)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/unique-paths)

@@ -63,4 +63,4 @@ wordList = [&quot;hot&quot;,&quot;dot&quot;,&quot;dog&quot;,&quot;lot&quot;,&quo
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/word-ladder)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/word-ladder)

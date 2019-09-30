@@ -35,4 +35,4 @@ permalink:  /problems/maximum-xor-of-two-numbers-in-an-array/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/maximum-xor-of-two-numbers-in-an-array)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/maximum-xor-of-two-numbers-in-an-array)

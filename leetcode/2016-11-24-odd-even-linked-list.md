@@ -43,4 +43,4 @@ permalink:  /problems/odd-even-linked-list/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/odd-even-linked-list)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/odd-even-linked-list)

@@ -40,4 +40,4 @@ permalink:  /problems/construct-binary-search-tree-from-preorder-traversal/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/construct-binary-search-tree-from-preorder-traversal)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/construct-binary-search-tree-from-preorder-traversal)

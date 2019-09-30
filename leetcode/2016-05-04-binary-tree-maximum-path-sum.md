@@ -52,4 +52,4 @@ permalink:  /problems/binary-tree-maximum-path-sum/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/binary-tree-maximum-path-sum)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/binary-tree-maximum-path-sum)

@@ -39,4 +39,4 @@ permalink:  /problems/consecutive-numbers/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/consecutive-numbers)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/consecutive-numbers)

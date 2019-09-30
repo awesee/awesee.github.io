@@ -40,4 +40,4 @@ permalink:  /problems/count-of-smaller-numbers-after-self/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/count-of-smaller-numbers-after-self)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/count-of-smaller-numbers-after-self)

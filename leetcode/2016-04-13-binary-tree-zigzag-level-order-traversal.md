@@ -44,4 +44,4 @@ permalink:  /problems/binary-tree-zigzag-level-order-traversal/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/binary-tree-zigzag-level-order-traversal)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/binary-tree-zigzag-level-order-traversal)

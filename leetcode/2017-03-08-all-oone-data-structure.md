@@ -29,4 +29,4 @@ permalink:  /problems/all-oone-data-structure/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/all-oone-data-structure)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/all-oone-data-structure)

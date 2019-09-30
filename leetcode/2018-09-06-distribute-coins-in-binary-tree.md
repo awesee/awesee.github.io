@@ -74,4 +74,4 @@ permalink:  /problems/distribute-coins-in-binary-tree/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/distribute-coins-in-binary-tree)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/distribute-coins-in-binary-tree)

@@ -50,4 +50,4 @@ permalink:  /problems/clone-graph/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/clone-graph)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/clone-graph)

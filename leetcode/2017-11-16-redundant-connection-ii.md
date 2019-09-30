@@ -63,4 +63,4 @@ v   v
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/redundant-connection-ii)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/redundant-connection-ii)

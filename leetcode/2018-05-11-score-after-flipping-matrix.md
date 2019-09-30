@@ -49,4 +49,4 @@ permalink:  /problems/score-after-flipping-matrix/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/score-after-flipping-matrix)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/score-after-flipping-matrix)

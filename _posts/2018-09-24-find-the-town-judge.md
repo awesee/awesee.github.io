@@ -78,4 +78,4 @@ permalink:  /problems/find-the-town-judge/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/find-the-town-judge)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/find-the-town-judge)

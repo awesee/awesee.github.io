@@ -65,4 +65,4 @@ permalink:  /problems/grid-illumination/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/grid-illumination)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/grid-illumination)

@@ -41,4 +41,4 @@ s = &quot;ababbc&quot;, k = 2
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/longest-substring-with-at-least-k-repeating-characters)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/longest-substring-with-at-least-k-repeating-characters)

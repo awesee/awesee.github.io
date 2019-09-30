@@ -39,4 +39,4 @@ permalink:  /problems/n-ary-tree-preorder-traversal/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/n-ary-tree-preorder-traversal)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/n-ary-tree-preorder-traversal)

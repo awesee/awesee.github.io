@@ -49,4 +49,4 @@ permalink:  /problems/maximum-difference-between-node-and-ancestor/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/maximum-difference-between-node-and-ancestor)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/maximum-difference-between-node-and-ancestor)

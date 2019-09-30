@@ -41,4 +41,4 @@ permalink:  /problems/super-ugly-number/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/super-ugly-number)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/super-ugly-number)

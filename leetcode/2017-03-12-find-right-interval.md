@@ -62,4 +62,4 @@ permalink:  /problems/find-right-interval/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/find-right-interval)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/find-right-interval)

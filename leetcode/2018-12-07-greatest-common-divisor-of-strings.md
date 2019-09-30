@@ -52,4 +52,4 @@ permalink:  /problems/greatest-common-divisor-of-strings/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/greatest-common-divisor-of-strings)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/greatest-common-divisor-of-strings)

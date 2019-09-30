@@ -41,4 +41,4 @@ permalink:  /problems/maximum-product-subarray/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/maximum-product-subarray)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/maximum-product-subarray)

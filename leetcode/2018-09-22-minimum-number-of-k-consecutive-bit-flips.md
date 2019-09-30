@@ -61,4 +61,4 @@ permalink:  /problems/minimum-number-of-k-consecutive-bit-flips/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/minimum-number-of-k-consecutive-bit-flips)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/minimum-number-of-k-consecutive-bit-flips)

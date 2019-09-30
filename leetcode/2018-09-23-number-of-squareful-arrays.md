@@ -52,4 +52,4 @@ permalink:  /problems/number-of-squareful-arrays/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/number-of-squareful-arrays)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/number-of-squareful-arrays)

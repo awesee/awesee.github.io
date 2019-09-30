@@ -34,4 +34,4 @@ permalink:  /problems/relative-ranks/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/relative-ranks)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/relative-ranks)

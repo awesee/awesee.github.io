@@ -53,4 +53,4 @@ permalink:  /problems/insertion-sort-list/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/insertion-sort-list)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/insertion-sort-list)

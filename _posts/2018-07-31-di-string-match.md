@@ -55,4 +55,4 @@ permalink:  /problems/di-string-match/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/di-string-match)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/di-string-match)

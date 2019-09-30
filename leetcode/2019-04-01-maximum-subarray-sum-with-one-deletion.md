@@ -53,4 +53,4 @@ permalink:  /problems/maximum-subarray-sum-with-one-deletion/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/maximum-subarray-sum-with-one-deletion)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/maximum-subarray-sum-with-one-deletion)

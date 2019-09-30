@@ -49,4 +49,4 @@ hits = [[1,1],[1,0]]
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/bricks-falling-when-hit)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/bricks-falling-when-hit)

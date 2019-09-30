@@ -41,4 +41,4 @@ permalink:  /problems/divide-two-integers/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/divide-two-integers)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/divide-two-integers)

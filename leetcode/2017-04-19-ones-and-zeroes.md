@@ -52,4 +52,4 @@ permalink:  /problems/ones-and-zeroes/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/ones-and-zeroes)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/ones-and-zeroes)

@@ -52,4 +52,4 @@ permalink:  /problems/minimum-index-sum-of-two-lists/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/minimum-index-sum-of-two-lists)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/minimum-index-sum-of-two-lists)

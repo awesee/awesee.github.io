@@ -39,4 +39,4 @@ permalink:  /problems/count-complete-tree-nodes/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/count-complete-tree-nodes)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/count-complete-tree-nodes)

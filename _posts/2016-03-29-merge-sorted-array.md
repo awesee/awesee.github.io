@@ -41,4 +41,4 @@ nums2 = [2,5,6],       n = 3
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/merge-sorted-array)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/merge-sorted-array)

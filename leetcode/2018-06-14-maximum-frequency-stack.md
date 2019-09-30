@@ -70,4 +70,4 @@ pop() -&gt; 返回 4 。
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/maximum-frequency-stack)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/maximum-frequency-stack)

@@ -51,4 +51,4 @@ permalink:  /problems/reverse-pairs/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/reverse-pairs)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/reverse-pairs)

@@ -66,4 +66,4 @@ permalink:  /problems/long-pressed-name/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/long-pressed-name)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/long-pressed-name)

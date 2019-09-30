@@ -53,4 +53,4 @@ logs =
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/exclusive-time-of-functions)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/exclusive-time-of-functions)

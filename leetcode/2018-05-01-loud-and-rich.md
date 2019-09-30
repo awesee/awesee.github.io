@@ -57,4 +57,4 @@ answer[7] = 7，
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/loud-and-rich)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/loud-and-rich)

@@ -42,4 +42,4 @@ A = [1, 3, 5, 7] ， B = [1, 2, 3, 4]
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/minimum-swaps-to-make-sequences-increasing)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/minimum-swaps-to-make-sequences-increasing)

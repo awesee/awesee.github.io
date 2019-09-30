@@ -52,4 +52,4 @@ permalink:  /problems/k-th-symbol-in-grammar/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/k-th-symbol-in-grammar)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/k-th-symbol-in-grammar)

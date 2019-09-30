@@ -45,4 +45,4 @@ permalink:  /problems/largest-rectangle-in-histogram/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/largest-rectangle-in-histogram)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/largest-rectangle-in-histogram)

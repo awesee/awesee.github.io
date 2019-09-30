@@ -53,4 +53,4 @@ permalink:  /problems/kth-smallest-element-in-a-bst/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/kth-smallest-element-in-a-bst)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/kth-smallest-element-in-a-bst)

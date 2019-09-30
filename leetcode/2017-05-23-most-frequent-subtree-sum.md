@@ -50,4 +50,4 @@ permalink:  /problems/most-frequent-subtree-sum/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/most-frequent-subtree-sum)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/most-frequent-subtree-sum)

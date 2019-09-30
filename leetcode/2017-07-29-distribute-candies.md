@@ -47,4 +47,4 @@ permalink:  /problems/distribute-candies/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/distribute-candies)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/distribute-candies)

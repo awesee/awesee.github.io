@@ -77,4 +77,4 @@ permalink:  /problems/x-of-a-kind-in-a-deck-of-cards/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/x-of-a-kind-in-a-deck-of-cards)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/x-of-a-kind-in-a-deck-of-cards)

@@ -46,4 +46,4 @@ permalink:  /problems/island-perimeter/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/island-perimeter)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/island-perimeter)

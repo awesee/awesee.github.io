@@ -48,4 +48,4 @@ permalink:  /problems/copy-list-with-random-pointer/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/copy-list-with-random-pointer)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/copy-list-with-random-pointer)

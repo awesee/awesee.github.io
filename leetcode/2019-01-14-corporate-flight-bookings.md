@@ -39,4 +39,4 @@ permalink:  /problems/corporate-flight-bookings/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/corporate-flight-bookings)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/corporate-flight-bookings)

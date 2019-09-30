@@ -45,4 +45,4 @@ permalink:  /problems/binary-subarrays-with-sum/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/binary-subarrays-with-sum)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/binary-subarrays-with-sum)

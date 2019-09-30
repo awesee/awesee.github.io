@@ -60,4 +60,4 @@ permalink:  /problems/minimum-score-triangulation-of-polygon/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/minimum-score-triangulation-of-polygon)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/minimum-score-triangulation-of-polygon)

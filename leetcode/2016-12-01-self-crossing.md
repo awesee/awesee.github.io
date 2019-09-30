@@ -57,4 +57,4 @@ permalink:  /problems/self-crossing/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/self-crossing)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/self-crossing)

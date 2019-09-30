@@ -66,4 +66,4 @@ permalink:  /problems/sliding-puzzle/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/sliding-puzzle)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/sliding-puzzle)

@@ -52,4 +52,4 @@ permalink:  /problems/magic-squares-in-grid/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/magic-squares-in-grid)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/magic-squares-in-grid)

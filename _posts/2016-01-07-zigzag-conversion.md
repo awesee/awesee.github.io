@@ -50,4 +50,4 @@ T     S     G</pre>
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/zigzag-conversion)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/zigzag-conversion)

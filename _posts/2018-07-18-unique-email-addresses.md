@@ -51,4 +51,4 @@ permalink:  /problems/unique-email-addresses/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/unique-email-addresses)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/unique-email-addresses)

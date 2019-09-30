@@ -65,4 +65,4 @@ permalink:  /problems/friends-of-appropriate-ages/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/friends-of-appropriate-ages)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/friends-of-appropriate-ages)

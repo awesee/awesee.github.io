@@ -39,4 +39,4 @@ permalink:  /problems/valid-palindrome/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/valid-palindrome)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/valid-palindrome)

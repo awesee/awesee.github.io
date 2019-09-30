@@ -44,4 +44,4 @@ WordFilter.f(&quot;b&quot;, &quot;&quot;) // 返回 -1
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/prefix-and-suffix-search)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/prefix-and-suffix-search)

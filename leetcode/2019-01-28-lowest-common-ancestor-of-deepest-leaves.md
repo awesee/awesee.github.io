@@ -58,4 +58,4 @@ permalink:  /problems/lowest-common-ancestor-of-deepest-leaves/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/lowest-common-ancestor-of-deepest-leaves)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/lowest-common-ancestor-of-deepest-leaves)

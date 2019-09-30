@@ -73,4 +73,4 @@ circularQueue.Rear(); &nbsp;// 返回 4
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/design-circular-queue)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/design-circular-queue)

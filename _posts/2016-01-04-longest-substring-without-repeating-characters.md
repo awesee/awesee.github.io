@@ -50,4 +50,4 @@ permalink:  /problems/longest-substring-without-repeating-characters/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/longest-substring-without-repeating-characters)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/longest-substring-without-repeating-characters)

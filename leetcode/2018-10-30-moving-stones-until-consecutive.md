@@ -53,4 +53,4 @@ permalink:  /problems/moving-stones-until-consecutive/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/moving-stones-until-consecutive)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/moving-stones-until-consecutive)

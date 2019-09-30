@@ -57,4 +57,4 @@ permalink:  /problems/range-module/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/range-module)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/range-module)

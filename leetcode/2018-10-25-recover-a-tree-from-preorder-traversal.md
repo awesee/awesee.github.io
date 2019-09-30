@@ -62,4 +62,4 @@ permalink:  /problems/recover-a-tree-from-preorder-traversal/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/recover-a-tree-from-preorder-traversal)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/recover-a-tree-from-preorder-traversal)

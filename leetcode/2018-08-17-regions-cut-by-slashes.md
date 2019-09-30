@@ -98,4 +98,4 @@ permalink:  /problems/regions-cut-by-slashes/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/regions-cut-by-slashes)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/regions-cut-by-slashes)

@@ -50,4 +50,4 @@ permalink:  /problems/find-the-duplicate-number/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/find-the-duplicate-number)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/find-the-duplicate-number)

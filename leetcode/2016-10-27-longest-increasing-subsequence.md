@@ -43,4 +43,4 @@ permalink:  /problems/longest-increasing-subsequence/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/longest-increasing-subsequence)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/longest-increasing-subsequence)

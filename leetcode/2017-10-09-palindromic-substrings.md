@@ -50,4 +50,4 @@ permalink:  /problems/palindromic-substrings/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/palindromic-substrings)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/palindromic-substrings)

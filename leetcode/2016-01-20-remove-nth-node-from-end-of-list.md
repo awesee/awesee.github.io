@@ -36,4 +36,4 @@ permalink:  /problems/remove-nth-node-from-end-of-list/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/remove-nth-node-from-end-of-list)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/remove-nth-node-from-end-of-list)

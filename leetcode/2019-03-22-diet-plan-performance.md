@@ -67,4 +67,4 @@ permalink:  /problems/diet-plan-performance/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/diet-plan-performance)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/diet-plan-performance)

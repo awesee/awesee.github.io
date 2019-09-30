@@ -59,4 +59,4 @@ permalink:  /problems/insufficient-nodes-in-root-to-leaf-paths/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/insufficient-nodes-in-root-to-leaf-paths)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/insufficient-nodes-in-root-to-leaf-paths)

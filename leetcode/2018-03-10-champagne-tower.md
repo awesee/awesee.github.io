@@ -46,4 +46,4 @@ permalink:  /problems/champagne-tower/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/champagne-tower)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/champagne-tower)

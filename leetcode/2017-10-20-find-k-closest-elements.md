@@ -56,4 +56,4 @@ permalink:  /problems/find-k-closest-elements/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/find-k-closest-elements)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/find-k-closest-elements)

@@ -66,4 +66,4 @@ permalink:  /problems/random-point-in-non-overlapping-rectangles/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/random-point-in-non-overlapping-rectangles)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/random-point-in-non-overlapping-rectangles)

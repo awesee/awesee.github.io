@@ -36,4 +36,4 @@ permalink:  /problems/move-zeroes/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/move-zeroes)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/move-zeroes)

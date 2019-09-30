@@ -44,4 +44,4 @@ permalink:  /problems/maximum-depth-of-n-ary-tree/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/maximum-depth-of-n-ary-tree)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/maximum-depth-of-n-ary-tree)

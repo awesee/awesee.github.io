@@ -61,4 +61,4 @@ circularDeque.getFront();				// 返回 4
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/design-circular-deque)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/design-circular-deque)

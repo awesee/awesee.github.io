@@ -38,4 +38,4 @@ permalink:  /problems/number-of-boomerangs/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/number-of-boomerangs)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/number-of-boomerangs)

@@ -62,4 +62,4 @@ permalink:  /problems/koko-eating-bananas/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/koko-eating-bananas)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/koko-eating-bananas)

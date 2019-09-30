@@ -53,4 +53,4 @@ permalink:  /problems/stone-game/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/stone-game)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/stone-game)

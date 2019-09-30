@@ -56,4 +56,4 @@ permalink:  /problems/next-greater-node-in-linked-list/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/next-greater-node-in-linked-list)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/next-greater-node-in-linked-list)

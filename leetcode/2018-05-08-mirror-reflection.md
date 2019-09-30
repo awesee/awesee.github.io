@@ -42,4 +42,4 @@ permalink:  /problems/mirror-reflection/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/mirror-reflection)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/mirror-reflection)

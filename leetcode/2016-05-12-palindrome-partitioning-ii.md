@@ -32,4 +32,4 @@ permalink:  /problems/palindrome-partitioning-ii/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/palindrome-partitioning-ii)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/palindrome-partitioning-ii)

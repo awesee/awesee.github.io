@@ -48,4 +48,4 @@ permalink:  /problems/concatenated-words/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/concatenated-words)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/concatenated-words)

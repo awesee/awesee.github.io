@@ -45,4 +45,4 @@ permalink:  /problems/student-attendance-record-ii/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/student-attendance-record-ii)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/student-attendance-record-ii)

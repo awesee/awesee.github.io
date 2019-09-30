@@ -58,4 +58,4 @@ permalink:  /problems/sliding-window-maximum/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/sliding-window-maximum)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/sliding-window-maximum)

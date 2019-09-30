@@ -54,4 +54,4 @@ permalink:  /problems/orderly-queue/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/orderly-queue)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/orderly-queue)

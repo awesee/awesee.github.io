@@ -49,4 +49,4 @@ permalink:  /problems/path-sum-ii/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/path-sum-ii)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/path-sum-ii)

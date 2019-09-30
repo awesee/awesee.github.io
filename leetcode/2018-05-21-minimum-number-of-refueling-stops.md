@@ -69,4 +69,4 @@ permalink:  /problems/minimum-number-of-refueling-stops/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/minimum-number-of-refueling-stops)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/minimum-number-of-refueling-stops)

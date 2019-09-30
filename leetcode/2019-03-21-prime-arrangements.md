@@ -47,4 +47,4 @@ permalink:  /problems/prime-arrangements/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/prime-arrangements)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/prime-arrangements)

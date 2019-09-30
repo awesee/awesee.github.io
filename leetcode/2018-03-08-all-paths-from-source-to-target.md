@@ -37,4 +37,4 @@ v    v
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/all-paths-from-source-to-target)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/all-paths-from-source-to-target)

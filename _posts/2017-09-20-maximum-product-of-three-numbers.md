@@ -45,4 +45,4 @@ permalink:  /problems/maximum-product-of-three-numbers/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/maximum-product-of-three-numbers)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/maximum-product-of-three-numbers)

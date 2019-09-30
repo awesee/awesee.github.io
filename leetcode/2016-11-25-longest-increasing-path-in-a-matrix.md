@@ -47,4 +47,4 @@ permalink:  /problems/longest-increasing-path-in-a-matrix/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/longest-increasing-path-in-a-matrix)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/longest-increasing-path-in-a-matrix)

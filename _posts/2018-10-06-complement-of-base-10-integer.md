@@ -58,4 +58,4 @@ permalink:  /problems/complement-of-base-10-integer/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/complement-of-base-10-integer)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/complement-of-base-10-integer)

@@ -47,4 +47,4 @@ permalink:  /problems/distant-barcodes/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/distant-barcodes)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/distant-barcodes)

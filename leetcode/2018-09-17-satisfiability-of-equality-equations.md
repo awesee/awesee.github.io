@@ -72,4 +72,4 @@ permalink:  /problems/satisfiability-of-equality-equations/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/satisfiability-of-equality-equations)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/satisfiability-of-equality-equations)

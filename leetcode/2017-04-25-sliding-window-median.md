@@ -51,4 +51,4 @@ permalink:  /problems/sliding-window-median/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/sliding-window-median)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/sliding-window-median)

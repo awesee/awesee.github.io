@@ -50,4 +50,4 @@ words = [&quot;hello&quot;, &quot;hi&quot;, &quot;helo&quot;]
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/expressive-words)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/expressive-words)

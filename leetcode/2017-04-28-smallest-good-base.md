@@ -60,4 +60,4 @@ permalink:  /problems/smallest-good-base/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/smallest-good-base)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/smallest-good-base)

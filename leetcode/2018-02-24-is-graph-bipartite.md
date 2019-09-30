@@ -63,4 +63,4 @@ permalink:  /problems/is-graph-bipartite/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/is-graph-bipartite)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/is-graph-bipartite)

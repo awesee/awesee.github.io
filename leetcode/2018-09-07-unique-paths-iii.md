@@ -72,4 +72,4 @@ permalink:  /problems/unique-paths-iii/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/unique-paths-iii)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/unique-paths-iii)

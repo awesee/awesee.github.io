@@ -54,4 +54,4 @@ queries[4] :&nbsp;子串 = &quot;abcda&quot;，可以变成回文的 &quot;abcba
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/can-make-palindrome-from-substring)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/can-make-palindrome-from-substring)

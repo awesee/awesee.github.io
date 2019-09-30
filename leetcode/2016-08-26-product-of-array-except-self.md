@@ -35,4 +35,4 @@ permalink:  /problems/product-of-array-except-self/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/product-of-array-except-self)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/product-of-array-except-self)

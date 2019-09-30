@@ -57,4 +57,4 @@ permalink:  /problems/binary-tree-cameras/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/binary-tree-cameras)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/binary-tree-cameras)

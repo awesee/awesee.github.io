@@ -23,4 +23,4 @@ permalink:  /problems/encode-and-decode-tinyurl/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/encode-and-decode-tinyurl)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/encode-and-decode-tinyurl)

@@ -39,4 +39,4 @@ permalink:  /problems/reverse-vowels-of-a-string/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/reverse-vowels-of-a-string)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/reverse-vowels-of-a-string)

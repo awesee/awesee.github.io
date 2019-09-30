@@ -28,4 +28,4 @@ permalink:  /problems/number-of-segments-in-a-string/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/number-of-segments-in-a-string)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/number-of-segments-in-a-string)

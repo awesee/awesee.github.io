@@ -50,4 +50,4 @@ T_4 = 1 + 1 + 2 = 4
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/n-th-tribonacci-number)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/n-th-tribonacci-number)

@@ -42,4 +42,4 @@ permalink:  /problems/valid-triangle-number/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/valid-triangle-number)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/valid-triangle-number)

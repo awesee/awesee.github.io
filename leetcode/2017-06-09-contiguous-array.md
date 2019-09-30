@@ -41,4 +41,4 @@ permalink:  /problems/contiguous-array/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/contiguous-array)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/contiguous-array)

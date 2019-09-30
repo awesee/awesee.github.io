@@ -45,4 +45,4 @@ permalink:  /problems/additive-number/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/additive-number)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/additive-number)

@@ -63,4 +63,4 @@ permalink:  /problems/largest-component-size-by-common-factor/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/largest-component-size-by-common-factor)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/largest-component-size-by-common-factor)

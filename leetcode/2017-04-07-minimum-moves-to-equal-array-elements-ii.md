@@ -39,4 +39,4 @@ permalink:  /problems/minimum-moves-to-equal-array-elements-ii/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/minimum-moves-to-equal-array-elements-ii)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/minimum-moves-to-equal-array-elements-ii)

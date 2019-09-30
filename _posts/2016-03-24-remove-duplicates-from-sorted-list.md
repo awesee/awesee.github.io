@@ -34,4 +34,4 @@ permalink:  /problems/remove-duplicates-from-sorted-list/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/remove-duplicates-from-sorted-list)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/remove-duplicates-from-sorted-list)

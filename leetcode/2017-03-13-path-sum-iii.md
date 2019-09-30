@@ -51,4 +51,4 @@ permalink:  /problems/path-sum-iii/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/path-sum-iii)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/path-sum-iii)

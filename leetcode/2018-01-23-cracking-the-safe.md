@@ -57,4 +57,4 @@ permalink:  /problems/cracking-the-safe/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/cracking-the-safe)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/cracking-the-safe)

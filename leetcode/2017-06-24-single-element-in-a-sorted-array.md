@@ -33,4 +33,4 @@ permalink:  /problems/single-element-in-a-sorted-array/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/single-element-in-a-sorted-array)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/single-element-in-a-sorted-array)

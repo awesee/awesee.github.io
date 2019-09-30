@@ -39,4 +39,4 @@ permalink:  /problems/valid-square/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/valid-square)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/valid-square)

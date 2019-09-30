@@ -61,4 +61,4 @@ permalink:  /problems/kth-smallest-number-in-multiplication-table/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/kth-smallest-number-in-multiplication-table)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/kth-smallest-number-in-multiplication-table)

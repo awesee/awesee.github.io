@@ -93,4 +93,4 @@ _aa___a
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/falling-squares)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/falling-squares)

@@ -72,4 +72,4 @@ permalink:  /problems/minimum-cost-for-tickets/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/minimum-cost-for-tickets)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/minimum-cost-for-tickets)

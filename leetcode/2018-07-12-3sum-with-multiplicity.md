@@ -56,4 +56,4 @@ A[i] = 1，A[j] = A[k] = 2 出现 12 次：
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/3sum-with-multiplicity)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/3sum-with-multiplicity)

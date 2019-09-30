@@ -64,4 +64,4 @@ permalink:  /problems/binary-tree-coloring-game/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/binary-tree-coloring-game)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/binary-tree-coloring-game)

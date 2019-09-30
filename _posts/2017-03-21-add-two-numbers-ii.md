@@ -38,4 +38,4 @@ permalink:  /problems/add-two-numbers-ii/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/add-two-numbers-ii)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/add-two-numbers-ii)

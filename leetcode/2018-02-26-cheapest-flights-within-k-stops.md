@@ -60,4 +60,4 @@ src = 0, dst = 2, k = 0
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/cheapest-flights-within-k-stops)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/cheapest-flights-within-k-stops)

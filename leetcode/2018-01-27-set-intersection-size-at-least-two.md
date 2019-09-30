@@ -51,4 +51,4 @@ permalink:  /problems/set-intersection-size-at-least-two/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/set-intersection-size-at-least-two)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/set-intersection-size-at-least-two)

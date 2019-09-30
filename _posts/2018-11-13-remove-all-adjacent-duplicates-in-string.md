@@ -43,4 +43,4 @@ permalink:  /problems/remove-all-adjacent-duplicates-in-string/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/remove-all-adjacent-duplicates-in-string)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/remove-all-adjacent-duplicates-in-string)

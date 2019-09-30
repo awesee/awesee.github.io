@@ -29,4 +29,4 @@ permalink:  /problems/partition-list/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/partition-list)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/partition-list)

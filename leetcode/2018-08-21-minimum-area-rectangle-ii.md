@@ -72,4 +72,4 @@ permalink:  /problems/minimum-area-rectangle-ii/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/minimum-area-rectangle-ii)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/minimum-area-rectangle-ii)

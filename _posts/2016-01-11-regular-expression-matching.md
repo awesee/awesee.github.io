@@ -81,4 +81,4 @@ p = &quot;mis*is*p*.&quot;
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/regular-expression-matching)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/regular-expression-matching)

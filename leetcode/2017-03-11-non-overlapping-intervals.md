@@ -60,4 +60,4 @@ permalink:  /problems/non-overlapping-intervals/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/non-overlapping-intervals)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/non-overlapping-intervals)

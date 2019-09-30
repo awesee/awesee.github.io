@@ -52,4 +52,4 @@ permalink:  /problems/compare-strings-by-frequency-of-the-smallest-character/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/compare-strings-by-frequency-of-the-smallest-character)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/compare-strings-by-frequency-of-the-smallest-character)

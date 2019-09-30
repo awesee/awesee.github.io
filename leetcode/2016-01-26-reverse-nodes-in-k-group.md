@@ -42,4 +42,4 @@ permalink:  /problems/reverse-nodes-in-k-group/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/reverse-nodes-in-k-group)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/reverse-nodes-in-k-group)

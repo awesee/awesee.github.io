@@ -51,4 +51,4 @@ permalink:  /problems/random-flip-matrix/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/random-flip-matrix)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/random-flip-matrix)

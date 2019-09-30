@@ -52,4 +52,4 @@ accounts = [[&quot;John&quot;, &quot;johnsmith@mail.com&quot;, &quot;john00@mail
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/accounts-merge)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/accounts-merge)

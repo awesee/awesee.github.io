@@ -44,4 +44,4 @@ permalink:  /problems/reconstruct-original-digits-from-english/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/reconstruct-original-digits-from-english)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/reconstruct-original-digits-from-english)

@@ -65,4 +65,4 @@ permalink:  /problems/least-operators-to-express-number/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/least-operators-to-express-number)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/least-operators-to-express-number)

@@ -51,4 +51,4 @@ permalink:  /problems/soup-servings/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/soup-servings)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/soup-servings)

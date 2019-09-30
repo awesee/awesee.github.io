@@ -44,4 +44,4 @@ permalink:  /problems/sum-of-root-to-leaf-binary-numbers/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/sum-of-root-to-leaf-binary-numbers)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/sum-of-root-to-leaf-binary-numbers)

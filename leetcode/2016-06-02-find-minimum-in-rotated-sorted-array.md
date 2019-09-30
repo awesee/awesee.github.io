@@ -41,4 +41,4 @@ permalink:  /problems/find-minimum-in-rotated-sorted-array/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/find-minimum-in-rotated-sorted-array)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/find-minimum-in-rotated-sorted-array)

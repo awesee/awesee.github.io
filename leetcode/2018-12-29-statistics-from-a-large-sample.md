@@ -55,4 +55,4 @@ permalink:  /problems/statistics-from-a-large-sample/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/statistics-from-a-large-sample)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/statistics-from-a-large-sample)

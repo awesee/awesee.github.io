@@ -49,4 +49,4 @@ permalink:  /problems/2-keys-keyboard/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/2-keys-keyboard)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/2-keys-keyboard)

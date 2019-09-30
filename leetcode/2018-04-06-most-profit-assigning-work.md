@@ -42,4 +42,4 @@ permalink:  /problems/most-profit-assigning-work/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/most-profit-assigning-work)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/most-profit-assigning-work)

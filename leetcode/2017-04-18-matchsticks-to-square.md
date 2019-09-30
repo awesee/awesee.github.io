@@ -47,4 +47,4 @@ permalink:  /problems/matchsticks-to-square/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/matchsticks-to-square)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/matchsticks-to-square)

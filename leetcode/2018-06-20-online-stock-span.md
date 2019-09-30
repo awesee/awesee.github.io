@@ -55,4 +55,4 @@ S.next(85) 被调用并返回 6。
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/online-stock-span)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/online-stock-span)

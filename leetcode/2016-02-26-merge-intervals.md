@@ -45,4 +45,4 @@ permalink:  /problems/merge-intervals/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/merge-intervals)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/merge-intervals)

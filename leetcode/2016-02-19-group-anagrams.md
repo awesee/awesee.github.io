@@ -42,4 +42,4 @@ permalink:  /problems/group-anagrams/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/group-anagrams)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/group-anagrams)

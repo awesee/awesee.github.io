@@ -51,4 +51,4 @@ day 1
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/word-frequency)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/word-frequency)

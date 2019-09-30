@@ -55,4 +55,4 @@ permalink:  /problems/maximize-distance-to-closest-person/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/maximize-distance-to-closest-person)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/maximize-distance-to-closest-person)

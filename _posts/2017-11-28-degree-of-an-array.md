@@ -51,4 +51,4 @@ permalink:  /problems/degree-of-an-array/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/degree-of-an-array)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/degree-of-an-array)

@@ -53,4 +53,4 @@ permalink:  /problems/decrease-elements-to-make-array-zigzag/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/decrease-elements-to-make-array-zigzag)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/decrease-elements-to-make-array-zigzag)

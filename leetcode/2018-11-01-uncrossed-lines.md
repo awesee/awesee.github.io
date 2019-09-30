@@ -62,4 +62,4 @@ permalink:  /problems/uncrossed-lines/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/uncrossed-lines)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/uncrossed-lines)

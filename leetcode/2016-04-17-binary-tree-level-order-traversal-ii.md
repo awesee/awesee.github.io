@@ -44,4 +44,4 @@ permalink:  /problems/binary-tree-level-order-traversal-ii/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/binary-tree-level-order-traversal-ii)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/binary-tree-level-order-traversal-ii)

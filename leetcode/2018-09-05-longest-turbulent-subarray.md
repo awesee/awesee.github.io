@@ -64,4 +64,4 @@ permalink:  /problems/longest-turbulent-subarray/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/longest-turbulent-subarray)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/longest-turbulent-subarray)

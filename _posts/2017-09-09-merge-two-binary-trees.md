@@ -43,4 +43,4 @@ permalink:  /problems/merge-two-binary-trees/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/merge-two-binary-trees)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/merge-two-binary-trees)

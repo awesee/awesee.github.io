@@ -39,4 +39,4 @@ permalink:  /problems/majority-element/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/majority-element)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/majority-element)

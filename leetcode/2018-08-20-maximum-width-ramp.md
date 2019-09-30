@@ -51,4 +51,4 @@ permalink:  /problems/maximum-width-ramp/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/maximum-width-ramp)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/maximum-width-ramp)

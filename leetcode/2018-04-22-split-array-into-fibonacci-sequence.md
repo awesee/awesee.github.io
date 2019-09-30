@@ -78,4 +78,4 @@ permalink:  /problems/split-array-into-fibonacci-sequence/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/split-array-into-fibonacci-sequence)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/split-array-into-fibonacci-sequence)

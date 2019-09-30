@@ -50,4 +50,4 @@ permalink:  /problems/largest-number-at-least-twice-of-others/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/largest-number-at-least-twice-of-others)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/largest-number-at-least-twice-of-others)

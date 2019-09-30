@@ -27,4 +27,4 @@ permalink:  /problems/strong-password-checker/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/strong-password-checker)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/strong-password-checker)

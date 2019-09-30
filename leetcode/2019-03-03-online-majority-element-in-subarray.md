@@ -51,4 +51,4 @@ majorityChecker.query(2,3,2); // 返回 2
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/online-majority-element-in-subarray)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/online-majority-element-in-subarray)

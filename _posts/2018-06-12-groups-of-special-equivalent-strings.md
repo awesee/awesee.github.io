@@ -72,4 +72,4 @@ permalink:  /problems/groups-of-special-equivalent-strings/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/groups-of-special-equivalent-strings)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/groups-of-special-equivalent-strings)

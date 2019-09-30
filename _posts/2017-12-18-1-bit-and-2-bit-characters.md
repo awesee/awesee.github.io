@@ -52,4 +52,4 @@ bits = [1, 1, 1, 0]
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/1-bit-and-2-bit-characters)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/1-bit-and-2-bit-characters)

@@ -62,4 +62,4 @@ permalink:  /problems/bag-of-tokens/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/bag-of-tokens)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/bag-of-tokens)

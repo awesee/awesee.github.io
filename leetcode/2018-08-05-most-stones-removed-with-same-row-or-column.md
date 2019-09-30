@@ -54,4 +54,4 @@ permalink:  /problems/most-stones-removed-with-same-row-or-column/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/most-stones-removed-with-same-row-or-column)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/most-stones-removed-with-same-row-or-column)

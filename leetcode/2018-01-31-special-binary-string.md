@@ -50,4 +50,4 @@ permalink:  /problems/special-binary-string/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/special-binary-string)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/special-binary-string)

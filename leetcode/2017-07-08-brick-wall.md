@@ -52,4 +52,4 @@ permalink:  /problems/brick-wall/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/brick-wall)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/brick-wall)

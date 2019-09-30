@@ -46,4 +46,4 @@ permalink:  /problems/detect-capital/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/detect-capital)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/detect-capital)

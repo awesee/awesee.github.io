@@ -50,4 +50,4 @@ permalink:  /problems/classes-more-than-5-students/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/classes-more-than-5-students)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/classes-more-than-5-students)

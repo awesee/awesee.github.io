@@ -66,4 +66,4 @@ permalink:  /problems/cat-and-mouse/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/cat-and-mouse)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/cat-and-mouse)

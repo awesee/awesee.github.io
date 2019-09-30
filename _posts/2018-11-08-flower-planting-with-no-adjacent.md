@@ -59,4 +59,4 @@ permalink:  /problems/flower-planting-with-no-adjacent/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/flower-planting-with-no-adjacent)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/flower-planting-with-no-adjacent)

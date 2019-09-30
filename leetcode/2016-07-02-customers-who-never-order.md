@@ -49,4 +49,4 @@ permalink:  /problems/customers-who-never-order/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/customers-who-never-order)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/customers-who-never-order)

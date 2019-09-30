@@ -67,4 +67,4 @@ permalink:  /problems/minimum-add-to-make-parentheses-valid/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/minimum-add-to-make-parentheses-valid)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/minimum-add-to-make-parentheses-valid)

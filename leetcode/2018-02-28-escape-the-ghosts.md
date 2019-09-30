@@ -60,4 +60,4 @@ target = [1, 0]
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/escape-the-ghosts)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/escape-the-ghosts)

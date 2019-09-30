@@ -57,4 +57,4 @@ permalink:  /problems/minimum-domino-rotations-for-equal-row/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/minimum-domino-rotations-for-equal-row)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/minimum-domino-rotations-for-equal-row)

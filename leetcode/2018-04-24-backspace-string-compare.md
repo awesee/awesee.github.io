@@ -62,4 +62,4 @@ permalink:  /problems/backspace-string-compare/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/backspace-string-compare)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/backspace-string-compare)

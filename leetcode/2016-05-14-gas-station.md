@@ -65,4 +65,4 @@ cost = [3,4,3]
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/gas-station)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/gas-station)

@@ -57,4 +57,4 @@ permalink:  /problems/array-of-doubled-pairs/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/array-of-doubled-pairs)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/array-of-doubled-pairs)

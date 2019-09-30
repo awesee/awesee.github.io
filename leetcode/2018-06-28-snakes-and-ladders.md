@@ -70,4 +70,4 @@ permalink:  /problems/snakes-and-ladders/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/snakes-and-ladders)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/snakes-and-ladders)

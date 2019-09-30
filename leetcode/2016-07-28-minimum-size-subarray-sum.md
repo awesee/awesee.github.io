@@ -38,4 +38,4 @@ permalink:  /problems/minimum-size-subarray-sum/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/minimum-size-subarray-sum)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/minimum-size-subarray-sum)

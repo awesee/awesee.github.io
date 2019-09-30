@@ -44,4 +44,4 @@ HammingDistance(4, 14) + HammingDistance(4, 2) + HammingDistance(14, 2) = 2 + 2 
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/total-hamming-distance)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/total-hamming-distance)

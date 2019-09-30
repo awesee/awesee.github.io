@@ -53,4 +53,4 @@ G = [0, 3, 1, 4]
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/linked-list-components)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/linked-list-components)

@@ -54,4 +54,4 @@ nums = [1, 2, 3]
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/find-pivot-index)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/find-pivot-index)

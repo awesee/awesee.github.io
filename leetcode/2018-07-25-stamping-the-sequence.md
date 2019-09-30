@@ -57,4 +57,4 @@ permalink:  /problems/stamping-the-sequence/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/stamping-the-sequence)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/stamping-the-sequence)

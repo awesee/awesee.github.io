@@ -46,4 +46,4 @@ permalink:  /problems/binary-tree-inorder-traversal/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/binary-tree-inorder-traversal)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/binary-tree-inorder-traversal)

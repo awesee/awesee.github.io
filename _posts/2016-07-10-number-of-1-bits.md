@@ -65,4 +65,4 @@ permalink:  /problems/number-of-1-bits/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/number-of-1-bits)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/number-of-1-bits)

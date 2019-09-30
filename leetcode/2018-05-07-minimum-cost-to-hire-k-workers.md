@@ -57,4 +57,4 @@ permalink:  /problems/minimum-cost-to-hire-k-workers/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/minimum-cost-to-hire-k-workers)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/minimum-cost-to-hire-k-workers)

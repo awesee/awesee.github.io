@@ -60,4 +60,4 @@ permalink:  /problems/smallest-range-i/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/smallest-range-i)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/smallest-range-i)

@@ -36,4 +36,4 @@ permalink:  /problems/max-sum-of-rectangle-no-larger-than-k/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/max-sum-of-rectangle-no-larger-than-k)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/max-sum-of-rectangle-no-larger-than-k)

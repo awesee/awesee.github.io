@@ -64,4 +64,4 @@ permalink:  /problems/increasing-order-search-tree/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/increasing-order-search-tree)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/increasing-order-search-tree)

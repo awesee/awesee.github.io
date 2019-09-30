@@ -67,4 +67,4 @@ permalink:  /problems/sort-characters-by-frequency/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/sort-characters-by-frequency)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/sort-characters-by-frequency)

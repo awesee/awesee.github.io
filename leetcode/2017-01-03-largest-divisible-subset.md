@@ -37,4 +37,4 @@ permalink:  /problems/largest-divisible-subset/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/largest-divisible-subset)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/largest-divisible-subset)

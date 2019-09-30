@@ -32,4 +32,4 @@ permalink:  /problems/interleaving-string/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/interleaving-string)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/interleaving-string)

@@ -35,4 +35,4 @@ permalink:  /problems/next-permutation/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/next-permutation)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/next-permutation)

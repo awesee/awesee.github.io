@@ -41,4 +41,4 @@ kthLargest.add(4);&nbsp; &nbsp;// returns 8
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/kth-largest-element-in-a-stream)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/kth-largest-element-in-a-stream)

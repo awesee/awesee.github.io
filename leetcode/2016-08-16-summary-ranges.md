@@ -36,4 +36,4 @@ permalink:  /problems/summary-ranges/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/summary-ranges)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/summary-ranges)

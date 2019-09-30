@@ -47,4 +47,4 @@ permalink:  /problems/n-queens-ii/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/n-queens-ii)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/n-queens-ii)

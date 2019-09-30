@@ -52,4 +52,4 @@ permalink:  /problems/beautiful-arrangement/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/beautiful-arrangement)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/beautiful-arrangement)

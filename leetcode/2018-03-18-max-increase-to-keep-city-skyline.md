@@ -51,4 +51,4 @@ gridNew = [ [8, 4, 8, 7],
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/max-increase-to-keep-city-skyline)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/max-increase-to-keep-city-skyline)

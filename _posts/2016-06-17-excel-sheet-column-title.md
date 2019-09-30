@@ -53,4 +53,4 @@ permalink:  /problems/excel-sheet-column-title/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/excel-sheet-column-title)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/excel-sheet-column-title)

@@ -48,4 +48,4 @@ XYZ YYZ XZZ XYY XXY</pre>
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/domino-and-tromino-tiling)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/domino-and-tromino-tiling)

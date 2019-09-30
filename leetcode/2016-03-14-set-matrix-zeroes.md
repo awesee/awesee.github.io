@@ -62,4 +62,4 @@ permalink:  /problems/set-matrix-zeroes/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/set-matrix-zeroes)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/set-matrix-zeroes)

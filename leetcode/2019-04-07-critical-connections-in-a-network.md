@@ -46,4 +46,4 @@ permalink:  /problems/critical-connections-in-a-network/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/critical-connections-in-a-network)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/critical-connections-in-a-network)

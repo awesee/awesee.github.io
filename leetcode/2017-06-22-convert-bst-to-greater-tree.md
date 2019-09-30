@@ -34,4 +34,4 @@ permalink:  /problems/convert-bst-to-greater-tree/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/convert-bst-to-greater-tree)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/convert-bst-to-greater-tree)

@@ -38,4 +38,4 @@ permalink:  /problems/factorial-trailing-zeroes/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/factorial-trailing-zeroes)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/factorial-trailing-zeroes)

@@ -36,4 +36,4 @@ permalink:  /problems/shortest-palindrome/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/shortest-palindrome)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/shortest-palindrome)

@@ -63,4 +63,4 @@ X   Y   Z
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/pyramid-transition-matrix)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/pyramid-transition-matrix)

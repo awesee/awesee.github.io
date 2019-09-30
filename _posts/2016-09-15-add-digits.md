@@ -34,4 +34,4 @@ permalink:  /problems/add-digits/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/add-digits)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/add-digits)

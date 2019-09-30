@@ -44,4 +44,4 @@ permalink:  /problems/ugly-number-ii/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/ugly-number-ii)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/ugly-number-ii)

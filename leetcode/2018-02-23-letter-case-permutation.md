@@ -44,4 +44,4 @@ permalink:  /problems/letter-case-permutation/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/letter-case-permutation)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/letter-case-permutation)

@@ -53,4 +53,4 @@ permalink:  /problems/permutation-in-string/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/permutation-in-string)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/permutation-in-string)

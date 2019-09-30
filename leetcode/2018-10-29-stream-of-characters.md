@@ -55,4 +55,4 @@ streamChecker.query(&#39;l&#39;);          // 返回 true，因为 &#39;kl&#39; 
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/stream-of-characters)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/stream-of-characters)

@@ -48,4 +48,4 @@ permalink:  /problems/find-peak-element/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/find-peak-element)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/find-peak-element)

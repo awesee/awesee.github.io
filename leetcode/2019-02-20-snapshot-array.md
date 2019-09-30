@@ -53,4 +53,4 @@ snapshotArr.get(0,0);  // 获取 snap_id = 0 的快照中 array[0] 的值，返�
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/snapshot-array)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/snapshot-array)

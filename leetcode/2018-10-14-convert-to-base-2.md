@@ -53,4 +53,4 @@ permalink:  /problems/convert-to-base-2/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/convert-to-base-2)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/convert-to-base-2)

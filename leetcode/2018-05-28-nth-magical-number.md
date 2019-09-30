@@ -62,4 +62,4 @@ permalink:  /problems/nth-magical-number/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/nth-magical-number)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/nth-magical-number)

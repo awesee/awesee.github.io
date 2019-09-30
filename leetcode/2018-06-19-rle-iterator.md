@@ -59,4 +59,4 @@ RLEIterator 由 RLEIterator([3,8,0,9,2,5]) 初始化。
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/rle-iterator)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/rle-iterator)

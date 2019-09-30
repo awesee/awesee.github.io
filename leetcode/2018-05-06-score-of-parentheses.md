@@ -62,4 +62,4 @@ permalink:  /problems/score-of-parentheses/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/score-of-parentheses)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/score-of-parentheses)

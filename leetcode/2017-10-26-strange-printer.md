@@ -48,4 +48,4 @@ permalink:  /problems/strange-printer/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/strange-printer)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/strange-printer)

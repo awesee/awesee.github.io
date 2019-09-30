@@ -32,4 +32,4 @@ permalink:  /problems/merge-two-sorted-lists/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/merge-two-sorted-lists)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/merge-two-sorted-lists)

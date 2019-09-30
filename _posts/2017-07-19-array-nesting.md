@@ -47,4 +47,4 @@ S[0] = {A[0], A[5], A[6], A[2]} = {5, 6, 2, 0}
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/array-nesting)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/array-nesting)

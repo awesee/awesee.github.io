@@ -52,4 +52,4 @@ findMedian() -&gt; 2</pre>
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/find-median-from-data-stream)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/find-median-from-data-stream)

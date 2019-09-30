@@ -39,4 +39,4 @@ permalink:  /problems/duplicate-emails/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/duplicate-emails)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/duplicate-emails)

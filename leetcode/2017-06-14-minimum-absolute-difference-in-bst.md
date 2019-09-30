@@ -43,4 +43,4 @@ permalink:  /problems/minimum-absolute-difference-in-bst/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/minimum-absolute-difference-in-bst)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/minimum-absolute-difference-in-bst)

@@ -40,4 +40,4 @@ permalink:  /problems/fraction-to-recurring-decimal/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/fraction-to-recurring-decimal)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/fraction-to-recurring-decimal)

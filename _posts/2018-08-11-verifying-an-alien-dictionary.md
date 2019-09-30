@@ -54,4 +54,4 @@ permalink:  /problems/verifying-an-alien-dictionary/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/verifying-an-alien-dictionary)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/verifying-an-alien-dictionary)

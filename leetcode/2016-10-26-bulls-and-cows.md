@@ -42,4 +42,4 @@ permalink:  /problems/bulls-and-cows/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/bulls-and-cows)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/bulls-and-cows)

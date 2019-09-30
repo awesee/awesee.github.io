@@ -17,8 +17,7 @@ permalink:  /problems/target-sum/
 
 <p><strong>示例 1:</strong></p>
 
-<pre>
-<strong>输入:</strong> nums: [1, 1, 1, 1, 1], S: 3
+<pre><strong>输入:</strong> nums: [1, 1, 1, 1, 1], S: 3
 <strong>输出:</strong> 5
 <strong>解释:</strong> 
 
@@ -34,9 +33,9 @@ permalink:  /problems/target-sum/
 <p><strong>注意:</strong></p>
 
 <ol>
-	<li>数组的长度不会超过20，并且数组中的值全为正数。</li>
+	<li>数组非空，且长度不会超过20。</li>
 	<li>初始的数组的和不会超过1000。</li>
-	<li>保证返回的最终结果为32位整数。</li>
+	<li>保证返回的最终结果能被32位整数存下。</li>
 </ol>
 
 {% endraw %}
@@ -50,4 +49,4 @@ permalink:  /problems/target-sum/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/target-sum)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/target-sum)

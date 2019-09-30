@@ -52,4 +52,4 @@ permalink:  /problems/n-ary-tree-level-order-traversal/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/n-ary-tree-level-order-traversal)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/n-ary-tree-level-order-traversal)

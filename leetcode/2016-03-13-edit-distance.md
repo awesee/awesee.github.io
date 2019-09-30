@@ -57,4 +57,4 @@ exection -&gt; execution (插入 &#39;u&#39;)
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/edit-distance)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/edit-distance)

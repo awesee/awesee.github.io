@@ -51,4 +51,4 @@ permalink:  /problems/making-a-large-island/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/making-a-large-island)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/making-a-large-island)

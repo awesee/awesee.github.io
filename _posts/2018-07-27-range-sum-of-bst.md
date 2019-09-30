@@ -46,4 +46,4 @@ permalink:  /problems/range-sum-of-bst/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/range-sum-of-bst)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/range-sum-of-bst)

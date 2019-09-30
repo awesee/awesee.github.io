@@ -57,4 +57,4 @@ permalink:  /problems/max-consecutive-ones-iii/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/max-consecutive-ones-iii)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/max-consecutive-ones-iii)

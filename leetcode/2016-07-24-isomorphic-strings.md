@@ -46,4 +46,4 @@ permalink:  /problems/isomorphic-strings/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/isomorphic-strings)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/isomorphic-strings)

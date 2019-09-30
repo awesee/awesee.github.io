@@ -43,4 +43,4 @@ permalink:  /problems/rank-scores/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/rank-scores)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/rank-scores)

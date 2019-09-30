@@ -72,4 +72,4 @@ permalink:  /problems/word-subsets/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/word-subsets)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/word-subsets)

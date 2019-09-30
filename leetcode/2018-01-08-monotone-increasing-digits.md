@@ -45,4 +45,4 @@ permalink:  /problems/monotone-increasing-digits/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/monotone-increasing-digits)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/monotone-increasing-digits)

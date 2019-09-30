@@ -43,4 +43,4 @@ sumRange(0, 2) -&gt; 8
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/range-sum-query-mutable)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/range-sum-query-mutable)

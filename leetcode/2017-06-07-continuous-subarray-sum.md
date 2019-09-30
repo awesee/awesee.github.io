@@ -45,4 +45,4 @@ permalink:  /problems/continuous-subarray-sum/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/continuous-subarray-sum)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/continuous-subarray-sum)

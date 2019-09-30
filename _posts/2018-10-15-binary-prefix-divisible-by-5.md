@@ -59,4 +59,4 @@ permalink:  /problems/binary-prefix-divisible-by-5/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/binary-prefix-divisible-by-5)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/binary-prefix-divisible-by-5)

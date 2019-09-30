@@ -61,4 +61,4 @@ permalink:  /problems/k-closest-points-to-origin/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/k-closest-points-to-origin)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/k-closest-points-to-origin)

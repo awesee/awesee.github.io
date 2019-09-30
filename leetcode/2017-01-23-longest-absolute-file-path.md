@@ -57,4 +57,4 @@ dir
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/longest-absolute-file-path)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/longest-absolute-file-path)

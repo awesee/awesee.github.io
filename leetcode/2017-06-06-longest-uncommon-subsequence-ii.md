@@ -46,4 +46,4 @@ permalink:  /problems/longest-uncommon-subsequence-ii/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/longest-uncommon-subsequence-ii)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/longest-uncommon-subsequence-ii)

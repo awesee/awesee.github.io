@@ -47,4 +47,4 @@ permalink:  /problems/occurrences-after-bigram/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/occurrences-after-bigram)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/occurrences-after-bigram)

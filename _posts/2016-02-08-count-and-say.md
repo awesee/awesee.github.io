@@ -53,4 +53,4 @@ permalink:  /problems/count-and-say/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/count-and-say)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/count-and-say)

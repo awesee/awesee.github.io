@@ -55,4 +55,4 @@ permalink:  /problems/maximize-sum-of-array-after-k-negations/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/maximize-sum-of-array-after-k-negations)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/maximize-sum-of-array-after-k-negations)

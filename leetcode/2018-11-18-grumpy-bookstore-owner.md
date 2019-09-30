@@ -47,4 +47,4 @@ permalink:  /problems/grumpy-bookstore-owner/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/grumpy-bookstore-owner)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/grumpy-bookstore-owner)

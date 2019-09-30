@@ -38,4 +38,4 @@ permalink:  /problems/guess-number-higher-or-lower/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/guess-number-higher-or-lower)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/guess-number-higher-or-lower)

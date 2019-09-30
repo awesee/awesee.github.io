@@ -48,4 +48,4 @@ permalink:  /problems/power-of-three/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/power-of-three)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/power-of-three)

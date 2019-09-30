@@ -42,4 +42,4 @@ permalink:  /problems/diagonal-traverse/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/diagonal-traverse)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/diagonal-traverse)

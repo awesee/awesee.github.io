@@ -59,4 +59,4 @@ permalink:  /problems/three-equal-parts/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/three-equal-parts)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/three-equal-parts)

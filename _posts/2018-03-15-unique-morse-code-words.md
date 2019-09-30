@@ -51,4 +51,4 @@ permalink:  /problems/unique-morse-code-words/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/unique-morse-code-words)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/unique-morse-code-words)

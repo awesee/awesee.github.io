@@ -65,4 +65,4 @@ permalink:  /problems/validate-ip-address/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/validate-ip-address)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/validate-ip-address)

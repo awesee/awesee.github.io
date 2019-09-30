@@ -58,4 +58,4 @@ permalink:  /problems/populating-next-right-pointers-in-each-node/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/populating-next-right-pointers-in-each-node)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/populating-next-right-pointers-in-each-node)

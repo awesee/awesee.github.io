@@ -35,4 +35,4 @@ permalink:  /problems/integer-break/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/integer-break)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/integer-break)

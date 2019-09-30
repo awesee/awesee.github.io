@@ -59,4 +59,4 @@ permalink:  /problems/solve-the-equation/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/solve-the-equation)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/solve-the-equation)

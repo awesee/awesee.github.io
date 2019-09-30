@@ -59,4 +59,4 @@ permalink:  /problems/k-concatenation-maximum-sum/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/k-concatenation-maximum-sum)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/k-concatenation-maximum-sum)

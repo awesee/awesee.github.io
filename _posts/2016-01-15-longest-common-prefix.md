@@ -39,4 +39,4 @@ permalink:  /problems/longest-common-prefix/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/longest-common-prefix)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/longest-common-prefix)

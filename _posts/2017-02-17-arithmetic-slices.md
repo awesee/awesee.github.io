@@ -56,4 +56,4 @@ A = [1, 2, 3, 4]
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/arithmetic-slices)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/arithmetic-slices)

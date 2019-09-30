@@ -57,4 +57,4 @@ permalink:  /problems/powerful-integers/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/powerful-integers)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/powerful-integers)

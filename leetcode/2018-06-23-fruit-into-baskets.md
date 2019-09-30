@@ -73,4 +73,4 @@ permalink:  /problems/fruit-into-baskets/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/fruit-into-baskets)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/fruit-into-baskets)

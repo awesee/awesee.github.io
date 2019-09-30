@@ -68,4 +68,4 @@ permalink:  /problems/subtree-of-another-tree/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/subtree-of-another-tree)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/subtree-of-another-tree)

@@ -58,4 +58,4 @@ permalink:  /problems/flip-columns-for-maximum-number-of-equal-rows/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/flip-columns-for-maximum-number-of-equal-rows)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/flip-columns-for-maximum-number-of-equal-rows)

@@ -48,4 +48,4 @@ permalink:  /problems/binary-search/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/binary-search)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/binary-search)

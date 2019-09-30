@@ -32,4 +32,4 @@ permalink:  /problems/swap-nodes-in-pairs/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/swap-nodes-in-pairs)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/swap-nodes-in-pairs)

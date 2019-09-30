@@ -62,4 +62,4 @@ permalink:  /problems/swim-in-rising-water/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/swim-in-rising-water)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/swim-in-rising-water)

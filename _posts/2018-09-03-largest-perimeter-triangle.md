@@ -64,4 +64,4 @@ permalink:  /problems/largest-perimeter-triangle/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/largest-perimeter-triangle)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/largest-perimeter-triangle)

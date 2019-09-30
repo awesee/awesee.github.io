@@ -46,4 +46,4 @@ permalink:  /problems/multiply-strings/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/multiply-strings)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/multiply-strings)

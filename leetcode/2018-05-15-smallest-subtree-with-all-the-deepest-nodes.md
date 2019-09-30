@@ -50,4 +50,4 @@ permalink:  /problems/smallest-subtree-with-all-the-deepest-nodes/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/smallest-subtree-with-all-the-deepest-nodes)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/smallest-subtree-with-all-the-deepest-nodes)

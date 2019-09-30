@@ -39,4 +39,4 @@ permalink:  /problems/subsets-ii/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/subsets-ii)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/subsets-ii)

@@ -60,4 +60,4 @@ permalink:  /problems/evaluate-reverse-polish-notation/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/evaluate-reverse-polish-notation)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/evaluate-reverse-polish-notation)

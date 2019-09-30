@@ -55,4 +55,4 @@ permalink:  /problems/generate-random-point-in-a-circle/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/generate-random-point-in-a-circle)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/generate-random-point-in-a-circle)

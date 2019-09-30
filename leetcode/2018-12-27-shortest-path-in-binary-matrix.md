@@ -58,4 +58,4 @@ permalink:  /problems/shortest-path-in-binary-matrix/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/shortest-path-in-binary-matrix)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/shortest-path-in-binary-matrix)

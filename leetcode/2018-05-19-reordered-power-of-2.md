@@ -65,4 +65,4 @@ permalink:  /problems/reordered-power-of-2/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/reordered-power-of-2)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/reordered-power-of-2)

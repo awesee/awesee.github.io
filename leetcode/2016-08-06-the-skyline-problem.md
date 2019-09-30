@@ -46,4 +46,4 @@ permalink:  /problems/the-skyline-problem/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/the-skyline-problem)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/the-skyline-problem)

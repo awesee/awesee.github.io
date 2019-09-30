@@ -80,4 +80,4 @@ maxWidth = 20
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/text-justification)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/text-justification)

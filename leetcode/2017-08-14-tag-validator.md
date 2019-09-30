@@ -107,4 +107,4 @@ cdata <strong>不</strong>是 <strong>&quot;&lt;![CDATA[&lt;div&gt;]&gt;]]&gt;]]
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/tag-validator)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/tag-validator)

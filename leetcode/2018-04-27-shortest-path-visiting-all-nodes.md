@@ -52,4 +52,4 @@ permalink:  /problems/shortest-path-visiting-all-nodes/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/shortest-path-visiting-all-nodes)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/shortest-path-visiting-all-nodes)

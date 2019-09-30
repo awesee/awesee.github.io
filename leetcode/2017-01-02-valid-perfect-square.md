@@ -38,4 +38,4 @@ permalink:  /problems/valid-perfect-square/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/valid-perfect-square)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/valid-perfect-square)

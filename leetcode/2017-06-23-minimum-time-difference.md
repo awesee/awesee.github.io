@@ -36,4 +36,4 @@ permalink:  /problems/minimum-time-difference/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/minimum-time-difference)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/minimum-time-difference)

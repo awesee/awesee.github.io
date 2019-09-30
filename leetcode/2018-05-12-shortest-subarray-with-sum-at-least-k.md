@@ -56,4 +56,4 @@ permalink:  /problems/shortest-subarray-with-sum-at-least-k/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/shortest-subarray-with-sum-at-least-k)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/shortest-subarray-with-sum-at-least-k)

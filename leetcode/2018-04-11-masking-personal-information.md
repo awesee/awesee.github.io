@@ -98,4 +98,4 @@ permalink:  /problems/masking-personal-information/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/masking-personal-information)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/masking-personal-information)

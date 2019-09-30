@@ -77,4 +77,4 @@ permalink:  /problems/random-pick-with-blacklist/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/random-pick-with-blacklist)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/random-pick-with-blacklist)

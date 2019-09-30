@@ -62,4 +62,4 @@ data = [235, 140, 4], 表示 8 位的序列: <strong>11101011 10001100 00000100<
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/utf-8-validation)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/utf-8-validation)

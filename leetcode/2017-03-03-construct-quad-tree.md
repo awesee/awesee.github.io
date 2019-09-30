@@ -44,4 +44,4 @@ permalink:  /problems/construct-quad-tree/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/construct-quad-tree)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/construct-quad-tree)

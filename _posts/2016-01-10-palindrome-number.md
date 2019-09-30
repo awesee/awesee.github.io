@@ -47,4 +47,4 @@ permalink:  /problems/palindrome-number/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/palindrome-number)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/palindrome-number)

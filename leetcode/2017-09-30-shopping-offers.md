@@ -58,4 +58,4 @@ A，B，C的价格分别为&yen;2，&yen;3，&yen;4.
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/shopping-offers)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/shopping-offers)

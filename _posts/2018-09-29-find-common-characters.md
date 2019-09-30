@@ -50,4 +50,4 @@ permalink:  /problems/find-common-characters/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/find-common-characters)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/find-common-characters)

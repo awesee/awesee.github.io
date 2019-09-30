@@ -85,4 +85,4 @@ D.pop()            // 返回 -1。仍然没有栈。
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/dinner-plate-stacks)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/dinner-plate-stacks)

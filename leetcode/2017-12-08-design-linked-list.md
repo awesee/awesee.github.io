@@ -54,4 +54,4 @@ linkedList.get(1);            //返回3
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/design-linked-list)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/design-linked-list)

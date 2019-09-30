@@ -52,4 +52,4 @@ permalink:  /problems/human-traffic-of-stadium/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/human-traffic-of-stadium)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/human-traffic-of-stadium)

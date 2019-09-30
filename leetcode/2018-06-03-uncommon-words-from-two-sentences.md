@@ -53,4 +53,4 @@ permalink:  /problems/uncommon-words-from-two-sentences/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/uncommon-words-from-two-sentences)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/uncommon-words-from-two-sentences)

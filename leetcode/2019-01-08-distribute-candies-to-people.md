@@ -63,4 +63,4 @@ permalink:  /problems/distribute-candies-to-people/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/distribute-candies-to-people)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/distribute-candies-to-people)

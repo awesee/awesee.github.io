@@ -48,4 +48,4 @@ permalink:  /problems/rectangle-area-ii/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/rectangle-area-ii)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/rectangle-area-ii)

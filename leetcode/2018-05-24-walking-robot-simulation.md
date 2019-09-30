@@ -62,4 +62,4 @@ permalink:  /problems/walking-robot-simulation/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/walking-robot-simulation)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/walking-robot-simulation)

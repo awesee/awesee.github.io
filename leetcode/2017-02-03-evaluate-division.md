@@ -38,4 +38,4 @@ queries(问题方程式) = [ [&quot;a&quot;, &quot;c&quot;], [&quot;b&quot;, &qu
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/evaluate-division)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/evaluate-division)

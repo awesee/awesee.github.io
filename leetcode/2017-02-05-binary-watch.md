@@ -49,4 +49,4 @@ permalink:  /problems/binary-watch/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/binary-watch)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/binary-watch)

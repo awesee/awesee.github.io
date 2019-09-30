@@ -60,4 +60,4 @@ permalink:  /problems/construct-string-from-binary-tree/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/construct-string-from-binary-tree)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/construct-string-from-binary-tree)

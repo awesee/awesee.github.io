@@ -43,4 +43,4 @@ permalink:  /problems/number-complement/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/number-complement)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/number-complement)

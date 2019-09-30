@@ -23,4 +23,4 @@ permalink:  /problems/lexicographical-numbers/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/lexicographical-numbers)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/lexicographical-numbers)

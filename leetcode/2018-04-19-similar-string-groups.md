@@ -48,4 +48,4 @@ permalink:  /problems/similar-string-groups/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/similar-string-groups)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/similar-string-groups)

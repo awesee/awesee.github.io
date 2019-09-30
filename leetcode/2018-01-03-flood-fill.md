@@ -51,4 +51,4 @@ sr = 1, sc = 1, newColor = 2
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/flood-fill)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/flood-fill)

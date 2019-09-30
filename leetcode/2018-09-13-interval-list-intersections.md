@@ -50,4 +50,4 @@ permalink:  /problems/interval-list-intersections/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/interval-list-intersections)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/interval-list-intersections)

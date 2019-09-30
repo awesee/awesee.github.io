@@ -40,4 +40,4 @@ sumRange(0, 5) -&gt; -3</pre>
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/range-sum-query-immutable)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/range-sum-query-immutable)

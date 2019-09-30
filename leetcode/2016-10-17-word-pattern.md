@@ -49,4 +49,4 @@ permalink:  /problems/word-pattern/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/word-pattern)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/word-pattern)

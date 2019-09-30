@@ -57,4 +57,4 @@ permalink:  /problems/freedom-trail/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/freedom-trail)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/freedom-trail)

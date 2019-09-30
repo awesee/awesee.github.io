@@ -54,4 +54,4 @@ permalink:  /problems/smallest-sufficient-team/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/smallest-sufficient-team)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/smallest-sufficient-team)

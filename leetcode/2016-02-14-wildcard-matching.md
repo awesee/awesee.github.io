@@ -81,4 +81,4 @@ p = &quot;a*c?b&quot;
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/wildcard-matching)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/wildcard-matching)

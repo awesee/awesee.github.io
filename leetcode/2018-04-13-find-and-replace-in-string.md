@@ -60,4 +60,4 @@ permalink:  /problems/find-and-replace-in-string/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/find-and-replace-in-string)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/find-and-replace-in-string)

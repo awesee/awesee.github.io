@@ -67,4 +67,4 @@ root = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10], k = 3
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/split-linked-list-in-parts)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/split-linked-list-in-parts)

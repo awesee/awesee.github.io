@@ -32,4 +32,4 @@ permalink:  /problems/map-sum-pairs/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/map-sum-pairs)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/map-sum-pairs)

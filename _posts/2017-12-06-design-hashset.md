@@ -55,4 +55,4 @@ hashSet.contains(2); &nbsp;&nbsp;&nbsp;// 返回  false (已经被删除)
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/design-hashset)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/design-hashset)

@@ -61,4 +61,4 @@ permalink:  /problems/number-of-dice-rolls-with-target-sum/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/number-of-dice-rolls-with-target-sum)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/number-of-dice-rolls-with-target-sum)

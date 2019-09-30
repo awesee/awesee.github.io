@@ -49,4 +49,4 @@ permalink:  /problems/rotate-array/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/rotate-array)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/rotate-array)

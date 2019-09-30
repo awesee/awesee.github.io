@@ -37,4 +37,4 @@ Id 是这个表的主键。
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/delete-duplicate-emails)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/delete-duplicate-emails)

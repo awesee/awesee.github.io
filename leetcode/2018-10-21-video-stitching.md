@@ -71,4 +71,4 @@ permalink:  /problems/video-stitching/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/video-stitching)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/video-stitching)

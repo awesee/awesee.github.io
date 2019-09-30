@@ -59,4 +59,4 @@ permalink:  /problems/as-far-from-land-as-possible/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/as-far-from-land-as-possible)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/as-far-from-land-as-possible)

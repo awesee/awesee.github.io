@@ -54,4 +54,4 @@ permalink:  /problems/couples-holding-hands/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/couples-holding-hands)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/couples-holding-hands)

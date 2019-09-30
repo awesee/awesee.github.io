@@ -53,4 +53,4 @@ permalink:  /problems/partition-array-into-three-parts-with-equal-sum/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/partition-array-into-three-parts-with-equal-sum)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/partition-array-into-three-parts-with-equal-sum)

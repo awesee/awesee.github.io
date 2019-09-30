@@ -73,4 +73,4 @@ M             1000</pre>
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/roman-to-integer)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/roman-to-integer)

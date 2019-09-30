@@ -65,4 +65,4 @@ permalink:  /problems/robot-bounded-in-circle/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/robot-bounded-in-circle)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/robot-bounded-in-circle)

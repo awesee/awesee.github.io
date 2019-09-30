@@ -75,4 +75,4 @@ asteroids = [-2, -1, 1, 2]
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/asteroid-collision)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/asteroid-collision)

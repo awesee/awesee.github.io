@@ -52,4 +52,4 @@ k = 1
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/find-k-th-smallest-pair-distance)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/find-k-th-smallest-pair-distance)
