@@ -49,7 +49,7 @@ permalink:  /problems/permutation-in-string/
 
 ### 相似题目
   1. [最小覆盖子串](/problems/minimum-window-substring) (Hard)
-  1. [找到字符串中所有字母异位词](/problems/find-all-anagrams-in-a-string) (Easy)
+  1. [找到字符串中所有字母异位词](/problems/find-all-anagrams-in-a-string) (Medium)
 
 ---
 

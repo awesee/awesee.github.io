@@ -3,7 +3,7 @@ layout:     single
 title:      "一周中的第几天"
 date:       2019-03-31 21:30:00 +0800
 categories: [Leetcode]
-tags:       []
+tags:       [Array]
 permalink:  /problems/day-of-the-week/
 ---
 
@@ -46,6 +46,9 @@ permalink:  /problems/day-of-the-week/
 </ul>
 
 {% endraw %}
+
+### 相关话题
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 
 ---
 

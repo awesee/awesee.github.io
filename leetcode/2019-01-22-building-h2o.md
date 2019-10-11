@@ -7,7 +7,7 @@ tags:       []
 permalink:  /problems/building-h2o/
 ---
 
-## 1117. H2O 生成 (Hard)
+## 1117. H2O 生成 (Medium)
 
 {% raw %}
 

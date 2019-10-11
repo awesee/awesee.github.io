@@ -56,6 +56,7 @@ Target = 28
   1. [两数之和](/problems/two-sum) (Easy)
   1. [两数之和 II - 输入有序数组](/problems/two-sum-ii-input-array-is-sorted) (Easy)
   1. [两数之和 III - 数据结构设计](/problems/two-sum-iii-data-structure-design) (Easy)
+  1. [查找两棵二叉搜索树之和](/problems/two-sum-bsts) (Medium)
 
 ---
 

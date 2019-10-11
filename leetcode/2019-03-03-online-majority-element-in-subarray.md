@@ -3,7 +3,7 @@ layout:     single
 title:      "子数组中占绝大多数的元素"
 date:       2019-03-03 21:30:00 +0800
 categories: [Leetcode]
-tags:       []
+tags:       [Segment Tree, Array, Binary Search]
 permalink:  /problems/online-majority-element-in-subarray/
 ---
 
@@ -48,6 +48,11 @@ majorityChecker.query(2,3,2); // 返回 2
 </ul>
 
 {% endraw %}
+
+### 相关话题
+  [[线段树](https://github.com/openset/leetcode/tree/master/tag/segment-tree/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
 
 ---
 

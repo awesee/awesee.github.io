@@ -3,7 +3,7 @@ layout:     single
 title:      "颜色交替的最短路径"
 date:       2019-02-03 21:30:00 +0800
 categories: [Leetcode]
-tags:       []
+tags:       [Breadth-first Search, Graph]
 permalink:  /problems/shortest-path-with-alternating-colors/
 ---
 
@@ -62,6 +62,10 @@ permalink:  /problems/shortest-path-with-alternating-colors/
 </ul>
 
 {% endraw %}
+
+### 相关话题
+  [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
+  [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
 
 ---
 

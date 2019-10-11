@@ -7,7 +7,7 @@ tags:       [Hash Table]
 permalink:  /problems/find-all-anagrams-in-a-string/
 ---
 
-## 438. 找到字符串中所有字母异位词 (Easy)
+## 438. 找到字符串中所有字母异位词 (Medium)
 
 {% raw %}
 

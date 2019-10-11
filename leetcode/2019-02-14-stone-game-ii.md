@@ -3,7 +3,7 @@ layout:     single
 title:      "石子游戏 II"
 date:       2019-02-14 21:30:00 +0800
 categories: [Leetcode]
-tags:       []
+tags:       [Dynamic Programming]
 permalink:  /problems/stone-game-ii/
 ---
 
@@ -43,6 +43,9 @@ permalink:  /problems/stone-game-ii/
 </ul>
 
 {% endraw %}
+
+### 相关话题
+  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ---
 

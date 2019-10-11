@@ -3,11 +3,11 @@ layout:     single
 title:      "删除字符串中的所有相邻重复项 II"
 date:       2019-04-24 21:30:00 +0800
 categories: [Leetcode]
-tags:       []
+tags:       [Stack]
 permalink:  /problems/remove-all-adjacent-duplicates-in-string-ii/
 ---
 
-## 5206. 删除字符串中的所有相邻重复项 II (Medium)
+## 1209. 删除字符串中的所有相邻重复项 II (Medium)
 
 {% raw %}
 
@@ -53,6 +53,9 @@ permalink:  /problems/remove-all-adjacent-duplicates-in-string-ii/
 </ul>
 
 {% endraw %}
+
+### 相关话题
+  [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
 
 ---
 

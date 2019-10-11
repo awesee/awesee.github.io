@@ -39,7 +39,7 @@ permalink:  /problems/valid-anagram/
 ### 相似题目
   1. [字母异位词分组](/problems/group-anagrams) (Medium)
   1. [回文排列](/problems/palindrome-permutation) (Easy)
-  1. [找到字符串中所有字母异位词](/problems/find-all-anagrams-in-a-string) (Easy)
+  1. [找到字符串中所有字母异位词](/problems/find-all-anagrams-in-a-string) (Medium)
 
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "掷骰子的N种方法"
 date:       2019-03-01 21:30:00 +0800
 categories: [Leetcode]
-tags:       []
+tags:       [Dynamic Programming]
 permalink:  /problems/number-of-dice-rolls-with-target-sum/
 ---
 
@@ -58,6 +58,9 @@ permalink:  /problems/number-of-dice-rolls-with-target-sum/
 </ul>
 
 {% endraw %}
+
+### 相关话题
+  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ---
 

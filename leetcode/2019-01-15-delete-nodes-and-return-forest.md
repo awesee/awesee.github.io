@@ -3,7 +3,7 @@ layout:     single
 title:      "删点成林"
 date:       2019-01-15 21:30:00 +0800
 categories: [Leetcode]
-tags:       []
+tags:       [Tree, Depth-first Search]
 permalink:  /problems/delete-nodes-and-return-forest/
 ---
 
@@ -39,6 +39,10 @@ permalink:  /problems/delete-nodes-and-return-forest/
 </ul>
 
 {% endraw %}
+
+### 相关话题
+  [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
 
 ---
 

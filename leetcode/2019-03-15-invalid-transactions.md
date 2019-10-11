@@ -7,7 +7,7 @@ tags:       [Array, String]
 permalink:  /problems/invalid-transactions/
 ---
 
-## 1169. 查询无效交易 (Easy)
+## 1169. 查询无效交易 (Medium)
 
 {% raw %}
 

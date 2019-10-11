@@ -3,7 +3,7 @@ layout:     single
 title:      "公交站间的距离"
 date:       2019-03-30 21:30:00 +0800
 categories: [Leetcode]
-tags:       []
+tags:       [Array]
 permalink:  /problems/distance-between-bus-stops/
 ---
 
@@ -61,6 +61,9 @@ permalink:  /problems/distance-between-bus-stops/
 </ul>
 
 {% endraw %}
+
+### 相关话题
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "叶值的最小代价生成树"
 date:       2019-02-04 21:30:00 +0800
 categories: [Leetcode]
-tags:       []
+tags:       [Stack, Tree, Dynamic Programming]
 permalink:  /problems/minimum-cost-tree-from-leaf-values/
 ---
 
@@ -47,6 +47,11 @@ permalink:  /problems/minimum-cost-tree-from-leaf-values/
 </ul>
 
 {% endraw %}
+
+### 相关话题
+  [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
+  [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ---
 

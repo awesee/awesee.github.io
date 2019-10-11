@@ -3,7 +3,7 @@ layout:     single
 title:      "IP 地址无效化"
 date:       2019-01-13 21:30:00 +0800
 categories: [Leetcode]
-tags:       []
+tags:       [String]
 permalink:  /problems/defanging-an-ip-address/
 ---
 
@@ -38,6 +38,9 @@ permalink:  /problems/defanging-an-ip-address/
 </ul>
 
 {% endraw %}
+
+### 相关话题
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ---
 

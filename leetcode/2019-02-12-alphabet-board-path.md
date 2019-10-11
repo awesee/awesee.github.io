@@ -3,7 +3,7 @@ layout:     single
 title:      "字母板上的路径"
 date:       2019-02-12 21:30:00 +0800
 categories: [Leetcode]
-tags:       []
+tags:       [Hash Table, String]
 permalink:  /problems/alphabet-board-path/
 ---
 
@@ -51,6 +51,10 @@ permalink:  /problems/alphabet-board-path/
 </ul>
 
 {% endraw %}
+
+### 相关话题
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ---
 
