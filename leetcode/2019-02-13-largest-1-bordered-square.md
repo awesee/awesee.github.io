@@ -3,7 +3,7 @@ layout:     single
 title:      "最大的以 1 为边界的正方形"
 date:       2019-02-13 21:30:00 +0800
 categories: [Leetcode]
-tags:       []
+tags:       [Dynamic Programming]
 permalink:  /problems/largest-1-bordered-square/
 ---
 
@@ -38,6 +38,9 @@ permalink:  /problems/largest-1-bordered-square/
 </ul>
 
 {% endraw %}
+
+### 相关话题
+  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ---
 

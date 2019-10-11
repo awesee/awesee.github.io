@@ -3,11 +3,11 @@ layout:     single
 title:      "穿过迷宫的最少移动次数"
 date:       2019-04-25 21:30:00 +0800
 categories: [Leetcode]
-tags:       []
+tags:       [Breadth-first Search]
 permalink:  /problems/minimum-moves-to-reach-target-with-rotations/
 ---
 
-## 5208. 穿过迷宫的最少移动次数 (Hard)
+## 1210. 穿过迷宫的最少移动次数 (Hard)
 
 {% raw %}
 
@@ -69,6 +69,9 @@ permalink:  /problems/minimum-moves-to-reach-target-with-rotations/
 </ul>
 
 {% endraw %}
+
+### 相关话题
+  [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
 
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "等价多米诺骨牌对的数量"
 date:       2019-02-02 21:30:00 +0800
 categories: [Leetcode]
-tags:       []
+tags:       [Array]
 permalink:  /problems/number-of-equivalent-domino-pairs/
 ---
 
@@ -37,6 +37,9 @@ permalink:  /problems/number-of-equivalent-domino-pairs/
 </ul>
 
 {% endraw %}
+
+### 相关话题
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 
 ---
 

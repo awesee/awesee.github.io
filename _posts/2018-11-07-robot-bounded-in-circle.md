@@ -7,7 +7,7 @@ tags:       [Math]
 permalink:  /problems/robot-bounded-in-circle/
 ---
 
-## 1041. 困于环中的机器人 (Easy)
+## 1041. 困于环中的机器人 (Medium)
 
 {% raw %}
 

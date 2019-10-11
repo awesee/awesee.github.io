@@ -3,7 +3,7 @@ layout:     single
 title:      "反转每对括号间的子串"
 date:       2019-04-05 21:30:00 +0800
 categories: [Leetcode]
-tags:       []
+tags:       [Stack]
 permalink:  /problems/reverse-substrings-between-each-pair-of-parentheses/
 ---
 
@@ -54,6 +54,9 @@ permalink:  /problems/reverse-substrings-between-each-pair-of-parentheses/
 </ul>
 
 {% endraw %}
+
+### 相关话题
+  [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
 
 ---
 

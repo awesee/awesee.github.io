@@ -3,7 +3,7 @@ layout:     single
 title:      "使数组严格递增"
 date:       2019-04-02 21:30:00 +0800
 categories: [Leetcode]
-tags:       []
+tags:       [Dynamic Programming]
 permalink:  /problems/make-array-strictly-increasing/
 ---
 
@@ -51,6 +51,9 @@ permalink:  /problems/make-array-strictly-increasing/
 <p>&nbsp;</p>
 
 {% endraw %}
+
+### 相关话题
+  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ---
 

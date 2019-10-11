@@ -3,7 +3,7 @@ layout:     single
 title:      "第 N 个泰波那契数"
 date:       2019-02-11 21:30:00 +0800
 categories: [Leetcode]
-tags:       []
+tags:       [Recursion]
 permalink:  /problems/n-th-tribonacci-number/
 ---
 
@@ -44,6 +44,9 @@ T_4 = 1 + 1 + 2 = 4
 </ul>
 
 {% endraw %}
+
+### 相关话题
+  [[递归](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]
 
 ### 相似题目
   1. [爬楼梯](/problems/climbing-stairs) (Easy)

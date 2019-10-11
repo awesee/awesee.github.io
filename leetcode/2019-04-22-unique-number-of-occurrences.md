@@ -3,11 +3,11 @@ layout:     single
 title:      "独一无二的出现次数"
 date:       2019-04-22 21:30:00 +0800
 categories: [Leetcode]
-tags:       []
+tags:       [Hash Table]
 permalink:  /problems/unique-number-of-occurrences/
 ---
 
-## 5205. 独一无二的出现次数 (Easy)
+## 1207. 独一无二的出现次数 (Easy)
 
 {% raw %}
 
@@ -45,6 +45,9 @@ permalink:  /problems/unique-number-of-occurrences/
 </ul>
 
 {% endraw %}
+
+### 相关话题
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
 
 ---
 

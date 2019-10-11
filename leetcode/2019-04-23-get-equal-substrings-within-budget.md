@@ -3,11 +3,11 @@ layout:     single
 title:      "尽可能使字符串相等"
 date:       2019-04-23 21:30:00 +0800
 categories: [Leetcode]
-tags:       []
+tags:       [Array, Sliding Window]
 permalink:  /problems/get-equal-substrings-within-budget/
 ---
 
-## 5207. 尽可能使字符串相等 (Medium)
+## 1208. 尽可能使字符串相等 (Medium)
 
 {% raw %}
 
@@ -54,6 +54,10 @@ permalink:  /problems/get-equal-substrings-within-budget/
 </ul>
 
 {% endraw %}
+
+### 相关话题
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Sliding Window](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
 
 ---
 

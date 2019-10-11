@@ -41,6 +41,7 @@ permalink:  /problems/intersection-of-two-arrays/
 
 ### 相似题目
   1. [两个数组的交集 II](/problems/intersection-of-two-arrays-ii) (Easy)
+  1. [三个有序数组的交集](/problems/intersection-of-three-sorted-arrays) (Easy)
 
 ---
 

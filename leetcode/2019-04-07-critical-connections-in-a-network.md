@@ -3,7 +3,7 @@ layout:     single
 title:      "查找集群内的「关键连接」"
 date:       2019-04-07 21:30:00 +0800
 categories: [Leetcode]
-tags:       []
+tags:       [Depth-first Search]
 permalink:  /problems/critical-connections-in-a-network/
 ---
 
@@ -43,6 +43,9 @@ permalink:  /problems/critical-connections-in-a-network/
 </ul>
 
 {% endraw %}
+
+### 相关话题
+  [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
 
 ---
 
