@@ -7,7 +7,7 @@ tags:       [Design, Linked List]
 permalink:  /problems/design-linked-list/
 ---
 
-## 707. 设计链表 (Easy)
+## 707. 设计链表 (Medium)
 
 {% raw %}
 

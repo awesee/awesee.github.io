@@ -4,7 +4,7 @@ title:      "最小区间"
 date:       2017-09-24 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Hash Table, Two Pointers, String]
-permalink:  /smallest-range/
+permalink:  /problems/smallest-range/
 ---
 
 ## 632. 最小区间 (Hard)
@@ -47,4 +47,4 @@ permalink:  /smallest-range/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/smallest-range)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/smallest-range)

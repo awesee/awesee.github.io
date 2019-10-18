@@ -4,7 +4,7 @@ title:      "易混淆数 II"
 date:       2018-12-24 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Math, Backtracking]
-permalink:  /confusing-number-ii/
+permalink:  /problems/confusing-number-ii/
 ---
 
 ## 1088. 易混淆数 II (Hard)
@@ -60,4 +60,4 @@ permalink:  /confusing-number-ii/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/confusing-number-ii)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/confusing-number-ii)
