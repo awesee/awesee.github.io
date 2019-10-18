@@ -4,7 +4,7 @@ title:      "最小元素各数位之和"
 date:       2018-12-21 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array]
-permalink:  /sum-of-digits-in-the-minimum-number/
+permalink:  /problems/sum-of-digits-in-the-minimum-number/
 ---
 
 ## 1085. 最小元素各数位之和 (Easy)
@@ -50,4 +50,4 @@ permalink:  /sum-of-digits-in-the-minimum-number/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/sum-of-digits-in-the-minimum-number)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/sum-of-digits-in-the-minimum-number)

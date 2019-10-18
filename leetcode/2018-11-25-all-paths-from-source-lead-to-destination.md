@@ -4,7 +4,7 @@ title:      "从始点到终点的所有路径"
 date:       2018-11-25 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Depth-first Search, Graph]
-permalink:  /all-paths-from-source-lead-to-destination/
+permalink:  /problems/all-paths-from-source-lead-to-destination/
 ---
 
 ## 1059. 从始点到终点的所有路径 (Hard)
@@ -85,4 +85,4 @@ permalink:  /all-paths-from-source-lead-to-destination/
 
 ---
 
-## [答案](https://github.com/openset/leetcode/tree/master/problems/all-paths-from-source-lead-to-destination)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/all-paths-from-source-lead-to-destination)

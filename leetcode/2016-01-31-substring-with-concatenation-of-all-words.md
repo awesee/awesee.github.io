@@ -24,7 +24,7 @@ permalink:  /problems/substring-with-concatenation-of-all-words/
 <strong>  words = </strong>[&quot;foo&quot;,&quot;bar&quot;]
 <strong>输出：</strong><code>[0,9]</code>
 <strong>解释：</strong>
-从索引 0 和 9 开始的子串分别是 &quot;barfoor&quot; 和 &quot;foobar&quot; 。
+从索引 0 和 9 开始的子串分别是 &quot;barfoo&quot; 和 &quot;foobar&quot; 。
 输出的顺序不重要, [9,0] 也是有效答案。
 </pre>
 
@@ -33,7 +33,7 @@ permalink:  /problems/substring-with-concatenation-of-all-words/
 <pre><strong>输入：
   s =</strong> &quot;wordgoodgoodgoodbestword&quot;,
 <strong>  words = </strong>[&quot;word&quot;,&quot;good&quot;,&quot;best&quot;,&quot;word&quot;]
-<code><span style=""><strong>输出：</strong></span>[]</code>
+<code><strong>输出：</strong>[]</code>
 </pre>
 
 {% endraw %}

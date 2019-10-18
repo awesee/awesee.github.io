@@ -4,7 +4,7 @@ title:      "重新排列日志文件"
 date:       2018-07-26 21:30:00 +0800
 categories: [Leetcode]
 tags:       [String]
-permalink:  /problems/reorder-log-files/
+permalink:  /problems/reorder-data-in-log-files/
 ---
 
 ## 937. 重新排列日志文件 (Easy)
@@ -51,4 +51,4 @@ permalink:  /problems/reorder-log-files/
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/reorder-log-files)
+## [解法](https://github.com/openset/leetcode/tree/master/problems/reorder-data-in-log-files)
