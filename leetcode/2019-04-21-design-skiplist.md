@@ -17,7 +17,7 @@ permalink:  /problems/design-skiplist/
 
 <p>例如，一个跳表包含 [30, 40, 50, 60, 70, 90]，然后增加 80、45 到跳表中，以下图的方式操作：</p>
 
-<p><img alt="" src="https://assets.leetcode.com/uploads/2019/09/27/1506_skiplist.gif" style="width:500px" /><br />
+<p><img alt="" src="https://assets.leetcode.com/uploads/2019/09/27/1506_skiplist.gif" style="width: 500px;"><br>
 <small>Artyom Kalinin [CC BY-SA 3.0], via <a href="https://commons.wikimedia.org/wiki/File:Skip_list_add_element-en.gif" target="_blank" title="Artyom Kalinin [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons">Wikimedia Commons</a></small></p>
 
 <p>跳表中有很多层，每一层是一个短的链表。在第一层的作用下，增加、删除和搜索操作的时间复杂度不超过 O(n)。跳表的每一个操作的平均时间复杂度是 O(log(n))，空间复杂度是 O(n)。</p>
@@ -27,7 +27,7 @@ permalink:  /problems/design-skiplist/
 <ul>
 	<li><code>bool search(int target)</code> : 返回target是否存在于跳表中。</li>
 	<li><code>void add(int num)</code>:&nbsp;插入一个元素到跳表。</li>
-	<li><code>bool erase(int num)</code>: 在跳表中删除一个值，如果&nbsp;<code>num</code>&nbsp;不存在，直接返回false. 如果存在多个&nbsp;<code>num</code>&nbsp;，将它们全部删除。</li>
+	<li><code>bool erase(int num)</code>: 在跳表中删除一个值，如果&nbsp;<code>num</code>&nbsp;不存在，直接返回false. 如果存在多个&nbsp;<code>num</code>&nbsp;，删除其中任意一个即可。</li>
 </ul>
 
 <p>了解更多 :&nbsp;<a href="https://en.wikipedia.org/wiki/Skip_list" target="_blank">https://en.wikipedia.org/wiki/Skip_list</a></p>
@@ -36,8 +36,7 @@ permalink:  /problems/design-skiplist/
 
 <p><strong>样例:</strong></p>
 
-<pre>
-Skiplist skiplist = new Skiplist();
+<pre>Skiplist skiplist = new Skiplist();
 
 skiplist.add(1);
 skiplist.add(2);
