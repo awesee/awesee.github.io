@@ -1,7 +1,5 @@
 ;(function ($) {
-    $(document).ready(function () {
-        $(".page__footer").css("position", "absolute");
-    });
+
 })(jQuery);
 // 百度自动推送工具
 (function () {
