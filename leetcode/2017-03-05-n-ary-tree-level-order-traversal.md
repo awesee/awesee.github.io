@@ -7,7 +7,7 @@ tags:       [Tree, Breadth-first Search]
 permalink:  /problems/n-ary-tree-level-order-traversal/
 ---
 
-## 429. N叉树的层序遍历 (Easy)
+## 429. N叉树的层序遍历 (Medium)
 
 {% raw %}
 
