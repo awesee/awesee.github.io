@@ -7,7 +7,7 @@ tags:       [Greedy, String]
 permalink:  /problems/minimum-swaps-to-make-strings-equal/
 ---
 
-## 1247. 交换字符使得字符串相同 (Easy)
+## 1247. 交换字符使得字符串相同 (Medium)
 
 {% raw %}
 
