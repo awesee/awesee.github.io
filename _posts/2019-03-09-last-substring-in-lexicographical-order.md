@@ -33,7 +33,7 @@ permalink:  /problems/last-substring-in-lexicographical-order/
 <p><strong>提示：</strong></p>
 
 <ol>
-	<li><code>1 &lt;= s.length &lt;= 10^5</code></li>
+	<li><code>1 &lt;= s.length &lt;= 4 * 10^5</code></li>
 	<li>s 仅含有小写英文字符。</li>
 </ol>
 
