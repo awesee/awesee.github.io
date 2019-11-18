@@ -51,6 +51,7 @@ permalink:  /problems/lowest-common-ancestor-of-a-binary-tree/
 
 ### 相似题目
   1. [二叉搜索树的最近公共祖先](/problems/lowest-common-ancestor-of-a-binary-search-tree) (Easy)
+  1. [最小公共区域](/problems/smallest-common-region) (Medium)
 
 ---
 

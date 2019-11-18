@@ -47,6 +47,8 @@ permalink:  /problems/trips-and-users/
 
 <p>写一段 SQL 语句查出&nbsp;<strong>2013年10月1日&nbsp;</strong>至&nbsp;<strong>2013年10月3日&nbsp;</strong>期间非禁止用户的取消率。基于上表，你的 SQL 语句应返回如下结果，取消率（Cancellation Rate）保留两位小数。</p>
 
+<p>取消率的计算方式如下：(被司机或乘客取消的非禁止用户生成的订单数量) / (非禁止用户生成的订单总数)</p>
+
 <pre>+------------+-------------------+
 |     Day    | Cancellation Rate |
 +------------+-------------------+
