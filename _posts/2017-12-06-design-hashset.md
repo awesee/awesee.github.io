@@ -39,7 +39,7 @@ hashSet.contains(2); &nbsp;&nbsp;&nbsp;// 返回  false (已经被删除)
 <strong>注意：</strong></p>
 
 <ul>
-	<li>所有的值都在&nbsp;<code>[1, 1000000]</code>的范围内。</li>
+	<li>所有的值都在&nbsp;<code>[0, 1000000]</code>的范围内。</li>
 	<li>操作的总数目在<code>[1, 10000]</code>范围内。</li>
 	<li>不要使用内建的哈希集合库。</li>
 </ul>

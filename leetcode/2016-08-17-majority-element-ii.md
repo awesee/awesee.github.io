@@ -31,7 +31,7 @@ permalink:  /problems/majority-element-ii/
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 
 ### 相似题目
-  1. [求众数](/problems/majority-element) (Easy)
+  1. [多数元素](/problems/majority-element) (Easy)
   1. [检查一个数是否在数组中占绝大多数](/problems/check-if-a-number-is-majority-element-in-a-sorted-array) (Easy)
 
 ---
