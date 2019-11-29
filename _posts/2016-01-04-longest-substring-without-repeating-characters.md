@@ -44,7 +44,7 @@ permalink:  /problems/longest-substring-without-repeating-characters/
   [[Sliding Window](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
 
 ### 相似题目
-  1. [至多包含两个不同字符的最长子串](/problems/longest-substring-with-at-most-two-distinct-characters) (Hard)
+  1. [至多包含两个不同字符的最长子串](/problems/longest-substring-with-at-most-two-distinct-characters) (Medium)
   1. [至多包含 K 个不同字符的最长子串](/problems/longest-substring-with-at-most-k-distinct-characters) (Hard)
   1. [K 个不同整数的子数组](/problems/subarrays-with-k-different-integers) (Hard)
 

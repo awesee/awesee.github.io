@@ -26,14 +26,21 @@ permalink:  /problems/populating-next-right-pointers-in-each-node-ii/
 
 <p>&nbsp;</p>
 
+<p><strong>进阶：</strong></p>
+
+<ul>
+	<li>你只能使用常量级额外空间。</li>
+	<li>使用递归解题也符合要求，本题中递归程序占用的栈空间不算做额外的空间复杂度。</li>
+</ul>
+
+<p>&nbsp;</p>
+
 <p><strong>示例：</strong></p>
 
 <p><img alt="" src="https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2019/02/15/117_sample.png" style="height: 218px; width: 640px;"></p>
 
-<pre><strong>输入：</strong>{&quot;$id&quot;:&quot;1&quot;,&quot;left&quot;:{&quot;$id&quot;:&quot;2&quot;,&quot;left&quot;:{&quot;$id&quot;:&quot;3&quot;,&quot;left&quot;:null,&quot;next&quot;:null,&quot;right&quot;:null,&quot;val&quot;:4},&quot;next&quot;:null,&quot;right&quot;:{&quot;$id&quot;:&quot;4&quot;,&quot;left&quot;:null,&quot;next&quot;:null,&quot;right&quot;:null,&quot;val&quot;:5},&quot;val&quot;:2},&quot;next&quot;:null,&quot;right&quot;:{&quot;$id&quot;:&quot;5&quot;,&quot;left&quot;:null,&quot;next&quot;:null,&quot;right&quot;:{&quot;$id&quot;:&quot;6&quot;,&quot;left&quot;:null,&quot;next&quot;:null,&quot;right&quot;:null,&quot;val&quot;:7},&quot;val&quot;:3},&quot;val&quot;:1}
-
-<strong>输出：</strong>{&quot;$id&quot;:&quot;1&quot;,&quot;left&quot;:{&quot;$id&quot;:&quot;2&quot;,&quot;left&quot;:{&quot;$id&quot;:&quot;3&quot;,&quot;left&quot;:null,&quot;next&quot;:{&quot;$id&quot;:&quot;4&quot;,&quot;left&quot;:null,&quot;next&quot;:{&quot;$id&quot;:&quot;5&quot;,&quot;left&quot;:null,&quot;next&quot;:null,&quot;right&quot;:null,&quot;val&quot;:7},&quot;right&quot;:null,&quot;val&quot;:5},&quot;right&quot;:null,&quot;val&quot;:4},&quot;next&quot;:{&quot;$id&quot;:&quot;6&quot;,&quot;left&quot;:null,&quot;next&quot;:null,&quot;right&quot;:{&quot;$ref&quot;:&quot;5&quot;},&quot;val&quot;:3},&quot;right&quot;:{&quot;$ref&quot;:&quot;4&quot;},&quot;val&quot;:2},&quot;next&quot;:null,&quot;right&quot;:{&quot;$ref&quot;:&quot;6&quot;},&quot;val&quot;:1}
-
+<pre><strong>输入</strong>：root = [1,2,3,4,5,null,7]
+<strong>输出：</strong>[1,#,2,3,#,4,5,7,#]
 <strong>解释：</strong>给定二叉树如图 A 所示，你的函数应该填充它的每个 next 指针，以指向其下一个右侧节点，如图 B 所示。</pre>
 
 <p>&nbsp;</p>
@@ -41,8 +48,13 @@ permalink:  /problems/populating-next-right-pointers-in-each-node-ii/
 <p><strong>提示：</strong></p>
 
 <ul>
-	<li>你只能使用常量级额外空间。</li>
-	<li>使用递归解题也符合要求，本题中递归程序占用的栈空间不算做额外的空间复杂度。</li>
+	<li>树中的节点数小于 <code>6000</code></li>
+	<li><code>-100&nbsp;&lt;= node.val &lt;= 100</code></li>
+</ul>
+
+<p>&nbsp;</p>
+
+<ul>
 </ul>
 
 {% endraw %}

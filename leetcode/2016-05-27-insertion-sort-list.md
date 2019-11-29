@@ -49,7 +49,7 @@ permalink:  /problems/insertion-sort-list/
 
 ### 相似题目
   1. [排序链表](/problems/sort-list) (Medium)
-  1. [循环有序列表的插入](/problems/insert-into-a-cyclic-sorted-list) (Medium)
+  1. [循环有序列表的插入](/problems/insert-into-a-sorted-circular-linked-list) (Medium)
 
 ---
 
