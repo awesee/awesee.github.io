@@ -28,7 +28,7 @@ func PrintNow() {
 ```go
 func PrintNow() {
 	for {
-		time.Sleep(time.Millisecond)
+		time.Sleep(time.Second)
 		fmt.Println(time.Now())
 	}
 }
