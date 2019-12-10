@@ -7,7 +7,7 @@ tags:       [Math]
 permalink:  /problems/reach-a-number/
 ---
 
-## 754. 到达终点数字 (Easy)
+## 754. 到达终点数字 (Medium)
 
 {% raw %}
 
