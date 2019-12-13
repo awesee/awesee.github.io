@@ -27,7 +27,7 @@ permalink:  /problems/add-to-array-form-of-integer/
 <strong>解释：</strong>1200 + 34 = 1234
 </pre>
 
-<p><strong>解释 2：</strong></p>
+<p><strong>示例 2：</strong></p>
 
 <pre><strong>输入：</strong>A = [2,7,4], K = 181
 <strong>输出：</strong>[4,5,5]
