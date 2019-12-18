@@ -25,33 +25,29 @@ permalink:  /problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-m
 
 <p><strong>示例&nbsp;1：</strong></p>
 
-<p><img alt="" src="https://assets.leetcode.com/uploads/2019/11/28/matrix.png" style="height:86px; width:409px" /></p>
+<p><img alt="" src="https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2019/12/13/matrix.png" style="height: 86px; width: 409px;"></p>
 
-<pre>
-<strong>输入：</strong>mat = [[0,0],[0,1]]
+<pre><strong>输入：</strong>mat = [[0,0],[0,1]]
 <strong>输出：</strong>3
 <strong>解释：</strong>一个可能的解是反转 (1, 0)，然后 (0, 1) ，最后是 (1, 1) 。
 </pre>
 
 <p><strong>示例 2：</strong></p>
 
-<pre>
-<strong>输入：</strong>mat = [[0]]
+<pre><strong>输入：</strong>mat = [[0]]
 <strong>输出：</strong>0
 <strong>解释：</strong>给出的矩阵是全零矩阵，所以你不需要改变它。
 </pre>
 
 <p><strong>示例 3：</strong></p>
 
-<pre>
-<strong>输入：</strong>mat = [[1,1,1],[1,0,1],[0,0,0]]
+<pre><strong>输入：</strong>mat = [[1,1,1],[1,0,1],[0,0,0]]
 <strong>输出：</strong>6
 </pre>
 
 <p><strong>示例 4：</strong></p>
 
-<pre>
-<strong>输入：</strong>mat = [[1,0,0],[1,0,0]]
+<pre><strong>输入：</strong>mat = [[1,0,0],[1,0,0]]
 <strong>输出：</strong>-1
 <strong>解释：</strong>该矩阵无法转变成全零矩阵
 </pre>
