@@ -18,7 +18,7 @@ permalink:  /problems/lowest-common-ancestor-of-deepest-leaves/
 <ul>
 	<li><strong>叶节点</strong> 是二叉树中没有子节点的节点</li>
 	<li>树的根节点的&nbsp;<strong>深度&nbsp;</strong>为&nbsp;<code>0</code>，如果某一节点的深度为&nbsp;<code>d</code>，那它的子节点的深度就是&nbsp;<code>d+1</code></li>
-	<li>如果我们假定 <code>A</code> 是一组节点&nbsp;<code>S</code>&nbsp;的 <strong>最近公共祖先</strong>，&lt;font color="#c7254e" face="Menlo, Monaco, Consolas, Courier New, monospace"&gt;<span style="">S</span>&lt;/font&gt;&nbsp;中的每个节点都在以 <code>A</code> 为根节点的子树中，且 <code>A</code>&nbsp;的深度达到此条件下可能的最大值。</li>
+	<li>如果我们假定 <code>A</code> 是一组节点&nbsp;<code>S</code>&nbsp;的 <strong>最近公共祖先</strong>，<code>S</code>&nbsp;中的每个节点都在以 <code>A</code> 为根节点的子树中，且 <code>A</code>&nbsp;的深度达到此条件下可能的最大值。</li>
 </ul>
 
 <p>&nbsp;</p>
