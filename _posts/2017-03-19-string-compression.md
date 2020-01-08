@@ -79,7 +79,7 @@ permalink:  /problems/string-compression/
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ### 相似题目
-  1. [报数](/problems/count-and-say) (Easy)
+  1. [外观数列](/problems/count-and-say) (Easy)
   1. [字符串的编码与解码](/problems/encode-and-decode-strings) (Medium)
   1. [迭代压缩字符串](/problems/design-compressed-string-iterator) (Easy)
 
