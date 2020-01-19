@@ -17,8 +17,8 @@ permalink:  /problems/shift-2d-grid/
 
 <ul>
 	<li>位于 <code>grid[i][j]</code>&nbsp;的元素将会移动到&nbsp;<code>grid[i][j + 1]</code>。</li>
-	<li>位于&nbsp;<code>grid[i][m - 1]</code> 的元素将会移动到&nbsp;<code>grid[i + 1][0]</code>。</li>
-	<li>位于 <code>grid[n - 1][m - 1]</code>&nbsp;的元素将会移动到&nbsp;<code>grid[0][0]</code>。</li>
+	<li>位于&nbsp;<code>grid[i][n&nbsp;- 1]</code> 的元素将会移动到&nbsp;<code>grid[i + 1][0]</code>。</li>
+	<li>位于 <code>grid[m&nbsp;- 1][&nbsp;- 1]</code>&nbsp;的元素将会移动到&nbsp;<code>grid[0][0]</code>。</li>
 </ul>
 
 <p>请你返回&nbsp;<code>k</code> 次迁移操作后最终得到的 <strong>二维网格</strong>。</p>
