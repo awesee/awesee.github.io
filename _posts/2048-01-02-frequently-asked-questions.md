@@ -6,6 +6,11 @@ categories: [Guide]
 tags: [Guide]
 ---
 
+## M3U8 Download
+```bash
+$ ffmpeg -i https://example.com/index.m3u8 -c copy out.flv
+```
+
 ## Mac 允许任何来源
 ```bash
 $ sudo spctl --master-disable
