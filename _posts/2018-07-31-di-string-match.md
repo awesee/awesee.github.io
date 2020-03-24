@@ -44,7 +44,7 @@ permalink:  /problems/di-string-match/
 <p><strong>提示：</strong></p>
 
 <ol>
-	<li><code>1 &lt;= S.length &lt;= 1000</code></li>
+	<li><code>1 &lt;= S.length &lt;= 10000</code></li>
 	<li><code>S</code> 只包含字符&nbsp;<code>&quot;I&quot;</code>&nbsp;或&nbsp;<code>&quot;D&quot;</code>。</li>
 </ol>
 

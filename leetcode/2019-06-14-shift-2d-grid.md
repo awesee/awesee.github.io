@@ -11,14 +11,14 @@ permalink:  /problems/shift-2d-grid/
 
 {% raw %}
 
-<p>给你一个 <code>n</code> 行 <code>m</code> 列的二维网格&nbsp;<code>grid</code>&nbsp;和一个整数&nbsp;<code>k</code>。你需要将&nbsp;<code>grid</code>&nbsp;迁移&nbsp;<code>k</code>&nbsp;次。</p>
+<p>给你一个 <code>m</code> 行 <code>n</code>&nbsp;列的二维网格&nbsp;<code>grid</code>&nbsp;和一个整数&nbsp;<code>k</code>。你需要将&nbsp;<code>grid</code>&nbsp;迁移&nbsp;<code>k</code>&nbsp;次。</p>
 
 <p>每次「迁移」操作将会引发下述活动：</p>
 
 <ul>
 	<li>位于 <code>grid[i][j]</code>&nbsp;的元素将会移动到&nbsp;<code>grid[i][j + 1]</code>。</li>
 	<li>位于&nbsp;<code>grid[i][n&nbsp;- 1]</code> 的元素将会移动到&nbsp;<code>grid[i + 1][0]</code>。</li>
-	<li>位于 <code>grid[m&nbsp;- 1][&nbsp;- 1]</code>&nbsp;的元素将会移动到&nbsp;<code>grid[0][0]</code>。</li>
+	<li>位于 <code>grid[m&nbsp;- 1][n - 1]</code>&nbsp;的元素将会移动到&nbsp;<code>grid[0][0]</code>。</li>
 </ul>
 
 <p>请你返回&nbsp;<code>k</code> 次迁移操作后最终得到的 <strong>二维网格</strong>。</p>

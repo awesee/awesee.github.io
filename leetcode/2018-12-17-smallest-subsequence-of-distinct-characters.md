@@ -48,6 +48,10 @@ permalink:  /problems/smallest-subsequence-of-distinct-characters/
 	<li><code>text</code>&nbsp;由小写英文字母组成</li>
 </ol>
 
+<p>&nbsp;</p>
+
+<p><strong>注意：</strong>本题目与 316 <a href="https://leetcode-cn.com/problems/remove-duplicate-letters/">https://leetcode-cn.com/problems/remove-duplicate-letters/</a> 相同</p>
+
 {% endraw %}
 
 ### 相关话题

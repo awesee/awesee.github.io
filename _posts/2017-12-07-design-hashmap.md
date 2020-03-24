@@ -21,11 +21,10 @@ permalink:  /problems/design-hashmap/
 	<li><code>remove(key)</code>：如果映射中存在这个键，删除这个数值对。</li>
 </ul>
 
-<p><br />
+<p><br>
 <strong>示例：</strong></p>
 
-<pre>
-MyHashMap hashMap = new MyHashMap();
+<pre>MyHashMap hashMap = new MyHashMap();
 hashMap.put(1, 1); &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 hashMap.put(2, 2); &nbsp; &nbsp; &nbsp; &nbsp; 
 hashMap.get(1); &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;// 返回 1
@@ -36,11 +35,11 @@ hashMap.remove(2); &nbsp; &nbsp; &nbsp; &nbsp; // 删除键为2的数据
 hashMap.get(2); &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;// 返回 -1 (未找到) 
 </pre>
 
-<p><br />
+<p><br>
 <strong>注意：</strong></p>
 
 <ul>
-	<li>所有的值都在&nbsp;<code>[1, 1000000]</code>的范围内。</li>
+	<li>所有的值都在&nbsp;<code>[0, 1000000]</code>的范围内。</li>
 	<li>操作的总数目在<code>[1, 10000]</code>范围内。</li>
 	<li>不要使用内建的哈希库。</li>
 </ul>

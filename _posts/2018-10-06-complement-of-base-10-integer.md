@@ -15,7 +15,7 @@ permalink:  /problems/complement-of-base-10-integer/
 
 <p>二进制的反码表示是将每个&nbsp;<code>1</code>&nbsp;改为&nbsp;<code>0</code>&nbsp;且每个&nbsp;<code>0</code>&nbsp;变为&nbsp;<code>1</code>。例如，二进制数&nbsp;<code>&quot;101&quot;</code>&nbsp;的二进制反码为&nbsp;<code>&quot;010&quot;</code>。</p>
 
-<p>给定十进制数&nbsp;<code>N</code>，返回其二进制表示的反码所对应的十进制整数。</p>
+<p>给你一个十进制数&nbsp;<code>N</code>，请你返回其二进制表示的反码所对应的十进制整数。</p>
 
 <p>&nbsp;</p>
 
@@ -49,6 +49,7 @@ permalink:  /problems/complement-of-base-10-integer/
 
 <ol>
 	<li><code>0 &lt;= N &lt; 10^9</code></li>
+	<li>本题与 476：<a href="https://leetcode-cn.com/problems/number-complement/">https://leetcode-cn.com/problems/number-complement/</a> 相同</li>
 </ol>
 
 {% endraw %}

@@ -11,7 +11,7 @@ permalink:  /problems/increasing-order-search-tree/
 
 {% raw %}
 
-<p>给定一个树，<strong>按中序遍历</strong>重新排列树，使树中最左边的结点现在是树的根，并且每个结点没有左子结点，只有一个右子结点。</p>
+<p>给你一个树，请你 <strong>按中序遍历</strong> 重新排列树，使树中最左边的结点现在是树的根，并且每个结点没有左子结点，只有一个右子结点。</p>
 
 <p>&nbsp;</p>
 
@@ -52,8 +52,8 @@ permalink:  /problems/increasing-order-search-tree/
 <p><strong>提示：</strong></p>
 
 <ol>
-	<li>给定树中的结点数介于 1 和&nbsp;100 之间。</li>
-	<li>每个结点都有一个从 0 到 1000 范围内的唯一整数值。</li>
+	<li>给定树中的结点数介于 <code>1</code> 和&nbsp;<code>100</code> 之间。</li>
+	<li>每个结点都有一个从 <code>0</code> 到 <code>1000</code> 范围内的唯一整数值。</li>
 </ol>
 
 {% endraw %}

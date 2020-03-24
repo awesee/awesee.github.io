@@ -15,8 +15,7 @@ permalink:  /problems/k-th-smallest-prime-fraction/
 
 <p>那么第&nbsp;<code>k</code>&nbsp;个最小的分数是多少呢?&nbsp; 以整数数组的形式返回你的答案, 这里&nbsp;<code>answer[0] = p</code>&nbsp;且&nbsp;<code>answer[1] = q</code>.</p>
 
-<pre>
-<strong>示例:</strong>
+<pre><strong>示例:</strong>
 <strong>输入:</strong> A = [1, 2, 3, 5], K = 3
 <strong>输出:</strong> [2, 5]
 <strong>解释:</strong>
@@ -31,7 +30,7 @@ permalink:  /problems/k-th-smallest-prime-fraction/
 <p><strong>注意:</strong></p>
 
 <ul>
-	<li><code>A</code> 的取值范围在 <code>2</code> &mdash; <code>2000</code>.</li>
+	<li><code>A</code> 长度的取值范围在 <code>2</code> &mdash; <code>2000</code>.</li>
 	<li>每个&nbsp;<code>A[i]</code> 的值在 <code>1</code> &mdash;<code>30000</code>.</li>
 	<li><code>K</code> 取值范围为 <code>1</code> &mdash;<code>A.length * (A.length - 1) / 2</code></li>
 </ul>

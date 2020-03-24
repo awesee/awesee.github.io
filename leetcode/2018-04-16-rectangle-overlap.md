@@ -17,6 +17,8 @@ permalink:  /problems/rectangle-overlap/
 
 <p>给出两个矩形，判断它们是否重叠并返回结果。</p>
 
+<p>&nbsp;</p>
+
 <p><strong>示例 1：</strong></p>
 
 <pre><strong>输入：</strong>rec1 = [0,0,2,2], rec2 = [1,1,3,3]
@@ -29,11 +31,15 @@ permalink:  /problems/rectangle-overlap/
 <strong>输出：</strong>false
 </pre>
 
-<p><strong>说明：</strong></p>
+<p>&nbsp;</p>
+
+<p><strong>提示：</strong></p>
 
 <ol>
 	<li>两个矩形 <code>rec1</code> 和 <code>rec2</code> 都以含有四个整数的列表的形式给出。</li>
 	<li>矩形中的所有坐标都处于 <code>-10^9</code> 和 <code>10^9</code> 之间。</li>
+	<li><code>x</code> 轴默认指向右，<code>y</code> 轴默认指向上。</li>
+	<li>你可以仅考虑矩形是正放的情况。</li>
 </ol>
 
 {% endraw %}

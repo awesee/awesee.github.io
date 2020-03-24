@@ -13,28 +13,34 @@ permalink:  /problems/number-complement/
 
 <p>给定一个正整数，输出它的补数。补数是对该数的二进制表示取反。</p>
 
-<p><strong>注意:</strong></p>
+<p>&nbsp;</p>
 
 <ol>
-	<li>给定的整数保证在32位带符号整数的范围内。</li>
-	<li>你可以假定二进制数不包含前导零位。</li>
 </ol>
 
 <p><strong>示例 1:</strong></p>
 
-<pre>
-<strong>输入:</strong> 5
+<pre><strong>输入:</strong> 5
 <strong>输出:</strong> 2
-<strong>解释:</strong> 5的二进制表示为101（没有前导零位），其补数为010。所以你需要输出2。
+<strong>解释:</strong> 5 的二进制表示为 101（没有前导零位），其补数为 010。所以你需要输出 2 。
 </pre>
 
 <p><strong>示例 2:</strong></p>
 
-<pre>
-<strong>输入:</strong> 1
+<pre><strong>输入:</strong> 1
 <strong>输出:</strong> 0
-<strong>解释:</strong> 1的二进制表示为1（没有前导零位），其补数为0。所以你需要输出0。
+<strong>解释:</strong> 1 的二进制表示为 1（没有前导零位），其补数为 0。所以你需要输出 0 。
 </pre>
+
+<p>&nbsp;</p>
+
+<p><strong>注意:</strong></p>
+
+<ol>
+	<li>给定的整数保证在 32 位带符号整数的范围内。</li>
+	<li>你可以假定二进制数不包含前导零位。</li>
+	<li>本题与 1009 <a href="https://leetcode-cn.com/problems/complement-of-base-10-integer/">https://leetcode-cn.com/problems/complement-of-base-10-integer/</a> 相同</li>
+</ol>
 
 {% endraw %}
 

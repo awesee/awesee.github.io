@@ -15,7 +15,7 @@ permalink:  /problems/find-words-that-can-be-formed-by-characters/
 
 <p>假如你可以用&nbsp;<code>chars</code>&nbsp;中的『字母』（字符）拼写出 <code>words</code>&nbsp;中的某个『单词』（字符串），那么我们就认为你掌握了这个单词。</p>
 
-<p>注意：每次拼写时，<code>chars</code> 中的每个字母都只能用一次。</p>
+<p>注意：每次拼写（指拼写词汇表中的一个单词）时，<code>chars</code> 中的每个字母都只能用一次。</p>
 
 <p>返回词汇表&nbsp;<code>words</code>&nbsp;中你掌握的所有单词的 <strong>长度之和</strong>。</p>
 

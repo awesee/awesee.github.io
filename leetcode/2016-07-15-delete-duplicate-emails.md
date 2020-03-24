@@ -33,6 +33,15 @@ Id 是这个表的主键。
 +----+------------------+
 </pre>
 
+<p>&nbsp;</p>
+
+<p><strong>提示：</strong></p>
+
+<ul>
+	<li>执行 SQL 之后，输出是整个 <code>Person</code>&nbsp;表。</li>
+	<li>使用 <code>delete</code> 语句。</li>
+</ul>
+
 {% endraw %}
 
 ---

@@ -35,7 +35,7 @@ permalink:  /problems/remove-outermost-parentheses/
 <strong>输出：</strong>&quot;()()()()(())&quot;
 <strong>解释：</strong>
 输入字符串为 &quot;(()())(())(()(()))&quot;，原语化分解得到 &quot;(()())&quot; + &quot;(())&quot; + &quot;(()(()))&quot;，
-删除每隔部分中的最外层括号后得到 &quot;()()&quot; + &quot;()&quot; + &quot;()(())&quot; = &quot;()()()()(())&quot;。
+删除每个部分中的最外层括号后得到 &quot;()()&quot; + &quot;()&quot; + &quot;()(())&quot; = &quot;()()()()(())&quot;。
 </pre>
 
 <p><strong>示例 3：</strong></p>

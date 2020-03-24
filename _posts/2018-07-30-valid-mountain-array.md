@@ -20,10 +20,14 @@ permalink:  /problems/valid-mountain-array/
 	<li>在&nbsp;<code>0 &lt; i&nbsp;&lt; A.length - 1</code>&nbsp;条件下，存在&nbsp;<code>i</code>&nbsp;使得：
 	<ul>
 		<li><code>A[0] &lt; A[1] &lt; ... A[i-1] &lt; A[i] </code></li>
-		<li><code>A[i] &gt; A[i+1] &gt; ... &gt; A[B.length - 1]</code></li>
+		<li><code>A[i] &gt; A[i+1] &gt; ... &gt; A[A.length - 1]</code></li>
 	</ul>
 	</li>
 </ul>
+
+<p>&nbsp;</p>
+
+<p><img alt="" src="https://assets.leetcode.com/uploads/2019/10/20/hint_valid_mountain_array.png" style="height: 316px; width: 500px;"></p>
 
 <p>&nbsp;</p>
 

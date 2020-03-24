@@ -19,7 +19,7 @@ permalink:  /problems/the-dining-philosophers/
 
 <p>设计一个进餐规则（并行算法）使得每个哲学家都不会挨饿；也就是说，在没有人知道别人什么时候想吃东西或思考的情况下，每个哲学家都可以在吃饭和思考之间一直交替下去。</p>
 
-<p><img alt="" src="https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2019/10/23/an_illustration_of_the_dining_philosophers_problem.png" style="height:415px; width:400px" /></p>
+<p><img alt="" src="https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2019/10/23/an_illustration_of_the_dining_philosophers_problem.png" style="height: 415px; width: 400px;"></p>
 
 <p><em>问题描述和图片来自维基百科&nbsp;<a href="https://en.wikipedia.org/wiki/Dining_philosophers_problem" target="_blank">wikipedia.org</a></em></p>
 
@@ -31,7 +31,7 @@ permalink:  /problems/the-dining-philosophers/
 	<li><code>philosopher</code>&nbsp;哲学家的编号。</li>
 	<li><code>pickLeftFork</code>&nbsp;和&nbsp;<code>pickRightFork</code>&nbsp;表示拿起左边或右边的叉子。</li>
 	<li><code>eat</code>&nbsp;表示吃面。</li>
-	<li><code>putLeftFork</code>&nbsp;和&nbsp;<code>pickRightFork</code>&nbsp;表示放下左边或右边的叉子。</li>
+	<li><code>putLeftFork</code>&nbsp;和&nbsp;<code>putRightFork</code>&nbsp;表示放下左边或右边的叉子。</li>
 	<li>由于哲学家不是在吃面就是在想着啥时候吃面，所以思考这个方法没有对应的回调。</li>
 </ul>
 
@@ -41,8 +41,7 @@ permalink:  /problems/the-dining-philosophers/
 
 <p><strong>示例：</strong></p>
 
-<pre>
-<strong>输入：</strong>n = 1
+<pre><strong>输入：</strong>n = 1
 <strong>输出：</strong>[[4,2,1],[4,1,1],[0,1,1],[2,2,1],[2,1,1],[2,0,3],[2,1,2],[2,2,2],[4,0,3],[4,1,2],[0,2,1],[4,2,2],[3,2,1],[3,1,1],[0,0,3],[0,1,2],[0,2,2],[1,2,1],[1,1,1],[3,0,3],[3,1,2],[3,2,2],[1,0,3],[1,1,2],[1,2,2]]
 <strong>解释:</strong>
 n 表示每个哲学家需要进餐的次数。
