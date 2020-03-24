@@ -17,7 +17,7 @@ permalink:  /problems/get-watched-videos-by-your-friends/
 
 <p>Level&nbsp;<strong>1</strong>&nbsp;的视频包含所有你好友观看过的视频，level&nbsp;<strong>2</strong>&nbsp;的视频包含所有你好友的好友观看过的视频，以此类推。一般的，Level 为 <strong>k</strong>&nbsp;的视频包含所有从你出发，最短距离为&nbsp;<strong>k</strong>&nbsp;的好友观看过的视频。</p>
 
-<p>给定你的&nbsp;<code>id</code>&nbsp; 和一个&nbsp;<code>level</code>&nbsp;值，请你找出所有指定 <code>level</code> 的视频，并将它们按观看频率升序返回。如果有频率相同的视频，请将它们按名字字典序从小到大排列。</p>
+<p>给定你的&nbsp;<code>id</code>&nbsp; 和一个&nbsp;<code>level</code>&nbsp;值，请你找出所有指定 <code>level</code> 的视频，并将它们按观看频率升序返回。如果有频率相同的视频，请将它们按字母顺序从小到大排列。</p>
 
 <p>&nbsp;</p>
 
@@ -28,7 +28,7 @@ permalink:  /problems/get-watched-videos-by-your-friends/
 <pre><strong>输入：</strong>watchedVideos = [[&quot;A&quot;,&quot;B&quot;],[&quot;C&quot;],[&quot;B&quot;,&quot;C&quot;],[&quot;D&quot;]], friends = [[1,2],[0,3],[0,3],[1,2]], id = 0, level = 1
 <strong>输出：</strong>[&quot;B&quot;,&quot;C&quot;] 
 <strong>解释：</strong>
-你的 id 为 0 ，你的朋友包括：
+你的 id 为 0（绿色），你的朋友包括（黄色）：
 id 为 1 -&gt; watchedVideos = [&quot;C&quot;]&nbsp;
 id 为 2 -&gt; watchedVideos = [&quot;B&quot;,&quot;C&quot;]&nbsp;
 你朋友观看过视频的频率为：
@@ -43,7 +43,7 @@ C -&gt; 2
 <pre><strong>输入：</strong>watchedVideos = [[&quot;A&quot;,&quot;B&quot;],[&quot;C&quot;],[&quot;B&quot;,&quot;C&quot;],[&quot;D&quot;]], friends = [[1,2],[0,3],[0,3],[1,2]], id = 0, level = 2
 <strong>输出：</strong>[&quot;D&quot;]
 <strong>解释：</strong>
-你的 id 为 0 ，你朋友的朋友只有一个人，他的 id 为 3 。
+你的 id 为 0（绿色），你朋友的朋友只有一个人，他的 id 为 3（黄色）。
 </pre>
 
 <p>&nbsp;</p>

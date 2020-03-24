@@ -15,6 +15,8 @@ permalink:  /problems/majority-element/
 
 <p>你可以假设数组是非空的，并且给定的数组总是存在多数元素。</p>
 
+<p>&nbsp;</p>
+
 <p><strong>示例&nbsp;1:</strong></p>
 
 <pre><strong>输入:</strong> [3,2,3]

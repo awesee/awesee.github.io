@@ -14,7 +14,7 @@ permalink:  /problems/distinct-echo-substrings/
 <p>给你一个字符串&nbsp;<code>text</code> ，请你返回满足下述条件的&nbsp;<strong>不同</strong> 非空子字符串的数目：</p>
 
 <ul>
-	<li>可以写成某个字符串与其自身相连接的形式。</li>
+	<li>可以写成某个字符串与其自身相连接的形式（即，可以写为 <code>a&nbsp;+ a</code>，其中 <code>a</code> 是某个字符串）。</li>
 </ul>
 
 <p>例如，<code>abcabc</code>&nbsp;就是&nbsp;<code>abc</code>&nbsp;和它自身连接形成的。</p>
@@ -25,7 +25,7 @@ permalink:  /problems/distinct-echo-substrings/
 
 <pre><strong>输入：</strong>text = &quot;abcabcabc&quot;
 <strong>输出：</strong>3
-<strong>解释：</strong>3 个子字符串分别为 &quot;abcabc&quot; ， &quot;bcabca&quot; 和 &quot;cabcab&quot; 。
+<strong>解释：</strong>3 个子字符串分别为 &quot;abcabc&quot;，&quot;bcabca&quot; 和 &quot;cabcab&quot; 。
 </pre>
 
 <p><strong>示例 2：</strong></p>

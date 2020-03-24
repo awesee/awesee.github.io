@@ -21,7 +21,7 @@ permalink:  /problems/unique-paths/
 
 <p><small>例如，上图是一个7 x 3 的网格。有多少可能的路径？</small></p>
 
-<p><strong>说明：</strong><em>m</em>&nbsp;和 <em>n </em>的值均不超过 100。</p>
+<p>&nbsp;</p>
 
 <p><strong>示例&nbsp;1:</strong></p>
 
@@ -38,6 +38,15 @@ permalink:  /problems/unique-paths/
 
 <pre><strong>输入:</strong> m = 7, n = 3
 <strong>输出:</strong> 28</pre>
+
+<p>&nbsp;</p>
+
+<p><strong>提示：</strong></p>
+
+<ul>
+	<li><code>1 &lt;= m, n &lt;= 100</code></li>
+	<li>题目数据保证答案小于等于 <code>2 * 10 ^ 9</code></li>
+</ul>
 
 {% endraw %}
 

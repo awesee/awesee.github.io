@@ -15,22 +15,24 @@ permalink:  /problems/sliding-window-median/
 
 <p>例如：</p>
 
-<p><code>[2,3,4]</code>，中位数是&nbsp;<code>3</code></p>
+<ul>
+	<li><code>[2,3,4]</code>，中位数是&nbsp;<code>3</code></li>
+	<li><code>[2,3]</code>，中位数是 <code>(2 + 3) / 2 = 2.5</code></li>
+</ul>
 
-<p><code>[2,3]</code>，中位数是 <code>(2 + 3) / 2 = 2.5</code></p>
+<p>给你一个数组 <em>nums</em>，有一个大小为 <em>k</em> 的窗口从最左端滑动到最右端。窗口中有 <em>k</em> 个数，每次窗口向右移动 <em>1</em> 位。你的任务是找出每次窗口移动后得到的新窗口中元素的中位数，并输出由它们组成的数组。</p>
 
-<p>给出一个数组 nums，有一个大小为 <em>k</em> 的窗口从最左端滑动到最右端。窗口中有 k 个数，每次窗口移动 1 位。你的任务是找出每次窗口移动后得到的新窗口中元素的中位数，并输出由它们组成的数组。</p>
+<p>&nbsp;</p>
 
-<p>例如：</p>
+<p><strong>示例：</strong></p>
 
 <p>给出&nbsp;<em>nums</em> = <code>[1,3,-1,-3,5,3,6,7]</code>，以及&nbsp;<em>k</em> = 3。</p>
 
-<pre>
-窗口位置                      中位数
+<pre>窗口位置                      中位数
 ---------------               -----
 [1  3  -1] -3  5  3  6  7       1
- 1 [3  -1  -3] 5  3  6  7       -1
- 1  3 [-1  -3  5] 3  6  7       -1
+ 1 [3  -1  -3] 5  3  6  7      -1
+ 1  3 [-1  -3  5] 3  6  7      -1
  1  3  -1 [-3  5  3] 6  7       3
  1  3  -1  -3 [5  3  6] 7       5
  1  3  -1  -3  5 [3  6  7]      6
@@ -38,8 +40,14 @@ permalink:  /problems/sliding-window-median/
 
 <p>&nbsp;因此，返回该滑动窗口的中位数数组&nbsp;<code>[1,-1,-1,3,5,6]</code>。</p>
 
-<p><strong>提示：</strong><br />
-假设<code>k</code>是合法的，即：<code>k</code> 始终小于输入的非空数组的元素个数.</p>
+<p>&nbsp;</p>
+
+<p><strong>提示：</strong></p>
+
+<ul>
+	<li>你可以假设&nbsp;<code>k</code>&nbsp;始终有效，即：<code>k</code> 始终小于输入的非空数组的元素个数。</li>
+	<li>与真实值误差在 <code>10 ^ -5</code> 以内的答案将被视作正确答案。</li>
+</ul>
 
 {% endraw %}
 

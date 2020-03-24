@@ -21,8 +21,8 @@ permalink:  /problems/subarrays-with-k-different-integers/
 
 <p><strong>示例 1：</strong></p>
 
-<pre><strong>输出：</strong>A = [1,2,1,2,3], K = 2
-<strong>输入：</strong>7
+<pre><strong>输入：</strong>A = [1,2,1,2,3], K = 2
+<strong>输出：</strong>7
 <strong>解释：</strong>恰好由 2 个不同整数组成的子数组：[1,2], [2,1], [1,2], [2,3], [1,2,1], [2,1,2], [1,2,1,2].
 </pre>
 

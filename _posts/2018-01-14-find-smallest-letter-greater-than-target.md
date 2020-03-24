@@ -13,12 +13,18 @@ permalink:  /problems/find-smallest-letter-greater-than-target/
 
 <p>给定一个只包含小写字母的有序数组<code>letters</code>&nbsp;和一个目标字母&nbsp;<code>target</code>，寻找有序数组里面比目标字母大的最小字母。</p>
 
-<p>数组里字母的顺序是循环的。举个例子，如果目标字母<code>target = &#39;z&#39;</code> 并且有序数组为&nbsp;<code>letters = [&#39;a&#39;, &#39;b&#39;]</code>，则答案返回&nbsp;<code>&#39;a&#39;</code>。</p>
+<p>在比较时，数组里字母的是循环有序的。举个例子：</p>
 
-<p><strong>示例:</strong></p>
+<ul>
+	<li>如果目标字母 <code>target = &#39;z&#39;</code> 并且有序数组为&nbsp;<code>letters = [&#39;a&#39;, &#39;b&#39;]</code>，则答案返回&nbsp;<code>&#39;a&#39;</code>。</li>
+	<li>如果目标字母 <code>target = &#39;n&#39;</code> 并且有序数组为&nbsp;<code>letters = [&#39;m&#39;, &#39;z&#39;, &#39;c&#39;, &#39;f&#39;, &#39;j&#39;]</code> ，则答案返回 <code>&#39;z&#39;</code> 。</li>
+</ul>
 
-<pre>
-<strong>输入:</strong>
+<p>&nbsp;</p>
+
+<p><strong>示例：</strong></p>
+
+<pre><strong>输入:</strong>
 letters = [&quot;c&quot;, &quot;f&quot;, &quot;j&quot;]
 target = &quot;a&quot;
 <strong>输出:</strong> &quot;c&quot;
@@ -49,7 +55,9 @@ target = &quot;k&quot;
 <strong>输出:</strong> &quot;c&quot;
 </pre>
 
-<p><strong>注:</strong></p>
+<p>&nbsp;</p>
+
+<p><strong>提示：</strong></p>
 
 <ol>
 	<li><code>letters</code>长度范围在<code>[2, 10000]</code>区间内。</li>

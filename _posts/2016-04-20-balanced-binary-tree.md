@@ -46,6 +46,8 @@ permalink:  /problems/balanced-binary-tree/
 
 <p>返回&nbsp;<code>false</code> 。</p>
 
+<p>&nbsp;</p>
+
 {% endraw %}
 
 ### 相关话题

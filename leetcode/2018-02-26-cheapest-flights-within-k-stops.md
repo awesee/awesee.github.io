@@ -15,8 +15,11 @@ permalink:  /problems/cheapest-flights-within-k-stops/
 
 <p>现在给定所有的城市和航班，以及出发城市 <code>src</code> 和目的地 <code>dst</code>，你的任务是找到从 <code>src</code> 到 <code>dst</code> 最多经过 <code>k</code>&nbsp;站中转的最便宜的价格。 如果没有这样的路线，则输出 <code>-1</code>。</p>
 
-<pre><strong>示例 1:</strong>
-<strong>输入:</strong> 
+<p>&nbsp;</p>
+
+<p><strong>示例 1：</strong></p>
+
+<pre><strong>输入:</strong> 
 n = 3, edges = [[0,1,100],[1,2,100],[0,2,500]]
 src = 0, dst = 2, k = 1
 <strong>输出:</strong> 200
@@ -26,8 +29,9 @@ src = 0, dst = 2, k = 1
 
 从城市 0 到城市 2 在 1 站中转以内的最便宜价格是 200，如图中红色所示。</pre>
 
-<pre><strong>示例 2:</strong>
-<strong>输入:</strong> 
+<p><strong>示例 2：</strong></p>
+
+<pre><strong>输入:</strong> 
 n = 3, edges = [[0,1,100],[1,2,100],[0,2,500]]
 src = 0, dst = 2, k = 0
 <strong>输出:</strong> 500
@@ -36,6 +40,8 @@ src = 0, dst = 2, k = 0
 <img alt="" src="https://s3-lc-upload.s3.amazonaws.com/uploads/2018/02/16/995.png" style="height: 180px; width: 246px;">
 
 从城市 0 到城市 2 在 0 站中转以内的最便宜价格是 500，如图中蓝色所示。</pre>
+
+<p>&nbsp;</p>
 
 <p><strong>提示：</strong></p>
 

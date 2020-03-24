@@ -11,7 +11,7 @@ permalink:  /problems/permutations/
 
 {% raw %}
 
-<p>给定一个<strong>没有重复</strong>数字的序列，返回其所有可能的全排列。</p>
+<p>给定一个<strong> 没有重复</strong> 数字的序列，返回其所有可能的全排列。</p>
 
 <p><strong>示例:</strong></p>
 
