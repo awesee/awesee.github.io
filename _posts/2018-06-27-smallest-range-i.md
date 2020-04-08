@@ -11,7 +11,7 @@ permalink:  /problems/smallest-range-i/
 
 {% raw %}
 
-<p>给定一个整数数组 <code>A</code>，对于每个整数 <code>A[i]</code>，我们可以选择任意&nbsp;<code>x</code> 满足&nbsp;<code>-K &lt;= x &lt;= K</code>，并将&nbsp;<code>x</code>&nbsp;加到&nbsp;<code>A[i]</code>&nbsp;中。</p>
+<p>给你一个整数数组 <code>A</code>，对于每个整数 <code>A[i]</code>，我们可以选择处于区间 <code>[-K, K]</code> 中的任意数 <code>x</code> ，将&nbsp;<code>x</code> 与 <code>A[i]</code> 相加，结果存入 <code>A[i]</code> 。</p>
 
 <p>在此过程之后，我们得到一些数组&nbsp;<code>B</code>。</p>
 

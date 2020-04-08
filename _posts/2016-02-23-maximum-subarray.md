@@ -33,7 +33,7 @@ permalink:  /problems/maximum-subarray/
 
 ### 相似题目
   1. [买卖股票的最佳时机](/problems/best-time-to-buy-and-sell-stock) (Easy)
-  1. [乘积最大子序列](/problems/maximum-product-subarray) (Medium)
+  1. [乘积最大子数组](/problems/maximum-product-subarray) (Medium)
   1. [数组的度](/problems/degree-of-an-array) (Easy)
   1. [最长湍流子数组](/problems/longest-turbulent-subarray) (Medium)
 

@@ -18,7 +18,7 @@ permalink:  /problems/design-a-stack-with-increment-operation/
 <ul>
 	<li><code>CustomStack(int maxSize)</code>：用 <code>maxSize</code> 初始化对象，<code>maxSize</code> 是栈中最多能容纳的元素数量，栈在增长到 <code>maxSize</code> 之后则不支持 <code>push</code> 操作。</li>
 	<li><code>void push(int x)</code>：如果栈还未增长到 <code>maxSize</code> ，就将 <code>x</code> 添加到栈顶。</li>
-	<li><code>int pop()</code>：返回栈顶的值，或栈为空时返回 <strong>-1</strong> 。</li>
+	<li><code>int pop()</code>：弹出栈顶元素，并返回栈顶的值，或栈为空时返回 <strong>-1</strong> 。</li>
 	<li><code>void inc(int k, int val)</code>：栈底的 <code>k</code> 个元素的值都增加 <code>val</code> 。如果栈中元素总数小于 <code>k</code> ，则栈中的所有元素都增加 <code>val</code> 。</li>
 </ul>
 

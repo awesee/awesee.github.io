@@ -36,7 +36,7 @@ permalink:  /problems/house-robber/
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### 相似题目
-  1. [乘积最大子序列](/problems/maximum-product-subarray) (Medium)
+  1. [乘积最大子数组](/problems/maximum-product-subarray) (Medium)
   1. [打家劫舍 II](/problems/house-robber-ii) (Medium)
   1. [粉刷房子](/problems/paint-house) (Easy)
   1. [栅栏涂色](/problems/paint-fence) (Easy)

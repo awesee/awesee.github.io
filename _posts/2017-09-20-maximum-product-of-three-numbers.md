@@ -41,7 +41,7 @@ permalink:  /problems/maximum-product-of-three-numbers/
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
 
 ### 相似题目
-  1. [乘积最大子序列](/problems/maximum-product-subarray) (Medium)
+  1. [乘积最大子数组](/problems/maximum-product-subarray) (Medium)
 
 ---
 

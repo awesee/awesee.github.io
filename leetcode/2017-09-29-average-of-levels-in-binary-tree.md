@@ -38,7 +38,7 @@ permalink:  /problems/average-of-levels-in-binary-tree/
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
 
 ### 相似题目
-  1. [二叉树的层次遍历](/problems/binary-tree-level-order-traversal) (Medium)
+  1. [二叉树的层序遍历](/problems/binary-tree-level-order-traversal) (Medium)
   1. [二叉树的层次遍历 II](/problems/binary-tree-level-order-traversal-ii) (Easy)
 
 ---

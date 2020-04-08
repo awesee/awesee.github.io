@@ -17,6 +17,12 @@ permalink:  /problems/sliding-window-maximum/
 
 <p>&nbsp;</p>
 
+<p><strong>进阶：</strong></p>
+
+<p>你能在线性时间复杂度内解决此题吗？</p>
+
+<p>&nbsp;</p>
+
 <p><strong>示例:</strong></p>
 
 <pre><strong>输入:</strong> <em>nums</em> = <code>[1,3,-1,-3,5,3,6,7]</code>, 和 <em>k</em> = 3
@@ -25,24 +31,22 @@ permalink:  /problems/sliding-window-maximum/
 </strong></code>
   滑动窗口的位置                最大值
 ---------------               -----
-[1  3  -1] -3  5  3  6  7       3
- 1 [3  -1  -3] 5  3  6  7       3
- 1  3 [-1  -3  5] 3  6  7       5
- 1  3  -1 [-3  5  3] 6  7       5
- 1  3  -1  -3 [5  3  6] 7       6
- 1  3  -1  -3  5 [3  6  7]      7</pre>
+[1  3  -1] -3  5  3  6  7       <strong>3</strong>
+ 1 [3  -1  -3] 5  3  6  7       <strong>3</strong>
+ 1  3 [-1  -3  5] 3  6  7       <strong>5</strong>
+ 1  3  -1 [-3  5  3] 6  7       <strong>5</strong>
+ 1  3  -1  -3 [5  3  6] 7       <strong>6</strong>
+ 1  3  -1  -3  5 [3  6  7]      <strong>7</strong></pre>
 
 <p>&nbsp;</p>
 
 <p><strong>提示：</strong></p>
 
-<p>你可以假设 <em>k </em>总是有效的，在输入数组不为空的情况下，1 &le; k &le;&nbsp;输入数组的大小。</p>
-
-<p>&nbsp;</p>
-
-<p><strong>进阶：</strong></p>
-
-<p>你能在线性时间复杂度内解决此题吗？</p>
+<ul>
+	<li><code>1 &lt;= nums.length &lt;= 10^5</code></li>
+	<li><code>-10^4&nbsp;&lt;= nums[i]&nbsp;&lt;= 10^4</code></li>
+	<li><code>1 &lt;= k&nbsp;&lt;= nums.length</code></li>
+</ul>
 
 {% endraw %}
 

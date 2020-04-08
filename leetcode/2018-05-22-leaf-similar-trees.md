@@ -26,7 +26,8 @@ permalink:  /problems/leaf-similar-trees/
 <p><strong>提示：</strong></p>
 
 <ul>
-	<li>给定的两颗树可能会有&nbsp;<code>1</code>&nbsp;到&nbsp;<code>100</code>&nbsp;个结点。</li>
+	<li>给定的两颗树可能会有&nbsp;<code>1</code>&nbsp;到 <code>200</code>&nbsp;个结点。</li>
+	<li>给定的两颗树上的值介于 <code>0</code> 到 <code>200</code> 之间。</li>
 </ul>
 
 {% endraw %}
