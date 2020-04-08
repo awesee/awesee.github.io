@@ -39,7 +39,7 @@ permalink:  /problems/subarray-product-less-than-k/
   [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
 
 ### 相似题目
-  1. [乘积最大子序列](/problems/maximum-product-subarray) (Medium)
+  1. [乘积最大子数组](/problems/maximum-product-subarray) (Medium)
   1. [和等于 k 的最长子数组长度](/problems/maximum-size-subarray-sum-equals-k) (Medium)
   1. [和为K的子数组](/problems/subarray-sum-equals-k) (Medium)
   1. [小于 K 的两数之和](/problems/two-sum-less-than-k) (Easy)

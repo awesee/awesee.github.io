@@ -60,7 +60,7 @@ permalink:  /problems/cousins-in-binary-tree/
   [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
 
 ### 相似题目
-  1. [二叉树的层次遍历](/problems/binary-tree-level-order-traversal) (Medium)
+  1. [二叉树的层序遍历](/problems/binary-tree-level-order-traversal) (Medium)
 
 ---
 

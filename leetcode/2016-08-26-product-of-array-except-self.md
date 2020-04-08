@@ -36,7 +36,7 @@ permalink:  /problems/product-of-array-except-self/
 
 ### 相似题目
   1. [接雨水](/problems/trapping-rain-water) (Hard)
-  1. [乘积最大子序列](/problems/maximum-product-subarray) (Medium)
+  1. [乘积最大子数组](/problems/maximum-product-subarray) (Medium)
   1. [粉刷房子 II](/problems/paint-house-ii) (Hard)
 
 ---

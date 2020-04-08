@@ -19,7 +19,7 @@ permalink:  /problems/find-in-mountain-array/
 
 <p>&nbsp;</p>
 
-<p>所谓山脉数组，即数组&nbsp;<code>A</code>&nbsp;假如是一个山脉数组的话，需要满足如下条件：</p>
+<p>何为山脉数组？如果数组&nbsp;<code>A</code> 是一个山脉数组的话，那它满足如下条件：</p>
 
 <p><strong>首先</strong>，<code>A.length &gt;= 3</code></p>
 
@@ -69,11 +69,11 @@ permalink:  /problems/find-in-mountain-array/
 
 <p><strong>提示：</strong></p>
 
-<ol>
+<ul>
 	<li><code>3 &lt;= mountain_arr.length() &lt;= 10000</code></li>
 	<li><code>0 &lt;= target &lt;= 10^9</code></li>
 	<li><code>0 &lt;= mountain_arr.get(index) &lt;=&nbsp;10^9</code></li>
-</ol>
+</ul>
 
 {% endraw %}
 
