@@ -19,6 +19,7 @@ permalink:  /problems/number-of-segments-in-a-string/
 
 <pre><strong>输入:</strong> &quot;Hello, my name is John&quot;
 <strong>输出:</strong> 5
+<strong>解释: </strong>这里的单词是指连续的不是空格的字符，所以 &quot;Hello,&quot; 算作 1 个单词。
 </pre>
 
 {% endraw %}

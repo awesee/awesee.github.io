@@ -11,17 +11,16 @@ permalink:  /problems/minimum-time-difference/
 
 {% raw %}
 
-<p>给定一个 24 小时制（小时:分钟）的时间列表，找出列表中任意两个时间的最小时间差并已分钟数表示。</p>
+<p>给定一个 24 小时制（小时:分钟）的时间列表，找出列表中任意两个时间的最小时间差并以分钟数表示。</p>
 
-<p><br />
+<p><br>
 <strong>示例 1：</strong></p>
 
-<pre>
-<strong>输入:</strong> [&quot;23:59&quot;,&quot;00:00&quot;]
+<pre><strong>输入:</strong> [&quot;23:59&quot;,&quot;00:00&quot;]
 <strong>输出:</strong> 1
 </pre>
 
-<p><br />
+<p><br>
 <strong>备注:</strong></p>
 
 <ol>
