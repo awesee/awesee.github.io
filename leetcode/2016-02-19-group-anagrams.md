@@ -15,7 +15,7 @@ permalink:  /problems/group-anagrams/
 
 <p><strong>示例:</strong></p>
 
-<pre><strong>输入:</strong> <code>[&quot;eat&quot;, &quot;tea&quot;, &quot;tan&quot;, &quot;ate&quot;, &quot;nat&quot;, &quot;bat&quot;]</code>,
+<pre><strong>输入:</strong> <code>[&quot;eat&quot;, &quot;tea&quot;, &quot;tan&quot;, &quot;ate&quot;, &quot;nat&quot;, &quot;bat&quot;]</code>
 <strong>输出:</strong>
 [
   [&quot;ate&quot;,&quot;eat&quot;,&quot;tea&quot;],

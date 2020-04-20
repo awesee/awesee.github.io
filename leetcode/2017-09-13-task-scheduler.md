@@ -24,7 +24,7 @@ permalink:  /problems/task-scheduler/
 <pre><strong>输入：</strong>tasks = [&quot;A&quot;,&quot;A&quot;,&quot;A&quot;,&quot;B&quot;,&quot;B&quot;,&quot;B&quot;], n = 2
 <strong>输出：</strong>8
 <strong>解释：</strong>A -&gt; B -&gt; (待命) -&gt; A -&gt; B -&gt; (待命) -&gt; A -&gt; B.
-</pre>
+     在本示例中，两个相同类型任务之间必须间隔长度为 n = 2 的冷却时间，而执行一个任务只需要一个单位时间，所以中间出现了（待命）状态。 </pre>
 
 <p>&nbsp;</p>
 

@@ -7,7 +7,7 @@ tags:       [Breadth-first Search]
 permalink:  /problems/rotting-oranges/
 ---
 
-## 994. 腐烂的橘子 (Easy)
+## 994. 腐烂的橘子 (Medium)
 
 {% raw %}
 

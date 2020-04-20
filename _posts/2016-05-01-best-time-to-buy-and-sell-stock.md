@@ -24,7 +24,7 @@ permalink:  /problems/best-time-to-buy-and-sell-stock/
 <pre><strong>输入:</strong> [7,1,5,3,6,4]
 <strong>输出:</strong> 5
 <strong>解释: </strong>在第 2 天（股票价格 = 1）的时候买入，在第 5 天（股票价格 = 6）的时候卖出，最大利润 = 6-1 = 5 。
-     注意利润不能是 7-1 = 6, 因为卖出价格需要大于买入价格。
+     注意利润不能是 7-1 = 6, 因为卖出价格需要大于买入价格；同时，你不能在买入前卖出股票。
 </pre>
 
 <p><strong>示例 2:</strong></p>

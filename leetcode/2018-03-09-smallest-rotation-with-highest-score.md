@@ -17,8 +17,11 @@ permalink:  /problems/smallest-rotation-with-highest-score/
 
 <p>在所有可能的轮调中，返回我们所能得到的最高分数对应的轮调索引 K。如果有多个答案，返回满足条件的最小的索引 K。</p>
 
-<pre><strong>示例 1：</strong>
-<strong>输入：</strong>[2, 3, 1, 4, 0]
+<p>&nbsp;</p>
+
+<p><strong>示例 1：</strong></p>
+
+<pre><strong>输入：</strong>[2, 3, 1, 4, 0]
 <strong>输出：</strong>3
 <strong>解释：</strong>
 下面列出了每个 K 的得分：
@@ -29,15 +32,16 @@ K = 3,  A = [4,0,2,3,1],    score 4
 K = 4,  A = [0,2,3,1,4],    score 3
 所以我们应当选择&nbsp;K = 3，得分最高。</pre>
 
-<p>&nbsp;</p>
+<p><strong>示例 2：</strong></p>
 
-<pre><strong>示例 2：</strong>
-<strong>输入：</strong>[1, 3, 0, 2, 4]
+<pre><strong>输入：</strong>[1, 3, 0, 2, 4]
 <strong>输出：</strong>0
 <strong>解释：</strong>
 A 无论怎么变化总是有 3 分。
 所以我们将选择最小的 K，即 0。
 </pre>
+
+<p>&nbsp;</p>
 
 <p><strong>提示：</strong></p>
 
