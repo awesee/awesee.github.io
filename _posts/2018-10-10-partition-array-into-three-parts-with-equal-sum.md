@@ -19,7 +19,7 @@ permalink:  /problems/partition-array-into-three-parts-with-equal-sum/
 
 <p><strong>示例 1：</strong></p>
 
-<pre><strong>输出：</strong>[0,2,1,-6,6,-7,9,1,2,0,1]
+<pre><strong>输入：</strong>[0,2,1,-6,6,-7,9,1,2,0,1]
 <strong>输出：</strong>true
 <strong>解释：</strong>0 + 2 + 1 = -6 + 6 - 7 + 9 + 1 = 2 + 0 + 1
 </pre>

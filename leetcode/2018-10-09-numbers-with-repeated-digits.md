@@ -11,7 +11,7 @@ permalink:  /problems/numbers-with-repeated-digits/
 
 {% raw %}
 
-<p>给定正整数&nbsp;<code>N</code>，返回小于等于 <code>N</code>&nbsp;且具有至少 1 位重复数字的正整数。</p>
+<p>给定正整数&nbsp;<code>N</code>，返回小于等于 <code>N</code>&nbsp;且具有至少 1 位重复数字的正整数的个数。</p>
 
 <p>&nbsp;</p>
 

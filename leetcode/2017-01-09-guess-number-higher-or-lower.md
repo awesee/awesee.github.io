@@ -21,6 +21,8 @@ permalink:  /problems/guess-number-higher-or-lower/
  0 : 恭喜！你猜对了！
 </pre>
 
+<p>&nbsp;</p>
+
 <p><strong>示例 :</strong></p>
 
 <pre><strong>输入: </strong>n = 10, pick = 6

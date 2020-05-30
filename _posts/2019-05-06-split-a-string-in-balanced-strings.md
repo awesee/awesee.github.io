@@ -15,7 +15,7 @@ permalink:  /problems/split-a-string-in-balanced-strings/
 
 <p>给出一个平衡字符串&nbsp;<code>s</code>，请你将它分割成尽可能多的平衡字符串。</p>
 
-<p>返回可以通过分割得到的平衡字符串的最大数量。</p>
+<p>返回可以通过分割得到的平衡字符串的最大数量<strong>。</strong></p>
 
 <p>&nbsp;</p>
 
@@ -47,6 +47,7 @@ permalink:  /problems/split-a-string-in-balanced-strings/
 <ul>
 	<li><code>1 &lt;= s.length &lt;= 1000</code></li>
 	<li><code>s[i] = &#39;L&#39; 或 &#39;R&#39;</code></li>
+	<li>分割得到的每个字符串都必须是平衡字符串。</li>
 </ul>
 
 {% endraw %}

@@ -42,7 +42,7 @@ permalink:  /problems/binary-tree-inorder-traversal/
   1. [最接近的二叉搜索树值 II](/problems/closest-binary-search-tree-value-ii) (Hard)
   1. [二叉搜索树中的顺序后继](/problems/inorder-successor-in-bst) (Medium)
   1. [将二叉搜索树转化为排序的双向链表](/problems/convert-binary-search-tree-to-sorted-doubly-linked-list) (Medium)
-  1. [二叉搜索树结点最小距离](/problems/minimum-distance-between-bst-nodes) (Easy)
+  1. [二叉搜索树节点最小距离](/problems/minimum-distance-between-bst-nodes) (Easy)
 
 ---
 

@@ -17,23 +17,25 @@ permalink:  /problems/replace-words/
 
 <p>你需要输出替换之后的句子。</p>
 
-<p><strong>示例 1:</strong></p>
+<p>&nbsp;</p>
 
-<pre>
-<strong>输入:</strong> dict(词典) = [&quot;cat&quot;, &quot;bat&quot;, &quot;rat&quot;]
-sentence(句子) = &quot;the cattle was rattled by the battery&quot;
-<strong>输出:</strong> &quot;the cat was rat by the bat&quot;
+<p><strong>示例：</strong></p>
+
+<pre><strong>输入：</strong>dict(词典) = [&quot;cat&quot;, &quot;bat&quot;, &quot;rat&quot;] sentence(句子) = &quot;the cattle was rattled by the battery&quot;
+<strong>输出：</strong>&quot;the cat was rat by the bat&quot;
 </pre>
 
-<p><strong>注:</strong></p>
+<p>&nbsp;</p>
 
-<ol>
+<p><strong>提示：</strong></p>
+
+<ul>
 	<li>输入只包含小写字母。</li>
-	<li>1 &lt;= 字典单词数 &lt;=1000</li>
-	<li>1 &lt;=&nbsp; 句中词语数&nbsp;&lt;= 1000</li>
-	<li>1 &lt;= 词根长度 &lt;= 100</li>
-	<li>1 &lt;= 句中词语长度&nbsp;&lt;= 1000</li>
-</ol>
+	<li><code>1 &lt;= dict.length&nbsp;&lt;= 1000</code></li>
+	<li><code>1 &lt;= dict[i].length &lt;= 100</code></li>
+	<li>1 &lt;= 句中词语数 &lt;= 1000</li>
+	<li>1 &lt;= 句中词语长度 &lt;= 1000</li>
+</ul>
 
 {% endraw %}
 

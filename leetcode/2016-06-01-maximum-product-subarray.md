@@ -11,7 +11,7 @@ permalink:  /problems/maximum-product-subarray/
 
 {% raw %}
 
-<p>给你一个整数数组 <code>nums</code>&nbsp;，请你找出数组中乘积最大的连续子数组（该子数组中至少包含一个数字）。</p>
+<p>给你一个整数数组 <code>nums</code>&nbsp;，请你找出数组中乘积最大的连续子数组（该子数组中至少包含一个数字），并返回该子数组所对应的乘积。</p>
 
 <p>&nbsp;</p>
 
