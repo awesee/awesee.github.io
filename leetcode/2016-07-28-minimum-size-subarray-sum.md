@@ -11,7 +11,7 @@ permalink:  /problems/minimum-size-subarray-sum/
 
 {% raw %}
 
-<p>给定一个含有&nbsp;<strong>n&nbsp;</strong>个正整数的数组和一个正整数&nbsp;<strong>s ，</strong>找出该数组中满足其和<strong> &ge; s </strong>的长度最小的连续子数组<strong>。</strong>如果不存在符合条件的连续子数组，返回 0。</p>
+<p>给定一个含有&nbsp;<strong>n&nbsp;</strong>个正整数的数组和一个正整数&nbsp;<strong>s ，</strong>找出该数组中满足其和<strong> &ge; s </strong>的长度最小的连续子数组，并返回其长度<strong>。</strong>如果不存在符合条件的连续子数组，返回 0。</p>
 
 <p><strong>示例:&nbsp;</strong></p>
 

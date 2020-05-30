@@ -1,17 +1,17 @@
 ---
 layout:     single
-title:      "二叉搜索树结点最小距离"
+title:      "二叉搜索树节点最小距离"
 date:       2018-02-22 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Tree, Recursion]
 permalink:  /problems/minimum-distance-between-bst-nodes/
 ---
 
-## 783. 二叉搜索树结点最小距离 (Easy)
+## 783. 二叉搜索树节点最小距离 (Easy)
 
 {% raw %}
 
-<p>给定一个二叉搜索树的根结点&nbsp;<code>root</code>，返回树中任意两节点的差的最小值。</p>
+<p>给定一个二叉搜索树的根节点&nbsp;<code>root</code>，返回树中任意两节点的差的最小值。</p>
 
 <p>&nbsp;</p>
 
@@ -20,7 +20,7 @@ permalink:  /problems/minimum-distance-between-bst-nodes/
 <pre><strong>输入:</strong> root = [4,2,6,1,3,null,null]
 <strong>输出:</strong> 1
 <strong>解释:</strong>
-注意，root是树结点对象(TreeNode object)，而不是数组。
+注意，root是树节点对象(TreeNode object)，而不是数组。
 
 给定的树 [4,2,6,1,3,null,null] 可表示为下图:
 

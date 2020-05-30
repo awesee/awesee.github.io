@@ -23,9 +23,9 @@ permalink:  /problems/walking-robot-simulation/
 
 <p>第 <code>i</code>&nbsp;个障碍物位于网格点 &nbsp;<code>(obstacles[i][0], obstacles[i][1])</code></p>
 
-<p>如果机器人试图走到障碍物上方，那么它将停留在障碍物的前一个网格方块上，但仍然可以继续该路线的其余部分。</p>
+<p>机器人无法走到障碍物上，它将会停留在障碍物的前一个网格方块上，但仍然可以继续该路线的其余部分。</p>
 
-<p>返回从原点到机器人的最大欧式距离的<strong>平方</strong>。</p>
+<p>返回从原点到机器人所有经过的路径点（坐标为整数）的最大欧式距离的平方。</p>
 
 <p>&nbsp;</p>
 

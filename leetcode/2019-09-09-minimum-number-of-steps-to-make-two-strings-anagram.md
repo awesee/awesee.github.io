@@ -15,7 +15,7 @@ permalink:  /problems/minimum-number-of-steps-to-make-two-strings-anagram/
 
 <p>返回使&nbsp;<code>t</code>&nbsp;成为&nbsp;<code>s</code>&nbsp;的字母异位词的最小步骤数。</p>
 
-<p><strong>字母异位词</strong> 指字母相同，但排列不同的字符串。</p>
+<p><strong>字母异位词</strong> 指字母相同，但排列不同（也可能相同）的字符串。</p>
 
 <p>&nbsp;</p>
 
