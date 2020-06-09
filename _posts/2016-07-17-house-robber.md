@@ -15,20 +15,31 @@ permalink:  /problems/house-robber/
 
 <p>给定一个代表每个房屋存放金额的非负整数数组，计算你<strong> 不触动警报装置的情况下 </strong>，一夜之内能够偷窃到的最高金额。</p>
 
-<p><strong>示例 1:</strong></p>
+<p>&nbsp;</p>
 
-<pre><strong>输入:</strong> [1,2,3,1]
-<strong>输出:</strong> 4
-<strong>解释:</strong> 偷窃 1 号房屋 (金额 = 1) ，然后偷窃 3 号房屋 (金额 = 3)。
+<p><strong>示例 1：</strong></p>
+
+<pre><strong>输入：</strong>[1,2,3,1]
+<strong>输出：</strong>4
+<strong>解释：</strong>偷窃 1 号房屋 (金额 = 1) ，然后偷窃 3 号房屋 (金额 = 3)。
 &nbsp;    偷窃到的最高金额 = 1 + 3 = 4 。</pre>
 
-<p><strong>示例 2:</strong></p>
+<p><strong>示例 2：</strong></p>
 
-<pre><strong>输入:</strong> [2,7,9,3,1]
-<strong>输出:</strong> 12
-<strong>解释:</strong> 偷窃 1 号房屋 (金额 = 2), 偷窃 3 号房屋 (金额 = 9)，接着偷窃 5 号房屋 (金额 = 1)。
+<pre><strong>输入：</strong>[2,7,9,3,1]
+<strong>输出：</strong>12
+<strong>解释：</strong>偷窃 1 号房屋 (金额 = 2), 偷窃 3 号房屋 (金额 = 9)，接着偷窃 5 号房屋 (金额 = 1)。
 &nbsp;    偷窃到的最高金额 = 2 + 9 + 1 = 12 。
 </pre>
+
+<p>&nbsp;</p>
+
+<p><strong>提示：</strong></p>
+
+<ul>
+	<li><code>0 &lt;= nums.length &lt;= 100</code></li>
+	<li><code>0 &lt;= nums[i] &lt;= 400</code></li>
+</ul>
 
 {% endraw %}
 
