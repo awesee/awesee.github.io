@@ -44,10 +44,10 @@ permalink:  /problems/maximize-distance-to-closest-person/
 
 <p><strong>提示：</strong></p>
 
-<ol>
+<ul>
 	<li><code>2 &lt;= seats.length &lt;= 20000</code></li>
 	<li><code>seats</code>&nbsp;中只含有 0 和 1，至少有一个 <code>0</code>，且至少有一个 <code>1</code>。</li>
-</ol>
+</ul>
 
 {% endraw %}
 
