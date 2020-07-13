@@ -35,7 +35,7 @@ permalink:  /problems/video-stitching/
 <pre><strong>输入：</strong>clips = [[0,1],[1,2]], T = 5
 <strong>输出：</strong>-1
 <strong>解释：</strong>
-我们无法只用 [0,1] 和 [0,2] 覆盖 [0,5] 的整个过程。
+我们无法只用 [0,1] 和 [1,2] 覆盖 [0,5] 的整个过程。
 </pre>
 
 <p><strong>示例 3：</strong></p>
@@ -62,6 +62,10 @@ permalink:  /problems/video-stitching/
 	<li><code>1 &lt;= clips.length &lt;= 100</code></li>
 	<li><code>0 &lt;= clips[i][0] &lt;=&nbsp;clips[i][1] &lt;= 100</code></li>
 	<li><code>0 &lt;= T &lt;= 100</code></li>
+</ul>
+
+<ul>
+	<li>&nbsp;</li>
 </ul>
 
 {% endraw %}
