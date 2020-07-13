@@ -14,11 +14,8 @@ Go编程中，经常会遇到周期性处理任务的需求，下面以每秒打
 ```go
 func PrintNow() {
 	t := time.NewTicker(time.Second)
-	for {
-		select {
-		case <-t.C:
-			fmt.Println(time.Now())
-		}
+	for range t.C {
+		fmt.Println(time.Now())
 	}
 }
 ```
