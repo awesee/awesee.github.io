@@ -1,7 +1,7 @@
 
 # This is the data for <a href="https://openset.github.io/"> my web site </a>
 
-It is automatically transformed by [openset](http://github.com/openset)
+It is automatically transformed by [openset](https://github.com/openset)
 into a static site whenever I push this repository to GitHub.
 
 I was tired of having my blog posts end up in a database off on some remote
@@ -13,10 +13,10 @@ again.
 
 ## License
 
-The following directories and their contents are Copyright [openset](http://github.com/openset).
+The following directories and their contents are Copyright [openset](https://github.com/openset/openset).
 You may not reuse anything therein without my permission:
 
-* \_posts/
+* _posts/
 * images/
 
 All other directories and files are MIT Licensed. Feel free to use the HTML and
