@@ -7,7 +7,7 @@ tags:       [Bit Manipulation, Backtracking]
 permalink:  /problems/letter-case-permutation/
 ---
 
-## 784. 字母大小写全排列 (Easy)
+## 784. 字母大小写全排列 (Medium)
 
 {% raw %}
 
