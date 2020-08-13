@@ -62,7 +62,7 @@ permalink:  /problems/longest-univalue-path/
 ### 相似题目
   1. [二叉树中的最大路径和](/problems/binary-tree-maximum-path-sum) (Hard)
   1. [统计同值子树](/problems/count-univalue-subtrees) (Medium)
-  1. [路径总和 III](/problems/path-sum-iii) (Easy)
+  1. [路径总和 III](/problems/path-sum-iii) (Medium)
 
 ---
 

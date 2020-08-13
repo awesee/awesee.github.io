@@ -44,7 +44,7 @@ permalink:  /problems/path-sum-ii/
 ### 相似题目
   1. [路径总和](/problems/path-sum) (Easy)
   1. [二叉树的所有路径](/problems/binary-tree-paths) (Easy)
-  1. [路径总和 III](/problems/path-sum-iii) (Easy)
+  1. [路径总和 III](/problems/path-sum-iii) (Medium)
   1. [路径和 IV](/problems/path-sum-iv) (Medium)
 
 ---

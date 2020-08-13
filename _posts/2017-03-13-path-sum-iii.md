@@ -7,7 +7,7 @@ tags:       [Tree]
 permalink:  /problems/path-sum-iii/
 ---
 
-## 437. 路径总和 III (Easy)
+## 437. 路径总和 III (Medium)
 
 {% raw %}
 
