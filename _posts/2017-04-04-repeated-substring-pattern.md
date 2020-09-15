@@ -48,7 +48,7 @@ permalink:  /problems/repeated-substring-pattern/
 
 ### 相似题目
   1. [实现 strStr()](/problems/implement-strstr) (Easy)
-  1. [重复叠加字符串匹配](/problems/repeated-string-match) (Easy)
+  1. [重复叠加字符串匹配](/problems/repeated-string-match) (Medium)
 
 ---
 

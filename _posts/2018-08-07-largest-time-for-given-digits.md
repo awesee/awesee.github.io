@@ -7,7 +7,7 @@ tags:       [Math]
 permalink:  /problems/largest-time-for-given-digits/
 ---
 
-## 949. 给定数字能组成的最大时间 (Easy)
+## 949. 给定数字能组成的最大时间 (Medium)
 
 {% raw %}
 

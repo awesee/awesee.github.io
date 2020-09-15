@@ -40,7 +40,7 @@ WordFilter.f(&quot;b&quot;, &quot;&quot;) // 返回 -1
   [[字典树](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)]
 
 ### 相似题目
-  1. [添加与搜索单词 - 数据结构设计](/problems/add-and-search-word-data-structure-design) (Medium)
+  1. [添加与搜索单词 - 数据结构设计](/problems/design-add-and-search-words-data-structure) (Medium)
 
 ---
 

@@ -27,7 +27,7 @@ permalink:  /problems/merge-two-sorted-lists/
   [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
 
 ### 相似题目
-  1. [合并K个排序链表](/problems/merge-k-sorted-lists) (Hard)
+  1. [合并K个升序链表](/problems/merge-k-sorted-lists) (Hard)
   1. [合并两个有序数组](/problems/merge-sorted-array) (Easy)
   1. [排序链表](/problems/sort-list) (Medium)
   1. [最短单词距离 II](/problems/shortest-word-distance-ii) (Medium)

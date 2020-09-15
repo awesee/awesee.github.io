@@ -7,7 +7,7 @@ tags:       [Greedy]
 permalink:  /problems/two-city-scheduling/
 ---
 
-## 1029. 两地调度 (Easy)
+## 1029. 两地调度 (Medium)
 
 {% raw %}
 

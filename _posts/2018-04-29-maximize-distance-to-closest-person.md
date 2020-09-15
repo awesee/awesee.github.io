@@ -7,7 +7,7 @@ tags:       [Array]
 permalink:  /problems/maximize-distance-to-closest-person/
 ---
 
-## 849. 到最近的人的最大距离 (Easy)
+## 849. 到最近的人的最大距离 (Medium)
 
 {% raw %}
 

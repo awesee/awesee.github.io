@@ -7,7 +7,7 @@ tags:       [String]
 permalink:  /problems/string-compression/
 ---
 
-## 443. 压缩字符串 (Easy)
+## 443. 压缩字符串 (Medium)
 
 {% raw %}
 

@@ -55,7 +55,7 @@ permalink:  /problems/count-and-say/
 
 ### 相似题目
   1. [字符串的编码与解码](/problems/encode-and-decode-strings) (Medium)
-  1. [压缩字符串](/problems/string-compression) (Easy)
+  1. [压缩字符串](/problems/string-compression) (Medium)
 
 ---
 
