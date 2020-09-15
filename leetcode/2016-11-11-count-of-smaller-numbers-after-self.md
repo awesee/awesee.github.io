@@ -17,7 +17,7 @@ permalink:  /problems/count-of-smaller-numbers-after-self/
 
 <p><strong>示例：</strong></p>
 
-<pre><strong>输入：</strong>[5,2,6,1]
+<pre><strong>输入：</strong>nums = [5,2,6,1]
 <strong>输出：</strong><code>[2,1,1,0] 
 <strong>解释：</strong></code>
 5 的右侧有 <strong>2 </strong>个更小的元素 (2 和 1)
@@ -25,6 +25,15 @@ permalink:  /problems/count-of-smaller-numbers-after-self/
 6 的右侧有 <strong>1 </strong>个更小的元素 (1)
 1 的右侧有 <strong>0 </strong>个更小的元素
 </pre>
+
+<p>&nbsp;</p>
+
+<p><strong>提示：</strong></p>
+
+<ul>
+	<li><code>0 &lt;= nums.length &lt;= 10^5</code></li>
+	<li><code>-10^4&nbsp;&lt;= nums[i] &lt;= 10^4</code></li>
+</ul>
 
 {% endraw %}
 

@@ -7,7 +7,7 @@ tags:       [Array]
 permalink:  /problems/magic-squares-in-grid/
 ---
 
-## 840. 矩阵中的幻方 (Easy)
+## 840. 矩阵中的幻方 (Medium)
 
 {% raw %}
 

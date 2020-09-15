@@ -3,7 +3,7 @@ layout:     single
 title:      "连续差相同的数字"
 date:       2018-08-25 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Dynamic Programming]
+tags:       [Depth-first Search, Breadth-first Search]
 permalink:  /problems/numbers-with-same-consecutive-differences/
 ---
 
@@ -43,7 +43,8 @@ permalink:  /problems/numbers-with-same-consecutive-differences/
 {% endraw %}
 
 ### 相关话题
-  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
 
 ---
 

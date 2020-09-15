@@ -7,7 +7,7 @@ tags:       [String]
 permalink:  /problems/repeated-string-match/
 ---
 
-## 686. 重复叠加字符串匹配 (Easy)
+## 686. 重复叠加字符串匹配 (Medium)
 
 {% raw %}
 

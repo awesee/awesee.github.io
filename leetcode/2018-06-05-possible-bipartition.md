@@ -53,7 +53,7 @@ permalink:  /problems/possible-bipartition/
 	<li><code>dislikes[i].length == 2</code></li>
 	<li><code>1 &lt;= dislikes[i][j] &lt;= N</code></li>
 	<li><code>dislikes[i][0] &lt; dislikes[i][1]</code></li>
-	<li>对于<code>dislikes[i] == dislikes[j]</code> 不存在 <code>i != j</code></li>
+	<li>对于 <code>dislikes[i] == dislikes[j]</code> 不存在 <code>i != j</code></li>
 </ul>
 
 {% endraw %}

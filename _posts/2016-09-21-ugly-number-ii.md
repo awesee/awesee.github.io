@@ -36,7 +36,7 @@ permalink:  /problems/ugly-number-ii/
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### 相似题目
-  1. [合并K个排序链表](/problems/merge-k-sorted-lists) (Hard)
+  1. [合并K个升序链表](/problems/merge-k-sorted-lists) (Hard)
   1. [计数质数](/problems/count-primes) (Easy)
   1. [丑数](/problems/ugly-number) (Easy)
   1. [完全平方数](/problems/perfect-squares) (Medium)

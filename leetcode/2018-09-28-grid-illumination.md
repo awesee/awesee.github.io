@@ -61,7 +61,7 @@ permalink:  /problems/grid-illumination/
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
 
 ### 相似题目
-  1. [N皇后](/problems/n-queens) (Hard)
+  1. [N 皇后](/problems/n-queens) (Hard)
 
 ---
 

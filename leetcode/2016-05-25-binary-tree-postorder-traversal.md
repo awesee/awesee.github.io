@@ -7,7 +7,7 @@ tags:       [Stack, Tree]
 permalink:  /problems/binary-tree-postorder-traversal/
 ---
 
-## 145. 二叉树的后序遍历 (Hard)
+## 145. 二叉树的后序遍历 (Medium)
 
 {% raw %}
 

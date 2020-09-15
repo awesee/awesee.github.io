@@ -38,7 +38,7 @@ trie.search(&quot;app&quot;);     // 返回 true</pre>
   [[字典树](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)]
 
 ### 相似题目
-  1. [添加与搜索单词 - 数据结构设计](/problems/add-and-search-word-data-structure-design) (Medium)
+  1. [添加与搜索单词 - 数据结构设计](/problems/design-add-and-search-words-data-structure) (Medium)
   1. [设计搜索自动补全系统](/problems/design-search-autocomplete-system) (Hard)
   1. [单词替换](/problems/replace-words) (Medium)
   1. [实现一个魔法字典](/problems/implement-magic-dictionary) (Medium)

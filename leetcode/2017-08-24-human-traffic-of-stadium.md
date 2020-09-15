@@ -45,8 +45,12 @@ permalink:  /problems/human-traffic-of-stadium/
 
 <p>&nbsp;</p>
 
-<p><strong>提示：</strong><br>
-每天只有一行记录，日期随着 id 的增加而增加。</p>
+<p><strong>提示：</strong></p>
+
+<ul>
+	<li>每天只有一行记录，日期随着 id 的增加而增加。</li>
+	<li>体育馆并不是每天都开放的，所以记录中的日期可能会出现断层。</li>
+</ul>
 
 {% endraw %}
 

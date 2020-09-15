@@ -1,13 +1,13 @@
 ---
 layout:     single
-title:      " 设置交集大小至少为2"
+title:      "设置交集大小至少为2"
 date:       2018-01-27 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Greedy]
 permalink:  /problems/set-intersection-size-at-least-two/
 ---
 
-## 757.  设置交集大小至少为2 (Hard)
+## 757. 设置交集大小至少为2 (Hard)
 
 {% raw %}
 
@@ -19,8 +19,7 @@ permalink:  /problems/set-intersection-size-at-least-two/
 
 <p><strong>示例 1:</strong></p>
 
-<pre>
-<strong>输入:</strong> intervals = [[1, 3], [1, 4], [2, 5], [3, 5]]
+<pre><strong>输入:</strong> intervals = [[1, 3], [1, 4], [2, 5], [3, 5]]
 <strong>输出:</strong> 3
 <strong>解释:</strong>
 考虑集合 S = {2, 3, 4}. S与intervals中的四个区间都有至少2个相交的元素。
@@ -29,8 +28,7 @@ permalink:  /problems/set-intersection-size-at-least-two/
 
 <p><strong>示例 2:</strong></p>
 
-<pre>
-<strong>输入:</strong> intervals = [[1, 2], [2, 3], [2, 4], [4, 5]]
+<pre><strong>输入:</strong> intervals = [[1, 2], [2, 3], [2, 4], [4, 5]]
 <strong>输出:</strong> 5
 <strong>解释:</strong>
 最小的集合S = {1, 2, 3, 4, 5}.
