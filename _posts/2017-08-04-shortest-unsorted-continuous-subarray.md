@@ -7,7 +7,7 @@ tags:       [Array]
 permalink:  /problems/shortest-unsorted-continuous-subarray/
 ---
 
-## 581. 最短无序连续子数组 (Easy)
+## 581. 最短无序连续子数组 (Medium)
 
 {% raw %}
 

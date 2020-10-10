@@ -34,7 +34,7 @@ permalink:  /problems/valid-perfect-square/
 
 ### 相似题目
   1. [x 的平方根](/problems/sqrtx) (Easy)
-  1. [平方数之和](/problems/sum-of-square-numbers) (Easy)
+  1. [平方数之和](/problems/sum-of-square-numbers) (Medium)
 
 ---
 

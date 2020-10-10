@@ -3,7 +3,7 @@ layout:     single
 title:      "数据流中的第K大元素"
 date:       2017-12-04 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Heap]
+tags:       [Heap, Design]
 permalink:  /problems/kth-largest-element-in-a-stream/
 ---
 
@@ -35,6 +35,7 @@ kthLargest.add(4);&nbsp; &nbsp;// returns 8
 
 ### 相关话题
   [[堆](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]
+  [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
 
 ### 相似题目
   1. [数组中的第K个最大元素](/problems/kth-largest-element-in-an-array) (Medium)
