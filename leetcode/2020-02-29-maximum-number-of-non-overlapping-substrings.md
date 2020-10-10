@@ -7,7 +7,7 @@ tags:       [Greedy]
 permalink:  /problems/maximum-number-of-non-overlapping-substrings/
 ---
 
-## 1520. 最多的不重叠子字符串 (Medium)
+## 1520. 最多的不重叠子字符串 (Hard)
 
 {% raw %}
 

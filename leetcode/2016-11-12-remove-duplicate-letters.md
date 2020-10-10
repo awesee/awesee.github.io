@@ -3,11 +3,11 @@ layout:     single
 title:      "去除重复字母"
 date:       2016-11-12 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Stack, Greedy]
+tags:       [Stack, Greedy, String]
 permalink:  /problems/remove-duplicate-letters/
 ---
 
-## 316. 去除重复字母 (Hard)
+## 316. 去除重复字母 (Medium)
 
 {% raw %}
 
@@ -35,6 +35,7 @@ permalink:  /problems/remove-duplicate-letters/
 ### 相关话题
   [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
   [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ---
 

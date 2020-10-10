@@ -7,7 +7,7 @@ tags:       [Array]
 permalink:  /problems/rotate-array/
 ---
 
-## 189. 旋转数组 (Easy)
+## 189. 旋转数组 (Medium)
 
 {% raw %}
 

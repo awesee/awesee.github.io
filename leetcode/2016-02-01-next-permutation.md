@@ -30,7 +30,7 @@ permalink:  /problems/next-permutation/
 ### 相似题目
   1. [全排列](/problems/permutations) (Medium)
   1. [全排列 II](/problems/permutations-ii) (Medium)
-  1. [第k个排列](/problems/permutation-sequence) (Medium)
+  1. [第k个排列](/problems/permutation-sequence) (Hard)
   1. [回文排列 II](/problems/palindrome-permutation-ii) (Medium)
 
 ---

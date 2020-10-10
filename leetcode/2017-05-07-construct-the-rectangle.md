@@ -3,7 +3,7 @@ layout:     single
 title:      "构造矩形"
 date:       2017-05-07 21:30:00 +0800
 categories: [Leetcode]
-tags:       []
+tags:       [Math]
 permalink:  /problems/construct-the-rectangle/
 ---
 
@@ -40,6 +40,9 @@ permalink:  /problems/construct-the-rectangle/
 </ol>
 
 {% endraw %}
+
+### 相关话题
+  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
 
 ---
 

@@ -47,7 +47,7 @@ permalink:  /problems/minimum-absolute-difference-in-bst/
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
 
 ### 相似题目
-  1. [数组中的K-diff数对](/problems/k-diff-pairs-in-an-array) (Easy)
+  1. [数组中的 k-diff 数对](/problems/k-diff-pairs-in-an-array) (Medium)
 
 ---
 

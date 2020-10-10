@@ -7,7 +7,7 @@ tags:       [Hash Table]
 permalink:  /problems/bulls-and-cows/
 ---
 
-## 299. 猜数字游戏 (Easy)
+## 299. 猜数字游戏 (Medium)
 
 {% raw %}
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "最大层内元素和"
 date:       2019-03-07 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Graph]
+tags:       [Tree, Breadth-first Search]
 permalink:  /problems/maximum-level-sum-of-a-binary-tree/
 ---
 
@@ -17,11 +17,11 @@ permalink:  /problems/maximum-level-sum-of-a-binary-tree/
 
 <p>&nbsp;</p>
 
-<p><strong>示例：</strong></p>
+<p><strong>示例 1：</strong></p>
 
 <p><strong><img alt="" src="https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2019/08/17/capture.jpeg" style="height: 175px; width: 200px;"></strong></p>
 
-<pre><strong>输入：</strong>[1,7,0,7,-8,null,null]
+<pre><strong>输入：</strong>root = [1,7,0,7,-8,null,null]
 <strong>输出：</strong>2
 <strong>解释：</strong>
 第 1 层各元素之和为 1，
@@ -30,19 +30,26 @@ permalink:  /problems/maximum-level-sum-of-a-binary-tree/
 所以我们返回第 2 层的层号，它的层内元素之和最大。
 </pre>
 
+<p><strong>示例 2：</strong></p>
+
+<pre><strong>输入：</strong>root = [989,null,10250,98693,-89388,null,null,null,-32127]
+<strong>输出：</strong>2
+</pre>
+
 <p>&nbsp;</p>
 
 <p><strong>提示：</strong></p>
 
-<ol>
+<ul>
 	<li>树中的节点数介于&nbsp;<code>1</code>&nbsp;和&nbsp;<code>10^4</code>&nbsp;之间</li>
 	<li><code>-10^5 &lt;= node.val &lt;= 10^5</code></li>
-</ol>
+</ul>
 
 {% endraw %}
 
 ### 相关话题
-  [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
+  [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
 
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "不同字符的最小子序列"
 date:       2018-12-17 21:30:00 +0800
 categories: [Leetcode]
-tags:       [String]
+tags:       [Stack, Greedy, String]
 permalink:  /problems/smallest-subsequence-of-distinct-characters/
 ---
 
@@ -55,6 +55,8 @@ permalink:  /problems/smallest-subsequence-of-distinct-characters/
 {% endraw %}
 
 ### 相关话题
+  [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
+  [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ---

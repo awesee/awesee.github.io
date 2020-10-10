@@ -7,7 +7,7 @@ tags:       [Math, Backtracking]
 permalink:  /problems/permutation-sequence/
 ---
 
-## 60. 第k个排列 (Medium)
+## 60. 第k个排列 (Hard)
 
 {% raw %}
 
