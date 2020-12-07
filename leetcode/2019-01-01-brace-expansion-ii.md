@@ -75,7 +75,7 @@ permalink:  /problems/brace-expansion-ii/
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ### 相似题目
-  1. [字母切换](/problems/brace-expansion) (Medium)
+  1. [花括号展开](/problems/brace-expansion) (Medium)
 
 ---
 

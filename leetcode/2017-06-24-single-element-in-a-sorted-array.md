@@ -3,7 +3,7 @@ layout:     single
 title:      "有序数组中的单一元素"
 date:       2017-06-24 21:30:00 +0800
 categories: [Leetcode]
-tags:       []
+tags:       [Binary Search]
 permalink:  /problems/single-element-in-a-sorted-array/
 ---
 
@@ -30,6 +30,9 @@ permalink:  /problems/single-element-in-a-sorted-array/
 <p><strong>注意:</strong> 您的方案应该在 O(log n)时间复杂度和 O(1)空间复杂度中运行。</p>
 
 {% endraw %}
+
+### 相关话题
+  [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
 
 ---
 

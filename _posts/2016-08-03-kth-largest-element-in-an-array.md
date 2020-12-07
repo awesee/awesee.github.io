@@ -38,7 +38,7 @@ permalink:  /problems/kth-largest-element-in-an-array/
   1. [摆动排序 II](/problems/wiggle-sort-ii) (Medium)
   1. [前 K 个高频元素](/problems/top-k-frequent-elements) (Medium)
   1. [第三大的数](/problems/third-maximum-number) (Easy)
-  1. [数据流中的第K大元素](/problems/kth-largest-element-in-a-stream) (Easy)
+  1. [数据流中的第 K 大元素](/problems/kth-largest-element-in-a-stream) (Easy)
   1. [最接近原点的 K 个点](/problems/k-closest-points-to-origin) (Medium)
 
 ---

@@ -3,7 +3,7 @@ layout:     single
 title:      "基本计算器 II"
 date:       2016-08-15 21:30:00 +0800
 categories: [Leetcode]
-tags:       [String]
+tags:       [Stack, String]
 permalink:  /problems/basic-calculator-ii/
 ---
 
@@ -42,6 +42,7 @@ permalink:  /problems/basic-calculator-ii/
 {% endraw %}
 
 ### 相关话题
+  [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ### 相似题目

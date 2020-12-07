@@ -1,13 +1,13 @@
 ---
 layout:     single
-title:      "交换工资"
+title:      "变更性别"
 date:       2017-09-19 21:30:00 +0800
 categories: [Leetcode]
 tags:       []
 permalink:  /problems/swap-salary/
 ---
 
-## 627. 交换工资 (Easy)
+## 627. 变更性别 (Easy)
 
 {% raw %}
 

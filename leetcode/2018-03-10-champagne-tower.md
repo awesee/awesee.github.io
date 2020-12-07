@@ -3,7 +3,7 @@ layout:     single
 title:      "香槟塔"
 date:       2018-03-10 21:30:00 +0800
 categories: [Leetcode]
-tags:       []
+tags:       [Dynamic Programming]
 permalink:  /problems/champagne-tower/
 ---
 
@@ -43,6 +43,9 @@ permalink:  /problems/champagne-tower/
 </ul>
 
 {% endraw %}
+
+### 相关话题
+  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ---
 

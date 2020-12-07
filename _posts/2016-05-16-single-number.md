@@ -37,7 +37,7 @@ permalink:  /problems/single-number/
 ### 相似题目
   1. [只出现一次的数字 II](/problems/single-number-ii) (Medium)
   1. [只出现一次的数字 III](/problems/single-number-iii) (Medium)
-  1. [缺失数字](/problems/missing-number) (Easy)
+  1. [丢失的数字](/problems/missing-number) (Easy)
   1. [寻找重复数](/problems/find-the-duplicate-number) (Medium)
   1. [找不同](/problems/find-the-difference) (Easy)
 
