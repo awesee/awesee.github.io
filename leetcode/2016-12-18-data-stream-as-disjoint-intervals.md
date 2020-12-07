@@ -37,7 +37,7 @@ permalink:  /problems/data-stream-as-disjoint-intervals/
   [[Ordered Map](https://github.com/openset/leetcode/tree/master/tag/ordered-map/README.md)]
 
 ### 相似题目
-  1. [汇总区间](/problems/summary-ranges) (Medium)
+  1. [汇总区间](/problems/summary-ranges) (Easy)
   1. [寻找右区间](/problems/find-right-interval) (Medium)
   1. [Range 模块](/problems/range-module) (Hard)
 

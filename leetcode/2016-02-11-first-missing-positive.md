@@ -45,7 +45,7 @@ permalink:  /problems/first-missing-positive/
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 
 ### 相似题目
-  1. [缺失数字](/problems/missing-number) (Easy)
+  1. [丢失的数字](/problems/missing-number) (Easy)
   1. [寻找重复数](/problems/find-the-duplicate-number) (Medium)
   1. [找到所有数组中消失的数字](/problems/find-all-numbers-disappeared-in-an-array) (Easy)
   1. [情侣牵手](/problems/couples-holding-hands) (Hard)

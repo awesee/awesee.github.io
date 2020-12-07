@@ -49,7 +49,7 @@ permalink:  /problems/couples-holding-hands/
 
 ### 相似题目
   1. [缺失的第一个正数](/problems/first-missing-positive) (Hard)
-  1. [缺失数字](/problems/missing-number) (Easy)
+  1. [丢失的数字](/problems/missing-number) (Easy)
   1. [相似度为 K 的字符串](/problems/k-similar-strings) (Hard)
 
 ---

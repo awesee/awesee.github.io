@@ -46,7 +46,7 @@ permalink:  /problems/binary-tree-level-order-traversal/
   1. [二叉树的最小深度](/problems/minimum-depth-of-binary-tree) (Easy)
   1. [二叉树的垂直遍历](/problems/binary-tree-vertical-order-traversal) (Medium)
   1. [二叉树的层平均值](/problems/average-of-levels-in-binary-tree) (Easy)
-  1. [N叉树的层序遍历](/problems/n-ary-tree-level-order-traversal) (Medium)
+  1. [N 叉树的层序遍历](/problems/n-ary-tree-level-order-traversal) (Medium)
   1. [二叉树的堂兄弟节点](/problems/cousins-in-binary-tree) (Easy)
 
 ---

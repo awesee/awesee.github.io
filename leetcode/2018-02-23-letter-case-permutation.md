@@ -43,7 +43,7 @@ permalink:  /problems/letter-case-permutation/
 
 ### 相似题目
   1. [子集](/problems/subsets) (Medium)
-  1. [字母切换](/problems/brace-expansion) (Medium)
+  1. [花括号展开](/problems/brace-expansion) (Medium)
 
 ---
 

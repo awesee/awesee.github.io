@@ -45,7 +45,7 @@ permalink:  /problems/find-the-duplicate-number/
   1. [缺失的第一个正数](/problems/first-missing-positive) (Hard)
   1. [只出现一次的数字](/problems/single-number) (Easy)
   1. [环形链表 II](/problems/linked-list-cycle-ii) (Medium)
-  1. [缺失数字](/problems/missing-number) (Easy)
+  1. [丢失的数字](/problems/missing-number) (Easy)
   1. [错误的集合](/problems/set-mismatch) (Easy)
 
 ---

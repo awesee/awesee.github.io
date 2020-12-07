@@ -7,7 +7,7 @@ tags:       [Array]
 permalink:  /problems/summary-ranges/
 ---
 
-## 228. 汇总区间 (Medium)
+## 228. 汇总区间 (Easy)
 
 {% raw %}
 

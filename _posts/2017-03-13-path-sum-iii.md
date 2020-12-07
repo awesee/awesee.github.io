@@ -47,7 +47,7 @@ permalink:  /problems/path-sum-iii/
   1. [路径总和](/problems/path-sum) (Easy)
   1. [路径总和 II](/problems/path-sum-ii) (Medium)
   1. [路径和 IV](/problems/path-sum-iv) (Medium)
-  1. [最长同值路径](/problems/longest-univalue-path) (Easy)
+  1. [最长同值路径](/problems/longest-univalue-path) (Medium)
 
 ---
 

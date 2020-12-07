@@ -7,7 +7,7 @@ tags:       [Array]
 permalink:  /problems/pairs-of-songs-with-total-durations-divisible-by-60/
 ---
 
-## 1010. 总持续时间可被 60 整除的歌曲 (Easy)
+## 1010. 总持续时间可被 60 整除的歌曲 (Medium)
 
 {% raw %}
 

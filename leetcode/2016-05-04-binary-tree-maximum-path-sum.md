@@ -50,7 +50,7 @@ permalink:  /problems/binary-tree-maximum-path-sum/
   1. [路径总和](/problems/path-sum) (Easy)
   1. [求根到叶子节点数字之和](/problems/sum-root-to-leaf-numbers) (Medium)
   1. [路径和 IV](/problems/path-sum-iv) (Medium)
-  1. [最长同值路径](/problems/longest-univalue-path) (Easy)
+  1. [最长同值路径](/problems/longest-univalue-path) (Medium)
 
 ---
 

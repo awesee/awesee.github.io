@@ -34,7 +34,7 @@ permalink:  /problems/permutations/
 ### 相似题目
   1. [下一个排列](/problems/next-permutation) (Medium)
   1. [全排列 II](/problems/permutations-ii) (Medium)
-  1. [第k个排列](/problems/permutation-sequence) (Hard)
+  1. [排列序列](/problems/permutation-sequence) (Hard)
   1. [组合](/problems/combinations) (Medium)
 
 ---
