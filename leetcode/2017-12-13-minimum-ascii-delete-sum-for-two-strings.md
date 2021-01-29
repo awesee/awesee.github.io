@@ -48,7 +48,7 @@ permalink:  /problems/minimum-ascii-delete-sum-for-two-strings/
 
 ### 相似题目
   1. [编辑距离](/problems/edit-distance) (Hard)
-  1. [最长上升子序列](/problems/longest-increasing-subsequence) (Medium)
+  1. [最长递增子序列](/problems/longest-increasing-subsequence) (Medium)
   1. [两个字符串的删除操作](/problems/delete-operation-for-two-strings) (Medium)
 
 ---

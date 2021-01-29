@@ -7,7 +7,7 @@ tags:       [Dynamic Programming]
 permalink:  /problems/house-robber/
 ---
 
-## 198. 打家劫舍 (Easy)
+## 198. 打家劫舍 (Medium)
 
 {% raw %}
 

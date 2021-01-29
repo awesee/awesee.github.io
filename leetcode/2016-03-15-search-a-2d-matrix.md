@@ -11,7 +11,7 @@ permalink:  /problems/search-a-2d-matrix/
 
 {% raw %}
 
-<p>编写一个高效的算法来判断 <em>m</em> x <em>n</em> 矩阵中，是否存在一个目标值。该矩阵具有如下特性：</p>
+<p>编写一个高效的算法来判断 <code>m x n</code> 矩阵中，是否存在一个目标值。该矩阵具有如下特性：</p>
 
 <ul>
 	<li>每行中的整数从左到右按升序排列。</li>
@@ -23,21 +23,14 @@ permalink:  /problems/search-a-2d-matrix/
 <p><strong>示例 1：</strong></p>
 <img alt="" src="https://assets.leetcode.com/uploads/2020/10/05/mat.jpg" style="width: 322px; height: 242px;" />
 <pre>
-<strong>输入：</strong>matrix = [[1,3,5,7],[10,11,16,20],[23,30,34,50]], target = 3
+<strong>输入：</strong>matrix = [[1,3,5,7],[10,11,16,20],[23,30,34,60]], target = 3
 <strong>输出：</strong>true
 </pre>
 
 <p><strong>示例 2：</strong></p>
 <img alt="" src="https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2020/11/25/mat2.jpg" style="width: 322px; height: 242px;" />
 <pre>
-<strong>输入：</strong>matrix = [[1,3,5,7],[10,11,16,20],[23,30,34,50]], target = 13
-<strong>输出：</strong>false
-</pre>
-
-<p><strong>示例 3：</strong></p>
-
-<pre>
-<strong>输入：</strong>matrix = [], target = 0
+<strong>输入：</strong>matrix = [[1,3,5,7],[10,11,16,20],[23,30,34,60]], target = 13
 <strong>输出：</strong>false
 </pre>
 
@@ -48,7 +41,7 @@ permalink:  /problems/search-a-2d-matrix/
 <ul>
 	<li><code>m == matrix.length</code></li>
 	<li><code>n == matrix[i].length</code></li>
-	<li><code>0 <= m, n <= 100</code></li>
+	<li><code>1 <= m, n <= 100</code></li>
 	<li><code>-10<sup>4</sup> <= matrix[i][j], target <= 10<sup>4</sup></code></li>
 </ul>
 

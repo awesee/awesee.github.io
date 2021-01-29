@@ -3,7 +3,7 @@ layout:     single
 title:      "能否连接形成数组"
 date:       2020-06-28 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Sort, Array]
+tags:       [Sort, Array, Hash Table]
 permalink:  /problems/check-array-formation-through-concatenation/
 ---
 
@@ -72,6 +72,7 @@ permalink:  /problems/check-array-formation-through-concatenation/
 ### 相关话题
   [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
 
 ---
 

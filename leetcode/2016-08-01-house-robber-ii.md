@@ -55,7 +55,7 @@ permalink:  /problems/house-robber-ii/
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### 相似题目
-  1. [打家劫舍](/problems/house-robber) (Easy)
+  1. [打家劫舍](/problems/house-robber) (Medium)
   1. [粉刷房子](/problems/paint-house) (Medium)
   1. [栅栏涂色](/problems/paint-fence) (Easy)
   1. [打家劫舍 III](/problems/house-robber-iii) (Medium)

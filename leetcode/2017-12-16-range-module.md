@@ -52,7 +52,7 @@ permalink:  /problems/range-module/
 
 ### 相似题目
   1. [合并区间](/problems/merge-intervals) (Medium)
-  1. [插入区间](/problems/insert-interval) (Hard)
+  1. [插入区间](/problems/insert-interval) (Medium)
   1. [将数据流变为多个不相交区间](/problems/data-stream-as-disjoint-intervals) (Hard)
 
 ---

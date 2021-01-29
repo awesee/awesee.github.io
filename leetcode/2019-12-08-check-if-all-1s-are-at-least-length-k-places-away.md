@@ -7,7 +7,7 @@ tags:       [Array]
 permalink:  /problems/check-if-all-1s-are-at-least-length-k-places-away/
 ---
 
-## 1437. 是否所有 1 都至少相隔 k 个元素 (Medium)
+## 1437. 是否所有 1 都至少相隔 k 个元素 (Easy)
 
 {% raw %}
 

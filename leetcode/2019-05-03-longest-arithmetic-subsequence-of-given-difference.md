@@ -3,7 +3,7 @@ layout:     single
 title:      "最长定差子序列"
 date:       2019-05-03 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Math, Dynamic Programming]
+tags:       [Hash Table, Math, Dynamic Programming]
 permalink:  /problems/longest-arithmetic-subsequence-of-given-difference/
 ---
 
@@ -12,6 +12,8 @@ permalink:  /problems/longest-arithmetic-subsequence-of-given-difference/
 {% raw %}
 
 <p>给你一个整数数组 <code>arr</code> 和一个整数 <code>difference</code>，请你找出并返回 <code>arr</code> 中最长等差子序列的长度，该子序列中相邻元素之间的差等于 <code>difference</code> 。</p>
+
+<p><strong>子序列</strong> 是指在不改变其余元素顺序的情况下，通过删除一些元素或不删除任何元素而从 <code>arr</code> 派生出来的序列。</p>
 
 <p> </p>
 
@@ -43,13 +45,14 @@ permalink:  /problems/longest-arithmetic-subsequence-of-given-difference/
 <p><strong>提示：</strong></p>
 
 <ul>
-	<li><code>1 <= arr.length <= 10^5</code></li>
-	<li><code>-10^4 <= arr[i], difference <= 10^4</code></li>
+	<li><code>1 <= arr.length <= 10<sup>5</sup></code></li>
+	<li><code>-10<sup>4</sup> <= arr[i], difference <= 10<sup>4</sup></code></li>
 </ul>
 
 {% endraw %}
 
 ### 相关话题
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 

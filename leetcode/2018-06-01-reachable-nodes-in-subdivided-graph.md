@@ -3,7 +3,7 @@ layout:     single
 title:      "细分图中的可到达结点"
 date:       2018-06-01 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Heap]
+tags:       [Heap, Breadth-first Search]
 permalink:  /problems/reachable-nodes-in-subdivided-graph/
 ---
 
@@ -62,6 +62,7 @@ permalink:  /problems/reachable-nodes-in-subdivided-graph/
 
 ### 相关话题
   [[堆](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]
+  [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
 
 ---
 

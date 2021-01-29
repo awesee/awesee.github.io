@@ -37,7 +37,7 @@ permalink:  /problems/number-of-longest-increasing-subsequence/
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### 相似题目
-  1. [最长上升子序列](/problems/longest-increasing-subsequence) (Medium)
+  1. [最长递增子序列](/problems/longest-increasing-subsequence) (Medium)
   1. [最长连续递增序列](/problems/longest-continuous-increasing-subsequence) (Easy)
 
 ---

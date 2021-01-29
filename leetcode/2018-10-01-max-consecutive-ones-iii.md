@@ -50,7 +50,7 @@ permalink:  /problems/max-consecutive-ones-iii/
   [[Sliding Window](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
 
 ### 相似题目
-  1. [至多包含 K 个不同字符的最长子串](/problems/longest-substring-with-at-most-k-distinct-characters) (Hard)
+  1. [至多包含 K 个不同字符的最长子串](/problems/longest-substring-with-at-most-k-distinct-characters) (Medium)
   1. [替换后的最长重复字符](/problems/longest-repeating-character-replacement) (Medium)
   1. [最大连续1的个数](/problems/max-consecutive-ones) (Easy)
   1. [最大连续1的个数 II](/problems/max-consecutive-ones-ii) (Medium)

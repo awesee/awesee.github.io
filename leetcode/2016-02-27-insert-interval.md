@@ -7,7 +7,7 @@ tags:       [Sort, Array]
 permalink:  /problems/insert-interval/
 ---
 
-## 57. 插入区间 (Hard)
+## 57. 插入区间 (Medium)
 
 {% raw %}
 

@@ -37,7 +37,7 @@ permalink:  /problems/robot-return-to-origin/
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ### 相似题目
-  1. [朋友圈](/problems/friend-circles) (Medium)
+  1. [省份数量](/problems/number-of-provinces) (Medium)
 
 ---
 

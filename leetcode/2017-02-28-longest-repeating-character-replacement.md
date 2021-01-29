@@ -48,7 +48,7 @@ s = &quot;AABABBA&quot;, k = 1
   [[Sliding Window](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
 
 ### 相似题目
-  1. [至多包含 K 个不同字符的最长子串](/problems/longest-substring-with-at-most-k-distinct-characters) (Hard)
+  1. [至多包含 K 个不同字符的最长子串](/problems/longest-substring-with-at-most-k-distinct-characters) (Medium)
   1. [最大连续1的个数 III](/problems/max-consecutive-ones-iii) (Medium)
 
 ---

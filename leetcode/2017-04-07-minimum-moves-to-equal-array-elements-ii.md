@@ -35,7 +35,7 @@ permalink:  /problems/minimum-moves-to-equal-array-elements-ii/
 
 ### 相似题目
   1. [最佳的碰头地点](/problems/best-meeting-point) (Hard)
-  1. [最小移动次数使数组元素相等](/problems/minimum-moves-to-equal-array-elements) (Easy)
+  1. [最小操作次数使数组元素相等](/problems/minimum-moves-to-equal-array-elements) (Easy)
 
 ---
 

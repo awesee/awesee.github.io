@@ -3,7 +3,7 @@ layout:     single
 title:      "分割回文串"
 date:       2016-05-11 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Backtracking]
+tags:       [Depth-first Search, Dynamic Programming, Backtracking]
 permalink:  /problems/palindrome-partitioning/
 ---
 
@@ -27,6 +27,8 @@ permalink:  /problems/palindrome-partitioning/
 {% endraw %}
 
 ### 相关话题
+  [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
   [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
 
 ### 相似题目

@@ -3,7 +3,7 @@ layout:     single
 title:      "将 x 减到 0 的最小操作数"
 date:       2020-07-16 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Greedy, Two Pointers, Binary Search]
+tags:       [Greedy, Two Pointers, Binary Search, Sliding Window]
 permalink:  /problems/minimum-operations-to-reduce-x-to-zero/
 ---
 
@@ -56,6 +56,7 @@ permalink:  /problems/minimum-operations-to-reduce-x-to-zero/
   [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
   [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
   [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[Sliding Window](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
 
 ---
 

@@ -6,6 +6,11 @@ categories: [Guide]
 tags: [Guide]
 ---
 
+## 获取图片详细信息
+```bash
+$ identify -verbose example.jpg
+```
+
 ## M3U8 Download
 ```bash
 $ ffmpeg -i https://example.com/index.m3u8 -c copy out.flv

@@ -3,7 +3,7 @@ layout:     single
 title:      "通过指令创建有序数组"
 date:       2020-07-07 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Binary Indexed Tree, Segment Tree, Ordered Map]
+tags:       [Binary Indexed Tree, Segment Tree, Binary Search, Ordered Map]
 permalink:  /problems/create-sorted-array-through-instructions/
 ---
 
@@ -80,6 +80,7 @@ permalink:  /problems/create-sorted-array-through-instructions/
 ### 相关话题
   [[树状数组](https://github.com/openset/leetcode/tree/master/tag/binary-indexed-tree/README.md)]
   [[线段树](https://github.com/openset/leetcode/tree/master/tag/segment-tree/README.md)]
+  [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
   [[Ordered Map](https://github.com/openset/leetcode/tree/master/tag/ordered-map/README.md)]
 
 ---
