@@ -45,7 +45,7 @@ permalink:  /problems/merge-intervals/
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 
 ### 相似题目
-  1. [插入区间](/problems/insert-interval) (Hard)
+  1. [插入区间](/problems/insert-interval) (Medium)
   1. [会议室](/problems/meeting-rooms) (Easy)
   1. [会议室 II](/problems/meeting-rooms-ii) (Medium)
   1. [提莫攻击](/problems/teemo-attacking) (Medium)

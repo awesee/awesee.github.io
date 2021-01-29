@@ -3,7 +3,7 @@ layout:     single
 title:      "两两交换链表中的节点"
 date:       2016-01-25 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Linked List]
+tags:       [Recursion, Linked List]
 permalink:  /problems/swap-nodes-in-pairs/
 ---
 
@@ -47,9 +47,14 @@ permalink:  /problems/swap-nodes-in-pairs/
 	<li><code>0 <= Node.val <= 100</code></li>
 </ul>
 
+<p> </p>
+
+<p><strong>进阶：</strong>你能在不修改链表节点值的情况下解决这个问题吗?（也就是说，仅修改节点本身。）</p>
+
 {% endraw %}
 
 ### 相关话题
+  [[递归](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]
   [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
 
 ### 相似题目

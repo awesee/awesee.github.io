@@ -39,7 +39,7 @@ permalink:  /problems/best-time-to-buy-and-sell-stock-iv/
 <p><strong>提示：</strong></p>
 
 <ul>
-	<li><code>0 <= k <= 10<sup>9</sup></code></li>
+	<li><code>0 <= k <= 100</code></li>
 	<li><code>0 <= prices.length <= 1000</code></li>
 	<li><code>0 <= prices[i] <= 1000</code></li>
 </ul>

@@ -3,7 +3,7 @@ layout:     single
 title:      "具有所有最深节点的最小子树"
 date:       2018-05-15 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Tree]
+tags:       [Tree, Depth-first Search, Breadth-first Search, Recursion]
 permalink:  /problems/smallest-subtree-with-all-the-deepest-nodes/
 ---
 
@@ -66,6 +66,9 @@ permalink:  /problems/smallest-subtree-with-all-the-deepest-nodes/
 
 ### 相关话题
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
+  [[递归](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]
 
 ---
 

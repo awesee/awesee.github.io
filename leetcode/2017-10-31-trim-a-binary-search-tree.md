@@ -3,11 +3,11 @@ layout:     single
 title:      "修剪二叉搜索树"
 date:       2017-10-31 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Tree]
+tags:       [Tree, Recursion]
 permalink:  /problems/trim-a-binary-search-tree/
 ---
 
-## 669. 修剪二叉搜索树 (Easy)
+## 669. 修剪二叉搜索树 (Medium)
 
 {% raw %}
 
@@ -68,6 +68,7 @@ permalink:  /problems/trim-a-binary-search-tree/
 
 ### 相关话题
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[递归](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]
 
 ---
 

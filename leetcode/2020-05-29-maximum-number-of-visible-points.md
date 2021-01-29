@@ -59,7 +59,7 @@ permalink:  /problems/maximum-number-of-visible-points/
 	<li><code>points[i].length == 2</code></li>
 	<li><code>location.length == 2</code></li>
 	<li><code>0 <= angle < 360</code></li>
-	<li><code>0 <= pos<sub>x</sub>, pos<sub>y</sub>, x<sub>i</sub>, y<sub>i</sub> <= 10<sup>9</sup></code></li>
+	<li><code>0 <= pos<sub>x</sub>, pos<sub>y</sub>, x<sub>i</sub>, y<sub>i</sub> <= 100</code></li>
 </ul>
 
 {% endraw %}

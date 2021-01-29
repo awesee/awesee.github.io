@@ -36,7 +36,7 @@ permalink:  /problems/maximum-product-subarray/
 
 ### 相似题目
   1. [最大子序和](/problems/maximum-subarray) (Easy)
-  1. [打家劫舍](/problems/house-robber) (Easy)
+  1. [打家劫舍](/problems/house-robber) (Medium)
   1. [除自身以外数组的乘积](/problems/product-of-array-except-self) (Medium)
   1. [三个数的最大乘积](/problems/maximum-product-of-three-numbers) (Easy)
   1. [乘积小于K的子数组](/problems/subarray-product-less-than-k) (Medium)

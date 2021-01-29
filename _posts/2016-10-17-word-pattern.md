@@ -45,7 +45,7 @@ permalink:  /problems/word-pattern/
 
 ### 相似题目
   1. [同构字符串](/problems/isomorphic-strings) (Easy)
-  1. [单词规律 II](/problems/word-pattern-ii) (Hard)
+  1. [单词规律 II](/problems/word-pattern-ii) (Medium)
 
 ---
 

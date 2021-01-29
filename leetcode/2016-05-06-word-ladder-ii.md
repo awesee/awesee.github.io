@@ -62,7 +62,7 @@ wordList = [&quot;hot&quot;,&quot;dot&quot;,&quot;dog&quot;,&quot;lot&quot;,&quo
   [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
 
 ### 相似题目
-  1. [单词接龙](/problems/word-ladder) (Medium)
+  1. [单词接龙](/problems/word-ladder) (Hard)
 
 ---
 
