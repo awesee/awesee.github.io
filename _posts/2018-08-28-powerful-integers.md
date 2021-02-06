@@ -7,7 +7,7 @@ tags:       [Hash Table, Math]
 permalink:  /problems/powerful-integers/
 ---
 
-## 970. 强整数 (Easy)
+## 970. 强整数 (Medium)
 
 {% raw %}
 

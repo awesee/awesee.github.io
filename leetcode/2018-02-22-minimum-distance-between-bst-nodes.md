@@ -3,7 +3,7 @@ layout:     single
 title:      "二叉搜索树节点最小距离"
 date:       2018-02-22 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Tree, Recursion]
+tags:       [Tree, Depth-first Search, Recursion]
 permalink:  /problems/minimum-distance-between-bst-nodes/
 ---
 
@@ -46,6 +46,7 @@ permalink:  /problems/minimum-distance-between-bst-nodes/
 
 ### 相关话题
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
   [[递归](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]
 
 ### 相似题目

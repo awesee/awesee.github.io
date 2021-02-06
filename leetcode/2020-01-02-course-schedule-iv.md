@@ -1,13 +1,13 @@
 ---
 layout:     single
-title:      "课程安排 IV"
+title:      "课程表 IV"
 date:       2020-01-02 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Graph]
 permalink:  /problems/course-schedule-iv/
 ---
 
-## 1462. 课程安排 IV (Medium)
+## 1462. 课程表 IV (Medium)
 
 {% raw %}
 

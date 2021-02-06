@@ -1,13 +1,13 @@
 ---
 layout:     single
-title:      "给房子涂色 III"
+title:      "粉刷房子 III"
 date:       2020-01-13 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Dynamic Programming]
 permalink:  /problems/paint-house-iii/
 ---
 
-## 1473. 给房子涂色 III (Hard)
+## 1473. 粉刷房子 III (Hard)
 
 {% raw %}
 
