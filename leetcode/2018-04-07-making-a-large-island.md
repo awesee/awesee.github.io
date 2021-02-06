@@ -3,7 +3,7 @@ layout:     single
 title:      "最大人工岛"
 date:       2018-04-07 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Depth-first Search]
+tags:       [Depth-first Search, Breadth-first Search]
 permalink:  /problems/making-a-large-island/
 ---
 
@@ -48,6 +48,7 @@ permalink:  /problems/making-a-large-island/
 
 ### 相关话题
   [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
 
 ---
 
