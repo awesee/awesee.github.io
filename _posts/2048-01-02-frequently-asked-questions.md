@@ -6,6 +6,11 @@ categories: [Guide]
 tags: [Guide]
 ---
 
+## 镜像网站
+```bash
+$ wget --mirror --convert-links --adjust-extension --page-requisites --no-parent https://www.example.com
+```
+
 ## 获取图片详细信息
 ```bash
 $ identify -verbose example.jpg
