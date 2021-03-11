@@ -1,6 +1,6 @@
 ---
-title: ""
+title: "Dequeue"
 layout: tag
 permalink: /tags/dequeue/
-taxonomy: 
+taxonomy: Dequeue
 ---

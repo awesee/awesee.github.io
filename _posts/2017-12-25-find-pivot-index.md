@@ -1,23 +1,23 @@
 ---
 layout:     single
-title:      "寻找数组的中心索引"
+title:      "寻找数组的中心下标"
 date:       2017-12-25 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Array]
 permalink:  /problems/find-pivot-index/
 ---
 
-## 724. 寻找数组的中心索引 (Easy)
+## 724. 寻找数组的中心下标 (Easy)
 
 {% raw %}
 
-<p>给你一个整数数组 <code>nums</code>，请编写一个能够返回数组 <strong>“中心索引” </strong>的方法。</p>
+<p>给你一个整数数组 <code>nums</code>，请编写一个能够返回数组 <strong>“中心下标” </strong>的方法。</p>
 
-<p>数组<strong> 中心索引 </strong>是数组的一个索引，其左侧所有元素相加的和等于右侧所有元素相加的和。</p>
+<p>数组<strong> 中心下标</strong><strong> </strong>是数组的一个下标，其左侧所有元素相加的和等于右侧所有元素相加的和。</p>
 
-<p>如果数组不存在中心索引，返回 <code>-1</code> 。如果数组有多个中心索引，应该返回最靠近左边的那一个。</p>
+<p>如果数组不存在中心下标，返回 <code>-1</code> 。如果数组有多个中心下标，应该返回最靠近左边的那一个。</p>
 
-<p><strong>注意：</strong>中心索引可能出现在数组的两端。</p>
+<p><strong>注意：</strong>中心下标可能出现在数组的两端。</p>
 
 <p> </p>
 
@@ -27,7 +27,7 @@ permalink:  /problems/find-pivot-index/
 <strong>输入：</strong>nums = [1, 7, 3, 6, 5, 6]
 <strong>输出：</strong>3
 <strong>解释：</strong>
-中心索引是 3 。
+中心下标是 3 。
 左侧数之和 (1 + 7 + 3 = 11)，
 右侧数之和 (5 + 6 = 11) ，二者相等。
 </pre>
@@ -38,7 +38,7 @@ permalink:  /problems/find-pivot-index/
 <strong>输入：</strong>nums = [1, 2, 3]
 <strong>输出：</strong>-1
 <strong>解释：</strong>
-数组中不存在满足此条件的中心索引。</pre>
+数组中不存在满足此条件的中心下标。</pre>
 
 <p><strong>示例 3：</strong></p>
 
@@ -46,8 +46,8 @@ permalink:  /problems/find-pivot-index/
 <strong>输入：</strong>nums = [2, 1, -1]
 <strong>输出：</strong>0
 <strong>解释：</strong>
-中心索引是 0 。
-索引 0 左侧不存在元素，视作和为 0 ；
+中心下标是 0 。
+下标 0 左侧不存在元素，视作和为 0 ；
 右侧数之和为 1 + (-1) = 0 ，二者相等。
 </pre>
 

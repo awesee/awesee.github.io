@@ -34,7 +34,7 @@ permalink:  /problems/factorial-trailing-zeroes/
 
 ### 相似题目
   1. [数字 1 的个数](/problems/number-of-digit-one) (Hard)
-  1. [阶乘函数后K个零](/problems/preimage-size-of-factorial-zeroes-function) (Hard)
+  1. [阶乘函数后 K 个零](/problems/preimage-size-of-factorial-zeroes-function) (Hard)
 
 ---
 

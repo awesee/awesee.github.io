@@ -53,7 +53,7 @@ iterator.hasNext(); // 返回 false</pre>
   1. [展开二维向量](/problems/flatten-2d-vector) (Medium)
   1. [锯齿迭代器](/problems/zigzag-iterator) (Medium)
   1. [顶端迭代器](/problems/peeking-iterator) (Medium)
-  1. [二叉搜索树中的顺序后继](/problems/inorder-successor-in-bst) (Medium)
+  1. [二叉搜索树中的中序后继](/problems/inorder-successor-in-bst) (Medium)
 
 ---
 

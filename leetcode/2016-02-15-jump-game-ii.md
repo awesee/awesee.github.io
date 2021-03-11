@@ -7,7 +7,7 @@ tags:       [Greedy, Array]
 permalink:  /problems/jump-game-ii/
 ---
 
-## 45. 跳跃游戏 II (Hard)
+## 45. 跳跃游戏 II (Medium)
 
 {% raw %}
 

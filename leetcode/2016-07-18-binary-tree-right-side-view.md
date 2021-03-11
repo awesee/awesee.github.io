@@ -3,7 +3,7 @@ layout:     single
 title:      "二叉树的右视图"
 date:       2016-07-18 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Tree, Depth-first Search, Breadth-first Search]
+tags:       [Tree, Depth-first Search, Breadth-first Search, Recursion, Queue]
 permalink:  /problems/binary-tree-right-side-view/
 ---
 
@@ -32,6 +32,8 @@ permalink:  /problems/binary-tree-right-side-view/
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
   [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
   [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
+  [[递归](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]
+  [[队列](https://github.com/openset/leetcode/tree/master/tag/queue/README.md)]
 
 ### 相似题目
   1. [填充每个节点的下一个右侧节点指针](/problems/populating-next-right-pointers-in-each-node) (Medium)

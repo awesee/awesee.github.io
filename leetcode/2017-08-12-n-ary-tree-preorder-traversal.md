@@ -1,31 +1,57 @@
 ---
 layout:     single
-title:      "N叉树的前序遍历"
+title:      "N 叉树的前序遍历"
 date:       2017-08-12 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Tree]
 permalink:  /problems/n-ary-tree-preorder-traversal/
 ---
 
-## 589. N叉树的前序遍历 (Easy)
+## 589. N 叉树的前序遍历 (Easy)
 
 {% raw %}
 
-<p>给定一个 N 叉树，返回其节点值的<em>前序遍历</em>。</p>
+<p>给定一个 N 叉树，返回其节点值的<strong> 前序遍历</strong> 。</p>
 
-<p>例如，给定一个&nbsp;<code>3叉树</code>&nbsp;:</p>
+<p>N 叉树 在输入中按层序遍历进行序列化表示，每组子节点由空值 <code>null</code> 分隔（请参见示例）。</p>
 
-<p>&nbsp;</p>
+<div class="original__bRMd">
+<div>
+<p> </p>
 
-<p><img src="https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2018/10/12/narytreeexample.png" style="width: 100%; max-width: 300px;"></p>
+<p><strong>进阶：</strong></p>
 
-<p>&nbsp;</p>
+<p>递归法很简单，你可以使用迭代法完成此题吗?</p>
 
-<p>返回其前序遍历: <code>[1,3,5,6,2,4]</code>。</p>
+<p> </p>
 
-<p>&nbsp;</p>
+<p><strong>示例 1：</strong></p>
 
-<p><strong>说明:&nbsp;</strong>递归法很简单，你可以使用迭代法完成此题吗?</p>
+<p><img src="https://assets.leetcode.com/uploads/2018/10/12/narytreeexample.png" style="width: 100%; max-width: 300px;" /></p>
+
+<pre>
+<strong>输入：</strong>root = [1,null,3,2,4,null,5,6]
+<strong>输出：</strong>[1,3,5,6,2,4]
+</pre>
+<strong>示例 2：</strong>
+
+<p><img alt="" src="https://assets.leetcode.com/uploads/2019/11/08/sample_4_964.png" style="width: 296px; height: 241px;" /></p>
+
+<pre>
+<strong>输入：</strong>root = [1,null,2,3,4,5,null,null,6,7,null,8,null,9,10,null,null,11,null,12,null,13,null,null,14]
+<strong>输出：</strong>[1,2,3,6,7,11,14,4,8,12,5,9,13,10]
+</pre>
+
+<p> </p>
+
+<p><strong>提示：</strong></p>
+
+<ul>
+	<li>N 叉树的高度小于或等于 <code>1000</code></li>
+	<li>节点总数在范围 <code>[0, 10^4]</code> 内</li>
+</ul>
+</div>
+</div>
 
 {% endraw %}
 
@@ -35,7 +61,7 @@ permalink:  /problems/n-ary-tree-preorder-traversal/
 ### 相似题目
   1. [二叉树的前序遍历](/problems/binary-tree-preorder-traversal) (Medium)
   1. [N 叉树的层序遍历](/problems/n-ary-tree-level-order-traversal) (Medium)
-  1. [N叉树的后序遍历](/problems/n-ary-tree-postorder-traversal) (Easy)
+  1. [N 叉树的后序遍历](/problems/n-ary-tree-postorder-traversal) (Easy)
 
 ---
 

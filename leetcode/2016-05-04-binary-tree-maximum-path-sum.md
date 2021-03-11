@@ -11,7 +11,7 @@ permalink:  /problems/binary-tree-maximum-path-sum/
 
 {% raw %}
 
-<p><strong>路径</strong> 被定义为一条从树中任意节点出发，沿父节点-子节点连接，达到任意节点的序列。该路径<strong> 至少包含一个 </strong>节点，且不一定经过根节点。</p>
+<p><strong>路径</strong> 被定义为一条从树中任意节点出发，沿父节点-子节点连接，达到任意节点的序列。同一个节点在一条路径序列中 <strong>至多出现一次</strong> 。该路径<strong> 至少包含一个 </strong>节点，且不一定经过根节点。</p>
 
 <p><strong>路径和</strong> 是路径中各节点值的总和。</p>
 
@@ -52,8 +52,8 @@ permalink:  /problems/binary-tree-maximum-path-sum/
 
 ### 相似题目
   1. [路径总和](/problems/path-sum) (Easy)
-  1. [求根到叶子节点数字之和](/problems/sum-root-to-leaf-numbers) (Medium)
-  1. [路径和 IV](/problems/path-sum-iv) (Medium)
+  1. [求根节点到叶节点数字之和](/problems/sum-root-to-leaf-numbers) (Medium)
+  1. [路径总和 IV](/problems/path-sum-iv) (Medium)
   1. [最长同值路径](/problems/longest-univalue-path) (Medium)
 
 ---

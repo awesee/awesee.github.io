@@ -62,7 +62,7 @@ permalink:  /problems/smallest-string-starting-from-leaf/
   [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
 
 ### 相似题目
-  1. [求根到叶子节点数字之和](/problems/sum-root-to-leaf-numbers) (Medium)
+  1. [求根节点到叶节点数字之和](/problems/sum-root-to-leaf-numbers) (Medium)
   1. [二叉树的所有路径](/problems/binary-tree-paths) (Easy)
 
 ---

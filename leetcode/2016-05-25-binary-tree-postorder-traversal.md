@@ -34,7 +34,7 @@ permalink:  /problems/binary-tree-postorder-traversal/
 
 ### 相似题目
   1. [二叉树的中序遍历](/problems/binary-tree-inorder-traversal) (Medium)
-  1. [N叉树的后序遍历](/problems/n-ary-tree-postorder-traversal) (Easy)
+  1. [N 叉树的后序遍历](/problems/n-ary-tree-postorder-traversal) (Easy)
 
 ---
 

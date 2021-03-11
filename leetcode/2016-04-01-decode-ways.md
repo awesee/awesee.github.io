@@ -76,7 +76,7 @@ permalink:  /problems/decode-ways/
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### 相似题目
-  1. [解码方法 2](/problems/decode-ways-ii) (Hard)
+  1. [解码方法 II](/problems/decode-ways-ii) (Hard)
 
 ---
 

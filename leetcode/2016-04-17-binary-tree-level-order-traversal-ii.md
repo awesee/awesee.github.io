@@ -7,7 +7,7 @@ tags:       [Tree, Breadth-first Search]
 permalink:  /problems/binary-tree-level-order-traversal-ii/
 ---
 
-## 107. 二叉树的层序遍历 II (Easy)
+## 107. 二叉树的层序遍历 II (Medium)
 
 {% raw %}
 

@@ -60,7 +60,7 @@ permalink:  /problems/valid-tic-tac-toe-state/
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
 
 ### 相似题目
-  1. [判定井字棋胜负](/problems/design-tic-tac-toe) (Medium)
+  1. [设计井字棋](/problems/design-tic-tac-toe) (Medium)
 
 ---
 

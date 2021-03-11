@@ -1,13 +1,13 @@
 ---
 layout:     single
-title:      "解码方法 2"
+title:      "解码方法 II"
 date:       2017-10-01 21:30:00 +0800
 categories: [Leetcode]
 tags:       [Dynamic Programming]
 permalink:  /problems/decode-ways-ii/
 ---
 
-## 639. 解码方法 2 (Hard)
+## 639. 解码方法 II (Hard)
 
 {% raw %}
 
