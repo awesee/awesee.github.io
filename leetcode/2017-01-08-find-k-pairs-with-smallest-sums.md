@@ -46,7 +46,7 @@ permalink:  /problems/find-k-pairs-with-smallest-sums/
   [[堆](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]
 
 ### 相似题目
-  1. [有序矩阵中第K小的元素](/problems/kth-smallest-element-in-a-sorted-matrix) (Medium)
+  1. [有序矩阵中第 K 小的元素](/problems/kth-smallest-element-in-a-sorted-matrix) (Medium)
   1. [找出第 k 小的距离对](/problems/find-k-th-smallest-pair-distance) (Hard)
 
 ---

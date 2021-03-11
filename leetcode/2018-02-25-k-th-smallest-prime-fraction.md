@@ -55,7 +55,7 @@ permalink:  /problems/k-th-smallest-prime-fraction/
   [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
 
 ### 相似题目
-  1. [有序矩阵中第K小的元素](/problems/kth-smallest-element-in-a-sorted-matrix) (Medium)
+  1. [有序矩阵中第 K 小的元素](/problems/kth-smallest-element-in-a-sorted-matrix) (Medium)
   1. [乘法表中第k小的数](/problems/kth-smallest-number-in-multiplication-table) (Hard)
   1. [找出第 k 小的距离对](/problems/find-k-th-smallest-pair-distance) (Hard)
 

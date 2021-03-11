@@ -7,7 +7,7 @@ tags:       [Bit Manipulation]
 permalink:  /problems/sum-of-two-integers/
 ---
 
-## 371. 两整数之和 (Easy)
+## 371. 两整数之和 (Medium)
 
 {% raw %}
 

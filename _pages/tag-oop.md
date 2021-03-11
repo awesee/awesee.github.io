@@ -1,6 +1,6 @@
 ---
-title: ""
+title: "OOP"
 layout: tag
 permalink: /tags/oop/
-taxonomy: 
+taxonomy: OOP
 ---

@@ -72,7 +72,7 @@ permalink:  /problems/binary-tree-preorder-traversal/
 ### 相似题目
   1. [二叉树的中序遍历](/problems/binary-tree-inorder-traversal) (Medium)
   1. [验证前序遍历序列二叉搜索树](/problems/verify-preorder-sequence-in-binary-search-tree) (Medium)
-  1. [N叉树的前序遍历](/problems/n-ary-tree-preorder-traversal) (Easy)
+  1. [N 叉树的前序遍历](/problems/n-ary-tree-preorder-traversal) (Easy)
 
 ---
 

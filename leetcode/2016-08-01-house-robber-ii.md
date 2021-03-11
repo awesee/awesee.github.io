@@ -57,7 +57,7 @@ permalink:  /problems/house-robber-ii/
 ### 相似题目
   1. [打家劫舍](/problems/house-robber) (Medium)
   1. [粉刷房子](/problems/paint-house) (Medium)
-  1. [栅栏涂色](/problems/paint-fence) (Easy)
+  1. [栅栏涂色](/problems/paint-fence) (Medium)
   1. [打家劫舍 III](/problems/house-robber-iii) (Medium)
   1. [不含连续1的非负整数](/problems/non-negative-integers-without-consecutive-ones) (Hard)
   1. [金币路径](/problems/coin-path) (Hard)

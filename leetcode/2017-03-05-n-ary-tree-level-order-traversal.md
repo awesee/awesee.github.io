@@ -52,8 +52,8 @@ permalink:  /problems/n-ary-tree-level-order-traversal/
 
 ### 相似题目
   1. [二叉树的层序遍历](/problems/binary-tree-level-order-traversal) (Medium)
-  1. [N叉树的前序遍历](/problems/n-ary-tree-preorder-traversal) (Easy)
-  1. [N叉树的后序遍历](/problems/n-ary-tree-postorder-traversal) (Easy)
+  1. [N 叉树的前序遍历](/problems/n-ary-tree-preorder-traversal) (Easy)
+  1. [N 叉树的后序遍历](/problems/n-ary-tree-postorder-traversal) (Easy)
 
 ---
 

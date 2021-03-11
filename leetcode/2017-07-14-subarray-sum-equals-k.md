@@ -37,7 +37,7 @@ permalink:  /problems/subarray-sum-equals-k/
   1. [两数之和](/problems/two-sum) (Easy)
   1. [连续的子数组和](/problems/continuous-subarray-sum) (Medium)
   1. [乘积小于K的子数组](/problems/subarray-product-less-than-k) (Medium)
-  1. [寻找数组的中心索引](/problems/find-pivot-index) (Easy)
+  1. [寻找数组的中心下标](/problems/find-pivot-index) (Easy)
   1. [和可被 K 整除的子数组](/problems/subarray-sums-divisible-by-k) (Medium)
 
 ---

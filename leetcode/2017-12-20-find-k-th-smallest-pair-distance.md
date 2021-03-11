@@ -45,7 +45,7 @@ k = 1
 
 ### 相似题目
   1. [查找和最小的K对数字](/problems/find-k-pairs-with-smallest-sums) (Medium)
-  1. [有序矩阵中第K小的元素](/problems/kth-smallest-element-in-a-sorted-matrix) (Medium)
+  1. [有序矩阵中第 K 小的元素](/problems/kth-smallest-element-in-a-sorted-matrix) (Medium)
   1. [找到 K 个最接近的元素](/problems/find-k-closest-elements) (Medium)
   1. [乘法表中第k小的数](/problems/kth-smallest-number-in-multiplication-table) (Hard)
   1. [第 K 个最小的素数分数](/problems/k-th-smallest-prime-fraction) (Hard)

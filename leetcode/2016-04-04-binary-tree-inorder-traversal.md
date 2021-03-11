@@ -77,7 +77,7 @@ permalink:  /problems/binary-tree-inorder-traversal/
   1. [二叉搜索树迭代器](/problems/binary-search-tree-iterator) (Medium)
   1. [二叉搜索树中第K小的元素](/problems/kth-smallest-element-in-a-bst) (Medium)
   1. [最接近的二叉搜索树值 II](/problems/closest-binary-search-tree-value-ii) (Hard)
-  1. [二叉搜索树中的顺序后继](/problems/inorder-successor-in-bst) (Medium)
+  1. [二叉搜索树中的中序后继](/problems/inorder-successor-in-bst) (Medium)
   1. [将二叉搜索树转化为排序的双向链表](/problems/convert-binary-search-tree-to-sorted-doubly-linked-list) (Medium)
   1. [二叉搜索树节点最小距离](/problems/minimum-distance-between-bst-nodes) (Easy)
 
