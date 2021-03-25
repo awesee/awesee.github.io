@@ -24,14 +24,6 @@ permalink:  /problems/number-of-1-bits/
 
 <p> </p>
 
-<p><strong>进阶</strong>：</p>
-
-<ul>
-	<li>如果多次调用这个函数，你将如何优化你的算法？</li>
-</ul>
-
-<p> </p>
-
 <p><strong>示例 1：</strong></p>
 
 <pre>
@@ -67,6 +59,12 @@ permalink:  /problems/number-of-1-bits/
 </ul>
 
 <p> </p>
+
+<p><strong>进阶</strong>：</p>
+
+<ul>
+	<li>如果多次调用这个函数，你将如何优化你的算法？</li>
+</ul>
 
 {% endraw %}
 
