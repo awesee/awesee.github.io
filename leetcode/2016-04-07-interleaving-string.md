@@ -7,7 +7,7 @@ tags:       [String, Dynamic Programming]
 permalink:  /problems/interleaving-string/
 ---
 
-## 97. 交错字符串 (Hard)
+## 97. 交错字符串 (Medium)
 
 {% raw %}
 

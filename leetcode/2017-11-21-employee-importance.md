@@ -45,7 +45,7 @@ permalink:  /problems/employee-importance/
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
 
 ### 相似题目
-  1. [嵌套列表权重和](/problems/nested-list-weight-sum) (Easy)
+  1. [嵌套列表权重和](/problems/nested-list-weight-sum) (Medium)
 
 ---
 
