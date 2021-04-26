@@ -73,7 +73,7 @@ for (int i = 0; i < len; i++) {
 
 ### 相似题目
   1. [移除元素](/problems/remove-element) (Easy)
-  1. [删除排序数组中的重复项 II](/problems/remove-duplicates-from-sorted-array-ii) (Medium)
+  1. [删除有序数组中的重复项 II](/problems/remove-duplicates-from-sorted-array-ii) (Medium)
 
 ---
 
