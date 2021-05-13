@@ -51,7 +51,7 @@ permalink:  /problems/validate-binary-search-tree/
   [[递归](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]
 
 ### 相似题目
-  1. [二叉树的中序遍历](/problems/binary-tree-inorder-traversal) (Medium)
+  1. [二叉树的中序遍历](/problems/binary-tree-inorder-traversal) (Easy)
   1. [二叉搜索树中的众数](/problems/find-mode-in-binary-search-tree) (Easy)
 
 ---

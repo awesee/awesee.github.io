@@ -56,7 +56,7 @@ permalink:  /problems/house-robber/
   1. [打家劫舍 III](/problems/house-robber-iii) (Medium)
   1. [不含连续1的非负整数](/problems/non-negative-integers-without-consecutive-ones) (Hard)
   1. [金币路径](/problems/coin-path) (Hard)
-  1. [删除与获得点数](/problems/delete-and-earn) (Medium)
+  1. [删除并获得点数](/problems/delete-and-earn) (Medium)
 
 ---
 

@@ -76,7 +76,7 @@ bSTIterator.hasNext(); // 返回 False
   [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
 
 ### 相似题目
-  1. [二叉树的中序遍历](/problems/binary-tree-inorder-traversal) (Medium)
+  1. [二叉树的中序遍历](/problems/binary-tree-inorder-traversal) (Easy)
   1. [展开二维向量](/problems/flatten-2d-vector) (Medium)
   1. [锯齿迭代器](/problems/zigzag-iterator) (Medium)
   1. [顶端迭代器](/problems/peeking-iterator) (Medium)
