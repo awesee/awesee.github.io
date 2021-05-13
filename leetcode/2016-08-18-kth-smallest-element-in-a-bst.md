@@ -52,7 +52,7 @@ permalink:  /problems/kth-smallest-element-in-a-bst/
   [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
 
 ### 相似题目
-  1. [二叉树的中序遍历](/problems/binary-tree-inorder-traversal) (Medium)
+  1. [二叉树的中序遍历](/problems/binary-tree-inorder-traversal) (Easy)
   1. [二叉树中第二小的节点](/problems/second-minimum-node-in-a-binary-tree) (Easy)
 
 ---

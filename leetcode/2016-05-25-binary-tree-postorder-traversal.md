@@ -7,7 +7,7 @@ tags:       [Stack, Tree]
 permalink:  /problems/binary-tree-postorder-traversal/
 ---
 
-## 145. 二叉树的后序遍历 (Medium)
+## 145. 二叉树的后序遍历 (Easy)
 
 {% raw %}
 
@@ -33,7 +33,7 @@ permalink:  /problems/binary-tree-postorder-traversal/
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
 
 ### 相似题目
-  1. [二叉树的中序遍历](/problems/binary-tree-inorder-traversal) (Medium)
+  1. [二叉树的中序遍历](/problems/binary-tree-inorder-traversal) (Easy)
   1. [N 叉树的后序遍历](/problems/n-ary-tree-postorder-traversal) (Easy)
 
 ---

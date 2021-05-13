@@ -13,7 +13,7 @@ permalink:  /problems/largest-number-at-least-twice-of-others/
 
 <p>给你一个整数数组 <code>nums</code> ，其中总是存在 <strong>唯一的</strong> 一个最大整数 。</p>
 
-<p>请你找出数组中的最大元素并检查它是否至少是数组中每个其他数字的两倍。如果是，则返回 <strong>最大元素的下标</strong> ，否则返回 <code>-1</code> 。</p>
+<p>请你找出数组中的最大元素并检查它是否 <strong>至少是数组中每个其他数字的两倍</strong> 。如果是，则返回 <strong>最大元素的下标</strong> ，否则返回 <code>-1</code> 。</p>
 
 <p> </p>
 
@@ -31,6 +31,14 @@ permalink:  /problems/largest-number-at-least-twice-of-others/
 <strong>输入：</strong>nums = [1,2,3,4]
 <strong>输出：</strong>-1
 <strong>解释：</strong>4 没有超过 3 的两倍大，所以返回 -1 。</pre>
+
+<p><strong>示例 3：</strong></p>
+
+<pre>
+<strong>输入：</strong>nums = [1]
+<strong>输出：</strong>0
+<strong>解释：</strong>因为不存在其他数字，所以认为现有数字 1 至少是其他数字的两倍。
+</pre>
 
 <p> </p>
 

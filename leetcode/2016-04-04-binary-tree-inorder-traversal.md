@@ -7,7 +7,7 @@ tags:       [Stack, Tree, Hash Table]
 permalink:  /problems/binary-tree-inorder-traversal/
 ---
 
-## 94. 二叉树的中序遍历 (Medium)
+## 94. 二叉树的中序遍历 (Easy)
 
 {% raw %}
 
@@ -73,7 +73,7 @@ permalink:  /problems/binary-tree-inorder-traversal/
 ### 相似题目
   1. [验证二叉搜索树](/problems/validate-binary-search-tree) (Medium)
   1. [二叉树的前序遍历](/problems/binary-tree-preorder-traversal) (Medium)
-  1. [二叉树的后序遍历](/problems/binary-tree-postorder-traversal) (Medium)
+  1. [二叉树的后序遍历](/problems/binary-tree-postorder-traversal) (Easy)
   1. [二叉搜索树迭代器](/problems/binary-search-tree-iterator) (Medium)
   1. [二叉搜索树中第K小的元素](/problems/kth-smallest-element-in-a-bst) (Medium)
   1. [最接近的二叉搜索树值 II](/problems/closest-binary-search-tree-value-ii) (Hard)
