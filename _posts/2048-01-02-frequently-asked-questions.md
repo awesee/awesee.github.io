@@ -6,6 +6,11 @@ categories: [Guide]
 tags: [Guide]
 ---
 
+## 创建指定大小，不占磁盘空间的文件
+```bash
+$ dd if=/dev/null of=/path/to/file [bs=1024] count=0 seek=20000000
+```
+
 ## 镜像网站
 ```bash
 $ wget --mirror --convert-links --adjust-extension --page-requisites --no-parent https://www.example.com
