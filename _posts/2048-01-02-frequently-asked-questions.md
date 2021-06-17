@@ -1,9 +1,9 @@
 ---
-layout: single
-title:  "常见问题解答"
-date:   2048-01-02 15:04:05 +0800
+layout:     single
+title:      "常见问题解答"
+date:       2048-01-02 15:04:05 +0800
 categories: [Guide]
-tags: [Guide]
+tags:       [Guide]
 ---
 
 ## 创建指定大小，不占磁盘空间的文件
