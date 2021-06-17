@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title:  "阿里云盘资源分享"
 date:   2021-06-01 15:04:05 +0800
 categories: [Share]
