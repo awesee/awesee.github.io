@@ -8,7 +8,7 @@ tags: [Share]
 
 ## 电影
 | 名称 | 链接 |
-| :-: | :-: |
+| --- | --- |
 | 你好李焕英 | https://www.aliyundrive.com/s/htG97VU3cuk |
 | 刺杀小说家 | https://www.aliyundrive.com/s/cdeL9rcVL2G |
 | 哥斯拉大战金刚 | https://www.aliyundrive.com/s/7AeANj1uQJa |
@@ -20,7 +20,7 @@ tags: [Share]
 
 ## 电视剧
 | 名称 | 链接 |
-| :-: | :-: |
+| --- | --- |
 | 一起深呼吸 | https://www.aliyundrive.com/s/zJuHYJWWR8k |
 | 三国演义 | https://www.aliyundrive.com/s/LuhqwBd8ScL |
 | 亮剑 | https://www.aliyundrive.com/s/ictXDtLqbaT |
