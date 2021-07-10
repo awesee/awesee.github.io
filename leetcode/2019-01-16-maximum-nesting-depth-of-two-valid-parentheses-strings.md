@@ -3,7 +3,7 @@ layout:     single
 title:      "有效括号的嵌套深度"
 date:       2019-01-16 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Greedy, Binary Search]
+tags:       [Stack, String]
 permalink:  /problems/maximum-nesting-depth-of-two-valid-parentheses-strings/
 ---
 
@@ -90,8 +90,8 @@ permalink:  /problems/maximum-nesting-depth-of-two-valid-parentheses-strings/
 {% endraw %}
 
 ### 相关话题
-  [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
-  [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ---
 

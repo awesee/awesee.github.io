@@ -3,7 +3,7 @@ layout:     single
 title:      "竖直打印单词"
 date:       2019-08-17 21:30:00 +0800
 categories: [Leetcode]
-tags:       [String]
+tags:       [Array, String, Simulation]
 permalink:  /problems/print-words-vertically/
 ---
 
@@ -56,7 +56,9 @@ permalink:  /problems/print-words-vertically/
 {% endraw %}
 
 ### 相关话题
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[模拟](https://github.com/openset/leetcode/tree/master/tag/simulation/README.md)]
 
 ---
 

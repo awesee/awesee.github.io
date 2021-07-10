@@ -3,7 +3,7 @@ layout:     single
 title:      "找出第 N 个二进制字符串中的第 K 位"
 date:       2020-03-25 21:30:00 +0800
 categories: [Leetcode]
-tags:       [String]
+tags:       [Recursion, String]
 permalink:  /problems/find-kth-bit-in-nth-binary-string/
 ---
 
@@ -75,6 +75,7 @@ permalink:  /problems/find-kth-bit-in-nth-binary-string/
 {% endraw %}
 
 ### 相关话题
+  [[递归](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ---

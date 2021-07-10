@@ -3,7 +3,7 @@ layout:     single
 title:      "设计停车系统"
 date:       2020-05-22 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Design]
+tags:       [Design, Counting, Simulation]
 permalink:  /problems/design-parking-system/
 ---
 
@@ -53,6 +53,8 @@ parkingSystem.addCar(1); // 返回 false ，因为没有空的大车位，唯一
 
 ### 相关话题
   [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
+  [[计数](https://github.com/openset/leetcode/tree/master/tag/counting/README.md)]
+  [[模拟](https://github.com/openset/leetcode/tree/master/tag/simulation/README.md)]
 
 ---
 

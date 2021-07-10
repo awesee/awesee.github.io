@@ -3,7 +3,7 @@ layout:     single
 title:      "移动石子直到连续"
 date:       2018-10-30 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Brainteaser]
+tags:       [Brainteaser, Math]
 permalink:  /problems/moving-stones-until-consecutive/
 ---
 
@@ -52,6 +52,7 @@ permalink:  /problems/moving-stones-until-consecutive/
 
 ### 相关话题
   [[脑筋急转弯](https://github.com/openset/leetcode/tree/master/tag/brainteaser/README.md)]
+  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
 
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "获取生成数组中的最大值"
 date:       2020-07-04 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Array]
+tags:       [Array, Dynamic Programming, Simulation]
 permalink:  /problems/get-maximum-in-generated-array/
 ---
 
@@ -69,6 +69,8 @@ permalink:  /problems/get-maximum-in-generated-array/
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[模拟](https://github.com/openset/leetcode/tree/master/tag/simulation/README.md)]
 
 ---
 

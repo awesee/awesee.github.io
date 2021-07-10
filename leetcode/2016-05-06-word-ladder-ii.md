@@ -3,7 +3,7 @@ layout:     single
 title:      "单词接龙 II"
 date:       2016-05-06 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Breadth-first Search, Array, String, Backtracking]
+tags:       [Breadth-First Search, Hash Table, String, Backtracking]
 permalink:  /problems/word-ladder-ii/
 ---
 
@@ -63,9 +63,9 @@ permalink:  /problems/word-ladder-ii/
 
 ### 相关话题
   [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
-  [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[回溯](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
 
 ### 相似题目
   1. [单词接龙](/problems/word-ladder) (Hard)

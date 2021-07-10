@@ -3,7 +3,7 @@ layout:     single
 title:      "卡牌分组"
 date:       2018-07-03 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Array, Math]
+tags:       [Array, Hash Table, Math, Counting, Number Theory]
 permalink:  /problems/x-of-a-kind-in-a-deck-of-cards/
 ---
 
@@ -73,7 +73,10 @@ permalink:  /problems/x-of-a-kind-in-a-deck-of-cards/
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[计数](https://github.com/openset/leetcode/tree/master/tag/counting/README.md)]
+  [[数论](https://github.com/openset/leetcode/tree/master/tag/number-theory/README.md)]
 
 ---
 

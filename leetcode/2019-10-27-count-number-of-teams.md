@@ -3,7 +3,7 @@ layout:     single
 title:      "统计作战单位数"
 date:       2019-10-27 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Array]
+tags:       [Binary Indexed Tree, Array, Dynamic Programming]
 permalink:  /problems/count-number-of-teams/
 ---
 
@@ -61,7 +61,9 @@ permalink:  /problems/count-number-of-teams/
 {% endraw %}
 
 ### 相关话题
+  [[树状数组](https://github.com/openset/leetcode/tree/master/tag/binary-indexed-tree/README.md)]
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ---
 

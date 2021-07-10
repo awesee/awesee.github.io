@@ -3,7 +3,7 @@ layout:     single
 title:      "从叶结点开始的最小字符串"
 date:       2018-09-15 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Tree, Depth-first Search]
+tags:       [Tree, Depth-First Search, String, Binary Tree]
 permalink:  /problems/smallest-string-starting-from-leaf/
 ---
 
@@ -60,6 +60,8 @@ permalink:  /problems/smallest-string-starting-from-leaf/
 ### 相关话题
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
   [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[二叉树](https://github.com/openset/leetcode/tree/master/tag/binary-tree/README.md)]
 
 ### 相似题目
   1. [求根节点到叶节点数字之和](/problems/sum-root-to-leaf-numbers) (Medium)

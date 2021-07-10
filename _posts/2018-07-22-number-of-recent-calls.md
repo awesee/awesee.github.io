@@ -3,7 +3,7 @@ layout:     single
 title:      "最近的请求次数"
 date:       2018-07-22 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Queue]
+tags:       [Design, Queue, Data Stream]
 permalink:  /problems/number-of-recent-calls/
 ---
 
@@ -54,7 +54,9 @@ recentCounter.ping(3002);  // requests = [1, <strong>100</strong>, <strong>3001<
 {% endraw %}
 
 ### 相关话题
+  [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
   [[队列](https://github.com/openset/leetcode/tree/master/tag/queue/README.md)]
+  [[数据流](https://github.com/openset/leetcode/tree/master/tag/data-stream/README.md)]
 
 ---
 

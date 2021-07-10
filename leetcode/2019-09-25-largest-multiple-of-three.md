@@ -3,7 +3,7 @@ layout:     single
 title:      "形成三的最大倍数"
 date:       2019-09-25 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Math, Dynamic Programming]
+tags:       [Greedy, Array, Dynamic Programming]
 permalink:  /problems/largest-multiple-of-three/
 ---
 
@@ -56,7 +56,8 @@ permalink:  /problems/largest-multiple-of-three/
 {% endraw %}
 
 ### 相关话题
-  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ---

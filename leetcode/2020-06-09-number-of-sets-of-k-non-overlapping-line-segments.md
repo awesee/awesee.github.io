@@ -3,7 +3,7 @@ layout:     single
 title:      "大小为 K 的不重叠线段的数目"
 date:       2020-06-09 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Dynamic Programming]
+tags:       [Math, Dynamic Programming]
 permalink:  /problems/number-of-sets-of-k-non-overlapping-line-segments/
 ---
 
@@ -67,6 +67,7 @@ permalink:  /problems/number-of-sets-of-k-non-overlapping-line-segments/
 {% endraw %}
 
 ### 相关话题
+  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ---

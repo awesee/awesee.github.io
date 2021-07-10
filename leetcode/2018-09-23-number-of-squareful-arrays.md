@@ -3,7 +3,7 @@ layout:     single
 title:      "正方形数组的数目"
 date:       2018-09-23 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Graph, Math, Backtracking]
+tags:       [Bit Manipulation, Array, Math, Dynamic Programming, Backtracking, Bitmask]
 permalink:  /problems/number-of-squareful-arrays/
 ---
 
@@ -43,9 +43,12 @@ permalink:  /problems/number-of-squareful-arrays/
 {% endraw %}
 
 ### 相关话题
-  [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
+  [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[回溯](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[状态压缩](https://github.com/openset/leetcode/tree/master/tag/bitmask/README.md)]
 
 ### 相似题目
   1. [全排列 II](/problems/permutations-ii) (Medium)

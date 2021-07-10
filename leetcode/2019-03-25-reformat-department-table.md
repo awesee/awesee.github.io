@@ -3,7 +3,7 @@ layout:     single
 title:      "重新格式化部门表"
 date:       2019-03-25 21:30:00 +0800
 categories: [Leetcode]
-tags:       []
+tags:       [Database]
 permalink:  /problems/reformat-department-table/
 ---
 
@@ -57,6 +57,9 @@ Department 表：
 </pre>
 
 {% endraw %}
+
+### 相关话题
+  [[数据库](https://github.com/openset/leetcode/tree/master/tag/database/README.md)]
 
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "最接近的三数之和"
 date:       2016-01-17 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Array, Two Pointers]
+tags:       [Array, Two Pointers, Sorting]
 permalink:  /problems/3sum-closest/
 ---
 
@@ -37,6 +37,7 @@ permalink:  /problems/3sum-closest/
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
 
 ### 相似题目
   1. [三数之和](/problems/3sum) (Medium)

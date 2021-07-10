@@ -3,7 +3,7 @@ layout:     single
 title:      "拆分字符串使唯一子字符串的数目最大"
 date:       2020-05-12 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Backtracking]
+tags:       [Hash Table, String, Backtracking]
 permalink:  /problems/split-a-string-into-the-max-number-of-unique-substrings/
 ---
 
@@ -56,7 +56,9 @@ permalink:  /problems/split-a-string-into-the-max-number-of-unique-substrings/
 {% endraw %}
 
 ### 相关话题
-  [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[回溯](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
 
 ---
 

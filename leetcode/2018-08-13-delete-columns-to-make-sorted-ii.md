@@ -3,7 +3,7 @@ layout:     single
 title:      "删列造序 II"
 date:       2018-08-13 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Greedy]
+tags:       [Greedy, Array, String]
 permalink:  /problems/delete-columns-to-make-sorted-ii/
 ---
 
@@ -69,7 +69,9 @@ strs 的列已经是按字典序排列了，所以我们不需要删除任何东
 {% endraw %}
 
 ### 相关话题
-  [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ---
 

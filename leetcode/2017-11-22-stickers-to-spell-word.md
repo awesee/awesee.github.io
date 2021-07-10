@@ -3,7 +3,7 @@ layout:     single
 title:      "贴纸拼词"
 date:       2017-11-22 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Dynamic Programming, Backtracking]
+tags:       [Bit Manipulation, Dynamic Programming, Backtracking, Bitmask]
 permalink:  /problems/stickers-to-spell-word/
 ---
 
@@ -74,8 +74,10 @@ permalink:  /problems/stickers-to-spell-word/
 {% endraw %}
 
 ### 相关话题
+  [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
-  [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[回溯](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[状态压缩](https://github.com/openset/leetcode/tree/master/tag/bitmask/README.md)]
 
 ### 相似题目
   1. [赎金信](/problems/ransom-note) (Easy)

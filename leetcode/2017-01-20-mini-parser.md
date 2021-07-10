@@ -3,7 +3,7 @@ layout:     single
 title:      "迷你语法分析器"
 date:       2017-01-20 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Stack, String]
+tags:       [Stack, Depth-First Search, String]
 permalink:  /problems/mini-parser/
 ---
 
@@ -49,6 +49,7 @@ permalink:  /problems/mini-parser/
 
 ### 相关话题
   [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
+  [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ### 相似题目

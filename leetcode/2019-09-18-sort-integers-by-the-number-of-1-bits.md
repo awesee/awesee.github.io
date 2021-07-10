@@ -3,7 +3,7 @@ layout:     single
 title:      "根据数字二进制下 1 的数目排序"
 date:       2019-09-18 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Sort, Bit Manipulation]
+tags:       [Bit Manipulation, Array, Counting, Sorting]
 permalink:  /problems/sort-integers-by-the-number-of-1-bits/
 ---
 
@@ -67,8 +67,10 @@ permalink:  /problems/sort-integers-by-the-number-of-1-bits/
 {% endraw %}
 
 ### 相关话题
-  [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
   [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[计数](https://github.com/openset/leetcode/tree/master/tag/counting/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
 
 ---
 

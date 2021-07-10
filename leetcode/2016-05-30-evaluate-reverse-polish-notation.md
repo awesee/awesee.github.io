@@ -3,7 +3,7 @@ layout:     single
 title:      "逆波兰表达式求值"
 date:       2016-05-30 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Stack]
+tags:       [Stack, Array, Math]
 permalink:  /problems/evaluate-reverse-polish-notation/
 ---
 
@@ -88,6 +88,8 @@ permalink:  /problems/evaluate-reverse-polish-notation/
 
 ### 相关话题
   [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
 
 ### 相似题目
   1. [基本计算器](/problems/basic-calculator) (Hard)

@@ -3,7 +3,7 @@ layout:     single
 title:      "通过给定词典构造目标字符串的方案数"
 date:       2020-06-27 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Dynamic Programming]
+tags:       [Array, String, Dynamic Programming]
 permalink:  /problems/number-of-ways-to-form-a-target-string-given-a-dictionary/
 ---
 
@@ -85,6 +85,8 @@ permalink:  /problems/number-of-ways-to-form-a-target-string-given-a-dictionary/
 {% endraw %}
 
 ### 相关话题
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ---

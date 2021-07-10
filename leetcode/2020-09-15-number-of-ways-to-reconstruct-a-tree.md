@@ -3,7 +3,7 @@ layout:     single
 title:      "重构一棵树的方案数"
 date:       2020-09-15 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Tree, Graph]
+tags:       [Tree, Graph, Topological Sort]
 permalink:  /problems/number-of-ways-to-reconstruct-a-tree/
 ---
 
@@ -80,6 +80,7 @@ permalink:  /problems/number-of-ways-to-reconstruct-a-tree/
 ### 相关话题
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
   [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
+  [[拓扑排序](https://github.com/openset/leetcode/tree/master/tag/topological-sort/README.md)]
 
 ---
 

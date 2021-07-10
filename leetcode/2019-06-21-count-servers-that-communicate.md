@@ -3,7 +3,7 @@ layout:     single
 title:      "统计参与通信的服务器"
 date:       2019-06-21 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Graph, Array]
+tags:       [Depth-First Search, Breadth-First Search, Union Find, Array, Counting, Matrix]
 permalink:  /problems/count-servers-that-communicate/
 ---
 
@@ -60,8 +60,12 @@ permalink:  /problems/count-servers-that-communicate/
 {% endraw %}
 
 ### 相关话题
-  [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
+  [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
+  [[并查集](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)]
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[计数](https://github.com/openset/leetcode/tree/master/tag/counting/README.md)]
+  [[矩阵](https://github.com/openset/leetcode/tree/master/tag/matrix/README.md)]
 
 ---
 

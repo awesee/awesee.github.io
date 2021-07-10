@@ -3,7 +3,7 @@ layout:     single
 title:      "删除子字符串的最大得分"
 date:       2020-09-13 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Greedy]
+tags:       [Stack, Greedy, String]
 permalink:  /problems/maximum-score-from-removing-substrings/
 ---
 
@@ -60,7 +60,9 @@ permalink:  /problems/maximum-score-from-removing-substrings/
 {% endraw %}
 
 ### 相关话题
-  [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
+  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "替换子串得到平衡字符串"
 date:       2019-05-19 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Two Pointers, String]
+tags:       [String, Sliding Window]
 permalink:  /problems/replace-the-substring-for-balanced-string/
 ---
 
@@ -67,8 +67,8 @@ permalink:  /problems/replace-the-substring-for-balanced-string/
 {% endraw %}
 
 ### 相关话题
-  [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[滑动窗口](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
 
 ---
 

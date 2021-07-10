@@ -3,7 +3,7 @@ layout:     single
 title:      "翻转卡片游戏"
 date:       2018-04-02 21:30:00 +0800
 categories: [Leetcode]
-tags:       []
+tags:       [Array, Hash Table]
 permalink:  /problems/card-flipping-game/
 ---
 
@@ -42,6 +42,10 @@ permalink:  /problems/card-flipping-game/
 </ol>
 
 {% endraw %}
+
+### 相关话题
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
 
 ---
 

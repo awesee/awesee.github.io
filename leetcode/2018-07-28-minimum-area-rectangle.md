@@ -3,7 +3,7 @@ layout:     single
 title:      "最小面积矩形"
 date:       2018-07-28 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Hash Table]
+tags:       [Geometry, Array, Hash Table, Math, Sorting]
 permalink:  /problems/minimum-area-rectangle/
 ---
 
@@ -43,7 +43,11 @@ permalink:  /problems/minimum-area-rectangle/
 {% endraw %}
 
 ### 相关话题
+  [[几何](https://github.com/openset/leetcode/tree/master/tag/geometry/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
 
 ---
 

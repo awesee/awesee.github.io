@@ -3,7 +3,7 @@ layout:     single
 title:      "统计同构子字符串的数目"
 date:       2020-10-25 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Greedy, String]
+tags:       [Math, String]
 permalink:  /problems/count-number-of-homogenous-substrings/
 ---
 
@@ -57,7 +57,7 @@ permalink:  /problems/count-number-of-homogenous-substrings/
 {% endraw %}
 
 ### 相关话题
-  [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ---

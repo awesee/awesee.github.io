@@ -3,7 +3,7 @@ layout:     single
 title:      "子数组和排序后的区间和"
 date:       2020-02-17 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Sort, Array]
+tags:       [Array, Two Pointers, Binary Search, Sorting]
 permalink:  /problems/range-sum-of-sorted-subarray-sums/
 ---
 
@@ -54,8 +54,10 @@ permalink:  /problems/range-sum-of-sorted-subarray-sums/
 {% endraw %}
 
 ### 相关话题
-  [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+  [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
 
 ---
 

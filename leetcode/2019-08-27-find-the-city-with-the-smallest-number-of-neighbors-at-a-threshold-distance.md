@@ -3,7 +3,7 @@ layout:     single
 title:      "阈值距离内邻居最少的城市"
 date:       2019-08-27 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Graph]
+tags:       [Graph, Dynamic Programming, Shortest Path]
 permalink:  /problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/
 ---
 
@@ -69,6 +69,8 @@ permalink:  /problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-t
 
 ### 相关话题
   [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
+  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[最短路](https://github.com/openset/leetcode/tree/master/tag/shortest-path/README.md)]
 
 ---
 

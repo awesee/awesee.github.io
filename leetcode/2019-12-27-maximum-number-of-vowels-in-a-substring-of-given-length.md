@@ -67,7 +67,7 @@ permalink:  /problems/maximum-number-of-vowels-in-a-substring-of-given-length/
 
 ### 相关话题
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
-  [[Sliding Window](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
+  [[滑动窗口](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
 
 ---
 

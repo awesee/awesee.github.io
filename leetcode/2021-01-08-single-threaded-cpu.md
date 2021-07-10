@@ -3,7 +3,7 @@ layout:     single
 title:      "单线程 CPU"
 date:       2021-01-08 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Heap]
+tags:       [Array, Sorting, Heap (Priority Queue)]
 permalink:  /problems/single-threaded-cpu/
 ---
 
@@ -68,7 +68,9 @@ permalink:  /problems/single-threaded-cpu/
 {% endraw %}
 
 ### 相关话题
-  [[堆](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
+  [[堆（优先队列）](https://github.com/openset/leetcode/tree/master/tag/heap-priority-queue/README.md)]
 
 ---
 

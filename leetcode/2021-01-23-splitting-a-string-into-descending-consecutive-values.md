@@ -3,7 +3,7 @@ layout:     single
 title:      "将字符串拆分为递减的连续值"
 date:       2021-01-23 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Recursion, String, Backtracking]
+tags:       [String, Backtracking]
 permalink:  /problems/splitting-a-string-into-descending-consecutive-values/
 ---
 
@@ -71,9 +71,8 @@ permalink:  /problems/splitting-a-string-into-descending-consecutive-values/
 {% endraw %}
 
 ### 相关话题
-  [[递归](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
-  [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[回溯](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
 
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "放置盒子"
 date:       2020-10-05 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Math, Binary Search]
+tags:       [Greedy, Math, Binary Search]
 permalink:  /problems/building-boxes/
 ---
 
@@ -65,6 +65,7 @@ permalink:  /problems/building-boxes/
 {% endraw %}
 
 ### 相关话题
+  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
   [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
 

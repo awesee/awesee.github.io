@@ -3,7 +3,7 @@ layout:     single
 title:      "图片平滑器"
 date:       2017-10-23 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Array]
+tags:       [Array, Matrix]
 permalink:  /problems/image-smoother/
 ---
 
@@ -41,6 +41,7 @@ permalink:  /problems/image-smoother/
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[矩阵](https://github.com/openset/leetcode/tree/master/tag/matrix/README.md)]
 
 ---
 

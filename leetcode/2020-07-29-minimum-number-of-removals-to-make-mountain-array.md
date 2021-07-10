@@ -3,7 +3,7 @@ layout:     single
 title:      "得到山形数组的最少删除次数"
 date:       2020-07-29 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Dynamic Programming]
+tags:       [Greedy, Array, Binary Search, Dynamic Programming]
 permalink:  /problems/minimum-number-of-removals-to-make-mountain-array/
 ---
 
@@ -66,6 +66,9 @@ permalink:  /problems/minimum-number-of-removals-to-make-mountain-array/
 {% endraw %}
 
 ### 相关话题
+  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ---

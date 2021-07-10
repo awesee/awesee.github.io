@@ -3,7 +3,7 @@ layout:     single
 title:      "单词拆分 II"
 date:       2016-05-20 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Dynamic Programming, Backtracking]
+tags:       [Trie, Memoization, Hash Table, String, Dynamic Programming, Backtracking]
 permalink:  /problems/word-break-ii/
 ---
 
@@ -58,8 +58,12 @@ wordDict = [&quot;cats&quot;, &quot;dog&quot;, &quot;sand&quot;, &quot;and&quot;
 {% endraw %}
 
 ### 相关话题
+  [[字典树](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)]
+  [[记忆化搜索](https://github.com/openset/leetcode/tree/master/tag/memoization/README.md)]
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
-  [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[回溯](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
 
 ### 相似题目
   1. [单词拆分](/problems/word-break) (Medium)

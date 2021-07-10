@@ -3,7 +3,7 @@ layout:     single
 title:      "和为K的子数组"
 date:       2017-07-14 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Array, Hash Table]
+tags:       [Array, Hash Table, Prefix Sum]
 permalink:  /problems/subarray-sum-equals-k/
 ---
 
@@ -32,6 +32,7 @@ permalink:  /problems/subarray-sum-equals-k/
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[前缀和](https://github.com/openset/leetcode/tree/master/tag/prefix-sum/README.md)]
 
 ### 相似题目
   1. [两数之和](/problems/two-sum) (Easy)

@@ -3,7 +3,7 @@ layout:     single
 title:      "所有可能的满二叉树"
 date:       2018-06-13 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Tree, Recursion]
+tags:       [Tree, Recursion, Memoization, Dynamic Programming, Binary Tree]
 permalink:  /problems/all-possible-full-binary-trees/
 ---
 
@@ -42,6 +42,9 @@ permalink:  /problems/all-possible-full-binary-trees/
 ### 相关话题
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
   [[递归](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]
+  [[记忆化搜索](https://github.com/openset/leetcode/tree/master/tag/memoization/README.md)]
+  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[二叉树](https://github.com/openset/leetcode/tree/master/tag/binary-tree/README.md)]
 
 ---
 

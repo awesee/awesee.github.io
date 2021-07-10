@@ -3,7 +3,7 @@ layout:     single
 title:      "子数组的最小值之和"
 date:       2018-06-26 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Stack, Array]
+tags:       [Stack, Array, Dynamic Programming, Monotonic Stack]
 permalink:  /problems/sum-of-subarray-minimums/
 ---
 
@@ -49,6 +49,8 @@ permalink:  /problems/sum-of-subarray-minimums/
 ### 相关话题
   [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[单调栈](https://github.com/openset/leetcode/tree/master/tag/monotonic-stack/README.md)]
 
 ---
 

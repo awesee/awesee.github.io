@@ -3,7 +3,7 @@ layout:     single
 title:      "字母异位词分组"
 date:       2016-02-19 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Hash Table, String]
+tags:       [Hash Table, String, Sorting]
 permalink:  /problems/group-anagrams/
 ---
 
@@ -35,6 +35,7 @@ permalink:  /problems/group-anagrams/
 ### 相关话题
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
 
 ### 相似题目
   1. [有效的字母异位词](/problems/valid-anagram) (Easy)

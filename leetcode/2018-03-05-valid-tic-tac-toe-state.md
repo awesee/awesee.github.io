@@ -3,7 +3,7 @@ layout:     single
 title:      "有效的井字游戏"
 date:       2018-03-05 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Recursion, Math]
+tags:       [Array, String]
 permalink:  /problems/valid-tic-tac-toe-state/
 ---
 
@@ -56,8 +56,8 @@ permalink:  /problems/valid-tic-tac-toe-state/
 {% endraw %}
 
 ### 相关话题
-  [[递归](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]
-  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ### 相似题目
   1. [设计井字棋](/problems/design-tic-tac-toe) (Medium)

@@ -3,7 +3,7 @@ layout:     single
 title:      "递增顺序搜索树"
 date:       2018-06-16 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Tree, Depth-first Search, Recursion]
+tags:       [Stack, Tree, Depth-First Search, Binary Search Tree, Binary Tree]
 permalink:  /problems/increasing-order-search-tree/
 ---
 
@@ -41,9 +41,11 @@ permalink:  /problems/increasing-order-search-tree/
 {% endraw %}
 
 ### 相关话题
+  [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
   [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[递归](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]
+  [[二叉搜索树](https://github.com/openset/leetcode/tree/master/tag/binary-search-tree/README.md)]
+  [[二叉树](https://github.com/openset/leetcode/tree/master/tag/binary-tree/README.md)]
 
 ---
 

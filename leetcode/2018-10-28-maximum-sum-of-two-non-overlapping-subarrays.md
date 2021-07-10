@@ -3,7 +3,7 @@ layout:     single
 title:      "两个非重叠子数组的最大和"
 date:       2018-10-28 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Array]
+tags:       [Array, Dynamic Programming, Sliding Window]
 permalink:  /problems/maximum-sum-of-two-non-overlapping-subarrays/
 ---
 
@@ -59,6 +59,8 @@ permalink:  /problems/maximum-sum-of-two-non-overlapping-subarrays/
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[滑动窗口](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
 
 ---
 

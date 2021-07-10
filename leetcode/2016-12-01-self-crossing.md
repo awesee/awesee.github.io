@@ -3,7 +3,7 @@ layout:     single
 title:      "路径交叉"
 date:       2016-12-01 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Math]
+tags:       [Geometry, Array, Math]
 permalink:  /problems/self-crossing/
 ---
 
@@ -53,6 +53,8 @@ permalink:  /problems/self-crossing/
 {% endraw %}
 
 ### 相关话题
+  [[几何](https://github.com/openset/leetcode/tree/master/tag/geometry/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
 
 ---

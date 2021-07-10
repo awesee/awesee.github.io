@@ -3,7 +3,7 @@ layout:     single
 title:      "查找和最小的K对数字"
 date:       2017-01-08 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Heap]
+tags:       [Array, Heap (Priority Queue)]
 permalink:  /problems/find-k-pairs-with-smallest-sums/
 ---
 
@@ -43,7 +43,8 @@ permalink:  /problems/find-k-pairs-with-smallest-sums/
 {% endraw %}
 
 ### 相关话题
-  [[堆](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[堆（优先队列）](https://github.com/openset/leetcode/tree/master/tag/heap-priority-queue/README.md)]
 
 ### 相似题目
   1. [有序矩阵中第 K 小的元素](/problems/kth-smallest-element-in-a-sorted-matrix) (Medium)

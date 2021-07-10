@@ -3,7 +3,7 @@ layout:     single
 title:      "旋转字符串"
 date:       2018-03-07 21:30:00 +0800
 categories: [Leetcode]
-tags:       []
+tags:       [String, String Matching]
 permalink:  /problems/rotate-string/
 ---
 
@@ -31,6 +31,10 @@ permalink:  /problems/rotate-string/
 </ul>
 
 {% endraw %}
+
+### 相关话题
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[字符串匹配](https://github.com/openset/leetcode/tree/master/tag/string-matching/README.md)]
 
 ---
 

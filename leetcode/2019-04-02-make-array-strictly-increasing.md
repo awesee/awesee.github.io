@@ -3,7 +3,7 @@ layout:     single
 title:      "使数组严格递增"
 date:       2019-04-02 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Dynamic Programming]
+tags:       [Array, Binary Search, Dynamic Programming]
 permalink:  /problems/make-array-strictly-increasing/
 ---
 
@@ -53,6 +53,8 @@ permalink:  /problems/make-array-strictly-increasing/
 {% endraw %}
 
 ### 相关话题
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ---

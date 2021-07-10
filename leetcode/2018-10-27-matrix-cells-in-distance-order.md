@@ -3,7 +3,7 @@ layout:     single
 title:      "距离顺序排列矩阵单元格"
 date:       2018-10-27 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Sort]
+tags:       [Geometry, Array, Math, Matrix, Sorting]
 permalink:  /problems/matrix-cells-in-distance-order/
 ---
 
@@ -56,7 +56,11 @@ permalink:  /problems/matrix-cells-in-distance-order/
 {% endraw %}
 
 ### 相关话题
-  [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
+  [[几何](https://github.com/openset/leetcode/tree/master/tag/geometry/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[矩阵](https://github.com/openset/leetcode/tree/master/tag/matrix/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
 
 ---
 

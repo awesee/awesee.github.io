@@ -3,7 +3,7 @@ layout:     single
 title:      "在LR字符串中交换相邻字符"
 date:       2018-02-16 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Brainteaser]
+tags:       [Two Pointers, String]
 permalink:  /problems/swap-adjacent-in-lr-string/
 ---
 
@@ -40,7 +40,8 @@ XRLXXRRLX
 {% endraw %}
 
 ### 相关话题
-  [[脑筋急转弯](https://github.com/openset/leetcode/tree/master/tag/brainteaser/README.md)]
+  [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ---
 

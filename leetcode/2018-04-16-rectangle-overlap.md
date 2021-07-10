@@ -3,7 +3,7 @@ layout:     single
 title:      "矩形重叠"
 date:       2018-04-16 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Math]
+tags:       [Geometry, Math]
 permalink:  /problems/rectangle-overlap/
 ---
 
@@ -55,6 +55,7 @@ permalink:  /problems/rectangle-overlap/
 {% endraw %}
 
 ### 相关话题
+  [[几何](https://github.com/openset/leetcode/tree/master/tag/geometry/README.md)]
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
 
 ### 相似题目

@@ -3,7 +3,7 @@ layout:     single
 title:      "两数相除"
 date:       2016-01-30 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Math, Binary Search]
+tags:       [Bit Manipulation, Math]
 permalink:  /problems/divide-two-integers/
 ---
 
@@ -44,8 +44,8 @@ permalink:  /problems/divide-two-integers/
 {% endraw %}
 
 ### 相关话题
+  [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
 
 ---
 

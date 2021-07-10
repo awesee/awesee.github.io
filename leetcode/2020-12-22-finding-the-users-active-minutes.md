@@ -3,7 +3,7 @@ layout:     single
 title:      "查找用户活跃分钟数"
 date:       2020-12-22 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Hash Table]
+tags:       [Array, Hash Table]
 permalink:  /problems/finding-the-users-active-minutes/
 ---
 
@@ -60,6 +60,7 @@ ID=2 的用户执行操作的分钟分别是：2 和 3 。因此，该用户的�
 {% endraw %}
 
 ### 相关话题
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
 
 ---

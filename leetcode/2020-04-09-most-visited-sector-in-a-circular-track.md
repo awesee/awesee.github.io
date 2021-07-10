@@ -3,7 +3,7 @@ layout:     single
 title:      "圆形赛道上经过次数最多的扇区"
 date:       2020-04-09 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Array]
+tags:       [Array, Simulation]
 permalink:  /problems/most-visited-sector-in-a-circular-track/
 ---
 
@@ -57,6 +57,7 @@ permalink:  /problems/most-visited-sector-in-a-circular-track/
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[模拟](https://github.com/openset/leetcode/tree/master/tag/simulation/README.md)]
 
 ---
 

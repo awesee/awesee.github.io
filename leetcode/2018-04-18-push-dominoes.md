@@ -3,7 +3,7 @@ layout:     single
 title:      "推多米诺"
 date:       2018-04-18 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Two Pointers, Dynamic Programming]
+tags:       [Two Pointers, String, Dynamic Programming]
 permalink:  /problems/push-dominoes/
 ---
 
@@ -51,6 +51,7 @@ permalink:  /problems/push-dominoes/
 
 ### 相关话题
   [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ---

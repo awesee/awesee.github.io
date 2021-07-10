@@ -3,7 +3,7 @@ layout:     single
 title:      "奇数值单元格的数目"
 date:       2019-06-06 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Array]
+tags:       [Array, Math, Simulation]
 permalink:  /problems/cells-with-odd-values-in-a-matrix/
 ---
 
@@ -67,6 +67,8 @@ permalink:  /problems/cells-with-odd-values-in-a-matrix/
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[模拟](https://github.com/openset/leetcode/tree/master/tag/simulation/README.md)]
 
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "课程表 IV"
 date:       2020-01-02 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Graph]
+tags:       [Depth-First Search, Breadth-First Search, Graph, Topological Sort]
 permalink:  /problems/course-schedule-iv/
 ---
 
@@ -79,7 +79,10 @@ permalink:  /problems/course-schedule-iv/
 {% endraw %}
 
 ### 相关话题
+  [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
   [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
+  [[拓扑排序](https://github.com/openset/leetcode/tree/master/tag/topological-sort/README.md)]
 
 ---
 

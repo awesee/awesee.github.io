@@ -3,7 +3,7 @@ layout:     single
 title:      "合并区间"
 date:       2016-02-26 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Sort, Array]
+tags:       [Array, Sorting]
 permalink:  /problems/merge-intervals/
 ---
 
@@ -43,14 +43,14 @@ permalink:  /problems/merge-intervals/
 {% endraw %}
 
 ### 相关话题
-  [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
 
 ### 相似题目
   1. [插入区间](/problems/insert-interval) (Medium)
   1. [会议室](/problems/meeting-rooms) (Easy)
   1. [会议室 II](/problems/meeting-rooms-ii) (Medium)
-  1. [提莫攻击](/problems/teemo-attacking) (Medium)
+  1. [提莫攻击](/problems/teemo-attacking) (Easy)
   1. [给字符串添加加粗标签](/problems/add-bold-tag-in-string) (Medium)
   1. [Range 模块](/problems/range-module) (Hard)
   1. [员工空闲时间](/problems/employee-free-time) (Hard)

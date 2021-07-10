@@ -3,7 +3,7 @@ layout:     single
 title:      "查询带键的排列"
 date:       2019-11-10 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Array]
+tags:       [Binary Indexed Tree, Array, Simulation]
 permalink:  /problems/queries-on-a-permutation-with-key/
 ---
 
@@ -59,7 +59,9 @@ permalink:  /problems/queries-on-a-permutation-with-key/
 {% endraw %}
 
 ### 相关话题
+  [[树状数组](https://github.com/openset/leetcode/tree/master/tag/binary-indexed-tree/README.md)]
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[模拟](https://github.com/openset/leetcode/tree/master/tag/simulation/README.md)]
 
 ---
 

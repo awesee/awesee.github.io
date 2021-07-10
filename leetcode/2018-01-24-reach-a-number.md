@@ -3,7 +3,7 @@ layout:     single
 title:      "到达终点数字"
 date:       2018-01-24 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Math]
+tags:       [Math, Binary Search]
 permalink:  /problems/reach-a-number/
 ---
 
@@ -48,6 +48,7 @@ permalink:  /problems/reach-a-number/
 
 ### 相关话题
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
 
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "爱吃香蕉的珂珂"
 date:       2018-05-25 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Binary Search]
+tags:       [Array, Binary Search]
 permalink:  /problems/koko-eating-bananas/
 ---
 
@@ -55,6 +55,7 @@ permalink:  /problems/koko-eating-bananas/
 {% endraw %}
 
 ### 相关话题
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
 
 ### 相似题目

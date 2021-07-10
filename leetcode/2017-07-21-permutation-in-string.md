@@ -3,7 +3,7 @@ layout:     single
 title:      "字符串的排列"
 date:       2017-07-21 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Two Pointers, Sliding Window]
+tags:       [Hash Table, Two Pointers, String, Sliding Window]
 permalink:  /problems/permutation-in-string/
 ---
 
@@ -44,8 +44,10 @@ permalink:  /problems/permutation-in-string/
 {% endraw %}
 
 ### 相关话题
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
   [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
-  [[Sliding Window](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[滑动窗口](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
 
 ### 相似题目
   1. [最小覆盖子串](/problems/minimum-window-substring) (Hard)

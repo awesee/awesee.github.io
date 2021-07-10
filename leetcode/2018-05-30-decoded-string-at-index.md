@@ -3,7 +3,7 @@ layout:     single
 title:      "索引处的解码字符串"
 date:       2018-05-30 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Stack]
+tags:       [Stack, String]
 permalink:  /problems/decoded-string-at-index/
 ---
 
@@ -64,6 +64,7 @@ permalink:  /problems/decoded-string-at-index/
 
 ### 相关话题
   [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ---
 

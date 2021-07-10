@@ -3,7 +3,7 @@ layout:     single
 title:      "用 Rand7() 实现 Rand10()"
 date:       2017-04-15 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Random, Rejection Sampling]
+tags:       [Math, Rejection Sampling, Probability and Statistics, Randomized]
 permalink:  /problems/implement-rand10-using-rand7/
 ---
 
@@ -62,8 +62,10 @@ permalink:  /problems/implement-rand10-using-rand7/
 {% endraw %}
 
 ### 相关话题
-  [[Random](https://github.com/openset/leetcode/tree/master/tag/random/README.md)]
-  [[Rejection Sampling](https://github.com/openset/leetcode/tree/master/tag/rejection-sampling/README.md)]
+  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[拒绝采样](https://github.com/openset/leetcode/tree/master/tag/rejection-sampling/README.md)]
+  [[概率与统计](https://github.com/openset/leetcode/tree/master/tag/probability-and-statistics/README.md)]
+  [[随机化](https://github.com/openset/leetcode/tree/master/tag/randomized/README.md)]
 
 ---
 

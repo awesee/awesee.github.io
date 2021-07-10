@@ -3,7 +3,7 @@ layout:     single
 title:      "子串的最大出现次数"
 date:       2019-07-21 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Bit Manipulation, String]
+tags:       [Hash Table, String, Sliding Window]
 permalink:  /problems/maximum-number-of-occurrences-of-a-substring/
 ---
 
@@ -61,8 +61,9 @@ permalink:  /problems/maximum-number-of-occurrences-of-a-substring/
 {% endraw %}
 
 ### 相关话题
-  [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[滑动窗口](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
 
 ---
 

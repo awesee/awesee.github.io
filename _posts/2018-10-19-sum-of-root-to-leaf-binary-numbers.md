@@ -3,7 +3,7 @@ layout:     single
 title:      "从根到叶的二进制数之和"
 date:       2018-10-19 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Tree]
+tags:       [Tree, Depth-First Search, Binary Tree]
 permalink:  /problems/sum-of-root-to-leaf-binary-numbers/
 ---
 
@@ -61,6 +61,8 @@ permalink:  /problems/sum-of-root-to-leaf-binary-numbers/
 
 ### 相关话题
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[二叉树](https://github.com/openset/leetcode/tree/master/tag/binary-tree/README.md)]
 
 ---
 

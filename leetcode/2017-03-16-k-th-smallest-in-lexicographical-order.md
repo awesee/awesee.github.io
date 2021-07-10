@@ -3,7 +3,7 @@ layout:     single
 title:      "字典序的第K小数字"
 date:       2017-03-16 21:30:00 +0800
 categories: [Leetcode]
-tags:       []
+tags:       [Trie]
 permalink:  /problems/k-th-smallest-in-lexicographical-order/
 ---
 
@@ -29,6 +29,9 @@ n: 13   k: 2
 </pre>
 
 {% endraw %}
+
+### 相关话题
+  [[字典树](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)]
 
 ---
 

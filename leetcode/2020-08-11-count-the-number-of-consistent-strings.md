@@ -3,7 +3,7 @@ layout:     single
 title:      "统计一致字符串的数目"
 date:       2020-08-11 21:30:00 +0800
 categories: [Leetcode]
-tags:       [String]
+tags:       [Bit Manipulation, Array, Hash Table, String]
 permalink:  /problems/count-the-number-of-consistent-strings/
 ---
 
@@ -56,6 +56,9 @@ permalink:  /problems/count-the-number-of-consistent-strings/
 {% endraw %}
 
 ### 相关话题
+  [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ---

@@ -3,7 +3,7 @@ layout:     single
 title:      "优势洗牌"
 date:       2018-05-20 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Greedy, Array]
+tags:       [Greedy, Array, Sorting]
 permalink:  /problems/advantage-shuffle/
 ---
 
@@ -42,8 +42,9 @@ permalink:  /problems/advantage-shuffle/
 {% endraw %}
 
 ### 相关话题
-  [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
 
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "数组异或操作"
 date:       2020-01-26 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Bit Manipulation, Array]
+tags:       [Bit Manipulation, Math]
 permalink:  /problems/xor-operation-in-an-array/
 ---
 
@@ -59,7 +59,7 @@ permalink:  /problems/xor-operation-in-an-array/
 
 ### 相关话题
   [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
 
 ---
 

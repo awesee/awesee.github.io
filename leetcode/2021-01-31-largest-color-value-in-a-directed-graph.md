@@ -3,7 +3,7 @@ layout:     single
 title:      "有向图中最大颜色值"
 date:       2021-01-31 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Topological Sort, Dynamic Programming]
+tags:       [Graph, Topological Sort, Memoization, Hash Table, Dynamic Programming, Counting]
 permalink:  /problems/largest-color-value-in-a-directed-graph/
 ---
 
@@ -55,8 +55,12 @@ permalink:  /problems/largest-color-value-in-a-directed-graph/
 {% endraw %}
 
 ### 相关话题
+  [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
   [[拓扑排序](https://github.com/openset/leetcode/tree/master/tag/topological-sort/README.md)]
+  [[记忆化搜索](https://github.com/openset/leetcode/tree/master/tag/memoization/README.md)]
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[计数](https://github.com/openset/leetcode/tree/master/tag/counting/README.md)]
 
 ---
 

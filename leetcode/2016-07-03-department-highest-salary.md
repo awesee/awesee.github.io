@@ -3,7 +3,7 @@ layout:     single
 title:      "部门工资最高的员工"
 date:       2016-07-03 21:30:00 +0800
 categories: [Leetcode]
-tags:       []
+tags:       [Database]
 permalink:  /problems/department-highest-salary/
 ---
 
@@ -47,6 +47,9 @@ permalink:  /problems/department-highest-salary/
 <p>Max 和 Jim 在 IT 部门的工资都是最高的，Henry 在销售部的工资最高。</p>
 
 {% endraw %}
+
+### 相关话题
+  [[数据库](https://github.com/openset/leetcode/tree/master/tag/database/README.md)]
 
 ---
 

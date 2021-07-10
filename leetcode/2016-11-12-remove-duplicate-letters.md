@@ -3,7 +3,7 @@ layout:     single
 title:      "去除重复字母"
 date:       2016-11-12 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Stack, Greedy, String]
+tags:       [Stack, Greedy, String, Monotonic Stack]
 permalink:  /problems/remove-duplicate-letters/
 ---
 
@@ -43,8 +43,9 @@ permalink:  /problems/remove-duplicate-letters/
 
 ### 相关话题
   [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
-  [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[单调栈](https://github.com/openset/leetcode/tree/master/tag/monotonic-stack/README.md)]
 
 ---
 

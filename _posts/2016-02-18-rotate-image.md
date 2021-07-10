@@ -3,7 +3,7 @@ layout:     single
 title:      "旋转图像"
 date:       2016-02-18 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Array]
+tags:       [Array, Math, Matrix]
 permalink:  /problems/rotate-image/
 ---
 
@@ -60,6 +60,8 @@ permalink:  /problems/rotate-image/
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[矩阵](https://github.com/openset/leetcode/tree/master/tag/matrix/README.md)]
 
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "排序数组"
 date:       2018-07-01 21:30:00 +0800
 categories: [Leetcode]
-tags:       []
+tags:       [Array, Divide and Conquer, Bucket Sort, Counting Sort, Radix Sort, Sorting, Heap (Priority Queue), Merge Sort]
 permalink:  /problems/sort-an-array/
 ---
 
@@ -40,6 +40,16 @@ permalink:  /problems/sort-an-array/
 </ol>
 
 {% endraw %}
+
+### 相关话题
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[分治](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]
+  [[桶排序](https://github.com/openset/leetcode/tree/master/tag/bucket-sort/README.md)]
+  [[计数排序](https://github.com/openset/leetcode/tree/master/tag/counting-sort/README.md)]
+  [[基数排序](https://github.com/openset/leetcode/tree/master/tag/radix-sort/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
+  [[堆（优先队列）](https://github.com/openset/leetcode/tree/master/tag/heap-priority-queue/README.md)]
+  [[归并排序](https://github.com/openset/leetcode/tree/master/tag/merge-sort/README.md)]
 
 ---
 

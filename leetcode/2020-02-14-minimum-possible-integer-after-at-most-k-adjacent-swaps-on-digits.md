@@ -3,7 +3,7 @@ layout:     single
 title:      "最多 K 次交换相邻数位后得到的最小整数"
 date:       2020-02-14 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Greedy]
+tags:       [Greedy, Binary Indexed Tree, Segment Tree, String]
 permalink:  /problems/minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits/
 ---
 
@@ -72,7 +72,10 @@ permalink:  /problems/minimum-possible-integer-after-at-most-k-adjacent-swaps-on
 {% endraw %}
 
 ### 相关话题
-  [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[树状数组](https://github.com/openset/leetcode/tree/master/tag/binary-indexed-tree/README.md)]
+  [[线段树](https://github.com/openset/leetcode/tree/master/tag/segment-tree/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ---
 

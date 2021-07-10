@@ -3,7 +3,7 @@ layout:     single
 title:      "两个盒子中球的颜色数相同的概率"
 date:       2020-01-07 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Math, Backtracking]
+tags:       [Math, Dynamic Programming, Backtracking, Combinatorics, Probability and Statistics]
 permalink:  /problems/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls/
 ---
 
@@ -80,7 +80,10 @@ permalink:  /problems/probability-of-a-two-boxes-having-the-same-number-of-disti
 
 ### 相关话题
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[回溯](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[组合数学](https://github.com/openset/leetcode/tree/master/tag/combinatorics/README.md)]
+  [[概率与统计](https://github.com/openset/leetcode/tree/master/tag/probability-and-statistics/README.md)]
 
 ---
 

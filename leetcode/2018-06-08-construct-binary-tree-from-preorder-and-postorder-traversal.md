@@ -3,7 +3,7 @@ layout:     single
 title:      "根据前序和后序遍历构造二叉树"
 date:       2018-06-08 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Tree]
+tags:       [Tree, Array, Hash Table, Divide and Conquer, Binary Tree]
 permalink:  /problems/construct-binary-tree-from-preorder-and-postorder-traversal/
 ---
 
@@ -37,6 +37,10 @@ permalink:  /problems/construct-binary-tree-from-preorder-and-postorder-traversa
 
 ### 相关话题
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[分治](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]
+  [[二叉树](https://github.com/openset/leetcode/tree/master/tag/binary-tree/README.md)]
 
 ---
 

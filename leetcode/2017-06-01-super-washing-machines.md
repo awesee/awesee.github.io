@@ -3,7 +3,7 @@ layout:     single
 title:      "超级洗衣机"
 date:       2017-06-01 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Math, Dynamic Programming]
+tags:       [Greedy, Array]
 permalink:  /problems/super-washing-machines/
 ---
 
@@ -66,8 +66,8 @@ permalink:  /problems/super-washing-machines/
 {% endraw %}
 
 ### 相关话题
-  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "替换隐藏数字得到的最晚时间"
 date:       2020-10-02 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Greedy, String]
+tags:       [String]
 permalink:  /problems/latest-time-by-replacing-hidden-digits/
 ---
 
@@ -53,7 +53,6 @@ permalink:  /problems/latest-time-by-replacing-hidden-digits/
 {% endraw %}
 
 ### 相关话题
-  [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ---

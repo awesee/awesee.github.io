@@ -3,7 +3,7 @@ layout:     single
 title:      "找到 K 个最接近的元素"
 date:       2017-10-20 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Binary Search]
+tags:       [Array, Two Pointers, Binary Search, Sorting, Heap (Priority Queue)]
 permalink:  /problems/find-k-closest-elements/
 ---
 
@@ -49,7 +49,11 @@ permalink:  /problems/find-k-closest-elements/
 {% endraw %}
 
 ### 相关话题
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
   [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
+  [[堆（优先队列）](https://github.com/openset/leetcode/tree/master/tag/heap-priority-queue/README.md)]
 
 ### 相似题目
   1. [猜数字大小](/problems/guess-number-higher-or-lower) (Easy)

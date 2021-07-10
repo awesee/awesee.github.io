@@ -3,7 +3,7 @@ layout:     single
 title:      "打印零与奇偶数"
 date:       2019-01-21 21:30:00 +0800
 categories: [Leetcode]
-tags:       []
+tags:       [Concurrency]
 permalink:  /problems/print-zero-even-odd/
 ---
 
@@ -47,6 +47,9 @@ permalink:  /problems/print-zero-even-odd/
 </pre>
 
 {% endraw %}
+
+### 相关话题
+  [[多线程](https://github.com/openset/leetcode/tree/master/tag/concurrency/README.md)]
 
 ### 相似题目
   1. [交替打印FooBar](/problems/print-foobar-alternately) (Medium)

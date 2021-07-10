@@ -3,7 +3,7 @@ layout:     single
 title:      "Range 模块"
 date:       2017-12-16 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Segment Tree, Ordered Map]
+tags:       [Design, Segment Tree, Ordered Set]
 permalink:  /problems/range-module/
 ---
 
@@ -47,8 +47,9 @@ permalink:  /problems/range-module/
 {% endraw %}
 
 ### 相关话题
+  [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
   [[线段树](https://github.com/openset/leetcode/tree/master/tag/segment-tree/README.md)]
-  [[Ordered Map](https://github.com/openset/leetcode/tree/master/tag/ordered-map/README.md)]
+  [[有序集合](https://github.com/openset/leetcode/tree/master/tag/ordered-set/README.md)]
 
 ### 相似题目
   1. [合并区间](/problems/merge-intervals) (Medium)

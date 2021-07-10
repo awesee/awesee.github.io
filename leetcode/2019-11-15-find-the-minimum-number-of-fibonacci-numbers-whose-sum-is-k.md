@@ -3,7 +3,7 @@ layout:     single
 title:      "和为 K 的最少斐波那契数字数目"
 date:       2019-11-15 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Greedy, Array]
+tags:       [Greedy]
 permalink:  /problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/
 ---
 
@@ -57,8 +57,7 @@ permalink:  /problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-
 {% endraw %}
 
 ### 相关话题
-  [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
 
 ---
 

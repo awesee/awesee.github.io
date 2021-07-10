@@ -3,7 +3,7 @@ layout:     single
 title:      "可以形成最大正方形的矩形数目"
 date:       2020-09-21 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Greedy]
+tags:       [Array]
 permalink:  /problems/number-of-rectangles-that-can-form-the-largest-square/
 ---
 
@@ -51,7 +51,7 @@ permalink:  /problems/number-of-rectangles-that-can-form-the-largest-square/
 {% endraw %}
 
 ### 相关话题
-  [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "最小操作次数使数组元素相等"
 date:       2017-03-29 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Math]
+tags:       [Array, Math]
 permalink:  /problems/minimum-moves-to-equal-array-elements/
 ---
 
@@ -30,6 +30,7 @@ permalink:  /problems/minimum-moves-to-equal-array-elements/
 {% endraw %}
 
 ### 相关话题
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
 
 ### 相似题目

@@ -3,7 +3,7 @@ layout:     single
 title:      "不同的循环子字符串"
 date:       2019-08-09 21:30:00 +0800
 categories: [Leetcode]
-tags:       [String]
+tags:       [Trie, String, Dynamic Programming, Sliding Window, Hash Function, Rolling Hash]
 permalink:  /problems/distinct-echo-substrings/
 ---
 
@@ -47,7 +47,12 @@ permalink:  /problems/distinct-echo-substrings/
 {% endraw %}
 
 ### 相关话题
+  [[字典树](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)]
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[滑动窗口](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
+  [[哈希函数](https://github.com/openset/leetcode/tree/master/tag/hash-function/README.md)]
+  [[滚动哈希](https://github.com/openset/leetcode/tree/master/tag/rolling-hash/README.md)]
 
 ---
 

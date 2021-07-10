@@ -3,7 +3,7 @@ layout:     single
 title:      "最大数"
 date:       2016-06-28 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Sort]
+tags:       [Greedy, String, Sorting]
 permalink:  /problems/largest-number/
 ---
 
@@ -56,7 +56,9 @@ permalink:  /problems/largest-number/
 {% endraw %}
 
 ### 相关话题
-  [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
+  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
 
 ---
 

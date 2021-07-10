@@ -3,7 +3,7 @@ layout:     single
 title:      "播放列表的数量"
 date:       2018-07-09 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Dynamic Programming]
+tags:       [Math, Dynamic Programming, Combinatorics]
 permalink:  /problems/number-of-music-playlists/
 ---
 
@@ -54,7 +54,9 @@ permalink:  /problems/number-of-music-playlists/
 {% endraw %}
 
 ### 相关话题
+  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[组合数学](https://github.com/openset/leetcode/tree/master/tag/combinatorics/README.md)]
 
 ---
 

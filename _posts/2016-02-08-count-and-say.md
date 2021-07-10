@@ -7,7 +7,7 @@ tags:       [String]
 permalink:  /problems/count-and-say/
 ---
 
-## 38. 外观数列 (Easy)
+## 38. 外观数列 (Medium)
 
 {% raw %}
 

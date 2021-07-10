@@ -3,7 +3,7 @@ layout:     single
 title:      "粉刷房子 III"
 date:       2020-01-13 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Dynamic Programming]
+tags:       [Array, Dynamic Programming]
 permalink:  /problems/paint-house-iii/
 ---
 
@@ -78,6 +78,7 @@ permalink:  /problems/paint-house-iii/
 {% endraw %}
 
 ### 相关话题
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ---

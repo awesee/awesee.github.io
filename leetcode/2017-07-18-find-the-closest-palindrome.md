@@ -3,7 +3,7 @@ layout:     single
 title:      "寻找最近的回文数"
 date:       2017-07-18 21:30:00 +0800
 categories: [Leetcode]
-tags:       [String]
+tags:       [Math, String]
 permalink:  /problems/find-the-closest-palindrome/
 ---
 
@@ -32,6 +32,7 @@ permalink:  /problems/find-the-closest-palindrome/
 {% endraw %}
 
 ### 相关话题
+  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ---

@@ -3,7 +3,7 @@ layout:     single
 title:      "各位相加"
 date:       2016-09-15 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Math]
+tags:       [Math, Number Theory, Simulation]
 permalink:  /problems/add-digits/
 ---
 
@@ -27,6 +27,8 @@ permalink:  /problems/add-digits/
 
 ### 相关话题
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[数论](https://github.com/openset/leetcode/tree/master/tag/number-theory/README.md)]
+  [[模拟](https://github.com/openset/leetcode/tree/master/tag/simulation/README.md)]
 
 ### 相似题目
   1. [快乐数](/problems/happy-number) (Easy)

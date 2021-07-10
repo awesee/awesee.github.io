@@ -3,7 +3,7 @@ layout:     single
 title:      "矩阵中的最长递增路径"
 date:       2016-11-25 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Depth-first Search, Topological Sort, Memoization]
+tags:       [Depth-First Search, Breadth-First Search, Graph, Topological Sort, Memoization, Dynamic Programming]
 permalink:  /problems/longest-increasing-path-in-a-matrix/
 ---
 
@@ -54,8 +54,11 @@ permalink:  /problems/longest-increasing-path-in-a-matrix/
 
 ### 相关话题
   [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
+  [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
   [[拓扑排序](https://github.com/openset/leetcode/tree/master/tag/topological-sort/README.md)]
-  [[记忆化](https://github.com/openset/leetcode/tree/master/tag/memoization/README.md)]
+  [[记忆化搜索](https://github.com/openset/leetcode/tree/master/tag/memoization/README.md)]
+  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ---
 

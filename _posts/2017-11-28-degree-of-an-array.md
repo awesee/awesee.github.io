@@ -3,7 +3,7 @@ layout:     single
 title:      "数组的度"
 date:       2017-11-28 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Array]
+tags:       [Array, Hash Table]
 permalink:  /problems/degree-of-an-array/
 ---
 
@@ -49,6 +49,7 @@ permalink:  /problems/degree-of-an-array/
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
 
 ### 相似题目
   1. [最大子序和](/problems/maximum-subarray) (Easy)

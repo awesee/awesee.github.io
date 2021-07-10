@@ -3,7 +3,7 @@ layout:     single
 title:      "重新排列字符串"
 date:       2020-03-08 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Sort]
+tags:       [Array, String]
 permalink:  /problems/shuffle-string/
 ---
 
@@ -68,7 +68,8 @@ permalink:  /problems/shuffle-string/
 {% endraw %}
 
 ### 相关话题
-  [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ---
 

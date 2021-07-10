@@ -3,7 +3,7 @@ layout:     single
 title:      "数组中的最长山脉"
 date:       2018-04-25 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Two Pointers]
+tags:       [Array, Two Pointers, Dynamic Programming, Enumeration]
 permalink:  /problems/longest-mountain-in-array/
 ---
 
@@ -52,7 +52,10 @@ permalink:  /problems/longest-mountain-in-array/
 {% endraw %}
 
 ### 相关话题
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[枚举](https://github.com/openset/leetcode/tree/master/tag/enumeration/README.md)]
 
 ---
 

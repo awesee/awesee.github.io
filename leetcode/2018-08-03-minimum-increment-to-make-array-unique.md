@@ -3,7 +3,7 @@ layout:     single
 title:      "使数组唯一的最小增量"
 date:       2018-08-03 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Array]
+tags:       [Greedy, Array, Counting, Sorting]
 permalink:  /problems/minimum-increment-to-make-array-unique/
 ---
 
@@ -39,7 +39,10 @@ permalink:  /problems/minimum-increment-to-make-array-unique/
 {% endraw %}
 
 ### 相关话题
+  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[计数](https://github.com/openset/leetcode/tree/master/tag/counting/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
 
 ---
 

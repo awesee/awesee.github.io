@@ -3,7 +3,7 @@ layout:     single
 title:      "重复的DNA序列"
 date:       2016-07-06 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Bit Manipulation, Hash Table]
+tags:       [Bit Manipulation, Hash Table, String, Sliding Window, Hash Function, Rolling Hash]
 permalink:  /problems/repeated-dna-sequences/
 ---
 
@@ -45,6 +45,10 @@ permalink:  /problems/repeated-dna-sequences/
 ### 相关话题
   [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[滑动窗口](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
+  [[哈希函数](https://github.com/openset/leetcode/tree/master/tag/hash-function/README.md)]
+  [[滚动哈希](https://github.com/openset/leetcode/tree/master/tag/rolling-hash/README.md)]
 
 ---
 

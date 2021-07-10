@@ -3,7 +3,7 @@ layout:     single
 title:      "逐步求和得到正数的最小值"
 date:       2019-11-14 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Array]
+tags:       [Array, Prefix Sum]
 permalink:  /problems/minimum-value-to-get-positive-step-by-step-sum/
 ---
 
@@ -62,6 +62,7 @@ permalink:  /problems/minimum-value-to-get-positive-step-by-step-sum/
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[前缀和](https://github.com/openset/leetcode/tree/master/tag/prefix-sum/README.md)]
 
 ---
 

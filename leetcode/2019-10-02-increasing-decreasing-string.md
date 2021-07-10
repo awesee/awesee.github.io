@@ -3,7 +3,7 @@ layout:     single
 title:      "上升下降字符串"
 date:       2019-10-02 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Sort, String]
+tags:       [Hash Table, String, Counting]
 permalink:  /problems/increasing-decreasing-string/
 ---
 
@@ -77,8 +77,9 @@ permalink:  /problems/increasing-decreasing-string/
 {% endraw %}
 
 ### 相关话题
-  [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[计数](https://github.com/openset/leetcode/tree/master/tag/counting/README.md)]
 
 ---
 

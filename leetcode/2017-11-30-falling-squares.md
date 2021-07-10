@@ -3,7 +3,7 @@ layout:     single
 title:      "掉落的方块"
 date:       2017-11-30 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Segment Tree, Ordered Map]
+tags:       [Segment Tree, Array, Ordered Set]
 permalink:  /problems/falling-squares/
 ---
 
@@ -86,7 +86,8 @@ _aa___a
 
 ### 相关话题
   [[线段树](https://github.com/openset/leetcode/tree/master/tag/segment-tree/README.md)]
-  [[Ordered Map](https://github.com/openset/leetcode/tree/master/tag/ordered-map/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[有序集合](https://github.com/openset/leetcode/tree/master/tag/ordered-set/README.md)]
 
 ### 相似题目
   1. [天际线问题](/problems/the-skyline-problem) (Hard)

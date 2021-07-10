@@ -3,7 +3,7 @@ layout:     single
 title:      "寻找比目标字母大的最小字母"
 date:       2018-01-14 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Binary Search]
+tags:       [Array, Binary Search]
 permalink:  /problems/find-smallest-letter-greater-than-target/
 ---
 
@@ -67,6 +67,7 @@ target = &quot;k&quot;
 {% endraw %}
 
 ### 相关话题
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
 
 ---

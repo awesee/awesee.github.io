@@ -3,7 +3,7 @@ layout:     single
 title:      "检查整数及其两倍数是否存在"
 date:       2019-09-08 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Array]
+tags:       [Array, Hash Table, Two Pointers, Binary Search, Sorting]
 permalink:  /problems/check-if-n-and-its-double-exist/
 ---
 
@@ -57,6 +57,10 @@ permalink:  /problems/check-if-n-and-its-double-exist/
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+  [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
 
 ---
 

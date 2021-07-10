@@ -3,7 +3,7 @@ layout:     single
 title:      "叶子相似的树"
 date:       2018-05-22 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Tree, Depth-first Search]
+tags:       [Tree, Depth-First Search, Binary Tree]
 permalink:  /problems/leaf-similar-trees/
 ---
 
@@ -11,7 +11,7 @@ permalink:  /problems/leaf-similar-trees/
 
 {% raw %}
 
-<p>请考虑一棵二叉树上所有的叶子，这些叶子的值按从左到右的顺序排列形成一个 <em>叶值序列</em> 。</p>
+<p>请考虑一棵二叉树上所有的叶子，这些叶子的值按从左到右的顺序排列形成一个 <strong>叶值序列 </strong>。</p>
 
 <p><img alt="" src="https://s3-lc-upload.s3.amazonaws.com/uploads/2018/07/16/tree.png" style="height: 240px; width: 300px;" /></p>
 
@@ -76,6 +76,7 @@ permalink:  /problems/leaf-similar-trees/
 ### 相关话题
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
   [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[二叉树](https://github.com/openset/leetcode/tree/master/tag/binary-tree/README.md)]
 
 ---
 

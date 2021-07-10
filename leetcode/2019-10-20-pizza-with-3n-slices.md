@@ -3,7 +3,7 @@ layout:     single
 title:      "3n 块披萨"
 date:       2019-10-20 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Dynamic Programming]
+tags:       [Greedy, Array, Dynamic Programming, Heap (Priority Queue)]
 permalink:  /problems/pizza-with-3n-slices/
 ---
 
@@ -69,7 +69,10 @@ permalink:  /problems/pizza-with-3n-slices/
 {% endraw %}
 
 ### 相关话题
+  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[堆（优先队列）](https://github.com/openset/leetcode/tree/master/tag/heap-priority-queue/README.md)]
 
 ---
 

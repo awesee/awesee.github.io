@@ -3,7 +3,7 @@ layout:     single
 title:      "大样本统计"
 date:       2018-12-29 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Math, Two Pointers]
+tags:       [Math, Two Pointers, Probability and Statistics]
 permalink:  /problems/statistics-from-a-large-sample/
 ---
 
@@ -52,6 +52,7 @@ permalink:  /problems/statistics-from-a-large-sample/
 ### 相关话题
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
   [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+  [[概率与统计](https://github.com/openset/leetcode/tree/master/tag/probability-and-statistics/README.md)]
 
 ---
 

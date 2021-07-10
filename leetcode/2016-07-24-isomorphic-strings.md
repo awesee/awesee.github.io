@@ -3,7 +3,7 @@ layout:     single
 title:      "同构字符串"
 date:       2016-07-24 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Hash Table]
+tags:       [Hash Table, String]
 permalink:  /problems/isomorphic-strings/
 ---
 
@@ -50,6 +50,7 @@ permalink:  /problems/isomorphic-strings/
 
 ### 相关话题
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ### 相似题目
   1. [单词规律](/problems/word-pattern) (Easy)

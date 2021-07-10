@@ -3,7 +3,7 @@ layout:     single
 title:      "字符串中的第一个唯一字符"
 date:       2017-01-22 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Hash Table, String]
+tags:       [Queue, Hash Table, String, Counting]
 permalink:  /problems/first-unique-character-in-a-string/
 ---
 
@@ -31,8 +31,10 @@ s = &quot;loveleetcode&quot;
 {% endraw %}
 
 ### 相关话题
+  [[队列](https://github.com/openset/leetcode/tree/master/tag/queue/README.md)]
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[计数](https://github.com/openset/leetcode/tree/master/tag/counting/README.md)]
 
 ### 相似题目
   1. [根据字符出现频率排序](/problems/sort-characters-by-frequency) (Medium)

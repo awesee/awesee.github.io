@@ -3,7 +3,7 @@ layout:     single
 title:      "工作计划的最低难度"
 date:       2019-08-28 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Dynamic Programming]
+tags:       [Array, Dynamic Programming]
 permalink:  /problems/minimum-difficulty-of-a-job-schedule/
 ---
 
@@ -71,6 +71,7 @@ permalink:  /problems/minimum-difficulty-of-a-job-schedule/
 {% endraw %}
 
 ### 相关话题
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ---

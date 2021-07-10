@@ -3,7 +3,7 @@ layout:     single
 title:      "快乐数"
 date:       2016-07-21 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Hash Table, Math]
+tags:       [Hash Table, Math, Two Pointers]
 permalink:  /problems/happy-number/
 ---
 
@@ -57,6 +57,7 @@ permalink:  /problems/happy-number/
 ### 相关话题
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
 
 ### 相似题目
   1. [环形链表](/problems/linked-list-cycle) (Easy)

@@ -3,7 +3,7 @@ layout:     single
 title:      "删除字符串中的所有相邻重复项"
 date:       2018-11-13 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Stack]
+tags:       [Stack, String]
 permalink:  /problems/remove-all-adjacent-duplicates-in-string/
 ---
 
@@ -40,6 +40,7 @@ permalink:  /problems/remove-all-adjacent-duplicates-in-string/
 
 ### 相关话题
   [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ---
 

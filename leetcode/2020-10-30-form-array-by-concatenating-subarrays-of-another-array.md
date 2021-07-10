@@ -3,7 +3,7 @@ layout:     single
 title:      "通过连接另一个数组的子数组得到一个数组"
 date:       2020-10-30 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Greedy, Array]
+tags:       [Greedy, Array, String Matching]
 permalink:  /problems/form-array-by-concatenating-subarrays-of-another-array/
 ---
 
@@ -63,8 +63,9 @@ permalink:  /problems/form-array-by-concatenating-subarrays-of-another-array/
 {% endraw %}
 
 ### 相关话题
-  [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[字符串匹配](https://github.com/openset/leetcode/tree/master/tag/string-matching/README.md)]
 
 ---
 

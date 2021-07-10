@@ -3,7 +3,7 @@ layout:     single
 title:      "最长字符串链"
 date:       2018-11-14 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Hash Table, Dynamic Programming]
+tags:       [Array, Hash Table, Two Pointers, String, Dynamic Programming]
 permalink:  /problems/longest-string-chain/
 ---
 
@@ -42,7 +42,10 @@ permalink:  /problems/longest-string-chain/
 {% endraw %}
 
 ### 相关话题
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ---

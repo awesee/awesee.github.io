@@ -3,7 +3,7 @@ layout:     single
 title:      "二进制链表转整数"
 date:       2019-07-14 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Bit Manipulation, Linked List]
+tags:       [Linked List, Math]
 permalink:  /problems/convert-binary-number-in-a-linked-list-to-integer/
 ---
 
@@ -63,8 +63,8 @@ permalink:  /problems/convert-binary-number-in-a-linked-list-to-integer/
 {% endraw %}
 
 ### 相关话题
-  [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
   [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
+  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
 
 ---
 

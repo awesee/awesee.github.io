@@ -3,7 +3,7 @@ layout:     single
 title:      "HTML 实体解析器"
 date:       2019-11-11 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Stack, String]
+tags:       [Hash Table, String]
 permalink:  /problems/html-entity-parser/
 ---
 
@@ -76,7 +76,7 @@ permalink:  /problems/html-entity-parser/
 {% endraw %}
 
 ### 相关话题
-  [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ---

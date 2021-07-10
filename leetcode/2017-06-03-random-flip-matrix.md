@@ -3,7 +3,7 @@ layout:     single
 title:      "随机翻转矩阵"
 date:       2017-06-03 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Random]
+tags:       [Reservoir Sampling, Hash Table, Math, Randomized]
 permalink:  /problems/random-flip-matrix/
 ---
 
@@ -44,7 +44,10 @@ permalink:  /problems/random-flip-matrix/
 {% endraw %}
 
 ### 相关话题
-  [[Random](https://github.com/openset/leetcode/tree/master/tag/random/README.md)]
+  [[水塘抽样](https://github.com/openset/leetcode/tree/master/tag/reservoir-sampling/README.md)]
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[随机化](https://github.com/openset/leetcode/tree/master/tag/randomized/README.md)]
 
 ---
 

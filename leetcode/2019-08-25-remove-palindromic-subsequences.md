@@ -3,7 +3,7 @@ layout:     single
 title:      "删除回文子序列"
 date:       2019-08-25 21:30:00 +0800
 categories: [Leetcode]
-tags:       [String]
+tags:       [Two Pointers, String]
 permalink:  /problems/remove-palindromic-subsequences/
 ---
 
@@ -62,6 +62,7 @@ permalink:  /problems/remove-palindromic-subsequences/
 {% endraw %}
 
 ### 相关话题
+  [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ---

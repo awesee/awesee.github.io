@@ -1,13 +1,13 @@
 ---
 layout:     single
-title:      "和为目标值的最大数目不重叠非空子数组数目"
+title:      "和为目标值且不重叠的非空子数组的最大数目"
 date:       2020-03-26 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Dynamic Programming]
+tags:       [Greedy, Array, Hash Table, Prefix Sum]
 permalink:  /problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/
 ---
 
-## 1546. 和为目标值的最大数目不重叠非空子数组数目 (Medium)
+## 1546. 和为目标值且不重叠的非空子数组的最大数目 (Medium)
 
 {% raw %}
 
@@ -56,7 +56,10 @@ permalink:  /problems/maximum-number-of-non-overlapping-subarrays-with-sum-equal
 {% endraw %}
 
 ### 相关话题
-  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[前缀和](https://github.com/openset/leetcode/tree/master/tag/prefix-sum/README.md)]
 
 ---
 

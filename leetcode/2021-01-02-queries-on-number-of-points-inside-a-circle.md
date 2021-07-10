@@ -3,7 +3,7 @@ layout:     single
 title:      "统计一个圆中点的数目"
 date:       2021-01-02 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Math]
+tags:       [Geometry, Array, Math]
 permalink:  /problems/queries-on-number-of-points-inside-a-circle/
 ---
 
@@ -55,6 +55,8 @@ queries[0] 是绿色的圆，queries[1] 是红色的圆，queries[2] 是蓝色�
 {% endraw %}
 
 ### 相关话题
+  [[几何](https://github.com/openset/leetcode/tree/master/tag/geometry/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
 
 ---

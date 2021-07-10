@@ -3,7 +3,7 @@ layout:     single
 title:      "数据流中的第 K 大元素"
 date:       2017-12-04 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Heap, Design]
+tags:       [Tree, Design, Binary Search Tree, Binary Tree, Data Stream, Heap (Priority Queue)]
 permalink:  /problems/kth-largest-element-in-a-stream/
 ---
 
@@ -55,8 +55,12 @@ kthLargest.add(4);   // return 8
 {% endraw %}
 
 ### 相关话题
-  [[堆](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]
+  [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
   [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
+  [[二叉搜索树](https://github.com/openset/leetcode/tree/master/tag/binary-search-tree/README.md)]
+  [[二叉树](https://github.com/openset/leetcode/tree/master/tag/binary-tree/README.md)]
+  [[数据流](https://github.com/openset/leetcode/tree/master/tag/data-stream/README.md)]
+  [[堆（优先队列）](https://github.com/openset/leetcode/tree/master/tag/heap-priority-queue/README.md)]
 
 ### 相似题目
   1. [数组中的第K个最大元素](/problems/kth-largest-element-in-an-array) (Medium)

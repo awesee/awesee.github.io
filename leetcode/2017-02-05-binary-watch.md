@@ -53,7 +53,7 @@ permalink:  /problems/binary-watch/
 
 <p> </p>
 
-<p><strong>解释：</strong></p>
+<p><strong>提示：</strong></p>
 
 <ul>
 	<li><code>0 <= turnedOn <= 10</code></li>
@@ -63,7 +63,7 @@ permalink:  /problems/binary-watch/
 
 ### 相关话题
   [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
-  [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[回溯](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
 
 ### 相似题目
   1. [电话号码的字母组合](/problems/letter-combinations-of-a-phone-number) (Medium)

@@ -3,7 +3,7 @@ layout:     single
 title:      "文件的最长绝对路径"
 date:       2017-01-23 21:30:00 +0800
 categories: [Leetcode]
-tags:       []
+tags:       [Stack, Depth-First Search, String]
 permalink:  /problems/longest-absolute-file-path/
 ---
 
@@ -82,6 +82,11 @@ dir
 </ul>
 
 {% endraw %}
+
+### 相关话题
+  [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
+  [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "文本左右对齐"
 date:       2016-03-09 21:30:00 +0800
 categories: [Leetcode]
-tags:       [String]
+tags:       [String, Simulation]
 permalink:  /problems/text-justification/
 ---
 
@@ -77,6 +77,7 @@ maxWidth = 20
 
 ### 相关话题
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[模拟](https://github.com/openset/leetcode/tree/master/tag/simulation/README.md)]
 
 ---
 

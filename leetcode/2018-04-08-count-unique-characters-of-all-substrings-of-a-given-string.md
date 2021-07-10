@@ -3,7 +3,7 @@ layout:     single
 title:      "统计子串中的唯一字符"
 date:       2018-04-08 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Two Pointers]
+tags:       [String, Dynamic Programming]
 permalink:  /problems/count-unique-characters-of-all-substrings-of-a-given-string/
 ---
 
@@ -58,7 +58,8 @@ permalink:  /problems/count-unique-characters-of-all-substrings-of-a-given-strin
 {% endraw %}
 
 ### 相关话题
-  [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ---
 

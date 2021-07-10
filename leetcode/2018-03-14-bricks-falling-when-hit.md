@@ -3,7 +3,7 @@ layout:     single
 title:      "打砖块"
 date:       2018-03-14 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Union Find]
+tags:       [Union Find, Array, Matrix]
 permalink:  /problems/bricks-falling-when-hit/
 ---
 
@@ -85,6 +85,8 @@ permalink:  /problems/bricks-falling-when-hit/
 
 ### 相关话题
   [[并查集](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[矩阵](https://github.com/openset/leetcode/tree/master/tag/matrix/README.md)]
 
 ---
 

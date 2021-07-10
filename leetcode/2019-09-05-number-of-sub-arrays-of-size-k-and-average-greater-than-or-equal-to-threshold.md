@@ -3,7 +3,7 @@ layout:     single
 title:      "大小为 K 且平均值大于等于阈值的子数组数目"
 date:       2019-09-05 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Array]
+tags:       [Array, Sliding Window]
 permalink:  /problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/
 ---
 
@@ -64,6 +64,7 @@ permalink:  /problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[滑动窗口](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
 
 ---
 

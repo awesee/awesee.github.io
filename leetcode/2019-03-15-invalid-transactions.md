@@ -3,7 +3,7 @@ layout:     single
 title:      "查询无效交易"
 date:       2019-03-15 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Array, String]
+tags:       [Array, Hash Table, String, Sorting]
 permalink:  /problems/invalid-transactions/
 ---
 
@@ -58,7 +58,9 @@ permalink:  /problems/invalid-transactions/
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
 
 ---
 

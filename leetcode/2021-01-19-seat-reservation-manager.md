@@ -3,7 +3,7 @@ layout:     single
 title:      "座位预约管理系统"
 date:       2021-01-19 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Heap, Design]
+tags:       [Design, Heap (Priority Queue)]
 permalink:  /problems/seat-reservation-manager/
 ---
 
@@ -58,8 +58,8 @@ seatManager.unreserve(5); // 将座位 5 变为可以预约，现在可预约的
 {% endraw %}
 
 ### 相关话题
-  [[堆](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]
   [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
+  [[堆（优先队列）](https://github.com/openset/leetcode/tree/master/tag/heap-priority-queue/README.md)]
 
 ---
 

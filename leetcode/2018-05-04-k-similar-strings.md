@@ -3,7 +3,7 @@ layout:     single
 title:      "相似度为 K 的字符串"
 date:       2018-05-04 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Breadth-first Search, Graph]
+tags:       [Breadth-First Search, String]
 permalink:  /problems/k-similar-strings/
 ---
 
@@ -53,7 +53,7 @@ permalink:  /problems/k-similar-strings/
 
 ### 相关话题
   [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
-  [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ### 相似题目
   1. [情侣牵手](/problems/couples-holding-hands) (Hard)

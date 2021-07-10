@@ -3,7 +3,7 @@ layout:     single
 title:      "每隔 n 个顾客打折"
 date:       2019-09-19 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Design]
+tags:       [Design, Array, Hash Table]
 permalink:  /problems/apply-discount-every-n-orders/
 ---
 
@@ -70,6 +70,8 @@ cashier.getBill([2,3,5],[5,3,2]);                    // 返回 2500.0
 
 ### 相关话题
   [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
 
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "链表中的下一个更大节点"
 date:       2018-10-16 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Stack, Linked List]
+tags:       [Stack, Array, Linked List, Monotonic Stack]
 permalink:  /problems/next-greater-node-in-linked-list/
 ---
 
@@ -52,7 +52,9 @@ permalink:  /problems/next-greater-node-in-linked-list/
 
 ### 相关话题
   [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
+  [[单调栈](https://github.com/openset/leetcode/tree/master/tag/monotonic-stack/README.md)]
 
 ---
 

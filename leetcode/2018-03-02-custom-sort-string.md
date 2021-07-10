@@ -3,7 +3,7 @@ layout:     single
 title:      "自定义字符串排序"
 date:       2018-03-02 21:30:00 +0800
 categories: [Leetcode]
-tags:       [String]
+tags:       [Hash Table, String, Sorting]
 permalink:  /problems/custom-sort-string/
 ---
 
@@ -39,7 +39,9 @@ S中出现了字符 &quot;a&quot;, &quot;b&quot;, &quot;c&quot;, 所以 &quot;a&
 {% endraw %}
 
 ### 相关话题
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
 
 ---
 

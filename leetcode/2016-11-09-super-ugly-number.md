@@ -3,7 +3,7 @@ layout:     single
 title:      "超级丑数"
 date:       2016-11-09 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Heap, Math]
+tags:       [Array, Hash Table, Math, Dynamic Programming, Heap (Priority Queue)]
 permalink:  /problems/super-ugly-number/
 ---
 
@@ -33,8 +33,11 @@ permalink:  /problems/super-ugly-number/
 {% endraw %}
 
 ### 相关话题
-  [[堆](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[堆（优先队列）](https://github.com/openset/leetcode/tree/master/tag/heap-priority-queue/README.md)]
 
 ### 相似题目
   1. [丑数 II](/problems/ugly-number-ii) (Medium)

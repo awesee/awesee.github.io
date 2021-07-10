@@ -3,7 +3,7 @@ layout:     single
 title:      "为运算表达式设计优先级"
 date:       2016-08-29 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Divide and Conquer]
+tags:       [Recursion, Memoization, Math, String, Dynamic Programming]
 permalink:  /problems/different-ways-to-add-parentheses/
 ---
 
@@ -35,7 +35,11 @@ permalink:  /problems/different-ways-to-add-parentheses/
 {% endraw %}
 
 ### 相关话题
-  [[分治算法](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]
+  [[递归](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]
+  [[记忆化搜索](https://github.com/openset/leetcode/tree/master/tag/memoization/README.md)]
+  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### 相似题目
   1. [不同的二叉搜索树 II](/problems/unique-binary-search-trees-ii) (Medium)

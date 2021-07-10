@@ -3,7 +3,7 @@ layout:     single
 title:      "使括号有效的最少添加"
 date:       2018-07-10 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Stack, Greedy]
+tags:       [Stack, Greedy, String]
 permalink:  /problems/minimum-add-to-make-parentheses-valid/
 ---
 
@@ -63,7 +63,8 @@ permalink:  /problems/minimum-add-to-make-parentheses-valid/
 
 ### 相关话题
   [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
-  [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ---
 

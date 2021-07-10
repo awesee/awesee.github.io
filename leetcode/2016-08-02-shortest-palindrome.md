@@ -3,7 +3,7 @@ layout:     single
 title:      "最短回文串"
 date:       2016-08-02 21:30:00 +0800
 categories: [Leetcode]
-tags:       [String]
+tags:       [String, String Matching, Hash Function, Rolling Hash]
 permalink:  /problems/shortest-palindrome/
 ---
 
@@ -42,6 +42,9 @@ permalink:  /problems/shortest-palindrome/
 
 ### 相关话题
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[字符串匹配](https://github.com/openset/leetcode/tree/master/tag/string-matching/README.md)]
+  [[哈希函数](https://github.com/openset/leetcode/tree/master/tag/hash-function/README.md)]
+  [[滚动哈希](https://github.com/openset/leetcode/tree/master/tag/rolling-hash/README.md)]
 
 ### 相似题目
   1. [最长回文子串](/problems/longest-palindromic-substring) (Medium)

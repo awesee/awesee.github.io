@@ -3,7 +3,7 @@ layout:     single
 title:      "交换字符串中的元素"
 date:       2019-04-17 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Union Find, Array]
+tags:       [Depth-First Search, Breadth-First Search, Union Find, Hash Table, String]
 permalink:  /problems/smallest-string-with-swaps/
 ---
 
@@ -61,8 +61,11 @@ permalink:  /problems/smallest-string-with-swaps/
 {% endraw %}
 
 ### 相关话题
+  [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
   [[并查集](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)]
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ---
 

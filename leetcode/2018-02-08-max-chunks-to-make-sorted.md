@@ -3,7 +3,7 @@ layout:     single
 title:      "最多能完成排序的块"
 date:       2018-02-08 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Array]
+tags:       [Stack, Greedy, Array, Sorting, Monotonic Stack]
 permalink:  /problems/max-chunks-to-make-sorted/
 ---
 
@@ -43,7 +43,11 @@ permalink:  /problems/max-chunks-to-make-sorted/
 {% endraw %}
 
 ### 相关话题
+  [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
+  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
+  [[单调栈](https://github.com/openset/leetcode/tree/master/tag/monotonic-stack/README.md)]
 
 ### 相似题目
   1. [最多能完成排序的块 II](/problems/max-chunks-to-make-sorted-ii) (Hard)

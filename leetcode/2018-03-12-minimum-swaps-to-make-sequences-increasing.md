@@ -3,11 +3,11 @@ layout:     single
 title:      "使序列递增的最小交换次数"
 date:       2018-03-12 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Dynamic Programming]
+tags:       [Array, Dynamic Programming]
 permalink:  /problems/minimum-swaps-to-make-sequences-increasing/
 ---
 
-## 801. 使序列递增的最小交换次数 (Medium)
+## 801. 使序列递增的最小交换次数 (Hard)
 
 {% raw %}
 
@@ -38,6 +38,7 @@ A = [1, 3, 5, 7] ， B = [1, 2, 3, 4]
 {% endraw %}
 
 ### 相关话题
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ---

@@ -45,11 +45,11 @@ permalink:  /problems/can-place-flowers/
 {% endraw %}
 
 ### 相关话题
-  [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 
 ### 相似题目
-  1. [提莫攻击](/problems/teemo-attacking) (Medium)
+  1. [提莫攻击](/problems/teemo-attacking) (Easy)
   1. [行星碰撞](/problems/asteroid-collision) (Medium)
 
 ---

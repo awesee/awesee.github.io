@@ -3,7 +3,7 @@ layout:     single
 title:      "得到子序列的最少操作次数"
 date:       2020-09-09 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Greedy]
+tags:       [Greedy, Array, Hash Table, Binary Search]
 permalink:  /problems/minimum-operations-to-make-a-subsequence/
 ---
 
@@ -47,7 +47,10 @@ permalink:  /problems/minimum-operations-to-make-a-subsequence/
 {% endraw %}
 
 ### 相关话题
-  [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
 
 ---
 

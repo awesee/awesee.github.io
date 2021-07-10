@@ -3,7 +3,7 @@ layout:     single
 title:      "找出克隆二叉树中的相同节点"
 date:       2019-10-11 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Tree, Depth-first Search, Breadth-first Search, Recursion]
+tags:       [Tree, Depth-First Search, Breadth-First Search, Binary Tree]
 permalink:  /problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/
 ---
 
@@ -91,7 +91,7 @@ permalink:  /problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-t
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
   [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
   [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
-  [[递归](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]
+  [[二叉树](https://github.com/openset/leetcode/tree/master/tag/binary-tree/README.md)]
 
 ---
 

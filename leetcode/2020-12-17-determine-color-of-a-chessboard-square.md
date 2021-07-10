@@ -3,7 +3,7 @@ layout:     single
 title:      "判断国际象棋棋盘中一个格子的颜色"
 date:       2020-12-17 21:30:00 +0800
 categories: [Leetcode]
-tags:       [String]
+tags:       [Math, String]
 permalink:  /problems/determine-color-of-a-chessboard-square/
 ---
 
@@ -57,6 +57,7 @@ permalink:  /problems/determine-color-of-a-chessboard-square/
 {% endraw %}
 
 ### 相关话题
+  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ---

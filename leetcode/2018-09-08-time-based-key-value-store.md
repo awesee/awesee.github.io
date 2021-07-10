@@ -3,7 +3,7 @@ layout:     single
 title:      "基于时间的键值存储"
 date:       2018-09-08 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Hash Table, Binary Search]
+tags:       [Design, Hash Table, String, Binary Search]
 permalink:  /problems/time-based-key-value-store/
 ---
 
@@ -65,7 +65,9 @@ kv.get(&quot;foo&quot;, 5); // 输出 &quot;bar2&quot; &nbsp;
 {% endraw %}
 
 ### 相关话题
+  [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
   [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
 
 ---

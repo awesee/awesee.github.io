@@ -3,7 +3,7 @@ layout:     single
 title:      "二叉树的层序遍历"
 date:       2016-04-12 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Tree, Breadth-first Search]
+tags:       [Tree, Breadth-First Search, Binary Tree]
 permalink:  /problems/binary-tree-level-order-traversal/
 ---
 
@@ -41,6 +41,7 @@ permalink:  /problems/binary-tree-level-order-traversal/
 ### 相关话题
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
   [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
+  [[二叉树](https://github.com/openset/leetcode/tree/master/tag/binary-tree/README.md)]
 
 ### 相似题目
   1. [二叉树的锯齿形层序遍历](/problems/binary-tree-zigzag-level-order-traversal) (Medium)

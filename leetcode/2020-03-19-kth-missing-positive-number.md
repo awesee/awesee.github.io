@@ -3,7 +3,7 @@ layout:     single
 title:      "第 k 个缺失的正整数"
 date:       2020-03-19 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Array, Hash Table]
+tags:       [Array, Binary Search]
 permalink:  /problems/kth-missing-positive-number/
 ---
 
@@ -46,7 +46,7 @@ permalink:  /problems/kth-missing-positive-number/
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
 
 ---
 

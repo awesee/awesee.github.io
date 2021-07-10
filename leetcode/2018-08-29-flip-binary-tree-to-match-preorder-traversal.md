@@ -3,7 +3,7 @@ layout:     single
 title:      "翻转二叉树以匹配先序遍历"
 date:       2018-08-29 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Tree, Depth-first Search]
+tags:       [Tree, Depth-First Search, Binary Tree]
 permalink:  /problems/flip-binary-tree-to-match-preorder-traversal/
 ---
 
@@ -64,6 +64,7 @@ permalink:  /problems/flip-binary-tree-to-match-preorder-traversal/
 ### 相关话题
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
   [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[二叉树](https://github.com/openset/leetcode/tree/master/tag/binary-tree/README.md)]
 
 ---
 

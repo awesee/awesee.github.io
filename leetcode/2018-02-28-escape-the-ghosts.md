@@ -3,7 +3,7 @@ layout:     single
 title:      "逃脱阻碍者"
 date:       2018-02-28 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Math]
+tags:       [Array, Math]
 permalink:  /problems/escape-the-ghosts/
 ---
 
@@ -74,6 +74,7 @@ permalink:  /problems/escape-the-ghosts/
 {% endraw %}
 
 ### 相关话题
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
 
 ---

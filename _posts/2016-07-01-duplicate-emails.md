@@ -3,7 +3,7 @@ layout:     single
 title:      "查找重复的电子邮箱"
 date:       2016-07-01 21:30:00 +0800
 categories: [Leetcode]
-tags:       []
+tags:       [Database]
 permalink:  /problems/duplicate-emails/
 ---
 
@@ -36,6 +36,9 @@ permalink:  /problems/duplicate-emails/
 <p><strong>说明：</strong>所有电子邮箱都是小写字母。</p>
 
 {% endraw %}
+
+### 相关话题
+  [[数据库](https://github.com/openset/leetcode/tree/master/tag/database/README.md)]
 
 ---
 

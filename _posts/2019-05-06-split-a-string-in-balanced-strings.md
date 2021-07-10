@@ -3,7 +3,7 @@ layout:     single
 title:      "分割平衡字符串"
 date:       2019-05-06 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Greedy, String]
+tags:       [Greedy, String, Counting]
 permalink:  /problems/split-a-string-in-balanced-strings/
 ---
 
@@ -66,8 +66,9 @@ permalink:  /problems/split-a-string-in-balanced-strings/
 {% endraw %}
 
 ### 相关话题
-  [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[计数](https://github.com/openset/leetcode/tree/master/tag/counting/README.md)]
 
 ---
 

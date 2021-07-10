@@ -3,7 +3,7 @@ layout:     single
 title:      "课程表 III"
 date:       2017-09-22 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Greedy]
+tags:       [Greedy, Array, Heap (Priority Queue)]
 permalink:  /problems/course-schedule-iii/
 ---
 
@@ -43,7 +43,9 @@ permalink:  /problems/course-schedule-iii/
 {% endraw %}
 
 ### 相关话题
-  [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[堆（优先队列）](https://github.com/openset/leetcode/tree/master/tag/heap-priority-queue/README.md)]
 
 ### 相似题目
   1. [课程表](/problems/course-schedule) (Medium)

@@ -3,7 +3,7 @@ layout:     single
 title:      "最长和谐子序列"
 date:       2017-08-17 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Hash Table]
+tags:       [Array, Hash Table, Sorting]
 permalink:  /problems/longest-harmonious-subsequence/
 ---
 
@@ -53,7 +53,9 @@ permalink:  /problems/longest-harmonious-subsequence/
 {% endraw %}
 
 ### 相关话题
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
 
 ---
 

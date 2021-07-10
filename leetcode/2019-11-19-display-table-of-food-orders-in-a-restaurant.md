@@ -3,7 +3,7 @@ layout:     single
 title:      "点菜展示表"
 date:       2019-11-19 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Hash Table]
+tags:       [Array, Hash Table, String, Ordered Set, Sorting]
 permalink:  /problems/display-table-of-food-orders-in-a-restaurant/
 ---
 
@@ -64,7 +64,11 @@ permalink:  /problems/display-table-of-food-orders-in-a-restaurant/
 {% endraw %}
 
 ### 相关话题
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[有序集合](https://github.com/openset/leetcode/tree/master/tag/ordered-set/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
 
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "只出现一次的数字 III"
 date:       2016-09-17 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Bit Manipulation]
+tags:       [Bit Manipulation, Array]
 permalink:  /problems/single-number-iii/
 ---
 
@@ -53,6 +53,7 @@ permalink:  /problems/single-number-iii/
 
 ### 相关话题
   [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 
 ### 相似题目
   1. [只出现一次的数字](/problems/single-number) (Easy)

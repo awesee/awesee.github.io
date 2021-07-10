@@ -3,7 +3,7 @@ layout:     single
 title:      "设计前中后队列"
 date:       2020-07-28 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Design, Linked List]
+tags:       [Design, Queue, Array, Linked List, Data Stream]
 permalink:  /problems/design-front-middle-back-queue/
 ---
 
@@ -69,7 +69,10 @@ q.popFront();     // 返回 -1 -> [] （队列为空）
 
 ### 相关话题
   [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
+  [[队列](https://github.com/openset/leetcode/tree/master/tag/queue/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
+  [[数据流](https://github.com/openset/leetcode/tree/master/tag/data-stream/README.md)]
 
 ---
 

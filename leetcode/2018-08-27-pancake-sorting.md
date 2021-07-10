@@ -3,7 +3,7 @@ layout:     single
 title:      "煎饼排序"
 date:       2018-08-27 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Sort, Array]
+tags:       [Greedy, Array, Two Pointers, Sorting]
 permalink:  /problems/pancake-sorting/
 ---
 
@@ -63,8 +63,10 @@ permalink:  /problems/pancake-sorting/
 {% endraw %}
 
 ### 相关话题
-  [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
+  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
 
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "字符串的好分割数目"
 date:       2020-03-05 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Bit Manipulation, String]
+tags:       [Bit Manipulation, String, Dynamic Programming]
 permalink:  /problems/number-of-good-ways-to-split-a-string/
 ---
 
@@ -62,6 +62,7 @@ permalink:  /problems/number-of-good-ways-to-split-a-string/
 ### 相关话题
   [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "找树左下角的值"
 date:       2017-05-28 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Tree, Depth-first Search, Breadth-first Search]
+tags:       [Tree, Depth-First Search, Breadth-First Search, Binary Tree]
 permalink:  /problems/find-bottom-left-tree-value/
 ---
 
@@ -55,6 +55,7 @@ permalink:  /problems/find-bottom-left-tree-value/
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
   [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
   [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
+  [[二叉树](https://github.com/openset/leetcode/tree/master/tag/binary-tree/README.md)]
 
 ---
 

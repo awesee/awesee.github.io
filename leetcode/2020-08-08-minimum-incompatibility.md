@@ -3,7 +3,7 @@ layout:     single
 title:      "最小不兼容性"
 date:       2020-08-08 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Greedy, Backtracking]
+tags:       [Bit Manipulation, Array, Dynamic Programming, Bitmask]
 permalink:  /problems/minimum-incompatibility/
 ---
 
@@ -60,8 +60,10 @@ permalink:  /problems/minimum-incompatibility/
 {% endraw %}
 
 ### 相关话题
-  [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
-  [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[状态压缩](https://github.com/openset/leetcode/tree/master/tag/bitmask/README.md)]
 
 ---
 

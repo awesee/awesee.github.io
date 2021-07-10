@@ -3,7 +3,7 @@ layout:     single
 title:      "设计一个支持增量操作的栈"
 date:       2019-10-13 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Stack, Design]
+tags:       [Stack, Design, Array]
 permalink:  /problems/design-a-stack-with-increment-operation/
 ---
 
@@ -64,6 +64,7 @@ customStack.pop();                            // 返回 -1 --&gt; 栈为空，�
 ### 相关话题
   [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
   [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 
 ---
 

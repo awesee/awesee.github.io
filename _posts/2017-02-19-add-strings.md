@@ -3,7 +3,7 @@ layout:     single
 title:      "字符串相加"
 date:       2017-02-19 21:30:00 +0800
 categories: [Leetcode]
-tags:       [String]
+tags:       [Math, String, Simulation]
 permalink:  /problems/add-strings/
 ---
 
@@ -27,7 +27,9 @@ permalink:  /problems/add-strings/
 {% endraw %}
 
 ### 相关话题
+  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[模拟](https://github.com/openset/leetcode/tree/master/tag/simulation/README.md)]
 
 ### 相似题目
   1. [两数相加](/problems/add-two-numbers) (Medium)

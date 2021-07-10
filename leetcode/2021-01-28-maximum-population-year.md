@@ -3,7 +3,7 @@ layout:     single
 title:      "人口最多的年份"
 date:       2021-01-28 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Array]
+tags:       [Array, Counting]
 permalink:  /problems/maximum-population-year/
 ---
 
@@ -47,6 +47,7 @@ permalink:  /problems/maximum-population-year/
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[计数](https://github.com/openset/leetcode/tree/master/tag/counting/README.md)]
 
 ---
 

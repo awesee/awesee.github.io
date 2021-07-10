@@ -3,7 +3,7 @@ layout:     single
 title:      "在受污染的二叉树中查找元素"
 date:       2019-06-15 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Tree, Hash Table]
+tags:       [Tree, Depth-First Search, Breadth-First Search, Design, Binary Tree]
 permalink:  /problems/find-elements-in-a-contaminated-binary-tree/
 ---
 
@@ -92,7 +92,10 @@ findElements.find(5); // return True
 
 ### 相关话题
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
-  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
+  [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
+  [[二叉树](https://github.com/openset/leetcode/tree/master/tag/binary-tree/README.md)]
 
 ---
 

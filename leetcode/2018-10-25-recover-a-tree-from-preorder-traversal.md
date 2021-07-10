@@ -3,7 +3,7 @@ layout:     single
 title:      "从先序遍历还原二叉树"
 date:       2018-10-25 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Tree, Depth-first Search]
+tags:       [Tree, Depth-First Search, String, Binary Tree]
 permalink:  /problems/recover-a-tree-from-preorder-traversal/
 ---
 
@@ -59,6 +59,8 @@ permalink:  /problems/recover-a-tree-from-preorder-traversal/
 ### 相关话题
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
   [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[二叉树](https://github.com/openset/leetcode/tree/master/tag/binary-tree/README.md)]
 
 ---
 

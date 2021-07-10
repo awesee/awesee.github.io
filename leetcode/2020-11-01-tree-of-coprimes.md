@@ -3,7 +3,7 @@ layout:     single
 title:      "互质树"
 date:       2020-11-01 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Tree, Depth-first Search, Breadth-first Search, Math]
+tags:       [Tree, Depth-First Search, Breadth-First Search, Math]
 permalink:  /problems/tree-of-coprimes/
 ---
 

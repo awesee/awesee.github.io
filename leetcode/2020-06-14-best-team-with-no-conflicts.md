@@ -3,7 +3,7 @@ layout:     single
 title:      "无矛盾的最佳球队"
 date:       2020-06-14 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Dynamic Programming]
+tags:       [Array, Dynamic Programming, Sorting]
 permalink:  /problems/best-team-with-no-conflicts/
 ---
 
@@ -53,7 +53,9 @@ permalink:  /problems/best-team-with-no-conflicts/
 {% endraw %}
 
 ### 相关话题
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
 
 ---
 

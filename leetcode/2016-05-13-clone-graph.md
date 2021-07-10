@@ -3,7 +3,7 @@ layout:     single
 title:      "克隆图"
 date:       2016-05-13 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Depth-first Search, Breadth-first Search, Graph]
+tags:       [Depth-First Search, Breadth-First Search, Graph, Hash Table]
 permalink:  /problems/clone-graph/
 ---
 
@@ -87,6 +87,7 @@ permalink:  /problems/clone-graph/
   [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
   [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
   [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
 
 ### 相似题目
   1. [复制带随机指针的链表](/problems/copy-list-with-random-pointer) (Medium)

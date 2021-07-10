@@ -7,7 +7,7 @@ tags:       [Graph]
 permalink:  /problems/find-center-of-star-graph/
 ---
 
-## 1791. 找出星型图的中心节点 (Medium)
+## 1791. 找出星型图的中心节点 (Easy)
 
 {% raw %}
 

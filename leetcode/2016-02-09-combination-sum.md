@@ -57,7 +57,7 @@ permalink:  /problems/combination-sum/
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[回溯](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
 
 ### 相似题目
   1. [电话号码的字母组合](/problems/letter-combinations-of-a-phone-number) (Medium)

@@ -3,7 +3,7 @@ layout:     single
 title:      "较大分组的位置"
 date:       2018-04-10 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Array]
+tags:       [String]
 permalink:  /problems/positions-of-large-groups/
 ---
 
@@ -64,7 +64,7 @@ permalink:  /problems/positions-of-large-groups/
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ---
 

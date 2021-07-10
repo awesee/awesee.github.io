@@ -3,7 +3,7 @@ layout:     single
 title:      "执行交换操作后的最小汉明距离"
 date:       2020-09-18 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Greedy, Depth-first Search, Union Find]
+tags:       [Depth-First Search, Union Find, Array]
 permalink:  /problems/minimize-hamming-distance-after-swap-operations/
 ---
 
@@ -59,9 +59,9 @@ source 和 target 间的汉明距离是 2 ，二者有 2 处元素不同，在�
 {% endraw %}
 
 ### 相关话题
-  [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
   [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
   [[并查集](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 
 ---
 

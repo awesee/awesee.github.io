@@ -3,7 +3,7 @@ layout:     single
 title:      "找出第 k 小的距离对"
 date:       2017-12-20 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Heap, Array, Binary Search]
+tags:       [Array, Two Pointers, Binary Search, Sorting]
 permalink:  /problems/find-k-th-smallest-pair-distance/
 ---
 
@@ -39,9 +39,10 @@ k = 1
 {% endraw %}
 
 ### 相关话题
-  [[堆](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
   [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
 
 ### 相似题目
   1. [查找和最小的K对数字](/problems/find-k-pairs-with-smallest-sums) (Medium)

@@ -3,7 +3,7 @@ layout:     single
 title:      "找到字符串中所有字母异位词"
 date:       2017-03-14 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Hash Table]
+tags:       [Hash Table, String, Sliding Window]
 permalink:  /problems/find-all-anagrams-in-a-string/
 ---
 
@@ -55,6 +55,8 @@ s: &quot;abab&quot; p: &quot;ab&quot;
 
 ### 相关话题
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[滑动窗口](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
 
 ### 相似题目
   1. [有效的字母异位词](/problems/valid-anagram) (Easy)

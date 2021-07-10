@@ -3,7 +3,7 @@ layout:     single
 title:      "项目管理"
 date:       2019-04-18 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Depth-first Search, Graph, Topological Sort]
+tags:       [Depth-First Search, Breadth-First Search, Graph, Topological Sort]
 permalink:  /problems/sort-items-by-groups-respecting-dependencies/
 ---
 
@@ -59,6 +59,7 @@ permalink:  /problems/sort-items-by-groups-respecting-dependencies/
 
 ### 相关话题
   [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
   [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
   [[拓扑排序](https://github.com/openset/leetcode/tree/master/tag/topological-sort/README.md)]
 

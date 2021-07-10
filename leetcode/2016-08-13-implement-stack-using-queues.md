@@ -3,7 +3,7 @@ layout:     single
 title:      "用队列实现栈"
 date:       2016-08-13 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Stack, Design]
+tags:       [Stack, Design, Queue]
 permalink:  /problems/implement-stack-using-queues/
 ---
 
@@ -11,7 +11,7 @@ permalink:  /problems/implement-stack-using-queues/
 
 {% raw %}
 
-<p>请你仅使用两个队列实现一个后入先出（LIFO）的栈，并支持普通队列的全部四种操作（<code>push</code>、<code>top</code>、<code>pop</code> 和 <code>empty</code>）。</p>
+<p>请你仅使用两个队列实现一个后入先出（LIFO）的栈，并支持普通栈的全部四种操作（<code>push</code>、<code>top</code>、<code>pop</code> 和 <code>empty</code>）。</p>
 
 <p>实现 <code>MyStack</code> 类：</p>
 
@@ -70,6 +70,7 @@ myStack.empty(); // 返回 False
 ### 相关话题
   [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
   [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
+  [[队列](https://github.com/openset/leetcode/tree/master/tag/queue/README.md)]
 
 ### 相似题目
   1. [用栈实现队列](/problems/implement-queue-using-stacks) (Easy)

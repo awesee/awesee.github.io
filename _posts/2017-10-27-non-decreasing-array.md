@@ -7,7 +7,7 @@ tags:       [Array]
 permalink:  /problems/non-decreasing-array/
 ---
 
-## 665. 非递减数列 (Easy)
+## 665. 非递减数列 (Medium)
 
 {% raw %}
 

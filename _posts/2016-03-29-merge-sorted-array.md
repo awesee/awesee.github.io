@@ -3,7 +3,7 @@ layout:     single
 title:      "合并两个有序数组"
 date:       2016-03-29 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Array, Two Pointers]
+tags:       [Array, Two Pointers, Sorting]
 permalink:  /problems/merge-sorted-array/
 ---
 
@@ -48,6 +48,7 @@ permalink:  /problems/merge-sorted-array/
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
 
 ### 相似题目
   1. [合并两个有序链表](/problems/merge-two-sorted-lists) (Easy)

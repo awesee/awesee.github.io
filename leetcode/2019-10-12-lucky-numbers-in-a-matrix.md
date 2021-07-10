@@ -3,7 +3,7 @@ layout:     single
 title:      "矩阵中的幸运数"
 date:       2019-10-12 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Array]
+tags:       [Array, Matrix]
 permalink:  /problems/lucky-numbers-in-a-matrix/
 ---
 
@@ -58,6 +58,7 @@ permalink:  /problems/lucky-numbers-in-a-matrix/
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[矩阵](https://github.com/openset/leetcode/tree/master/tag/matrix/README.md)]
 
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "根据身高重建队列"
 date:       2017-02-10 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Greedy]
+tags:       [Greedy, Array, Sorting]
 permalink:  /problems/queue-reconstruction-by-height/
 ---
 
@@ -56,7 +56,9 @@ permalink:  /problems/queue-reconstruction-by-height/
 {% endraw %}
 
 ### 相关话题
-  [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
 
 ### 相似题目
   1. [计算右侧小于当前元素的个数](/problems/count-of-smaller-numbers-after-self) (Hard)

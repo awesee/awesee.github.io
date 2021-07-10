@@ -3,7 +3,7 @@ layout:     single
 title:      "矩形面积 II"
 date:       2018-04-30 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Segment Tree, Line Sweep]
+tags:       [Segment Tree, Array, Ordered Set, Line Sweep]
 permalink:  /problems/rectangle-area-ii/
 ---
 
@@ -44,7 +44,9 @@ permalink:  /problems/rectangle-area-ii/
 
 ### 相关话题
   [[线段树](https://github.com/openset/leetcode/tree/master/tag/segment-tree/README.md)]
-  [[Line Sweep](https://github.com/openset/leetcode/tree/master/tag/line-sweep/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[有序集合](https://github.com/openset/leetcode/tree/master/tag/ordered-set/README.md)]
+  [[扫描线](https://github.com/openset/leetcode/tree/master/tag/line-sweep/README.md)]
 
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "仅仅反转字母"
 date:       2018-07-06 21:30:00 +0800
 categories: [Leetcode]
-tags:       [String]
+tags:       [Two Pointers, String]
 permalink:  /problems/reverse-only-letters/
 ---
 
@@ -49,6 +49,7 @@ permalink:  /problems/reverse-only-letters/
 {% endraw %}
 
 ### 相关话题
+  [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ---

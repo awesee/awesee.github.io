@@ -3,7 +3,7 @@ layout:     single
 title:      "找到最接近目标值的函数值"
 date:       2020-03-01 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Bit Manipulation, Segment Tree, Binary Search]
+tags:       [Bit Manipulation, Segment Tree, Array, Binary Search]
 permalink:  /problems/find-a-value-of-a-mysterious-function-closest-to-target/
 ---
 
@@ -56,6 +56,7 @@ permalink:  /problems/find-a-value-of-a-mysterious-function-closest-to-target/
 ### 相关话题
   [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
   [[线段树](https://github.com/openset/leetcode/tree/master/tag/segment-tree/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
 
 ---

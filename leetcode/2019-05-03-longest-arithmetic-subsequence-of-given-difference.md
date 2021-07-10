@@ -3,7 +3,7 @@ layout:     single
 title:      "最长定差子序列"
 date:       2019-05-03 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Hash Table, Math, Dynamic Programming]
+tags:       [Array, Hash Table, Dynamic Programming]
 permalink:  /problems/longest-arithmetic-subsequence-of-given-difference/
 ---
 
@@ -52,8 +52,8 @@ permalink:  /problems/longest-arithmetic-subsequence-of-given-difference/
 {% endraw %}
 
 ### 相关话题
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ---

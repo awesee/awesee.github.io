@@ -3,7 +3,7 @@ layout:     single
 title:      "地图中的最高点"
 date:       2020-10-31 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Breadth-first Search, Graph]
+tags:       [Breadth-First Search, Array, Matrix]
 permalink:  /problems/map-of-highest-peak/
 ---
 
@@ -70,7 +70,8 @@ permalink:  /problems/map-of-highest-peak/
 
 ### 相关话题
   [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
-  [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[矩阵](https://github.com/openset/leetcode/tree/master/tag/matrix/README.md)]
 
 ---
 

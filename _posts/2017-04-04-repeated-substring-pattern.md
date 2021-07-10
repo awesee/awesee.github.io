@@ -3,7 +3,7 @@ layout:     single
 title:      "重复的子字符串"
 date:       2017-04-04 21:30:00 +0800
 categories: [Leetcode]
-tags:       [String]
+tags:       [String, String Matching]
 permalink:  /problems/repeated-substring-pattern/
 ---
 
@@ -45,6 +45,7 @@ permalink:  /problems/repeated-substring-pattern/
 
 ### 相关话题
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[字符串匹配](https://github.com/openset/leetcode/tree/master/tag/string-matching/README.md)]
 
 ### 相似题目
   1. [实现 strStr()](/problems/implement-strstr) (Easy)

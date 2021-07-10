@@ -3,7 +3,7 @@ layout:     single
 title:      "删除注释"
 date:       2017-12-23 21:30:00 +0800
 categories: [Leetcode]
-tags:       [String]
+tags:       [Array, String]
 permalink:  /problems/remove-comments/
 ---
 
@@ -85,6 +85,7 @@ source = [&quot;a/*comment&quot;, &quot;line&quot;, &quot;more_comment*/b&quot;]
 {% endraw %}
 
 ### 相关话题
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ### 相似题目

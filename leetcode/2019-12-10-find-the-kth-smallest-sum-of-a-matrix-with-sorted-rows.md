@@ -3,7 +3,7 @@ layout:     single
 title:      "有序矩阵中的第 k 个最小数组和"
 date:       2019-12-10 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Heap]
+tags:       [Array, Binary Search, Matrix, Heap (Priority Queue)]
 permalink:  /problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows/
 ---
 
@@ -60,7 +60,10 @@ permalink:  /problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows/
 {% endraw %}
 
 ### 相关话题
-  [[堆](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[矩阵](https://github.com/openset/leetcode/tree/master/tag/matrix/README.md)]
+  [[堆（优先队列）](https://github.com/openset/leetcode/tree/master/tag/heap-priority-queue/README.md)]
 
 ---
 

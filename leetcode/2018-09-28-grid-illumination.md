@@ -3,7 +3,7 @@ layout:     single
 title:      "网格照明"
 date:       2018-09-28 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Hash Table]
+tags:       [Array, Hash Table]
 permalink:  /problems/grid-illumination/
 ---
 
@@ -63,6 +63,7 @@ permalink:  /problems/grid-illumination/
 {% endraw %}
 
 ### 相关话题
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
 
 ### 相似题目

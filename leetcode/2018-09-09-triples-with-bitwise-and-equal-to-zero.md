@@ -3,7 +3,7 @@ layout:     single
 title:      "按位与为零的三元组"
 date:       2018-09-09 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Dynamic Programming]
+tags:       [Bit Manipulation, Array, Hash Table]
 permalink:  /problems/triples-with-bitwise-and-equal-to-zero/
 ---
 
@@ -53,7 +53,9 @@ permalink:  /problems/triples-with-bitwise-and-equal-to-zero/
 {% endraw %}
 
 ### 相关话题
-  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
 
 ---
 

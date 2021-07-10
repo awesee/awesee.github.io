@@ -3,7 +3,7 @@ layout:     single
 title:      "股票价格跨度"
 date:       2018-06-20 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Stack]
+tags:       [Stack, Design, Data Stream, Monotonic Stack]
 permalink:  /problems/online-stock-span/
 ---
 
@@ -52,6 +52,9 @@ S.next(85) 被调用并返回 6。
 
 ### 相关话题
   [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
+  [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
+  [[数据流](https://github.com/openset/leetcode/tree/master/tag/data-stream/README.md)]
+  [[单调栈](https://github.com/openset/leetcode/tree/master/tag/monotonic-stack/README.md)]
 
 ---
 

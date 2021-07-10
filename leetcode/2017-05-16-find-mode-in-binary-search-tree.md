@@ -3,7 +3,7 @@ layout:     single
 title:      "二叉搜索树中的众数"
 date:       2017-05-16 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Tree]
+tags:       [Tree, Depth-First Search, Binary Search Tree, Binary Tree]
 permalink:  /problems/find-mode-in-binary-search-tree/
 ---
 
@@ -41,6 +41,9 @@ permalink:  /problems/find-mode-in-binary-search-tree/
 
 ### 相关话题
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[二叉搜索树](https://github.com/openset/leetcode/tree/master/tag/binary-search-tree/README.md)]
+  [[二叉树](https://github.com/openset/leetcode/tree/master/tag/binary-tree/README.md)]
 
 ### 相似题目
   1. [验证二叉搜索树](/problems/validate-binary-search-tree) (Medium)

@@ -3,7 +3,7 @@ layout:     single
 title:      "赎金信"
 date:       2017-01-18 21:30:00 +0800
 categories: [Leetcode]
-tags:       [String]
+tags:       [Hash Table, String, Counting]
 permalink:  /problems/ransom-note/
 ---
 
@@ -49,7 +49,9 @@ permalink:  /problems/ransom-note/
 {% endraw %}
 
 ### 相关话题
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[计数](https://github.com/openset/leetcode/tree/master/tag/counting/README.md)]
 
 ### 相似题目
   1. [贴纸拼词](/problems/stickers-to-spell-word) (Hard)

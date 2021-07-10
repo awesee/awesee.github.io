@@ -3,7 +3,7 @@ layout:     single
 title:      "通过指令创建有序数组"
 date:       2020-07-07 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Binary Indexed Tree, Segment Tree, Binary Search, Ordered Map]
+tags:       [Binary Indexed Tree, Segment Tree, Array, Binary Search, Divide and Conquer, Ordered Set, Merge Sort]
 permalink:  /problems/create-sorted-array-through-instructions/
 ---
 
@@ -80,8 +80,11 @@ permalink:  /problems/create-sorted-array-through-instructions/
 ### 相关话题
   [[树状数组](https://github.com/openset/leetcode/tree/master/tag/binary-indexed-tree/README.md)]
   [[线段树](https://github.com/openset/leetcode/tree/master/tag/segment-tree/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
-  [[Ordered Map](https://github.com/openset/leetcode/tree/master/tag/ordered-map/README.md)]
+  [[分治](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]
+  [[有序集合](https://github.com/openset/leetcode/tree/master/tag/ordered-set/README.md)]
+  [[归并排序](https://github.com/openset/leetcode/tree/master/tag/merge-sort/README.md)]
 
 ---
 

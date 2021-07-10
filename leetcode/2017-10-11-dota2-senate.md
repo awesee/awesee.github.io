@@ -3,7 +3,7 @@ layout:     single
 title:      "Dota2 参议院"
 date:       2017-10-11 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Greedy]
+tags:       [Greedy, Queue, String]
 permalink:  /problems/dota2-senate/
 ---
 
@@ -70,10 +70,12 @@ permalink:  /problems/dota2-senate/
 {% endraw %}
 
 ### 相关话题
-  [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[队列](https://github.com/openset/leetcode/tree/master/tag/queue/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ### 相似题目
-  1. [提莫攻击](/problems/teemo-attacking) (Medium)
+  1. [提莫攻击](/problems/teemo-attacking) (Easy)
 
 ---
 

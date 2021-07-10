@@ -3,7 +3,7 @@ layout:     single
 title:      "二维区域和检索 - 矩阵不可变"
 date:       2016-10-31 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Dynamic Programming]
+tags:       [Design, Array, Matrix, Prefix Sum]
 permalink:  /problems/range-sum-query-2d-immutable/
 ---
 
@@ -47,7 +47,10 @@ sumRegion(1, 2, 2, 4) -> 12
 {% endraw %}
 
 ### 相关话题
-  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[矩阵](https://github.com/openset/leetcode/tree/master/tag/matrix/README.md)]
+  [[前缀和](https://github.com/openset/leetcode/tree/master/tag/prefix-sum/README.md)]
 
 ### 相似题目
   1. [区域和检索 - 数组不可变](/problems/range-sum-query-immutable) (Easy)

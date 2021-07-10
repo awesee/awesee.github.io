@@ -3,7 +3,7 @@ layout:     single
 title:      "检查数组对是否可以被 k 整除"
 date:       2020-02-06 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Greedy, Array, Math]
+tags:       [Array, Hash Table, Counting]
 permalink:  /problems/check-if-array-pairs-are-divisible-by-k/
 ---
 
@@ -67,9 +67,9 @@ permalink:  /problems/check-if-array-pairs-are-divisible-by-k/
 {% endraw %}
 
 ### 相关话题
-  [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[计数](https://github.com/openset/leetcode/tree/master/tag/counting/README.md)]
 
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "完全二叉树的节点个数"
 date:       2016-08-10 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Tree, Binary Search]
+tags:       [Tree, Depth-First Search, Binary Search, Binary Tree]
 permalink:  /problems/count-complete-tree-nodes/
 ---
 
@@ -56,7 +56,9 @@ permalink:  /problems/count-complete-tree-nodes/
 
 ### 相关话题
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
   [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[二叉树](https://github.com/openset/leetcode/tree/master/tag/binary-tree/README.md)]
 
 ### 相似题目
   1. [最接近的二叉搜索树值](/problems/closest-binary-search-tree-value) (Easy)

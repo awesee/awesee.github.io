@@ -3,7 +3,7 @@ layout:     single
 title:      "删除重复的电子邮箱"
 date:       2016-07-15 21:30:00 +0800
 categories: [Leetcode]
-tags:       []
+tags:       [Database]
 permalink:  /problems/delete-duplicate-emails/
 ---
 
@@ -43,6 +43,9 @@ Id 是这个表的主键。
 </ul>
 
 {% endraw %}
+
+### 相关话题
+  [[数据库](https://github.com/openset/leetcode/tree/master/tag/database/README.md)]
 
 ---
 

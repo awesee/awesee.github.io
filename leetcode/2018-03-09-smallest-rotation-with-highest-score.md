@@ -3,7 +3,7 @@ layout:     single
 title:      "得分最高的最小轮调"
 date:       2018-03-09 21:30:00 +0800
 categories: [Leetcode]
-tags:       []
+tags:       [Array, Prefix Sum]
 permalink:  /problems/smallest-rotation-with-highest-score/
 ---
 
@@ -51,6 +51,10 @@ A 无论怎么变化总是有 3 分。
 </ul>
 
 {% endraw %}
+
+### 相关话题
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[前缀和](https://github.com/openset/leetcode/tree/master/tag/prefix-sum/README.md)]
 
 ---
 

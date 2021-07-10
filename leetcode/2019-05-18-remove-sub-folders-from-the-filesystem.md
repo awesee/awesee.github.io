@@ -3,7 +3,7 @@ layout:     single
 title:      "删除子文件夹"
 date:       2019-05-18 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Array, String]
+tags:       [Trie, Array, String]
 permalink:  /problems/remove-sub-folders-from-the-filesystem/
 ---
 
@@ -64,6 +64,7 @@ permalink:  /problems/remove-sub-folders-from-the-filesystem/
 {% endraw %}
 
 ### 相关话题
+  [[字典树](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)]
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 

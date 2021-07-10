@@ -3,7 +3,7 @@ layout:     single
 title:      "推文计数"
 date:       2019-09-10 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Design]
+tags:       [Design, Hash Table, Binary Search, Ordered Set, Sorting]
 permalink:  /problems/tweet-counts-per-frequency/
 ---
 
@@ -63,6 +63,10 @@ tweetCounts.getTweetCountsPerFrequency(&quot;hour&quot;, &quot;tweet3&quot;, 0, 
 
 ### 相关话题
   [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[有序集合](https://github.com/openset/leetcode/tree/master/tag/ordered-set/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
 
 ---
 

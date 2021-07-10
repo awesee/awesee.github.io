@@ -3,7 +3,7 @@ layout:     single
 title:      "最大矩形"
 date:       2016-03-26 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Stack, Array, Hash Table, Dynamic Programming]
+tags:       [Stack, Array, Dynamic Programming, Matrix, Monotonic Stack]
 permalink:  /problems/maximal-rectangle/
 ---
 
@@ -67,8 +67,9 @@ permalink:  /problems/maximal-rectangle/
 ### 相关话题
   [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[矩阵](https://github.com/openset/leetcode/tree/master/tag/matrix/README.md)]
+  [[单调栈](https://github.com/openset/leetcode/tree/master/tag/monotonic-stack/README.md)]
 
 ### 相似题目
   1. [柱状图中最大的矩形](/problems/largest-rectangle-in-histogram) (Hard)

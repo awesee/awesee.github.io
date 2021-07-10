@@ -3,7 +3,7 @@ layout:     single
 title:      "6 和 9 组成的最大数字"
 date:       2019-08-16 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Math]
+tags:       [Greedy, Math]
 permalink:  /problems/maximum-69-number/
 ---
 
@@ -55,6 +55,7 @@ permalink:  /problems/maximum-69-number/
 {% endraw %}
 
 ### 相关话题
+  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
 
 ---

@@ -3,7 +3,7 @@ layout:     single
 title:      "高度检查器"
 date:       2018-11-17 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Array]
+tags:       [Array, Counting Sort, Sorting]
 permalink:  /problems/height-checker/
 ---
 
@@ -58,6 +58,8 @@ permalink:  /problems/height-checker/
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[计数排序](https://github.com/openset/leetcode/tree/master/tag/counting-sort/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
 
 ---
 

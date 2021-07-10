@@ -3,7 +3,7 @@ layout:     single
 title:      "飞机座位分配概率"
 date:       2019-05-12 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Brainteaser, Math, Dynamic Programming]
+tags:       [Brainteaser, Math, Dynamic Programming, Probability and Statistics]
 permalink:  /problems/airplane-seat-assignment-probability/
 ---
 
@@ -55,6 +55,7 @@ permalink:  /problems/airplane-seat-assignment-probability/
   [[脑筋急转弯](https://github.com/openset/leetcode/tree/master/tag/brainteaser/README.md)]
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[概率与统计](https://github.com/openset/leetcode/tree/master/tag/probability-and-statistics/README.md)]
 
 ---
 

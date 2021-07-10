@@ -3,7 +3,7 @@ layout:     single
 title:      "字符流"
 date:       2018-10-29 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Trie]
+tags:       [Design, Trie, Array, String, Data Stream]
 permalink:  /problems/stream-of-characters/
 ---
 
@@ -51,7 +51,11 @@ streamChecker.query(&#39;l&#39;);          // 返回 true，因为 &#39;kl&#39; 
 {% endraw %}
 
 ### 相关话题
+  [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
   [[字典树](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[数据流](https://github.com/openset/leetcode/tree/master/tag/data-stream/README.md)]
 
 ---
 

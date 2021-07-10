@@ -3,7 +3,7 @@ layout:     single
 title:      "K 个一组翻转链表"
 date:       2016-01-26 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Linked List]
+tags:       [Recursion, Linked List]
 permalink:  /problems/reverse-nodes-in-k-group/
 ---
 
@@ -69,6 +69,7 @@ permalink:  /problems/reverse-nodes-in-k-group/
 {% endraw %}
 
 ### 相关话题
+  [[递归](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]
   [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
 
 ### 相似题目

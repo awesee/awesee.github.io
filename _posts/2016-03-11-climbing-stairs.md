@@ -3,7 +3,7 @@ layout:     single
 title:      "爬楼梯"
 date:       2016-03-11 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Dynamic Programming]
+tags:       [Memoization, Math, Dynamic Programming]
 permalink:  /problems/climbing-stairs/
 ---
 
@@ -38,6 +38,8 @@ permalink:  /problems/climbing-stairs/
 {% endraw %}
 
 ### 相关话题
+  [[记忆化搜索](https://github.com/openset/leetcode/tree/master/tag/memoization/README.md)]
+  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### 相似题目

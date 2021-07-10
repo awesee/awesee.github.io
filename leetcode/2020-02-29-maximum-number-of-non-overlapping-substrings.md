@@ -3,7 +3,7 @@ layout:     single
 title:      "最多的不重叠子字符串"
 date:       2020-02-29 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Greedy]
+tags:       [Greedy, String]
 permalink:  /problems/maximum-number-of-non-overlapping-substrings/
 ---
 
@@ -59,7 +59,8 @@ permalink:  /problems/maximum-number-of-non-overlapping-substrings/
 {% endraw %}
 
 ### 相关话题
-  [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ---
 

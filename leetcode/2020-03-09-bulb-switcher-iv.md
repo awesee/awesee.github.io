@@ -3,7 +3,7 @@ layout:     single
 title:      "灯泡开关 IV"
 date:       2020-03-09 21:30:00 +0800
 categories: [Leetcode]
-tags:       [String]
+tags:       [Greedy, String]
 permalink:  /problems/bulb-switcher-iv/
 ---
 
@@ -69,6 +69,7 @@ permalink:  /problems/bulb-switcher-iv/
 {% endraw %}
 
 ### 相关话题
+  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ---

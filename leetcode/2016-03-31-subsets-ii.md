@@ -3,7 +3,7 @@ layout:     single
 title:      "子集 II"
 date:       2016-03-31 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Array, Backtracking]
+tags:       [Bit Manipulation, Array, Backtracking]
 permalink:  /problems/subsets-ii/
 ---
 
@@ -47,8 +47,9 @@ permalink:  /problems/subsets-ii/
 {% endraw %}
 
 ### 相关话题
+  [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[回溯](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
 
 ### 相似题目
   1. [子集](/problems/subsets) (Medium)

@@ -3,7 +3,7 @@ layout:     single
 title:      "将字符串翻转到单调递增"
 date:       2018-07-15 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Array]
+tags:       [String, Dynamic Programming]
 permalink:  /problems/flip-string-to-monotone-increasing/
 ---
 
@@ -52,7 +52,8 @@ permalink:  /problems/flip-string-to-monotone-increasing/
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ---
 

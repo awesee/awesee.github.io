@@ -3,7 +3,7 @@ layout:     single
 title:      "颠倒二进制位"
 date:       2016-07-09 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Bit Manipulation]
+tags:       [Bit Manipulation, Divide and Conquer]
 permalink:  /problems/reverse-bits/
 ---
 
@@ -73,6 +73,7 @@ permalink:  /problems/reverse-bits/
 
 ### 相关话题
   [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
+  [[分治](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]
 
 ### 相似题目
   1. [整数反转](/problems/reverse-integer) (Easy)

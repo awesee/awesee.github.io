@@ -3,7 +3,7 @@ layout:     single
 title:      "矩阵的最大非负积"
 date:       2020-05-13 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Greedy, Dynamic Programming]
+tags:       [Array, Dynamic Programming, Matrix]
 permalink:  /problems/maximum-non-negative-product-in-a-matrix/
 ---
 
@@ -68,8 +68,9 @@ permalink:  /problems/maximum-non-negative-product-in-a-matrix/
 {% endraw %}
 
 ### 相关话题
-  [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[矩阵](https://github.com/openset/leetcode/tree/master/tag/matrix/README.md)]
 
 ---
 

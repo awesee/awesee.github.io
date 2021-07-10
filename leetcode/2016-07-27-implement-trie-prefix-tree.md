@@ -3,7 +3,7 @@ layout:     single
 title:      "实现 Trie (前缀树)"
 date:       2016-07-27 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Design, Trie]
+tags:       [Design, Trie, Hash Table, String]
 permalink:  /problems/implement-trie-prefix-tree/
 ---
 
@@ -58,6 +58,8 @@ trie.search("app");     // 返回 True
 ### 相关话题
   [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
   [[字典树](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)]
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ### 相似题目
   1. [添加与搜索单词 - 数据结构设计](/problems/design-add-and-search-words-data-structure) (Medium)

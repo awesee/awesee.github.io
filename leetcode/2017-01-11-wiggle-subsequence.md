@@ -3,7 +3,7 @@ layout:     single
 title:      "摆动序列"
 date:       2017-01-11 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Greedy, Dynamic Programming]
+tags:       [Greedy, Array, Dynamic Programming]
 permalink:  /problems/wiggle-subsequence/
 ---
 
@@ -66,7 +66,8 @@ permalink:  /problems/wiggle-subsequence/
 {% endraw %}
 
 ### 相关话题
-  [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ---

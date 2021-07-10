@@ -3,7 +3,7 @@ layout:     single
 title:      "将矩阵按对角线排序"
 date:       2019-08-22 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Sort, Array]
+tags:       [Array, Matrix, Sorting]
 permalink:  /problems/sort-the-matrix-diagonally/
 ---
 
@@ -47,8 +47,9 @@ permalink:  /problems/sort-the-matrix-diagonally/
 {% endraw %}
 
 ### 相关话题
-  [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[矩阵](https://github.com/openset/leetcode/tree/master/tag/matrix/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
 
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "神奇字符串"
 date:       2017-04-26 21:30:00 +0800
 categories: [Leetcode]
-tags:       []
+tags:       [Two Pointers, String]
 permalink:  /problems/magical-string/
 ---
 
@@ -41,6 +41,10 @@ permalink:  /problems/magical-string/
 <p>&nbsp;</p>
 
 {% endraw %}
+
+### 相关话题
+  [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ---
 

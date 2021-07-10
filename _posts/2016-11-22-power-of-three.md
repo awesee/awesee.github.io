@@ -3,7 +3,7 @@ layout:     single
 title:      "3的幂"
 date:       2016-11-22 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Math]
+tags:       [Recursion, Math]
 permalink:  /problems/power-of-three/
 ---
 
@@ -64,10 +64,11 @@ permalink:  /problems/power-of-three/
 {% endraw %}
 
 ### 相关话题
+  [[递归](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
 
 ### 相似题目
-  1. [2的幂](/problems/power-of-two) (Easy)
+  1. [2 的幂](/problems/power-of-two) (Easy)
   1. [4的幂](/problems/power-of-four) (Easy)
 
 ---

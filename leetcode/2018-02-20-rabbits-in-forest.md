@@ -3,7 +3,7 @@ layout:     single
 title:      "森林中的兔子"
 date:       2018-02-20 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Hash Table, Math]
+tags:       [Greedy, Hash Table, Math]
 permalink:  /problems/rabbits-in-forest/
 ---
 
@@ -43,6 +43,7 @@ permalink:  /problems/rabbits-in-forest/
 {% endraw %}
 
 ### 相关话题
+  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
 

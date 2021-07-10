@@ -3,7 +3,7 @@ layout:     single
 title:      "删列造序"
 date:       2018-08-02 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Greedy]
+tags:       [Array, String]
 permalink:  /problems/delete-columns-to-make-sorted/
 ---
 
@@ -75,7 +75,8 @@ cae</pre>
 {% endraw %}
 
 ### 相关话题
-  [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ---
 

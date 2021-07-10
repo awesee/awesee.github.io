@@ -3,7 +3,7 @@ layout:     single
 title:      "树中距离之和"
 date:       2018-04-14 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Tree, Depth-first Search]
+tags:       [Tree, Depth-First Search, Graph, Dynamic Programming]
 permalink:  /problems/sum-of-distances-in-tree/
 ---
 
@@ -41,6 +41,8 @@ permalink:  /problems/sum-of-distances-in-tree/
 ### 相关话题
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
   [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
+  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### 相似题目
   1. [在二叉树中分配硬币](/problems/distribute-coins-in-binary-tree) (Medium)

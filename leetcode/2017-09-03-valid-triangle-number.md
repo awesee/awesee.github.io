@@ -3,7 +3,7 @@ layout:     single
 title:      "有效三角形的个数"
 date:       2017-09-03 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Array]
+tags:       [Greedy, Array, Two Pointers, Binary Search, Sorting]
 permalink:  /problems/valid-triangle-number/
 ---
 
@@ -35,7 +35,11 @@ permalink:  /problems/valid-triangle-number/
 {% endraw %}
 
 ### 相关话题
+  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+  [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
 
 ### 相似题目
   1. [较小的三数之和](/problems/3sum-smaller) (Medium)

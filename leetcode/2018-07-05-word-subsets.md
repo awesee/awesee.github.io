@@ -3,7 +3,7 @@ layout:     single
 title:      "单词子集"
 date:       2018-07-05 21:30:00 +0800
 categories: [Leetcode]
-tags:       [String]
+tags:       [Array, Hash Table, String]
 permalink:  /problems/word-subsets/
 ---
 
@@ -68,6 +68,8 @@ permalink:  /problems/word-subsets/
 {% endraw %}
 
 ### 相关话题
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ---

@@ -3,7 +3,7 @@ layout:     single
 title:      "有序数组中的单一元素"
 date:       2017-06-24 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Binary Search]
+tags:       [Array, Binary Search]
 permalink:  /problems/single-element-in-a-sorted-array/
 ---
 
@@ -32,6 +32,7 @@ permalink:  /problems/single-element-in-a-sorted-array/
 {% endraw %}
 
 ### 相关话题
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
 
 ---

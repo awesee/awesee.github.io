@@ -3,7 +3,7 @@ layout:     single
 title:      "统计只差一个字符的子串数目"
 date:       2020-06-26 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Trie, Hash Table, String]
+tags:       [Hash Table, String, Dynamic Programming]
 permalink:  /problems/count-substrings-that-differ-by-one-character/
 ---
 
@@ -72,9 +72,9 @@ permalink:  /problems/count-substrings-that-differ-by-one-character/
 {% endraw %}
 
 ### 相关话题
-  [[字典树](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)]
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ---
 

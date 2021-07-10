@@ -3,7 +3,7 @@ layout:     single
 title:      "统计字典序元音字符串的数目"
 date:       2020-06-29 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Math, Dynamic Programming, Backtracking]
+tags:       [Dynamic Programming]
 permalink:  /problems/count-sorted-vowel-strings/
 ---
 
@@ -53,9 +53,7 @@ permalink:  /problems/count-sorted-vowel-strings/
 {% endraw %}
 
 ### 相关话题
-  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
-  [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
 
 ---
 

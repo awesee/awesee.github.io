@@ -3,7 +3,7 @@ layout:     single
 title:      "给定数字能组成的最大时间"
 date:       2018-08-07 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Math]
+tags:       [String, Enumeration]
 permalink:  /problems/largest-time-for-given-digits/
 ---
 
@@ -61,7 +61,8 @@ permalink:  /problems/largest-time-for-given-digits/
 {% endraw %}
 
 ### 相关话题
-  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[枚举](https://github.com/openset/leetcode/tree/master/tag/enumeration/README.md)]
 
 ---
 

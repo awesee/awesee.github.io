@@ -3,7 +3,7 @@ layout:     single
 title:      "和至少为 K 的最短子数组"
 date:       2018-05-12 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Queue, Binary Search]
+tags:       [Queue, Array, Binary Search, Prefix Sum, Sliding Window, Monotonic Queue, Heap (Priority Queue)]
 permalink:  /problems/shortest-subarray-with-sum-at-least-k/
 ---
 
@@ -52,7 +52,12 @@ permalink:  /problems/shortest-subarray-with-sum-at-least-k/
 
 ### 相关话题
   [[队列](https://github.com/openset/leetcode/tree/master/tag/queue/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[前缀和](https://github.com/openset/leetcode/tree/master/tag/prefix-sum/README.md)]
+  [[滑动窗口](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
+  [[单调队列](https://github.com/openset/leetcode/tree/master/tag/monotonic-queue/README.md)]
+  [[堆（优先队列）](https://github.com/openset/leetcode/tree/master/tag/heap-priority-queue/README.md)]
 
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "收藏清单"
 date:       2019-12-23 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Sort, String]
+tags:       [Array, Hash Table, String]
 permalink:  /problems/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list/
 ---
 
@@ -56,7 +56,8 @@ favoriteCompanies[3]=[&quot;google&quot;] 是 favoriteCompanies[0]=[&quot;leetco
 {% endraw %}
 
 ### 相关话题
-  [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ---

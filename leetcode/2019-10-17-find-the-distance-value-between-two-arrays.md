@@ -3,7 +3,7 @@ layout:     single
 title:      "两个数组间的距离值"
 date:       2019-10-17 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Array]
+tags:       [Array, Two Pointers, Binary Search, Sorting]
 permalink:  /problems/find-the-distance-value-between-two-arrays/
 ---
 
@@ -71,6 +71,9 @@ permalink:  /problems/find-the-distance-value-between-two-arrays/
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+  [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
 
 ---
 

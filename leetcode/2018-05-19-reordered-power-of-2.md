@@ -3,7 +3,7 @@ layout:     single
 title:      "重新排序得到 2 的幂"
 date:       2018-05-19 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Math]
+tags:       [Math, Counting, Enumeration, Sorting]
 permalink:  /problems/reordered-power-of-2/
 ---
 
@@ -62,6 +62,9 @@ permalink:  /problems/reordered-power-of-2/
 
 ### 相关话题
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[计数](https://github.com/openset/leetcode/tree/master/tag/counting/README.md)]
+  [[枚举](https://github.com/openset/leetcode/tree/master/tag/enumeration/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
 
 ---
 

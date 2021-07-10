@@ -3,7 +3,7 @@ layout:     single
 title:      "每个元音包含偶数次的最长子字符串"
 date:       2019-10-03 21:30:00 +0800
 categories: [Leetcode]
-tags:       [String]
+tags:       [Bit Manipulation, Hash Table, String, Prefix Sum]
 permalink:  /problems/find-the-longest-substring-containing-vowels-in-even-counts/
 ---
 
@@ -51,7 +51,10 @@ permalink:  /problems/find-the-longest-substring-containing-vowels-in-even-count
 {% endraw %}
 
 ### 相关话题
+  [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[前缀和](https://github.com/openset/leetcode/tree/master/tag/prefix-sum/README.md)]
 
 ---
 

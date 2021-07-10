@@ -3,7 +3,7 @@ layout:     single
 title:      "旋转函数"
 date:       2017-01-31 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Math]
+tags:       [Math, Dynamic Programming]
 permalink:  /problems/rotate-function/
 ---
 
@@ -39,6 +39,7 @@ F(3) = (0 * 3) + (1 * 2) + (2 * 6) + (3 * 4) = 0 + 2 + 12 + 12 = 26
 
 ### 相关话题
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ---
 

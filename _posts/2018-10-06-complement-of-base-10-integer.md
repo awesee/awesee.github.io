@@ -3,7 +3,7 @@ layout:     single
 title:      "十进制整数的反码"
 date:       2018-10-06 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Math]
+tags:       [Bit Manipulation]
 permalink:  /problems/complement-of-base-10-integer/
 ---
 
@@ -55,7 +55,7 @@ permalink:  /problems/complement-of-base-10-integer/
 {% endraw %}
 
 ### 相关话题
-  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
 
 ---
 

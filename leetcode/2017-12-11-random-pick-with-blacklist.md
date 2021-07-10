@@ -3,7 +3,7 @@ layout:     single
 title:      "黑名单中的随机数"
 date:       2017-12-11 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Sort, Hash Table, Binary Search, Random]
+tags:       [Hash Table, Math, Binary Search, Sorting, Randomized]
 permalink:  /problems/random-pick-with-blacklist/
 ---
 
@@ -11,65 +11,66 @@ permalink:  /problems/random-pick-with-blacklist/
 
 {% raw %}
 
-<p>给定一个包含 [0，n ) 中独特的整数的黑名单 B，写一个函数从 [ 0，n ) 中返回一个<strong>不在</strong> B 中的随机整数。</p>
+<p>给定一个包含 <code>[0，n)</code> 中不重复整数的黑名单 <code>blacklist</code> ，写一个函数从 <code>[0, n)</code> 中返回一个<strong>不在</strong> <code>blacklist</code> 中的随机整数。</p>
 
 <p>对它进行优化使其尽量少调用系统方法 <code>Math.random()</code> 。</p>
 
 <p><strong>提示:</strong></p>
 
 <ol>
-	<li><code>1 &lt;= N &lt;= 1000000000</code></li>
-	<li><code>0 &lt;= B.length &lt; min(100000, N)</code></li>
-	<li><code>[0, N)</code>&nbsp;不包含&nbsp;N，详细参见&nbsp;<a href="https://en.wikipedia.org/wiki/Interval_(mathematics)" target="_blank">interval notation</a>&nbsp;。</li>
+	<li><code>1 <= n <= 1000000000</code></li>
+	<li><code>0 <= blacklist.length < min(100000, N)</code></li>
+	<li><code>[0, n)</code> 不包含 <code>n</code> ，详细参见 <a href="https://en.wikipedia.org/wiki/Interval_(mathematics)" target="_blank">interval notation</a> 。</li>
 </ol>
 
-<p><strong>示例 1:</strong></p>
+<p><strong>示例 1：</strong></p>
 
 <pre>
-<strong>输入: 
-</strong>[&quot;Solution&quot;,&quot;pick&quot;,&quot;pick&quot;,&quot;pick&quot;]
+<strong>输入：
+</strong>["Solution","pick","pick","pick"]
 [[1,[]],[],[],[]]
-<strong>输出: </strong>[null,0,0,0]
+<strong>输出：</strong>[null,0,0,0]
 </pre>
 
-<p><strong>示例 2:</strong></p>
+<p><strong>示例 2：</strong></p>
 
 <pre>
-<strong>输入: 
-</strong>[&quot;Solution&quot;,&quot;pick&quot;,&quot;pick&quot;,&quot;pick&quot;]
+<strong>输入：
+</strong>["Solution","pick","pick","pick"]
 [[2,[]],[],[],[]]
-<strong>输出: </strong>[null,1,1,1]
+<strong>输出：</strong>[null,1,1,1]
 </pre>
 
-<p><strong>示例 3:</strong></p>
+<p><strong>示例 3：</strong></p>
 
 <pre>
-<strong>输入: 
-</strong>[&quot;Solution&quot;,&quot;pick&quot;,&quot;pick&quot;,&quot;pick&quot;]
+<strong>输入：
+</strong>["Solution","pick","pick","pick"]
 [[3,[1]],[],[],[]]
-<strong>Output: </strong>[null,0,0,2]
+<strong>输出：</strong>[null,0,0,2]
 </pre>
 
-<p><strong>示例 4:</strong></p>
+<p><strong>示例 4：</strong></p>
 
 <pre>
-<strong>输入: 
-</strong>[&quot;Solution&quot;,&quot;pick&quot;,&quot;pick&quot;,&quot;pick&quot;]
+<strong>输入： 
+</strong>["Solution","pick","pick","pick"]
 [[4,[2]],[],[],[]]
-<strong>输出: </strong>[null,1,3,1]
+<strong>输出：</strong>[null,1,3,1]
 </pre>
 
 <p><strong>输入语法说明：</strong></p>
 
-<p>输入是两个列表：调用成员函数名和调用的参数。<code>Solution</code>的构造函数有两个参数，<code>N</code>&nbsp;和黑名单&nbsp;<code>B</code>。<code>pick</code>&nbsp;没有参数，输入参数是一个列表，即使参数为空，也会输入一个 [] 空列表。</p>
+<p>输入是两个列表：调用成员函数名和调用的参数。<code>Solution</code>的构造函数有两个参数，<code>n</code> 和黑名单 <code>blacklist</code>。<code>pick</code> 没有参数，输入参数是一个列表，即使参数为空，也会输入一个 <code>[]</code> 空列表。</p>
 
 {% endraw %}
 
 ### 相关话题
-  [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
   [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
-  [[Random](https://github.com/openset/leetcode/tree/master/tag/random/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
+  [[随机化](https://github.com/openset/leetcode/tree/master/tag/randomized/README.md)]
 
 ### 相似题目
   1. [随机数索引](/problems/random-pick-index) (Medium)

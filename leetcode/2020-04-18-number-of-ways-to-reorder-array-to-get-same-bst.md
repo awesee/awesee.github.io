@@ -3,7 +3,7 @@ layout:     single
 title:      "将子数组重新排序得到同一个二叉查找树的方案数"
 date:       2020-04-18 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Dynamic Programming]
+tags:       [Tree, Union Find, Binary Search Tree, Memoization, Array, Math, Divide and Conquer, Dynamic Programming, Binary Tree, Combinatorics]
 permalink:  /problems/number-of-ways-to-reorder-array-to-get-same-bst/
 ---
 
@@ -81,7 +81,16 @@ permalink:  /problems/number-of-ways-to-reorder-array-to-get-same-bst/
 {% endraw %}
 
 ### 相关话题
+  [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[并查集](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)]
+  [[二叉搜索树](https://github.com/openset/leetcode/tree/master/tag/binary-search-tree/README.md)]
+  [[记忆化搜索](https://github.com/openset/leetcode/tree/master/tag/memoization/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[分治](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[二叉树](https://github.com/openset/leetcode/tree/master/tag/binary-tree/README.md)]
+  [[组合数学](https://github.com/openset/leetcode/tree/master/tag/combinatorics/README.md)]
 
 ---
 

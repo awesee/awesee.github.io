@@ -3,7 +3,7 @@ layout:     single
 title:      "切棍子的最小成本"
 date:       2020-03-27 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Dynamic Programming]
+tags:       [Array, Dynamic Programming]
 permalink:  /problems/minimum-cost-to-cut-a-stick/
 ---
 
@@ -59,6 +59,7 @@ permalink:  /problems/minimum-cost-to-cut-a-stick/
 {% endraw %}
 
 ### 相关话题
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ---

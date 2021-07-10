@@ -3,7 +3,7 @@ layout:     single
 title:      "日期之间隔几天"
 date:       2019-09-22 21:30:00 +0800
 categories: [Leetcode]
-tags:       []
+tags:       [Math, String]
 permalink:  /problems/number-of-days-between-two-dates/
 ---
 
@@ -38,6 +38,10 @@ permalink:  /problems/number-of-days-between-two-dates/
 </ul>
 
 {% endraw %}
+
+### 相关话题
+  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ---
 

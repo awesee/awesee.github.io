@@ -3,7 +3,7 @@ layout:     single
 title:      "并行课程 II"
 date:       2020-02-03 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Graph]
+tags:       [Bit Manipulation, Graph, Dynamic Programming, Bitmask]
 permalink:  /problems/parallel-courses-ii/
 ---
 
@@ -61,7 +61,10 @@ permalink:  /problems/parallel-courses-ii/
 {% endraw %}
 
 ### 相关话题
+  [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
   [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
+  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[状态压缩](https://github.com/openset/leetcode/tree/master/tag/bitmask/README.md)]
 
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "最多可达成的换楼请求数目"
 date:       2020-05-20 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Dynamic Programming]
+tags:       [Bit Manipulation, Enumeration]
 permalink:  /problems/maximum-number-of-achievable-transfer-requests/
 ---
 
@@ -69,7 +69,8 @@ permalink:  /problems/maximum-number-of-achievable-transfer-requests/
 {% endraw %}
 
 ### 相关话题
-  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
+  [[枚举](https://github.com/openset/leetcode/tree/master/tag/enumeration/README.md)]
 
 ---
 

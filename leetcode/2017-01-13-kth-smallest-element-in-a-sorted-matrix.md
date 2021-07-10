@@ -3,7 +3,7 @@ layout:     single
 title:      "有序矩阵中第 K 小的元素"
 date:       2017-01-13 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Heap, Binary Search]
+tags:       [Array, Binary Search, Matrix, Sorting, Heap (Priority Queue)]
 permalink:  /problems/kth-smallest-element-in-a-sorted-matrix/
 ---
 
@@ -47,8 +47,11 @@ permalink:  /problems/kth-smallest-element-in-a-sorted-matrix/
 {% endraw %}
 
 ### 相关话题
-  [[堆](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[矩阵](https://github.com/openset/leetcode/tree/master/tag/matrix/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
+  [[堆（优先队列）](https://github.com/openset/leetcode/tree/master/tag/heap-priority-queue/README.md)]
 
 ### 相似题目
   1. [查找和最小的K对数字](/problems/find-k-pairs-with-smallest-sums) (Medium)

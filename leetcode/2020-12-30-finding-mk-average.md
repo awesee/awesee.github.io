@@ -3,7 +3,7 @@ layout:     single
 title:      "求出 MK 平均值"
 date:       2020-12-30 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Heap, Design, Queue]
+tags:       [Design, Queue, Ordered Set, Heap (Priority Queue)]
 permalink:  /problems/finding-mk-average/
 ---
 
@@ -71,9 +71,10 @@ obj.calculateMKAverage(); // 最后 3 个元素为 [5,5,5]
 {% endraw %}
 
 ### 相关话题
-  [[堆](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]
   [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
   [[队列](https://github.com/openset/leetcode/tree/master/tag/queue/README.md)]
+  [[有序集合](https://github.com/openset/leetcode/tree/master/tag/ordered-set/README.md)]
+  [[堆（优先队列）](https://github.com/openset/leetcode/tree/master/tag/heap-priority-queue/README.md)]
 
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "公平的糖果棒交换"
 date:       2018-06-07 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Array]
+tags:       [Array, Hash Table, Binary Search, Sorting]
 permalink:  /problems/fair-candy-swap/
 ---
 
@@ -66,6 +66,9 @@ permalink:  /problems/fair-candy-swap/
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
 
 ---
 

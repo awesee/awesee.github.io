@@ -3,7 +3,7 @@ layout:     single
 title:      "数据流的中位数"
 date:       2016-10-22 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Heap, Design]
+tags:       [Design, Two Pointers, Data Stream, Sorting, Heap (Priority Queue)]
 permalink:  /problems/find-median-from-data-stream/
 ---
 
@@ -44,8 +44,11 @@ findMedian() -&gt; 2</pre>
 {% endraw %}
 
 ### 相关话题
-  [[堆](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]
   [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
+  [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+  [[数据流](https://github.com/openset/leetcode/tree/master/tag/data-stream/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
+  [[堆（优先队列）](https://github.com/openset/leetcode/tree/master/tag/heap-priority-queue/README.md)]
 
 ### 相似题目
   1. [滑动窗口中位数](/problems/sliding-window-median) (Hard)

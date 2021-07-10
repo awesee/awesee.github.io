@@ -3,7 +3,7 @@ layout:     single
 title:      "单词的压缩编码"
 date:       2018-03-31 21:30:00 +0800
 categories: [Leetcode]
-tags:       []
+tags:       [Trie, Array, Hash Table, String]
 permalink:  /problems/short-encoding-of-words/
 ---
 
@@ -53,6 +53,12 @@ words[2] = "bell" ，s 开始于 indices[2] = 5 到下一个 '#' 结束的子字
 </ul>
 
 {% endraw %}
+
+### 相关话题
+  [[字典树](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ---
 

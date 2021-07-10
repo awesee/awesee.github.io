@@ -3,7 +3,7 @@ layout:     single
 title:      "最大重复子字符串"
 date:       2020-07-26 21:30:00 +0800
 categories: [Leetcode]
-tags:       [String]
+tags:       [String, String Matching]
 permalink:  /problems/maximum-repeating-substring/
 ---
 
@@ -55,6 +55,7 @@ permalink:  /problems/maximum-repeating-substring/
 
 ### 相关话题
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[字符串匹配](https://github.com/openset/leetcode/tree/master/tag/string-matching/README.md)]
 
 ---
 

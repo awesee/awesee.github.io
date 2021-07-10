@@ -3,7 +3,7 @@ layout:     single
 title:      "使网格图至少有一条有效路径的最小代价"
 date:       2019-09-30 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Breadth-first Search]
+tags:       [Breadth-First Search, Graph, Array, Matrix, Shortest Path, Heap (Priority Queue)]
 permalink:  /problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/
 ---
 
@@ -84,6 +84,11 @@ permalink:  /problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/
 
 ### 相关话题
   [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
+  [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[矩阵](https://github.com/openset/leetcode/tree/master/tag/matrix/README.md)]
+  [[最短路](https://github.com/openset/leetcode/tree/master/tag/shortest-path/README.md)]
+  [[堆（优先队列）](https://github.com/openset/leetcode/tree/master/tag/heap-priority-queue/README.md)]
 
 ---
 

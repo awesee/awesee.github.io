@@ -3,7 +3,7 @@ layout:     single
 title:      "三个数的最大乘积"
 date:       2017-09-20 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Array, Math]
+tags:       [Array, Math, Sorting]
 permalink:  /problems/maximum-product-of-three-numbers/
 ---
 
@@ -50,6 +50,7 @@ permalink:  /problems/maximum-product-of-three-numbers/
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
 
 ### 相似题目
   1. [乘积最大子数组](/problems/maximum-product-subarray) (Medium)

@@ -3,7 +3,7 @@ layout:     single
 title:      "矩阵对角线元素的和"
 date:       2020-04-21 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Array]
+tags:       [Array, Matrix]
 permalink:  /problems/matrix-diagonal-sum/
 ---
 
@@ -61,6 +61,7 @@ permalink:  /problems/matrix-diagonal-sum/
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[矩阵](https://github.com/openset/leetcode/tree/master/tag/matrix/README.md)]
 
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "整数替换"
 date:       2017-02-01 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Bit Manipulation, Math]
+tags:       [Bit Manipulation, Memoization, Dynamic Programming]
 permalink:  /problems/integer-replacement/
 ---
 
@@ -58,7 +58,8 @@ permalink:  /problems/integer-replacement/
 
 ### 相关话题
   [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
-  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[记忆化搜索](https://github.com/openset/leetcode/tree/master/tag/memoization/README.md)]
+  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "UTF-8 编码验证"
 date:       2017-01-28 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Bit Manipulation]
+tags:       [Bit Manipulation, Array]
 permalink:  /problems/utf-8-validation/
 ---
 
@@ -59,6 +59,7 @@ data = [235, 140, 4], 表示 8 位的序列: <strong>11101011 10001100 00000100<
 
 ### 相关话题
   [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 
 ---
 

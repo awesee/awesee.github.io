@@ -3,7 +3,7 @@ layout:     single
 title:      "字符串解码"
 date:       2017-01-29 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Stack, Depth-first Search]
+tags:       [Stack, Recursion, String]
 permalink:  /problems/decode-string/
 ---
 
@@ -49,7 +49,8 @@ permalink:  /problems/decode-string/
 
 ### 相关话题
   [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
-  [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[递归](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ### 相似题目
   1. [编码最短长度的字符串](/problems/encode-string-with-shortest-length) (Hard)

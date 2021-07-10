@@ -3,7 +3,7 @@ layout:     single
 title:      "滑动窗口中位数"
 date:       2017-04-25 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Sliding Window]
+tags:       [Array, Hash Table, Sliding Window, Heap (Priority Queue)]
 permalink:  /problems/sliding-window-median/
 ---
 
@@ -53,7 +53,10 @@ permalink:  /problems/sliding-window-median/
 {% endraw %}
 
 ### 相关话题
-  [[Sliding Window](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[滑动窗口](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
+  [[堆（优先队列）](https://github.com/openset/leetcode/tree/master/tag/heap-priority-queue/README.md)]
 
 ### 相似题目
   1. [数据流的中位数](/problems/find-median-from-data-stream) (Hard)

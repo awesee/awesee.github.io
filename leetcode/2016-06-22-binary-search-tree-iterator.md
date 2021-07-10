@@ -3,7 +3,7 @@ layout:     single
 title:      "二叉搜索树迭代器"
 date:       2016-06-22 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Stack, Tree, Design]
+tags:       [Stack, Tree, Design, Binary Search Tree, Binary Tree, Iterator]
 permalink:  /problems/binary-search-tree-iterator/
 ---
 
@@ -74,6 +74,9 @@ bSTIterator.hasNext(); // 返回 False
   [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
   [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
+  [[二叉搜索树](https://github.com/openset/leetcode/tree/master/tag/binary-search-tree/README.md)]
+  [[二叉树](https://github.com/openset/leetcode/tree/master/tag/binary-tree/README.md)]
+  [[迭代器](https://github.com/openset/leetcode/tree/master/tag/iterator/README.md)]
 
 ### 相似题目
   1. [二叉树的中序遍历](/problems/binary-tree-inorder-traversal) (Easy)

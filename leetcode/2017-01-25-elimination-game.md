@@ -3,7 +3,7 @@ layout:     single
 title:      "消除游戏"
 date:       2017-01-25 21:30:00 +0800
 categories: [Leetcode]
-tags:       []
+tags:       [Math]
 permalink:  /problems/elimination-game/
 ---
 
@@ -31,6 +31,9 @@ n = 9,
 6</pre>
 
 {% endraw %}
+
+### 相关话题
+  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
 
 ---
 

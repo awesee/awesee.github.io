@@ -3,7 +3,7 @@ layout:     single
 title:      "最多可以参加的会议数目"
 date:       2019-09-15 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Greedy, Sort, Segment Tree]
+tags:       [Greedy, Array, Heap (Priority Queue)]
 permalink:  /problems/maximum-number-of-events-that-can-be-attended/
 ---
 
@@ -69,9 +69,9 @@ permalink:  /problems/maximum-number-of-events-that-can-be-attended/
 {% endraw %}
 
 ### 相关话题
-  [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
-  [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
-  [[线段树](https://github.com/openset/leetcode/tree/master/tag/segment-tree/README.md)]
+  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[堆（优先队列）](https://github.com/openset/leetcode/tree/master/tag/heap-priority-queue/README.md)]
 
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "使数组互补的最少操作次数"
 date:       2020-08-01 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Greedy]
+tags:       [Array, Hash Table, Prefix Sum]
 permalink:  /problems/minimum-moves-to-make-array-complementary/
 ---
 
@@ -62,7 +62,9 @@ nums[3] + nums[0] = 3 + 1 = 4.
 {% endraw %}
 
 ### 相关话题
-  [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[前缀和](https://github.com/openset/leetcode/tree/master/tag/prefix-sum/README.md)]
 
 ---
 

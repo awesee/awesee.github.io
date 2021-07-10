@@ -3,7 +3,7 @@ layout:     single
 title:      "最小的必要团队"
 date:       2019-01-30 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Bit Manipulation, Dynamic Programming]
+tags:       [Bit Manipulation, Array, Dynamic Programming, Bitmask]
 permalink:  /problems/smallest-sufficient-team/
 ---
 
@@ -59,7 +59,9 @@ permalink:  /problems/smallest-sufficient-team/
 
 ### 相关话题
   [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[状态压缩](https://github.com/openset/leetcode/tree/master/tag/bitmask/README.md)]
 
 ---
 

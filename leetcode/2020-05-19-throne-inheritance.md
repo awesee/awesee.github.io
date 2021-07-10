@@ -3,7 +3,7 @@ layout:     single
 title:      "皇位继承顺序"
 date:       2020-05-19 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Tree, Design]
+tags:       [Tree, Depth-First Search, Design, Hash Table]
 permalink:  /problems/throne-inheritance/
 ---
 
@@ -84,7 +84,9 @@ t.getInheritanceOrder(); // 返回 [&quot;king&quot;, &quot;andy&quot;, &quot;ma
 
 ### 相关话题
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
   [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
 
 ---
 

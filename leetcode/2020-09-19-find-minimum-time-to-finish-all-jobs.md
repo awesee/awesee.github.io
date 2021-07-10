@@ -3,7 +3,7 @@ layout:     single
 title:      "完成所有工作的最短时间"
 date:       2020-09-19 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Recursion, Backtracking]
+tags:       [Bit Manipulation, Array, Dynamic Programming, Backtracking, Bitmask]
 permalink:  /problems/find-minimum-time-to-finish-all-jobs/
 ---
 
@@ -49,8 +49,11 @@ permalink:  /problems/find-minimum-time-to-finish-all-jobs/
 {% endraw %}
 
 ### 相关话题
-  [[递归](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]
-  [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[回溯](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[状态压缩](https://github.com/openset/leetcode/tree/master/tag/bitmask/README.md)]
 
 ---
 

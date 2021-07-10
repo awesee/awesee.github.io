@@ -3,7 +3,7 @@ layout:     single
 title:      "超过经理收入的员工"
 date:       2016-06-30 21:30:00 +0800
 categories: [Leetcode]
-tags:       []
+tags:       [Database]
 permalink:  /problems/employees-earning-more-than-their-managers/
 ---
 
@@ -33,6 +33,9 @@ permalink:  /problems/employees-earning-more-than-their-managers/
 </pre>
 
 {% endraw %}
+
+### 相关话题
+  [[数据库](https://github.com/openset/leetcode/tree/master/tag/database/README.md)]
 
 ---
 

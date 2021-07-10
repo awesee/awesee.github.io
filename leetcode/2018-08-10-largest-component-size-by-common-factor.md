@@ -3,7 +3,7 @@ layout:     single
 title:      "按公因数计算最大组件大小"
 date:       2018-08-10 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Union Find, Math]
+tags:       [Union Find, Array, Math]
 permalink:  /problems/largest-component-size-by-common-factor/
 ---
 
@@ -62,6 +62,7 @@ permalink:  /problems/largest-component-size-by-common-factor/
 
 ### 相关话题
   [[并查集](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
 
 ---

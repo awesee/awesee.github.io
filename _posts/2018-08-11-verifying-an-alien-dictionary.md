@@ -3,7 +3,7 @@ layout:     single
 title:      "验证外星语词典"
 date:       2018-08-11 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Hash Table]
+tags:       [Array, Hash Table, String]
 permalink:  /problems/verifying-an-alien-dictionary/
 ---
 
@@ -50,7 +50,9 @@ permalink:  /problems/verifying-an-alien-dictionary/
 {% endraw %}
 
 ### 相关话题
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ---
 

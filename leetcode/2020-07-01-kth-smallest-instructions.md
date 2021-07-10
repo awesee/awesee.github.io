@@ -3,7 +3,7 @@ layout:     single
 title:      "第 K 条最小指令"
 date:       2020-07-01 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Dynamic Programming]
+tags:       [Array, Math, Dynamic Programming, Combinatorics]
 permalink:  /problems/kth-smallest-instructions/
 ---
 
@@ -73,7 +73,10 @@ permalink:  /problems/kth-smallest-instructions/
 {% endraw %}
 
 ### 相关话题
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[组合数学](https://github.com/openset/leetcode/tree/master/tag/combinatorics/README.md)]
 
 ---
 

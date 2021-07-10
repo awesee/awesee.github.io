@@ -3,7 +3,7 @@ layout:     single
 title:      "删除无效的括号"
 date:       2016-10-28 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Depth-first Search, Breadth-first Search]
+tags:       [Breadth-First Search, String, Backtracking]
 permalink:  /problems/remove-invalid-parentheses/
 ---
 
@@ -14,28 +14,6 @@ permalink:  /problems/remove-invalid-parentheses/
 <p>给你一个由若干括号和字母组成的字符串 <code>s</code> ，删除最小数量的无效括号，使得输入的字符串有效。</p>
 
 <p>返回所有可能的结果。答案可以按 <strong>任意顺序</strong> 返回。</p>
-
-<p> </p>
-
-<p><strong>示例 1:</strong></p>
-
-<pre>
-<strong>输入:</strong> "()())()"
-<strong>输出:</strong> ["()()()", "(())()"]
-</pre>
-
-<p><strong>示例 2:</strong></p>
-
-<pre>
-<strong>输入:</strong> "(a)())()"
-<strong>输出:</strong> ["(a)()()", "(a())()"]
-</pre>
-
-<p><strong>示例 3:</strong></p>
-
-<pre>
-<strong>输入:</strong> ")("
-<strong>输出: </strong>[""]</pre>
 
 <p> </p>
 
@@ -73,8 +51,9 @@ permalink:  /problems/remove-invalid-parentheses/
 {% endraw %}
 
 ### 相关话题
-  [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
   [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[回溯](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
 
 ### 相似题目
   1. [有效的括号](/problems/valid-parentheses) (Easy)

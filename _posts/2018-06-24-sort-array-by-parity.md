@@ -3,7 +3,7 @@ layout:     single
 title:      "按奇偶排序数组"
 date:       2018-06-24 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Array]
+tags:       [Array, Two Pointers, Sorting]
 permalink:  /problems/sort-array-by-parity/
 ---
 
@@ -37,6 +37,8 @@ permalink:  /problems/sort-array-by-parity/
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
 
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "球会落何处"
 date:       2020-09-02 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Dynamic Programming]
+tags:       [Depth-First Search, Array, Dynamic Programming, Matrix, Simulation]
 permalink:  /problems/where-will-the-ball-fall/
 ---
 
@@ -70,7 +70,11 @@ b4 球开始放在第 4 列上，会卡在第 2、3 列和第 1 行之间的 "V"
 {% endraw %}
 
 ### 相关话题
+  [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[矩阵](https://github.com/openset/leetcode/tree/master/tag/matrix/README.md)]
+  [[模拟](https://github.com/openset/leetcode/tree/master/tag/simulation/README.md)]
 
 ---
 

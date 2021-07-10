@@ -3,7 +3,7 @@ layout:     single
 title:      "尽可能使字符串相等"
 date:       2019-04-23 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Array, Sliding Window]
+tags:       [String, Binary Search, Prefix Sum, Sliding Window]
 permalink:  /problems/get-equal-substrings-within-budget/
 ---
 
@@ -59,8 +59,10 @@ permalink:  /problems/get-equal-substrings-within-budget/
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Sliding Window](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[前缀和](https://github.com/openset/leetcode/tree/master/tag/prefix-sum/README.md)]
+  [[滑动窗口](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
 
 ---
 

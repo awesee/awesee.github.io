@@ -3,7 +3,7 @@ layout:     single
 title:      "树节点的第 K 个祖先"
 date:       2020-01-23 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Dynamic Programming]
+tags:       [Tree, Depth-First Search, Breadth-First Search, Design, Binary Search, Dynamic Programming]
 permalink:  /problems/kth-ancestor-of-a-tree-node/
 ---
 
@@ -53,6 +53,11 @@ treeAncestor.getKthAncestor(6, 3);  // 返回 -1 因为不存在满足要求的�
 {% endraw %}
 
 ### 相关话题
+  [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
+  [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
+  [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ---

@@ -3,7 +3,7 @@ layout:     single
 title:      "哲学家进餐"
 date:       2019-05-11 21:30:00 +0800
 categories: [Leetcode]
-tags:       []
+tags:       [Concurrency]
 permalink:  /problems/the-dining-philosophers/
 ---
 
@@ -62,6 +62,9 @@ output[i] = [a, b, c] (3个整数)
 </ul>
 
 {% endraw %}
+
+### 相关话题
+  [[多线程](https://github.com/openset/leetcode/tree/master/tag/concurrency/README.md)]
 
 ---
 

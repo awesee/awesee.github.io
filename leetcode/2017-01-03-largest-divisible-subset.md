@@ -3,7 +3,7 @@ layout:     single
 title:      "最大整除子集"
 date:       2017-01-03 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Math, Dynamic Programming]
+tags:       [Array, Math, Dynamic Programming, Sorting]
 permalink:  /problems/largest-divisible-subset/
 ---
 
@@ -49,8 +49,10 @@ permalink:  /problems/largest-divisible-subset/
 {% endraw %}
 
 ### 相关话题
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
 
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "盒子中小球的最大数量"
 date:       2020-10-08 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Array]
+tags:       [Hash Table, Math, Counting]
 permalink:  /problems/maximum-number-of-balls-in-a-box/
 ---
 
@@ -62,7 +62,9 @@ permalink:  /problems/maximum-number-of-balls-in-a-box/
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[计数](https://github.com/openset/leetcode/tree/master/tag/counting/README.md)]
 
 ---
 

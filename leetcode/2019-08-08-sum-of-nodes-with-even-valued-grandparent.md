@@ -3,7 +3,7 @@ layout:     single
 title:      "祖父节点值为偶数的节点和"
 date:       2019-08-08 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Tree, Depth-first Search]
+tags:       [Tree, Depth-First Search, Breadth-First Search, Binary Tree]
 permalink:  /problems/sum-of-nodes-with-even-valued-grandparent/
 ---
 
@@ -44,6 +44,8 @@ permalink:  /problems/sum-of-nodes-with-even-valued-grandparent/
 ### 相关话题
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
   [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
+  [[二叉树](https://github.com/openset/leetcode/tree/master/tag/binary-tree/README.md)]
 
 ---
 

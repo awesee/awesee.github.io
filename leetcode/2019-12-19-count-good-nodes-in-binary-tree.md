@@ -3,7 +3,7 @@ layout:     single
 title:      "统计二叉树中好节点的数目"
 date:       2019-12-19 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Tree, Depth-first Search]
+tags:       [Tree, Depth-First Search, Breadth-First Search, Binary Tree]
 permalink:  /problems/count-good-nodes-in-binary-tree/
 ---
 
@@ -57,6 +57,8 @@ permalink:  /problems/count-good-nodes-in-binary-tree/
 ### 相关话题
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
   [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
+  [[二叉树](https://github.com/openset/leetcode/tree/master/tag/binary-tree/README.md)]
 
 ---
 

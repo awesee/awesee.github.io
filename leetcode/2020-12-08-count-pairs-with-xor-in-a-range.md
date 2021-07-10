@@ -3,7 +3,7 @@ layout:     single
 title:      "统计异或值在范围内的数对有多少"
 date:       2020-12-08 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Trie]
+tags:       [Bit Manipulation, Trie, Array]
 permalink:  /problems/count-pairs-with-xor-in-a-range/
 ---
 
@@ -57,7 +57,9 @@ permalink:  /problems/count-pairs-with-xor-in-a-range/
 {% endraw %}
 
 ### 相关话题
+  [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
   [[字典树](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 
 ---
 

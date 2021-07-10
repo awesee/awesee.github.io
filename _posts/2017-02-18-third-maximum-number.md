@@ -3,7 +3,7 @@ layout:     single
 title:      "第三大的数"
 date:       2017-02-18 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Array]
+tags:       [Array, Sorting]
 permalink:  /problems/third-maximum-number/
 ---
 
@@ -55,6 +55,7 @@ permalink:  /problems/third-maximum-number/
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
 
 ### 相似题目
   1. [数组中的第K个最大元素](/problems/kth-largest-element-in-an-array) (Medium)

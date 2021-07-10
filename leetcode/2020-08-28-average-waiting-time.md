@@ -3,7 +3,7 @@ layout:     single
 title:      "平均等待时间"
 date:       2020-08-28 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Array]
+tags:       [Array, Simulation]
 permalink:  /problems/average-waiting-time/
 ---
 
@@ -63,6 +63,7 @@ permalink:  /problems/average-waiting-time/
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[模拟](https://github.com/openset/leetcode/tree/master/tag/simulation/README.md)]
 
 ---
 

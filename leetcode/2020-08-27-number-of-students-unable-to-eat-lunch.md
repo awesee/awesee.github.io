@@ -3,7 +3,7 @@ layout:     single
 title:      "无法吃午餐的学生数量"
 date:       2020-08-27 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Array]
+tags:       [Stack, Queue, Array, Simulation]
 permalink:  /problems/number-of-students-unable-to-eat-lunch/
 ---
 
@@ -61,7 +61,10 @@ permalink:  /problems/number-of-students-unable-to-eat-lunch/
 {% endraw %}
 
 ### 相关话题
+  [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
+  [[队列](https://github.com/openset/leetcode/tree/master/tag/queue/README.md)]
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[模拟](https://github.com/openset/leetcode/tree/master/tag/simulation/README.md)]
 
 ---
 

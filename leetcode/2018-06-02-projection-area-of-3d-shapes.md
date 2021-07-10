@@ -3,7 +3,7 @@ layout:     single
 title:      "三维形体投影面积"
 date:       2018-06-02 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Math]
+tags:       [Geometry, Array, Math, Matrix]
 permalink:  /problems/projection-area-of-3d-shapes/
 ---
 
@@ -82,7 +82,10 @@ permalink:  /problems/projection-area-of-3d-shapes/
 {% endraw %}
 
 ### 相关话题
+  [[几何](https://github.com/openset/leetcode/tree/master/tag/geometry/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[矩阵](https://github.com/openset/leetcode/tree/master/tag/matrix/README.md)]
 
 ---
 

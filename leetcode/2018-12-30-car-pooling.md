@@ -3,7 +3,7 @@ layout:     single
 title:      "拼车"
 date:       2018-12-30 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Greedy]
+tags:       [Array, Prefix Sum, Sorting, Simulation, Heap (Priority Queue)]
 permalink:  /problems/car-pooling/
 ---
 
@@ -67,7 +67,11 @@ permalink:  /problems/car-pooling/
 {% endraw %}
 
 ### 相关话题
-  [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[前缀和](https://github.com/openset/leetcode/tree/master/tag/prefix-sum/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
+  [[模拟](https://github.com/openset/leetcode/tree/master/tag/simulation/README.md)]
+  [[堆（优先队列）](https://github.com/openset/leetcode/tree/master/tag/heap-priority-queue/README.md)]
 
 ### 相似题目
   1. [会议室 II](/problems/meeting-rooms-ii) (Medium)

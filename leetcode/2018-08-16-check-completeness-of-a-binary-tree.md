@@ -3,7 +3,7 @@ layout:     single
 title:      "二叉树的完全性检验"
 date:       2018-08-16 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Tree]
+tags:       [Tree, Breadth-First Search, Binary Tree]
 permalink:  /problems/check-completeness-of-a-binary-tree/
 ---
 
@@ -49,6 +49,8 @@ permalink:  /problems/check-completeness-of-a-binary-tree/
 
 ### 相关话题
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
+  [[二叉树](https://github.com/openset/leetcode/tree/master/tag/binary-tree/README.md)]
 
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "区间和的个数"
 date:       2016-11-23 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Sort, Binary Indexed Tree, Segment Tree, Binary Search, Divide and Conquer]
+tags:       [Binary Indexed Tree, Segment Tree, Array, Binary Search, Divide and Conquer, Ordered Set, Merge Sort]
 permalink:  /problems/count-of-range-sum/
 ---
 
@@ -36,23 +36,22 @@ permalink:  /problems/count-of-range-sum/
 <p><strong>提示：</strong></p>
 
 <ul>
-	<li><code>1 <= nums.length <= 10<sup>4</sup></code></li>
+	<li><code>1 <= nums.length <= 10<sup>5</sup></code></li>
 	<li><code>-2<sup>31</sup> <= nums[i] <= 2<sup>31</sup> - 1</code></li>
-	<li><code>-3 * 10<sup>4</sup> <= lower <= upper <= 3 * 10<sup>4</sup></code></li>
+	<li><code>-10<sup>5</sup> <= lower <= upper <= 10<sup>5</sup></code></li>
+	<li>题目数据保证答案是一个 <strong>32 位</strong> 的整数</li>
 </ul>
-
-<p> </p>
-
-<p><strong>提示：</strong>最直观的算法复杂度是 <code>O(n<sup>2</sup>)</code> ，请在此基础上优化你的算法。</p>
 
 {% endraw %}
 
 ### 相关话题
-  [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
   [[树状数组](https://github.com/openset/leetcode/tree/master/tag/binary-indexed-tree/README.md)]
   [[线段树](https://github.com/openset/leetcode/tree/master/tag/segment-tree/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
-  [[分治算法](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]
+  [[分治](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]
+  [[有序集合](https://github.com/openset/leetcode/tree/master/tag/ordered-set/README.md)]
+  [[归并排序](https://github.com/openset/leetcode/tree/master/tag/merge-sort/README.md)]
 
 ### 相似题目
   1. [计算右侧小于当前元素的个数](/problems/count-of-smaller-numbers-after-self) (Hard)

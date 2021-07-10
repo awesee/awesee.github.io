@@ -3,7 +3,7 @@ layout:     single
 title:      "比较含退格的字符串"
 date:       2018-04-24 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Stack, Two Pointers]
+tags:       [Stack, Two Pointers, String, Simulation]
 permalink:  /problems/backspace-string-compare/
 ---
 
@@ -73,6 +73,8 @@ permalink:  /problems/backspace-string-compare/
 ### 相关话题
   [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
   [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[模拟](https://github.com/openset/leetcode/tree/master/tag/simulation/README.md)]
 
 ---
 

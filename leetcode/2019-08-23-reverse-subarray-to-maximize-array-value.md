@@ -3,7 +3,7 @@ layout:     single
 title:      "翻转子数组得到最大的数组值"
 date:       2019-08-23 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Array, Math]
+tags:       [Greedy, Array, Math]
 permalink:  /problems/reverse-subarray-to-maximize-array-value/
 ---
 
@@ -44,6 +44,7 @@ permalink:  /problems/reverse-subarray-to-maximize-array-value/
 {% endraw %}
 
 ### 相关话题
+  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
 

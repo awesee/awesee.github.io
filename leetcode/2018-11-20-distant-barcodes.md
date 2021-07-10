@@ -3,7 +3,7 @@ layout:     single
 title:      "距离相等的条形码"
 date:       2018-11-20 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Heap, Sort]
+tags:       [Greedy, Array, Hash Table, Counting, Sorting, Heap (Priority Queue)]
 permalink:  /problems/distant-barcodes/
 ---
 
@@ -42,8 +42,12 @@ permalink:  /problems/distant-barcodes/
 {% endraw %}
 
 ### 相关话题
-  [[堆](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]
-  [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
+  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[计数](https://github.com/openset/leetcode/tree/master/tag/counting/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
+  [[堆（优先队列）](https://github.com/openset/leetcode/tree/master/tag/heap-priority-queue/README.md)]
 
 ---
 

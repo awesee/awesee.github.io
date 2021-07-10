@@ -3,7 +3,7 @@ layout:     single
 title:      "省份数量"
 date:       2017-07-01 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Depth-first Search, Union Find]
+tags:       [Depth-First Search, Breadth-First Search, Union Find, Graph]
 permalink:  /problems/number-of-provinces/
 ---
 
@@ -56,7 +56,9 @@ permalink:  /problems/number-of-provinces/
 
 ### 相关话题
   [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
   [[并查集](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)]
+  [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
 
 ### 相似题目
   1. [无向图中连通分量的数目](/problems/number-of-connected-components-in-an-undirected-graph) (Medium)

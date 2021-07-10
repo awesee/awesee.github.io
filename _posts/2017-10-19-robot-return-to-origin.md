@@ -3,7 +3,7 @@ layout:     single
 title:      "机器人能否返回原点"
 date:       2017-10-19 21:30:00 +0800
 categories: [Leetcode]
-tags:       [String]
+tags:       [String, Simulation]
 permalink:  /problems/robot-return-to-origin/
 ---
 
@@ -35,6 +35,7 @@ permalink:  /problems/robot-return-to-origin/
 
 ### 相关话题
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[模拟](https://github.com/openset/leetcode/tree/master/tag/simulation/README.md)]
 
 ### 相似题目
   1. [省份数量](/problems/number-of-provinces) (Medium)

@@ -3,7 +3,7 @@ layout:     single
 title:      "困于环中的机器人"
 date:       2018-11-07 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Math]
+tags:       [Math, String, Simulation]
 permalink:  /problems/robot-bounded-in-circle/
 ---
 
@@ -62,6 +62,8 @@ permalink:  /problems/robot-bounded-in-circle/
 
 ### 相关话题
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[模拟](https://github.com/openset/leetcode/tree/master/tag/simulation/README.md)]
 
 ---
 

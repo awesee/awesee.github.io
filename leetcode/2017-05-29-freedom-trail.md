@@ -3,7 +3,7 @@ layout:     single
 title:      "自由之路"
 date:       2017-05-29 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Depth-first Search, Divide and Conquer, Dynamic Programming]
+tags:       [Depth-First Search, Breadth-First Search, String, Dynamic Programming]
 permalink:  /problems/freedom-trail/
 ---
 
@@ -53,7 +53,8 @@ permalink:  /problems/freedom-trail/
 
 ### 相关话题
   [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[分治算法](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]
+  [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ---

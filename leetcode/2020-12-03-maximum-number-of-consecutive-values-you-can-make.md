@@ -3,7 +3,7 @@ layout:     single
 title:      "你能构造出连续值的最大数目"
 date:       2020-12-03 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Greedy]
+tags:       [Greedy, Array]
 permalink:  /problems/maximum-number-of-consecutive-values-you-can-make/
 ---
 
@@ -64,7 +64,8 @@ permalink:  /problems/maximum-number-of-consecutive-values-you-can-make/
 {% endraw %}
 
 ### 相关话题
-  [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 
 ---
 

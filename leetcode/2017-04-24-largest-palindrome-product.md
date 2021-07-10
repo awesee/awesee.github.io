@@ -3,7 +3,7 @@ layout:     single
 title:      "最大回文数乘积"
 date:       2017-04-24 21:30:00 +0800
 categories: [Leetcode]
-tags:       []
+tags:       [Math]
 permalink:  /problems/largest-palindrome-product/
 ---
 
@@ -28,6 +28,9 @@ permalink:  /problems/largest-palindrome-product/
 <p>n 的取值范围为&nbsp;[1,8]。</p>
 
 {% endraw %}
+
+### 相关话题
+  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
 
 ---
 

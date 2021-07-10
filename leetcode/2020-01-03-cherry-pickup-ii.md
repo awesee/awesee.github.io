@@ -3,7 +3,7 @@ layout:     single
 title:      "摘樱桃 II"
 date:       2020-01-03 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Dynamic Programming]
+tags:       [Array, Dynamic Programming, Matrix]
 permalink:  /problems/cherry-pickup-ii/
 ---
 
@@ -77,7 +77,9 @@ permalink:  /problems/cherry-pickup-ii/
 {% endraw %}
 
 ### 相关话题
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[矩阵](https://github.com/openset/leetcode/tree/master/tag/matrix/README.md)]
 
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "合并K个升序链表"
 date:       2016-01-24 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Heap, Linked List, Divide and Conquer]
+tags:       [Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort]
 permalink:  /problems/merge-k-sorted-lists/
 ---
 
@@ -59,9 +59,10 @@ permalink:  /problems/merge-k-sorted-lists/
 {% endraw %}
 
 ### 相关话题
-  [[堆](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]
   [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
-  [[分治算法](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]
+  [[分治](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]
+  [[堆（优先队列）](https://github.com/openset/leetcode/tree/master/tag/heap-priority-queue/README.md)]
+  [[归并排序](https://github.com/openset/leetcode/tree/master/tag/merge-sort/README.md)]
 
 ### 相似题目
   1. [合并两个有序链表](/problems/merge-two-sorted-lists) (Easy)

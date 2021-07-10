@@ -3,7 +3,7 @@ layout:     single
 title:      "替换后的最长重复字符"
 date:       2017-02-28 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Two Pointers, Sliding Window]
+tags:       [Hash Table, String, Sliding Window]
 permalink:  /problems/longest-repeating-character-replacement/
 ---
 
@@ -38,8 +38,9 @@ permalink:  /problems/longest-repeating-character-replacement/
 {% endraw %}
 
 ### 相关话题
-  [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
-  [[Sliding Window](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[滑动窗口](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
 
 ### 相似题目
   1. [至多包含 K 个不同字符的最长子串](/problems/longest-substring-with-at-most-k-distinct-characters) (Medium)

@@ -3,7 +3,7 @@ layout:     single
 title:      "得到目标数组的最少函数调用次数"
 date:       2020-04-07 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Greedy]
+tags:       [Greedy, Array]
 permalink:  /problems/minimum-numbers-of-function-calls-to-make-target-array/
 ---
 
@@ -76,7 +76,8 @@ permalink:  /problems/minimum-numbers-of-function-calls-to-make-target-array/
 {% endraw %}
 
 ### 相关话题
-  [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 
 ---
 

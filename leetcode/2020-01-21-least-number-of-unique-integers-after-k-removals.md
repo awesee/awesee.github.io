@@ -3,7 +3,7 @@ layout:     single
 title:      "不同整数的最少数目"
 date:       2020-01-21 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Sort, Array]
+tags:       [Greedy, Array, Hash Table, Counting, Sorting]
 permalink:  /problems/least-number-of-unique-integers-after-k-removals/
 ---
 
@@ -44,8 +44,11 @@ permalink:  /problems/least-number-of-unique-integers-after-k-removals/
 {% endraw %}
 
 ### 相关话题
-  [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
+  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[计数](https://github.com/openset/leetcode/tree/master/tag/counting/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
 
 ---
 

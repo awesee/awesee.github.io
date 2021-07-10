@@ -3,7 +3,7 @@ layout:     single
 title:      "移除盒子"
 date:       2017-06-30 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Depth-first Search, Dynamic Programming]
+tags:       [Memoization, Array, Dynamic Programming]
 permalink:  /problems/remove-boxes/
 ---
 
@@ -58,7 +58,8 @@ permalink:  /problems/remove-boxes/
 {% endraw %}
 
 ### 相关话题
-  [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[记忆化搜索](https://github.com/openset/leetcode/tree/master/tag/memoization/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### 相似题目

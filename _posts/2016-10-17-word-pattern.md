@@ -3,7 +3,7 @@ layout:     single
 title:      "单词规律"
 date:       2016-10-17 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Hash Table]
+tags:       [Hash Table, String]
 permalink:  /problems/word-pattern/
 ---
 
@@ -42,6 +42,7 @@ permalink:  /problems/word-pattern/
 
 ### 相关话题
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ### 相似题目
   1. [同构字符串](/problems/isomorphic-strings) (Easy)

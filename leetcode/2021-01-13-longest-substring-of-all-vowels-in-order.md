@@ -3,7 +3,7 @@ layout:     single
 title:      "所有元音按顺序排布的最长子字符串"
 date:       2021-01-13 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Two Pointers, String]
+tags:       [String, Sliding Window]
 permalink:  /problems/longest-substring-of-all-vowels-in-order/
 ---
 
@@ -61,8 +61,8 @@ permalink:  /problems/longest-substring-of-all-vowels-in-order/
 {% endraw %}
 
 ### 相关话题
-  [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[滑动窗口](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
 
 ---
 

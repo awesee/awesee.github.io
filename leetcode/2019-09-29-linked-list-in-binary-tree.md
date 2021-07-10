@@ -3,7 +3,7 @@ layout:     single
 title:      "二叉树中的列表"
 date:       2019-09-29 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Tree, Linked List, Dynamic Programming]
+tags:       [Tree, Depth-First Search, Breadth-First Search, Linked List, Binary Tree]
 permalink:  /problems/linked-list-in-binary-tree/
 ---
 
@@ -57,8 +57,10 @@ permalink:  /problems/linked-list-in-binary-tree/
 
 ### 相关话题
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
   [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
-  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[二叉树](https://github.com/openset/leetcode/tree/master/tag/binary-tree/README.md)]
 
 ---
 

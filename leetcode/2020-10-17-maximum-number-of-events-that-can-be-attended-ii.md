@@ -3,7 +3,7 @@ layout:     single
 title:      "最多可以参加的会议数目 II"
 date:       2020-10-17 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Binary Search, Dynamic Programming]
+tags:       [Array, Binary Search, Dynamic Programming]
 permalink:  /problems/maximum-number-of-events-that-can-be-attended-ii/
 ---
 
@@ -61,6 +61,7 @@ permalink:  /problems/maximum-number-of-events-that-can-be-attended-ii/
 {% endraw %}
 
 ### 相关话题
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 

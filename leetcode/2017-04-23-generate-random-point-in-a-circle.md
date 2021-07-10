@@ -3,7 +3,7 @@ layout:     single
 title:      "在圆内随机生成点"
 date:       2017-04-23 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Math, Random, Rejection Sampling]
+tags:       [Geometry, Math, Rejection Sampling, Randomized]
 permalink:  /problems/generate-random-point-in-a-circle/
 ---
 
@@ -46,9 +46,10 @@ permalink:  /problems/generate-random-point-in-a-circle/
 {% endraw %}
 
 ### 相关话题
+  [[几何](https://github.com/openset/leetcode/tree/master/tag/geometry/README.md)]
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[Random](https://github.com/openset/leetcode/tree/master/tag/random/README.md)]
-  [[Rejection Sampling](https://github.com/openset/leetcode/tree/master/tag/rejection-sampling/README.md)]
+  [[拒绝采样](https://github.com/openset/leetcode/tree/master/tag/rejection-sampling/README.md)]
+  [[随机化](https://github.com/openset/leetcode/tree/master/tag/randomized/README.md)]
 
 ### 相似题目
   1. [非重叠矩形中的随机点](/problems/random-point-in-non-overlapping-rectangles) (Medium)

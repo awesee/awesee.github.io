@@ -3,7 +3,7 @@ layout:     single
 title:      "有效的括号字符串"
 date:       2017-11-09 21:30:00 +0800
 categories: [Leetcode]
-tags:       [String]
+tags:       [Stack, Greedy, String, Dynamic Programming]
 permalink:  /problems/valid-parenthesis-string/
 ---
 
@@ -51,7 +51,10 @@ permalink:  /problems/valid-parenthesis-string/
 {% endraw %}
 
 ### 相关话题
+  [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
+  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### 相似题目
   1. [特殊的二进制序列](/problems/special-binary-string) (Hard)

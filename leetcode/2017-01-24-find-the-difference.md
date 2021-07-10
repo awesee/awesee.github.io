@@ -3,7 +3,7 @@ layout:     single
 title:      "找不同"
 date:       2017-01-24 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Bit Manipulation, Hash Table]
+tags:       [Bit Manipulation, Hash Table, String, Sorting]
 permalink:  /problems/find-the-difference/
 ---
 
@@ -59,6 +59,8 @@ permalink:  /problems/find-the-difference/
 ### 相关话题
   [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
 
 ### 相似题目
   1. [只出现一次的数字](/problems/single-number) (Easy)

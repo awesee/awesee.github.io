@@ -3,7 +3,7 @@ layout:     single
 title:      "好因子的最大数目"
 date:       2020-12-13 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Math]
+tags:       [Recursion, Math]
 permalink:  /problems/maximize-number-of-nice-divisors/
 ---
 
@@ -52,6 +52,7 @@ permalink:  /problems/maximize-number-of-nice-divisors/
 {% endraw %}
 
 ### 相关话题
+  [[递归](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
 
 ---

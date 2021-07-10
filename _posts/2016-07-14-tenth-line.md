@@ -3,7 +3,7 @@ layout:     single
 title:      "第十行"
 date:       2016-07-14 21:30:00 +0800
 categories: [Leetcode]
-tags:       []
+tags:       [Shell]
 permalink:  /problems/tenth-line/
 ---
 
@@ -39,6 +39,9 @@ Line 10
 2. 至少有三种不同的解法，请尝试尽可能多的方法来解题。</p>
 
 {% endraw %}
+
+### 相关话题
+  [[Shell](https://github.com/openset/leetcode/tree/master/tag/shell/README.md)]
 
 ---
 

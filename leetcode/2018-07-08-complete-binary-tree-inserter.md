@@ -3,7 +3,7 @@ layout:     single
 title:      "完全二叉树插入器"
 date:       2018-07-08 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Tree]
+tags:       [Tree, Breadth-First Search, Design, Binary Tree]
 permalink:  /problems/complete-binary-tree-inserter/
 ---
 
@@ -52,6 +52,9 @@ permalink:  /problems/complete-binary-tree-inserter/
 
 ### 相关话题
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
+  [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
+  [[二叉树](https://github.com/openset/leetcode/tree/master/tag/binary-tree/README.md)]
 
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "有效的快递序列数目"
 date:       2019-09-21 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Math, Dynamic Programming]
+tags:       [Math, Dynamic Programming, Combinatorics]
 permalink:  /problems/count-all-valid-pickup-and-delivery-options/
 ---
 
@@ -54,6 +54,7 @@ permalink:  /problems/count-all-valid-pickup-and-delivery-options/
 ### 相关话题
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[组合数学](https://github.com/openset/leetcode/tree/master/tag/combinatorics/README.md)]
 
 ---
 

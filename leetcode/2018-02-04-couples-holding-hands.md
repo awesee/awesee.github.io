@@ -3,7 +3,7 @@ layout:     single
 title:      "情侣牵手"
 date:       2018-02-04 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Greedy, Union Find, Graph]
+tags:       [Greedy, Depth-First Search, Breadth-First Search, Union Find, Graph]
 permalink:  /problems/couples-holding-hands/
 ---
 
@@ -43,7 +43,9 @@ permalink:  /problems/couples-holding-hands/
 {% endraw %}
 
 ### 相关话题
-  [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
   [[并查集](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)]
   [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
 

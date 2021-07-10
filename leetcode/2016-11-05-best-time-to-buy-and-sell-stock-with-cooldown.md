@@ -3,7 +3,7 @@ layout:     single
 title:      "最佳买卖股票时机含冷冻期"
 date:       2016-11-05 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Dynamic Programming]
+tags:       [Array, Dynamic Programming]
 permalink:  /problems/best-time-to-buy-and-sell-stock-with-cooldown/
 ---
 
@@ -29,6 +29,7 @@ permalink:  /problems/best-time-to-buy-and-sell-stock-with-cooldown/
 {% endraw %}
 
 ### 相关话题
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### 相似题目

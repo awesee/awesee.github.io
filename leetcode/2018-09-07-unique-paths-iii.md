@@ -3,7 +3,7 @@ layout:     single
 title:      "不同路径 III"
 date:       2018-09-07 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Depth-first Search, Backtracking]
+tags:       [Bit Manipulation, Array, Backtracking, Matrix]
 permalink:  /problems/unique-paths-iii/
 ---
 
@@ -64,8 +64,10 @@ permalink:  /problems/unique-paths-iii/
 {% endraw %}
 
 ### 相关话题
-  [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[回溯](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[矩阵](https://github.com/openset/leetcode/tree/master/tag/matrix/README.md)]
 
 ### 相似题目
   1. [解数独](/problems/sudoku-solver) (Hard)

@@ -3,7 +3,7 @@ layout:     single
 title:      "错误的集合"
 date:       2017-10-07 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Hash Table, Math]
+tags:       [Bit Manipulation, Array, Hash Table, Sorting]
 permalink:  /problems/set-mismatch/
 ---
 
@@ -45,8 +45,10 @@ permalink:  /problems/set-mismatch/
 {% endraw %}
 
 ### 相关话题
+  [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
 
 ### 相似题目
   1. [寻找重复数](/problems/find-the-duplicate-number) (Medium)

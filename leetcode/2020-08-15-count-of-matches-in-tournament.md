@@ -3,7 +3,7 @@ layout:     single
 title:      "比赛中的配对次数"
 date:       2020-08-15 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Backtracking]
+tags:       [Math, Simulation]
 permalink:  /problems/count-of-matches-in-tournament/
 ---
 
@@ -56,7 +56,8 @@ permalink:  /problems/count-of-matches-in-tournament/
 {% endraw %}
 
 ### 相关话题
-  [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[模拟](https://github.com/openset/leetcode/tree/master/tag/simulation/README.md)]
 
 ---
 

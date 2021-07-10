@@ -3,7 +3,7 @@ layout:     single
 title:      "绝对值表达式的最大值"
 date:       2019-02-05 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Bit Manipulation, Math]
+tags:       [Array, Math]
 permalink:  /problems/maximum-of-absolute-value-expression/
 ---
 
@@ -42,7 +42,7 @@ permalink:  /problems/maximum-of-absolute-value-expression/
 {% endraw %}
 
 ### 相关话题
-  [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
 
 ---

@@ -3,7 +3,7 @@ layout:     single
 title:      "找出最具竞争力的子序列"
 date:       2020-07-31 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Stack, Heap, Greedy, Queue]
+tags:       [Stack, Greedy, Array, Monotonic Stack]
 permalink:  /problems/find-the-most-competitive-subsequence/
 ---
 
@@ -48,9 +48,9 @@ permalink:  /problems/find-the-most-competitive-subsequence/
 
 ### 相关话题
   [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
-  [[堆](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]
-  [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
-  [[队列](https://github.com/openset/leetcode/tree/master/tag/queue/README.md)]
+  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[单调栈](https://github.com/openset/leetcode/tree/master/tag/monotonic-stack/README.md)]
 
 ---
 

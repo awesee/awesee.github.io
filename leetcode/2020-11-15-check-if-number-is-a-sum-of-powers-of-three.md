@@ -3,7 +3,7 @@ layout:     single
 title:      "判断一个数字是否可以表示成三的幂的和"
 date:       2020-11-15 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Recursion, Math, Backtracking]
+tags:       [Math]
 permalink:  /problems/check-if-number-is-a-sum-of-powers-of-three/
 ---
 
@@ -48,9 +48,7 @@ permalink:  /problems/check-if-number-is-a-sum-of-powers-of-three/
 {% endraw %}
 
 ### 相关话题
-  [[递归](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
 
 ---
 

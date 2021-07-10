@@ -3,7 +3,7 @@ layout:     single
 title:      "文件夹操作日志搜集器"
 date:       2020-05-17 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Stack]
+tags:       [Stack, Array, String]
 permalink:  /problems/crawler-log-folder/
 ---
 
@@ -68,6 +68,8 @@ permalink:  /problems/crawler-log-folder/
 
 ### 相关话题
   [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ---
 

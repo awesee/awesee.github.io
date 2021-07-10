@@ -3,7 +3,7 @@ layout:     single
 title:      "构造字典序最大的合并字符串"
 date:       2020-10-20 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Greedy]
+tags:       [Greedy, Two Pointers, String]
 permalink:  /problems/largest-merge-of-two-strings/
 ---
 
@@ -65,7 +65,9 @@ permalink:  /problems/largest-merge-of-two-strings/
 {% endraw %}
 
 ### 相关话题
-  [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ---
 

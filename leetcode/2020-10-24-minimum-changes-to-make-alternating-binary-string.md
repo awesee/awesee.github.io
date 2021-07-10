@@ -3,7 +3,7 @@ layout:     single
 title:      "生成交替二进制字符串的最少操作数"
 date:       2020-10-24 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Greedy, Array]
+tags:       [String]
 permalink:  /problems/minimum-changes-to-make-alternating-binary-string/
 ---
 
@@ -52,8 +52,7 @@ permalink:  /problems/minimum-changes-to-make-alternating-binary-string/
 {% endraw %}
 
 ### 相关话题
-  [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ---
 

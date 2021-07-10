@@ -3,7 +3,7 @@ layout:     single
 title:      "O(1) 时间插入、删除和获取随机元素 - 允许重复"
 date:       2017-01-16 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Design, Array, Hash Table]
+tags:       [Design, Array, Hash Table, Math, Randomized]
 permalink:  /problems/insert-delete-getrandom-o1-duplicates-allowed/
 ---
 
@@ -51,9 +51,11 @@ collection.getRandom();
   [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[随机化](https://github.com/openset/leetcode/tree/master/tag/randomized/README.md)]
 
 ### 相似题目
-  1. [常数时间插入、删除和获取随机元素](/problems/insert-delete-getrandom-o1) (Medium)
+  1. [O(1) 时间插入、删除和获取随机元素](/problems/insert-delete-getrandom-o1) (Medium)
 
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "二分查找"
 date:       2017-12-05 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Binary Search]
+tags:       [Array, Binary Search]
 permalink:  /problems/binary-search/
 ---
 
@@ -41,6 +41,7 @@ permalink:  /problems/binary-search/
 {% endraw %}
 
 ### 相关话题
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
 
 ### 相似题目

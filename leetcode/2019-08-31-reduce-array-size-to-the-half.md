@@ -3,7 +3,7 @@ layout:     single
 title:      "数组大小减半"
 date:       2019-08-31 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Greedy, Array]
+tags:       [Greedy, Array, Hash Table, Sorting, Heap (Priority Queue)]
 permalink:  /problems/reduce-array-size-to-the-half/
 ---
 
@@ -64,8 +64,11 @@ permalink:  /problems/reduce-array-size-to-the-half/
 {% endraw %}
 
 ### 相关话题
-  [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
+  [[堆（优先队列）](https://github.com/openset/leetcode/tree/master/tag/heap-priority-queue/README.md)]
 
 ---
 

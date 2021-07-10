@@ -3,7 +3,7 @@ layout:     single
 title:      "特殊数组的特征值"
 date:       2020-05-27 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Array]
+tags:       [Array, Binary Search, Sorting]
 permalink:  /problems/special-array-with-x-elements-greater-than-or-equal-x/
 ---
 
@@ -62,6 +62,8 @@ x 不能取更大的值，因为 nums 中只有两个元素。</pre>
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
 
 ---
 

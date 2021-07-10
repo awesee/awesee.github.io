@@ -3,7 +3,7 @@ layout:     single
 title:      "数组中的 k 个最强值"
 date:       2020-01-11 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Sort, Array]
+tags:       [Array, Two Pointers, Sorting]
 permalink:  /problems/the-k-strongest-values-in-an-array/
 ---
 
@@ -78,8 +78,9 @@ permalink:  /problems/the-k-strongest-values-in-an-array/
 {% endraw %}
 
 ### 相关话题
-  [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
 
 ---
 

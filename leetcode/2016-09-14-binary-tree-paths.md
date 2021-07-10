@@ -3,7 +3,7 @@ layout:     single
 title:      "二叉树的所有路径"
 date:       2016-09-14 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Tree, Depth-first Search]
+tags:       [Tree, Depth-First Search, String, Binary Tree]
 permalink:  /problems/binary-tree-paths/
 ---
 
@@ -34,6 +34,8 @@ permalink:  /problems/binary-tree-paths/
 ### 相关话题
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
   [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[二叉树](https://github.com/openset/leetcode/tree/master/tag/binary-tree/README.md)]
 
 ### 相似题目
   1. [路径总和 II](/problems/path-sum-ii) (Medium)

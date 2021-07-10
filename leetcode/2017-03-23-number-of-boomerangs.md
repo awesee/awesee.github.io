@@ -3,7 +3,7 @@ layout:     single
 title:      "回旋镖的数量"
 date:       2017-03-23 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Hash Table, Math]
+tags:       [Array, Hash Table, Math]
 permalink:  /problems/number-of-boomerangs/
 ---
 
@@ -53,6 +53,7 @@ permalink:  /problems/number-of-boomerangs/
 {% endraw %}
 
 ### 相关话题
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
 

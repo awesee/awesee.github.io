@@ -3,7 +3,7 @@ layout:     single
 title:      "分割回文串 III"
 date:       2019-07-02 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Dynamic Programming]
+tags:       [String, Dynamic Programming]
 permalink:  /problems/palindrome-partitioning-iii/
 ---
 
@@ -55,6 +55,7 @@ permalink:  /problems/palindrome-partitioning-iii/
 {% endraw %}
 
 ### 相关话题
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ---

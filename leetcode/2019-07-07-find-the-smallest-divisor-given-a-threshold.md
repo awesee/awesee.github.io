@@ -3,7 +3,7 @@ layout:     single
 title:      "使结果不超过阈值的最小除数"
 date:       2019-07-07 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Binary Search]
+tags:       [Array, Binary Search]
 permalink:  /problems/find-the-smallest-divisor-given-a-threshold/
 ---
 
@@ -57,6 +57,7 @@ permalink:  /problems/find-the-smallest-divisor-given-a-threshold/
 {% endraw %}
 
 ### 相关话题
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
 
 ---

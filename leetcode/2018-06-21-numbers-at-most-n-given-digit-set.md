@@ -3,7 +3,7 @@ layout:     single
 title:      "最大为 N 的数字组合"
 date:       2018-06-21 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Math, Dynamic Programming]
+tags:       [Array, Math, Binary Search, Dynamic Programming]
 permalink:  /problems/numbers-at-most-n-given-digit-set/
 ---
 
@@ -50,7 +50,9 @@ permalink:  /problems/numbers-at-most-n-given-digit-set/
 {% endraw %}
 
 ### 相关话题
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ---

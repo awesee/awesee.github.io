@@ -3,7 +3,7 @@ layout:     single
 title:      "交替打印字符串"
 date:       2019-04-10 21:30:00 +0800
 categories: [Leetcode]
-tags:       []
+tags:       [Concurrency]
 permalink:  /problems/fizz-buzz-multithreaded/
 ---
 
@@ -52,6 +52,9 @@ class FizzBuzz {
 <p> </p>
 
 {% endraw %}
+
+### 相关话题
+  [[多线程](https://github.com/openset/leetcode/tree/master/tag/concurrency/README.md)]
 
 ---
 

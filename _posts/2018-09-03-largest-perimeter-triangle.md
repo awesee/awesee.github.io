@@ -3,7 +3,7 @@ layout:     single
 title:      "三角形的最大周长"
 date:       2018-09-03 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Sort, Math]
+tags:       [Greedy, Array, Math, Sorting]
 permalink:  /problems/largest-perimeter-triangle/
 ---
 
@@ -56,8 +56,10 @@ permalink:  /problems/largest-perimeter-triangle/
 {% endraw %}
 
 ### 相关话题
-  [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
+  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
 
 ### 相似题目
   1. [最大三角形面积](/problems/largest-triangle-area) (Easy)

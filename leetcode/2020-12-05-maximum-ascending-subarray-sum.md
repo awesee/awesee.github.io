@@ -3,7 +3,7 @@ layout:     single
 title:      "最大升序子数组和"
 date:       2020-12-05 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Two Pointers]
+tags:       [Array]
 permalink:  /problems/maximum-ascending-subarray-sum/
 ---
 
@@ -62,7 +62,7 @@ permalink:  /problems/maximum-ascending-subarray-sum/
 {% endraw %}
 
 ### 相关话题
-  [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 
 ---
 

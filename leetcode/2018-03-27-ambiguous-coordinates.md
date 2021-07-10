@@ -3,7 +3,7 @@ layout:     single
 title:      "模糊坐标"
 date:       2018-03-27 21:30:00 +0800
 categories: [Leetcode]
-tags:       [String]
+tags:       [String, Backtracking]
 permalink:  /problems/ambiguous-coordinates/
 ---
 
@@ -62,6 +62,7 @@ permalink:  /problems/ambiguous-coordinates/
 
 ### 相关话题
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[回溯](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
 
 ---
 

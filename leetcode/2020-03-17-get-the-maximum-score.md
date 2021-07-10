@@ -3,7 +3,7 @@ layout:     single
 title:      "最大得分"
 date:       2020-03-17 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Dynamic Programming]
+tags:       [Greedy, Array, Two Pointers, Dynamic Programming]
 permalink:  /problems/get-the-maximum-score/
 ---
 
@@ -76,6 +76,9 @@ permalink:  /problems/get-the-maximum-score/
 {% endraw %}
 
 ### 相关话题
+  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ---

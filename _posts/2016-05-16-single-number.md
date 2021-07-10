@@ -3,7 +3,7 @@ layout:     single
 title:      "只出现一次的数字"
 date:       2016-05-16 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Bit Manipulation, Hash Table]
+tags:       [Bit Manipulation, Array]
 permalink:  /problems/single-number/
 ---
 
@@ -32,7 +32,7 @@ permalink:  /problems/single-number/
 
 ### 相关话题
   [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
-  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 
 ### 相似题目
   1. [只出现一次的数字 II](/problems/single-number-ii) (Medium)

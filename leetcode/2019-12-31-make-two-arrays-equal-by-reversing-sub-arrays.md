@@ -3,7 +3,7 @@ layout:     single
 title:      "通过翻转子数组使两个数组相等"
 date:       2019-12-31 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Array]
+tags:       [Array, Hash Table, Sorting]
 permalink:  /problems/make-two-arrays-equal-by-reversing-sub-arrays/
 ---
 
@@ -71,6 +71,8 @@ permalink:  /problems/make-two-arrays-equal-by-reversing-sub-arrays/
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
 
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "多数元素"
 date:       2016-06-18 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Bit Manipulation, Array, Divide and Conquer]
+tags:       [Array, Hash Table, Divide and Conquer, Counting, Sorting]
 permalink:  /problems/majority-element/
 ---
 
@@ -41,9 +41,11 @@ permalink:  /problems/majority-element/
 {% endraw %}
 
 ### 相关话题
-  [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[分治算法](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[分治](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]
+  [[计数](https://github.com/openset/leetcode/tree/master/tag/counting/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
 
 ### 相似题目
   1. [求众数 II](/problems/majority-element-ii) (Medium)

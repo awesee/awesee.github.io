@@ -3,7 +3,7 @@ layout:     single
 title:      "猜数字游戏"
 date:       2016-10-26 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Hash Table]
+tags:       [Hash Table, String, Counting]
 permalink:  /problems/bulls-and-cows/
 ---
 
@@ -50,6 +50,8 @@ permalink:  /problems/bulls-and-cows/
 
 ### 相关话题
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[计数](https://github.com/openset/leetcode/tree/master/tag/counting/README.md)]
 
 ---
 

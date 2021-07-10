@@ -3,7 +3,7 @@ layout:     single
 title:      "避免洪水泛滥"
 date:       2020-01-28 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Array, Hash Table]
+tags:       [Greedy, Array, Hash Table, Binary Search, Heap (Priority Queue)]
 permalink:  /problems/avoid-flood-in-the-city/
 ---
 
@@ -92,8 +92,11 @@ permalink:  /problems/avoid-flood-in-the-city/
 {% endraw %}
 
 ### 相关话题
+  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[堆（优先队列）](https://github.com/openset/leetcode/tree/master/tag/heap-priority-queue/README.md)]
 
 ---
 

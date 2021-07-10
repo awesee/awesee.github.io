@@ -3,7 +3,7 @@ layout:     single
 title:      "颜色分类"
 date:       2016-03-16 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Sort, Array, Two Pointers]
+tags:       [Array, Two Pointers, Sorting]
 permalink:  /problems/sort-colors/
 ---
 
@@ -70,9 +70,9 @@ permalink:  /problems/sort-colors/
 {% endraw %}
 
 ### 相关话题
-  [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
 
 ### 相似题目
   1. [排序链表](/problems/sort-list) (Medium)

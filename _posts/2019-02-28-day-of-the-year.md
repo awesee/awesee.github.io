@@ -3,7 +3,7 @@ layout:     single
 title:      "一年中的第几天"
 date:       2019-02-28 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Math]
+tags:       [Math, String]
 permalink:  /problems/day-of-the-year/
 ---
 
@@ -54,6 +54,7 @@ permalink:  /problems/day-of-the-year/
 
 ### 相关话题
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ---
 

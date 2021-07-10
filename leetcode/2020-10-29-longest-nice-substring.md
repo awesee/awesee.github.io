@@ -3,7 +3,7 @@ layout:     single
 title:      "最长的美好子字符串"
 date:       2020-10-29 21:30:00 +0800
 categories: [Leetcode]
-tags:       [String]
+tags:       [Bit Manipulation, Hash Table, String, Sliding Window]
 permalink:  /problems/longest-nice-substring/
 ---
 
@@ -60,7 +60,10 @@ permalink:  /problems/longest-nice-substring/
 {% endraw %}
 
 ### 相关话题
+  [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[滑动窗口](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
 
 ---
 

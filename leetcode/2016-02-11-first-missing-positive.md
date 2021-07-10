@@ -3,7 +3,7 @@ layout:     single
 title:      "缺失的第一个正数"
 date:       2016-02-11 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Array]
+tags:       [Array, Hash Table]
 permalink:  /problems/first-missing-positive/
 ---
 
@@ -12,10 +12,7 @@ permalink:  /problems/first-missing-positive/
 {% raw %}
 
 <p>给你一个未排序的整数数组 <code>nums</code> ，请你找出其中没有出现的最小的正整数。</p>
-
-<p> </p>
-
-<p><strong>进阶：</strong>你可以实现时间复杂度为 <code>O(n)</code> 并且只使用常数级别额外空间的解决方案吗？</p>
+请你实现时间复杂度为 <code>O(n)</code> 并且只使用常数级别额外空间的解决方案。
 
 <p> </p>
 
@@ -45,7 +42,7 @@ permalink:  /problems/first-missing-positive/
 <p><strong>提示：</strong></p>
 
 <ul>
-	<li><code>0 <= nums.length <= 300</code></li>
+	<li><code>1 <= nums.length <= 5 * 10<sup>5</sup></code></li>
 	<li><code>-2<sup>31</sup> <= nums[i] <= 2<sup>31</sup> - 1</code></li>
 </ul>
 
@@ -53,6 +50,7 @@ permalink:  /problems/first-missing-positive/
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
 
 ### 相似题目
   1. [丢失的数字](/problems/missing-number) (Easy)

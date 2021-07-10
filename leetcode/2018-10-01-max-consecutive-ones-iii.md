@@ -3,7 +3,7 @@ layout:     single
 title:      "最大连续1的个数 III"
 date:       2018-10-01 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Two Pointers, Sliding Window]
+tags:       [Array, Binary Search, Prefix Sum, Sliding Window]
 permalink:  /problems/max-consecutive-ones-iii/
 ---
 
@@ -46,8 +46,10 @@ permalink:  /problems/max-consecutive-ones-iii/
 {% endraw %}
 
 ### 相关话题
-  [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
-  [[Sliding Window](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[前缀和](https://github.com/openset/leetcode/tree/master/tag/prefix-sum/README.md)]
+  [[滑动窗口](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
 
 ### 相似题目
   1. [至多包含 K 个不同字符的最长子串](/problems/longest-substring-with-at-most-k-distinct-characters) (Medium)

@@ -3,7 +3,7 @@ layout:     single
 title:      "将数据流变为多个不相交区间"
 date:       2016-12-18 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Binary Search, Ordered Map]
+tags:       [Design, Binary Search, Ordered Set]
 permalink:  /problems/data-stream-as-disjoint-intervals/
 ---
 
@@ -33,8 +33,9 @@ permalink:  /problems/data-stream-as-disjoint-intervals/
 {% endraw %}
 
 ### 相关话题
+  [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
   [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
-  [[Ordered Map](https://github.com/openset/leetcode/tree/master/tag/ordered-map/README.md)]
+  [[有序集合](https://github.com/openset/leetcode/tree/master/tag/ordered-set/README.md)]
 
 ### 相似题目
   1. [汇总区间](/problems/summary-ranges) (Easy)

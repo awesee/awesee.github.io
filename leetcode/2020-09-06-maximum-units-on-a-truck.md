@@ -3,7 +3,7 @@ layout:     single
 title:      "卡车上的最大单元数"
 date:       2020-09-06 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Greedy, Sort]
+tags:       [Greedy, Array, Sorting]
 permalink:  /problems/maximum-units-on-a-truck/
 ---
 
@@ -56,8 +56,9 @@ permalink:  /problems/maximum-units-on-a-truck/
 {% endraw %}
 
 ### 相关话题
-  [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
-  [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
+  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
 
 ---
 

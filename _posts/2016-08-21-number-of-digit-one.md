@@ -3,7 +3,7 @@ layout:     single
 title:      "数字 1 的个数"
 date:       2016-08-21 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Math]
+tags:       [Recursion, Math, Dynamic Programming]
 permalink:  /problems/number-of-digit-one/
 ---
 
@@ -40,7 +40,9 @@ permalink:  /problems/number-of-digit-one/
 {% endraw %}
 
 ### 相关话题
+  [[递归](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### 相似题目
   1. [阶乘后的零](/problems/factorial-trailing-zeroes) (Easy)

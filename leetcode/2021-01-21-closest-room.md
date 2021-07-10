@@ -3,7 +3,7 @@ layout:     single
 title:      "最近的房间"
 date:       2021-01-21 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Sort, Binary Search]
+tags:       [Array, Binary Search, Sorting]
 permalink:  /problems/closest-room/
 ---
 
@@ -62,8 +62,9 @@ permalink:  /problems/closest-room/
 {% endraw %}
 
 ### 相关话题
-  [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
 
 ---
 

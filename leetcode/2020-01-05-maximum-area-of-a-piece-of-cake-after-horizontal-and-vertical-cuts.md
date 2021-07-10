@@ -3,7 +3,7 @@ layout:     single
 title:      "切割后面积最大的蛋糕"
 date:       2020-01-05 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Array]
+tags:       [Greedy, Array, Sorting]
 permalink:  /problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/
 ---
 
@@ -57,7 +57,9 @@ permalink:  /problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-verti
 {% endraw %}
 
 ### 相关话题
+  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
 
 ---
 

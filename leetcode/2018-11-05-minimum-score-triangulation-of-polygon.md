@@ -3,7 +3,7 @@ layout:     single
 title:      "多边形三角剖分的最低得分"
 date:       2018-11-05 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Dynamic Programming]
+tags:       [Array, Dynamic Programming]
 permalink:  /problems/minimum-score-triangulation-of-polygon/
 ---
 
@@ -56,6 +56,7 @@ permalink:  /problems/minimum-score-triangulation-of-polygon/
 {% endraw %}
 
 ### 相关话题
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ---

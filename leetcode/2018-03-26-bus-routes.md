@@ -3,7 +3,7 @@ layout:     single
 title:      "公交路线"
 date:       2018-03-26 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Breadth-first Search]
+tags:       [Breadth-First Search, Array, Hash Table]
 permalink:  /problems/bus-routes/
 ---
 
@@ -55,6 +55,8 @@ permalink:  /problems/bus-routes/
 
 ### 相关话题
   [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
 
 ---
 

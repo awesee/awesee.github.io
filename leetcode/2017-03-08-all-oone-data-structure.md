@@ -3,7 +3,7 @@ layout:     single
 title:      "全 O(1) 的数据结构"
 date:       2017-03-08 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Design]
+tags:       [Design, Hash Table, Linked List, Doubly-Linked List]
 permalink:  /problems/all-oone-data-structure/
 ---
 
@@ -30,6 +30,9 @@ permalink:  /problems/all-oone-data-structure/
 
 ### 相关话题
   [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
+  [[双向链表](https://github.com/openset/leetcode/tree/master/tag/doubly-linked-list/README.md)]
 
 ---
 

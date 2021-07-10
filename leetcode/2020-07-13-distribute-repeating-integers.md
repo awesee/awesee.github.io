@@ -3,7 +3,7 @@ layout:     single
 title:      "分配重复整数"
 date:       2020-07-13 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Dynamic Programming, Backtracking]
+tags:       [Bit Manipulation, Array, Dynamic Programming, Backtracking, Bitmask]
 permalink:  /problems/distribute-repeating-integers/
 ---
 
@@ -74,8 +74,11 @@ permalink:  /problems/distribute-repeating-integers/
 {% endraw %}
 
 ### 相关话题
+  [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
-  [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[回溯](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[状态压缩](https://github.com/openset/leetcode/tree/master/tag/bitmask/README.md)]
 
 ---
 

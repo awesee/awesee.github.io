@@ -3,7 +3,7 @@ layout:     single
 title:      "递增的三元子序列"
 date:       2016-11-30 21:30:00 +0800
 categories: [Leetcode]
-tags:       []
+tags:       [Greedy, Array]
 permalink:  /problems/increasing-triplet-subsequence/
 ---
 
@@ -54,6 +54,10 @@ permalink:  /problems/increasing-triplet-subsequence/
 <p><strong>进阶：</strong>你能实现时间复杂度为 <code>O(n)</code> ，空间复杂度为 <code>O(1)</code> 的解决方案吗？</p>
 
 {% endraw %}
+
+### 相关话题
+  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 
 ### 相似题目
   1. [最长递增子序列](/problems/longest-increasing-subsequence) (Medium)

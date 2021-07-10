@@ -3,7 +3,7 @@ layout:     single
 title:      "移动石子直到连续 II"
 date:       2018-11-06 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Array, Sliding Window]
+tags:       [Array, Math, Two Pointers, Sorting]
 permalink:  /problems/moving-stones-until-consecutive-ii/
 ---
 
@@ -66,7 +66,9 @@ permalink:  /problems/moving-stones-until-consecutive-ii/
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Sliding Window](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
+  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
 
 ---
 

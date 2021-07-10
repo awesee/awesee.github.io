@@ -3,7 +3,7 @@ layout:     single
 title:      "满足三条件之一需改变的最少字符数"
 date:       2020-10-03 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Greedy, String]
+tags:       [Hash Table, String, Counting, Prefix Sum]
 permalink:  /problems/change-minimum-characters-to-satisfy-one-of-three-conditions/
 ---
 
@@ -55,8 +55,10 @@ permalink:  /problems/change-minimum-characters-to-satisfy-one-of-three-conditio
 {% endraw %}
 
 ### 相关话题
-  [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[计数](https://github.com/openset/leetcode/tree/master/tag/counting/README.md)]
+  [[前缀和](https://github.com/openset/leetcode/tree/master/tag/prefix-sum/README.md)]
 
 ---
 

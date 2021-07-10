@@ -3,7 +3,7 @@ layout:     single
 title:      "加油站"
 date:       2016-05-14 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Greedy]
+tags:       [Greedy, Array]
 permalink:  /problems/gas-station/
 ---
 
@@ -61,7 +61,8 @@ cost = [3,4,3]
 {% endraw %}
 
 ### 相关话题
-  [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "交换字符使得字符串相同"
 date:       2019-06-01 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Greedy, String]
+tags:       [Greedy, Math, String]
 permalink:  /problems/minimum-swaps-to-make-strings-equal/
 ---
 
@@ -61,7 +61,8 @@ permalink:  /problems/minimum-swaps-to-make-strings-equal/
 {% endraw %}
 
 ### 相关话题
-  [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ---

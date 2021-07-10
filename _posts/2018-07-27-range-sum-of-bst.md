@@ -3,7 +3,7 @@ layout:     single
 title:      "二叉搜索树的范围和"
 date:       2018-07-27 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Tree, Depth-first Search, Recursion]
+tags:       [Tree, Depth-First Search, Binary Search Tree, Binary Tree]
 permalink:  /problems/range-sum-of-bst/
 ---
 
@@ -45,7 +45,8 @@ permalink:  /problems/range-sum-of-bst/
 ### 相关话题
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
   [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[递归](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]
+  [[二叉搜索树](https://github.com/openset/leetcode/tree/master/tag/binary-search-tree/README.md)]
+  [[二叉树](https://github.com/openset/leetcode/tree/master/tag/binary-tree/README.md)]
 
 ---
 

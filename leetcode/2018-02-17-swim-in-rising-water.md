@@ -3,7 +3,7 @@ layout:     single
 title:      "水位上升的泳池中游泳"
 date:       2018-02-17 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Heap, Depth-first Search, Union Find, Binary Search]
+tags:       [Depth-First Search, Breadth-First Search, Union Find, Array, Binary Search, Matrix, Heap (Priority Queue)]
 permalink:  /problems/swim-in-rising-water/
 ---
 
@@ -59,10 +59,13 @@ permalink:  /problems/swim-in-rising-water/
 {% endraw %}
 
 ### 相关话题
-  [[堆](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]
   [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
   [[并查集](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[矩阵](https://github.com/openset/leetcode/tree/master/tag/matrix/README.md)]
+  [[堆（优先队列）](https://github.com/openset/leetcode/tree/master/tag/heap-priority-queue/README.md)]
 
 ---
 

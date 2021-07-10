@@ -3,7 +3,7 @@ layout:     single
 title:      "丑数 II"
 date:       2016-09-21 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Heap, Math, Dynamic Programming]
+tags:       [Hash Table, Math, Dynamic Programming, Heap (Priority Queue)]
 permalink:  /problems/ugly-number-ii/
 ---
 
@@ -44,9 +44,10 @@ permalink:  /problems/ugly-number-ii/
 {% endraw %}
 
 ### 相关话题
-  [[堆](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[堆（优先队列）](https://github.com/openset/leetcode/tree/master/tag/heap-priority-queue/README.md)]
 
 ### 相似题目
   1. [合并K个升序链表](/problems/merge-k-sorted-lists) (Hard)

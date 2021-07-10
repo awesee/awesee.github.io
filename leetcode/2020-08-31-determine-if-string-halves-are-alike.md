@@ -3,7 +3,7 @@ layout:     single
 title:      "判断字符串的两半是否相似"
 date:       2020-08-31 21:30:00 +0800
 categories: [Leetcode]
-tags:       [String]
+tags:       [String, Counting]
 permalink:  /problems/determine-if-string-halves-are-alike/
 ---
 
@@ -60,6 +60,7 @@ permalink:  /problems/determine-if-string-halves-are-alike/
 
 ### 相关话题
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[计数](https://github.com/openset/leetcode/tree/master/tag/counting/README.md)]
 
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "访问所有节点的最短路径"
 date:       2018-04-27 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Breadth-first Search, Dynamic Programming]
+tags:       [Bit Manipulation, Breadth-First Search, Graph, Dynamic Programming, Bitmask]
 permalink:  /problems/shortest-path-visiting-all-nodes/
 ---
 
@@ -47,8 +47,11 @@ permalink:  /problems/shortest-path-visiting-all-nodes/
 {% endraw %}
 
 ### 相关话题
+  [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
   [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
+  [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[状态压缩](https://github.com/openset/leetcode/tree/master/tag/bitmask/README.md)]
 
 ---
 

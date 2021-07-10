@@ -3,7 +3,7 @@ layout:     single
 title:      "快照数组"
 date:       2019-02-20 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Array]
+tags:       [Design, Array, Hash Table, Binary Search]
 permalink:  /problems/snapshot-array/
 ---
 
@@ -49,7 +49,10 @@ snapshotArr.get(0,0);  // 获取 snap_id = 0 的快照中 array[0] 的值，返�
 {% endraw %}
 
 ### 相关话题
+  [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
 
 ---
 

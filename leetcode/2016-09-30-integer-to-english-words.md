@@ -3,7 +3,7 @@ layout:     single
 title:      "整数转换英文表示"
 date:       2016-09-30 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Math, String]
+tags:       [Recursion, Math, String]
 permalink:  /problems/integer-to-english-words/
 ---
 
@@ -54,6 +54,7 @@ permalink:  /problems/integer-to-english-words/
 {% endraw %}
 
 ### 相关话题
+  [[递归](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 

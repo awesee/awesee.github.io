@@ -3,7 +3,7 @@ layout:     single
 title:      "破解保险箱"
 date:       2018-01-23 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Depth-first Search, Math]
+tags:       [Depth-First Search, Graph, Eulerian Circuit]
 permalink:  /problems/cracking-the-safe/
 ---
 
@@ -53,7 +53,8 @@ permalink:  /problems/cracking-the-safe/
 
 ### 相关话题
   [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
+  [[欧拉回路](https://github.com/openset/leetcode/tree/master/tag/eulerian-circuit/README.md)]
 
 ---
 

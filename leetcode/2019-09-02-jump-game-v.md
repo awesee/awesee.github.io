@@ -3,7 +3,7 @@ layout:     single
 title:      "跳跃游戏 V"
 date:       2019-09-02 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Dynamic Programming]
+tags:       [Array, Dynamic Programming, Sorting]
 permalink:  /problems/jump-game-v/
 ---
 
@@ -76,7 +76,9 @@ permalink:  /problems/jump-game-v/
 {% endraw %}
 
 ### 相关话题
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
 
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "数组中的 k-diff 数对"
 date:       2017-06-16 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Array, Two Pointers]
+tags:       [Array, Hash Table, Two Pointers, Binary Search, Sorting]
 permalink:  /problems/k-diff-pairs-in-an-array/
 ---
 
@@ -77,7 +77,10 @@ permalink:  /problems/k-diff-pairs-in-an-array/
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
   [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+  [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
 
 ### 相似题目
   1. [二叉搜索树的最小绝对差](/problems/minimum-absolute-difference-in-bst) (Easy)

@@ -3,7 +3,7 @@ layout:     single
 title:      "反转字符串中的单词 III"
 date:       2017-07-11 21:30:00 +0800
 categories: [Leetcode]
-tags:       [String]
+tags:       [Two Pointers, String]
 permalink:  /problems/reverse-words-in-a-string-iii/
 ---
 
@@ -32,6 +32,7 @@ permalink:  /problems/reverse-words-in-a-string-iii/
 {% endraw %}
 
 ### 相关话题
+  [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ### 相似题目

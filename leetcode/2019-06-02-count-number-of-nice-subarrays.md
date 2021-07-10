@@ -3,7 +3,7 @@ layout:     single
 title:      "统计「优美子数组」"
 date:       2019-06-02 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Two Pointers]
+tags:       [Array, Hash Table, Math, Sliding Window]
 permalink:  /problems/count-number-of-nice-subarrays/
 ---
 
@@ -52,7 +52,10 @@ permalink:  /problems/count-number-of-nice-subarrays/
 {% endraw %}
 
 ### 相关话题
-  [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[滑动窗口](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
 
 ---
 

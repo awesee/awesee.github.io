@@ -3,7 +3,7 @@ layout:     single
 title:      "乘积为正数的最长子数组长度"
 date:       2020-04-16 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Greedy]
+tags:       [Greedy, Array, Dynamic Programming]
 permalink:  /problems/maximum-length-of-subarray-with-positive-product/
 ---
 
@@ -64,7 +64,9 @@ permalink:  /problems/maximum-length-of-subarray-with-positive-product/
 {% endraw %}
 
 ### 相关话题
-  [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ---
 

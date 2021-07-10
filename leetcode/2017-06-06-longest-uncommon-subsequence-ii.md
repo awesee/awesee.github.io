@@ -3,7 +3,7 @@ layout:     single
 title:      "最长特殊序列 II"
 date:       2017-06-06 21:30:00 +0800
 categories: [Leetcode]
-tags:       [String]
+tags:       [Array, Hash Table, Two Pointers, String, Sorting]
 permalink:  /problems/longest-uncommon-subsequence-ii/
 ---
 
@@ -39,7 +39,11 @@ permalink:  /problems/longest-uncommon-subsequence-ii/
 {% endraw %}
 
 ### 相关话题
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
 
 ### 相似题目
   1. [最长特殊序列 Ⅰ](/problems/longest-uncommon-subsequence-i) (Easy)

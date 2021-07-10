@@ -3,7 +3,7 @@ layout:     single
 title:      "删除子数组的最大得分"
 date:       2020-08-22 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Two Pointers]
+tags:       [Array, Hash Table, Sliding Window]
 permalink:  /problems/maximum-erasure-value/
 ---
 
@@ -47,7 +47,9 @@ permalink:  /problems/maximum-erasure-value/
 {% endraw %}
 
 ### 相关话题
-  [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[滑动窗口](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
 
 ---
 

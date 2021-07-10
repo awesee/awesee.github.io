@@ -3,7 +3,7 @@ layout:     single
 title:      "交替打印FooBar"
 date:       2019-01-20 21:30:00 +0800
 categories: [Leetcode]
-tags:       []
+tags:       [Concurrency]
 permalink:  /problems/print-foobar-alternately/
 ---
 
@@ -52,6 +52,9 @@ class FooBar {
 </pre>
 
 {% endraw %}
+
+### 相关话题
+  [[多线程](https://github.com/openset/leetcode/tree/master/tag/concurrency/README.md)]
 
 ### 相似题目
   1. [按序打印](/problems/print-in-order) (Easy)

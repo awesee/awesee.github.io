@@ -3,7 +3,7 @@ layout:     single
 title:      "拼接最大数"
 date:       2016-11-17 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Greedy, Dynamic Programming]
+tags:       [Stack, Greedy, Monotonic Stack]
 permalink:  /problems/create-maximum-number/
 ---
 
@@ -47,11 +47,12 @@ k = <code>3</code>
 {% endraw %}
 
 ### 相关话题
-  [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
-  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
+  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[单调栈](https://github.com/openset/leetcode/tree/master/tag/monotonic-stack/README.md)]
 
 ### 相似题目
-  1. [移掉K位数字](/problems/remove-k-digits) (Medium)
+  1. [移掉 K 位数字](/problems/remove-k-digits) (Medium)
   1. [最大交换](/problems/maximum-swap) (Medium)
 
 ---

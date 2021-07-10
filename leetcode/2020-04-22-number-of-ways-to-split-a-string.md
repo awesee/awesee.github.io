@@ -3,7 +3,7 @@ layout:     single
 title:      "分割字符串的方案数"
 date:       2020-04-22 21:30:00 +0800
 categories: [Leetcode]
-tags:       [String]
+tags:       [Math, String]
 permalink:  /problems/number-of-ways-to-split-a-string/
 ---
 
@@ -64,6 +64,7 @@ permalink:  /problems/number-of-ways-to-split-a-string/
 {% endraw %}
 
 ### 相关话题
+  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ---

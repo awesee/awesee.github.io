@@ -3,7 +3,7 @@ layout:     single
 title:      "甲板上的战舰"
 date:       2017-02-23 21:30:00 +0800
 categories: [Leetcode]
-tags:       []
+tags:       [Depth-First Search, Array, Matrix]
 permalink:  /problems/battleships-in-a-board/
 ---
 
@@ -44,6 +44,11 @@ XXXX
 <p>你可以用<strong>一次扫描算法</strong>，只使用<strong>O(1)额外空间，</strong>并且<strong>不修改</strong>甲板的值来解决这个问题吗？</p>
 
 {% endraw %}
+
+### 相关话题
+  [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[矩阵](https://github.com/openset/leetcode/tree/master/tag/matrix/README.md)]
 
 ---
 

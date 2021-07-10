@@ -3,7 +3,7 @@ layout:     single
 title:      "让字符串成为回文串的最少插入次数"
 date:       2019-08-05 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Dynamic Programming]
+tags:       [String, Dynamic Programming]
 permalink:  /problems/minimum-insertion-steps-to-make-a-string-palindrome/
 ---
 
@@ -69,6 +69,7 @@ permalink:  /problems/minimum-insertion-steps-to-make-a-string-palindrome/
 {% endraw %}
 
 ### 相关话题
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ---

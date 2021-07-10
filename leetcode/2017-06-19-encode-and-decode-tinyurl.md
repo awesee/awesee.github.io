@@ -3,7 +3,7 @@ layout:     single
 title:      "TinyURL 的加密与解密"
 date:       2017-06-19 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Hash Table, Math]
+tags:       [Design, Hash Table, String, Hash Function]
 permalink:  /problems/encode-and-decode-tinyurl/
 ---
 
@@ -18,8 +18,10 @@ permalink:  /problems/encode-and-decode-tinyurl/
 {% endraw %}
 
 ### 相关话题
+  [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[哈希函数](https://github.com/openset/leetcode/tree/master/tag/hash-function/README.md)]
 
 ---
 
