@@ -3,7 +3,7 @@ layout:     single
 title:      "受标签影响的最大值"
 date:       2018-12-26 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Greedy, Hash Table]
+tags:       [Greedy, Array, Hash Table, Counting, Sorting]
 permalink:  /problems/largest-values-from-labels/
 ---
 
@@ -65,8 +65,11 @@ permalink:  /problems/largest-values-from-labels/
 {% endraw %}
 
 ### 相关话题
-  [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[计数](https://github.com/openset/leetcode/tree/master/tag/counting/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
 
 ---
 

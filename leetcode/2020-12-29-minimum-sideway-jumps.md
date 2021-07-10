@@ -3,7 +3,7 @@ layout:     single
 title:      "最少侧跳次数"
 date:       2020-12-29 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Breadth-first Search, Dynamic Programming]
+tags:       [Greedy, Array, Dynamic Programming]
 permalink:  /problems/minimum-sideway-jumps/
 ---
 
@@ -70,7 +70,8 @@ permalink:  /problems/minimum-sideway-jumps/
 {% endraw %}
 
 ### 相关话题
-  [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
+  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ---

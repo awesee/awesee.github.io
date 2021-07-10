@@ -3,7 +3,7 @@ layout:     single
 title:      "至少有 K 个重复字符的最长子串"
 date:       2017-01-30 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Recursion, Divide and Conquer, Sliding Window]
+tags:       [Hash Table, String, Divide and Conquer, Sliding Window]
 permalink:  /problems/longest-substring-with-at-least-k-repeating-characters/
 ---
 
@@ -43,9 +43,10 @@ permalink:  /problems/longest-substring-with-at-least-k-repeating-characters/
 {% endraw %}
 
 ### 相关话题
-  [[递归](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]
-  [[分治算法](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]
-  [[Sliding Window](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[分治](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]
+  [[滑动窗口](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
 
 ---
 

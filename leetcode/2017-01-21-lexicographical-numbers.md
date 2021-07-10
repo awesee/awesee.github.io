@@ -3,7 +3,7 @@ layout:     single
 title:      "字典序排数"
 date:       2017-01-21 21:30:00 +0800
 categories: [Leetcode]
-tags:       []
+tags:       [Depth-First Search, Trie]
 permalink:  /problems/lexicographical-numbers/
 ---
 
@@ -20,6 +20,10 @@ permalink:  /problems/lexicographical-numbers/
 <p>请尽可能的优化算法的时间复杂度和空间复杂度。 输入的数据&nbsp;<em>n&nbsp;</em>小于等于&nbsp;5,000,000。</p>
 
 {% endraw %}
+
+### 相关话题
+  [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[字典树](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)]
 
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "按列翻转得到最大值等行数"
 date:       2018-12-08 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Hash Table]
+tags:       [Array, Hash Table, Matrix]
 permalink:  /problems/flip-columns-for-maximum-number-of-equal-rows/
 ---
 
@@ -57,7 +57,9 @@ permalink:  /problems/flip-columns-for-maximum-number-of-equal-rows/
 {% endraw %}
 
 ### 相关话题
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[矩阵](https://github.com/openset/leetcode/tree/master/tag/matrix/README.md)]
 
 ---
 

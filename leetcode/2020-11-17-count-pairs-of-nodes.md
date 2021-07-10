@@ -3,7 +3,7 @@ layout:     single
 title:      "统计点对的数目"
 date:       2020-11-17 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Graph]
+tags:       [Graph, Two Pointers, Binary Search]
 permalink:  /problems/count-pairs-of-nodes/
 ---
 
@@ -58,6 +58,8 @@ permalink:  /problems/count-pairs-of-nodes/
 
 ### 相关话题
   [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
+  [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+  [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
 
 ---
 

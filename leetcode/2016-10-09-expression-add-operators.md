@@ -3,7 +3,7 @@ layout:     single
 title:      "给表达式添加运算符"
 date:       2016-10-09 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Divide and Conquer]
+tags:       [Math, String, Backtracking]
 permalink:  /problems/expression-add-operators/
 ---
 
@@ -59,7 +59,9 @@ permalink:  /problems/expression-add-operators/
 {% endraw %}
 
 ### 相关话题
-  [[分治算法](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]
+  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[回溯](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
 
 ### 相似题目
   1. [逆波兰表达式求值](/problems/evaluate-reverse-polish-notation) (Medium)

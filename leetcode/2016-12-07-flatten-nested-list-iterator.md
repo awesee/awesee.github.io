@@ -3,7 +3,7 @@ layout:     single
 title:      "扁平化嵌套列表迭代器"
 date:       2016-12-07 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Stack, Design]
+tags:       [Stack, Tree, Depth-First Search, Design, Queue, Iterator]
 permalink:  /problems/flatten-nested-list-iterator/
 ---
 
@@ -34,7 +34,11 @@ permalink:  /problems/flatten-nested-list-iterator/
 
 ### 相关话题
   [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
+  [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
   [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
+  [[队列](https://github.com/openset/leetcode/tree/master/tag/queue/README.md)]
+  [[迭代器](https://github.com/openset/leetcode/tree/master/tag/iterator/README.md)]
 
 ### 相似题目
   1. [展开二维向量](/problems/flatten-2d-vector) (Medium)

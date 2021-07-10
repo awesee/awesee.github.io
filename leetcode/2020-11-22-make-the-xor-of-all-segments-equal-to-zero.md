@@ -3,7 +3,7 @@ layout:     single
 title:      "使所有区间的异或结果为零"
 date:       2020-11-22 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Dynamic Programming]
+tags:       [Bit Manipulation, Array, Dynamic Programming]
 permalink:  /problems/make-the-xor-of-all-segments-equal-to-zero/
 ---
 
@@ -52,6 +52,8 @@ permalink:  /problems/make-the-xor-of-all-segments-equal-to-zero/
 {% endraw %}
 
 ### 相关话题
+  [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ---

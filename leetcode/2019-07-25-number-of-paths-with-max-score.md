@@ -3,7 +3,7 @@ layout:     single
 title:      "最大得分的路径数目"
 date:       2019-07-25 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Dynamic Programming]
+tags:       [Array, Dynamic Programming, Matrix]
 permalink:  /problems/number-of-paths-with-max-score/
 ---
 
@@ -55,7 +55,9 @@ permalink:  /problems/number-of-paths-with-max-score/
 {% endraw %}
 
 ### 相关话题
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[矩阵](https://github.com/openset/leetcode/tree/master/tag/matrix/README.md)]
 
 ---
 

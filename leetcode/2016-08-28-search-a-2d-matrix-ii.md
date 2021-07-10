@@ -3,7 +3,7 @@ layout:     single
 title:      "搜索二维矩阵 II"
 date:       2016-08-28 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Binary Search, Divide and Conquer]
+tags:       [Array, Binary Search, Divide and Conquer, Matrix]
 permalink:  /problems/search-a-2d-matrix-ii/
 ---
 
@@ -51,8 +51,10 @@ permalink:  /problems/search-a-2d-matrix-ii/
 {% endraw %}
 
 ### 相关话题
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
-  [[分治算法](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]
+  [[分治](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]
+  [[矩阵](https://github.com/openset/leetcode/tree/master/tag/matrix/README.md)]
 
 ### 相似题目
   1. [搜索二维矩阵](/problems/search-a-2d-matrix) (Medium)

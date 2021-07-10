@@ -3,7 +3,7 @@ layout:     single
 title:      "将数组分成三个子数组的方案数"
 date:       2020-09-08 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Two Pointers, Binary Search]
+tags:       [Array, Two Pointers, Binary Search, Prefix Sum]
 permalink:  /problems/ways-to-split-array-into-three-subarrays/
 ---
 
@@ -59,8 +59,10 @@ permalink:  /problems/ways-to-split-array-into-three-subarrays/
 {% endraw %}
 
 ### 相关话题
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
   [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[前缀和](https://github.com/openset/leetcode/tree/master/tag/prefix-sum/README.md)]
 
 ---
 

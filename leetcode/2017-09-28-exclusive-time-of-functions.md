@@ -3,7 +3,7 @@ layout:     single
 title:      "函数的独占时间"
 date:       2017-09-28 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Stack]
+tags:       [Stack, Array]
 permalink:  /problems/exclusive-time-of-functions/
 ---
 
@@ -93,6 +93,7 @@ permalink:  /problems/exclusive-time-of-functions/
 
 ### 相关话题
   [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 
 ---
 

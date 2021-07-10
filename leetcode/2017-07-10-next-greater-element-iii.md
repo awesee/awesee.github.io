@@ -3,7 +3,7 @@ layout:     single
 title:      "下一个更大元素 III"
 date:       2017-07-10 21:30:00 +0800
 categories: [Leetcode]
-tags:       [String]
+tags:       [Math, Two Pointers, String]
 permalink:  /problems/next-greater-element-iii/
 ---
 
@@ -42,6 +42,8 @@ permalink:  /problems/next-greater-element-iii/
 {% endraw %}
 
 ### 相关话题
+  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ### 相似题目

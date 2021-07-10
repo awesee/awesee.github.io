@@ -3,7 +3,7 @@ layout:     single
 title:      "二叉树寻路"
 date:       2019-01-09 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Tree, Math]
+tags:       [Tree, Math, Binary Tree]
 permalink:  /problems/path-in-zigzag-labelled-binary-tree/
 ---
 
@@ -48,6 +48,7 @@ permalink:  /problems/path-in-zigzag-labelled-binary-tree/
 ### 相关话题
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[二叉树](https://github.com/openset/leetcode/tree/master/tag/binary-tree/README.md)]
 
 ---
 

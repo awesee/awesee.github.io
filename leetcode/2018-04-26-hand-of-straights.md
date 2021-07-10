@@ -3,7 +3,7 @@ layout:     single
 title:      "一手顺子"
 date:       2018-04-26 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Ordered Map]
+tags:       [Greedy, Array, Hash Table, Sorting]
 permalink:  /problems/hand-of-straights/
 ---
 
@@ -53,7 +53,10 @@ permalink:  /problems/hand-of-straights/
 {% endraw %}
 
 ### 相关话题
-  [[Ordered Map](https://github.com/openset/leetcode/tree/master/tag/ordered-map/README.md)]
+  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
 
 ---
 

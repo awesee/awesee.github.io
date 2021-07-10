@@ -3,7 +3,7 @@ layout:     single
 title:      "将数字变成 0 的操作次数"
 date:       2019-09-04 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Bit Manipulation]
+tags:       [Bit Manipulation, Math]
 permalink:  /problems/number-of-steps-to-reduce-a-number-to-zero/
 ---
 
@@ -57,6 +57,7 @@ permalink:  /problems/number-of-steps-to-reduce-a-number-to-zero/
 
 ### 相关话题
   [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
+  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
 
 ---
 

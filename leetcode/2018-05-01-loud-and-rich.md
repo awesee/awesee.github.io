@@ -3,7 +3,7 @@ layout:     single
 title:      "喧闹和富有"
 date:       2018-05-01 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Depth-first Search]
+tags:       [Depth-First Search, Graph, Topological Sort, Array]
 permalink:  /problems/loud-and-rich/
 ---
 
@@ -54,6 +54,9 @@ answer[7] = 7，
 
 ### 相关话题
   [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
+  [[拓扑排序](https://github.com/openset/leetcode/tree/master/tag/topological-sort/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 
 ---
 

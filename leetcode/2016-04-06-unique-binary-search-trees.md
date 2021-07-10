@@ -3,7 +3,7 @@ layout:     single
 title:      "不同的二叉搜索树"
 date:       2016-04-06 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Tree, Dynamic Programming]
+tags:       [Tree, Binary Search Tree, Math, Dynamic Programming, Binary Tree]
 permalink:  /problems/unique-binary-search-trees/
 ---
 
@@ -41,7 +41,10 @@ permalink:  /problems/unique-binary-search-trees/
 
 ### 相关话题
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[二叉搜索树](https://github.com/openset/leetcode/tree/master/tag/binary-search-tree/README.md)]
+  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[二叉树](https://github.com/openset/leetcode/tree/master/tag/binary-tree/README.md)]
 
 ### 相似题目
   1. [不同的二叉搜索树 II](/problems/unique-binary-search-trees-ii) (Medium)

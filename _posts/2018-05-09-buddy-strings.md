@@ -3,7 +3,7 @@ layout:     single
 title:      "亲密字符串"
 date:       2018-05-09 21:30:00 +0800
 categories: [Leetcode]
-tags:       [String]
+tags:       [Hash Table, String]
 permalink:  /problems/buddy-strings/
 ---
 
@@ -66,6 +66,7 @@ permalink:  /problems/buddy-strings/
 {% endraw %}
 
 ### 相关话题
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ---

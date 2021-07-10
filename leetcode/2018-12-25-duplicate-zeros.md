@@ -3,7 +3,7 @@ layout:     single
 title:      "复写零"
 date:       2018-12-25 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Array]
+tags:       [Array, Two Pointers]
 permalink:  /problems/duplicate-zeros/
 ---
 
@@ -46,6 +46,7 @@ permalink:  /problems/duplicate-zeros/
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
 
 ---
 

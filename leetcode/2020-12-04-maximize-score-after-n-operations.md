@@ -3,7 +3,7 @@ layout:     single
 title:      "N 次操作后的最大分数和"
 date:       2020-12-04 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Recursion, Dynamic Programming, Backtracking]
+tags:       [Bit Manipulation, Array, Math, Dynamic Programming, Backtracking, Bitmask, Number Theory]
 permalink:  /problems/maximize-score-after-n-operations/
 ---
 
@@ -64,9 +64,13 @@ permalink:  /problems/maximize-score-after-n-operations/
 {% endraw %}
 
 ### 相关话题
-  [[递归](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]
+  [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
-  [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[回溯](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[状态压缩](https://github.com/openset/leetcode/tree/master/tag/bitmask/README.md)]
+  [[数论](https://github.com/openset/leetcode/tree/master/tag/number-theory/README.md)]
 
 ---
 

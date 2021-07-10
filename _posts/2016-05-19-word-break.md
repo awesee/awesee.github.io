@@ -3,7 +3,7 @@ layout:     single
 title:      "单词拆分"
 date:       2016-05-19 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Dynamic Programming]
+tags:       [Trie, Memoization, Hash Table, String, Dynamic Programming]
 permalink:  /problems/word-break/
 ---
 
@@ -44,6 +44,10 @@ permalink:  /problems/word-break/
 {% endraw %}
 
 ### 相关话题
+  [[字典树](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)]
+  [[记忆化搜索](https://github.com/openset/leetcode/tree/master/tag/memoization/README.md)]
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### 相似题目

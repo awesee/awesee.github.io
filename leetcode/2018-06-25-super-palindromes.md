@@ -3,7 +3,7 @@ layout:     single
 title:      "超级回文数"
 date:       2018-06-25 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Math]
+tags:       [Math, Enumeration]
 permalink:  /problems/super-palindromes/
 ---
 
@@ -42,6 +42,7 @@ permalink:  /problems/super-palindromes/
 
 ### 相关话题
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[枚举](https://github.com/openset/leetcode/tree/master/tag/enumeration/README.md)]
 
 ---
 

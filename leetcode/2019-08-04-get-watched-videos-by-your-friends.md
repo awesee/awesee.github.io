@@ -3,7 +3,7 @@ layout:     single
 title:      "获取你好友已观看的视频"
 date:       2019-08-04 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Breadth-first Search, Hash Table, String]
+tags:       [Breadth-First Search, Array, Hash Table, Sorting]
 permalink:  /problems/get-watched-videos-by-your-friends/
 ---
 
@@ -66,8 +66,9 @@ C -&gt; 2
 
 ### 相关话题
   [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
 
 ---
 

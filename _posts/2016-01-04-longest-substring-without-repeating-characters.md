@@ -3,7 +3,7 @@ layout:     single
 title:      "无重复字符的最长子串"
 date:       2016-01-04 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Hash Table, Two Pointers, String, Sliding Window]
+tags:       [Hash Table, String, Sliding Window]
 permalink:  /problems/longest-substring-without-repeating-characters/
 ---
 
@@ -11,7 +11,7 @@ permalink:  /problems/longest-substring-without-repeating-characters/
 
 {% raw %}
 
-<p>给定一个字符串，请你找出其中不含有重复字符的 <strong>最长子串 </strong>的长度。</p>
+<p>给定一个字符串 <code>s</code> ，请你找出其中不含有重复字符的 <strong>最长子串 </strong>的长度。</p>
 
 <p> </p>
 
@@ -60,9 +60,8 @@ permalink:  /problems/longest-substring-without-repeating-characters/
 
 ### 相关话题
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
-  [[Sliding Window](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
+  [[滑动窗口](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
 
 ### 相似题目
   1. [至多包含两个不同字符的最长子串](/problems/longest-substring-with-at-most-two-distinct-characters) (Medium)

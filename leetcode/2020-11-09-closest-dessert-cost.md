@@ -3,7 +3,7 @@ layout:     single
 title:      "最接近目标价格的甜点成本"
 date:       2020-11-09 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Greedy]
+tags:       [Array, Dynamic Programming, Backtracking]
 permalink:  /problems/closest-dessert-cost/
 ---
 
@@ -88,7 +88,9 @@ permalink:  /problems/closest-dessert-cost/
 {% endraw %}
 
 ### 相关话题
-  [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[回溯](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
 
 ---
 

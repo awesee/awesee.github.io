@@ -3,7 +3,7 @@ layout:     single
 title:      "数青蛙"
 date:       2019-11-20 21:30:00 +0800
 categories: [Leetcode]
-tags:       [String]
+tags:       [String, Counting]
 permalink:  /problems/minimum-number-of-frogs-croaking/
 ---
 
@@ -65,6 +65,7 @@ permalink:  /problems/minimum-number-of-frogs-croaking/
 
 ### 相关话题
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[计数](https://github.com/openset/leetcode/tree/master/tag/counting/README.md)]
 
 ---
 

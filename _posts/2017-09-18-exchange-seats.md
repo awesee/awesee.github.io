@@ -3,7 +3,7 @@ layout:     single
 title:      "换座位"
 date:       2017-09-18 21:30:00 +0800
 categories: [Leetcode]
-tags:       []
+tags:       [Database]
 permalink:  /problems/exchange-seats/
 ---
 
@@ -53,6 +53,9 @@ permalink:  /problems/exchange-seats/
 <p>如果学生人数是奇数，则不需要改变最后一个同学的座位。</p>
 
 {% endraw %}
+
+### 相关话题
+  [[数据库](https://github.com/openset/leetcode/tree/master/tag/database/README.md)]
 
 ---
 

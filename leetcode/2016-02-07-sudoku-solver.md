@@ -3,7 +3,7 @@ layout:     single
 title:      "解数独"
 date:       2016-02-07 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Hash Table, Backtracking]
+tags:       [Array, Backtracking, Matrix]
 permalink:  /problems/sudoku-solver/
 ---
 
@@ -55,8 +55,9 @@ permalink:  /problems/sudoku-solver/
 {% endraw %}
 
 ### 相关话题
-  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[回溯](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[矩阵](https://github.com/openset/leetcode/tree/master/tag/matrix/README.md)]
 
 ### 相似题目
   1. [有效的数独](/problems/valid-sudoku) (Medium)

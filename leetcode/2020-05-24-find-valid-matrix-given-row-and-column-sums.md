@@ -3,7 +3,7 @@ layout:     single
 title:      "给定行和列的和求可行矩阵"
 date:       2020-05-24 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Greedy]
+tags:       [Greedy, Array, Matrix]
 permalink:  /problems/find-valid-matrix-given-row-and-column-sums/
 ---
 
@@ -80,7 +80,9 @@ permalink:  /problems/find-valid-matrix-given-row-and-column-sums/
 {% endraw %}
 
 ### 相关话题
-  [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[矩阵](https://github.com/openset/leetcode/tree/master/tag/matrix/README.md)]
 
 ---
 

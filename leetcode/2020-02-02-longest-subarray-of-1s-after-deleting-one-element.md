@@ -3,7 +3,7 @@ layout:     single
 title:      "删掉一个元素以后全为 1 的最长子数组"
 date:       2020-02-02 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Array]
+tags:       [Math, Dynamic Programming, Sliding Window]
 permalink:  /problems/longest-subarray-of-1s-after-deleting-one-element/
 ---
 
@@ -61,7 +61,9 @@ permalink:  /problems/longest-subarray-of-1s-after-deleting-one-element/
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[滑动窗口](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
 
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "递增子序列"
 date:       2017-05-06 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Depth-first Search]
+tags:       [Bit Manipulation, Array, Hash Table, Backtracking]
 permalink:  /problems/increasing-subsequences/
 ---
 
@@ -34,7 +34,10 @@ permalink:  /problems/increasing-subsequences/
 {% endraw %}
 
 ### 相关话题
-  [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[回溯](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
 
 ### 相似题目
   1. [最长数对链](/problems/maximum-length-of-pair-chain) (Medium)

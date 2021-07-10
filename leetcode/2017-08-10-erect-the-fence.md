@@ -3,7 +3,7 @@ layout:     single
 title:      "安装栅栏"
 date:       2017-08-10 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Geometry]
+tags:       [Geometry, Array, Math]
 permalink:  /problems/erect-the-fence/
 ---
 
@@ -48,6 +48,8 @@ permalink:  /problems/erect-the-fence/
 
 ### 相关话题
   [[几何](https://github.com/openset/leetcode/tree/master/tag/geometry/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
 
 ---
 

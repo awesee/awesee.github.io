@@ -3,7 +3,7 @@ layout:     single
 title:      "转置文件"
 date:       2016-07-13 21:30:00 +0800
 categories: [Leetcode]
-tags:       []
+tags:       [Shell]
 permalink:  /problems/transpose-file/
 ---
 
@@ -35,6 +35,9 @@ age 21 30
 </pre>
 
 {% endraw %}
+
+### 相关话题
+  [[Shell](https://github.com/openset/leetcode/tree/master/tag/shell/README.md)]
 
 ---
 

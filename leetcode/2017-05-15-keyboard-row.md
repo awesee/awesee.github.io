@@ -3,7 +3,7 @@ layout:     single
 title:      "键盘行"
 date:       2017-05-15 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Hash Table]
+tags:       [Array, Hash Table, String]
 permalink:  /problems/keyboard-row/
 ---
 
@@ -59,7 +59,9 @@ permalink:  /problems/keyboard-row/
 {% endraw %}
 
 ### 相关话题
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ---
 

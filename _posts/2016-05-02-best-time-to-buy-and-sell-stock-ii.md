@@ -3,7 +3,7 @@ layout:     single
 title:      "买卖股票的最佳时机 II"
 date:       2016-05-02 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Greedy, Array]
+tags:       [Greedy, Array, Dynamic Programming]
 permalink:  /problems/best-time-to-buy-and-sell-stock-ii/
 ---
 
@@ -56,8 +56,9 @@ permalink:  /problems/best-time-to-buy-and-sell-stock-ii/
 {% endraw %}
 
 ### 相关话题
-  [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### 相似题目
   1. [买卖股票的最佳时机](/problems/best-time-to-buy-and-sell-stock) (Easy)

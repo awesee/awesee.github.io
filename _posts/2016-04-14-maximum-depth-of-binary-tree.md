@@ -3,7 +3,7 @@ layout:     single
 title:      "二叉树的最大深度"
 date:       2016-04-14 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Tree, Depth-first Search, Recursion]
+tags:       [Tree, Depth-First Search, Breadth-First Search, Binary Tree]
 permalink:  /problems/maximum-depth-of-binary-tree/
 ---
 
@@ -33,7 +33,8 @@ permalink:  /problems/maximum-depth-of-binary-tree/
 ### 相关话题
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
   [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[递归](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]
+  [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
+  [[二叉树](https://github.com/openset/leetcode/tree/master/tag/binary-tree/README.md)]
 
 ### 相似题目
   1. [平衡二叉树](/problems/balanced-binary-tree) (Easy)

@@ -3,7 +3,7 @@ layout:     single
 title:      "丢失的数字"
 date:       2016-09-25 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Bit Manipulation, Array, Math]
+tags:       [Bit Manipulation, Array, Hash Table, Math, Sorting]
 permalink:  /problems/missing-number/
 ---
 
@@ -67,7 +67,9 @@ permalink:  /problems/missing-number/
 ### 相关话题
   [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
 
 ### 相似题目
   1. [缺失的第一个正数](/problems/first-missing-positive) (Hard)

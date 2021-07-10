@@ -3,7 +3,7 @@ layout:     single
 title:      "修改后的最大二进制字符串"
 date:       2020-08-29 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Greedy]
+tags:       [Greedy, String]
 permalink:  /problems/maximum-binary-string-after-change/
 ---
 
@@ -63,7 +63,8 @@ permalink:  /problems/maximum-binary-string-after-change/
 {% endraw %}
 
 ### 相关话题
-  [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "构成特定和需要添加的最少元素"
 date:       2020-11-20 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Greedy]
+tags:       [Greedy, Array]
 permalink:  /problems/minimum-elements-to-add-to-form-a-given-sum/
 ---
 
@@ -48,7 +48,8 @@ permalink:  /problems/minimum-elements-to-add-to-form-a-given-sum/
 {% endraw %}
 
 ### 相关话题
-  [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 
 ---
 

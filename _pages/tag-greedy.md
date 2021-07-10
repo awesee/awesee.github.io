@@ -1,5 +1,5 @@
 ---
-title: "贪心算法"
+title: "贪心"
 layout: tag
 permalink: /tags/greedy/
 taxonomy: Greedy

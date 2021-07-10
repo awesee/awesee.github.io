@@ -3,7 +3,7 @@ layout:     single
 title:      "删除某些元素后的数组均值"
 date:       2020-06-07 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Array]
+tags:       [Array, Sorting]
 permalink:  /problems/mean-of-array-after-removing-some-elements/
 ---
 
@@ -67,6 +67,7 @@ permalink:  /problems/mean-of-array-after-removing-some-elements/
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
 
 ---
 

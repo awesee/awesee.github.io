@@ -3,7 +3,7 @@ layout:     single
 title:      "将整数按权重排序"
 date:       2019-10-19 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Sort, Graph]
+tags:       [Memoization, Dynamic Programming, Sorting]
 permalink:  /problems/sort-integers-by-the-power-value/
 ---
 
@@ -79,8 +79,9 @@ permalink:  /problems/sort-integers-by-the-power-value/
 {% endraw %}
 
 ### 相关话题
-  [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
-  [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
+  [[记忆化搜索](https://github.com/openset/leetcode/tree/master/tag/memoization/README.md)]
+  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
 
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "概率最大的路径"
 date:       2020-02-23 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Graph]
+tags:       [Graph, Shortest Path, Heap (Priority Queue)]
 permalink:  /problems/path-with-maximum-probability/
 ---
 
@@ -64,6 +64,8 @@ permalink:  /problems/path-with-maximum-probability/
 
 ### 相关话题
   [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
+  [[最短路](https://github.com/openset/leetcode/tree/master/tag/shortest-path/README.md)]
+  [[堆（优先队列）](https://github.com/openset/leetcode/tree/master/tag/heap-priority-queue/README.md)]
 
 ---
 

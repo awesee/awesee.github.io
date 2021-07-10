@@ -3,7 +3,7 @@ layout:     single
 title:      "可被 K 整除的最小整数"
 date:       2018-10-12 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Math]
+tags:       [Hash Table, Math]
 permalink:  /problems/smallest-integer-divisible-by-k/
 ---
 
@@ -46,6 +46,7 @@ permalink:  /problems/smallest-integer-divisible-by-k/
 {% endraw %}
 
 ### 相关话题
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
 
 ---

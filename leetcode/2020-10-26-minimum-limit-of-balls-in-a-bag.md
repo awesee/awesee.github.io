@@ -3,7 +3,7 @@ layout:     single
 title:      "袋子里最少数目的球"
 date:       2020-10-26 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Heap, Binary Search]
+tags:       [Array, Binary Search]
 permalink:  /problems/minimum-limit-of-balls-in-a-bag/
 ---
 
@@ -72,7 +72,7 @@ permalink:  /problems/minimum-limit-of-balls-in-a-bag/
 {% endraw %}
 
 ### 相关话题
-  [[堆](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
 
 ---

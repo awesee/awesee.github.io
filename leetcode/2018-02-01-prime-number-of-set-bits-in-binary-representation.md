@@ -3,7 +3,7 @@ layout:     single
 title:      "二进制表示中质数个计算置位"
 date:       2018-02-01 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Bit Manipulation]
+tags:       [Bit Manipulation, Math]
 permalink:  /problems/prime-number-of-set-bits-in-binary-representation/
 ---
 
@@ -52,6 +52,7 @@ permalink:  /problems/prime-number-of-set-bits-in-binary-representation/
 
 ### 相关话题
   [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
+  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
 
 ### 相似题目
   1. [位1的个数](/problems/number-of-1-bits) (Easy)

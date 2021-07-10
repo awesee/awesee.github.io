@@ -3,7 +3,7 @@ layout:     single
 title:      "最高频元素的频数"
 date:       2021-01-12 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Greedy]
+tags:       [Array, Binary Search, Prefix Sum, Sliding Window]
 permalink:  /problems/frequency-of-the-most-frequent-element/
 ---
 
@@ -58,7 +58,10 @@ permalink:  /problems/frequency-of-the-most-frequent-element/
 {% endraw %}
 
 ### 相关话题
-  [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[前缀和](https://github.com/openset/leetcode/tree/master/tag/prefix-sum/README.md)]
+  [[滑动窗口](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
 
 ---
 

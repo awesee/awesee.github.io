@@ -3,7 +3,7 @@ layout:     single
 title:      "计算力扣银行的钱"
 date:       2020-09-12 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Greedy, Math]
+tags:       [Math]
 permalink:  /problems/calculate-money-in-leetcode-bank/
 ---
 
@@ -51,7 +51,6 @@ permalink:  /problems/calculate-money-in-leetcode-bank/
 {% endraw %}
 
 ### 相关话题
-  [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
 
 ---

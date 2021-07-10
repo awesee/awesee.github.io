@@ -3,7 +3,7 @@ layout:     single
 title:      "连通网络的操作次数"
 date:       2019-08-12 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Depth-first Search, Breadth-first Search, Union Find]
+tags:       [Depth-First Search, Breadth-First Search, Union Find, Graph]
 permalink:  /problems/number-of-operations-to-make-network-connected/
 ---
 
@@ -69,6 +69,7 @@ permalink:  /problems/number-of-operations-to-make-network-connected/
   [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
   [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
   [[并查集](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)]
+  [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
 
 ---
 

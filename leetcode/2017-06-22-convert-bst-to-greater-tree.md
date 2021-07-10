@@ -3,7 +3,7 @@ layout:     single
 title:      "把二叉搜索树转换为累加树"
 date:       2017-06-22 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Tree, Depth-first Search, Binary Search Tree, Recursion]
+tags:       [Tree, Depth-First Search, Binary Search Tree, Binary Tree]
 permalink:  /problems/convert-bst-to-greater-tree/
 ---
 
@@ -68,7 +68,7 @@ permalink:  /problems/convert-bst-to-greater-tree/
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
   [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
   [[二叉搜索树](https://github.com/openset/leetcode/tree/master/tag/binary-search-tree/README.md)]
-  [[递归](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]
+  [[二叉树](https://github.com/openset/leetcode/tree/master/tag/binary-tree/README.md)]
 
 ---
 

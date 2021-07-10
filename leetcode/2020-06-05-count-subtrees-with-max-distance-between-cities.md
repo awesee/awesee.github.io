@@ -3,7 +3,7 @@ layout:     single
 title:      "统计子树中城市之间最大距离"
 date:       2020-06-05 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Backtracking]
+tags:       [Bit Manipulation, Tree, Dynamic Programming, Bitmask, Enumeration]
 permalink:  /problems/count-subtrees-with-max-distance-between-cities/
 ---
 
@@ -65,7 +65,11 @@ permalink:  /problems/count-subtrees-with-max-distance-between-cities/
 {% endraw %}
 
 ### 相关话题
-  [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
+  [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[状态压缩](https://github.com/openset/leetcode/tree/master/tag/bitmask/README.md)]
+  [[枚举](https://github.com/openset/leetcode/tree/master/tag/enumeration/README.md)]
 
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "两球之间的磁力"
 date:       2020-04-01 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Array, Binary Search]
+tags:       [Array, Binary Search, Sorting]
 permalink:  /problems/magnetic-force-between-two-balls/
 ---
 
@@ -52,6 +52,7 @@ permalink:  /problems/magnetic-force-between-two-balls/
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
 
 ---
 

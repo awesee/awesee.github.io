@@ -3,7 +3,7 @@ layout:     single
 title:      "删除最短的子数组使剩余数组有序"
 date:       2020-04-23 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Array, Binary Search]
+tags:       [Stack, Array, Two Pointers, Binary Search, Monotonic Stack]
 permalink:  /problems/shortest-subarray-to-be-removed-to-make-array-sorted/
 ---
 
@@ -62,8 +62,11 @@ permalink:  /problems/shortest-subarray-to-be-removed-to-make-array-sorted/
 {% endraw %}
 
 ### 相关话题
+  [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
   [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[单调栈](https://github.com/openset/leetcode/tree/master/tag/monotonic-stack/README.md)]
 
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "最大交换"
 date:       2017-11-01 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Array, Math]
+tags:       [Greedy, Math]
 permalink:  /problems/maximum-swap/
 ---
 
@@ -38,7 +38,7 @@ permalink:  /problems/maximum-swap/
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
 
 ### 相似题目

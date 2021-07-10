@@ -3,7 +3,7 @@ layout:     single
 title:      "最小基因变化"
 date:       2017-03-09 21:30:00 +0800
 categories: [Leetcode]
-tags:       []
+tags:       [Breadth-First Search, Hash Table, String]
 permalink:  /problems/minimum-genetic-mutation/
 ---
 
@@ -62,6 +62,11 @@ bank: ["AAAACCCC", "AAACCCCC", "AACCCCCC"]
 </pre>
 
 {% endraw %}
+
+### 相关话题
+  [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ### 相似题目
   1. [单词接龙](/problems/word-ladder) (Hard)

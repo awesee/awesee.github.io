@@ -3,7 +3,7 @@ layout:     single
 title:      "非重叠矩形中的随机点"
 date:       2017-05-12 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Binary Search, Random]
+tags:       [Reservoir Sampling, Math, Binary Search, Ordered Set, Prefix Sum, Randomized]
 permalink:  /problems/random-point-in-non-overlapping-rectangles/
 ---
 
@@ -57,8 +57,12 @@ permalink:  /problems/random-point-in-non-overlapping-rectangles/
 {% endraw %}
 
 ### 相关话题
+  [[水塘抽样](https://github.com/openset/leetcode/tree/master/tag/reservoir-sampling/README.md)]
+  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
   [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
-  [[Random](https://github.com/openset/leetcode/tree/master/tag/random/README.md)]
+  [[有序集合](https://github.com/openset/leetcode/tree/master/tag/ordered-set/README.md)]
+  [[前缀和](https://github.com/openset/leetcode/tree/master/tag/prefix-sum/README.md)]
+  [[随机化](https://github.com/openset/leetcode/tree/master/tag/randomized/README.md)]
 
 ### 相似题目
   1. [按权重随机选择](/problems/random-pick-with-weight) (Medium)

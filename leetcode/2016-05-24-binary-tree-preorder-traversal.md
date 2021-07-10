@@ -3,11 +3,11 @@ layout:     single
 title:      "二叉树的前序遍历"
 date:       2016-05-24 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Stack, Tree]
+tags:       [Stack, Tree, Depth-First Search, Binary Tree]
 permalink:  /problems/binary-tree-preorder-traversal/
 ---
 
-## 144. 二叉树的前序遍历 (Medium)
+## 144. 二叉树的前序遍历 (Easy)
 
 {% raw %}
 
@@ -68,6 +68,8 @@ permalink:  /problems/binary-tree-preorder-traversal/
 ### 相关话题
   [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[二叉树](https://github.com/openset/leetcode/tree/master/tag/binary-tree/README.md)]
 
 ### 相似题目
   1. [二叉树的中序遍历](/problems/binary-tree-inorder-traversal) (Easy)

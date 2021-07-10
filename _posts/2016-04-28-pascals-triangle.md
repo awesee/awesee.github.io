@@ -3,7 +3,7 @@ layout:     single
 title:      "杨辉三角"
 date:       2016-04-28 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Array]
+tags:       [Array, Dynamic Programming]
 permalink:  /problems/pascals-triangle/
 ---
 
@@ -33,6 +33,7 @@ permalink:  /problems/pascals-triangle/
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### 相似题目
   1. [杨辉三角 II](/problems/pascals-triangle-ii) (Easy)

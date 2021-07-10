@@ -3,7 +3,7 @@ layout:     single
 title:      "重复至少 K 次且长度为 M 的模式"
 date:       2020-04-15 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Array]
+tags:       [Array, Enumeration]
 permalink:  /problems/detect-pattern-of-length-m-repeated-k-or-more-times/
 ---
 
@@ -69,6 +69,7 @@ permalink:  /problems/detect-pattern-of-length-m-repeated-k-or-more-times/
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[枚举](https://github.com/openset/leetcode/tree/master/tag/enumeration/README.md)]
 
 ---
 

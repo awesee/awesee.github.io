@@ -3,7 +3,7 @@ layout:     single
 title:      "子序列宽度之和"
 date:       2018-06-10 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Array, Math]
+tags:       [Array, Math, Sorting]
 permalink:  /problems/sum-of-subsequence-widths/
 ---
 
@@ -45,6 +45,7 @@ permalink:  /problems/sum-of-subsequence-widths/
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
 
 ---
 

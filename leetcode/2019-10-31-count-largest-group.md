@@ -3,7 +3,7 @@ layout:     single
 title:      "统计最大组的数目"
 date:       2019-10-31 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Array]
+tags:       [Hash Table, Math]
 permalink:  /problems/count-largest-group/
 ---
 
@@ -55,7 +55,8 @@ permalink:  /problems/count-largest-group/
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
 
 ---
 

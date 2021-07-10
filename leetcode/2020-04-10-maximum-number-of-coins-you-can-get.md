@@ -3,7 +3,7 @@ layout:     single
 title:      "你可以获得的最大硬币数目"
 date:       2020-04-10 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Sort]
+tags:       [Greedy, Array, Math, Game Theory, Sorting]
 permalink:  /problems/maximum-number-of-coins-you-can-get/
 ---
 
@@ -62,7 +62,11 @@ permalink:  /problems/maximum-number-of-coins-you-can-get/
 {% endraw %}
 
 ### 相关话题
-  [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
+  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[博弈](https://github.com/openset/leetcode/tree/master/tag/game-theory/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
 
 ---
 

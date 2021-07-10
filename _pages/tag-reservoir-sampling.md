@@ -1,5 +1,5 @@
 ---
-title: "蓄水池抽样"
+title: "水塘抽样"
 layout: tag
 permalink: /tags/reservoir-sampling/
 taxonomy: Reservoir Sampling

@@ -3,7 +3,7 @@ layout:     single
 title:      "用栈实现队列"
 date:       2016-08-20 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Stack, Design]
+tags:       [Stack, Design, Queue]
 permalink:  /problems/implement-queue-using-stacks/
 ---
 
@@ -77,6 +77,7 @@ myQueue.empty(); // return false
 ### 相关话题
   [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
   [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
+  [[队列](https://github.com/openset/leetcode/tree/master/tag/queue/README.md)]
 
 ### 相似题目
   1. [用队列实现栈](/problems/implement-stack-using-queues) (Easy)

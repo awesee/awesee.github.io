@@ -3,7 +3,7 @@ layout:     single
 title:      "和为奇数的子数组数目"
 date:       2020-03-04 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Array, Math]
+tags:       [Array, Math, Dynamic Programming, Prefix Sum]
 permalink:  /problems/number-of-sub-arrays-with-odd-sum/
 ---
 
@@ -67,6 +67,8 @@ permalink:  /problems/number-of-sub-arrays-with-odd-sum/
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[前缀和](https://github.com/openset/leetcode/tree/master/tag/prefix-sum/README.md)]
 
 ---
 

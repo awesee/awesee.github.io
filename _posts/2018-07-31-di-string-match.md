@@ -3,7 +3,7 @@ layout:     single
 title:      "增减字符串匹配"
 date:       2018-07-31 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Math]
+tags:       [Greedy, Array, Math, Two Pointers, String]
 permalink:  /problems/di-string-match/
 ---
 
@@ -51,7 +51,11 @@ permalink:  /problems/di-string-match/
 {% endraw %}
 
 ### 相关话题
+  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ---
 

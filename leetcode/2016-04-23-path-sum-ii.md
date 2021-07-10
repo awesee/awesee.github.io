@@ -3,7 +3,7 @@ layout:     single
 title:      "路径总和 II"
 date:       2016-04-23 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Tree, Depth-first Search]
+tags:       [Tree, Depth-First Search, Backtracking, Binary Tree]
 permalink:  /problems/path-sum-ii/
 ---
 
@@ -57,6 +57,8 @@ permalink:  /problems/path-sum-ii/
 ### 相关话题
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
   [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[回溯](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[二叉树](https://github.com/openset/leetcode/tree/master/tag/binary-tree/README.md)]
 
 ### 相似题目
   1. [路径总和](/problems/path-sum) (Easy)

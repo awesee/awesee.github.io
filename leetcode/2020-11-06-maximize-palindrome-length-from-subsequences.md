@@ -3,7 +3,7 @@ layout:     single
 title:      "由子序列构造的最长回文串的长度"
 date:       2020-11-06 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Dynamic Programming]
+tags:       [String, Dynamic Programming]
 permalink:  /problems/maximize-palindrome-length-from-subsequences/
 ---
 
@@ -57,6 +57,7 @@ permalink:  /problems/maximize-palindrome-length-from-subsequences/
 {% endraw %}
 
 ### 相关话题
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ---

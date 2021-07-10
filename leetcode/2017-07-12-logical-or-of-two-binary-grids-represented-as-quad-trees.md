@@ -3,7 +3,7 @@ layout:     single
 title:      "四叉树交集"
 date:       2017-07-12 21:30:00 +0800
 categories: [Leetcode]
-tags:       []
+tags:       [Tree, Divide and Conquer]
 permalink:  /problems/logical-or-of-two-binary-grids-represented-as-quad-trees/
 ---
 
@@ -116,6 +116,10 @@ class Node {
 </ul>
 
 {% endraw %}
+
+### 相关话题
+  [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[分治](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]
 
 ---
 

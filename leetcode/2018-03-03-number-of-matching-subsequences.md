@@ -3,7 +3,7 @@ layout:     single
 title:      "匹配子序列的单词数"
 date:       2018-03-03 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Array]
+tags:       [Trie, Hash Table, String, Sorting]
 permalink:  /problems/number-of-matching-subsequences/
 ---
 
@@ -34,7 +34,10 @@ words = [&quot;a&quot;, &quot;bb&quot;, &quot;acd&quot;, &quot;ace&quot;]
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[字典树](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)]
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
 
 ### 相似题目
   1. [判断子序列](/problems/is-subsequence) (Easy)

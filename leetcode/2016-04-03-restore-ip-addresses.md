@@ -67,10 +67,10 @@ permalink:  /problems/restore-ip-addresses/
 
 ### 相关话题
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
-  [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[回溯](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
 
 ### 相似题目
-  1. [IP 到 CIDR](/problems/ip-to-cidr) (Easy)
+  1. [IP 到 CIDR](/problems/ip-to-cidr) (Medium)
 
 ---
 

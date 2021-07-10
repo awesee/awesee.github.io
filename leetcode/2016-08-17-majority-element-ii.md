@@ -3,7 +3,7 @@ layout:     single
 title:      "求众数 II"
 date:       2016-08-17 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Array]
+tags:       [Array, Hash Table, Counting, Sorting]
 permalink:  /problems/majority-element-ii/
 ---
 
@@ -49,6 +49,9 @@ permalink:  /problems/majority-element-ii/
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[计数](https://github.com/openset/leetcode/tree/master/tag/counting/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
 
 ### 相似题目
   1. [多数元素](/problems/majority-element) (Easy)

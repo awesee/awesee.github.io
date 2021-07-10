@@ -3,7 +3,7 @@ layout:     single
 title:      "从链表中删去总和值为零的连续节点"
 date:       2019-03-17 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Linked List]
+tags:       [Hash Table, Linked List]
 permalink:  /problems/remove-zero-sum-consecutive-nodes-from-linked-list/
 ---
 
@@ -52,6 +52,7 @@ permalink:  /problems/remove-zero-sum-consecutive-nodes-from-linked-list/
 {% endraw %}
 
 ### 相关话题
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
   [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
 
 ---

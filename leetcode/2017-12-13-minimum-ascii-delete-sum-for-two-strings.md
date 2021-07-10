@@ -3,7 +3,7 @@ layout:     single
 title:      "两个字符串的最小ASCII删除和"
 date:       2017-12-13 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Dynamic Programming]
+tags:       [String, Dynamic Programming]
 permalink:  /problems/minimum-ascii-delete-sum-for-two-strings/
 ---
 
@@ -44,6 +44,7 @@ permalink:  /problems/minimum-ascii-delete-sum-for-two-strings/
 {% endraw %}
 
 ### 相关话题
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### 相似题目

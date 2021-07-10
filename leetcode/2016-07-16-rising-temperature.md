@@ -3,7 +3,7 @@ layout:     single
 title:      "上升的温度"
 date:       2016-07-16 21:30:00 +0800
 categories: [Leetcode]
-tags:       []
+tags:       [Database]
 permalink:  /problems/rising-temperature/
 ---
 
@@ -59,6 +59,9 @@ Result table:
 </div>
 
 {% endraw %}
+
+### 相关话题
+  [[数据库](https://github.com/openset/leetcode/tree/master/tag/database/README.md)]
 
 ---
 

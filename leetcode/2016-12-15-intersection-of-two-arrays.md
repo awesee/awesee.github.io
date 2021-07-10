@@ -3,7 +3,7 @@ layout:     single
 title:      "两个数组的交集"
 date:       2016-12-15 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Sort, Hash Table, Two Pointers, Binary Search]
+tags:       [Array, Hash Table, Two Pointers, Binary Search, Sorting]
 permalink:  /problems/intersection-of-two-arrays/
 ---
 
@@ -38,10 +38,11 @@ permalink:  /problems/intersection-of-two-arrays/
 {% endraw %}
 
 ### 相关话题
-  [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
   [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
   [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
 
 ### 相似题目
   1. [两个数组的交集 II](/problems/intersection-of-two-arrays-ii) (Easy)

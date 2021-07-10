@@ -3,7 +3,7 @@ layout:     single
 title:      "优美的排列"
 date:       2017-06-10 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Depth-first Search, Backtracking]
+tags:       [Bit Manipulation, Array, Dynamic Programming, Backtracking, Bitmask]
 permalink:  /problems/beautiful-arrangement/
 ---
 
@@ -45,8 +45,11 @@ permalink:  /problems/beautiful-arrangement/
 {% endraw %}
 
 ### 相关话题
-  [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[回溯](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[状态压缩](https://github.com/openset/leetcode/tree/master/tag/bitmask/README.md)]
 
 ### 相似题目
   1. [优美的排列 II](/problems/beautiful-arrangement-ii) (Medium)

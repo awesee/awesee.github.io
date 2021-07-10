@@ -3,7 +3,7 @@ layout:     single
 title:      "基本计算器"
 date:       2016-08-12 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Stack, Math]
+tags:       [Stack, Recursion, Math, String]
 permalink:  /problems/basic-calculator/
 ---
 
@@ -50,7 +50,9 @@ permalink:  /problems/basic-calculator/
 
 ### 相关话题
   [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
+  [[递归](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ### 相似题目
   1. [逆波兰表达式求值](/problems/evaluate-reverse-polish-notation) (Medium)

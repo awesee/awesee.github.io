@@ -3,7 +3,7 @@ layout:     single
 title:      "有序队列"
 date:       2018-06-18 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Math, String]
+tags:       [Math, String, Sorting]
 permalink:  /problems/orderly-queue/
 ---
 
@@ -51,6 +51,7 @@ permalink:  /problems/orderly-queue/
 ### 相关话题
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
 
 ---
 

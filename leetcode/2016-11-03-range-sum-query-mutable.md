@@ -3,7 +3,7 @@ layout:     single
 title:      "区域和检索 - 数组可修改"
 date:       2016-11-03 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Binary Indexed Tree, Segment Tree]
+tags:       [Design, Binary Indexed Tree, Segment Tree, Array]
 permalink:  /problems/range-sum-query-mutable/
 ---
 
@@ -59,8 +59,10 @@ numArray.sumRange(0, 2); // 返回 8 ，sum([1,2,5]) = 8
 {% endraw %}
 
 ### 相关话题
+  [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
   [[树状数组](https://github.com/openset/leetcode/tree/master/tag/binary-indexed-tree/README.md)]
   [[线段树](https://github.com/openset/leetcode/tree/master/tag/segment-tree/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 
 ### 相似题目
   1. [区域和检索 - 数组不可变](/problems/range-sum-query-immutable) (Easy)

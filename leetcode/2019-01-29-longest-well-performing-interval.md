@@ -3,7 +3,7 @@ layout:     single
 title:      "表现良好的最长时间段"
 date:       2019-01-29 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Stack]
+tags:       [Stack, Array, Hash Table, Prefix Sum, Monotonic Stack]
 permalink:  /problems/longest-well-performing-interval/
 ---
 
@@ -40,6 +40,10 @@ permalink:  /problems/longest-well-performing-interval/
 
 ### 相关话题
   [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[前缀和](https://github.com/openset/leetcode/tree/master/tag/prefix-sum/README.md)]
+  [[单调栈](https://github.com/openset/leetcode/tree/master/tag/monotonic-stack/README.md)]
 
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "找出最长的超赞子字符串"
 date:       2020-03-22 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Bit Manipulation, String]
+tags:       [Bit Manipulation, Hash Table, String]
 permalink:  /problems/find-longest-awesome-substring/
 ---
 
@@ -61,6 +61,7 @@ permalink:  /problems/find-longest-awesome-substring/
 
 ### 相关话题
   [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ---

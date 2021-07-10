@@ -3,7 +3,7 @@ layout:     single
 title:      "括号生成"
 date:       2016-01-23 21:30:00 +0800
 categories: [Leetcode]
-tags:       [String, Backtracking]
+tags:       [String, Dynamic Programming, Backtracking]
 permalink:  /problems/generate-parentheses/
 ---
 
@@ -41,7 +41,8 @@ permalink:  /problems/generate-parentheses/
 
 ### 相关话题
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
-  [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[回溯](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
 
 ### 相似题目
   1. [电话号码的字母组合](/problems/letter-combinations-of-a-phone-number) (Medium)

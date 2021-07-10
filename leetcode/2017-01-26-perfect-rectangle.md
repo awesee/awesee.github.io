@@ -3,7 +3,7 @@ layout:     single
 title:      "完美矩形"
 date:       2017-01-26 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Line Sweep]
+tags:       [Array, Line Sweep]
 permalink:  /problems/perfect-rectangle/
 ---
 
@@ -81,7 +81,8 @@ permalink:  /problems/perfect-rectangle/
 {% endraw %}
 
 ### 相关话题
-  [[Line Sweep](https://github.com/openset/leetcode/tree/master/tag/line-sweep/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[扫描线](https://github.com/openset/leetcode/tree/master/tag/line-sweep/README.md)]
 
 ---
 

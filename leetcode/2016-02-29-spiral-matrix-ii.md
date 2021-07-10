@@ -3,7 +3,7 @@ layout:     single
 title:      "螺旋矩阵 II"
 date:       2016-02-29 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Array]
+tags:       [Array, Matrix, Simulation]
 permalink:  /problems/spiral-matrix-ii/
 ---
 
@@ -41,6 +41,8 @@ permalink:  /problems/spiral-matrix-ii/
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[矩阵](https://github.com/openset/leetcode/tree/master/tag/matrix/README.md)]
+  [[模拟](https://github.com/openset/leetcode/tree/master/tag/simulation/README.md)]
 
 ### 相似题目
   1. [螺旋矩阵](/problems/spiral-matrix) (Medium)

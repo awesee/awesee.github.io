@@ -3,7 +3,7 @@ layout:     single
 title:      "通过最少操作次数使数组的和相等"
 date:       2020-11-10 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Greedy]
+tags:       [Greedy, Array, Hash Table, Counting]
 permalink:  /problems/equal-sum-arrays-with-minimum-number-of-operations/
 ---
 
@@ -58,7 +58,10 @@ permalink:  /problems/equal-sum-arrays-with-minimum-number-of-operations/
 {% endraw %}
 
 ### 相关话题
-  [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[计数](https://github.com/openset/leetcode/tree/master/tag/counting/README.md)]
 
 ---
 

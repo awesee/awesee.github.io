@@ -3,7 +3,7 @@ layout:     single
 title:      "相对名次"
 date:       2017-05-21 21:30:00 +0800
 categories: [Leetcode]
-tags:       []
+tags:       [Array, Sorting, Heap (Priority Queue)]
 permalink:  /problems/relative-ranks/
 ---
 
@@ -31,6 +31,11 @@ permalink:  /problems/relative-ranks/
 </ol>
 
 {% endraw %}
+
+### 相关话题
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
+  [[堆（优先队列）](https://github.com/openset/leetcode/tree/master/tag/heap-priority-queue/README.md)]
 
 ---
 

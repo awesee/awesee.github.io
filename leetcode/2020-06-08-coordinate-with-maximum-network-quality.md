@@ -3,7 +3,7 @@ layout:     single
 title:      "网络信号最好的坐标"
 date:       2020-06-08 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Greedy]
+tags:       [Array, Enumeration]
 permalink:  /problems/coordinate-with-maximum-network-quality/
 ---
 
@@ -76,7 +76,8 @@ permalink:  /problems/coordinate-with-maximum-network-quality/
 {% endraw %}
 
 ### 相关话题
-  [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[枚举](https://github.com/openset/leetcode/tree/master/tag/enumeration/README.md)]
 
 ---
 

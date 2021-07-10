@@ -3,7 +3,7 @@ layout:     single
 title:      "避免重复字母的最小删除成本"
 date:       2020-04-27 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Greedy]
+tags:       [Greedy, Array, String, Dynamic Programming]
 permalink:  /problems/minimum-deletion-cost-to-avoid-repeating-letters/
 ---
 
@@ -57,7 +57,10 @@ permalink:  /problems/minimum-deletion-cost-to-avoid-repeating-letters/
 {% endraw %}
 
 ### 相关话题
-  [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ---
 

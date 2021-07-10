@@ -3,7 +3,7 @@ layout:     single
 title:      "与数组中元素的最大异或值"
 date:       2020-09-03 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Bit Manipulation, Trie]
+tags:       [Bit Manipulation, Trie, Array]
 permalink:  /problems/maximum-xor-with-an-element-from-array/
 ---
 
@@ -50,6 +50,7 @@ permalink:  /problems/maximum-xor-with-an-element-from-array/
 ### 相关话题
   [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
   [[字典树](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 
 ---
 

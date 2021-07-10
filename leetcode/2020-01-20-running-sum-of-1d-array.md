@@ -3,7 +3,7 @@ layout:     single
 title:      "一维数组的动态和"
 date:       2020-01-20 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Array]
+tags:       [Array, Prefix Sum]
 permalink:  /problems/running-sum-of-1d-array/
 ---
 
@@ -48,6 +48,7 @@ permalink:  /problems/running-sum-of-1d-array/
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[前缀和](https://github.com/openset/leetcode/tree/master/tag/prefix-sum/README.md)]
 
 ---
 

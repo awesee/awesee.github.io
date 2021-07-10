@@ -3,7 +3,7 @@ layout:     single
 title:      "找出给定方程的正整数解"
 date:       2019-05-22 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Math, Binary Search]
+tags:       [Math, Two Pointers, Binary Search, Interactive]
 permalink:  /problems/find-positive-integer-solution-for-a-given-equation/
 ---
 
@@ -78,7 +78,9 @@ x=5, y=1 -> f(5, 1) = 5 * 1 = 5</pre>
 
 ### 相关话题
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
   [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[交互](https://github.com/openset/leetcode/tree/master/tag/interactive/README.md)]
 
 ---
 

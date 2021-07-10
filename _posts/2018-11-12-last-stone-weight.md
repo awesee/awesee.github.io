@@ -3,7 +3,7 @@ layout:     single
 title:      "最后一块石头的重量"
 date:       2018-11-12 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Heap, Greedy]
+tags:       [Array, Heap (Priority Queue)]
 permalink:  /problems/last-stone-weight/
 ---
 
@@ -47,8 +47,8 @@ permalink:  /problems/last-stone-weight/
 {% endraw %}
 
 ### 相关话题
-  [[堆](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]
-  [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[堆（优先队列）](https://github.com/openset/leetcode/tree/master/tag/heap-priority-queue/README.md)]
 
 ---
 

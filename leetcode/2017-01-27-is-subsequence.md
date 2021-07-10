@@ -3,7 +3,7 @@ layout:     single
 title:      "判断子序列"
 date:       2017-01-27 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Greedy, Binary Search, Dynamic Programming]
+tags:       [Two Pointers, String, Dynamic Programming]
 permalink:  /problems/is-subsequence/
 ---
 
@@ -52,8 +52,8 @@ permalink:  /problems/is-subsequence/
 {% endraw %}
 
 ### 相关话题
-  [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
-  [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### 相似题目

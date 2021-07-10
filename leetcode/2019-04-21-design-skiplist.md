@@ -3,7 +3,7 @@ layout:     single
 title:      "设计跳表"
 date:       2019-04-21 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Design]
+tags:       [Design, Linked List]
 permalink:  /problems/design-skiplist/
 ---
 
@@ -60,6 +60,7 @@ skiplist.search(1);   // 返回 false，1 已被擦除
 
 ### 相关话题
   [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
+  [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
 
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "三等分"
 date:       2018-07-16 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Greedy, Math, Binary Search]
+tags:       [Array, Math]
 permalink:  /problems/three-equal-parts/
 ---
 
@@ -53,9 +53,8 @@ permalink:  /problems/three-equal-parts/
 {% endraw %}
 
 ### 相关话题
-  [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
 
 ---
 

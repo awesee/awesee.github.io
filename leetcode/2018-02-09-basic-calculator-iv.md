@@ -3,7 +3,7 @@ layout:     single
 title:      "基本计算器 IV"
 date:       2018-02-09 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Stack, Hash Table, String]
+tags:       [Stack, Recursion, Hash Table, Math, String]
 permalink:  /problems/basic-calculator-iv/
 ---
 
@@ -70,7 +70,9 @@ evalvars = [], evalints = []
 
 ### 相关话题
   [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
+  [[递归](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ### 相似题目

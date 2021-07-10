@@ -3,7 +3,7 @@ layout:     single
 title:      "猜字谜"
 date:       2019-03-24 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Bit Manipulation, Hash Table]
+tags:       [Bit Manipulation, Trie, Array, Hash Table, String]
 permalink:  /problems/number-of-valid-words-for-each-puzzle/
 ---
 
@@ -58,7 +58,10 @@ puzzles = ["aboveyz","abrodyz","abslute","absoryz","actresz","gaswxyz"]
 
 ### 相关话题
   [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
+  [[字典树](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ---
 

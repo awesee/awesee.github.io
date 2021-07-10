@@ -3,7 +3,7 @@ layout:     single
 title:      "统计好三元组"
 date:       2020-03-14 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Array]
+tags:       [Array, Enumeration]
 permalink:  /problems/count-good-triplets/
 ---
 
@@ -56,6 +56,7 @@ permalink:  /problems/count-good-triplets/
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[枚举](https://github.com/openset/leetcode/tree/master/tag/enumeration/README.md)]
 
 ---
 

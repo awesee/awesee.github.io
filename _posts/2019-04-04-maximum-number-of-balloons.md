@@ -3,7 +3,7 @@ layout:     single
 title:      "“气球” 的最大数量"
 date:       2019-04-04 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Hash Table, String]
+tags:       [Hash Table, String, Counting]
 permalink:  /problems/maximum-number-of-balloons/
 ---
 
@@ -53,6 +53,7 @@ permalink:  /problems/maximum-number-of-balloons/
 ### 相关话题
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[计数](https://github.com/openset/leetcode/tree/master/tag/counting/README.md)]
 
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "商品折扣后的最终价格"
 date:       2020-01-15 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Array]
+tags:       [Stack, Array, Monotonic Stack]
 permalink:  /problems/final-prices-with-a-special-discount-in-a-shop/
 ---
 
@@ -55,7 +55,9 @@ permalink:  /problems/final-prices-with-a-special-discount-in-a-shop/
 {% endraw %}
 
 ### 相关话题
+  [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[单调栈](https://github.com/openset/leetcode/tree/master/tag/monotonic-stack/README.md)]
 
 ---
 

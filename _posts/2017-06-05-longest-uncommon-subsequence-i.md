@@ -3,7 +3,7 @@ layout:     single
 title:      "最长特殊序列 Ⅰ"
 date:       2017-06-05 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Brainteaser, String]
+tags:       [String]
 permalink:  /problems/longest-uncommon-subsequence-i/
 ---
 
@@ -51,7 +51,6 @@ permalink:  /problems/longest-uncommon-subsequence-i/
 {% endraw %}
 
 ### 相关话题
-  [[脑筋急转弯](https://github.com/openset/leetcode/tree/master/tag/brainteaser/README.md)]
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ### 相似题目

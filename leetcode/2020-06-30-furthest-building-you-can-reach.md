@@ -3,7 +3,7 @@ layout:     single
 title:      "可以到达的最远建筑"
 date:       2020-06-30 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Heap, Binary Search]
+tags:       [Greedy, Array, Heap (Priority Queue)]
 permalink:  /problems/furthest-building-you-can-reach/
 ---
 
@@ -66,8 +66,9 @@ permalink:  /problems/furthest-building-you-can-reach/
 {% endraw %}
 
 ### 相关话题
-  [[堆](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]
-  [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[堆（优先队列）](https://github.com/openset/leetcode/tree/master/tag/heap-priority-queue/README.md)]
 
 ---
 

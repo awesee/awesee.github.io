@@ -3,7 +3,7 @@ layout:     single
 title:      "罗马数字转整数"
 date:       2016-01-14 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Math, String]
+tags:       [Hash Table, Math, String]
 permalink:  /problems/roman-to-integer/
 ---
 
@@ -86,6 +86,7 @@ M             1000</pre>
 {% endraw %}
 
 ### 相关话题
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 

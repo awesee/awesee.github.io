@@ -3,7 +3,7 @@ layout:     single
 title:      "序列中不同最大公约数的数目"
 date:       2020-12-24 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Math]
+tags:       [Array, Math, Counting, Number Theory]
 permalink:  /problems/number-of-different-subsequences-gcds/
 ---
 
@@ -57,7 +57,10 @@ permalink:  /problems/number-of-different-subsequences-gcds/
 {% endraw %}
 
 ### 相关话题
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[计数](https://github.com/openset/leetcode/tree/master/tag/counting/README.md)]
+  [[数论](https://github.com/openset/leetcode/tree/master/tag/number-theory/README.md)]
 
 ---
 

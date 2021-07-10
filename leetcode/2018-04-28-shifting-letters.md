@@ -3,7 +3,7 @@ layout:     single
 title:      "字母移位"
 date:       2018-04-28 21:30:00 +0800
 categories: [Leetcode]
-tags:       [String]
+tags:       [Array, String]
 permalink:  /problems/shifting-letters/
 ---
 
@@ -42,6 +42,7 @@ permalink:  /problems/shifting-letters/
 {% endraw %}
 
 ### 相关话题
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ---

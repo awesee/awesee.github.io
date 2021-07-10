@@ -3,7 +3,7 @@ layout:     single
 title:      "验证二叉树的前序序列化"
 date:       2016-11-27 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Stack]
+tags:       [Stack, Tree, String, Binary Tree]
 permalink:  /problems/verify-preorder-serialization-of-a-binary-tree/
 ---
 
@@ -50,6 +50,9 @@ permalink:  /problems/verify-preorder-serialization-of-a-binary-tree/
 
 ### 相关话题
   [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
+  [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[二叉树](https://github.com/openset/leetcode/tree/master/tag/binary-tree/README.md)]
 
 ---
 

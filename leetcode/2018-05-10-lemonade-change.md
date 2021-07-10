@@ -3,7 +3,7 @@ layout:     single
 title:      "柠檬水找零"
 date:       2018-05-10 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Greedy]
+tags:       [Greedy, Array]
 permalink:  /problems/lemonade-change/
 ---
 
@@ -67,7 +67,8 @@ permalink:  /problems/lemonade-change/
 {% endraw %}
 
 ### 相关话题
-  [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 
 ---
 

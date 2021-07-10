@@ -3,7 +3,7 @@ layout:     single
 title:      "所有排列中的最大和"
 date:       2020-05-08 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Greedy]
+tags:       [Greedy, Array, Prefix Sum, Sorting]
 permalink:  /problems/maximum-sum-obtained-of-any-permutation/
 ---
 
@@ -61,7 +61,10 @@ requests[1] -&gt; nums[0] + nums[1] = 3 + 5  = 8
 {% endraw %}
 
 ### 相关话题
-  [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[前缀和](https://github.com/openset/leetcode/tree/master/tag/prefix-sum/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
 
 ---
 

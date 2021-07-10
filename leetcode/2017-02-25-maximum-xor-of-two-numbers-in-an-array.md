@@ -3,7 +3,7 @@ layout:     single
 title:      "数组中两个数的最大异或值"
 date:       2017-02-25 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Bit Manipulation, Trie]
+tags:       [Bit Manipulation, Trie, Array, Hash Table]
 permalink:  /problems/maximum-xor-of-two-numbers-in-an-array/
 ---
 
@@ -70,6 +70,8 @@ permalink:  /problems/maximum-xor-of-two-numbers-in-an-array/
 ### 相关话题
   [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
   [[字典树](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
 
 ---
 

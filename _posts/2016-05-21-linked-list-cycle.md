@@ -3,7 +3,7 @@ layout:     single
 title:      "环形链表"
 date:       2016-05-21 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Linked List, Two Pointers]
+tags:       [Hash Table, Linked List, Two Pointers]
 permalink:  /problems/linked-list-cycle/
 ---
 
@@ -65,6 +65,7 @@ permalink:  /problems/linked-list-cycle/
 {% endraw %}
 
 ### 相关话题
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
   [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
   [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "将二叉搜索树变平衡"
 date:       2019-10-14 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Binary Search Tree]
+tags:       [Greedy, Tree, Depth-First Search, Binary Search Tree, Divide and Conquer, Binary Tree]
 permalink:  /problems/balance-a-binary-search-tree/
 ---
 
@@ -40,7 +40,12 @@ permalink:  /problems/balance-a-binary-search-tree/
 {% endraw %}
 
 ### 相关话题
+  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
   [[二叉搜索树](https://github.com/openset/leetcode/tree/master/tag/binary-search-tree/README.md)]
+  [[分治](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]
+  [[二叉树](https://github.com/openset/leetcode/tree/master/tag/binary-tree/README.md)]
 
 ---
 

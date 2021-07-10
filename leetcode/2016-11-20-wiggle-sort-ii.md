@@ -3,7 +3,7 @@ layout:     single
 title:      "摆动排序 II"
 date:       2016-11-20 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Sort]
+tags:       [Array, Divide and Conquer, Quickselect, Sorting]
 permalink:  /problems/wiggle-sort-ii/
 ---
 
@@ -49,7 +49,10 @@ permalink:  /problems/wiggle-sort-ii/
 {% endraw %}
 
 ### 相关话题
-  [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[分治](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]
+  [[快速选择](https://github.com/openset/leetcode/tree/master/tag/quickselect/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
 
 ### 相似题目
   1. [颜色分类](/problems/sort-colors) (Medium)

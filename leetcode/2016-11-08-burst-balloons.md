@@ -3,7 +3,7 @@ layout:     single
 title:      "戳气球"
 date:       2016-11-08 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Divide and Conquer, Dynamic Programming]
+tags:       [Array, Dynamic Programming]
 permalink:  /problems/burst-balloons/
 ---
 
@@ -47,7 +47,7 @@ coins =  3*1*5    +   3*5*8   +  1*3*8  + 1*8*1 = 167</pre>
 {% endraw %}
 
 ### 相关话题
-  [[分治算法](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### 相似题目

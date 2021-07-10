@@ -3,7 +3,7 @@ layout:     single
 title:      "统计词频"
 date:       2016-07-11 21:30:00 +0800
 categories: [Leetcode]
-tags:       []
+tags:       [Shell]
 permalink:  /problems/word-frequency/
 ---
 
@@ -45,6 +45,9 @@ day 1
 </ul>
 
 {% endraw %}
+
+### 相关话题
+  [[Shell](https://github.com/openset/leetcode/tree/master/tag/shell/README.md)]
 
 ### 相似题目
   1. [前 K 个高频元素](/problems/top-k-frequent-elements) (Medium)

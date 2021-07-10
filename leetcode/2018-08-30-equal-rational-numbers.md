@@ -3,7 +3,7 @@ layout:     single
 title:      "相等的有理数"
 date:       2018-08-30 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Math]
+tags:       [Math, String]
 permalink:  /problems/equal-rational-numbers/
 ---
 
@@ -66,6 +66,7 @@ permalink:  /problems/equal-rational-numbers/
 
 ### 相关话题
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "通知所有员工所需的时间"
 date:       2019-10-08 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Depth-first Search]
+tags:       [Tree, Depth-First Search, Breadth-First Search]
 permalink:  /problems/time-needed-to-inform-all-employees/
 ---
 
@@ -89,7 +89,9 @@ id = 1 的员工将在 6 分钟内通知 id = 0 的员工。
 {% endraw %}
 
 ### 相关话题
+  [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
   [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
 
 ---
 

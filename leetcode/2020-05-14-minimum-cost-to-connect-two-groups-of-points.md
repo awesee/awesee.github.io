@@ -3,7 +3,7 @@ layout:     single
 title:      "连通两组点的最小成本"
 date:       2020-05-14 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Graph, Dynamic Programming]
+tags:       [Bit Manipulation, Array, Dynamic Programming, Bitmask, Matrix]
 permalink:  /problems/minimum-cost-to-connect-two-groups-of-points/
 ---
 
@@ -66,8 +66,11 @@ permalink:  /problems/minimum-cost-to-connect-two-groups-of-points/
 {% endraw %}
 
 ### 相关话题
-  [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
+  [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[状态压缩](https://github.com/openset/leetcode/tree/master/tag/bitmask/README.md)]
+  [[矩阵](https://github.com/openset/leetcode/tree/master/tag/matrix/README.md)]
 
 ---
 

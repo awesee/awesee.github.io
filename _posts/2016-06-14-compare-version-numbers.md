@@ -3,7 +3,7 @@ layout:     single
 title:      "比较版本号"
 date:       2016-06-14 21:30:00 +0800
 categories: [Leetcode]
-tags:       [String]
+tags:       [Two Pointers, String]
 permalink:  /problems/compare-version-numbers/
 ---
 
@@ -79,6 +79,7 @@ permalink:  /problems/compare-version-numbers/
 {% endraw %}
 
 ### 相关话题
+  [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ---

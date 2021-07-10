@@ -3,7 +3,7 @@ layout:     single
 title:      "翻转矩阵后的得分"
 date:       2018-05-11 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Greedy]
+tags:       [Greedy, Bit Manipulation, Array, Matrix]
 permalink:  /problems/score-after-flipping-matrix/
 ---
 
@@ -45,7 +45,10 @@ permalink:  /problems/score-after-flipping-matrix/
 {% endraw %}
 
 ### 相关话题
-  [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[矩阵](https://github.com/openset/leetcode/tree/master/tag/matrix/README.md)]
 
 ---
 

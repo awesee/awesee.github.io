@@ -3,7 +3,7 @@ layout:     single
 title:      "分糖果 II"
 date:       2019-01-08 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Math]
+tags:       [Math, Simulation]
 permalink:  /problems/distribute-candies-to-people/
 ---
 
@@ -60,6 +60,7 @@ permalink:  /problems/distribute-candies-to-people/
 
 ### 相关话题
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[模拟](https://github.com/openset/leetcode/tree/master/tag/simulation/README.md)]
 
 ---
 

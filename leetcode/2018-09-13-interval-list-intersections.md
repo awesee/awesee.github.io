@@ -3,7 +3,7 @@ layout:     single
 title:      "区间列表的交集"
 date:       2018-09-13 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Two Pointers]
+tags:       [Array, Two Pointers]
 permalink:  /problems/interval-list-intersections/
 ---
 
@@ -65,6 +65,7 @@ permalink:  /problems/interval-list-intersections/
 {% endraw %}
 
 ### 相关话题
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
 
 ### 相似题目

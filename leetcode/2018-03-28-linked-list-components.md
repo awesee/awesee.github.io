@@ -3,7 +3,7 @@ layout:     single
 title:      "链表组件"
 date:       2018-03-28 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Linked List]
+tags:       [Hash Table, Linked List]
 permalink:  /problems/linked-list-components/
 ---
 
@@ -51,6 +51,7 @@ G = [0, 3, 1, 4]
 {% endraw %}
 
 ### 相关话题
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
   [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
 
 ---

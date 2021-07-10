@@ -3,7 +3,7 @@ layout:     single
 title:      "最短超级串"
 date:       2018-08-01 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Dynamic Programming]
+tags:       [Bit Manipulation, Array, String, Dynamic Programming, Bitmask]
 permalink:  /problems/find-the-shortest-superstring/
 ---
 
@@ -44,7 +44,11 @@ permalink:  /problems/find-the-shortest-superstring/
 {% endraw %}
 
 ### 相关话题
+  [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[状态压缩](https://github.com/openset/leetcode/tree/master/tag/bitmask/README.md)]
 
 ---
 

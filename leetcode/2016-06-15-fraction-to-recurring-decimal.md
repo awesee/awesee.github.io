@@ -3,7 +3,7 @@ layout:     single
 title:      "分数到小数"
 date:       2016-06-15 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Hash Table, Math]
+tags:       [Hash Table, Math, String]
 permalink:  /problems/fraction-to-recurring-decimal/
 ---
 
@@ -70,6 +70,7 @@ permalink:  /problems/fraction-to-recurring-decimal/
 ### 相关话题
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ---
 

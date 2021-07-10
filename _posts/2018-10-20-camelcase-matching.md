@@ -3,7 +3,7 @@ layout:     single
 title:      "驼峰式匹配"
 date:       2018-10-20 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Trie, String]
+tags:       [Trie, Two Pointers, String, String Matching]
 permalink:  /problems/camelcase-matching/
 ---
 
@@ -58,7 +58,9 @@ permalink:  /problems/camelcase-matching/
 
 ### 相关话题
   [[字典树](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)]
+  [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[字符串匹配](https://github.com/openset/leetcode/tree/master/tag/string-matching/README.md)]
 
 ---
 

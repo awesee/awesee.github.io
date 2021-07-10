@@ -3,7 +3,7 @@ layout:     single
 title:      "好叶子节点对的数量"
 date:       2020-03-10 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Tree, Depth-first Search]
+tags:       [Tree, Depth-First Search, Binary Tree]
 permalink:  /problems/number-of-good-leaf-nodes-pairs/
 ---
 
@@ -73,6 +73,7 @@ permalink:  /problems/number-of-good-leaf-nodes-pairs/
 ### 相关话题
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
   [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[二叉树](https://github.com/openset/leetcode/tree/master/tag/binary-tree/README.md)]
 
 ---
 

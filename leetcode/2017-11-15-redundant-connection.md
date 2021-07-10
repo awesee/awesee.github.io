@@ -3,7 +3,7 @@ layout:     single
 title:      "冗余连接"
 date:       2017-11-15 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Tree, Union Find, Graph]
+tags:       [Depth-First Search, Breadth-First Search, Union Find, Graph]
 permalink:  /problems/redundant-connection/
 ---
 
@@ -52,7 +52,8 @@ permalink:  /problems/redundant-connection/
 {% endraw %}
 
 ### 相关话题
-  [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
   [[并查集](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)]
   [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "我的日程安排表 I"
 date:       2017-12-30 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Array]
+tags:       [Design, Segment Tree, Ordered Set]
 permalink:  /problems/my-calendar-i/
 ---
 
@@ -43,7 +43,9 @@ MyCalendar.book(20, 30); // returns true
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
+  [[线段树](https://github.com/openset/leetcode/tree/master/tag/segment-tree/README.md)]
+  [[有序集合](https://github.com/openset/leetcode/tree/master/tag/ordered-set/README.md)]
 
 ### 相似题目
   1. [我的日程安排表 II](/problems/my-calendar-ii) (Medium)

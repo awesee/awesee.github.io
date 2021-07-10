@@ -3,7 +3,7 @@ layout:     single
 title:      "奇妙序列"
 date:       2020-06-10 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Design, Math]
+tags:       [Design, Segment Tree, Math]
 permalink:  /problems/fancy-sequence/
 ---
 
@@ -63,6 +63,7 @@ fancy.getIndex(2); // 返回 20
 
 ### 相关话题
   [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
+  [[线段树](https://github.com/openset/leetcode/tree/master/tag/segment-tree/README.md)]
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
 
 ---

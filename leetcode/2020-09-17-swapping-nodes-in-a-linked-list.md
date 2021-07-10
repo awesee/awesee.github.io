@@ -3,7 +3,7 @@ layout:     single
 title:      "交换链表中的节点"
 date:       2020-09-17 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Linked List]
+tags:       [Linked List, Two Pointers]
 permalink:  /problems/swapping-nodes-in-a-linked-list/
 ---
 
@@ -66,6 +66,7 @@ permalink:  /problems/swapping-nodes-in-a-linked-list/
 
 ### 相关话题
   [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
+  [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
 
 ---
 

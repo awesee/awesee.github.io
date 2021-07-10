@@ -3,7 +3,7 @@ layout:     single
 title:      "任务调度器"
 date:       2017-09-13 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Greedy, Queue, Array]
+tags:       [Greedy, Array, Hash Table, Counting, Sorting, Heap (Priority Queue)]
 permalink:  /problems/task-scheduler/
 ---
 
@@ -62,9 +62,12 @@ permalink:  /problems/task-scheduler/
 {% endraw %}
 
 ### 相关话题
-  [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
-  [[队列](https://github.com/openset/leetcode/tree/master/tag/queue/README.md)]
+  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[计数](https://github.com/openset/leetcode/tree/master/tag/counting/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
+  [[堆（优先队列）](https://github.com/openset/leetcode/tree/master/tag/heap-priority-queue/README.md)]
 
 ### 相似题目
   1. [K 距离间隔重排字符串](/problems/rearrange-string-k-distance-apart) (Hard)

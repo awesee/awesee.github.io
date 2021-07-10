@@ -3,7 +3,7 @@ layout:     single
 title:      "获取所有钥匙的最短路径"
 date:       2018-05-14 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Heap, Breadth-first Search]
+tags:       [Bit Manipulation, Breadth-First Search]
 permalink:  /problems/shortest-path-to-get-all-keys/
 ---
 
@@ -47,7 +47,7 @@ permalink:  /problems/shortest-path-to-get-all-keys/
 {% endraw %}
 
 ### 相关话题
-  [[堆](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]
+  [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
   [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
 
 ---

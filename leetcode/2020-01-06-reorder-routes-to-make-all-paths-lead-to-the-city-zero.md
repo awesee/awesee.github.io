@@ -3,7 +3,7 @@ layout:     single
 title:      "重新规划路线"
 date:       2020-01-06 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Tree, Depth-first Search]
+tags:       [Depth-First Search, Breadth-First Search, Graph]
 permalink:  /problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/
 ---
 
@@ -60,8 +60,9 @@ permalink:  /problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/
 {% endraw %}
 
 ### 相关话题
-  [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
   [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
+  [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
 
 ---
 

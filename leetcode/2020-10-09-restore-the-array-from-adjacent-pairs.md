@@ -3,7 +3,7 @@ layout:     single
 title:      "从相邻元素对还原数组"
 date:       2020-10-09 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Greedy]
+tags:       [Array, Hash Table]
 permalink:  /problems/restore-the-array-from-adjacent-pairs/
 ---
 
@@ -62,7 +62,8 @@ permalink:  /problems/restore-the-array-from-adjacent-pairs/
 {% endraw %}
 
 ### 相关话题
-  [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
 
 ---
 

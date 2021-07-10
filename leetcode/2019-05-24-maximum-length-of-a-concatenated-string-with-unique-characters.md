@@ -3,7 +3,7 @@ layout:     single
 title:      "串联字符串的最大长度"
 date:       2019-05-24 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Bit Manipulation, Backtracking]
+tags:       [Bit Manipulation, Array, String, Backtracking]
 permalink:  /problems/maximum-length-of-a-concatenated-string-with-unique-characters/
 ---
 
@@ -51,7 +51,9 @@ permalink:  /problems/maximum-length-of-a-concatenated-string-with-unique-charac
 
 ### 相关话题
   [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
-  [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[回溯](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
 
 ---
 

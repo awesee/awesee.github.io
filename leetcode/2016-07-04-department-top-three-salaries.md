@@ -3,7 +3,7 @@ layout:     single
 title:      "部门工资前三高的所有员工"
 date:       2016-07-04 21:30:00 +0800
 categories: [Leetcode]
-tags:       []
+tags:       [Database]
 permalink:  /problems/department-top-three-salaries/
 ---
 
@@ -52,6 +52,9 @@ permalink:  /problems/department-top-three-salaries/
 <p>IT 部门中，Max 获得了最高的工资，Randy 和 Joe 都拿到了第二高的工资，Will 的工资排第三。销售部门（Sales）只有两名员工，Henry 的工资最高，Sam 的工资排第二。</p>
 
 {% endraw %}
+
+### 相关话题
+  [[数据库](https://github.com/openset/leetcode/tree/master/tag/database/README.md)]
 
 ---
 

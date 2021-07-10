@@ -3,7 +3,7 @@ layout:     single
 title:      "猜猜这个单词"
 date:       2018-04-23 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Minimax]
+tags:       [Array, Math, String, Game Theory, Interactive]
 permalink:  /problems/guess-the-word/
 ---
 
@@ -42,7 +42,11 @@ permalink:  /problems/guess-the-word/
 {% endraw %}
 
 ### 相关话题
-  [[极小化极大](https://github.com/openset/leetcode/tree/master/tag/minimax/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[博弈](https://github.com/openset/leetcode/tree/master/tag/game-theory/README.md)]
+  [[交互](https://github.com/openset/leetcode/tree/master/tag/interactive/README.md)]
 
 ---
 

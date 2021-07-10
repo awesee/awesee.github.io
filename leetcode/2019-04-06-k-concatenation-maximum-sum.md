@@ -3,7 +3,7 @@ layout:     single
 title:      "K 次串联后最大子数组之和"
 date:       2019-04-06 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Dynamic Programming]
+tags:       [Array, Dynamic Programming]
 permalink:  /problems/k-concatenation-maximum-sum/
 ---
 
@@ -58,6 +58,7 @@ permalink:  /problems/k-concatenation-maximum-sum/
 {% endraw %}
 
 ### 相关话题
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ---

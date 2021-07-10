@@ -3,7 +3,7 @@ layout:     single
 title:      "扫雷游戏"
 date:       2017-06-13 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Depth-first Search, Breadth-first Search]
+tags:       [Depth-First Search, Breadth-First Search, Array, Matrix]
 permalink:  /problems/minesweeper/
 ---
 
@@ -86,6 +86,8 @@ Click : [1,2]
 ### 相关话题
   [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
   [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[矩阵](https://github.com/openset/leetcode/tree/master/tag/matrix/README.md)]
 
 ---
 

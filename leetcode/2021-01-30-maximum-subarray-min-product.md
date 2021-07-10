@@ -3,7 +3,7 @@ layout:     single
 title:      "子数组最小乘积的最大值"
 date:       2021-01-30 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Sort, Union Find, Queue, Binary Search, Dynamic Programming]
+tags:       [Stack, Array, Prefix Sum, Monotonic Stack]
 permalink:  /problems/maximum-subarray-min-product/
 ---
 
@@ -64,11 +64,10 @@ permalink:  /problems/maximum-subarray-min-product/
 {% endraw %}
 
 ### 相关话题
-  [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
-  [[并查集](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)]
-  [[队列](https://github.com/openset/leetcode/tree/master/tag/queue/README.md)]
-  [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
-  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[前缀和](https://github.com/openset/leetcode/tree/master/tag/prefix-sum/README.md)]
+  [[单调栈](https://github.com/openset/leetcode/tree/master/tag/monotonic-stack/README.md)]
 
 ---
 

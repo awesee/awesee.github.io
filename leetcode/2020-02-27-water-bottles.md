@@ -3,7 +3,7 @@ layout:     single
 title:      "换酒问题"
 date:       2020-02-27 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Greedy]
+tags:       [Math, Simulation]
 permalink:  /problems/water-bottles/
 ---
 
@@ -63,7 +63,8 @@ permalink:  /problems/water-bottles/
 {% endraw %}
 
 ### 相关话题
-  [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[模拟](https://github.com/openset/leetcode/tree/master/tag/simulation/README.md)]
 
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "口算难题"
 date:       2019-07-31 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Math, Backtracking]
+tags:       [Array, Math, String, Backtracking]
 permalink:  /problems/verbal-arithmetic-puzzle/
 ---
 
@@ -66,8 +66,10 @@ permalink:  /problems/verbal-arithmetic-puzzle/
 {% endraw %}
 
 ### 相关话题
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[回溯](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
 
 ---
 

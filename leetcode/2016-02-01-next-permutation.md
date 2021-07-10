@@ -3,7 +3,7 @@ layout:     single
 title:      "下一个排列"
 date:       2016-02-01 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Array]
+tags:       [Array, Two Pointers]
 permalink:  /problems/next-permutation/
 ---
 
@@ -60,6 +60,7 @@ permalink:  /problems/next-permutation/
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
 
 ### 相似题目
   1. [全排列](/problems/permutations) (Medium)

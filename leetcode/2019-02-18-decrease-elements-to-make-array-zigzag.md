@@ -3,7 +3,7 @@ layout:     single
 title:      "递减元素使数组呈锯齿状"
 date:       2019-02-18 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Array]
+tags:       [Greedy, Array]
 permalink:  /problems/decrease-elements-to-make-array-zigzag/
 ---
 
@@ -49,6 +49,7 @@ permalink:  /problems/decrease-elements-to-make-array-zigzag/
 {% endraw %}
 
 ### 相关话题
+  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 
 ---

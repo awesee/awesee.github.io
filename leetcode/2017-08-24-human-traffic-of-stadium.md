@@ -3,7 +3,7 @@ layout:     single
 title:      "体育馆的人流量"
 date:       2017-08-24 21:30:00 +0800
 categories: [Leetcode]
-tags:       []
+tags:       [Database]
 permalink:  /problems/human-traffic-of-stadium/
 ---
 
@@ -67,6 +67,9 @@ Result table:
 </div>
 
 {% endraw %}
+
+### 相关话题
+  [[数据库](https://github.com/openset/leetcode/tree/master/tag/database/README.md)]
 
 ---
 

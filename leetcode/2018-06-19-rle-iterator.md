@@ -3,7 +3,7 @@ layout:     single
 title:      "RLE 迭代器"
 date:       2018-06-19 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Array]
+tags:       [Design, Array, Counting, Iterator]
 permalink:  /problems/rle-iterator/
 ---
 
@@ -55,7 +55,10 @@ RLEIterator 由 RLEIterator([3,8,0,9,2,5]) 初始化。
 {% endraw %}
 
 ### 相关话题
+  [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[计数](https://github.com/openset/leetcode/tree/master/tag/counting/README.md)]
+  [[迭代器](https://github.com/openset/leetcode/tree/master/tag/iterator/README.md)]
 
 ---
 

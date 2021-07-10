@@ -3,7 +3,7 @@ layout:     single
 title:      "检查两个字符串数组是否相等"
 date:       2020-07-20 21:30:00 +0800
 categories: [Leetcode]
-tags:       [String]
+tags:       [Array, String]
 permalink:  /problems/check-if-two-string-arrays-are-equivalent/
 ---
 
@@ -55,6 +55,7 @@ word2 表示的字符串为 "a" + "bc" -> "abc"
 {% endraw %}
 
 ### 相关话题
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ---

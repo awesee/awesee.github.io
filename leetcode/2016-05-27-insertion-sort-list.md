@@ -3,7 +3,7 @@ layout:     single
 title:      "对链表进行插入排序"
 date:       2016-05-27 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Sort, Linked List]
+tags:       [Linked List, Sorting]
 permalink:  /problems/insertion-sort-list/
 ---
 
@@ -44,8 +44,8 @@ permalink:  /problems/insertion-sort-list/
 {% endraw %}
 
 ### 相关话题
-  [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
   [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
 
 ### 相似题目
   1. [排序链表](/problems/sort-list) (Medium)

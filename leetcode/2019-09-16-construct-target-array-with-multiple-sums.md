@@ -3,7 +3,7 @@ layout:     single
 title:      "多次求和构造目标数组"
 date:       2019-09-16 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Greedy]
+tags:       [Array, Heap (Priority Queue)]
 permalink:  /problems/construct-target-array-with-multiple-sums/
 ---
 
@@ -60,7 +60,8 @@ permalink:  /problems/construct-target-array-with-multiple-sums/
 {% endraw %}
 
 ### 相关话题
-  [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[堆（优先队列）](https://github.com/openset/leetcode/tree/master/tag/heap-priority-queue/README.md)]
 
 ---
 

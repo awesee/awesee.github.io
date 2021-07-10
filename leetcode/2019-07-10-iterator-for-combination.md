@@ -3,7 +3,7 @@ layout:     single
 title:      "字母组合迭代器"
 date:       2019-07-10 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Design, Backtracking]
+tags:       [Design, String, Backtracking, Iterator]
 permalink:  /problems/iterator-for-combination/
 ---
 
@@ -47,7 +47,9 @@ iterator.hasNext(); // 返回 false
 
 ### 相关话题
   [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
-  [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[回溯](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[迭代器](https://github.com/openset/leetcode/tree/master/tag/iterator/README.md)]
 
 ---
 

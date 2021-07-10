@@ -3,7 +3,7 @@ layout:     single
 title:      "漂亮数组"
 date:       2018-07-21 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Divide and Conquer]
+tags:       [Array, Math, Divide and Conquer]
 permalink:  /problems/beautiful-array/
 ---
 
@@ -47,7 +47,9 @@ permalink:  /problems/beautiful-array/
 {% endraw %}
 
 ### 相关话题
-  [[分治算法](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[分治](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]
 
 ---
 

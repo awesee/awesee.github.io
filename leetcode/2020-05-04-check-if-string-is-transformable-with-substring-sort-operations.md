@@ -3,7 +3,7 @@ layout:     single
 title:      "检查字符串是否可以通过排序子字符串得到另一个字符串"
 date:       2020-05-04 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Greedy, String]
+tags:       [Greedy, String, Sorting]
 permalink:  /problems/check-if-string-is-transformable-with-substring-sort-operations/
 ---
 
@@ -72,8 +72,9 @@ permalink:  /problems/check-if-string-is-transformable-with-substring-sort-opera
 {% endraw %}
 
 ### 相关话题
-  [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
 
 ---
 

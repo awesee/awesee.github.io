@@ -3,7 +3,7 @@ layout:     single
 title:      "检查「好数组」"
 date:       2019-06-04 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Math]
+tags:       [Array, Math, Number Theory]
 permalink:  /problems/check-if-it-is-a-good-array/
 ---
 
@@ -51,7 +51,9 @@ permalink:  /problems/check-if-it-is-a-good-array/
 {% endraw %}
 
 ### 相关话题
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[数论](https://github.com/openset/leetcode/tree/master/tag/number-theory/README.md)]
 
 ---
 

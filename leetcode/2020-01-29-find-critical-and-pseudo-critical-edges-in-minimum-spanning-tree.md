@@ -3,7 +3,7 @@ layout:     single
 title:      "找到最小生成树里的关键边和伪关键边"
 date:       2020-01-29 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Depth-first Search, Union Find]
+tags:       [Union Find, Graph, Minimum Spanning Tree, Sorting, Strongly Connected Component]
 permalink:  /problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/
 ---
 
@@ -57,8 +57,11 @@ permalink:  /problems/find-critical-and-pseudo-critical-edges-in-minimum-spannin
 {% endraw %}
 
 ### 相关话题
-  [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
   [[并查集](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)]
+  [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
+  [[最小生成树](https://github.com/openset/leetcode/tree/master/tag/minimum-spanning-tree/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
+  [[强连通分量](https://github.com/openset/leetcode/tree/master/tag/strongly-connected-component/README.md)]
 
 ---
 

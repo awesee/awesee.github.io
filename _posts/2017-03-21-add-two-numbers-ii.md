@@ -3,7 +3,7 @@ layout:     single
 title:      "两数相加 II"
 date:       2017-03-21 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Linked List]
+tags:       [Stack, Linked List, Math]
 permalink:  /problems/add-two-numbers-ii/
 ---
 
@@ -32,7 +32,9 @@ permalink:  /problems/add-two-numbers-ii/
 {% endraw %}
 
 ### 相关话题
+  [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
   [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
+  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
 
 ### 相似题目
   1. [两数相加](/problems/add-two-numbers) (Medium)

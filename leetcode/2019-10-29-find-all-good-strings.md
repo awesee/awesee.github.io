@@ -3,7 +3,7 @@ layout:     single
 title:      "找到所有好字符串"
 date:       2019-10-29 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Dynamic Programming]
+tags:       [String, Dynamic Programming, String Matching]
 permalink:  /problems/find-all-good-strings/
 ---
 
@@ -55,7 +55,9 @@ permalink:  /problems/find-all-good-strings/
 {% endraw %}
 
 ### 相关话题
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[字符串匹配](https://github.com/openset/leetcode/tree/master/tag/string-matching/README.md)]
 
 ---
 

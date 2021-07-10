@@ -73,8 +73,8 @@ permalink:  /problems/number-of-1-bits/
 
 ### 相似题目
   1. [颠倒二进制位](/problems/reverse-bits) (Easy)
-  1. [2的幂](/problems/power-of-two) (Easy)
-  1. [比特位计数](/problems/counting-bits) (Medium)
+  1. [2 的幂](/problems/power-of-two) (Easy)
+  1. [比特位计数](/problems/counting-bits) (Easy)
   1. [二进制手表](/problems/binary-watch) (Easy)
   1. [汉明距离](/problems/hamming-distance) (Easy)
   1. [交替位二进制数](/problems/binary-number-with-alternating-bits) (Easy)

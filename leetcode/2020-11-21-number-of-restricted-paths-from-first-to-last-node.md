@@ -3,7 +3,7 @@ layout:     single
 title:      "从第一个节点出发到最后一个节点的受限路径数"
 date:       2020-11-21 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Graph, Dynamic Programming]
+tags:       [Graph, Topological Sort, Dynamic Programming, Shortest Path, Heap (Priority Queue)]
 permalink:  /problems/number-of-restricted-paths-from-first-to-last-node/
 ---
 
@@ -58,7 +58,10 @@ permalink:  /problems/number-of-restricted-paths-from-first-to-last-node/
 
 ### 相关话题
   [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
+  [[拓扑排序](https://github.com/openset/leetcode/tree/master/tag/topological-sort/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[最短路](https://github.com/openset/leetcode/tree/master/tag/shortest-path/README.md)]
+  [[堆（优先队列）](https://github.com/openset/leetcode/tree/master/tag/heap-priority-queue/README.md)]
 
 ---
 

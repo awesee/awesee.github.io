@@ -3,7 +3,7 @@ layout:     single
 title:      "长度为 n 的开心字符串中字典序第 k 小的字符串"
 date:       2019-11-16 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Backtracking]
+tags:       [String, Backtracking]
 permalink:  /problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/
 ---
 
@@ -73,7 +73,8 @@ permalink:  /problems/the-k-th-lexicographical-string-of-all-happy-strings-of-le
 {% endraw %}
 
 ### 相关话题
-  [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[回溯](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
 
 ---
 

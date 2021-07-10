@@ -3,7 +3,7 @@ layout:     single
 title:      "找到处理最多请求的服务器"
 date:       2020-05-25 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Ordered Map]
+tags:       [Greedy, Array, Ordered Set, Heap (Priority Queue)]
 permalink:  /problems/find-servers-that-handled-most-number-of-requests/
 ---
 
@@ -89,7 +89,10 @@ permalink:  /problems/find-servers-that-handled-most-number-of-requests/
 {% endraw %}
 
 ### 相关话题
-  [[Ordered Map](https://github.com/openset/leetcode/tree/master/tag/ordered-map/README.md)]
+  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[有序集合](https://github.com/openset/leetcode/tree/master/tag/ordered-set/README.md)]
+  [[堆（优先队列）](https://github.com/openset/leetcode/tree/master/tag/heap-priority-queue/README.md)]
 
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "移动所有球到每个盒子所需的最小操作数"
 date:       2020-11-04 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Greedy, Array]
+tags:       [Array, String]
 permalink:  /problems/minimum-number-of-operations-to-move-all-balls-to-each-box/
 ---
 
@@ -49,8 +49,8 @@ permalink:  /problems/minimum-number-of-operations-to-move-all-balls-to-each-box
 {% endraw %}
 
 ### 相关话题
-  [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ---
 

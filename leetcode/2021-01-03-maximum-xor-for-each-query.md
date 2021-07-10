@@ -3,7 +3,7 @@ layout:     single
 title:      "每个查询的最大异或值"
 date:       2021-01-03 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Bit Manipulation]
+tags:       [Bit Manipulation, Array, Prefix Sum]
 permalink:  /problems/maximum-xor-for-each-query/
 ---
 
@@ -69,6 +69,8 @@ permalink:  /problems/maximum-xor-for-each-query/
 
 ### 相关话题
   [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[前缀和](https://github.com/openset/leetcode/tree/master/tag/prefix-sum/README.md)]
 
 ---
 

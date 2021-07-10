@@ -3,7 +3,7 @@ layout:     single
 title:      "最小时间差"
 date:       2017-06-23 21:30:00 +0800
 categories: [Leetcode]
-tags:       [String]
+tags:       [Array, Math, String, Sorting]
 permalink:  /problems/minimum-time-difference/
 ---
 
@@ -41,7 +41,10 @@ permalink:  /problems/minimum-time-difference/
 {% endraw %}
 
 ### 相关话题
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
 
 ---
 

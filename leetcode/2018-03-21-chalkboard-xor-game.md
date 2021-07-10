@@ -3,7 +3,7 @@ layout:     single
 title:      "黑板异或游戏"
 date:       2018-03-21 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Math]
+tags:       [Bit Manipulation, Brainteaser, Array, Math, Game Theory]
 permalink:  /problems/chalkboard-xor-game/
 ---
 
@@ -13,7 +13,7 @@ permalink:  /problems/chalkboard-xor-game/
 
 <p>黑板上写着一个非负整数数组 <code>nums[i]</code> 。Alice 和 Bob 轮流从黑板上擦掉一个数字，Alice 先手。如果擦除一个数字后，剩余的所有数字按位异或运算得出的结果等于 0 的话，当前玩家游戏失败。 (另外，如果只剩一个数字，按位异或运算得到它本身；如果无数字剩余，按位异或运算结果为 0。）</p>
 
-<p>换种说法就是，轮到某个玩家时，如果当前黑板上所有数字按位异或运算结果等于 0，这个玩家获胜。</p>
+<p>并且，轮到某个玩家时，如果当前黑板上所有数字按位异或运算结果等于 0，这个玩家获胜。</p>
 
 <p>假设两个玩家每步都使用最优解，当且仅当 Alice 获胜时返回 <code>true</code>。</p>
 
@@ -42,7 +42,11 @@ Alice 有两个选择: 擦掉数字 1 或 2。
 {% endraw %}
 
 ### 相关话题
+  [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
+  [[脑筋急转弯](https://github.com/openset/leetcode/tree/master/tag/brainteaser/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[博弈](https://github.com/openset/leetcode/tree/master/tag/game-theory/README.md)]
 
 ---
 

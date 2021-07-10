@@ -3,7 +3,7 @@ layout:     single
 title:      "K 进制表示下的各位数字总和"
 date:       2021-01-11 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Bit Manipulation, Math]
+tags:       [Math]
 permalink:  /problems/sum-of-digits-in-base-k/
 ---
 
@@ -45,7 +45,6 @@ permalink:  /problems/sum-of-digits-in-base-k/
 {% endraw %}
 
 ### 相关话题
-  [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
 
 ---

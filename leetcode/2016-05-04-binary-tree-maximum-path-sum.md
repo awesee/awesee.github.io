@@ -3,7 +3,7 @@ layout:     single
 title:      "二叉树中的最大路径和"
 date:       2016-05-04 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Tree, Depth-first Search, Recursion]
+tags:       [Tree, Depth-First Search, Dynamic Programming, Binary Tree]
 permalink:  /problems/binary-tree-maximum-path-sum/
 ---
 
@@ -48,7 +48,8 @@ permalink:  /problems/binary-tree-maximum-path-sum/
 ### 相关话题
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
   [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[递归](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]
+  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[二叉树](https://github.com/openset/leetcode/tree/master/tag/binary-tree/README.md)]
 
 ### 相似题目
   1. [路径总和](/problems/path-sum) (Easy)

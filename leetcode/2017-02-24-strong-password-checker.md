@@ -3,7 +3,7 @@ layout:     single
 title:      "强密码检验器"
 date:       2017-02-24 21:30:00 +0800
 categories: [Leetcode]
-tags:       []
+tags:       [Greedy, String, Heap (Priority Queue)]
 permalink:  /problems/strong-password-checker/
 ---
 
@@ -24,6 +24,11 @@ permalink:  /problems/strong-password-checker/
 <p>插入、删除、替换任一字符都算作一次修改。</p>
 
 {% endraw %}
+
+### 相关话题
+  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[堆（优先队列）](https://github.com/openset/leetcode/tree/master/tag/heap-priority-queue/README.md)]
 
 ---
 

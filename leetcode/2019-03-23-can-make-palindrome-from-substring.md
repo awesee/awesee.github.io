@@ -3,7 +3,7 @@ layout:     single
 title:      "构建回文串检测"
 date:       2019-03-23 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Array, String]
+tags:       [Bit Manipulation, Hash Table, String, Prefix Sum]
 permalink:  /problems/can-make-palindrome-from-substring/
 ---
 
@@ -49,8 +49,10 @@ queries[4] :&nbsp;子串 = &quot;abcda&quot;，可以变成回文的 &quot;abcba
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[前缀和](https://github.com/openset/leetcode/tree/master/tag/prefix-sum/README.md)]
 
 ---
 

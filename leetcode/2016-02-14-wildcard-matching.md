@@ -3,7 +3,7 @@ layout:     single
 title:      "通配符匹配"
 date:       2016-02-14 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Greedy, String, Dynamic Programming, Backtracking]
+tags:       [Greedy, Recursion, String, Dynamic Programming]
 permalink:  /problems/wildcard-matching/
 ---
 
@@ -71,10 +71,10 @@ p = &quot;a*c?b&quot;
 {% endraw %}
 
 ### 相关话题
-  [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[递归](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
-  [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
 
 ### 相似题目
   1. [正则表达式匹配](/problems/regular-expression-matching) (Hard)

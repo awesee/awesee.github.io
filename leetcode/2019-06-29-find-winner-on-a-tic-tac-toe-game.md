@@ -3,7 +3,7 @@ layout:     single
 title:      "找出井字棋的获胜者"
 date:       2019-06-29 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Array]
+tags:       [Array, Hash Table, Matrix, Simulation]
 permalink:  /problems/find-winner-on-a-tic-tac-toe-game/
 ---
 
@@ -88,6 +88,9 @@ permalink:  /problems/find-winner-on-a-tic-tac-toe-game/
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[矩阵](https://github.com/openset/leetcode/tree/master/tag/matrix/README.md)]
+  [[模拟](https://github.com/openset/leetcode/tree/master/tag/simulation/README.md)]
 
 ---
 

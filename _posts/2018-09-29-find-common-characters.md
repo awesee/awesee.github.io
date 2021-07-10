@@ -3,7 +3,7 @@ layout:     single
 title:      "查找常用字符"
 date:       2018-09-29 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Array, Hash Table]
+tags:       [Array, Hash Table, String]
 permalink:  /problems/find-common-characters/
 ---
 
@@ -44,6 +44,7 @@ permalink:  /problems/find-common-characters/
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ### 相似题目
   1. [两个数组的交集 II](/problems/intersection-of-two-arrays-ii) (Easy)

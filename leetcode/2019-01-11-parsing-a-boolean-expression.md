@@ -3,7 +3,7 @@ layout:     single
 title:      "解析布尔表达式"
 date:       2019-01-11 21:30:00 +0800
 categories: [Leetcode]
-tags:       [String]
+tags:       [Stack, Recursion, String]
 permalink:  /problems/parsing-a-boolean-expression/
 ---
 
@@ -62,6 +62,8 @@ permalink:  /problems/parsing-a-boolean-expression/
 {% endraw %}
 
 ### 相关话题
+  [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
+  [[递归](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ---

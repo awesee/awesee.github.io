@@ -3,7 +3,7 @@ layout:     single
 title:      "有效的数独"
 date:       2016-02-06 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Hash Table]
+tags:       [Array, Hash Table, Matrix]
 permalink:  /problems/valid-sudoku/
 ---
 
@@ -75,7 +75,9 @@ permalink:  /problems/valid-sudoku/
 {% endraw %}
 
 ### 相关话题
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[矩阵](https://github.com/openset/leetcode/tree/master/tag/matrix/README.md)]
 
 ### 相似题目
   1. [解数独](/problems/sudoku-solver) (Hard)

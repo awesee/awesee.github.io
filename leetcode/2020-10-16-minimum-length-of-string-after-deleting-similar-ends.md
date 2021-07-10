@@ -3,7 +3,7 @@ layout:     single
 title:      "删除字符串两端相同字符后的最短长度"
 date:       2020-10-16 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Two Pointers]
+tags:       [Two Pointers, String]
 permalink:  /problems/minimum-length-of-string-after-deleting-similar-ends/
 ---
 
@@ -67,6 +67,7 @@ permalink:  /problems/minimum-length-of-string-after-deleting-similar-ends/
 
 ### 相关话题
   [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ---
 

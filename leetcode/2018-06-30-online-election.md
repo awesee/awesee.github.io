@@ -3,7 +3,7 @@ layout:     single
 title:      "在线选举"
 date:       2018-06-30 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Binary Search]
+tags:       [Design, Array, Hash Table, Binary Search]
 permalink:  /problems/online-election/
 ---
 
@@ -43,6 +43,9 @@ permalink:  /problems/online-election/
 {% endraw %}
 
 ### 相关话题
+  [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
   [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
 
 ---

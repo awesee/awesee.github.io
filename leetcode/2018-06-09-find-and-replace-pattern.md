@@ -3,7 +3,7 @@ layout:     single
 title:      "查找和替换模式"
 date:       2018-06-09 21:30:00 +0800
 categories: [Leetcode]
-tags:       [String]
+tags:       [Array, Hash Table, String]
 permalink:  /problems/find-and-replace-pattern/
 ---
 
@@ -44,6 +44,8 @@ permalink:  /problems/find-and-replace-pattern/
 {% endraw %}
 
 ### 相关话题
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ---

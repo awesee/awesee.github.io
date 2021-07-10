@@ -3,7 +3,7 @@ layout:     single
 title:      "花括号展开 II"
 date:       2019-01-01 21:30:00 +0800
 categories: [Leetcode]
-tags:       [String]
+tags:       [Stack, Breadth-First Search, String, Backtracking]
 permalink:  /problems/brace-expansion-ii/
 ---
 
@@ -74,7 +74,10 @@ permalink:  /problems/brace-expansion-ii/
 {% endraw %}
 
 ### 相关话题
+  [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
+  [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[回溯](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
 
 ### 相似题目
   1. [花括号展开](/problems/brace-expansion) (Medium)

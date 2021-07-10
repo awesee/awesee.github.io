@@ -3,7 +3,7 @@ layout:     single
 title:      "二叉树的序列化与反序列化"
 date:       2016-10-24 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Tree, Design]
+tags:       [Tree, Depth-First Search, Breadth-First Search, Design, String, Binary Tree]
 permalink:  /problems/serialize-and-deserialize-binary-tree/
 ---
 
@@ -60,7 +60,11 @@ permalink:  /problems/serialize-and-deserialize-binary-tree/
 
 ### 相关话题
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
   [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[二叉树](https://github.com/openset/leetcode/tree/master/tag/binary-tree/README.md)]
 
 ### 相似题目
   1. [字符串的编码与解码](/problems/encode-and-decode-strings) (Medium)

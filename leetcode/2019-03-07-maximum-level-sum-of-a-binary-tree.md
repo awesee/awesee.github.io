@@ -3,7 +3,7 @@ layout:     single
 title:      "最大层内元素和"
 date:       2019-03-07 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Tree, Breadth-first Search]
+tags:       [Tree, Breadth-First Search, Binary Tree]
 permalink:  /problems/maximum-level-sum-of-a-binary-tree/
 ---
 
@@ -50,6 +50,7 @@ permalink:  /problems/maximum-level-sum-of-a-binary-tree/
 ### 相关话题
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
   [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
+  [[二叉树](https://github.com/openset/leetcode/tree/master/tag/binary-tree/README.md)]
 
 ---
 

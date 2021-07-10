@@ -3,7 +3,7 @@ layout:     single
 title:      "区域和检索 - 数组不可变"
 date:       2016-10-30 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Dynamic Programming]
+tags:       [Design, Array, Prefix Sum]
 permalink:  /problems/range-sum-query-immutable/
 ---
 
@@ -56,7 +56,9 @@ numArray.sumRange(0, 5); // return -3 ((-2) + 0 + 3 + (-5) + 2 + (-1))
 {% endraw %}
 
 ### 相关话题
-  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[前缀和](https://github.com/openset/leetcode/tree/master/tag/prefix-sum/README.md)]
 
 ### 相似题目
   1. [二维区域和检索 - 矩阵不可变](/problems/range-sum-query-2d-immutable) (Medium)

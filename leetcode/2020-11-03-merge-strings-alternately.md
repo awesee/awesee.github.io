@@ -3,7 +3,7 @@ layout:     single
 title:      "交替合并字符串"
 date:       2020-11-03 21:30:00 +0800
 categories: [Leetcode]
-tags:       [String]
+tags:       [Two Pointers, String]
 permalink:  /problems/merge-strings-alternately/
 ---
 
@@ -62,6 +62,7 @@ word2：    p   q
 {% endraw %}
 
 ### 相关话题
+  [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ---

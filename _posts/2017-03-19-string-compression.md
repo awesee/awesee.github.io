@@ -3,7 +3,7 @@ layout:     single
 title:      "压缩字符串"
 date:       2017-03-19 21:30:00 +0800
 categories: [Leetcode]
-tags:       [String]
+tags:       [Two Pointers, String]
 permalink:  /problems/string-compression/
 ---
 
@@ -75,10 +75,11 @@ permalink:  /problems/string-compression/
 {% endraw %}
 
 ### 相关话题
+  [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ### 相似题目
-  1. [外观数列](/problems/count-and-say) (Easy)
+  1. [外观数列](/problems/count-and-say) (Medium)
   1. [字符串的编码与解码](/problems/encode-and-decode-strings) (Medium)
   1. [迭代压缩字符串](/problems/design-compressed-string-iterator) (Easy)
 

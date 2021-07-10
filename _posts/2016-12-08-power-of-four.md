@@ -3,7 +3,7 @@ layout:     single
 title:      "4的幂"
 date:       2016-12-08 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Bit Manipulation]
+tags:       [Bit Manipulation, Recursion, Math]
 permalink:  /problems/power-of-four/
 ---
 
@@ -58,9 +58,11 @@ permalink:  /problems/power-of-four/
 
 ### 相关话题
   [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
+  [[递归](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]
+  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
 
 ### 相似题目
-  1. [2的幂](/problems/power-of-two) (Easy)
+  1. [2 的幂](/problems/power-of-two) (Easy)
   1. [3的幂](/problems/power-of-three) (Easy)
 
 ---

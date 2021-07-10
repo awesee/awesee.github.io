@@ -3,7 +3,7 @@ layout:     single
 title:      "二指输入的的最小距离"
 date:       2019-08-13 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Dynamic Programming]
+tags:       [String, Dynamic Programming]
 permalink:  /problems/minimum-distance-to-type-a-word-using-two-fingers/
 ---
 
@@ -72,6 +72,7 @@ permalink:  /problems/minimum-distance-to-type-a-word-using-two-fingers/
 {% endraw %}
 
 ### 相关话题
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ---

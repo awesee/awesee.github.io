@@ -3,7 +3,7 @@ layout:     single
 title:      "K 次操作转变字符串"
 date:       2020-03-20 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Greedy, String]
+tags:       [Hash Table, String]
 permalink:  /problems/can-convert-string-in-k-moves/
 ---
 
@@ -62,7 +62,7 @@ permalink:  /problems/can-convert-string-in-k-moves/
 {% endraw %}
 
 ### 相关话题
-  [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ---

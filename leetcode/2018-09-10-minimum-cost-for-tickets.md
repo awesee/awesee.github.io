@@ -3,7 +3,7 @@ layout:     single
 title:      "最低票价"
 date:       2018-09-10 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Dynamic Programming]
+tags:       [Array, Dynamic Programming]
 permalink:  /problems/minimum-cost-for-tickets/
 ---
 
@@ -65,6 +65,7 @@ permalink:  /problems/minimum-cost-for-tickets/
 {% endraw %}
 
 ### 相关话题
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### 相似题目

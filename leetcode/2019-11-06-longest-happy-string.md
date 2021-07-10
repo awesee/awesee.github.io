@@ -3,7 +3,7 @@ layout:     single
 title:      "最长快乐字符串"
 date:       2019-11-06 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Greedy, Dynamic Programming]
+tags:       [Greedy, String, Heap (Priority Queue)]
 permalink:  /problems/longest-happy-string/
 ---
 
@@ -56,8 +56,9 @@ permalink:  /problems/longest-happy-string/
 {% endraw %}
 
 ### 相关话题
-  [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
-  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[堆（优先队列）](https://github.com/openset/leetcode/tree/master/tag/heap-priority-queue/README.md)]
 
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "查询后的偶数和"
 date:       2018-09-12 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Array]
+tags:       [Array, Simulation]
 permalink:  /problems/sum-of-even-numbers-after-queries/
 ---
 
@@ -49,6 +49,7 @@ permalink:  /problems/sum-of-even-numbers-after-queries/
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[模拟](https://github.com/openset/leetcode/tree/master/tag/simulation/README.md)]
 
 ---
 

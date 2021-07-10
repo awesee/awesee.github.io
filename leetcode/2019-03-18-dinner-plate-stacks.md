@@ -3,7 +3,7 @@ layout:     single
 title:      "餐盘栈"
 date:       2019-03-18 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Design]
+tags:       [Stack, Design, Hash Table, Heap (Priority Queue)]
 permalink:  /problems/dinner-plate-stacks/
 ---
 
@@ -81,7 +81,10 @@ D.pop()            // 返回 -1。仍然没有栈。
 {% endraw %}
 
 ### 相关话题
+  [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
   [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[堆（优先队列）](https://github.com/openset/leetcode/tree/master/tag/heap-priority-queue/README.md)]
 
 ---
 

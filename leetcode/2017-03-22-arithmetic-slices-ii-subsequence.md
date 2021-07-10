@@ -3,7 +3,7 @@ layout:     single
 title:      "等差数列划分 II - 子序列"
 date:       2017-03-22 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Dynamic Programming]
+tags:       [Array, Dynamic Programming]
 permalink:  /problems/arithmetic-slices-ii-subsequence/
 ---
 
@@ -62,6 +62,7 @@ permalink:  /problems/arithmetic-slices-ii-subsequence/
 {% endraw %}
 
 ### 相关话题
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### 相似题目

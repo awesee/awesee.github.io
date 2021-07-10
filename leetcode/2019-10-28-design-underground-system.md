@@ -3,7 +3,7 @@ layout:     single
 title:      "设计地铁系统"
 date:       2019-10-28 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Design]
+tags:       [Design, Hash Table, String]
 permalink:  /problems/design-underground-system/
 ---
 
@@ -78,6 +78,8 @@ undergroundSystem.getAverageTime(&quot;Leyton&quot;, &quot;Waterloo&quot;);     
 
 ### 相关话题
   [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ---
 

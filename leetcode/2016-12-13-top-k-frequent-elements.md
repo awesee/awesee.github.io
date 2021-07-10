@@ -3,7 +3,7 @@ layout:     single
 title:      "前 K 个高频元素"
 date:       2016-12-13 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Heap, Hash Table]
+tags:       [Array, Hash Table, Divide and Conquer, Bucket Sort, Counting, Quickselect, Sorting, Heap (Priority Queue)]
 permalink:  /problems/top-k-frequent-elements/
 ---
 
@@ -45,8 +45,14 @@ permalink:  /problems/top-k-frequent-elements/
 {% endraw %}
 
 ### 相关话题
-  [[堆](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[分治](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]
+  [[桶排序](https://github.com/openset/leetcode/tree/master/tag/bucket-sort/README.md)]
+  [[计数](https://github.com/openset/leetcode/tree/master/tag/counting/README.md)]
+  [[快速选择](https://github.com/openset/leetcode/tree/master/tag/quickselect/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
+  [[堆（优先队列）](https://github.com/openset/leetcode/tree/master/tag/heap-priority-queue/README.md)]
 
 ### 相似题目
   1. [统计词频](/problems/word-frequency) (Medium)

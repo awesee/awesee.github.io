@@ -3,7 +3,7 @@ layout:     single
 title:      "接雨水 II"
 date:       2017-02-11 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Heap, Breadth-first Search]
+tags:       [Breadth-First Search, Array, Matrix, Heap (Priority Queue)]
 permalink:  /problems/trapping-rain-water-ii/
 ---
 
@@ -49,8 +49,10 @@ permalink:  /problems/trapping-rain-water-ii/
 {% endraw %}
 
 ### 相关话题
-  [[堆](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]
   [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[矩阵](https://github.com/openset/leetcode/tree/master/tag/matrix/README.md)]
+  [[堆（优先队列）](https://github.com/openset/leetcode/tree/master/tag/heap-priority-queue/README.md)]
 
 ### 相似题目
   1. [接雨水](/problems/trapping-rain-water) (Hard)

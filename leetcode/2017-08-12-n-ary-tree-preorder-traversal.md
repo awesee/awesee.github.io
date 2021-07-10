@@ -3,7 +3,7 @@ layout:     single
 title:      "N 叉树的前序遍历"
 date:       2017-08-12 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Tree]
+tags:       [Stack, Tree, Depth-First Search]
 permalink:  /problems/n-ary-tree-preorder-traversal/
 ---
 
@@ -56,10 +56,12 @@ permalink:  /problems/n-ary-tree-preorder-traversal/
 {% endraw %}
 
 ### 相关话题
+  [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
 
 ### 相似题目
-  1. [二叉树的前序遍历](/problems/binary-tree-preorder-traversal) (Medium)
+  1. [二叉树的前序遍历](/problems/binary-tree-preorder-traversal) (Easy)
   1. [N 叉树的层序遍历](/problems/n-ary-tree-level-order-traversal) (Medium)
   1. [N 叉树的后序遍历](/problems/n-ary-tree-postorder-traversal) (Easy)
 

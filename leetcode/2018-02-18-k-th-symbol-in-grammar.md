@@ -3,7 +3,7 @@ layout:     single
 title:      "第K个语法符号"
 date:       2018-02-18 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Recursion]
+tags:       [Bit Manipulation, Recursion, Math]
 permalink:  /problems/k-th-symbol-in-grammar/
 ---
 
@@ -48,7 +48,9 @@ permalink:  /problems/k-th-symbol-in-grammar/
 {% endraw %}
 
 ### 相关话题
+  [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
   [[递归](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]
+  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
 
 ---
 

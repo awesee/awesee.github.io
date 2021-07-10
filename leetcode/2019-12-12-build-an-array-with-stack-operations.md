@@ -3,7 +3,7 @@ layout:     single
 title:      "用栈操作构建数组"
 date:       2019-12-12 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Stack]
+tags:       [Stack, Array, Simulation]
 permalink:  /problems/build-an-array-with-stack-operations/
 ---
 
@@ -77,6 +77,8 @@ permalink:  /problems/build-an-array-with-stack-operations/
 
 ### 相关话题
   [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[模拟](https://github.com/openset/leetcode/tree/master/tag/simulation/README.md)]
 
 ---
 

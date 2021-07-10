@@ -3,7 +3,7 @@ layout:     single
 title:      "山脉数组中查找目标值"
 date:       2018-12-31 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Binary Search]
+tags:       [Array, Binary Search, Interactive]
 permalink:  /problems/find-in-mountain-array/
 ---
 
@@ -78,7 +78,9 @@ permalink:  /problems/find-in-mountain-array/
 {% endraw %}
 
 ### 相关话题
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[交互](https://github.com/openset/leetcode/tree/master/tag/interactive/README.md)]
 
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "设计推特"
 date:       2016-12-21 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Heap, Design, Hash Table]
+tags:       [Design, Hash Table, Linked List, Heap (Priority Queue)]
 permalink:  /problems/design-twitter/
 ---
 
@@ -52,9 +52,10 @@ twitter.getNewsFeed(1);
 {% endraw %}
 
 ### 相关话题
-  [[堆](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]
   [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
+  [[堆（优先队列）](https://github.com/openset/leetcode/tree/master/tag/heap-priority-queue/README.md)]
 
 ---
 

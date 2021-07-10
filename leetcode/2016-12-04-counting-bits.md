@@ -7,7 +7,7 @@ tags:       [Bit Manipulation, Dynamic Programming]
 permalink:  /problems/counting-bits/
 ---
 
-## 338. 比特位计数 (Medium)
+## 338. 比特位计数 (Easy)
 
 {% raw %}
 

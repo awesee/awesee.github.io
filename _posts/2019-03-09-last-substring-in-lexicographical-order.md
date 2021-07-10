@@ -3,7 +3,7 @@ layout:     single
 title:      "按字典序排在最后的子串"
 date:       2019-03-09 21:30:00 +0800
 categories: [Leetcode]
-tags:       [String]
+tags:       [Two Pointers, String]
 permalink:  /problems/last-substring-in-lexicographical-order/
 ---
 
@@ -40,6 +40,7 @@ permalink:  /problems/last-substring-in-lexicographical-order/
 {% endraw %}
 
 ### 相关话题
+  [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ---

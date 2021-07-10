@@ -3,7 +3,7 @@ layout:     single
 title:      "恢复数组"
 date:       2019-11-17 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Dynamic Programming]
+tags:       [String, Dynamic Programming]
 permalink:  /problems/restore-the-array/
 ---
 
@@ -68,6 +68,7 @@ permalink:  /problems/restore-the-array/
 {% endraw %}
 
 ### 相关话题
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ---

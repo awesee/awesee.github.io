@@ -3,7 +3,7 @@ layout:     single
 title:      "总持续时间可被 60 整除的歌曲"
 date:       2018-10-07 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Array]
+tags:       [Array, Hash Table, Counting]
 permalink:  /problems/pairs-of-songs-with-total-durations-divisible-by-60/
 ---
 
@@ -47,6 +47,8 @@ permalink:  /problems/pairs-of-songs-with-total-durations-divisible-by-60/
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[计数](https://github.com/openset/leetcode/tree/master/tag/counting/README.md)]
 
 ---
 

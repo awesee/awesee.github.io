@@ -3,7 +3,7 @@ layout:     single
 title:      "检查二进制字符串字段"
 date:       2020-11-19 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Greedy]
+tags:       [String]
 permalink:  /problems/check-if-binary-string-has-at-most-one-segment-of-ones/
 ---
 
@@ -44,7 +44,7 @@ permalink:  /problems/check-if-binary-string-has-at-most-one-segment-of-ones/
 {% endraw %}
 
 ### 相关话题
-  [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ---
 

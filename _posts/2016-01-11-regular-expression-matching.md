@@ -3,7 +3,7 @@ layout:     single
 title:      "正则表达式匹配"
 date:       2016-01-11 21:30:00 +0800
 categories: [Leetcode]
-tags:       [String, Dynamic Programming, Backtracking]
+tags:       [Recursion, String, Dynamic Programming]
 permalink:  /problems/regular-expression-matching/
 ---
 
@@ -74,9 +74,9 @@ permalink:  /problems/regular-expression-matching/
 {% endraw %}
 
 ### 相关话题
+  [[递归](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
-  [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
 
 ### 相似题目
   1. [通配符匹配](/problems/wildcard-matching) (Hard)

@@ -3,7 +3,7 @@ layout:     single
 title:      "笨阶乘"
 date:       2018-10-03 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Math]
+tags:       [Stack, Math, Simulation]
 permalink:  /problems/clumsy-factorial/
 ---
 
@@ -49,7 +49,9 @@ permalink:  /problems/clumsy-factorial/
 {% endraw %}
 
 ### 相关话题
+  [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[模拟](https://github.com/openset/leetcode/tree/master/tag/simulation/README.md)]
 
 ---
 

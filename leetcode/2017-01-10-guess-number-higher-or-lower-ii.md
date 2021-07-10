@@ -3,7 +3,7 @@ layout:     single
 title:      "猜数字大小 II"
 date:       2017-01-10 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Minimax, Dynamic Programming]
+tags:       [Math, Dynamic Programming, Game Theory]
 permalink:  /problems/guess-number-higher-or-lower-ii/
 ---
 
@@ -37,8 +37,9 @@ permalink:  /problems/guess-number-higher-or-lower-ii/
 {% endraw %}
 
 ### 相关话题
-  [[极小化极大](https://github.com/openset/leetcode/tree/master/tag/minimax/README.md)]
+  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[博弈](https://github.com/openset/leetcode/tree/master/tag/game-theory/README.md)]
 
 ### 相似题目
   1. [翻转游戏 II](/problems/flip-game-ii) (Medium)

@@ -3,7 +3,7 @@ layout:     single
 title:      "环绕字符串中唯一的子字符串"
 date:       2017-04-12 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Dynamic Programming]
+tags:       [String, Dynamic Programming]
 permalink:  /problems/unique-substrings-in-wraparound-string/
 ---
 
@@ -52,6 +52,7 @@ permalink:  /problems/unique-substrings-in-wraparound-string/
 {% endraw %}
 
 ### 相关话题
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ---

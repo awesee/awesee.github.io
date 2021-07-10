@@ -3,7 +3,7 @@ layout:     single
 title:      "将 x 减到 0 的最小操作数"
 date:       2020-07-16 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Greedy, Two Pointers, Binary Search, Sliding Window]
+tags:       [Array, Hash Table, Two Pointers, Binary Search, Prefix Sum]
 permalink:  /problems/minimum-operations-to-reduce-x-to-zero/
 ---
 
@@ -53,10 +53,11 @@ permalink:  /problems/minimum-operations-to-reduce-x-to-zero/
 {% endraw %}
 
 ### 相关话题
-  [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
   [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
   [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
-  [[Sliding Window](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
+  [[前缀和](https://github.com/openset/leetcode/tree/master/tag/prefix-sum/README.md)]
 
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "计数质数"
 date:       2016-07-23 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Hash Table, Math]
+tags:       [Array, Math, Enumeration, Number Theory]
 permalink:  /problems/count-primes/
 ---
 
@@ -45,8 +45,10 @@ permalink:  /problems/count-primes/
 {% endraw %}
 
 ### 相关话题
-  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[枚举](https://github.com/openset/leetcode/tree/master/tag/enumeration/README.md)]
+  [[数论](https://github.com/openset/leetcode/tree/master/tag/number-theory/README.md)]
 
 ### 相似题目
   1. [丑数](/problems/ugly-number) (Easy)

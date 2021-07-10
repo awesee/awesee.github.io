@@ -3,7 +3,7 @@ layout:     single
 title:      "一和零"
 date:       2017-04-19 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Dynamic Programming]
+tags:       [Array, String, Dynamic Programming]
 permalink:  /problems/ones-and-zeroes/
 ---
 
@@ -52,6 +52,8 @@ permalink:  /problems/ones-and-zeroes/
 {% endraw %}
 
 ### 相关话题
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### 相似题目

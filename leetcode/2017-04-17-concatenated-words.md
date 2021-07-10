@@ -3,7 +3,7 @@ layout:     single
 title:      "连接词"
 date:       2017-04-17 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Depth-first Search, Trie, Dynamic Programming]
+tags:       [Depth-First Search, Trie, String, Dynamic Programming]
 permalink:  /problems/concatenated-words/
 ---
 
@@ -49,6 +49,7 @@ permalink:  /problems/concatenated-words/
 ### 相关话题
   [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
   [[字典树](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### 相似题目

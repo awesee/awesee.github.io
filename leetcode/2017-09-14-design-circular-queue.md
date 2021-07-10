@@ -3,7 +3,7 @@ layout:     single
 title:      "设计循环队列"
 date:       2017-09-14 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Design, Queue]
+tags:       [Design, Queue, Array, Linked List]
 permalink:  /problems/design-circular-queue/
 ---
 
@@ -57,6 +57,8 @@ circularQueue.Rear(); &nbsp;// 返回 4</pre>
 ### 相关话题
   [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
   [[队列](https://github.com/openset/leetcode/tree/master/tag/queue/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
 
 ### 相似题目
   1. [设计循环双端队列](/problems/design-circular-deque) (Medium)

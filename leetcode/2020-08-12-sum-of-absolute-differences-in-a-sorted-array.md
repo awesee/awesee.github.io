@@ -3,7 +3,7 @@ layout:     single
 title:      "有序数组中差绝对值之和"
 date:       2020-08-12 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Greedy, Math]
+tags:       [Array, Math, Prefix Sum]
 permalink:  /problems/sum-of-absolute-differences-in-a-sorted-array/
 ---
 
@@ -49,8 +49,9 @@ result[2] = |5-2| + |5-3| + |5-5| = 3 + 2 + 0 = 5。
 {% endraw %}
 
 ### 相关话题
-  [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[前缀和](https://github.com/openset/leetcode/tree/master/tag/prefix-sum/README.md)]
 
 ---
 

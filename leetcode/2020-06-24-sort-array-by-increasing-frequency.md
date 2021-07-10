@@ -3,7 +3,7 @@ layout:     single
 title:      "按照频率将数组升序排序"
 date:       2020-06-24 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Sort, Array]
+tags:       [Array, Hash Table, Sorting]
 permalink:  /problems/sort-array-by-increasing-frequency/
 ---
 
@@ -48,8 +48,9 @@ permalink:  /problems/sort-array-by-increasing-frequency/
 {% endraw %}
 
 ### 相关话题
-  [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
 
 ---
 

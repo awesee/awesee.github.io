@@ -3,7 +3,7 @@ layout:     single
 title:      "保证图可完全遍历"
 date:       2020-04-28 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Union Find]
+tags:       [Union Find, Graph]
 permalink:  /problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/
 ---
 
@@ -68,6 +68,7 @@ permalink:  /problems/remove-max-number-of-edges-to-keep-graph-fully-traversable
 
 ### 相关话题
   [[并查集](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)]
+  [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
 
 ---
 

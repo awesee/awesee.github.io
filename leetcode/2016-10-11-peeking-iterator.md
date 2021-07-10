@@ -3,7 +3,7 @@ layout:     single
 title:      "顶端迭代器"
 date:       2016-10-11 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Design]
+tags:       [Design, Array, Iterator]
 permalink:  /problems/peeking-iterator/
 ---
 
@@ -28,6 +28,8 @@ permalink:  /problems/peeking-iterator/
 
 ### 相关话题
   [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[迭代器](https://github.com/openset/leetcode/tree/master/tag/iterator/README.md)]
 
 ### 相似题目
   1. [二叉搜索树迭代器](/problems/binary-search-tree-iterator) (Medium)

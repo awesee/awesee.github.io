@@ -3,7 +3,7 @@ layout:     single
 title:      "DI 序列的有效排列"
 date:       2018-06-22 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Divide and Conquer, Dynamic Programming]
+tags:       [Dynamic Programming]
 permalink:  /problems/valid-permutations-for-di-sequence/
 ---
 
@@ -50,7 +50,6 @@ permalink:  /problems/valid-permutations-for-di-sequence/
 {% endraw %}
 
 ### 相关话题
-  [[分治算法](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ---

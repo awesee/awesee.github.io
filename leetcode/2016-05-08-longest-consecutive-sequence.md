@@ -3,11 +3,11 @@ layout:     single
 title:      "最长连续序列"
 date:       2016-05-08 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Union Find, Array]
+tags:       [Union Find, Array, Hash Table]
 permalink:  /problems/longest-consecutive-sequence/
 ---
 
-## 128. 最长连续序列 (Hard)
+## 128. 最长连续序列 (Medium)
 
 {% raw %}
 
@@ -47,6 +47,7 @@ permalink:  /problems/longest-consecutive-sequence/
 ### 相关话题
   [[并查集](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)]
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
 
 ### 相似题目
   1. [二叉树最长连续序列](/problems/binary-tree-longest-consecutive-sequence) (Medium)

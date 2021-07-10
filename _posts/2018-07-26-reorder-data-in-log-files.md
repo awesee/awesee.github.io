@@ -3,7 +3,7 @@ layout:     single
 title:      "重新排列日志文件"
 date:       2018-07-26 21:30:00 +0800
 categories: [Leetcode]
-tags:       [String]
+tags:       [Array, String, Sorting]
 permalink:  /problems/reorder-data-in-log-files/
 ---
 
@@ -63,7 +63,9 @@ permalink:  /problems/reorder-data-in-log-files/
 {% endraw %}
 
 ### 相关话题
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
 
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "使字符串平衡的最少删除次数"
 date:       2020-07-11 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Greedy, String]
+tags:       [Stack, String, Dynamic Programming]
 permalink:  /problems/minimum-deletions-to-make-string-balanced/
 ---
 
@@ -49,8 +49,9 @@ permalink:  /problems/minimum-deletions-to-make-string-balanced/
 {% endraw %}
 
 ### 相关话题
-  [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ---
 

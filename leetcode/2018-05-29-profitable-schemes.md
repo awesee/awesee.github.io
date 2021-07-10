@@ -3,7 +3,7 @@ layout:     single
 title:      "盈利计划"
 date:       2018-05-29 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Dynamic Programming]
+tags:       [Array, Dynamic Programming]
 permalink:  /problems/profitable-schemes/
 ---
 
@@ -15,7 +15,7 @@ permalink:  /problems/profitable-schemes/
 
 <p>第 <code>i</code> 种工作会产生 <code>profit[i]</code> 的利润，它要求 <code>group[i]</code> 名成员共同参与。如果成员参与了其中一项工作，就不能参与另一项工作。</p>
 
-<p>工作的任何至少产生 <code>minProfit</code> 利润的子集称为盈利计划。并且工作的成员总数最多为 <code>n</code> 。</p>
+<p>工作的任何至少产生 <code>minProfit</code> 利润的子集称为 <strong>盈利计划</strong> 。并且工作的成员总数最多为 <code>n</code> 。</p>
 
 <p>有多少种计划可以选择？因为答案很大，所以<strong> 返回结果模 </strong><code>10^9 + 7</code><strong> 的值</strong>。</p>
 
@@ -57,6 +57,7 @@ permalink:  /problems/profitable-schemes/
 {% endraw %}
 
 ### 相关话题
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ---

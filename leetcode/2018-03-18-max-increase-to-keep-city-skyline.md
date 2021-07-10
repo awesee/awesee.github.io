@@ -3,7 +3,7 @@ layout:     single
 title:      "保持城市天际线"
 date:       2018-03-18 21:30:00 +0800
 categories: [Leetcode]
-tags:       []
+tags:       [Greedy, Array, Matrix]
 permalink:  /problems/max-increase-to-keep-city-skyline/
 ---
 
@@ -48,6 +48,11 @@ gridNew = [ [8, 4, 8, 7],
 </ul>
 
 {% endraw %}
+
+### 相关话题
+  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[矩阵](https://github.com/openset/leetcode/tree/master/tag/matrix/README.md)]
 
 ---
 

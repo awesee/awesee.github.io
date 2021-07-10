@@ -3,7 +3,7 @@ layout:     single
 title:      "重复 N 次的元素"
 date:       2018-08-19 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Hash Table]
+tags:       [Array, Hash Table]
 permalink:  /problems/n-repeated-element-in-size-2n-array/
 ---
 
@@ -54,6 +54,7 @@ permalink:  /problems/n-repeated-element-in-size-2n-array/
 {% endraw %}
 
 ### 相关话题
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
 
 ---

@@ -3,7 +3,7 @@ layout:     single
 title:      "四因数"
 date:       2019-10-22 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Math]
+tags:       [Array, Math]
 permalink:  /problems/four-divisors/
 ---
 
@@ -40,6 +40,7 @@ permalink:  /problems/four-divisors/
 {% endraw %}
 
 ### 相关话题
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
 
 ---

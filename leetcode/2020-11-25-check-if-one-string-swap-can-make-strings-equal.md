@@ -3,7 +3,7 @@ layout:     single
 title:      "仅执行一次字符串交换能否使两个字符串相等"
 date:       2020-11-25 21:30:00 +0800
 categories: [Leetcode]
-tags:       [String]
+tags:       [Hash Table, String, Counting]
 permalink:  /problems/check-if-one-string-swap-can-make-strings-equal/
 ---
 
@@ -57,7 +57,9 @@ permalink:  /problems/check-if-one-string-swap-can-make-strings-equal/
 {% endraw %}
 
 ### 相关话题
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[计数](https://github.com/openset/leetcode/tree/master/tag/counting/README.md)]
 
 ---
 

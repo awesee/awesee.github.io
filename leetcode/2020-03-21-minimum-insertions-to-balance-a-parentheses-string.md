@@ -3,7 +3,7 @@ layout:     single
 title:      "平衡括号字符串的最少插入次数"
 date:       2020-03-21 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Stack, String]
+tags:       [Stack, Greedy, String]
 permalink:  /problems/minimum-insertions-to-balance-a-parentheses-string/
 ---
 
@@ -74,6 +74,7 @@ permalink:  /problems/minimum-insertions-to-balance-a-parentheses-string/
 
 ### 相关话题
   [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
+  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ---

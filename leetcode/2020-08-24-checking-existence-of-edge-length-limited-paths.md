@@ -3,7 +3,7 @@ layout:     single
 title:      "检查边长度限制的路径是否存在"
 date:       2020-08-24 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Sort, Union Find]
+tags:       [Union Find, Graph, Array, Sorting]
 permalink:  /problems/checking-existence-of-edge-length-limited-paths/
 ---
 
@@ -56,8 +56,10 @@ permalink:  /problems/checking-existence-of-edge-length-limited-paths/
 {% endraw %}
 
 ### 相关话题
-  [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
   [[并查集](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)]
+  [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
 
 ---
 

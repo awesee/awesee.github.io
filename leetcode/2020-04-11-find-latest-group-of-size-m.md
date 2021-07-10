@@ -3,7 +3,7 @@ layout:     single
 title:      "查找大小为 M 的最新分组"
 date:       2020-04-11 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Binary Search]
+tags:       [Array, Binary Search, Simulation]
 permalink:  /problems/find-latest-group-of-size-m/
 ---
 
@@ -73,7 +73,9 @@ permalink:  /problems/find-latest-group-of-size-m/
 {% endraw %}
 
 ### 相关话题
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[模拟](https://github.com/openset/leetcode/tree/master/tag/simulation/README.md)]
 
 ---
 

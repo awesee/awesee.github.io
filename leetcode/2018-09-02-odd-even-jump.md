@@ -3,7 +3,7 @@ layout:     single
 title:      "奇偶跳"
 date:       2018-09-02 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Stack, Dynamic Programming, Ordered Map]
+tags:       [Stack, Array, Dynamic Programming, Ordered Set, Monotonic Stack]
 permalink:  /problems/odd-even-jump/
 ---
 
@@ -83,8 +83,10 @@ permalink:  /problems/odd-even-jump/
 
 ### 相关话题
   [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
-  [[Ordered Map](https://github.com/openset/leetcode/tree/master/tag/ordered-map/README.md)]
+  [[有序集合](https://github.com/openset/leetcode/tree/master/tag/ordered-set/README.md)]
+  [[单调栈](https://github.com/openset/leetcode/tree/master/tag/monotonic-stack/README.md)]
 
 ---
 

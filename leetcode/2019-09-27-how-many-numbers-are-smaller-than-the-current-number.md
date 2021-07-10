@@ -3,7 +3,7 @@ layout:     single
 title:      "有多少小于当前数字的数字"
 date:       2019-09-27 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Array, Hash Table]
+tags:       [Array, Hash Table, Counting, Sorting]
 permalink:  /problems/how-many-numbers-are-smaller-than-the-current-number/
 ---
 
@@ -57,6 +57,8 @@ permalink:  /problems/how-many-numbers-are-smaller-than-the-current-number/
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[计数](https://github.com/openset/leetcode/tree/master/tag/counting/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
 
 ---
 

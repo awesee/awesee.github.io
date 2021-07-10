@@ -3,7 +3,7 @@ layout:     single
 title:      "最大化网格幸福感"
 date:       2020-07-17 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Dynamic Programming, Backtracking]
+tags:       [Bit Manipulation, Memoization, Dynamic Programming, Bitmask]
 permalink:  /problems/maximize-grid-happiness/
 ---
 
@@ -73,8 +73,10 @@ permalink:  /problems/maximize-grid-happiness/
 {% endraw %}
 
 ### 相关话题
+  [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
+  [[记忆化搜索](https://github.com/openset/leetcode/tree/master/tag/memoization/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
-  [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[状态压缩](https://github.com/openset/leetcode/tree/master/tag/bitmask/README.md)]
 
 ---
 

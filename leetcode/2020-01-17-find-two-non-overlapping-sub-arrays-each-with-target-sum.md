@@ -3,7 +3,7 @@ layout:     single
 title:      "找两个和为目标值且不重叠的子数组"
 date:       2020-01-17 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Dynamic Programming]
+tags:       [Array, Hash Table, Binary Search, Dynamic Programming, Sliding Window]
 permalink:  /problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/
 ---
 
@@ -67,7 +67,11 @@ permalink:  /problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/
 {% endraw %}
 
 ### 相关话题
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[滑动窗口](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
 
 ---
 

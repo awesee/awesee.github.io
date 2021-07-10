@@ -3,7 +3,7 @@ layout:     single
 title:      "删列造序 III"
 date:       2018-08-18 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Dynamic Programming]
+tags:       [Array, String, Dynamic Programming]
 permalink:  /problems/delete-columns-to-make-sorted-iii/
 ---
 
@@ -61,6 +61,8 @@ permalink:  /problems/delete-columns-to-make-sorted-iii/
 {% endraw %}
 
 ### 相关话题
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ---

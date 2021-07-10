@@ -3,7 +3,7 @@ layout:     single
 title:      "Excel表列序号"
 date:       2016-06-20 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Math]
+tags:       [Math, String]
 permalink:  /problems/excel-sheet-column-number/
 ---
 
@@ -49,6 +49,7 @@ permalink:  /problems/excel-sheet-column-number/
 
 ### 相关话题
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ### 相似题目
   1. [Excel表列名称](/problems/excel-sheet-column-title) (Easy)

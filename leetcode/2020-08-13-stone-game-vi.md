@@ -3,7 +3,7 @@ layout:     single
 title:      "石子游戏 VI"
 date:       2020-08-13 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Greedy]
+tags:       [Greedy, Array, Math, Game Theory, Sorting, Heap (Priority Queue)]
 permalink:  /problems/stone-game-vi/
 ---
 
@@ -74,7 +74,12 @@ Bob 会获胜。
 {% endraw %}
 
 ### 相关话题
-  [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[博弈](https://github.com/openset/leetcode/tree/master/tag/game-theory/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
+  [[堆（优先队列）](https://github.com/openset/leetcode/tree/master/tag/heap-priority-queue/README.md)]
 
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "两个子序列的最大点积"
 date:       2019-12-29 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Dynamic Programming]
+tags:       [Array, Dynamic Programming]
 permalink:  /problems/max-dot-product-of-two-subsequences/
 ---
 
@@ -67,6 +67,7 @@ permalink:  /problems/max-dot-product-of-two-subsequences/
 {% endraw %}
 
 ### 相关话题
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ---

@@ -3,7 +3,7 @@ layout:     single
 title:      "划分数组为连续数字的集合"
 date:       2019-07-20 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Greedy, Array]
+tags:       [Greedy, Array, Hash Table, Sorting]
 permalink:  /problems/divide-array-in-sets-of-k-consecutive-numbers/
 ---
 
@@ -64,8 +64,10 @@ permalink:  /problems/divide-array-in-sets-of-k-consecutive-numbers/
 {% endraw %}
 
 ### 相关话题
-  [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
 
 ---
 

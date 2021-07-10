@@ -3,7 +3,7 @@ layout:     single
 title:      "反转字符串 II"
 date:       2017-06-25 21:30:00 +0800
 categories: [Leetcode]
-tags:       [String]
+tags:       [Two Pointers, String]
 permalink:  /problems/reverse-string-ii/
 ---
 
@@ -38,6 +38,7 @@ permalink:  /problems/reverse-string-ii/
 {% endraw %}
 
 ### 相关话题
+  [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ### 相似题目

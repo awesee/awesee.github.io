@@ -3,7 +3,7 @@ layout:     single
 title:      "得到连续 K 个 1 的最少相邻交换次数"
 date:       2020-08-30 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Stack]
+tags:       [Greedy, Array, Prefix Sum, Sliding Window]
 permalink:  /problems/minimum-adjacent-swaps-for-k-consecutive-ones/
 ---
 
@@ -51,7 +51,10 @@ permalink:  /problems/minimum-adjacent-swaps-for-k-consecutive-ones/
 {% endraw %}
 
 ### 相关话题
-  [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
+  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[前缀和](https://github.com/openset/leetcode/tree/master/tag/prefix-sum/README.md)]
+  [[滑动窗口](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
 
 ---
 

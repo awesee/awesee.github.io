@@ -3,7 +3,7 @@ layout:     single
 title:      "括号的最大嵌套深度"
 date:       2020-06-02 21:30:00 +0800
 categories: [Leetcode]
-tags:       [String]
+tags:       [Stack, String]
 permalink:  /problems/maximum-nesting-depth-of-the-parentheses/
 ---
 
@@ -76,6 +76,7 @@ permalink:  /problems/maximum-nesting-depth-of-the-parentheses/
 {% endraw %}
 
 ### 相关话题
+  [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ---

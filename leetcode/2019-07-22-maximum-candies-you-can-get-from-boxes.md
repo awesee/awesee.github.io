@@ -3,7 +3,7 @@ layout:     single
 title:      "你能从盒子里获得的最大糖果数"
 date:       2019-07-22 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Breadth-first Search]
+tags:       [Breadth-First Search, Array]
 permalink:  /problems/maximum-candies-you-can-get-from-boxes/
 ---
 
@@ -88,6 +88,7 @@ permalink:  /problems/maximum-candies-you-can-get-from-boxes/
 
 ### 相关话题
   [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "最大频率栈"
 date:       2018-06-14 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Stack, Hash Table]
+tags:       [Stack, Design, Hash Table, Ordered Set]
 permalink:  /problems/maximum-frequency-stack/
 ---
 
@@ -66,7 +66,9 @@ pop() -&gt; 返回 4 。
 
 ### 相关话题
   [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
+  [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[有序集合](https://github.com/openset/leetcode/tree/master/tag/ordered-set/README.md)]
 
 ---
 

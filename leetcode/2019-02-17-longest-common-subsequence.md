@@ -3,7 +3,7 @@ layout:     single
 title:      "最长公共子序列"
 date:       2019-02-17 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Dynamic Programming]
+tags:       [String, Dynamic Programming]
 permalink:  /problems/longest-common-subsequence/
 ---
 
@@ -59,6 +59,7 @@ permalink:  /problems/longest-common-subsequence/
 {% endraw %}
 
 ### 相关话题
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ---

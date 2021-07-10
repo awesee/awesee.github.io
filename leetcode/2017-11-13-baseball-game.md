@@ -3,7 +3,7 @@ layout:     single
 title:      "棒球比赛"
 date:       2017-11-13 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Stack]
+tags:       [Stack, Array, Simulation]
 permalink:  /problems/baseball-game/
 ---
 
@@ -79,6 +79,8 @@ permalink:  /problems/baseball-game/
 
 ### 相关话题
   [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[模拟](https://github.com/openset/leetcode/tree/master/tag/simulation/README.md)]
 
 ---
 

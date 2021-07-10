@@ -3,7 +3,7 @@ layout:     single
 title:      "最长快乐前缀"
 date:       2019-10-24 21:30:00 +0800
 categories: [Leetcode]
-tags:       [String]
+tags:       [String, String Matching, Hash Function, Rolling Hash]
 permalink:  /problems/longest-happy-prefix/
 ---
 
@@ -58,6 +58,9 @@ permalink:  /problems/longest-happy-prefix/
 
 ### 相关话题
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[字符串匹配](https://github.com/openset/leetcode/tree/master/tag/string-matching/README.md)]
+  [[哈希函数](https://github.com/openset/leetcode/tree/master/tag/hash-function/README.md)]
+  [[滚动哈希](https://github.com/openset/leetcode/tree/master/tag/rolling-hash/README.md)]
 
 ---
 

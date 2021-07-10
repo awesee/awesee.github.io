@@ -3,7 +3,7 @@ layout:     single
 title:      "有效的回旋镖"
 date:       2018-11-03 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Math]
+tags:       [Geometry, Math]
 permalink:  /problems/valid-boomerang/
 ---
 
@@ -41,6 +41,7 @@ permalink:  /problems/valid-boomerang/
 {% endraw %}
 
 ### 相关话题
+  [[几何](https://github.com/openset/leetcode/tree/master/tag/geometry/README.md)]
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
 
 ---

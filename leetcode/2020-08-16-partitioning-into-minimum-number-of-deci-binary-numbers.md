@@ -3,7 +3,7 @@ layout:     single
 title:      "十-二进制数的最少数目"
 date:       2020-08-16 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Greedy]
+tags:       [Greedy, String]
 permalink:  /problems/partitioning-into-minimum-number-of-deci-binary-numbers/
 ---
 
@@ -49,7 +49,8 @@ permalink:  /problems/partitioning-into-minimum-number-of-deci-binary-numbers/
 {% endraw %}
 
 ### 相关话题
-  [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "水果成篮"
 date:       2018-06-23 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Two Pointers]
+tags:       [Array, Hash Table, Sliding Window]
 permalink:  /problems/fruit-into-baskets/
 ---
 
@@ -70,7 +70,9 @@ permalink:  /problems/fruit-into-baskets/
 {% endraw %}
 
 ### 相关话题
-  [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[滑动窗口](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
 
 ---
 

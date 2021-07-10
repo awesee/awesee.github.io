@@ -3,7 +3,7 @@ layout:     single
 title:      "火柴拼正方形"
 date:       2017-04-18 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Depth-first Search]
+tags:       [Bit Manipulation, Array, Dynamic Programming, Backtracking, Bitmask]
 permalink:  /problems/matchsticks-to-square/
 ---
 
@@ -43,7 +43,11 @@ permalink:  /problems/matchsticks-to-square/
 {% endraw %}
 
 ### 相关话题
-  [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[回溯](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[状态压缩](https://github.com/openset/leetcode/tree/master/tag/bitmask/README.md)]
 
 ---
 

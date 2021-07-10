@@ -3,7 +3,7 @@ layout:     single
 title:      "丑数 III"
 date:       2019-04-16 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Math, Binary Search]
+tags:       [Math, Binary Search, Number Theory]
 permalink:  /problems/ugly-number-iii/
 ---
 
@@ -62,6 +62,7 @@ permalink:  /problems/ugly-number-iii/
 ### 相关话题
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
   [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[数论](https://github.com/openset/leetcode/tree/master/tag/number-theory/README.md)]
 
 ---
 

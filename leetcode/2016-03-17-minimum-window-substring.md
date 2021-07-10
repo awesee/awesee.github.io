@@ -3,7 +3,7 @@ layout:     single
 title:      "最小覆盖子串"
 date:       2016-03-17 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Hash Table, Two Pointers, String, Sliding Window]
+tags:       [Hash Table, String, Sliding Window]
 permalink:  /problems/minimum-window-substring/
 ---
 
@@ -47,9 +47,8 @@ permalink:  /problems/minimum-window-substring/
 
 ### 相关话题
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
-  [[Sliding Window](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
+  [[滑动窗口](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
 
 ### 相似题目
   1. [串联所有单词的子串](/problems/substring-with-concatenation-of-all-words) (Hard)

@@ -3,7 +3,7 @@ layout:     single
 title:      "插入区间"
 date:       2016-02-27 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Sort, Array]
+tags:       [Array]
 permalink:  /problems/insert-interval/
 ---
 
@@ -68,7 +68,6 @@ permalink:  /problems/insert-interval/
 {% endraw %}
 
 ### 相关话题
-  [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 
 ### 相似题目

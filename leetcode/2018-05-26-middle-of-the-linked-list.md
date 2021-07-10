@@ -3,7 +3,7 @@ layout:     single
 title:      "链表的中间结点"
 date:       2018-05-26 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Linked List]
+tags:       [Linked List, Two Pointers]
 permalink:  /problems/middle-of-the-linked-list/
 ---
 
@@ -47,6 +47,7 @@ ans.val = 3, ans.next.val = 4, ans.next.next.val = 5, 以及 ans.next.next.next 
 
 ### 相关话题
   [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
+  [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
 
 ---
 

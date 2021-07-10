@@ -3,7 +3,7 @@ layout:     single
 title:      "计数二进制子串"
 date:       2017-11-27 21:30:00 +0800
 categories: [Leetcode]
-tags:       [String]
+tags:       [Two Pointers, String]
 permalink:  /problems/count-binary-substrings/
 ---
 
@@ -49,6 +49,7 @@ permalink:  /problems/count-binary-substrings/
 {% endraw %}
 
 ### 相关话题
+  [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ### 相似题目

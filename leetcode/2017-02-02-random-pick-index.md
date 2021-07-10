@@ -3,7 +3,7 @@ layout:     single
 title:      "随机数索引"
 date:       2017-02-02 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Reservoir Sampling]
+tags:       [Reservoir Sampling, Hash Table, Math, Randomized]
 permalink:  /problems/random-pick-index/
 ---
 
@@ -32,7 +32,10 @@ solution.pick(1);
 {% endraw %}
 
 ### 相关话题
-  [[蓄水池抽样](https://github.com/openset/leetcode/tree/master/tag/reservoir-sampling/README.md)]
+  [[水塘抽样](https://github.com/openset/leetcode/tree/master/tag/reservoir-sampling/README.md)]
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[随机化](https://github.com/openset/leetcode/tree/master/tag/randomized/README.md)]
 
 ### 相似题目
   1. [链表随机节点](/problems/linked-list-random-node) (Medium)

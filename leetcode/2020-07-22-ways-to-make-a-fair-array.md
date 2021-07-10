@@ -3,7 +3,7 @@ layout:     single
 title:      "生成平衡数组的方案数"
 date:       2020-07-22 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Greedy, Dynamic Programming]
+tags:       [Array, Dynamic Programming]
 permalink:  /problems/ways-to-make-a-fair-array/
 ---
 
@@ -68,7 +68,7 @@ permalink:  /problems/ways-to-make-a-fair-array/
 {% endraw %}
 
 ### 相关话题
-  [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ---

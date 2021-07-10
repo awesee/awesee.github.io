@@ -3,7 +3,7 @@ layout:     single
 title:      "地图分析"
 date:       2019-03-08 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Breadth-first Search, Graph]
+tags:       [Breadth-First Search, Array, Dynamic Programming, Matrix]
 permalink:  /problems/as-far-from-land-as-possible/
 ---
 
@@ -52,7 +52,9 @@ permalink:  /problems/as-far-from-land-as-possible/
 
 ### 相关话题
   [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
-  [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[矩阵](https://github.com/openset/leetcode/tree/master/tag/matrix/README.md)]
 
 ### 相似题目
   1. [离建筑物最近的距离](/problems/shortest-distance-from-all-buildings) (Hard)

@@ -3,7 +3,7 @@ layout:     single
 title:      "数组嵌套"
 date:       2017-07-19 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Array]
+tags:       [Depth-First Search, Array]
 permalink:  /problems/array-nesting/
 ---
 
@@ -41,6 +41,7 @@ S[0] = {A[0], A[5], A[6], A[2]} = {5, 6, 2, 0}
 {% endraw %}
 
 ### 相关话题
+  [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 
 ### 相似题目

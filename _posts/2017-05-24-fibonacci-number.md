@@ -3,7 +3,7 @@ layout:     single
 title:      "斐波那契数"
 date:       2017-05-24 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Array]
+tags:       [Recursion, Memoization, Math, Dynamic Programming]
 permalink:  /problems/fibonacci-number/
 ---
 
@@ -57,7 +57,10 @@ F(n) = F(n - 1) + F(n - 2)，其中 n > 1
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[递归](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]
+  [[记忆化搜索](https://github.com/openset/leetcode/tree/master/tag/memoization/README.md)]
+  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### 相似题目
   1. [爬楼梯](/problems/climbing-stairs) (Easy)

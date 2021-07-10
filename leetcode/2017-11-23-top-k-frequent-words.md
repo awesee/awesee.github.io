@@ -3,7 +3,7 @@ layout:     single
 title:      "前K个高频单词"
 date:       2017-11-23 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Heap, Trie, Hash Table]
+tags:       [Trie, Hash Table, String, Bucket Sort, Counting, Sorting, Heap (Priority Queue)]
 permalink:  /problems/top-k-frequent-words/
 ---
 
@@ -55,9 +55,13 @@ permalink:  /problems/top-k-frequent-words/
 {% endraw %}
 
 ### 相关话题
-  [[堆](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]
   [[字典树](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)]
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[桶排序](https://github.com/openset/leetcode/tree/master/tag/bucket-sort/README.md)]
+  [[计数](https://github.com/openset/leetcode/tree/master/tag/counting/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
+  [[堆（优先队列）](https://github.com/openset/leetcode/tree/master/tag/heap-priority-queue/README.md)]
 
 ### 相似题目
   1. [前 K 个高频元素](/problems/top-k-frequent-elements) (Medium)

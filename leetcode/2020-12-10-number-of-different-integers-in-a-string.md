@@ -3,7 +3,7 @@ layout:     single
 title:      "字符串中不同整数的数目"
 date:       2020-12-10 21:30:00 +0800
 categories: [Leetcode]
-tags:       [String]
+tags:       [Hash Table, String]
 permalink:  /problems/number-of-different-integers-in-a-string/
 ---
 
@@ -56,6 +56,7 @@ permalink:  /problems/number-of-different-integers-in-a-string/
 {% endraw %}
 
 ### 相关话题
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ---

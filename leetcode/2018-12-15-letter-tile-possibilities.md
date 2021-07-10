@@ -3,7 +3,7 @@ layout:     single
 title:      "活字印刷"
 date:       2018-12-15 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Backtracking]
+tags:       [String, Backtracking]
 permalink:  /problems/letter-tile-possibilities/
 ---
 
@@ -42,7 +42,8 @@ permalink:  /problems/letter-tile-possibilities/
 {% endraw %}
 
 ### 相关话题
-  [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[回溯](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
 
 ---
 

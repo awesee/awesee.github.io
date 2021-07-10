@@ -3,7 +3,7 @@ layout:     single
 title:      "奇怪的打印机 II"
 date:       2020-05-10 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Greedy]
+tags:       [Graph, Topological Sort, Array, Matrix]
 permalink:  /problems/strange-printer-ii/
 ---
 
@@ -66,7 +66,10 @@ permalink:  /problems/strange-printer-ii/
 {% endraw %}
 
 ### 相关话题
-  [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
+  [[拓扑排序](https://github.com/openset/leetcode/tree/master/tag/topological-sort/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[矩阵](https://github.com/openset/leetcode/tree/master/tag/matrix/README.md)]
 
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "吃掉 N 个橘子的最少天数"
 date:       2020-04-02 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Dynamic Programming]
+tags:       [Memoization, Dynamic Programming]
 permalink:  /problems/minimum-number-of-days-to-eat-n-oranges/
 ---
 
@@ -71,6 +71,7 @@ permalink:  /problems/minimum-number-of-days-to-eat-n-oranges/
 {% endraw %}
 
 ### 相关话题
+  [[记忆化搜索](https://github.com/openset/leetcode/tree/master/tag/memoization/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ---

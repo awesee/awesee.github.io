@@ -3,7 +3,7 @@ layout:     single
 title:      "前序遍历构造二叉搜索树"
 date:       2018-10-05 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Tree]
+tags:       [Stack, Tree, Binary Search Tree, Array, Binary Tree, Monotonic Stack]
 permalink:  /problems/construct-binary-search-tree-from-preorder-traversal/
 ---
 
@@ -39,7 +39,12 @@ permalink:  /problems/construct-binary-search-tree-from-preorder-traversal/
 {% endraw %}
 
 ### 相关话题
+  [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[二叉搜索树](https://github.com/openset/leetcode/tree/master/tag/binary-search-tree/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[二叉树](https://github.com/openset/leetcode/tree/master/tag/binary-tree/README.md)]
+  [[单调栈](https://github.com/openset/leetcode/tree/master/tag/monotonic-stack/README.md)]
 
 ---
 

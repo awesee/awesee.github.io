@@ -3,7 +3,7 @@ layout:     single
 title:      "求解方程"
 date:       2017-10-02 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Math]
+tags:       [Math, String, Simulation]
 permalink:  /problems/solve-the-equation/
 ---
 
@@ -53,6 +53,8 @@ permalink:  /problems/solve-the-equation/
 
 ### 相关话题
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[模拟](https://github.com/openset/leetcode/tree/master/tag/simulation/README.md)]
 
 ### 相似题目
   1. [分数加减运算](/problems/fraction-addition-and-subtraction) (Medium)

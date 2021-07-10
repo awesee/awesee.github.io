@@ -3,7 +3,7 @@ layout:     single
 title:      "使字符串有序的最少操作次数"
 date:       2021-01-04 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Math, String]
+tags:       [Math, String, Combinatorics]
 permalink:  /problems/minimum-number-of-operations-to-make-string-sorted/
 ---
 
@@ -70,6 +70,7 @@ permalink:  /problems/minimum-number-of-operations-to-make-string-sorted/
 ### 相关话题
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[组合数学](https://github.com/openset/leetcode/tree/master/tag/combinatorics/README.md)]
 
 ---
 

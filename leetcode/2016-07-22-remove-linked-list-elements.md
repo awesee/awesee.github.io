@@ -3,7 +3,7 @@ layout:     single
 title:      "移除链表元素"
 date:       2016-07-22 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Linked List]
+tags:       [Recursion, Linked List]
 permalink:  /problems/remove-linked-list-elements/
 ---
 
@@ -40,14 +40,15 @@ permalink:  /problems/remove-linked-list-elements/
 <p><strong>提示：</strong></p>
 
 <ul>
-	<li>列表中的节点在范围 <code>[0, 10<sup>4</sup>]</code> 内</li>
+	<li>列表中的节点数目在范围 <code>[0, 10<sup>4</sup>]</code> 内</li>
 	<li><code>1 <= Node.val <= 50</code></li>
-	<li><code>0 <= k <= 50</code></li>
+	<li><code>0 <= val <= 50</code></li>
 </ul>
 
 {% endraw %}
 
 ### 相关话题
+  [[递归](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]
   [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
 
 ### 相似题目

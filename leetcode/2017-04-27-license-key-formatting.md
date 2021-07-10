@@ -3,7 +3,7 @@ layout:     single
 title:      "密钥格式化"
 date:       2017-04-27 21:30:00 +0800
 categories: [Leetcode]
-tags:       []
+tags:       [String]
 permalink:  /problems/license-key-formatting/
 ---
 
@@ -47,6 +47,9 @@ permalink:  /problems/license-key-formatting/
 <p>&nbsp;</p>
 
 {% endraw %}
+
+### 相关话题
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ---
 

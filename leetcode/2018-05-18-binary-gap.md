@@ -3,7 +3,7 @@ layout:     single
 title:      "二进制间距"
 date:       2018-05-18 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Math]
+tags:       [Bit Manipulation, Math]
 permalink:  /problems/binary-gap/
 ---
 
@@ -79,6 +79,7 @@ permalink:  /problems/binary-gap/
 {% endraw %}
 
 ### 相关话题
+  [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
 
 ---

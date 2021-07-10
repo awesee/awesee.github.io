@@ -3,7 +3,7 @@ layout:     single
 title:      "三数之和的多种可能"
 date:       2018-07-12 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Two Pointers]
+tags:       [Array, Hash Table, Two Pointers, Counting, Sorting]
 permalink:  /problems/3sum-with-multiplicity/
 ---
 
@@ -52,7 +52,11 @@ A[i] = 1，A[j] = A[k] = 2 出现 12 次：
 {% endraw %}
 
 ### 相关话题
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
   [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+  [[计数](https://github.com/openset/leetcode/tree/master/tag/counting/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
 
 ---
 

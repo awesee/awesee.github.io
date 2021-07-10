@@ -3,7 +3,7 @@ layout:     single
 title:      "二叉树展开为链表"
 date:       2016-04-24 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Tree, Depth-first Search]
+tags:       [Stack, Tree, Depth-First Search, Linked List, Binary Tree]
 permalink:  /problems/flatten-binary-tree-to-linked-list/
 ---
 
@@ -57,8 +57,11 @@ permalink:  /problems/flatten-binary-tree-to-linked-list/
 {% endraw %}
 
 ### 相关话题
+  [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
   [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
+  [[二叉树](https://github.com/openset/leetcode/tree/master/tag/binary-tree/README.md)]
 
 ### 相似题目
   1. [扁平化多级双向链表](/problems/flatten-a-multilevel-doubly-linked-list) (Medium)

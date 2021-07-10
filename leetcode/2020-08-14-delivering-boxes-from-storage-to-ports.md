@@ -3,7 +3,7 @@ layout:     single
 title:      "从仓库到码头运输箱子"
 date:       2020-08-14 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Segment Tree, Two Pointers, Dynamic Programming]
+tags:       [Segment Tree, Queue, Array, Dynamic Programming, Monotonic Queue, Heap (Priority Queue)]
 permalink:  /problems/delivering-boxes-from-storage-to-ports/
 ---
 
@@ -96,8 +96,11 @@ permalink:  /problems/delivering-boxes-from-storage-to-ports/
 
 ### 相关话题
   [[线段树](https://github.com/openset/leetcode/tree/master/tag/segment-tree/README.md)]
-  [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+  [[队列](https://github.com/openset/leetcode/tree/master/tag/queue/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[单调队列](https://github.com/openset/leetcode/tree/master/tag/monotonic-queue/README.md)]
+  [[堆（优先队列）](https://github.com/openset/leetcode/tree/master/tag/heap-priority-queue/README.md)]
 
 ---
 

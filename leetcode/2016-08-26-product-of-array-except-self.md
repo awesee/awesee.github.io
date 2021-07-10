@@ -3,7 +3,7 @@ layout:     single
 title:      "除自身以外数组的乘积"
 date:       2016-08-26 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Array]
+tags:       [Array, Prefix Sum]
 permalink:  /problems/product-of-array-except-self/
 ---
 
@@ -33,6 +33,7 @@ permalink:  /problems/product-of-array-except-self/
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[前缀和](https://github.com/openset/leetcode/tree/master/tag/prefix-sum/README.md)]
 
 ### 相似题目
   1. [接雨水](/problems/trapping-rain-water) (Hard)

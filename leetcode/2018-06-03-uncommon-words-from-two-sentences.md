@@ -3,7 +3,7 @@ layout:     single
 title:      "两句话中的不常见单词"
 date:       2018-06-03 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Hash Table]
+tags:       [Hash Table, String]
 permalink:  /problems/uncommon-words-from-two-sentences/
 ---
 
@@ -50,6 +50,7 @@ permalink:  /problems/uncommon-words-from-two-sentences/
 
 ### 相关话题
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ---
 

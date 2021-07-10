@@ -3,7 +3,7 @@ layout:     single
 title:      "删除排序链表中的重复元素 II"
 date:       2016-03-23 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Linked List]
+tags:       [Linked List, Two Pointers]
 permalink:  /problems/remove-duplicates-from-sorted-list-ii/
 ---
 
@@ -45,6 +45,7 @@ permalink:  /problems/remove-duplicates-from-sorted-list-ii/
 
 ### 相关话题
   [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
+  [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
 
 ### 相似题目
   1. [删除排序链表中的重复元素](/problems/remove-duplicates-from-sorted-list) (Easy)

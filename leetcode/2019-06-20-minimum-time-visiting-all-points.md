@@ -3,7 +3,7 @@ layout:     single
 title:      "访问所有点的最小时间"
 date:       2019-06-20 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Geometry, Array]
+tags:       [Geometry, Array, Math]
 permalink:  /problems/minimum-time-visiting-all-points/
 ---
 
@@ -64,6 +64,7 @@ permalink:  /problems/minimum-time-visiting-all-points/
 ### 相关话题
   [[几何](https://github.com/openset/leetcode/tree/master/tag/geometry/README.md)]
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
 
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "设计有序流"
 date:       2020-07-14 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Design, Array]
+tags:       [Design, Array, Hash Table, Data Stream]
 permalink:  /problems/design-an-ordered-stream/
 ---
 
@@ -69,6 +69,8 @@ os.insert(4, "ddddd"); // 插入 (4, "ddddd")，返回 ["ddddd", "eeeee"]
 ### 相关话题
   [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[数据流](https://github.com/openset/leetcode/tree/master/tag/data-stream/README.md)]
 
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "独一无二的出现次数"
 date:       2019-04-22 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Hash Table]
+tags:       [Array, Hash Table]
 permalink:  /problems/unique-number-of-occurrences/
 ---
 
@@ -47,6 +47,7 @@ permalink:  /problems/unique-number-of-occurrences/
 {% endraw %}
 
 ### 相关话题
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
 
 ---

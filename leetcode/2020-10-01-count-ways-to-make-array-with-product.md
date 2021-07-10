@@ -3,7 +3,7 @@ layout:     single
 title:      "生成乘积数组的方案数"
 date:       2020-10-01 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Math]
+tags:       [Array, Math, Dynamic Programming]
 permalink:  /problems/count-ways-to-make-array-with-product/
 ---
 
@@ -47,7 +47,9 @@ permalink:  /problems/count-ways-to-make-array-with-product/
 {% endraw %}
 
 ### 相关话题
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ---
 

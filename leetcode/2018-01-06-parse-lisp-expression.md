@@ -3,7 +3,7 @@ layout:     single
 title:      "Lisp 语法解析"
 date:       2018-01-06 21:30:00 +0800
 categories: [Leetcode]
-tags:       [String]
+tags:       [Stack, Recursion, Hash Table, String]
 permalink:  /problems/parse-lisp-expression/
 ---
 
@@ -80,6 +80,9 @@ permalink:  /problems/parse-lisp-expression/
 {% endraw %}
 
 ### 相关话题
+  [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
+  [[递归](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ### 相似题目

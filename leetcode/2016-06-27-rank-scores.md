@@ -3,7 +3,7 @@ layout:     single
 title:      "分数排名"
 date:       2016-06-27 21:30:00 +0800
 categories: [Leetcode]
-tags:       []
+tags:       [Database]
 permalink:  /problems/rank-scores/
 ---
 
@@ -44,6 +44,9 @@ permalink:  /problems/rank-scores/
 <p><strong>重要提示：</strong>对于 MySQL 解决方案，如果要转义用作列名的保留字，可以在关键字之前和之后使用撇号。例如 <strong>`Rank`</strong></p>
 
 {% endraw %}
+
+### 相关话题
+  [[数据库](https://github.com/openset/leetcode/tree/master/tag/database/README.md)]
 
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "段式回文"
 date:       2019-02-21 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Dynamic Programming]
+tags:       [Greedy, Two Pointers, String, Dynamic Programming, Hash Function, Rolling Hash]
 permalink:  /problems/longest-chunked-palindrome-decomposition/
 ---
 
@@ -69,7 +69,12 @@ permalink:  /problems/longest-chunked-palindrome-decomposition/
 {% endraw %}
 
 ### 相关话题
+  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[哈希函数](https://github.com/openset/leetcode/tree/master/tag/hash-function/README.md)]
+  [[滚动哈希](https://github.com/openset/leetcode/tree/master/tag/rolling-hash/README.md)]
 
 ---
 

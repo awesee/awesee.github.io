@@ -3,7 +3,7 @@ layout:     single
 title:      "好子数组的最大分数"
 date:       2020-11-28 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Greedy]
+tags:       [Stack, Array, Two Pointers, Monotonic Stack]
 permalink:  /problems/maximum-score-of-a-good-subarray/
 ---
 
@@ -46,7 +46,10 @@ permalink:  /problems/maximum-score-of-a-good-subarray/
 {% endraw %}
 
 ### 相关话题
-  [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+  [[单调栈](https://github.com/openset/leetcode/tree/master/tag/monotonic-stack/README.md)]
 
 ---
 

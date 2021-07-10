@@ -3,7 +3,7 @@ layout:     single
 title:      "安排电影院座位"
 date:       2019-10-18 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Greedy, Array]
+tags:       [Greedy, Bit Manipulation, Array, Hash Table]
 permalink:  /problems/cinema-seat-allocation/
 ---
 
@@ -58,8 +58,10 @@ permalink:  /problems/cinema-seat-allocation/
 {% endraw %}
 
 ### 相关话题
-  [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
 
 ---
 

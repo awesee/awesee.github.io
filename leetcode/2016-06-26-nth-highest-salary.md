@@ -3,7 +3,7 @@ layout:     single
 title:      "第N高的薪水"
 date:       2016-06-26 21:30:00 +0800
 categories: [Leetcode]
-tags:       []
+tags:       [Database]
 permalink:  /problems/nth-highest-salary/
 ---
 
@@ -32,6 +32,9 @@ permalink:  /problems/nth-highest-salary/
 </pre>
 
 {% endraw %}
+
+### 相关话题
+  [[数据库](https://github.com/openset/leetcode/tree/master/tag/database/README.md)]
 
 ---
 

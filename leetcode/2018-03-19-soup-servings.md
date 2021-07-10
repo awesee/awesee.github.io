@@ -3,7 +3,7 @@ layout:     single
 title:      "分汤"
 date:       2018-03-19 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Dynamic Programming]
+tags:       [Math, Dynamic Programming, Probability and Statistics]
 permalink:  /problems/soup-servings/
 ---
 
@@ -47,7 +47,9 @@ permalink:  /problems/soup-servings/
 {% endraw %}
 
 ### 相关话题
+  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[概率与统计](https://github.com/openset/leetcode/tree/master/tag/probability-and-statistics/README.md)]
 
 ---
 

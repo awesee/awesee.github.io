@@ -3,7 +3,7 @@ layout:     single
 title:      "滑动窗口最大值"
 date:       2016-08-27 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Heap, Sliding Window]
+tags:       [Queue, Array, Sliding Window, Monotonic Queue, Heap (Priority Queue)]
 permalink:  /problems/sliding-window-maximum/
 ---
 
@@ -73,8 +73,11 @@ permalink:  /problems/sliding-window-maximum/
 {% endraw %}
 
 ### 相关话题
-  [[堆](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]
-  [[Sliding Window](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
+  [[队列](https://github.com/openset/leetcode/tree/master/tag/queue/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[滑动窗口](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
+  [[单调队列](https://github.com/openset/leetcode/tree/master/tag/monotonic-queue/README.md)]
+  [[堆（优先队列）](https://github.com/openset/leetcode/tree/master/tag/heap-priority-queue/README.md)]
 
 ### 相似题目
   1. [最小覆盖子串](/problems/minimum-window-substring) (Hard)

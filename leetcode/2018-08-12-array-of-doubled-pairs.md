@@ -3,7 +3,7 @@ layout:     single
 title:      "二倍数对数组"
 date:       2018-08-12 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Array, Hash Table]
+tags:       [Greedy, Array, Hash Table, Sorting]
 permalink:  /problems/array-of-doubled-pairs/
 ---
 
@@ -57,8 +57,10 @@ permalink:  /problems/array-of-doubled-pairs/
 {% endraw %}
 
 ### 相关话题
+  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
 
 ---
 

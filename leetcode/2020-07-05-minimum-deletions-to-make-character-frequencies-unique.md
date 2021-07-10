@@ -3,7 +3,7 @@ layout:     single
 title:      "字符频次唯一的最小删除次数"
 date:       2020-07-05 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Greedy, Sort]
+tags:       [Greedy, String, Sorting]
 permalink:  /problems/minimum-deletions-to-make-character-frequencies-unique/
 ---
 
@@ -56,8 +56,9 @@ permalink:  /problems/minimum-deletions-to-make-character-frequencies-unique/
 {% endraw %}
 
 ### 相关话题
-  [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
-  [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
+  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
 
 ---
 

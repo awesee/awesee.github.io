@@ -3,7 +3,7 @@ layout:     single
 title:      "为高尔夫比赛砍树"
 date:       2017-11-06 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Breadth-first Search]
+tags:       [Breadth-First Search, Array, Matrix, Heap (Priority Queue)]
 permalink:  /problems/cut-off-trees-for-golf-event/
 ---
 
@@ -68,6 +68,9 @@ permalink:  /problems/cut-off-trees-for-golf-event/
 
 ### 相关话题
   [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[矩阵](https://github.com/openset/leetcode/tree/master/tag/matrix/README.md)]
+  [[堆（优先队列）](https://github.com/openset/leetcode/tree/master/tag/heap-priority-queue/README.md)]
 
 ---
 

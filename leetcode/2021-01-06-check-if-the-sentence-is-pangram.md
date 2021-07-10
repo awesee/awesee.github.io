@@ -3,7 +3,7 @@ layout:     single
 title:      "判断句子是否为全字母句"
 date:       2021-01-06 21:30:00 +0800
 categories: [Leetcode]
-tags:       [String]
+tags:       [Hash Table, String]
 permalink:  /problems/check-if-the-sentence-is-pangram/
 ---
 
@@ -46,6 +46,7 @@ permalink:  /problems/check-if-the-sentence-is-pangram/
 {% endraw %}
 
 ### 相关话题
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ---

@@ -3,7 +3,7 @@ layout:     single
 title:      "最大间距"
 date:       2016-06-13 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Sort]
+tags:       [Array, Bucket Sort, Radix Sort, Sorting]
 permalink:  /problems/maximum-gap/
 ---
 
@@ -37,7 +37,10 @@ permalink:  /problems/maximum-gap/
 {% endraw %}
 
 ### 相关话题
-  [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[桶排序](https://github.com/openset/leetcode/tree/master/tag/bucket-sort/README.md)]
+  [[基数排序](https://github.com/openset/leetcode/tree/master/tag/radix-sort/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
 
 ---
 

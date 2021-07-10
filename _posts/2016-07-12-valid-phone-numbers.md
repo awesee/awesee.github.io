@@ -3,7 +3,7 @@ layout:     single
 title:      "有效电话号码"
 date:       2016-07-12 21:30:00 +0800
 categories: [Leetcode]
-tags:       []
+tags:       [Shell]
 permalink:  /problems/valid-phone-numbers/
 ---
 
@@ -37,6 +37,9 @@ permalink:  /problems/valid-phone-numbers/
 </pre>
 
 {% endraw %}
+
+### 相关话题
+  [[Shell](https://github.com/openset/leetcode/tree/master/tag/shell/README.md)]
 
 ---
 

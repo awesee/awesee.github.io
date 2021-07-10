@@ -3,7 +3,7 @@ layout:     single
 title:      "K 站中转内最便宜的航班"
 date:       2018-02-26 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Heap, Breadth-first Search, Dynamic Programming]
+tags:       [Depth-First Search, Breadth-First Search, Graph, Dynamic Programming, Shortest Path, Heap (Priority Queue)]
 permalink:  /problems/cheapest-flights-within-k-stops/
 ---
 
@@ -59,9 +59,12 @@ src = 0, dst = 2, k = 0
 {% endraw %}
 
 ### 相关话题
-  [[堆](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]
+  [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
   [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
+  [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[最短路](https://github.com/openset/leetcode/tree/master/tag/shortest-path/README.md)]
+  [[堆（优先队列）](https://github.com/openset/leetcode/tree/master/tag/heap-priority-queue/README.md)]
 
 ### 相似题目
   1. [最大休假天数](/problems/maximum-vacation-days) (Hard)

@@ -3,7 +3,7 @@ layout:     single
 title:      "单字符重复子串的最大长度"
 date:       2019-03-02 21:30:00 +0800
 categories: [Leetcode]
-tags:       [String]
+tags:       [String, Sliding Window]
 permalink:  /problems/swap-for-longest-repeated-character-substring/
 ---
 
@@ -60,6 +60,7 @@ permalink:  /problems/swap-for-longest-repeated-character-substring/
 
 ### 相关话题
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[滑动窗口](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
 
 ---
 

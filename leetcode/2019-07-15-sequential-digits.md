@@ -3,7 +3,7 @@ layout:     single
 title:      "顺次数"
 date:       2019-07-15 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Backtracking]
+tags:       [Enumeration]
 permalink:  /problems/sequential-digits/
 ---
 
@@ -40,7 +40,7 @@ permalink:  /problems/sequential-digits/
 {% endraw %}
 
 ### 相关话题
-  [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[枚举](https://github.com/openset/leetcode/tree/master/tag/enumeration/README.md)]
 
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "二叉搜索子树的最大键值和"
 date:       2019-10-05 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Binary Search Tree, Dynamic Programming]
+tags:       [Tree, Depth-First Search, Binary Search Tree, Dynamic Programming, Binary Tree]
 permalink:  /problems/maximum-sum-bst-in-binary-tree/
 ---
 
@@ -77,8 +77,11 @@ permalink:  /problems/maximum-sum-bst-in-binary-tree/
 {% endraw %}
 
 ### 相关话题
+  [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
   [[二叉搜索树](https://github.com/openset/leetcode/tree/master/tag/binary-search-tree/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[二叉树](https://github.com/openset/leetcode/tree/master/tag/binary-tree/README.md)]
 
 ---
 

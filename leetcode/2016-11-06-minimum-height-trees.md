@@ -3,7 +3,7 @@ layout:     single
 title:      "最小高度树"
 date:       2016-11-06 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Breadth-first Search, Graph]
+tags:       [Depth-First Search, Breadth-First Search, Graph, Topological Sort]
 permalink:  /problems/minimum-height-trees/
 ---
 
@@ -69,8 +69,10 @@ permalink:  /problems/minimum-height-trees/
 {% endraw %}
 
 ### 相关话题
+  [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
   [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
   [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
+  [[拓扑排序](https://github.com/openset/leetcode/tree/master/tag/topological-sort/README.md)]
 
 ### 相似题目
   1. [课程表](/problems/course-schedule) (Medium)

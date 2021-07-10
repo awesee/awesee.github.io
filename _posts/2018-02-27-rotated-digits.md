@@ -3,7 +3,7 @@ layout:     single
 title:      "旋转数字"
 date:       2018-02-27 21:30:00 +0800
 categories: [Leetcode]
-tags:       [String]
+tags:       [Math, Dynamic Programming]
 permalink:  /problems/rotated-digits/
 ---
 
@@ -39,7 +39,8 @@ permalink:  /problems/rotated-digits/
 {% endraw %}
 
 ### 相关话题
-  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ---
 

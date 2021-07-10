@@ -3,7 +3,7 @@ layout:     single
 title:      "至少是其他数字两倍的最大数"
 date:       2018-01-17 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Array]
+tags:       [Array, Sorting]
 permalink:  /problems/largest-number-at-least-twice-of-others/
 ---
 
@@ -54,6 +54,7 @@ permalink:  /problems/largest-number-at-least-twice-of-others/
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
 
 ---
 

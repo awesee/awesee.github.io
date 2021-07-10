@@ -3,7 +3,7 @@ layout:     single
 title:      "无重叠区间"
 date:       2017-03-11 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Greedy]
+tags:       [Greedy, Array, Dynamic Programming, Sorting]
 permalink:  /problems/non-overlapping-intervals/
 ---
 
@@ -53,7 +53,10 @@ permalink:  /problems/non-overlapping-intervals/
 {% endraw %}
 
 ### 相关话题
-  [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
 
 ### 相似题目
   1. [用最少数量的箭引爆气球](/problems/minimum-number-of-arrows-to-burst-balloons) (Medium)

@@ -3,7 +3,7 @@ layout:     single
 title:      "有序链表转换二叉搜索树"
 date:       2016-04-19 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Depth-first Search, Linked List]
+tags:       [Tree, Binary Search Tree, Linked List, Divide and Conquer, Binary Tree]
 permalink:  /problems/convert-sorted-list-to-binary-search-tree/
 ---
 
@@ -31,8 +31,11 @@ permalink:  /problems/convert-sorted-list-to-binary-search-tree/
 {% endraw %}
 
 ### 相关话题
-  [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[二叉搜索树](https://github.com/openset/leetcode/tree/master/tag/binary-search-tree/README.md)]
   [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
+  [[分治](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]
+  [[二叉树](https://github.com/openset/leetcode/tree/master/tag/binary-tree/README.md)]
 
 ### 相似题目
   1. [将有序数组转换为二叉搜索树](/problems/convert-sorted-array-to-binary-search-tree) (Easy)

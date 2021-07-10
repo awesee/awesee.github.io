@@ -3,7 +3,7 @@ layout:     single
 title:      "有效的正方形"
 date:       2017-08-16 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Math]
+tags:       [Geometry, Math]
 permalink:  /problems/valid-square/
 ---
 
@@ -35,6 +35,7 @@ permalink:  /problems/valid-square/
 {% endraw %}
 
 ### 相关话题
+  [[几何](https://github.com/openset/leetcode/tree/master/tag/geometry/README.md)]
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
 
 ---

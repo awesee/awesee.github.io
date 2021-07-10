@@ -3,7 +3,7 @@ layout:     single
 title:      "黄金矿工"
 date:       2019-05-04 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Backtracking]
+tags:       [Array, Backtracking, Matrix]
 permalink:  /problems/path-with-maximum-gold/
 ---
 
@@ -62,7 +62,9 @@ permalink:  /problems/path-with-maximum-gold/
 {% endraw %}
 
 ### 相关话题
-  [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[回溯](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[矩阵](https://github.com/openset/leetcode/tree/master/tag/matrix/README.md)]
 
 ---
 

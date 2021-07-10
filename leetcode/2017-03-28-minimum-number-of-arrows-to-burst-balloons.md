@@ -3,7 +3,7 @@ layout:     single
 title:      "用最少数量的箭引爆气球"
 date:       2017-03-28 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Greedy, Sort]
+tags:       [Greedy, Array, Sorting]
 permalink:  /problems/minimum-number-of-arrows-to-burst-balloons/
 ---
 
@@ -58,7 +58,7 @@ permalink:  /problems/minimum-number-of-arrows-to-burst-balloons/
 <p><strong>提示：</strong></p>
 
 <ul>
-	<li><code>0 <= points.length <= 10<sup>4</sup></code></li>
+	<li><code>1 <= points.length <= 10<sup>4</sup></code></li>
 	<li><code>points[i].length == 2</code></li>
 	<li><code>-2<sup>31</sup> <= x<sub>start</sub> < x<sub>end</sub> <= 2<sup>31</sup> - 1</code></li>
 </ul>
@@ -66,8 +66,9 @@ permalink:  /problems/minimum-number-of-arrows-to-burst-balloons/
 {% endraw %}
 
 ### 相关话题
-  [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
-  [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
+  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
 
 ### 相似题目
   1. [会议室 II](/problems/meeting-rooms-ii) (Medium)

@@ -3,7 +3,7 @@ layout:     single
 title:      "统计所有可行路径"
 date:       2020-04-24 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Dynamic Programming]
+tags:       [Memoization, Array, Dynamic Programming]
 permalink:  /problems/count-all-possible-routes/
 ---
 
@@ -85,6 +85,8 @@ permalink:  /problems/count-all-possible-routes/
 {% endraw %}
 
 ### 相关话题
+  [[记忆化搜索](https://github.com/openset/leetcode/tree/master/tag/memoization/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ---

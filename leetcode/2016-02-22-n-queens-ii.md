@@ -48,7 +48,7 @@ permalink:  /problems/n-queens-ii/
 {% endraw %}
 
 ### 相关话题
-  [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[回溯](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
 
 ### 相似题目
   1. [N 皇后](/problems/n-queens) (Hard)

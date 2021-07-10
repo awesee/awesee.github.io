@@ -3,7 +3,7 @@ layout:     single
 title:      "分裂二叉树的最大乘积"
 date:       2019-09-01 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Tree, Dynamic Programming]
+tags:       [Tree, Depth-First Search, Binary Tree]
 permalink:  /problems/maximum-product-of-splitted-binary-tree/
 ---
 
@@ -60,7 +60,8 @@ permalink:  /problems/maximum-product-of-splitted-binary-tree/
 
 ### 相关话题
   [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
-  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[二叉树](https://github.com/openset/leetcode/tree/master/tag/binary-tree/README.md)]
 
 ---
 

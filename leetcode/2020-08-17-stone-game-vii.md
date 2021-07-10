@@ -3,7 +3,7 @@ layout:     single
 title:      "石子游戏 VII"
 date:       2020-08-17 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Dynamic Programming]
+tags:       [Array, Math, Dynamic Programming, Game Theory]
 permalink:  /problems/stone-game-vii/
 ---
 
@@ -54,7 +54,10 @@ permalink:  /problems/stone-game-vii/
 {% endraw %}
 
 ### 相关话题
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[博弈](https://github.com/openset/leetcode/tree/master/tag/game-theory/README.md)]
 
 ---
 

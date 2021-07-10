@@ -3,7 +3,7 @@ layout:     single
 title:      "数的平方等于两数乘积的方法数"
 date:       2020-04-26 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Hash Table, Math]
+tags:       [Array, Hash Table, Math, Two Pointers]
 permalink:  /problems/number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers/
 ---
 
@@ -63,8 +63,10 @@ permalink:  /problems/number-of-ways-where-square-of-number-is-equal-to-product-
 {% endraw %}
 
 ### 相关话题
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
 
 ---
 

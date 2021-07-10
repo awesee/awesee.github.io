@@ -3,7 +3,7 @@ layout:     single
 title:      "排布二进制网格的最少交换次数"
 date:       2020-03-16 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Greedy]
+tags:       [Greedy, Array, Matrix]
 permalink:  /problems/minimum-swaps-to-arrange-a-binary-grid/
 ---
 
@@ -60,7 +60,9 @@ permalink:  /problems/minimum-swaps-to-arrange-a-binary-grid/
 {% endraw %}
 
 ### 相关话题
-  [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[矩阵](https://github.com/openset/leetcode/tree/master/tag/matrix/README.md)]
 
 ---
 

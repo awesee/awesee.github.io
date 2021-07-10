@@ -3,7 +3,7 @@ layout:     single
 title:      "比较字符串最小字母出现频次"
 date:       2019-03-16 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Array, String, Binary Search]
+tags:       [Array, Hash Table, String, Binary Search, Sorting]
 permalink:  /problems/compare-strings-by-frequency-of-the-smallest-character/
 ---
 
@@ -52,8 +52,10 @@ permalink:  /problems/compare-strings-by-frequency-of-the-smallest-character/
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
   [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
 
 ---
 

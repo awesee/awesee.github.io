@@ -3,7 +3,7 @@ layout:     single
 title:      "天际线问题"
 date:       2016-08-06 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Heap, Binary Indexed Tree, Segment Tree, Divide and Conquer, Line Sweep]
+tags:       [Binary Indexed Tree, Segment Tree, Array, Divide and Conquer, Ordered Set, Line Sweep, Heap (Priority Queue)]
 permalink:  /problems/the-skyline-problem/
 ---
 
@@ -57,11 +57,13 @@ permalink:  /problems/the-skyline-problem/
 {% endraw %}
 
 ### 相关话题
-  [[堆](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]
   [[树状数组](https://github.com/openset/leetcode/tree/master/tag/binary-indexed-tree/README.md)]
   [[线段树](https://github.com/openset/leetcode/tree/master/tag/segment-tree/README.md)]
-  [[分治算法](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]
-  [[Line Sweep](https://github.com/openset/leetcode/tree/master/tag/line-sweep/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[分治](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]
+  [[有序集合](https://github.com/openset/leetcode/tree/master/tag/ordered-set/README.md)]
+  [[扫描线](https://github.com/openset/leetcode/tree/master/tag/line-sweep/README.md)]
+  [[堆（优先队列）](https://github.com/openset/leetcode/tree/master/tag/heap-priority-queue/README.md)]
 
 ### 相似题目
   1. [掉落的方块](/problems/falling-squares) (Hard)

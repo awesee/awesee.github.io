@@ -3,7 +3,7 @@ layout:     single
 title:      "字母大小写全排列"
 date:       2018-02-23 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Bit Manipulation, Backtracking]
+tags:       [Bit Manipulation, String, Backtracking]
 permalink:  /problems/letter-case-permutation/
 ---
 
@@ -39,7 +39,8 @@ permalink:  /problems/letter-case-permutation/
 
 ### 相关话题
   [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
-  [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[回溯](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
 
 ### 相似题目
   1. [子集](/problems/subsets) (Medium)

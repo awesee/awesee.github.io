@@ -3,7 +3,7 @@ layout:     single
 title:      "反转链表"
 date:       2016-07-25 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Linked List]
+tags:       [Recursion, Linked List]
 permalink:  /problems/reverse-linked-list/
 ---
 
@@ -55,6 +55,7 @@ permalink:  /problems/reverse-linked-list/
 {% endraw %}
 
 ### 相关话题
+  [[递归](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]
   [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
 
 ### 相似题目

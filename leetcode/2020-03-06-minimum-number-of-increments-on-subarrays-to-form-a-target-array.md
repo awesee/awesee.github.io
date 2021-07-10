@@ -3,7 +3,7 @@ layout:     single
 title:      "形成目标数组的子数组最少增加次数"
 date:       2020-03-06 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Segment Tree]
+tags:       [Stack, Greedy, Array, Dynamic Programming, Monotonic Stack]
 permalink:  /problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/
 ---
 
@@ -67,7 +67,11 @@ permalink:  /problems/minimum-number-of-increments-on-subarrays-to-form-a-target
 {% endraw %}
 
 ### 相关话题
-  [[线段树](https://github.com/openset/leetcode/tree/master/tag/segment-tree/README.md)]
+  [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
+  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[单调栈](https://github.com/openset/leetcode/tree/master/tag/monotonic-stack/README.md)]
 
 ---
 

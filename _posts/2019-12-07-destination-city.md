@@ -3,7 +3,7 @@ layout:     single
 title:      "旅行终点站"
 date:       2019-12-07 21:30:00 +0800
 categories: [Leetcode]
-tags:       [String]
+tags:       [Hash Table, String]
 permalink:  /problems/destination-city/
 ---
 
@@ -57,6 +57,7 @@ permalink:  /problems/destination-city/
 {% endraw %}
 
 ### 相关话题
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ---

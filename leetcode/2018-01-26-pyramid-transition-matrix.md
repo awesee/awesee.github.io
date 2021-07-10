@@ -3,7 +3,7 @@ layout:     single
 title:      "金字塔转换矩阵"
 date:       2018-01-26 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Bit Manipulation, Depth-first Search]
+tags:       [Bit Manipulation, Depth-First Search, Breadth-First Search]
 permalink:  /problems/pyramid-transition-matrix/
 ---
 
@@ -64,6 +64,7 @@ B   C   D
 ### 相关话题
   [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
   [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
 
 ---
 

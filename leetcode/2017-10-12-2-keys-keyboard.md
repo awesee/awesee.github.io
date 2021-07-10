@@ -3,7 +3,7 @@ layout:     single
 title:      "只有两个键的键盘"
 date:       2017-10-12 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Dynamic Programming]
+tags:       [Math, Dynamic Programming]
 permalink:  /problems/2-keys-keyboard/
 ---
 
@@ -41,6 +41,7 @@ permalink:  /problems/2-keys-keyboard/
 {% endraw %}
 
 ### 相关话题
+  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### 相似题目

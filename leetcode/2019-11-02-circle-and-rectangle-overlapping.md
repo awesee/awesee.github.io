@@ -3,7 +3,7 @@ layout:     single
 title:      "圆和矩形是否有重叠"
 date:       2019-11-02 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Geometry]
+tags:       [Geometry, Math]
 permalink:  /problems/circle-and-rectangle-overlapping/
 ---
 
@@ -65,6 +65,7 @@ permalink:  /problems/circle-and-rectangle-overlapping/
 
 ### 相关话题
   [[几何](https://github.com/openset/leetcode/tree/master/tag/geometry/README.md)]
+  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
 
 ---
 

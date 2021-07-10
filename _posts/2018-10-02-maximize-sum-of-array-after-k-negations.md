@@ -3,7 +3,7 @@ layout:     single
 title:      "K 次取反后最大化的数组和"
 date:       2018-10-02 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Greedy]
+tags:       [Greedy, Array, Sorting]
 permalink:  /problems/maximize-sum-of-array-after-k-negations/
 ---
 
@@ -51,7 +51,9 @@ permalink:  /problems/maximize-sum-of-array-after-k-negations/
 {% endraw %}
 
 ### 相关话题
-  [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
 
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "隔离病毒"
 date:       2018-01-19 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Depth-first Search]
+tags:       [Depth-First Search, Breadth-First Search, Array, Matrix, Simulation]
 permalink:  /problems/contain-virus/
 ---
 
@@ -79,6 +79,10 @@ permalink:  /problems/contain-virus/
 
 ### 相关话题
   [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[矩阵](https://github.com/openset/leetcode/tree/master/tag/matrix/README.md)]
+  [[模拟](https://github.com/openset/leetcode/tree/master/tag/simulation/README.md)]
 
 ---
 

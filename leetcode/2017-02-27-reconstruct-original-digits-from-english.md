@@ -3,7 +3,7 @@ layout:     single
 title:      "从英文中重建数字"
 date:       2017-02-27 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Math]
+tags:       [Hash Table, Math, String]
 permalink:  /problems/reconstruct-original-digits-from-english/
 ---
 
@@ -40,7 +40,9 @@ permalink:  /problems/reconstruct-original-digits-from-english/
 {% endraw %}
 
 ### 相关话题
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "使数组和能被 P 整除"
 date:       2020-05-09 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Array, Hash Table, Math, Binary Search]
+tags:       [Array, Hash Table, Prefix Sum]
 permalink:  /problems/make-sum-divisible-by-p/
 ---
 
@@ -68,8 +68,7 @@ permalink:  /problems/make-sum-divisible-by-p/
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[前缀和](https://github.com/openset/leetcode/tree/master/tag/prefix-sum/README.md)]
 
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "搜索推荐系统"
 date:       2019-06-22 21:30:00 +0800
 categories: [Leetcode]
-tags:       [String]
+tags:       [Trie, Array, String]
 permalink:  /problems/search-suggestions-system/
 ---
 
@@ -67,6 +67,8 @@ permalink:  /problems/search-suggestions-system/
 {% endraw %}
 
 ### 相关话题
+  [[字典树](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ---

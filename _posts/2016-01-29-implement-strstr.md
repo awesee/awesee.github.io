@@ -3,7 +3,7 @@ layout:     single
 title:      "实现 strStr()"
 date:       2016-01-29 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Two Pointers, String]
+tags:       [Two Pointers, String, String Matching]
 permalink:  /problems/implement-strstr/
 ---
 
@@ -60,6 +60,7 @@ permalink:  /problems/implement-strstr/
 ### 相关话题
   [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[字符串匹配](https://github.com/openset/leetcode/tree/master/tag/string-matching/README.md)]
 
 ### 相似题目
   1. [最短回文串](/problems/shortest-palindrome) (Hard)

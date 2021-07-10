@@ -3,7 +3,7 @@ layout:     single
 title:      "解码异或后的排列"
 date:       2020-09-30 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Bit Manipulation]
+tags:       [Bit Manipulation, Array]
 permalink:  /problems/decode-xored-permutation/
 ---
 
@@ -46,6 +46,7 @@ permalink:  /problems/decode-xored-permutation/
 
 ### 相关话题
   [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 
 ---
 

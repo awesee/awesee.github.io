@@ -3,7 +3,7 @@ layout:     single
 title:      "实现一个魔法字典"
 date:       2017-11-07 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Trie, Hash Table]
+tags:       [Design, Trie, Hash Table, String]
 permalink:  /problems/implement-magic-dictionary/
 ---
 
@@ -65,8 +65,10 @@ magicDictionary.search("leetcoded"); // 返回 False
 {% endraw %}
 
 ### 相关话题
+  [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
   [[字典树](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)]
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ### 相似题目
   1. [实现 Trie (前缀树)](/problems/implement-trie-prefix-tree) (Medium)

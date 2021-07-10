@@ -3,7 +3,7 @@ layout:     single
 title:      "最接近目标值的子序列和"
 date:       2020-10-21 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Divide and Conquer]
+tags:       [Bit Manipulation, Array, Two Pointers, Dynamic Programming, Bitmask]
 permalink:  /problems/closest-subsequence-sum/
 ---
 
@@ -56,7 +56,11 @@ permalink:  /problems/closest-subsequence-sum/
 {% endraw %}
 
 ### 相关话题
-  [[分治算法](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]
+  [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[状态压缩](https://github.com/openset/leetcode/tree/master/tag/bitmask/README.md)]
 
 ---
 

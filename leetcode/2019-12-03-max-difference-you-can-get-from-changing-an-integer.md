@@ -3,7 +3,7 @@ layout:     single
 title:      "改变一个整数能得到的最大差值"
 date:       2019-12-03 21:30:00 +0800
 categories: [Leetcode]
-tags:       [String]
+tags:       [Greedy, Math]
 permalink:  /problems/max-difference-you-can-get-from-changing-an-integer/
 ---
 
@@ -73,7 +73,8 @@ permalink:  /problems/max-difference-you-can-get-from-changing-an-integer/
 {% endraw %}
 
 ### 相关话题
-  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
 
 ---
 

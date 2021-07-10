@@ -3,7 +3,7 @@ layout:     single
 title:      "移除石子的最大得分"
 date:       2020-10-19 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Heap, Math]
+tags:       [Greedy, Math, Heap (Priority Queue)]
 permalink:  /problems/maximum-score-from-removing-stones/
 ---
 
@@ -69,8 +69,9 @@ permalink:  /problems/maximum-score-from-removing-stones/
 {% endraw %}
 
 ### 相关话题
-  [[堆](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]
+  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[堆（优先队列）](https://github.com/openset/leetcode/tree/master/tag/heap-priority-queue/README.md)]
 
 ---
 

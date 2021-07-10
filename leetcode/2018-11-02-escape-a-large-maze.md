@@ -3,7 +3,7 @@ layout:     single
 title:      "逃离大迷宫"
 date:       2018-11-02 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Breadth-first Search]
+tags:       [Depth-First Search, Breadth-First Search, Array, Hash Table]
 permalink:  /problems/escape-a-large-maze/
 ---
 
@@ -57,7 +57,10 @@ permalink:  /problems/escape-a-large-maze/
 {% endraw %}
 
 ### 相关话题
+  [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
   [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
 
 ---
 

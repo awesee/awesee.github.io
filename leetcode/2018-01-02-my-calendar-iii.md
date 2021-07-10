@@ -3,7 +3,7 @@ layout:     single
 title:      "我的日程安排表 III"
 date:       2018-01-02 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Segment Tree, Ordered Map]
+tags:       [Design, Segment Tree, Ordered Set]
 permalink:  /problems/my-calendar-iii/
 ---
 
@@ -55,8 +55,9 @@ myCalendarThree.book(25, 55); // 返回 3
 {% endraw %}
 
 ### 相关话题
+  [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
   [[线段树](https://github.com/openset/leetcode/tree/master/tag/segment-tree/README.md)]
-  [[Ordered Map](https://github.com/openset/leetcode/tree/master/tag/ordered-map/README.md)]
+  [[有序集合](https://github.com/openset/leetcode/tree/master/tag/ordered-set/README.md)]
 
 ### 相似题目
   1. [我的日程安排表 I](/problems/my-calendar-i) (Medium)

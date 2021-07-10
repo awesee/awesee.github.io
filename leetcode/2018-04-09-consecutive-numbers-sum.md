@@ -3,7 +3,7 @@ layout:     single
 title:      "连续整数求和"
 date:       2018-04-09 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Math]
+tags:       [Math, Enumeration]
 permalink:  /problems/consecutive-numbers-sum/
 ---
 
@@ -40,6 +40,7 @@ permalink:  /problems/consecutive-numbers-sum/
 
 ### 相关话题
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[枚举](https://github.com/openset/leetcode/tree/master/tag/enumeration/README.md)]
 
 ---
 

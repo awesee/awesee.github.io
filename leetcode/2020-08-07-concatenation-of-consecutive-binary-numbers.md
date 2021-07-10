@@ -3,7 +3,7 @@ layout:     single
 title:      "连接连续二进制数字"
 date:       2020-08-07 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Math]
+tags:       [Bit Manipulation, Math, Simulation]
 permalink:  /problems/concatenation-of-consecutive-binary-numbers/
 ---
 
@@ -50,7 +50,9 @@ permalink:  /problems/concatenation-of-consecutive-binary-numbers/
 {% endraw %}
 
 ### 相关话题
+  [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[模拟](https://github.com/openset/leetcode/tree/master/tag/simulation/README.md)]
 
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "添加与搜索单词 - 数据结构设计"
 date:       2016-07-30 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Depth-first Search, Design, Trie, Backtracking]
+tags:       [Depth-First Search, Design, Trie, String]
 permalink:  /problems/design-add-and-search-words-data-structure/
 ---
 
@@ -60,7 +60,7 @@ wordDictionary.search("b.."); // return True
   [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
   [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
   [[字典树](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)]
-  [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ### 相似题目
   1. [实现 Trie (前缀树)](/problems/implement-trie-prefix-tree) (Medium)

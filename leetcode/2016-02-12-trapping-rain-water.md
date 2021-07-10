@@ -3,7 +3,7 @@ layout:     single
 title:      "接雨水"
 date:       2016-02-12 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Stack, Array, Two Pointers, Dynamic Programming]
+tags:       [Stack, Array, Two Pointers, Dynamic Programming, Monotonic Stack]
 permalink:  /problems/trapping-rain-water/
 ---
 
@@ -49,6 +49,7 @@ permalink:  /problems/trapping-rain-water/
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[单调栈](https://github.com/openset/leetcode/tree/master/tag/monotonic-stack/README.md)]
 
 ### 相似题目
   1. [盛最多水的容器](/problems/container-with-most-water) (Medium)

@@ -3,7 +3,7 @@ layout:     single
 title:      "相似字符串组"
 date:       2018-04-19 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Depth-first Search, Union Find, Graph]
+tags:       [Depth-First Search, Breadth-First Search, Union Find, String]
 permalink:  /problems/similar-string-groups/
 ---
 
@@ -56,8 +56,9 @@ permalink:  /problems/similar-string-groups/
 
 ### 相关话题
   [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
   [[并查集](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)]
-  [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
+  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ---
 

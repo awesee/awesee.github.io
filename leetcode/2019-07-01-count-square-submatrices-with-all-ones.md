@@ -3,7 +3,7 @@ layout:     single
 title:      "统计全为 1 的正方形子矩阵"
 date:       2019-07-01 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Array, Dynamic Programming]
+tags:       [Array, Dynamic Programming, Matrix]
 permalink:  /problems/count-square-submatrices-with-all-ones/
 ---
 
@@ -61,6 +61,7 @@ permalink:  /problems/count-square-submatrices-with-all-ones/
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[矩阵](https://github.com/openset/leetcode/tree/master/tag/matrix/README.md)]
 
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "两点之间不包含任何点的最宽垂直面积"
 date:       2020-06-25 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Sort]
+tags:       [Array, Sorting]
 permalink:  /problems/widest-vertical-area-between-two-points-containing-no-points/
 ---
 
@@ -48,7 +48,8 @@ permalink:  /problems/widest-vertical-area-between-two-points-containing-no-poin
 {% endraw %}
 
 ### 相关话题
-  [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
 
 ---
 

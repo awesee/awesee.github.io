@@ -3,7 +3,7 @@ layout:     single
 title:      "车队 II"
 date:       2020-11-11 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Math]
+tags:       [Stack, Array, Math, Monotonic Stack, Heap (Priority Queue)]
 permalink:  /problems/car-fleet-ii/
 ---
 
@@ -52,7 +52,11 @@ permalink:  /problems/car-fleet-ii/
 {% endraw %}
 
 ### 相关话题
+  [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[单调栈](https://github.com/openset/leetcode/tree/master/tag/monotonic-stack/README.md)]
+  [[堆（优先队列）](https://github.com/openset/leetcode/tree/master/tag/heap-priority-queue/README.md)]
 
 ---
 

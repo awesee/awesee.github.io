@@ -3,7 +3,7 @@ layout:     single
 title:      "重新排列后的最大子矩阵"
 date:       2020-09-23 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Greedy, Sort]
+tags:       [Greedy, Array, Matrix, Sorting]
 permalink:  /problems/largest-submatrix-with-rearrangements/
 ---
 
@@ -67,8 +67,10 @@ permalink:  /problems/largest-submatrix-with-rearrangements/
 {% endraw %}
 
 ### 相关话题
-  [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
-  [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
+  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[矩阵](https://github.com/openset/leetcode/tree/master/tag/matrix/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
 
 ---
 

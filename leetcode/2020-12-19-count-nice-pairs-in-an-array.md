@@ -3,7 +3,7 @@ layout:     single
 title:      "统计一个数组中好对子的数目"
 date:       2020-12-19 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Array, Hash Table]
+tags:       [Array, Hash Table, Math, Counting]
 permalink:  /problems/count-nice-pairs-in-an-array/
 ---
 
@@ -51,6 +51,8 @@ permalink:  /problems/count-nice-pairs-in-an-array/
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[计数](https://github.com/openset/leetcode/tree/master/tag/counting/README.md)]
 
 ---
 

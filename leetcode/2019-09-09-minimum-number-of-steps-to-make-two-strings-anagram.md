@@ -3,7 +3,7 @@ layout:     single
 title:      "制造字母异位词的最小步骤数"
 date:       2019-09-09 21:30:00 +0800
 categories: [Leetcode]
-tags:       [String]
+tags:       [Hash Table, String]
 permalink:  /problems/minimum-number-of-steps-to-make-two-strings-anagram/
 ---
 
@@ -65,6 +65,7 @@ permalink:  /problems/minimum-number-of-steps-to-make-two-strings-anagram/
 {% endraw %}
 
 ### 相关话题
+  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ---

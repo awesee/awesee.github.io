@@ -3,7 +3,7 @@ layout:     single
 title:      "按权重随机选择"
 date:       2017-06-12 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Binary Search, Random]
+tags:       [Math, Binary Search, Prefix Sum, Randomized]
 permalink:  /problems/random-pick-with-weight/
 ---
 
@@ -71,8 +71,10 @@ solution.pickIndex(); // 返回 0，返回下标 0，返回该下标概率为 1/
 {% endraw %}
 
 ### 相关话题
+  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
   [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
-  [[Random](https://github.com/openset/leetcode/tree/master/tag/random/README.md)]
+  [[前缀和](https://github.com/openset/leetcode/tree/master/tag/prefix-sum/README.md)]
+  [[随机化](https://github.com/openset/leetcode/tree/master/tag/randomized/README.md)]
 
 ### 相似题目
   1. [随机数索引](/problems/random-pick-index) (Medium)

@@ -3,7 +3,7 @@ layout:     single
 title:      "矩形区域不超过 K 的最大数值和"
 date:       2016-12-29 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Queue, Binary Search, Dynamic Programming]
+tags:       [Array, Binary Search, Dynamic Programming, Matrix, Ordered Set]
 permalink:  /problems/max-sum-of-rectangle-no-larger-than-k/
 ---
 
@@ -51,9 +51,11 @@ permalink:  /problems/max-sum-of-rectangle-no-larger-than-k/
 {% endraw %}
 
 ### 相关话题
-  [[队列](https://github.com/openset/leetcode/tree/master/tag/queue/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
   [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[矩阵](https://github.com/openset/leetcode/tree/master/tag/matrix/README.md)]
+  [[有序集合](https://github.com/openset/leetcode/tree/master/tag/ordered-set/README.md)]
 
 ---
 

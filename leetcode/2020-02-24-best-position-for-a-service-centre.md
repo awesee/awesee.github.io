@@ -3,7 +3,7 @@ layout:     single
 title:      "服务中心的最佳位置"
 date:       2020-02-24 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Geometry]
+tags:       [Geometry, Math, Randomized]
 permalink:  /problems/best-position-for-a-service-centre/
 ---
 
@@ -77,6 +77,8 @@ permalink:  /problems/best-position-for-a-service-centre/
 
 ### 相关话题
   [[几何](https://github.com/openset/leetcode/tree/master/tag/geometry/README.md)]
+  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[随机化](https://github.com/openset/leetcode/tree/master/tag/randomized/README.md)]
 
 ---
 

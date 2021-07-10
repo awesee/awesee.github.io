@@ -3,7 +3,7 @@ layout:     single
 title:      "最少移动次数使数组元素相等 II"
 date:       2017-04-07 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Math]
+tags:       [Array, Math, Sorting]
 permalink:  /problems/minimum-moves-to-equal-array-elements-ii/
 ---
 
@@ -31,7 +31,9 @@ permalink:  /problems/minimum-moves-to-equal-array-elements-ii/
 {% endraw %}
 
 ### 相关话题
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
 
 ### 相似题目
   1. [最佳的碰头地点](/problems/best-meeting-point) (Hard)

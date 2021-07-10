@@ -3,7 +3,7 @@ layout:     single
 title:      "循环码排列"
 date:       2019-05-23 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Math]
+tags:       [Bit Manipulation, Math, Backtracking]
 permalink:  /problems/circular-permutation-in-binary-representation/
 ---
 
@@ -48,7 +48,9 @@ permalink:  /problems/circular-permutation-in-binary-representation/
 {% endraw %}
 
 ### 相关话题
+  [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
   [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[回溯](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
 
 ---
 

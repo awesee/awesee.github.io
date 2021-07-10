@@ -3,7 +3,7 @@ layout:     single
 title:      "跳跃游戏 III"
 date:       2019-07-30 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Depth-first Search, Breadth-first Search, Recursion]
+tags:       [Depth-First Search, Breadth-First Search, Array]
 permalink:  /problems/jump-game-iii/
 ---
 
@@ -60,7 +60,7 @@ permalink:  /problems/jump-game-iii/
 ### 相关话题
   [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
   [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
-  [[递归](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 
 ---
 

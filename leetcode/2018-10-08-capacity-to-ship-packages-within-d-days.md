@@ -3,7 +3,7 @@ layout:     single
 title:      "在 D 天内送达包裹的能力"
 date:       2018-10-08 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Array, Binary Search]
+tags:       [Greedy, Array, Binary Search]
 permalink:  /problems/capacity-to-ship-packages-within-d-days/
 ---
 
@@ -71,6 +71,7 @@ permalink:  /problems/capacity-to-ship-packages-within-d-days/
 {% endraw %}
 
 ### 相关话题
+  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
 

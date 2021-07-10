@@ -3,7 +3,7 @@ layout:     single
 title:      "统计不开心的朋友"
 date:       2020-05-02 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Array]
+tags:       [Array, Simulation]
 permalink:  /problems/count-unhappy-friends/
 ---
 
@@ -78,6 +78,7 @@ permalink:  /problems/count-unhappy-friends/
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[模拟](https://github.com/openset/leetcode/tree/master/tag/simulation/README.md)]
 
 ---
 

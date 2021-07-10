@@ -3,7 +3,7 @@ layout:     single
 title:      "从不订购的客户"
 date:       2016-07-02 21:30:00 +0800
 categories: [Leetcode]
-tags:       []
+tags:       [Database]
 permalink:  /problems/customers-who-never-order/
 ---
 
@@ -46,6 +46,9 @@ permalink:  /problems/customers-who-never-order/
 </pre>
 
 {% endraw %}
+
+### 相关话题
+  [[数据库](https://github.com/openset/leetcode/tree/master/tag/database/README.md)]
 
 ---
 

@@ -3,7 +3,7 @@ layout:     single
 title:      "满足不等式的最大值"
 date:       2020-02-08 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Array, Sliding Window]
+tags:       [Queue, Array, Sliding Window, Monotonic Queue, Heap (Priority Queue)]
 permalink:  /problems/max-value-of-equation/
 ---
 
@@ -48,8 +48,11 @@ permalink:  /problems/max-value-of-equation/
 {% endraw %}
 
 ### 相关话题
+  [[队列](https://github.com/openset/leetcode/tree/master/tag/queue/README.md)]
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Sliding Window](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
+  [[滑动窗口](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
+  [[单调队列](https://github.com/openset/leetcode/tree/master/tag/monotonic-queue/README.md)]
+  [[堆（优先队列）](https://github.com/openset/leetcode/tree/master/tag/heap-priority-queue/README.md)]
 
 ---
 
