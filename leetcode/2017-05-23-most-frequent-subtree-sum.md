@@ -50,7 +50,7 @@ permalink:  /problems/most-frequent-subtree-sum/
   [[二叉树](https://github.com/openset/leetcode/tree/master/tag/binary-tree/README.md)]
 
 ### 相似题目
-  1. [另一个树的子树](/problems/subtree-of-another-tree) (Easy)
+  1. [另一棵树的子树](/problems/subtree-of-another-tree) (Easy)
 
 ---
 
