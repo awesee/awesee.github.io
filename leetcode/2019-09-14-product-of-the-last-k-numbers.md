@@ -3,7 +3,7 @@ layout:     single
 title:      "最后 K 个数的乘积"
 date:       2019-09-14 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Design, Array]
+tags:       [Design, Queue, Array, Math, Data Stream]
 permalink:  /problems/product-of-the-last-k-numbers/
 ---
 
@@ -67,7 +67,10 @@ productOfNumbers.getProduct(2); // 返回 32 。最后 2 个数字的乘积是 4
 
 ### 相关话题
   [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
+  [[队列](https://github.com/openset/leetcode/tree/master/tag/queue/README.md)]
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[数据流](https://github.com/openset/leetcode/tree/master/tag/data-stream/README.md)]
 
 ---
 

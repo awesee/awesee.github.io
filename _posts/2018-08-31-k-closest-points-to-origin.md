@@ -3,7 +3,7 @@ layout:     single
 title:      "最接近原点的 K 个点"
 date:       2018-08-31 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Heap, Sort, Divide and Conquer]
+tags:       [Geometry, Array, Math, Divide and Conquer, Quickselect, Sorting, Heap (Priority Queue)]
 permalink:  /problems/k-closest-points-to-origin/
 ---
 
@@ -50,9 +50,13 @@ permalink:  /problems/k-closest-points-to-origin/
 {% endraw %}
 
 ### 相关话题
-  [[堆](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]
-  [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
-  [[分治算法](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]
+  [[几何](https://github.com/openset/leetcode/tree/master/tag/geometry/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[分治](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]
+  [[快速选择](https://github.com/openset/leetcode/tree/master/tag/quickselect/README.md)]
+  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
+  [[堆（优先队列）](https://github.com/openset/leetcode/tree/master/tag/heap-priority-queue/README.md)]
 
 ### 相似题目
   1. [数组中的第K个最大元素](/problems/kth-largest-element-in-an-array) (Medium)

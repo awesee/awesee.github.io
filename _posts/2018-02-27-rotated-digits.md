@@ -7,7 +7,7 @@ tags:       [Math, Dynamic Programming]
 permalink:  /problems/rotated-digits/
 ---
 
-## 788. 旋转数字 (Easy)
+## 788. 旋转数字 (Medium)
 
 {% raw %}
 

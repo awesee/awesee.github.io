@@ -71,7 +71,7 @@ AB -> 28
   [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ### 相似题目
-  1. [Excel表列序号](/problems/excel-sheet-column-number) (Easy)
+  1. [Excel 表列序号](/problems/excel-sheet-column-number) (Easy)
 
 ---
 
