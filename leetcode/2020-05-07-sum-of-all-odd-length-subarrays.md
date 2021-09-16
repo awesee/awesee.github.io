@@ -3,7 +3,7 @@ layout:     single
 title:      "所有奇数长度子数组的和"
 date:       2020-05-07 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Array, Prefix Sum]
+tags:       [Array, Math, Prefix Sum]
 permalink:  /problems/sum-of-all-odd-length-subarrays/
 ---
 
@@ -60,6 +60,7 @@ permalink:  /problems/sum-of-all-odd-length-subarrays/
 
 ### 相关话题
   [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
   [[前缀和](https://github.com/openset/leetcode/tree/master/tag/prefix-sum/README.md)]
 
 ---
