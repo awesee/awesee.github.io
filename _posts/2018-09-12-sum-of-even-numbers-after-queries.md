@@ -7,7 +7,7 @@ tags:       [Array, Simulation]
 permalink:  /problems/sum-of-even-numbers-after-queries/
 ---
 
-## 985. 查询后的偶数和 (Easy)
+## 985. 查询后的偶数和 (Medium)
 
 {% raw %}
 

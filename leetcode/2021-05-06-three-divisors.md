@@ -3,7 +3,7 @@ layout:     single
 title:      "三除数"
 date:       2021-05-06 21:30:00 +0800
 categories: [Leetcode]
-tags:       []
+tags:       [Math]
 permalink:  /problems/three-divisors/
 ---
 
@@ -39,6 +39,9 @@ permalink:  /problems/three-divisors/
 </ul>
 
 {% endraw %}
+
+### 相关话题
+  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
 
 ---
 

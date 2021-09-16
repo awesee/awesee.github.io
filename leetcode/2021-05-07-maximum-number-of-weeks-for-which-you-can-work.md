@@ -3,7 +3,7 @@ layout:     single
 title:      "你可以工作的最大周数"
 date:       2021-05-07 21:30:00 +0800
 categories: [Leetcode]
-tags:       []
+tags:       [Greedy, Array]
 permalink:  /problems/maximum-number-of-weeks-for-which-you-can-work/
 ---
 
@@ -69,6 +69,10 @@ permalink:  /problems/maximum-number-of-weeks-for-which-you-can-work/
 </ul>
 
 {% endraw %}
+
+### 相关话题
+  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 
 ---
 
