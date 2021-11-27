@@ -63,12 +63,12 @@ permalink:  /problems/longest-common-subpath/
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
-  [[后缀数组](https://github.com/openset/leetcode/tree/master/tag/suffix-array/README.md)]
-  [[哈希函数](https://github.com/openset/leetcode/tree/master/tag/hash-function/README.md)]
-  [[滚动哈希](https://github.com/openset/leetcode/tree/master/tag/rolling-hash/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/master/tag/array/README.md)]
+  [[二分查找](https://github.com/awesee/leetcode/tree/master/tag/binary-search/README.md)]
+  [[后缀数组](https://github.com/awesee/leetcode/tree/master/tag/suffix-array/README.md)]
+  [[哈希函数](https://github.com/awesee/leetcode/tree/master/tag/hash-function/README.md)]
+  [[滚动哈希](https://github.com/awesee/leetcode/tree/master/tag/rolling-hash/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/longest-common-subpath)
+## [解法](https://github.com/awesee/leetcode/tree/master/problems/longest-common-subpath)

@@ -42,11 +42,11 @@ permalink:  /problems/kth-largest-element-in-an-array/
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[分治](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]
-  [[快速选择](https://github.com/openset/leetcode/tree/master/tag/quickselect/README.md)]
-  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
-  [[堆（优先队列）](https://github.com/openset/leetcode/tree/master/tag/heap-priority-queue/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/master/tag/array/README.md)]
+  [[分治](https://github.com/awesee/leetcode/tree/master/tag/divide-and-conquer/README.md)]
+  [[快速选择](https://github.com/awesee/leetcode/tree/master/tag/quickselect/README.md)]
+  [[排序](https://github.com/awesee/leetcode/tree/master/tag/sorting/README.md)]
+  [[堆（优先队列）](https://github.com/awesee/leetcode/tree/master/tag/heap-priority-queue/README.md)]
 
 ### 相似题目
   1. [摆动排序 II](/problems/wiggle-sort-ii) (Medium)
@@ -57,4 +57,4 @@ permalink:  /problems/kth-largest-element-in-an-array/
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/kth-largest-element-in-an-array)
+## [解法](https://github.com/awesee/leetcode/tree/master/problems/kth-largest-element-in-an-array)

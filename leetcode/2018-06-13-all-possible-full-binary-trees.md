@@ -40,12 +40,12 @@ permalink:  /problems/all-possible-full-binary-trees/
 {% endraw %}
 
 ### 相关话题
-  [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
-  [[递归](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]
-  [[记忆化搜索](https://github.com/openset/leetcode/tree/master/tag/memoization/README.md)]
-  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
-  [[二叉树](https://github.com/openset/leetcode/tree/master/tag/binary-tree/README.md)]
+  [[树](https://github.com/awesee/leetcode/tree/master/tag/tree/README.md)]
+  [[递归](https://github.com/awesee/leetcode/tree/master/tag/recursion/README.md)]
+  [[记忆化搜索](https://github.com/awesee/leetcode/tree/master/tag/memoization/README.md)]
+  [[动态规划](https://github.com/awesee/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[二叉树](https://github.com/awesee/leetcode/tree/master/tag/binary-tree/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/all-possible-full-binary-trees)
+## [解法](https://github.com/awesee/leetcode/tree/master/problems/all-possible-full-binary-trees)

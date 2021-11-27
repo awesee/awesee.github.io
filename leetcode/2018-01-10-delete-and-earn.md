@@ -52,13 +52,13 @@ permalink:  /problems/delete-and-earn/
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/master/tag/array/README.md)]
+  [[哈希表](https://github.com/awesee/leetcode/tree/master/tag/hash-table/README.md)]
+  [[动态规划](https://github.com/awesee/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### 相似题目
   1. [打家劫舍](/problems/house-robber) (Medium)
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/delete-and-earn)
+## [解法](https://github.com/awesee/leetcode/tree/master/problems/delete-and-earn)

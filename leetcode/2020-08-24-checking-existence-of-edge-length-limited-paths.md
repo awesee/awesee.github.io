@@ -56,11 +56,11 @@ permalink:  /problems/checking-existence-of-edge-length-limited-paths/
 {% endraw %}
 
 ### 相关话题
-  [[并查集](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)]
-  [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
+  [[并查集](https://github.com/awesee/leetcode/tree/master/tag/union-find/README.md)]
+  [[图](https://github.com/awesee/leetcode/tree/master/tag/graph/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/master/tag/array/README.md)]
+  [[排序](https://github.com/awesee/leetcode/tree/master/tag/sorting/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/checking-existence-of-edge-length-limited-paths)
+## [解法](https://github.com/awesee/leetcode/tree/master/problems/checking-existence-of-edge-length-limited-paths)

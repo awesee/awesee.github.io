@@ -59,10 +59,10 @@ permalink:  /problems/sum-of-all-odd-length-subarrays/
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[前缀和](https://github.com/openset/leetcode/tree/master/tag/prefix-sum/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/master/tag/array/README.md)]
+  [[数学](https://github.com/awesee/leetcode/tree/master/tag/math/README.md)]
+  [[前缀和](https://github.com/awesee/leetcode/tree/master/tag/prefix-sum/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/sum-of-all-odd-length-subarrays)
+## [解法](https://github.com/awesee/leetcode/tree/master/problems/sum-of-all-odd-length-subarrays)

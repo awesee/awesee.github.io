@@ -50,8 +50,8 @@ permalink:  /problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/master/tag/array/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate)
+## [解法](https://github.com/awesee/leetcode/tree/master/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate)

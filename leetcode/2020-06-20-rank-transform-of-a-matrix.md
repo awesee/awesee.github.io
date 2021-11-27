@@ -78,13 +78,13 @@ matrix[1][1] 的秩为 3 ，因为 matrix[1][1] > matrix[0][1]， matrix[1][1] >
 {% endraw %}
 
 ### 相关话题
-  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
-  [[并查集](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)]
-  [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
-  [[拓扑排序](https://github.com/openset/leetcode/tree/master/tag/topological-sort/README.md)]
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[矩阵](https://github.com/openset/leetcode/tree/master/tag/matrix/README.md)]
+  [[贪心](https://github.com/awesee/leetcode/tree/master/tag/greedy/README.md)]
+  [[并查集](https://github.com/awesee/leetcode/tree/master/tag/union-find/README.md)]
+  [[图](https://github.com/awesee/leetcode/tree/master/tag/graph/README.md)]
+  [[拓扑排序](https://github.com/awesee/leetcode/tree/master/tag/topological-sort/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/master/tag/array/README.md)]
+  [[矩阵](https://github.com/awesee/leetcode/tree/master/tag/matrix/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/rank-transform-of-a-matrix)
+## [解法](https://github.com/awesee/leetcode/tree/master/problems/rank-transform-of-a-matrix)

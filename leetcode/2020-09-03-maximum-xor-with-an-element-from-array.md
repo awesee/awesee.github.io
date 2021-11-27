@@ -48,10 +48,10 @@ permalink:  /problems/maximum-xor-with-an-element-from-array/
 {% endraw %}
 
 ### 相关话题
-  [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
-  [[字典树](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)]
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[位运算](https://github.com/awesee/leetcode/tree/master/tag/bit-manipulation/README.md)]
+  [[字典树](https://github.com/awesee/leetcode/tree/master/tag/trie/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/master/tag/array/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/maximum-xor-with-an-element-from-array)
+## [解法](https://github.com/awesee/leetcode/tree/master/problems/maximum-xor-with-an-element-from-array)

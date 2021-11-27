@@ -64,8 +64,8 @@ permalink:  /problems/power-of-three/
 {% endraw %}
 
 ### 相关话题
-  [[递归](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]
-  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[递归](https://github.com/awesee/leetcode/tree/master/tag/recursion/README.md)]
+  [[数学](https://github.com/awesee/leetcode/tree/master/tag/math/README.md)]
 
 ### 相似题目
   1. [2 的幂](/problems/power-of-two) (Easy)
@@ -73,4 +73,4 @@ permalink:  /problems/power-of-three/
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/power-of-three)
+## [解法](https://github.com/awesee/leetcode/tree/master/problems/power-of-three)

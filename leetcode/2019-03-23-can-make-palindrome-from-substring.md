@@ -49,11 +49,11 @@ queries[4] :&nbsp;子串 = &quot;abcda&quot;，可以变成回文的 &quot;abcba
 {% endraw %}
 
 ### 相关话题
-  [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
-  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
-  [[前缀和](https://github.com/openset/leetcode/tree/master/tag/prefix-sum/README.md)]
+  [[位运算](https://github.com/awesee/leetcode/tree/master/tag/bit-manipulation/README.md)]
+  [[哈希表](https://github.com/awesee/leetcode/tree/master/tag/hash-table/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/master/tag/string/README.md)]
+  [[前缀和](https://github.com/awesee/leetcode/tree/master/tag/prefix-sum/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/can-make-palindrome-from-substring)
+## [解法](https://github.com/awesee/leetcode/tree/master/problems/can-make-palindrome-from-substring)

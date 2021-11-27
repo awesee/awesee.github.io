@@ -68,10 +68,10 @@ permalink:  /problems/unique-length-3-palindromic-subsequences/
 {% endraw %}
 
 ### 相关话题
-  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
-  [[前缀和](https://github.com/openset/leetcode/tree/master/tag/prefix-sum/README.md)]
+  [[哈希表](https://github.com/awesee/leetcode/tree/master/tag/hash-table/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/master/tag/string/README.md)]
+  [[前缀和](https://github.com/awesee/leetcode/tree/master/tag/prefix-sum/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/unique-length-3-palindromic-subsequences)
+## [解法](https://github.com/awesee/leetcode/tree/master/problems/unique-length-3-palindromic-subsequences)

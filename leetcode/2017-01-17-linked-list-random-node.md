@@ -32,14 +32,14 @@ solution.getRandom();
 {% endraw %}
 
 ### 相关话题
-  [[水塘抽样](https://github.com/openset/leetcode/tree/master/tag/reservoir-sampling/README.md)]
-  [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
-  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[随机化](https://github.com/openset/leetcode/tree/master/tag/randomized/README.md)]
+  [[水塘抽样](https://github.com/awesee/leetcode/tree/master/tag/reservoir-sampling/README.md)]
+  [[链表](https://github.com/awesee/leetcode/tree/master/tag/linked-list/README.md)]
+  [[数学](https://github.com/awesee/leetcode/tree/master/tag/math/README.md)]
+  [[随机化](https://github.com/awesee/leetcode/tree/master/tag/randomized/README.md)]
 
 ### 相似题目
   1. [随机数索引](/problems/random-pick-index) (Medium)
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/linked-list-random-node)
+## [解法](https://github.com/awesee/leetcode/tree/master/problems/linked-list-random-node)

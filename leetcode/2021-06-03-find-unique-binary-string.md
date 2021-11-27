@@ -47,15 +47,16 @@ permalink:  /problems/find-unique-binary-string/
 	<li><code>1 &lt;= n &lt;= 16</code></li>
 	<li><code>nums[i].length == n</code></li>
 	<li><code>nums[i] </code>为 <code>'0'</code> 或 <code>'1'</code></li>
+	<li><code>nums</code> 中的所有字符串 <strong>互不相同</strong></li>
 </ul>
 
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
-  [[回溯](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/master/tag/array/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/master/tag/string/README.md)]
+  [[回溯](https://github.com/awesee/leetcode/tree/master/tag/backtracking/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/find-unique-binary-string)
+## [解法](https://github.com/awesee/leetcode/tree/master/problems/find-unique-binary-string)

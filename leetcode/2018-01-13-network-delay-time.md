@@ -59,12 +59,12 @@ permalink:  /problems/network-delay-time/
 {% endraw %}
 
 ### 相关话题
-  [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
-  [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
-  [[最短路](https://github.com/openset/leetcode/tree/master/tag/shortest-path/README.md)]
-  [[堆（优先队列）](https://github.com/openset/leetcode/tree/master/tag/heap-priority-queue/README.md)]
+  [[深度优先搜索](https://github.com/awesee/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[广度优先搜索](https://github.com/awesee/leetcode/tree/master/tag/breadth-first-search/README.md)]
+  [[图](https://github.com/awesee/leetcode/tree/master/tag/graph/README.md)]
+  [[最短路](https://github.com/awesee/leetcode/tree/master/tag/shortest-path/README.md)]
+  [[堆（优先队列）](https://github.com/awesee/leetcode/tree/master/tag/heap-priority-queue/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/network-delay-time)
+## [解法](https://github.com/awesee/leetcode/tree/master/problems/network-delay-time)

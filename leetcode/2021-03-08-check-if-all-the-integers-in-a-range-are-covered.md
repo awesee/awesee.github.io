@@ -51,10 +51,10 @@ permalink:  /problems/check-if-all-the-integers-in-a-range-are-covered/
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[前缀和](https://github.com/openset/leetcode/tree/master/tag/prefix-sum/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/master/tag/array/README.md)]
+  [[哈希表](https://github.com/awesee/leetcode/tree/master/tag/hash-table/README.md)]
+  [[前缀和](https://github.com/awesee/leetcode/tree/master/tag/prefix-sum/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/check-if-all-the-integers-in-a-range-are-covered)
+## [解法](https://github.com/awesee/leetcode/tree/master/problems/check-if-all-the-integers-in-a-range-are-covered)

@@ -55,14 +55,14 @@ circularQueue.Rear(); &nbsp;// 返回 4</pre>
 {% endraw %}
 
 ### 相关话题
-  [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
-  [[队列](https://github.com/openset/leetcode/tree/master/tag/queue/README.md)]
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
+  [[设计](https://github.com/awesee/leetcode/tree/master/tag/design/README.md)]
+  [[队列](https://github.com/awesee/leetcode/tree/master/tag/queue/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/master/tag/array/README.md)]
+  [[链表](https://github.com/awesee/leetcode/tree/master/tag/linked-list/README.md)]
 
 ### 相似题目
   1. [设计循环双端队列](/problems/design-circular-deque) (Medium)
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/design-circular-queue)
+## [解法](https://github.com/awesee/leetcode/tree/master/problems/design-circular-queue)

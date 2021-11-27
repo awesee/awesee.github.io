@@ -11,24 +11,25 @@ permalink:  /problems/valid-sudoku/
 
 {% raw %}
 
-<p>请你判断一个 <code>9x9</code> 的数独是否有效。只需要<strong> 根据以下规则</strong> ，验证已经填入的数字是否有效即可。</p>
+<p>请你判断一个&nbsp;<code>9 x 9</code> 的数独是否有效。只需要<strong> 根据以下规则</strong> ，验证已经填入的数字是否有效即可。</p>
 
 <ol>
-	<li>数字 <code>1-9</code> 在每一行只能出现一次。</li>
-	<li>数字 <code>1-9</code> 在每一列只能出现一次。</li>
-	<li>数字 <code>1-9</code> 在每一个以粗实线分隔的 <code>3x3</code> 宫内只能出现一次。（请参考示例图）</li>
+	<li>数字&nbsp;<code>1-9</code>&nbsp;在每一行只能出现一次。</li>
+	<li>数字&nbsp;<code>1-9</code>&nbsp;在每一列只能出现一次。</li>
+	<li>数字&nbsp;<code>1-9</code>&nbsp;在每一个以粗实线分隔的&nbsp;<code>3x3</code>&nbsp;宫内只能出现一次。（请参考示例图）</li>
 </ol>
 
-<p>数独部分空格内已填入了数字，空白格用 <code>'.'</code> 表示。</p>
+<p>&nbsp;</p>
 
 <p><strong>注意：</strong></p>
 
 <ul>
 	<li>一个有效的数独（部分已被填充）不一定是可解的。</li>
 	<li>只需要根据以上规则，验证已经填入的数字是否有效即可。</li>
+	<li>空白格用&nbsp;<code>'.'</code>&nbsp;表示。</li>
 </ul>
 
-<p> </p>
+<p>&nbsp;</p>
 
 <p><strong>示例 1：</strong></p>
 <img src="https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2021/04/12/250px-sudoku-by-l2g-20050714svg.png" style="height:250px; width:250px" />
@@ -62,26 +63,26 @@ permalink:  /problems/valid-sudoku/
 <strong>输出：</strong>false
 <strong>解释：</strong>除了第一行的第一个数字从<strong> 5</strong> 改为 <strong>8 </strong>以外，空格内其他数字均与 示例1 相同。 但由于位于左上角的 3x3 宫内有两个 8 存在, 因此这个数独是无效的。</pre>
 
-<p> </p>
+<p>&nbsp;</p>
 
 <p><strong>提示：</strong></p>
 
 <ul>
 	<li><code>board.length == 9</code></li>
 	<li><code>board[i].length == 9</code></li>
-	<li><code>board[i][j]</code> 是一位数字或者 <code>'.'</code></li>
+	<li><code>board[i][j]</code> 是一位数字（<code>1-9</code>）或者 <code>'.'</code></li>
 </ul>
 
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[矩阵](https://github.com/openset/leetcode/tree/master/tag/matrix/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/master/tag/array/README.md)]
+  [[哈希表](https://github.com/awesee/leetcode/tree/master/tag/hash-table/README.md)]
+  [[矩阵](https://github.com/awesee/leetcode/tree/master/tag/matrix/README.md)]
 
 ### 相似题目
   1. [解数独](/problems/sudoku-solver) (Hard)
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/valid-sudoku)
+## [解法](https://github.com/awesee/leetcode/tree/master/problems/valid-sudoku)

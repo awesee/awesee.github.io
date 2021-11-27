@@ -42,9 +42,9 @@ permalink:  /problems/subarray-sum-equals-k/
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[前缀和](https://github.com/openset/leetcode/tree/master/tag/prefix-sum/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/master/tag/array/README.md)]
+  [[哈希表](https://github.com/awesee/leetcode/tree/master/tag/hash-table/README.md)]
+  [[前缀和](https://github.com/awesee/leetcode/tree/master/tag/prefix-sum/README.md)]
 
 ### 相似题目
   1. [两数之和](/problems/two-sum) (Easy)
@@ -55,4 +55,4 @@ permalink:  /problems/subarray-sum-equals-k/
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/subarray-sum-equals-k)
+## [解法](https://github.com/awesee/leetcode/tree/master/problems/subarray-sum-equals-k)

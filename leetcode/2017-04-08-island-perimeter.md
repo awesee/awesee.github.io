@@ -56,10 +56,10 @@ permalink:  /problems/island-perimeter/
 {% endraw %}
 
 ### 相关话题
-  [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[矩阵](https://github.com/openset/leetcode/tree/master/tag/matrix/README.md)]
+  [[深度优先搜索](https://github.com/awesee/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[广度优先搜索](https://github.com/awesee/leetcode/tree/master/tag/breadth-first-search/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/master/tag/array/README.md)]
+  [[矩阵](https://github.com/awesee/leetcode/tree/master/tag/matrix/README.md)]
 
 ### 相似题目
   1. [岛屿的最大面积](/problems/max-area-of-island) (Medium)
@@ -68,4 +68,4 @@ permalink:  /problems/island-perimeter/
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/island-perimeter)
+## [解法](https://github.com/awesee/leetcode/tree/master/problems/island-perimeter)

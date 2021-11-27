@@ -68,4 +68,4 @@ permalink:  /problems/maximum-number-of-points-with-cost/
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/maximum-number-of-points-with-cost)
+## [解法](https://github.com/awesee/leetcode/tree/master/problems/maximum-number-of-points-with-cost)

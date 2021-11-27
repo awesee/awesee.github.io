@@ -47,7 +47,7 @@ permalink:  /problems/hamming-distance/
 {% endraw %}
 
 ### 相关话题
-  [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
+  [[位运算](https://github.com/awesee/leetcode/tree/master/tag/bit-manipulation/README.md)]
 
 ### 相似题目
   1. [位1的个数](/problems/number-of-1-bits) (Easy)
@@ -55,4 +55,4 @@ permalink:  /problems/hamming-distance/
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/hamming-distance)
+## [解法](https://github.com/awesee/leetcode/tree/master/problems/hamming-distance)

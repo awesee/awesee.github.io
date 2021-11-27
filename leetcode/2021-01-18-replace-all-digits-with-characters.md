@@ -57,8 +57,8 @@ permalink:  /problems/replace-all-digits-with-characters/
 {% endraw %}
 
 ### 相关话题
-  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/master/tag/string/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/replace-all-digits-with-characters)
+## [解法](https://github.com/awesee/leetcode/tree/master/problems/replace-all-digits-with-characters)

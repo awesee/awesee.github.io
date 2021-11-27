@@ -60,11 +60,11 @@ permalink:  /problems/longest-nice-substring/
 {% endraw %}
 
 ### 相关话题
-  [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
-  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
-  [[滑动窗口](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
+  [[位运算](https://github.com/awesee/leetcode/tree/master/tag/bit-manipulation/README.md)]
+  [[哈希表](https://github.com/awesee/leetcode/tree/master/tag/hash-table/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/master/tag/string/README.md)]
+  [[滑动窗口](https://github.com/awesee/leetcode/tree/master/tag/sliding-window/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/longest-nice-substring)
+## [解法](https://github.com/awesee/leetcode/tree/master/problems/longest-nice-substring)

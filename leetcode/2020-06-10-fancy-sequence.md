@@ -62,10 +62,10 @@ fancy.getIndex(2); // 返回 20
 {% endraw %}
 
 ### 相关话题
-  [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
-  [[线段树](https://github.com/openset/leetcode/tree/master/tag/segment-tree/README.md)]
-  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[设计](https://github.com/awesee/leetcode/tree/master/tag/design/README.md)]
+  [[线段树](https://github.com/awesee/leetcode/tree/master/tag/segment-tree/README.md)]
+  [[数学](https://github.com/awesee/leetcode/tree/master/tag/math/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/fancy-sequence)
+## [解法](https://github.com/awesee/leetcode/tree/master/problems/fancy-sequence)

@@ -64,9 +64,9 @@ permalink:  /problems/tuple-with-same-product/
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/master/tag/array/README.md)]
+  [[哈希表](https://github.com/awesee/leetcode/tree/master/tag/hash-table/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/tuple-with-same-product)
+## [解法](https://github.com/awesee/leetcode/tree/master/problems/tuple-with-same-product)

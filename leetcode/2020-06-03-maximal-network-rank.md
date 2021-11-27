@@ -65,8 +65,8 @@ permalink:  /problems/maximal-network-rank/
 {% endraw %}
 
 ### 相关话题
-  [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
+  [[图](https://github.com/awesee/leetcode/tree/master/tag/graph/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/maximal-network-rank)
+## [解法](https://github.com/awesee/leetcode/tree/master/problems/maximal-network-rank)

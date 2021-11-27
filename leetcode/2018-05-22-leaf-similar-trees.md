@@ -74,10 +74,10 @@ permalink:  /problems/leaf-similar-trees/
 {% endraw %}
 
 ### 相关话题
-  [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
-  [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[二叉树](https://github.com/openset/leetcode/tree/master/tag/binary-tree/README.md)]
+  [[树](https://github.com/awesee/leetcode/tree/master/tag/tree/README.md)]
+  [[深度优先搜索](https://github.com/awesee/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[二叉树](https://github.com/awesee/leetcode/tree/master/tag/binary-tree/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/leaf-similar-trees)
+## [解法](https://github.com/awesee/leetcode/tree/master/problems/leaf-similar-trees)

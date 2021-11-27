@@ -58,13 +58,13 @@ permalink:  /problems/count-ways-to-build-rooms-in-an-ant-colony/
 {% endraw %}
 
 ### 相关话题
-  [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
-  [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
-  [[拓扑排序](https://github.com/openset/leetcode/tree/master/tag/topological-sort/README.md)]
-  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
-  [[组合数学](https://github.com/openset/leetcode/tree/master/tag/combinatorics/README.md)]
+  [[树](https://github.com/awesee/leetcode/tree/master/tag/tree/README.md)]
+  [[图](https://github.com/awesee/leetcode/tree/master/tag/graph/README.md)]
+  [[拓扑排序](https://github.com/awesee/leetcode/tree/master/tag/topological-sort/README.md)]
+  [[数学](https://github.com/awesee/leetcode/tree/master/tag/math/README.md)]
+  [[动态规划](https://github.com/awesee/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[组合数学](https://github.com/awesee/leetcode/tree/master/tag/combinatorics/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/count-ways-to-build-rooms-in-an-ant-colony)
+## [解法](https://github.com/awesee/leetcode/tree/master/problems/count-ways-to-build-rooms-in-an-ant-colony)

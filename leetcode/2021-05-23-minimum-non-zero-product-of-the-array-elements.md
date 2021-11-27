@@ -69,10 +69,10 @@ permalink:  /problems/minimum-non-zero-product-of-the-array-elements/
 {% endraw %}
 
 ### 相关话题
-  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
-  [[递归](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]
-  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[贪心](https://github.com/awesee/leetcode/tree/master/tag/greedy/README.md)]
+  [[递归](https://github.com/awesee/leetcode/tree/master/tag/recursion/README.md)]
+  [[数学](https://github.com/awesee/leetcode/tree/master/tag/math/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/minimum-non-zero-product-of-the-array-elements)
+## [解法](https://github.com/awesee/leetcode/tree/master/problems/minimum-non-zero-product-of-the-array-elements)

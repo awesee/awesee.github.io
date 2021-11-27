@@ -53,8 +53,8 @@ permalink:  /problems/latest-time-by-replacing-hidden-digits/
 {% endraw %}
 
 ### 相关话题
-  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/master/tag/string/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/latest-time-by-replacing-hidden-digits)
+## [解法](https://github.com/awesee/leetcode/tree/master/problems/latest-time-by-replacing-hidden-digits)

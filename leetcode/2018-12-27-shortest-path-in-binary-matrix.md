@@ -59,10 +59,10 @@ permalink:  /problems/shortest-path-in-binary-matrix/
 {% endraw %}
 
 ### 相关话题
-  [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[矩阵](https://github.com/openset/leetcode/tree/master/tag/matrix/README.md)]
+  [[广度优先搜索](https://github.com/awesee/leetcode/tree/master/tag/breadth-first-search/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/master/tag/array/README.md)]
+  [[矩阵](https://github.com/awesee/leetcode/tree/master/tag/matrix/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/shortest-path-in-binary-matrix)
+## [解法](https://github.com/awesee/leetcode/tree/master/problems/shortest-path-in-binary-matrix)

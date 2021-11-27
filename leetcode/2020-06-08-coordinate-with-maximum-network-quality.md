@@ -76,9 +76,9 @@ permalink:  /problems/coordinate-with-maximum-network-quality/
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[枚举](https://github.com/openset/leetcode/tree/master/tag/enumeration/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/master/tag/array/README.md)]
+  [[枚举](https://github.com/awesee/leetcode/tree/master/tag/enumeration/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/coordinate-with-maximum-network-quality)
+## [解法](https://github.com/awesee/leetcode/tree/master/problems/coordinate-with-maximum-network-quality)

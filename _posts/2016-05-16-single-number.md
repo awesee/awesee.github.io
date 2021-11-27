@@ -31,8 +31,8 @@ permalink:  /problems/single-number/
 {% endraw %}
 
 ### 相关话题
-  [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[位运算](https://github.com/awesee/leetcode/tree/master/tag/bit-manipulation/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/master/tag/array/README.md)]
 
 ### 相似题目
   1. [只出现一次的数字 II](/problems/single-number-ii) (Medium)
@@ -43,4 +43,4 @@ permalink:  /problems/single-number/
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/single-number)
+## [解法](https://github.com/awesee/leetcode/tree/master/problems/single-number)

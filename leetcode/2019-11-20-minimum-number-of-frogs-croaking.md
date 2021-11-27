@@ -64,9 +64,9 @@ permalink:  /problems/minimum-number-of-frogs-croaking/
 {% endraw %}
 
 ### 相关话题
-  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
-  [[计数](https://github.com/openset/leetcode/tree/master/tag/counting/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/master/tag/string/README.md)]
+  [[计数](https://github.com/awesee/leetcode/tree/master/tag/counting/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/minimum-number-of-frogs-croaking)
+## [解法](https://github.com/awesee/leetcode/tree/master/problems/minimum-number-of-frogs-croaking)
