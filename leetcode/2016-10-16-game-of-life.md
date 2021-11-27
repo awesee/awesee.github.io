@@ -63,13 +63,13 @@ permalink:  /problems/game-of-life/
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[矩阵](https://github.com/openset/leetcode/tree/master/tag/matrix/README.md)]
-  [[模拟](https://github.com/openset/leetcode/tree/master/tag/simulation/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[矩阵](https://github.com/awesee/leetcode/tree/main/tag/matrix/README.md)]
+  [[模拟](https://github.com/awesee/leetcode/tree/main/tag/simulation/README.md)]
 
 ### 相似题目
   1. [矩阵置零](/problems/set-matrix-zeroes) (Medium)
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/game-of-life)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/game-of-life)

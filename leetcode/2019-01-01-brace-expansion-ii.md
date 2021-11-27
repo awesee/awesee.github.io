@@ -74,14 +74,14 @@ permalink:  /problems/brace-expansion-ii/
 {% endraw %}
 
 ### 相关话题
-  [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
-  [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
-  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
-  [[回溯](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[栈](https://github.com/awesee/leetcode/tree/main/tag/stack/README.md)]
+  [[广度优先搜索](https://github.com/awesee/leetcode/tree/main/tag/breadth-first-search/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/main/tag/string/README.md)]
+  [[回溯](https://github.com/awesee/leetcode/tree/main/tag/backtracking/README.md)]
 
 ### 相似题目
   1. [花括号展开](/problems/brace-expansion) (Medium)
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/brace-expansion-ii)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/brace-expansion-ii)

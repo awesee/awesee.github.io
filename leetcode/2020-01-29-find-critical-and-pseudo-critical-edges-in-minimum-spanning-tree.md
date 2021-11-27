@@ -57,12 +57,12 @@ permalink:  /problems/find-critical-and-pseudo-critical-edges-in-minimum-spannin
 {% endraw %}
 
 ### 相关话题
-  [[并查集](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)]
-  [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
-  [[最小生成树](https://github.com/openset/leetcode/tree/master/tag/minimum-spanning-tree/README.md)]
-  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
-  [[强连通分量](https://github.com/openset/leetcode/tree/master/tag/strongly-connected-component/README.md)]
+  [[并查集](https://github.com/awesee/leetcode/tree/main/tag/union-find/README.md)]
+  [[图](https://github.com/awesee/leetcode/tree/main/tag/graph/README.md)]
+  [[最小生成树](https://github.com/awesee/leetcode/tree/main/tag/minimum-spanning-tree/README.md)]
+  [[排序](https://github.com/awesee/leetcode/tree/main/tag/sorting/README.md)]
+  [[强连通分量](https://github.com/awesee/leetcode/tree/main/tag/strongly-connected-component/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree)

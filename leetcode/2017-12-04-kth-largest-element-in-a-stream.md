@@ -55,16 +55,16 @@ kthLargest.add(4);   // return 8
 {% endraw %}
 
 ### 相关话题
-  [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
-  [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
-  [[二叉搜索树](https://github.com/openset/leetcode/tree/master/tag/binary-search-tree/README.md)]
-  [[二叉树](https://github.com/openset/leetcode/tree/master/tag/binary-tree/README.md)]
-  [[数据流](https://github.com/openset/leetcode/tree/master/tag/data-stream/README.md)]
-  [[堆（优先队列）](https://github.com/openset/leetcode/tree/master/tag/heap-priority-queue/README.md)]
+  [[树](https://github.com/awesee/leetcode/tree/main/tag/tree/README.md)]
+  [[设计](https://github.com/awesee/leetcode/tree/main/tag/design/README.md)]
+  [[二叉搜索树](https://github.com/awesee/leetcode/tree/main/tag/binary-search-tree/README.md)]
+  [[二叉树](https://github.com/awesee/leetcode/tree/main/tag/binary-tree/README.md)]
+  [[数据流](https://github.com/awesee/leetcode/tree/main/tag/data-stream/README.md)]
+  [[堆（优先队列）](https://github.com/awesee/leetcode/tree/main/tag/heap-priority-queue/README.md)]
 
 ### 相似题目
   1. [数组中的第K个最大元素](/problems/kth-largest-element-in-an-array) (Medium)
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/kth-largest-element-in-a-stream)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/kth-largest-element-in-a-stream)

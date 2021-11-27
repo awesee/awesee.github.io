@@ -75,11 +75,11 @@ permalink:  /problems/surface-area-of-3d-shapes/
 {% endraw %}
 
 ### 相关话题
-  [[几何](https://github.com/openset/leetcode/tree/master/tag/geometry/README.md)]
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[矩阵](https://github.com/openset/leetcode/tree/master/tag/matrix/README.md)]
+  [[几何](https://github.com/awesee/leetcode/tree/main/tag/geometry/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[数学](https://github.com/awesee/leetcode/tree/main/tag/math/README.md)]
+  [[矩阵](https://github.com/awesee/leetcode/tree/main/tag/matrix/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/surface-area-of-3d-shapes)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/surface-area-of-3d-shapes)

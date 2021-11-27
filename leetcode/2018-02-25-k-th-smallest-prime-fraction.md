@@ -51,9 +51,9 @@ permalink:  /problems/k-th-smallest-prime-fraction/
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
-  [[堆（优先队列）](https://github.com/openset/leetcode/tree/master/tag/heap-priority-queue/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[二分查找](https://github.com/awesee/leetcode/tree/main/tag/binary-search/README.md)]
+  [[堆（优先队列）](https://github.com/awesee/leetcode/tree/main/tag/heap-priority-queue/README.md)]
 
 ### 相似题目
   1. [有序矩阵中第 K 小的元素](/problems/kth-smallest-element-in-a-sorted-matrix) (Medium)
@@ -62,4 +62,4 @@ permalink:  /problems/k-th-smallest-prime-fraction/
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/k-th-smallest-prime-fraction)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/k-th-smallest-prime-fraction)

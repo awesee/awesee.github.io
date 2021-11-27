@@ -39,8 +39,8 @@ permalink:  /problems/binary-string-with-substrings-representing-1-to-n/
 {% endraw %}
 
 ### 相关话题
-  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/main/tag/string/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/binary-string-with-substrings-representing-1-to-n)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/binary-string-with-substrings-representing-1-to-n)

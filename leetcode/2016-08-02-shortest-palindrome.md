@@ -41,10 +41,10 @@ permalink:  /problems/shortest-palindrome/
 {% endraw %}
 
 ### 相关话题
-  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
-  [[字符串匹配](https://github.com/openset/leetcode/tree/master/tag/string-matching/README.md)]
-  [[哈希函数](https://github.com/openset/leetcode/tree/master/tag/hash-function/README.md)]
-  [[滚动哈希](https://github.com/openset/leetcode/tree/master/tag/rolling-hash/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/main/tag/string/README.md)]
+  [[字符串匹配](https://github.com/awesee/leetcode/tree/main/tag/string-matching/README.md)]
+  [[哈希函数](https://github.com/awesee/leetcode/tree/main/tag/hash-function/README.md)]
+  [[滚动哈希](https://github.com/awesee/leetcode/tree/main/tag/rolling-hash/README.md)]
 
 ### 相似题目
   1. [最长回文子串](/problems/longest-palindromic-substring) (Medium)
@@ -53,4 +53,4 @@ permalink:  /problems/shortest-palindrome/
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/shortest-palindrome)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/shortest-palindrome)

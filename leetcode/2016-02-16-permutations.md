@@ -49,8 +49,8 @@ permalink:  /problems/permutations/
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[回溯](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[回溯](https://github.com/awesee/leetcode/tree/main/tag/backtracking/README.md)]
 
 ### 相似题目
   1. [下一个排列](/problems/next-permutation) (Medium)
@@ -60,4 +60,4 @@ permalink:  /problems/permutations/
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/permutations)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/permutations)

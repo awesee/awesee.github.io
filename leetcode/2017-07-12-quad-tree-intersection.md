@@ -83,4 +83,4 @@ bottomRight: F
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/quad-tree-intersection)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/quad-tree-intersection)

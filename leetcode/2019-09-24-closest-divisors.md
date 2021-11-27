@@ -52,8 +52,8 @@ permalink:  /problems/closest-divisors/
 {% endraw %}
 
 ### 相关话题
-  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[数学](https://github.com/awesee/leetcode/tree/main/tag/math/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/closest-divisors)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/closest-divisors)

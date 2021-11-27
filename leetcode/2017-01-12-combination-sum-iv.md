@@ -59,12 +59,12 @@ permalink:  /problems/combination-sum-iv/
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[动态规划](https://github.com/awesee/leetcode/tree/main/tag/dynamic-programming/README.md)]
 
 ### 相似题目
   1. [组合总和](/problems/combination-sum) (Medium)
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/combination-sum-iv)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/combination-sum-iv)

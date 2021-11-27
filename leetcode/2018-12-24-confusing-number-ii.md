@@ -52,12 +52,12 @@ permalink:  /problems/confusing-number-ii/
 </ol>
 
 ### 相关话题
-  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[数学](https://github.com/awesee/leetcode/tree/main/tag/math/README.md)]
+  [[回溯算法](https://github.com/awesee/leetcode/tree/main/tag/backtracking/README.md)]
 
 ### 相似题目
   1. [易混淆数](/confusing-number) (Easy)
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/confusing-number-ii)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/confusing-number-ii)

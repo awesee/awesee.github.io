@@ -58,10 +58,10 @@ struct Node {
 {% endraw %}
 
 ### 相关话题
-  [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
-  [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
-  [[二叉树](https://github.com/openset/leetcode/tree/master/tag/binary-tree/README.md)]
+  [[树](https://github.com/awesee/leetcode/tree/main/tag/tree/README.md)]
+  [[深度优先搜索](https://github.com/awesee/leetcode/tree/main/tag/depth-first-search/README.md)]
+  [[广度优先搜索](https://github.com/awesee/leetcode/tree/main/tag/breadth-first-search/README.md)]
+  [[二叉树](https://github.com/awesee/leetcode/tree/main/tag/binary-tree/README.md)]
 
 ### 相似题目
   1. [填充每个节点的下一个右侧节点指针 II](/problems/populating-next-right-pointers-in-each-node-ii) (Medium)
@@ -69,4 +69,4 @@ struct Node {
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/populating-next-right-pointers-in-each-node)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/populating-next-right-pointers-in-each-node)

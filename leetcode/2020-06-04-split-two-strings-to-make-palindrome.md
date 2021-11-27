@@ -69,10 +69,10 @@ b<sub>prefix</sub> = "jiz", b<sub>suffix</sub> = "alu"
 {% endraw %}
 
 ### 相关话题
-  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
-  [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
-  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[贪心](https://github.com/awesee/leetcode/tree/main/tag/greedy/README.md)]
+  [[双指针](https://github.com/awesee/leetcode/tree/main/tag/two-pointers/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/main/tag/string/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/split-two-strings-to-make-palindrome)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/split-two-strings-to-make-palindrome)

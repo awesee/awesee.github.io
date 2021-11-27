@@ -62,11 +62,11 @@ permalink:  /problems/palindrome-number/
 {% endraw %}
 
 ### 相关话题
-  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[数学](https://github.com/awesee/leetcode/tree/main/tag/math/README.md)]
 
 ### 相似题目
   1. [回文链表](/problems/palindrome-linked-list) (Easy)
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/palindrome-number)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/palindrome-number)

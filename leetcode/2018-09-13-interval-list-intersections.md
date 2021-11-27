@@ -65,8 +65,8 @@ permalink:  /problems/interval-list-intersections/
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[双指针](https://github.com/awesee/leetcode/tree/main/tag/two-pointers/README.md)]
 
 ### 相似题目
   1. [合并区间](/problems/merge-intervals) (Medium)
@@ -75,4 +75,4 @@ permalink:  /problems/interval-list-intersections/
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/interval-list-intersections)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/interval-list-intersections)

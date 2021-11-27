@@ -53,10 +53,10 @@ permalink:  /problems/self-crossing/
 {% endraw %}
 
 ### 相关话题
-  [[几何](https://github.com/openset/leetcode/tree/master/tag/geometry/README.md)]
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[几何](https://github.com/awesee/leetcode/tree/main/tag/geometry/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[数学](https://github.com/awesee/leetcode/tree/main/tag/math/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/self-crossing)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/self-crossing)

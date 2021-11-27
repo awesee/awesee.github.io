@@ -80,12 +80,12 @@ permalink:  /problems/decode-ways/
 {% endraw %}
 
 ### 相关话题
-  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
-  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/main/tag/string/README.md)]
+  [[动态规划](https://github.com/awesee/leetcode/tree/main/tag/dynamic-programming/README.md)]
 
 ### 相似题目
   1. [解码方法 II](/problems/decode-ways-ii) (Hard)
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/decode-ways)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/decode-ways)

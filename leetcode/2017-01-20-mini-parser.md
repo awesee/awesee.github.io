@@ -48,9 +48,9 @@ permalink:  /problems/mini-parser/
 {% endraw %}
 
 ### 相关话题
-  [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
-  [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[栈](https://github.com/awesee/leetcode/tree/main/tag/stack/README.md)]
+  [[深度优先搜索](https://github.com/awesee/leetcode/tree/main/tag/depth-first-search/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/main/tag/string/README.md)]
 
 ### 相似题目
   1. [扁平化嵌套列表迭代器](/problems/flatten-nested-list-iterator) (Medium)
@@ -59,4 +59,4 @@ permalink:  /problems/mini-parser/
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/mini-parser)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/mini-parser)

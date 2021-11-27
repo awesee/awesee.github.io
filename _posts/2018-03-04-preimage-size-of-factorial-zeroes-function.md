@@ -45,12 +45,12 @@ permalink:  /problems/preimage-size-of-factorial-zeroes-function/
 {% endraw %}
 
 ### 相关话题
-  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[数学](https://github.com/awesee/leetcode/tree/main/tag/math/README.md)]
+  [[二分查找](https://github.com/awesee/leetcode/tree/main/tag/binary-search/README.md)]
 
 ### 相似题目
   1. [阶乘后的零](/problems/factorial-trailing-zeroes) (Easy)
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/preimage-size-of-factorial-zeroes-function)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/preimage-size-of-factorial-zeroes-function)

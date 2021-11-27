@@ -32,8 +32,8 @@ permalink:  /problems/product-of-array-except-self/
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[前缀和](https://github.com/openset/leetcode/tree/master/tag/prefix-sum/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[前缀和](https://github.com/awesee/leetcode/tree/main/tag/prefix-sum/README.md)]
 
 ### 相似题目
   1. [接雨水](/problems/trapping-rain-water) (Hard)
@@ -42,4 +42,4 @@ permalink:  /problems/product-of-array-except-self/
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/product-of-array-except-self)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/product-of-array-except-self)

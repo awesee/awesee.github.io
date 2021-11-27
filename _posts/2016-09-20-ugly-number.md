@@ -59,7 +59,7 @@ permalink:  /problems/ugly-number/
 {% endraw %}
 
 ### 相关话题
-  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[数学](https://github.com/awesee/leetcode/tree/main/tag/math/README.md)]
 
 ### 相似题目
   1. [快乐数](/problems/happy-number) (Easy)
@@ -68,4 +68,4 @@ permalink:  /problems/ugly-number/
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/ugly-number)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/ugly-number)

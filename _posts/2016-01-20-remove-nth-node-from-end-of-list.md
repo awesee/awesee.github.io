@@ -52,9 +52,9 @@ permalink:  /problems/remove-nth-node-from-end-of-list/
 {% endraw %}
 
 ### 相关话题
-  [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
-  [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+  [[链表](https://github.com/awesee/leetcode/tree/main/tag/linked-list/README.md)]
+  [[双指针](https://github.com/awesee/leetcode/tree/main/tag/two-pointers/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/remove-nth-node-from-end-of-list)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/remove-nth-node-from-end-of-list)

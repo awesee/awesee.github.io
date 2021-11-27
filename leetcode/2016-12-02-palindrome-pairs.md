@@ -49,10 +49,10 @@ permalink:  /problems/palindrome-pairs/
 {% endraw %}
 
 ### 相关话题
-  [[字典树](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)]
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[字典树](https://github.com/awesee/leetcode/tree/main/tag/trie/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[哈希表](https://github.com/awesee/leetcode/tree/main/tag/hash-table/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/main/tag/string/README.md)]
 
 ### 相似题目
   1. [最长回文子串](/problems/longest-palindromic-substring) (Medium)
@@ -60,4 +60,4 @@ permalink:  /problems/palindrome-pairs/
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/palindrome-pairs)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/palindrome-pairs)

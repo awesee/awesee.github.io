@@ -47,9 +47,9 @@ permalink:  /problems/reach-a-number/
 {% endraw %}
 
 ### 相关话题
-  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[数学](https://github.com/awesee/leetcode/tree/main/tag/math/README.md)]
+  [[二分查找](https://github.com/awesee/leetcode/tree/main/tag/binary-search/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/reach-a-number)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/reach-a-number)

@@ -43,11 +43,11 @@ permalink:  /problems/longest-substring-with-at-least-k-repeating-characters/
 {% endraw %}
 
 ### 相关话题
-  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
-  [[分治](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]
-  [[滑动窗口](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
+  [[哈希表](https://github.com/awesee/leetcode/tree/main/tag/hash-table/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/main/tag/string/README.md)]
+  [[分治](https://github.com/awesee/leetcode/tree/main/tag/divide-and-conquer/README.md)]
+  [[滑动窗口](https://github.com/awesee/leetcode/tree/main/tag/sliding-window/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/longest-substring-with-at-least-k-repeating-characters)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/longest-substring-with-at-least-k-repeating-characters)

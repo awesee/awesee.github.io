@@ -47,9 +47,9 @@ permalink:  /problems/path-sum-iii/
 {% endraw %}
 
 ### 相关话题
-  [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
-  [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[二叉树](https://github.com/openset/leetcode/tree/master/tag/binary-tree/README.md)]
+  [[树](https://github.com/awesee/leetcode/tree/main/tag/tree/README.md)]
+  [[深度优先搜索](https://github.com/awesee/leetcode/tree/main/tag/depth-first-search/README.md)]
+  [[二叉树](https://github.com/awesee/leetcode/tree/main/tag/binary-tree/README.md)]
 
 ### 相似题目
   1. [路径总和](/problems/path-sum) (Easy)
@@ -59,4 +59,4 @@ permalink:  /problems/path-sum-iii/
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/path-sum-iii)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/path-sum-iii)

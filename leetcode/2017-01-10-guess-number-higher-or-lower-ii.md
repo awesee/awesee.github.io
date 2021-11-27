@@ -37,9 +37,9 @@ permalink:  /problems/guess-number-higher-or-lower-ii/
 {% endraw %}
 
 ### 相关话题
-  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
-  [[博弈](https://github.com/openset/leetcode/tree/master/tag/game-theory/README.md)]
+  [[数学](https://github.com/awesee/leetcode/tree/main/tag/math/README.md)]
+  [[动态规划](https://github.com/awesee/leetcode/tree/main/tag/dynamic-programming/README.md)]
+  [[博弈](https://github.com/awesee/leetcode/tree/main/tag/game-theory/README.md)]
 
 ### 相似题目
   1. [翻转游戏 II](/problems/flip-game-ii) (Medium)
@@ -49,4 +49,4 @@ permalink:  /problems/guess-number-higher-or-lower-ii/
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/guess-number-higher-or-lower-ii)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/guess-number-higher-or-lower-ii)

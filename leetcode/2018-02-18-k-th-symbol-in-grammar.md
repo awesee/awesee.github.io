@@ -48,10 +48,10 @@ permalink:  /problems/k-th-symbol-in-grammar/
 {% endraw %}
 
 ### 相关话题
-  [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
-  [[递归](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]
-  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[位运算](https://github.com/awesee/leetcode/tree/main/tag/bit-manipulation/README.md)]
+  [[递归](https://github.com/awesee/leetcode/tree/main/tag/recursion/README.md)]
+  [[数学](https://github.com/awesee/leetcode/tree/main/tag/math/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/k-th-symbol-in-grammar)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/k-th-symbol-in-grammar)

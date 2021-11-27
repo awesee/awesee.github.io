@@ -37,9 +37,9 @@ search(&quot;b..&quot;) -&gt; true
 {% endraw %}
 
 ### 相关话题
-  [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
-  [[字典树](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)]
-  [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[设计](https://github.com/awesee/leetcode/tree/main/tag/design/README.md)]
+  [[字典树](https://github.com/awesee/leetcode/tree/main/tag/trie/README.md)]
+  [[回溯算法](https://github.com/awesee/leetcode/tree/main/tag/backtracking/README.md)]
 
 ### 相似题目
   1. [实现 Trie (前缀树)](/problems/implement-trie-prefix-tree) (Medium)
@@ -47,4 +47,4 @@ search(&quot;b..&quot;) -&gt; true
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/add-and-search-word-data-structure-design)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/add-and-search-word-data-structure-design)

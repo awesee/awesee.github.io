@@ -60,12 +60,12 @@ permalink:  /problems/asteroid-collision/
 {% endraw %}
 
 ### 相关话题
-  [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[栈](https://github.com/awesee/leetcode/tree/main/tag/stack/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
 
 ### 相似题目
   1. [种花问题](/problems/can-place-flowers) (Easy)
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/asteroid-collision)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/asteroid-collision)

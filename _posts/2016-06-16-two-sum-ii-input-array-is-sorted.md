@@ -55,9 +55,9 @@ permalink:  /problems/two-sum-ii-input-array-is-sorted/
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
-  [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[双指针](https://github.com/awesee/leetcode/tree/main/tag/two-pointers/README.md)]
+  [[二分查找](https://github.com/awesee/leetcode/tree/main/tag/binary-search/README.md)]
 
 ### 相似题目
   1. [两数之和](/problems/two-sum) (Easy)
@@ -66,4 +66,4 @@ permalink:  /problems/two-sum-ii-input-array-is-sorted/
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/two-sum-ii-input-array-is-sorted)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/two-sum-ii-input-array-is-sorted)

@@ -38,12 +38,12 @@ permalink:  /problems/additive-number/
 {% endraw %}
 
 ### 相关话题
-  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
-  [[回溯](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/main/tag/string/README.md)]
+  [[回溯](https://github.com/awesee/leetcode/tree/main/tag/backtracking/README.md)]
 
 ### 相似题目
   1. [将数组拆分成斐波那契序列](/problems/split-array-into-fibonacci-sequence) (Medium)
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/additive-number)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/additive-number)

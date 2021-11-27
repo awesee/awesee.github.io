@@ -81,11 +81,11 @@ D.pop()            // 返回 -1。仍然没有栈。
 {% endraw %}
 
 ### 相关话题
-  [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
-  [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
-  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[堆（优先队列）](https://github.com/openset/leetcode/tree/master/tag/heap-priority-queue/README.md)]
+  [[栈](https://github.com/awesee/leetcode/tree/main/tag/stack/README.md)]
+  [[设计](https://github.com/awesee/leetcode/tree/main/tag/design/README.md)]
+  [[哈希表](https://github.com/awesee/leetcode/tree/main/tag/hash-table/README.md)]
+  [[堆（优先队列）](https://github.com/awesee/leetcode/tree/main/tag/heap-priority-queue/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/dinner-plate-stacks)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/dinner-plate-stacks)

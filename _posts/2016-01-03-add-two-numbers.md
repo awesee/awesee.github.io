@@ -54,9 +54,9 @@ permalink:  /problems/add-two-numbers/
 {% endraw %}
 
 ### 相关话题
-  [[递归](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]
-  [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
-  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[递归](https://github.com/awesee/leetcode/tree/main/tag/recursion/README.md)]
+  [[链表](https://github.com/awesee/leetcode/tree/main/tag/linked-list/README.md)]
+  [[数学](https://github.com/awesee/leetcode/tree/main/tag/math/README.md)]
 
 ### 相似题目
   1. [字符串相乘](/problems/multiply-strings) (Medium)
@@ -68,4 +68,4 @@ permalink:  /problems/add-two-numbers/
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/add-two-numbers)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/add-two-numbers)

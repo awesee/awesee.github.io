@@ -51,11 +51,11 @@ permalink:  /problems/complete-binary-tree-inserter/
 {% endraw %}
 
 ### 相关话题
-  [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
-  [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
-  [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
-  [[二叉树](https://github.com/openset/leetcode/tree/master/tag/binary-tree/README.md)]
+  [[树](https://github.com/awesee/leetcode/tree/main/tag/tree/README.md)]
+  [[广度优先搜索](https://github.com/awesee/leetcode/tree/main/tag/breadth-first-search/README.md)]
+  [[设计](https://github.com/awesee/leetcode/tree/main/tag/design/README.md)]
+  [[二叉树](https://github.com/awesee/leetcode/tree/main/tag/binary-tree/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/complete-binary-tree-inserter)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/complete-binary-tree-inserter)

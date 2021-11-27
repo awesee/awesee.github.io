@@ -42,9 +42,9 @@ permalink:  /problems/next-greater-element-iii/
 {% endraw %}
 
 ### 相关话题
-  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
-  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[数学](https://github.com/awesee/leetcode/tree/main/tag/math/README.md)]
+  [[双指针](https://github.com/awesee/leetcode/tree/main/tag/two-pointers/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/main/tag/string/README.md)]
 
 ### 相似题目
   1. [下一个更大元素 I](/problems/next-greater-element-i) (Easy)
@@ -52,4 +52,4 @@ permalink:  /problems/next-greater-element-iii/
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/next-greater-element-iii)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/next-greater-element-iii)

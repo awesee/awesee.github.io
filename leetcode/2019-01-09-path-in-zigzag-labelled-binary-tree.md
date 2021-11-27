@@ -46,10 +46,10 @@ permalink:  /problems/path-in-zigzag-labelled-binary-tree/
 {% endraw %}
 
 ### 相关话题
-  [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
-  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[二叉树](https://github.com/openset/leetcode/tree/master/tag/binary-tree/README.md)]
+  [[树](https://github.com/awesee/leetcode/tree/main/tag/tree/README.md)]
+  [[数学](https://github.com/awesee/leetcode/tree/main/tag/math/README.md)]
+  [[二叉树](https://github.com/awesee/leetcode/tree/main/tag/binary-tree/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/path-in-zigzag-labelled-binary-tree)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/path-in-zigzag-labelled-binary-tree)

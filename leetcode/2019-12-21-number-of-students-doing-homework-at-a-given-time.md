@@ -68,8 +68,8 @@ permalink:  /problems/number-of-students-doing-homework-at-a-given-time/
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/number-of-students-doing-homework-at-a-given-time)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/number-of-students-doing-homework-at-a-given-time)

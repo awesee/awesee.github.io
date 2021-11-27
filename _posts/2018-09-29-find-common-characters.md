@@ -42,13 +42,13 @@ permalink:  /problems/find-common-characters/
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[哈希表](https://github.com/awesee/leetcode/tree/main/tag/hash-table/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/main/tag/string/README.md)]
 
 ### 相似题目
   1. [两个数组的交集 II](/problems/intersection-of-two-arrays-ii) (Easy)
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/find-common-characters)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/find-common-characters)

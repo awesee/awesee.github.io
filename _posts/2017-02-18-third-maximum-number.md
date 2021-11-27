@@ -54,12 +54,12 @@ permalink:  /problems/third-maximum-number/
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[排序](https://github.com/awesee/leetcode/tree/main/tag/sorting/README.md)]
 
 ### 相似题目
   1. [数组中的第K个最大元素](/problems/kth-largest-element-in-an-array) (Medium)
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/third-maximum-number)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/third-maximum-number)

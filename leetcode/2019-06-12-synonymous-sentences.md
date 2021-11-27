@@ -47,8 +47,8 @@ text = &quot;I am happy today but was sad yesterday&quot;
 {% endraw %}
 
 ### 相关话题
-  [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[回溯算法](https://github.com/awesee/leetcode/tree/main/tag/backtracking/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/synonymous-sentences)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/synonymous-sentences)

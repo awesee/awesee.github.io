@@ -52,8 +52,8 @@ permalink:  /problems/minimum-flips-to-make-a-or-b-equal-to-c/
 {% endraw %}
 
 ### 相关话题
-  [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
+  [[位运算](https://github.com/awesee/leetcode/tree/main/tag/bit-manipulation/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/minimum-flips-to-make-a-or-b-equal-to-c)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/minimum-flips-to-make-a-or-b-equal-to-c)

@@ -51,9 +51,9 @@ permalink:  /problems/moving-stones-until-consecutive/
 {% endraw %}
 
 ### 相关话题
-  [[脑筋急转弯](https://github.com/openset/leetcode/tree/master/tag/brainteaser/README.md)]
-  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[脑筋急转弯](https://github.com/awesee/leetcode/tree/main/tag/brainteaser/README.md)]
+  [[数学](https://github.com/awesee/leetcode/tree/main/tag/math/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/moving-stones-until-consecutive)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/moving-stones-until-consecutive)

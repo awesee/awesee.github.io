@@ -55,12 +55,12 @@ permalink:  /problems/palindrome-partitioning-ii/
 {% endraw %}
 
 ### 相关话题
-  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
-  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/main/tag/string/README.md)]
+  [[动态规划](https://github.com/awesee/leetcode/tree/main/tag/dynamic-programming/README.md)]
 
 ### 相似题目
   1. [分割回文串](/problems/palindrome-partitioning) (Medium)
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/palindrome-partitioning-ii)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/palindrome-partitioning-ii)

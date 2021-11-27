@@ -45,14 +45,14 @@ permalink:  /problems/longest-word-in-dictionary-through-deleting/
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
-  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
-  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[双指针](https://github.com/awesee/leetcode/tree/main/tag/two-pointers/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/main/tag/string/README.md)]
+  [[排序](https://github.com/awesee/leetcode/tree/main/tag/sorting/README.md)]
 
 ### 相似题目
   1. [词典中最长的单词](/problems/longest-word-in-dictionary) (Easy)
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/longest-word-in-dictionary-through-deleting)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/longest-word-in-dictionary-through-deleting)

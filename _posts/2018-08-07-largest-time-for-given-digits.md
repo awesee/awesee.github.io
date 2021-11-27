@@ -61,9 +61,9 @@ permalink:  /problems/largest-time-for-given-digits/
 {% endraw %}
 
 ### 相关话题
-  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
-  [[枚举](https://github.com/openset/leetcode/tree/master/tag/enumeration/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/main/tag/string/README.md)]
+  [[枚举](https://github.com/awesee/leetcode/tree/main/tag/enumeration/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/largest-time-for-given-digits)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/largest-time-for-given-digits)

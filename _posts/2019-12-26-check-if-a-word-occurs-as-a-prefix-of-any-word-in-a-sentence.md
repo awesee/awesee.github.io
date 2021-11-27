@@ -77,9 +77,9 @@ permalink:  /problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-senten
 {% endraw %}
 
 ### 相关话题
-  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
-  [[字符串匹配](https://github.com/openset/leetcode/tree/master/tag/string-matching/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/main/tag/string/README.md)]
+  [[字符串匹配](https://github.com/awesee/leetcode/tree/main/tag/string-matching/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence)

@@ -71,9 +71,9 @@ permalink:  /problems/minimum-number-of-days-to-eat-n-oranges/
 {% endraw %}
 
 ### 相关话题
-  [[记忆化搜索](https://github.com/openset/leetcode/tree/master/tag/memoization/README.md)]
-  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[记忆化搜索](https://github.com/awesee/leetcode/tree/main/tag/memoization/README.md)]
+  [[动态规划](https://github.com/awesee/leetcode/tree/main/tag/dynamic-programming/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/minimum-number-of-days-to-eat-n-oranges)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/minimum-number-of-days-to-eat-n-oranges)

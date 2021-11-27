@@ -42,12 +42,12 @@ permalink:  /problems/encode-number/
 {% endraw %}
 
 ### 相关话题
-  [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
-  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[位运算](https://github.com/awesee/leetcode/tree/main/tag/bit-manipulation/README.md)]
+  [[数学](https://github.com/awesee/leetcode/tree/main/tag/math/README.md)]
 
 ### 相似题目
   1. [负二进制转换](/problems/convert-to-base-2) (Medium)
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/encode-number)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/encode-number)

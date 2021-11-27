@@ -44,11 +44,11 @@ permalink:  /problems/random-flip-matrix/
 {% endraw %}
 
 ### 相关话题
-  [[水塘抽样](https://github.com/openset/leetcode/tree/master/tag/reservoir-sampling/README.md)]
-  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[随机化](https://github.com/openset/leetcode/tree/master/tag/randomized/README.md)]
+  [[水塘抽样](https://github.com/awesee/leetcode/tree/main/tag/reservoir-sampling/README.md)]
+  [[哈希表](https://github.com/awesee/leetcode/tree/main/tag/hash-table/README.md)]
+  [[数学](https://github.com/awesee/leetcode/tree/main/tag/math/README.md)]
+  [[随机化](https://github.com/awesee/leetcode/tree/main/tag/randomized/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/random-flip-matrix)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/random-flip-matrix)

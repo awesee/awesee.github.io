@@ -58,9 +58,9 @@ permalink:  /problems/implement-strstr/
 {% endraw %}
 
 ### 相关话题
-  [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
-  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
-  [[字符串匹配](https://github.com/openset/leetcode/tree/master/tag/string-matching/README.md)]
+  [[双指针](https://github.com/awesee/leetcode/tree/main/tag/two-pointers/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/main/tag/string/README.md)]
+  [[字符串匹配](https://github.com/awesee/leetcode/tree/main/tag/string-matching/README.md)]
 
 ### 相似题目
   1. [最短回文串](/problems/shortest-palindrome) (Hard)
@@ -68,4 +68,4 @@ permalink:  /problems/implement-strstr/
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/implement-strstr)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/implement-strstr)

@@ -48,13 +48,13 @@ permalink:  /problems/maximum-product-of-three-numbers/
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[数学](https://github.com/awesee/leetcode/tree/main/tag/math/README.md)]
+  [[排序](https://github.com/awesee/leetcode/tree/main/tag/sorting/README.md)]
 
 ### 相似题目
   1. [乘积最大子数组](/problems/maximum-product-subarray) (Medium)
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/maximum-product-of-three-numbers)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/maximum-product-of-three-numbers)

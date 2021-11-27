@@ -55,9 +55,9 @@ permalink:  /problems/happy-number/
 {% endraw %}
 
 ### 相关话题
-  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+  [[哈希表](https://github.com/awesee/leetcode/tree/main/tag/hash-table/README.md)]
+  [[数学](https://github.com/awesee/leetcode/tree/main/tag/math/README.md)]
+  [[双指针](https://github.com/awesee/leetcode/tree/main/tag/two-pointers/README.md)]
 
 ### 相似题目
   1. [环形链表](/problems/linked-list-cycle) (Easy)
@@ -66,4 +66,4 @@ permalink:  /problems/happy-number/
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/happy-number)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/happy-number)

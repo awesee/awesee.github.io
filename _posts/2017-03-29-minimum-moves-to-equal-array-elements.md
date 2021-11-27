@@ -30,12 +30,12 @@ permalink:  /problems/minimum-moves-to-equal-array-elements/
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[数学](https://github.com/awesee/leetcode/tree/main/tag/math/README.md)]
 
 ### 相似题目
   1. [最少移动次数使数组元素相等 II](/problems/minimum-moves-to-equal-array-elements-ii) (Medium)
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/minimum-moves-to-equal-array-elements)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/minimum-moves-to-equal-array-elements)

@@ -68,10 +68,10 @@ permalink:  /problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-t
 {% endraw %}
 
 ### 相关话题
-  [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
-  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
-  [[最短路](https://github.com/openset/leetcode/tree/master/tag/shortest-path/README.md)]
+  [[图](https://github.com/awesee/leetcode/tree/main/tag/graph/README.md)]
+  [[动态规划](https://github.com/awesee/leetcode/tree/main/tag/dynamic-programming/README.md)]
+  [[最短路](https://github.com/awesee/leetcode/tree/main/tag/shortest-path/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance)

@@ -50,7 +50,7 @@ region2 = &quot;New York&quot;
 {% endraw %}
 
 ### 相关话题
-  [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[树](https://github.com/awesee/leetcode/tree/main/tag/tree/README.md)]
 
 ### 相似题目
   1. [二叉搜索树的最近公共祖先](/problems/lowest-common-ancestor-of-a-binary-search-tree) (Easy)
@@ -58,4 +58,4 @@ region2 = &quot;New York&quot;
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/smallest-common-region)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/smallest-common-region)

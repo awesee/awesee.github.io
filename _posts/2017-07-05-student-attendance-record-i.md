@@ -38,11 +38,11 @@ permalink:  /problems/student-attendance-record-i/
 {% endraw %}
 
 ### 相关话题
-  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/main/tag/string/README.md)]
 
 ### 相似题目
   1. [学生出勤记录 II](/problems/student-attendance-record-ii) (Hard)
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/student-attendance-record-i)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/student-attendance-record-i)

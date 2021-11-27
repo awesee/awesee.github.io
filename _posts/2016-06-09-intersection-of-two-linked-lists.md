@@ -81,13 +81,13 @@ permalink:  /problems/intersection-of-two-linked-lists/
 {% endraw %}
 
 ### 相关话题
-  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
-  [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+  [[哈希表](https://github.com/awesee/leetcode/tree/main/tag/hash-table/README.md)]
+  [[链表](https://github.com/awesee/leetcode/tree/main/tag/linked-list/README.md)]
+  [[双指针](https://github.com/awesee/leetcode/tree/main/tag/two-pointers/README.md)]
 
 ### 相似题目
   1. [两个列表的最小索引总和](/problems/minimum-index-sum-of-two-lists) (Easy)
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/intersection-of-two-linked-lists)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/intersection-of-two-linked-lists)

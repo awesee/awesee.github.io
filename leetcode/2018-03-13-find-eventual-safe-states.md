@@ -56,11 +56,11 @@ permalink:  /problems/find-eventual-safe-states/
 {% endraw %}
 
 ### 相关话题
-  [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
-  [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
-  [[拓扑排序](https://github.com/openset/leetcode/tree/master/tag/topological-sort/README.md)]
+  [[深度优先搜索](https://github.com/awesee/leetcode/tree/main/tag/depth-first-search/README.md)]
+  [[广度优先搜索](https://github.com/awesee/leetcode/tree/main/tag/breadth-first-search/README.md)]
+  [[图](https://github.com/awesee/leetcode/tree/main/tag/graph/README.md)]
+  [[拓扑排序](https://github.com/awesee/leetcode/tree/main/tag/topological-sort/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/find-eventual-safe-states)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/find-eventual-safe-states)

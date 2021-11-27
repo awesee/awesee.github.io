@@ -42,12 +42,12 @@ permalink:  /problems/special-binary-string/
 {% endraw %}
 
 ### 相关话题
-  [[递归](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]
-  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[递归](https://github.com/awesee/leetcode/tree/main/tag/recursion/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/main/tag/string/README.md)]
 
 ### 相似题目
   1. [有效的括号字符串](/problems/valid-parenthesis-string) (Medium)
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/special-binary-string)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/special-binary-string)

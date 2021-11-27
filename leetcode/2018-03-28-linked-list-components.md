@@ -51,9 +51,9 @@ G = [0, 3, 1, 4]
 {% endraw %}
 
 ### 相关话题
-  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
+  [[哈希表](https://github.com/awesee/leetcode/tree/main/tag/hash-table/README.md)]
+  [[链表](https://github.com/awesee/leetcode/tree/main/tag/linked-list/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/linked-list-components)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/linked-list-components)

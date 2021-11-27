@@ -54,13 +54,13 @@ permalink:  /problems/integer-to-english-words/
 {% endraw %}
 
 ### 相关话题
-  [[递归](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]
-  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[递归](https://github.com/awesee/leetcode/tree/main/tag/recursion/README.md)]
+  [[数学](https://github.com/awesee/leetcode/tree/main/tag/math/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/main/tag/string/README.md)]
 
 ### 相似题目
   1. [整数转罗马数字](/problems/integer-to-roman) (Medium)
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/integer-to-english-words)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/integer-to-english-words)

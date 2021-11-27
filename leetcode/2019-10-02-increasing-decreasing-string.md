@@ -77,10 +77,10 @@ permalink:  /problems/increasing-decreasing-string/
 {% endraw %}
 
 ### 相关话题
-  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
-  [[计数](https://github.com/openset/leetcode/tree/master/tag/counting/README.md)]
+  [[哈希表](https://github.com/awesee/leetcode/tree/main/tag/hash-table/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/main/tag/string/README.md)]
+  [[计数](https://github.com/awesee/leetcode/tree/main/tag/counting/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/increasing-decreasing-string)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/increasing-decreasing-string)

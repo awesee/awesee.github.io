@@ -43,13 +43,13 @@ permalink:  /problems/max-points-on-a-line/
 {% endraw %}
 
 ### 相关话题
-  [[几何](https://github.com/openset/leetcode/tree/master/tag/geometry/README.md)]
-  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[几何](https://github.com/awesee/leetcode/tree/main/tag/geometry/README.md)]
+  [[哈希表](https://github.com/awesee/leetcode/tree/main/tag/hash-table/README.md)]
+  [[数学](https://github.com/awesee/leetcode/tree/main/tag/math/README.md)]
 
 ### 相似题目
   1. [直线镜像](/problems/line-reflection) (Medium)
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/max-points-on-a-line)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/max-points-on-a-line)

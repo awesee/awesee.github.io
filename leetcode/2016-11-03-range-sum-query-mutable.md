@@ -59,10 +59,10 @@ numArray.sumRange(0, 2); // 返回 8 ，sum([1,2,5]) = 8
 {% endraw %}
 
 ### 相关话题
-  [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
-  [[树状数组](https://github.com/openset/leetcode/tree/master/tag/binary-indexed-tree/README.md)]
-  [[线段树](https://github.com/openset/leetcode/tree/master/tag/segment-tree/README.md)]
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[设计](https://github.com/awesee/leetcode/tree/main/tag/design/README.md)]
+  [[树状数组](https://github.com/awesee/leetcode/tree/main/tag/binary-indexed-tree/README.md)]
+  [[线段树](https://github.com/awesee/leetcode/tree/main/tag/segment-tree/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
 
 ### 相似题目
   1. [区域和检索 - 数组不可变](/problems/range-sum-query-immutable) (Easy)
@@ -70,4 +70,4 @@ numArray.sumRange(0, 2); // 返回 8 ，sum([1,2,5]) = 8
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/range-sum-query-mutable)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/range-sum-query-mutable)

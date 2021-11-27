@@ -44,14 +44,14 @@ permalink:  /problems/most-frequent-subtree-sum/
 {% endraw %}
 
 ### 相关话题
-  [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
-  [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[二叉树](https://github.com/openset/leetcode/tree/master/tag/binary-tree/README.md)]
+  [[树](https://github.com/awesee/leetcode/tree/main/tag/tree/README.md)]
+  [[深度优先搜索](https://github.com/awesee/leetcode/tree/main/tag/depth-first-search/README.md)]
+  [[哈希表](https://github.com/awesee/leetcode/tree/main/tag/hash-table/README.md)]
+  [[二叉树](https://github.com/awesee/leetcode/tree/main/tag/binary-tree/README.md)]
 
 ### 相似题目
   1. [另一棵树的子树](/problems/subtree-of-another-tree) (Easy)
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/most-frequent-subtree-sum)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/most-frequent-subtree-sum)

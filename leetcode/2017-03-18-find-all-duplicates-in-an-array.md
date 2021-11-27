@@ -30,12 +30,12 @@ permalink:  /problems/find-all-duplicates-in-an-array/
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[哈希表](https://github.com/awesee/leetcode/tree/main/tag/hash-table/README.md)]
 
 ### 相似题目
   1. [找到所有数组中消失的数字](/problems/find-all-numbers-disappeared-in-an-array) (Easy)
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/find-all-duplicates-in-an-array)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/find-all-duplicates-in-an-array)

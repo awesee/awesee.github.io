@@ -44,8 +44,8 @@ permalink:  /problems/minimum-ascii-delete-sum-for-two-strings/
 {% endraw %}
 
 ### 相关话题
-  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
-  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/main/tag/string/README.md)]
+  [[动态规划](https://github.com/awesee/leetcode/tree/main/tag/dynamic-programming/README.md)]
 
 ### 相似题目
   1. [编辑距离](/problems/edit-distance) (Hard)
@@ -54,4 +54,4 @@ permalink:  /problems/minimum-ascii-delete-sum-for-two-strings/
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/minimum-ascii-delete-sum-for-two-strings)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/minimum-ascii-delete-sum-for-two-strings)

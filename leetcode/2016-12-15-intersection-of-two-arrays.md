@@ -38,11 +38,11 @@ permalink:  /problems/intersection-of-two-arrays/
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
-  [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
-  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[哈希表](https://github.com/awesee/leetcode/tree/main/tag/hash-table/README.md)]
+  [[双指针](https://github.com/awesee/leetcode/tree/main/tag/two-pointers/README.md)]
+  [[二分查找](https://github.com/awesee/leetcode/tree/main/tag/binary-search/README.md)]
+  [[排序](https://github.com/awesee/leetcode/tree/main/tag/sorting/README.md)]
 
 ### 相似题目
   1. [两个数组的交集 II](/problems/intersection-of-two-arrays-ii) (Easy)
@@ -50,4 +50,4 @@ permalink:  /problems/intersection-of-two-arrays/
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/intersection-of-two-arrays)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/intersection-of-two-arrays)

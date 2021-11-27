@@ -42,8 +42,8 @@ permalink:  /problems/rotate-list/
 {% endraw %}
 
 ### 相关话题
-  [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
-  [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+  [[链表](https://github.com/awesee/leetcode/tree/main/tag/linked-list/README.md)]
+  [[双指针](https://github.com/awesee/leetcode/tree/main/tag/two-pointers/README.md)]
 
 ### 相似题目
   1. [旋转数组](/problems/rotate-array) (Medium)
@@ -51,4 +51,4 @@ permalink:  /problems/rotate-list/
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/rotate-list)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/rotate-list)

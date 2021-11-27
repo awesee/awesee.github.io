@@ -38,9 +38,9 @@ A = [1, 3, 5, 7] ， B = [1, 2, 3, 4]
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[动态规划](https://github.com/awesee/leetcode/tree/main/tag/dynamic-programming/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/minimum-swaps-to-make-sequences-increasing)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/minimum-swaps-to-make-sequences-increasing)

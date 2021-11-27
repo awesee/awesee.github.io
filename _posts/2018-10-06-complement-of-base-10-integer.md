@@ -55,8 +55,8 @@ permalink:  /problems/complement-of-base-10-integer/
 {% endraw %}
 
 ### 相关话题
-  [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
+  [[位运算](https://github.com/awesee/leetcode/tree/main/tag/bit-manipulation/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/complement-of-base-10-integer)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/complement-of-base-10-integer)

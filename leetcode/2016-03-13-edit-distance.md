@@ -59,8 +59,8 @@ exection -> execution (插入 'u')
 {% endraw %}
 
 ### 相关话题
-  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
-  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/main/tag/string/README.md)]
+  [[动态规划](https://github.com/awesee/leetcode/tree/main/tag/dynamic-programming/README.md)]
 
 ### 相似题目
   1. [相隔为 1 的编辑距离](/problems/one-edit-distance) (Medium)
@@ -70,4 +70,4 @@ exection -> execution (插入 'u')
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/edit-distance)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/edit-distance)

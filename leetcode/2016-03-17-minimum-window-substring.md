@@ -61,9 +61,9 @@ permalink:  /problems/minimum-window-substring/
 {% endraw %}
 
 ### 相关话题
-  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
-  [[滑动窗口](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
+  [[哈希表](https://github.com/awesee/leetcode/tree/main/tag/hash-table/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/main/tag/string/README.md)]
+  [[滑动窗口](https://github.com/awesee/leetcode/tree/main/tag/sliding-window/README.md)]
 
 ### 相似题目
   1. [串联所有单词的子串](/problems/substring-with-concatenation-of-all-words) (Hard)
@@ -74,4 +74,4 @@ permalink:  /problems/minimum-window-substring/
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/minimum-window-substring)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/minimum-window-substring)

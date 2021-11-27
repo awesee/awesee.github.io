@@ -52,7 +52,7 @@ permalink:  /problems/kth-smallest-number-in-multiplication-table/
 {% endraw %}
 
 ### 相关话题
-  [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[二分查找](https://github.com/awesee/leetcode/tree/main/tag/binary-search/README.md)]
 
 ### 相似题目
   1. [有序矩阵中第 K 小的元素](/problems/kth-smallest-element-in-a-sorted-matrix) (Medium)
@@ -61,4 +61,4 @@ permalink:  /problems/kth-smallest-number-in-multiplication-table/
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/kth-smallest-number-in-multiplication-table)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/kth-smallest-number-in-multiplication-table)

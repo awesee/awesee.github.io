@@ -49,11 +49,11 @@ permalink:  /problems/subtree-of-another-tree/
 {% endraw %}
 
 ### 相关话题
-  [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
-  [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[二叉树](https://github.com/openset/leetcode/tree/master/tag/binary-tree/README.md)]
-  [[字符串匹配](https://github.com/openset/leetcode/tree/master/tag/string-matching/README.md)]
-  [[哈希函数](https://github.com/openset/leetcode/tree/master/tag/hash-function/README.md)]
+  [[树](https://github.com/awesee/leetcode/tree/main/tag/tree/README.md)]
+  [[深度优先搜索](https://github.com/awesee/leetcode/tree/main/tag/depth-first-search/README.md)]
+  [[二叉树](https://github.com/awesee/leetcode/tree/main/tag/binary-tree/README.md)]
+  [[字符串匹配](https://github.com/awesee/leetcode/tree/main/tag/string-matching/README.md)]
+  [[哈希函数](https://github.com/awesee/leetcode/tree/main/tag/hash-function/README.md)]
 
 ### 相似题目
   1. [统计同值子树](/problems/count-univalue-subtrees) (Medium)
@@ -61,4 +61,4 @@ permalink:  /problems/subtree-of-another-tree/
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/subtree-of-another-tree)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/subtree-of-another-tree)

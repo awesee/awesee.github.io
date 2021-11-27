@@ -43,9 +43,9 @@ MyCalendar.book(20, 30); // returns true
 {% endraw %}
 
 ### 相关话题
-  [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
-  [[线段树](https://github.com/openset/leetcode/tree/master/tag/segment-tree/README.md)]
-  [[有序集合](https://github.com/openset/leetcode/tree/master/tag/ordered-set/README.md)]
+  [[设计](https://github.com/awesee/leetcode/tree/main/tag/design/README.md)]
+  [[线段树](https://github.com/awesee/leetcode/tree/main/tag/segment-tree/README.md)]
+  [[有序集合](https://github.com/awesee/leetcode/tree/main/tag/ordered-set/README.md)]
 
 ### 相似题目
   1. [我的日程安排表 II](/problems/my-calendar-ii) (Medium)
@@ -53,4 +53,4 @@ MyCalendar.book(20, 30); // returns true
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/my-calendar-i)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/my-calendar-i)

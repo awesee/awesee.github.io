@@ -38,9 +38,9 @@ permalink:  /problems/climbing-stairs/
 {% endraw %}
 
 ### 相关话题
-  [[记忆化搜索](https://github.com/openset/leetcode/tree/master/tag/memoization/README.md)]
-  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[记忆化搜索](https://github.com/awesee/leetcode/tree/main/tag/memoization/README.md)]
+  [[数学](https://github.com/awesee/leetcode/tree/main/tag/math/README.md)]
+  [[动态规划](https://github.com/awesee/leetcode/tree/main/tag/dynamic-programming/README.md)]
 
 ### 相似题目
   1. [使用最小花费爬楼梯](/problems/min-cost-climbing-stairs) (Easy)
@@ -49,4 +49,4 @@ permalink:  /problems/climbing-stairs/
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/climbing-stairs)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/climbing-stairs)

@@ -39,10 +39,10 @@ k = 1
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
-  [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
-  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[双指针](https://github.com/awesee/leetcode/tree/main/tag/two-pointers/README.md)]
+  [[二分查找](https://github.com/awesee/leetcode/tree/main/tag/binary-search/README.md)]
+  [[排序](https://github.com/awesee/leetcode/tree/main/tag/sorting/README.md)]
 
 ### 相似题目
   1. [查找和最小的K对数字](/problems/find-k-pairs-with-smallest-sums) (Medium)
@@ -53,4 +53,4 @@ k = 1
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/find-k-th-smallest-pair-distance)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/find-k-th-smallest-pair-distance)

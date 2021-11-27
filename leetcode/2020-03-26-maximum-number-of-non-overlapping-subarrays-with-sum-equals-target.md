@@ -56,11 +56,11 @@ permalink:  /problems/maximum-number-of-non-overlapping-subarrays-with-sum-equal
 {% endraw %}
 
 ### 相关话题
-  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[前缀和](https://github.com/openset/leetcode/tree/master/tag/prefix-sum/README.md)]
+  [[贪心](https://github.com/awesee/leetcode/tree/main/tag/greedy/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[哈希表](https://github.com/awesee/leetcode/tree/main/tag/hash-table/README.md)]
+  [[前缀和](https://github.com/awesee/leetcode/tree/main/tag/prefix-sum/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target)

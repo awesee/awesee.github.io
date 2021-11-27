@@ -35,7 +35,7 @@ permalink:  /problems/max-consecutive-ones/
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
 
 ### 相似题目
   1. [最大连续1的个数 II](/problems/max-consecutive-ones-ii) (Medium)
@@ -43,4 +43,4 @@ permalink:  /problems/max-consecutive-ones/
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/max-consecutive-ones)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/max-consecutive-ones)

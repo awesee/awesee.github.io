@@ -41,13 +41,13 @@ permalink:  /problems/longest-duplicate-substring/
 {% endraw %}
 
 ### 相关话题
-  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
-  [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
-  [[后缀数组](https://github.com/openset/leetcode/tree/master/tag/suffix-array/README.md)]
-  [[滑动窗口](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
-  [[哈希函数](https://github.com/openset/leetcode/tree/master/tag/hash-function/README.md)]
-  [[滚动哈希](https://github.com/openset/leetcode/tree/master/tag/rolling-hash/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/main/tag/string/README.md)]
+  [[二分查找](https://github.com/awesee/leetcode/tree/main/tag/binary-search/README.md)]
+  [[后缀数组](https://github.com/awesee/leetcode/tree/main/tag/suffix-array/README.md)]
+  [[滑动窗口](https://github.com/awesee/leetcode/tree/main/tag/sliding-window/README.md)]
+  [[哈希函数](https://github.com/awesee/leetcode/tree/main/tag/hash-function/README.md)]
+  [[滚动哈希](https://github.com/awesee/leetcode/tree/main/tag/rolling-hash/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/longest-duplicate-substring)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/longest-duplicate-substring)

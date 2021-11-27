@@ -57,7 +57,7 @@ permalink:  /problems/reverse-integer/
 {% endraw %}
 
 ### 相关话题
-  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[数学](https://github.com/awesee/leetcode/tree/main/tag/math/README.md)]
 
 ### 相似题目
   1. [字符串转换整数 (atoi)](/problems/string-to-integer-atoi) (Medium)
@@ -65,4 +65,4 @@ permalink:  /problems/reverse-integer/
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/reverse-integer)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/reverse-integer)

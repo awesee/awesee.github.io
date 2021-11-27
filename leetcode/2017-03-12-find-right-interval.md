@@ -59,13 +59,13 @@ permalink:  /problems/find-right-interval/
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
-  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[二分查找](https://github.com/awesee/leetcode/tree/main/tag/binary-search/README.md)]
+  [[排序](https://github.com/awesee/leetcode/tree/main/tag/sorting/README.md)]
 
 ### 相似题目
   1. [将数据流变为多个不相交区间](/problems/data-stream-as-disjoint-intervals) (Hard)
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/find-right-interval)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/find-right-interval)

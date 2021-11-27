@@ -68,10 +68,10 @@ permalink:  /problems/minimum-number-of-operations-to-make-string-sorted/
 {% endraw %}
 
 ### 相关话题
-  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
-  [[组合数学](https://github.com/openset/leetcode/tree/master/tag/combinatorics/README.md)]
+  [[数学](https://github.com/awesee/leetcode/tree/main/tag/math/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/main/tag/string/README.md)]
+  [[组合数学](https://github.com/awesee/leetcode/tree/main/tag/combinatorics/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/minimum-number-of-operations-to-make-string-sorted)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/minimum-number-of-operations-to-make-string-sorted)

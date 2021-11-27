@@ -38,12 +38,12 @@ permalink:  /problems/monotone-increasing-digits/
 {% endraw %}
 
 ### 相关话题
-  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
-  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[贪心](https://github.com/awesee/leetcode/tree/main/tag/greedy/README.md)]
+  [[数学](https://github.com/awesee/leetcode/tree/main/tag/math/README.md)]
 
 ### 相似题目
   1. [移掉 K 位数字](/problems/remove-k-digits) (Medium)
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/monotone-increasing-digits)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/monotone-increasing-digits)

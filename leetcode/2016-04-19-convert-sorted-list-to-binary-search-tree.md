@@ -31,15 +31,15 @@ permalink:  /problems/convert-sorted-list-to-binary-search-tree/
 {% endraw %}
 
 ### 相关话题
-  [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
-  [[二叉搜索树](https://github.com/openset/leetcode/tree/master/tag/binary-search-tree/README.md)]
-  [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
-  [[分治](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]
-  [[二叉树](https://github.com/openset/leetcode/tree/master/tag/binary-tree/README.md)]
+  [[树](https://github.com/awesee/leetcode/tree/main/tag/tree/README.md)]
+  [[二叉搜索树](https://github.com/awesee/leetcode/tree/main/tag/binary-search-tree/README.md)]
+  [[链表](https://github.com/awesee/leetcode/tree/main/tag/linked-list/README.md)]
+  [[分治](https://github.com/awesee/leetcode/tree/main/tag/divide-and-conquer/README.md)]
+  [[二叉树](https://github.com/awesee/leetcode/tree/main/tag/binary-tree/README.md)]
 
 ### 相似题目
   1. [将有序数组转换为二叉搜索树](/problems/convert-sorted-array-to-binary-search-tree) (Easy)
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/convert-sorted-list-to-binary-search-tree)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/convert-sorted-list-to-binary-search-tree)

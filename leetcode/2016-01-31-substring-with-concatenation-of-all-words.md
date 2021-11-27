@@ -56,13 +56,13 @@ permalink:  /problems/substring-with-concatenation-of-all-words/
 {% endraw %}
 
 ### 相关话题
-  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
-  [[滑动窗口](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
+  [[哈希表](https://github.com/awesee/leetcode/tree/main/tag/hash-table/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/main/tag/string/README.md)]
+  [[滑动窗口](https://github.com/awesee/leetcode/tree/main/tag/sliding-window/README.md)]
 
 ### 相似题目
   1. [最小覆盖子串](/problems/minimum-window-substring) (Hard)
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/substring-with-concatenation-of-all-words)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/substring-with-concatenation-of-all-words)

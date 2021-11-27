@@ -44,8 +44,8 @@ permalink:  /problems/insertion-sort-list/
 {% endraw %}
 
 ### 相关话题
-  [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
-  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
+  [[链表](https://github.com/awesee/leetcode/tree/main/tag/linked-list/README.md)]
+  [[排序](https://github.com/awesee/leetcode/tree/main/tag/sorting/README.md)]
 
 ### 相似题目
   1. [排序链表](/problems/sort-list) (Medium)
@@ -53,4 +53,4 @@ permalink:  /problems/insertion-sort-list/
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/insertion-sort-list)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/insertion-sort-list)

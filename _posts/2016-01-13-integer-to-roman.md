@@ -81,9 +81,9 @@ M             1000</pre>
 {% endraw %}
 
 ### 相关话题
-  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[哈希表](https://github.com/awesee/leetcode/tree/main/tag/hash-table/README.md)]
+  [[数学](https://github.com/awesee/leetcode/tree/main/tag/math/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/main/tag/string/README.md)]
 
 ### 相似题目
   1. [罗马数字转整数](/problems/roman-to-integer) (Easy)
@@ -91,4 +91,4 @@ M             1000</pre>
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/integer-to-roman)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/integer-to-roman)

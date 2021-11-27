@@ -69,13 +69,13 @@ permalink:  /problems/longest-chunked-palindrome-decomposition/
 {% endraw %}
 
 ### 相关话题
-  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
-  [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
-  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
-  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
-  [[哈希函数](https://github.com/openset/leetcode/tree/master/tag/hash-function/README.md)]
-  [[滚动哈希](https://github.com/openset/leetcode/tree/master/tag/rolling-hash/README.md)]
+  [[贪心](https://github.com/awesee/leetcode/tree/main/tag/greedy/README.md)]
+  [[双指针](https://github.com/awesee/leetcode/tree/main/tag/two-pointers/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/main/tag/string/README.md)]
+  [[动态规划](https://github.com/awesee/leetcode/tree/main/tag/dynamic-programming/README.md)]
+  [[哈希函数](https://github.com/awesee/leetcode/tree/main/tag/hash-function/README.md)]
+  [[滚动哈希](https://github.com/awesee/leetcode/tree/main/tag/rolling-hash/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/longest-chunked-palindrome-decomposition)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/longest-chunked-palindrome-decomposition)

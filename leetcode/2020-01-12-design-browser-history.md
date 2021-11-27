@@ -61,13 +61,13 @@ browserHistory.back(7);                   // 你原本在浏览 &quot;google.com
 {% endraw %}
 
 ### 相关话题
-  [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
-  [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
-  [[数据流](https://github.com/openset/leetcode/tree/master/tag/data-stream/README.md)]
-  [[双向链表](https://github.com/openset/leetcode/tree/master/tag/doubly-linked-list/README.md)]
+  [[栈](https://github.com/awesee/leetcode/tree/main/tag/stack/README.md)]
+  [[设计](https://github.com/awesee/leetcode/tree/main/tag/design/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[链表](https://github.com/awesee/leetcode/tree/main/tag/linked-list/README.md)]
+  [[数据流](https://github.com/awesee/leetcode/tree/main/tag/data-stream/README.md)]
+  [[双向链表](https://github.com/awesee/leetcode/tree/main/tag/doubly-linked-list/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/design-browser-history)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/design-browser-history)

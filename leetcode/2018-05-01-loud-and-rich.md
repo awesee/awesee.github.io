@@ -53,11 +53,11 @@ answer[7] = 7，
 {% endraw %}
 
 ### 相关话题
-  [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
-  [[拓扑排序](https://github.com/openset/leetcode/tree/master/tag/topological-sort/README.md)]
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[深度优先搜索](https://github.com/awesee/leetcode/tree/main/tag/depth-first-search/README.md)]
+  [[图](https://github.com/awesee/leetcode/tree/main/tag/graph/README.md)]
+  [[拓扑排序](https://github.com/awesee/leetcode/tree/main/tag/topological-sort/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/loud-and-rich)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/loud-and-rich)

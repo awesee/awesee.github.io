@@ -55,12 +55,12 @@ permalink:  /problems/rectangle-overlap/
 {% endraw %}
 
 ### 相关话题
-  [[几何](https://github.com/openset/leetcode/tree/master/tag/geometry/README.md)]
-  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[几何](https://github.com/awesee/leetcode/tree/main/tag/geometry/README.md)]
+  [[数学](https://github.com/awesee/leetcode/tree/main/tag/math/README.md)]
 
 ### 相似题目
   1. [矩形面积](/problems/rectangle-area) (Medium)
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/rectangle-overlap)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/rectangle-overlap)

@@ -29,11 +29,11 @@ permalink:  /problems/all-oone-data-structure/
 {% endraw %}
 
 ### 相关话题
-  [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
-  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
-  [[双向链表](https://github.com/openset/leetcode/tree/master/tag/doubly-linked-list/README.md)]
+  [[设计](https://github.com/awesee/leetcode/tree/main/tag/design/README.md)]
+  [[哈希表](https://github.com/awesee/leetcode/tree/main/tag/hash-table/README.md)]
+  [[链表](https://github.com/awesee/leetcode/tree/main/tag/linked-list/README.md)]
+  [[双向链表](https://github.com/awesee/leetcode/tree/main/tag/doubly-linked-list/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/all-oone-data-structure)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/all-oone-data-structure)

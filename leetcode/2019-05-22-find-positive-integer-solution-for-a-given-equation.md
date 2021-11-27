@@ -77,11 +77,11 @@ x=5, y=1 -> f(5, 1) = 5 * 1 = 5</pre>
 {% endraw %}
 
 ### 相关话题
-  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
-  [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
-  [[交互](https://github.com/openset/leetcode/tree/master/tag/interactive/README.md)]
+  [[数学](https://github.com/awesee/leetcode/tree/main/tag/math/README.md)]
+  [[双指针](https://github.com/awesee/leetcode/tree/main/tag/two-pointers/README.md)]
+  [[二分查找](https://github.com/awesee/leetcode/tree/main/tag/binary-search/README.md)]
+  [[交互](https://github.com/awesee/leetcode/tree/main/tag/interactive/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/find-positive-integer-solution-for-a-given-equation)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/find-positive-integer-solution-for-a-given-equation)

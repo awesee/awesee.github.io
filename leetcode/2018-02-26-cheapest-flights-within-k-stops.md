@@ -59,16 +59,16 @@ src = 0, dst = 2, k = 0
 {% endraw %}
 
 ### 相关话题
-  [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
-  [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
-  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
-  [[最短路](https://github.com/openset/leetcode/tree/master/tag/shortest-path/README.md)]
-  [[堆（优先队列）](https://github.com/openset/leetcode/tree/master/tag/heap-priority-queue/README.md)]
+  [[深度优先搜索](https://github.com/awesee/leetcode/tree/main/tag/depth-first-search/README.md)]
+  [[广度优先搜索](https://github.com/awesee/leetcode/tree/main/tag/breadth-first-search/README.md)]
+  [[图](https://github.com/awesee/leetcode/tree/main/tag/graph/README.md)]
+  [[动态规划](https://github.com/awesee/leetcode/tree/main/tag/dynamic-programming/README.md)]
+  [[最短路](https://github.com/awesee/leetcode/tree/main/tag/shortest-path/README.md)]
+  [[堆（优先队列）](https://github.com/awesee/leetcode/tree/main/tag/heap-priority-queue/README.md)]
 
 ### 相似题目
   1. [最大休假天数](/problems/maximum-vacation-days) (Hard)
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/cheapest-flights-within-k-stops)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/cheapest-flights-within-k-stops)

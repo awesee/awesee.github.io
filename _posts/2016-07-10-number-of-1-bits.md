@@ -69,7 +69,7 @@ permalink:  /problems/number-of-1-bits/
 {% endraw %}
 
 ### 相关话题
-  [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
+  [[位运算](https://github.com/awesee/leetcode/tree/main/tag/bit-manipulation/README.md)]
 
 ### 相似题目
   1. [颠倒二进制位](/problems/reverse-bits) (Easy)
@@ -82,4 +82,4 @@ permalink:  /problems/number-of-1-bits/
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/number-of-1-bits)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/number-of-1-bits)

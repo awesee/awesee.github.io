@@ -31,8 +31,8 @@ n: 13   k: 2
 {% endraw %}
 
 ### 相关话题
-  [[字典树](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)]
+  [[字典树](https://github.com/awesee/leetcode/tree/main/tag/trie/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/k-th-smallest-in-lexicographical-order)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/k-th-smallest-in-lexicographical-order)

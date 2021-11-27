@@ -50,13 +50,13 @@ wordFilter.f("a", "e"); // 返回 0 ，因为下标为 0 的单词的 prefix = "
 {% endraw %}
 
 ### 相关话题
-  [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
-  [[字典树](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)]
-  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[设计](https://github.com/awesee/leetcode/tree/main/tag/design/README.md)]
+  [[字典树](https://github.com/awesee/leetcode/tree/main/tag/trie/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/main/tag/string/README.md)]
 
 ### 相似题目
   1. [添加与搜索单词 - 数据结构设计](/problems/design-add-and-search-words-data-structure) (Medium)
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/prefix-and-suffix-search)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/prefix-and-suffix-search)

@@ -48,8 +48,8 @@ permalink:  /problems/remove-linked-list-elements/
 {% endraw %}
 
 ### 相关话题
-  [[递归](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]
-  [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
+  [[递归](https://github.com/awesee/leetcode/tree/main/tag/recursion/README.md)]
+  [[链表](https://github.com/awesee/leetcode/tree/main/tag/linked-list/README.md)]
 
 ### 相似题目
   1. [移除元素](/problems/remove-element) (Easy)
@@ -57,4 +57,4 @@ permalink:  /problems/remove-linked-list-elements/
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/remove-linked-list-elements)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/remove-linked-list-elements)

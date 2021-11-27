@@ -58,15 +58,15 @@ myHashSet.contains(2); // 返回 False ，（已移除）</pre>
 {% endraw %}
 
 ### 相关话题
-  [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
-  [[哈希函数](https://github.com/openset/leetcode/tree/master/tag/hash-function/README.md)]
+  [[设计](https://github.com/awesee/leetcode/tree/main/tag/design/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[哈希表](https://github.com/awesee/leetcode/tree/main/tag/hash-table/README.md)]
+  [[链表](https://github.com/awesee/leetcode/tree/main/tag/linked-list/README.md)]
+  [[哈希函数](https://github.com/awesee/leetcode/tree/main/tag/hash-function/README.md)]
 
 ### 相似题目
   1. [设计哈希映射](/problems/design-hashmap) (Easy)
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/design-hashset)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/design-hashset)

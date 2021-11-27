@@ -83,13 +83,13 @@ permalink:  /problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/
 {% endraw %}
 
 ### 相关话题
-  [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
-  [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[矩阵](https://github.com/openset/leetcode/tree/master/tag/matrix/README.md)]
-  [[最短路](https://github.com/openset/leetcode/tree/master/tag/shortest-path/README.md)]
-  [[堆（优先队列）](https://github.com/openset/leetcode/tree/master/tag/heap-priority-queue/README.md)]
+  [[广度优先搜索](https://github.com/awesee/leetcode/tree/main/tag/breadth-first-search/README.md)]
+  [[图](https://github.com/awesee/leetcode/tree/main/tag/graph/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[矩阵](https://github.com/awesee/leetcode/tree/main/tag/matrix/README.md)]
+  [[最短路](https://github.com/awesee/leetcode/tree/main/tag/shortest-path/README.md)]
+  [[堆（优先队列）](https://github.com/awesee/leetcode/tree/main/tag/heap-priority-queue/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid)

@@ -68,13 +68,13 @@ myStack.empty(); // 返回 False
 {% endraw %}
 
 ### 相关话题
-  [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
-  [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
-  [[队列](https://github.com/openset/leetcode/tree/master/tag/queue/README.md)]
+  [[栈](https://github.com/awesee/leetcode/tree/main/tag/stack/README.md)]
+  [[设计](https://github.com/awesee/leetcode/tree/main/tag/design/README.md)]
+  [[队列](https://github.com/awesee/leetcode/tree/main/tag/queue/README.md)]
 
 ### 相似题目
   1. [用栈实现队列](/problems/implement-queue-using-stacks) (Easy)
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/implement-stack-using-queues)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/implement-stack-using-queues)

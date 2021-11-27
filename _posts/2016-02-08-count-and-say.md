@@ -77,7 +77,7 @@ countAndSay(4) = 读 "21" = 一 个 2 + 一 个 1 = "12" + "11" = "1211"
 {% endraw %}
 
 ### 相关话题
-  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/main/tag/string/README.md)]
 
 ### 相似题目
   1. [字符串的编码与解码](/problems/encode-and-decode-strings) (Medium)
@@ -85,4 +85,4 @@ countAndSay(4) = 读 "21" = 一 个 2 + 一 个 1 = "12" + "11" = "1211"
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/count-and-say)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/count-and-say)

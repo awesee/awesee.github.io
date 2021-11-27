@@ -56,14 +56,14 @@ permalink:  /problems/minimum-number-of-k-consecutive-bit-flips/
 {% endraw %}
 
 ### 相关话题
-  [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[前缀和](https://github.com/openset/leetcode/tree/master/tag/prefix-sum/README.md)]
-  [[滑动窗口](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
+  [[位运算](https://github.com/awesee/leetcode/tree/main/tag/bit-manipulation/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[前缀和](https://github.com/awesee/leetcode/tree/main/tag/prefix-sum/README.md)]
+  [[滑动窗口](https://github.com/awesee/leetcode/tree/main/tag/sliding-window/README.md)]
 
 ### 相似题目
   1. [灯泡开关](/problems/bulb-switcher) (Medium)
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/minimum-number-of-k-consecutive-bit-flips)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/minimum-number-of-k-consecutive-bit-flips)

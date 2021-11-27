@@ -57,9 +57,9 @@ permalink:  /problems/basic-calculator-ii/
 {% endraw %}
 
 ### 相关话题
-  [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
-  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[栈](https://github.com/awesee/leetcode/tree/main/tag/stack/README.md)]
+  [[数学](https://github.com/awesee/leetcode/tree/main/tag/math/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/main/tag/string/README.md)]
 
 ### 相似题目
   1. [基本计算器](/problems/basic-calculator) (Hard)
@@ -68,4 +68,4 @@ permalink:  /problems/basic-calculator-ii/
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/basic-calculator-ii)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/basic-calculator-ii)

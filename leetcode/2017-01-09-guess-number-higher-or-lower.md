@@ -70,8 +70,8 @@ permalink:  /problems/guess-number-higher-or-lower/
 {% endraw %}
 
 ### 相关话题
-  [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
-  [[交互](https://github.com/openset/leetcode/tree/master/tag/interactive/README.md)]
+  [[二分查找](https://github.com/awesee/leetcode/tree/main/tag/binary-search/README.md)]
+  [[交互](https://github.com/awesee/leetcode/tree/main/tag/interactive/README.md)]
 
 ### 相似题目
   1. [第一个错误的版本](/problems/first-bad-version) (Easy)
@@ -80,4 +80,4 @@ permalink:  /problems/guess-number-higher-or-lower/
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/guess-number-higher-or-lower)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/guess-number-higher-or-lower)

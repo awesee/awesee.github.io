@@ -43,11 +43,11 @@ permalink:  /problems/sum-of-digits-in-the-minimum-number/
 </ol>
 
 ### 相关话题
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
 
 ### 相似题目
   1. [各位相加](/add-digits) (Easy)
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/sum-of-digits-in-the-minimum-number)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/sum-of-digits-in-the-minimum-number)

@@ -82,7 +82,7 @@ permalink:  /problems/summary-ranges/
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
 
 ### 相似题目
   1. [缺失的区间](/problems/missing-ranges) (Easy)
@@ -90,4 +90,4 @@ permalink:  /problems/summary-ranges/
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/summary-ranges)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/summary-ranges)

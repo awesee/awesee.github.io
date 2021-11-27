@@ -65,11 +65,11 @@ pop() -&gt; 返回 4 。
 {% endraw %}
 
 ### 相关话题
-  [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
-  [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
-  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[有序集合](https://github.com/openset/leetcode/tree/master/tag/ordered-set/README.md)]
+  [[栈](https://github.com/awesee/leetcode/tree/main/tag/stack/README.md)]
+  [[设计](https://github.com/awesee/leetcode/tree/main/tag/design/README.md)]
+  [[哈希表](https://github.com/awesee/leetcode/tree/main/tag/hash-table/README.md)]
+  [[有序集合](https://github.com/awesee/leetcode/tree/main/tag/ordered-set/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/maximum-frequency-stack)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/maximum-frequency-stack)
