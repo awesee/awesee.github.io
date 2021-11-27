@@ -39,8 +39,8 @@ permalink:  /problems/valid-phone-numbers/
 {% endraw %}
 
 ### 相关话题
-  [[Shell](https://github.com/openset/leetcode/tree/master/tag/shell/README.md)]
+  [[Shell](https://github.com/awesee/leetcode/tree/main/tag/shell/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/valid-phone-numbers)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/valid-phone-numbers)

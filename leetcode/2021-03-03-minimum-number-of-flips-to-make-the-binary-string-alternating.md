@@ -62,9 +62,9 @@ permalink:  /problems/minimum-number-of-flips-to-make-the-binary-string-alternat
 {% endraw %}
 
 ### 相关话题
-  [[贪心](https://github.com/awesee/leetcode/tree/master/tag/greedy/README.md)]
-  [[字符串](https://github.com/awesee/leetcode/tree/master/tag/string/README.md)]
+  [[贪心](https://github.com/awesee/leetcode/tree/main/tag/greedy/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/main/tag/string/README.md)]
 
 ---
 
-## [解法](https://github.com/awesee/leetcode/tree/master/problems/minimum-number-of-flips-to-make-the-binary-string-alternating)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/minimum-number-of-flips-to-make-the-binary-string-alternating)

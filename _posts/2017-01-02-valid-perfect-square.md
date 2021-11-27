@@ -42,13 +42,13 @@ permalink:  /problems/valid-perfect-square/
 {% endraw %}
 
 ### 相关话题
-  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[数学](https://github.com/awesee/leetcode/tree/main/tag/math/README.md)]
+  [[二分查找](https://github.com/awesee/leetcode/tree/main/tag/binary-search/README.md)]
 
 ### 相似题目
-  1. [x 的平方根](/problems/sqrtx) (Easy)
+  1. [Sqrt(x)](/problems/sqrtx) (Easy)
   1. [平方数之和](/problems/sum-of-square-numbers) (Medium)
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/valid-perfect-square)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/valid-perfect-square)

@@ -32,7 +32,7 @@ permalink:  /problems/non-negative-integers-without-consecutive-ones/
 {% endraw %}
 
 ### 相关话题
-  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[动态规划](https://github.com/awesee/leetcode/tree/main/tag/dynamic-programming/README.md)]
 
 ### 相似题目
   1. [打家劫舍](/problems/house-robber) (Medium)
@@ -41,4 +41,4 @@ permalink:  /problems/non-negative-integers-without-consecutive-ones/
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/non-negative-integers-without-consecutive-ones)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/non-negative-integers-without-consecutive-ones)

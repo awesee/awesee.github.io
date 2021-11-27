@@ -49,8 +49,8 @@ permalink:  /problems/merge-two-sorted-lists/
 {% endraw %}
 
 ### 相关话题
-  [[递归](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]
-  [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
+  [[递归](https://github.com/awesee/leetcode/tree/main/tag/recursion/README.md)]
+  [[链表](https://github.com/awesee/leetcode/tree/main/tag/linked-list/README.md)]
 
 ### 相似题目
   1. [合并K个升序链表](/problems/merge-k-sorted-lists) (Hard)
@@ -60,4 +60,4 @@ permalink:  /problems/merge-two-sorted-lists/
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/merge-two-sorted-lists)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/merge-two-sorted-lists)

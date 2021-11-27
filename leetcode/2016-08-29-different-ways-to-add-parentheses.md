@@ -35,11 +35,11 @@ permalink:  /problems/different-ways-to-add-parentheses/
 {% endraw %}
 
 ### 相关话题
-  [[递归](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]
-  [[记忆化搜索](https://github.com/openset/leetcode/tree/master/tag/memoization/README.md)]
-  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
-  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[递归](https://github.com/awesee/leetcode/tree/main/tag/recursion/README.md)]
+  [[记忆化搜索](https://github.com/awesee/leetcode/tree/main/tag/memoization/README.md)]
+  [[数学](https://github.com/awesee/leetcode/tree/main/tag/math/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/main/tag/string/README.md)]
+  [[动态规划](https://github.com/awesee/leetcode/tree/main/tag/dynamic-programming/README.md)]
 
 ### 相似题目
   1. [不同的二叉搜索树 II](/problems/unique-binary-search-trees-ii) (Medium)
@@ -48,4 +48,4 @@ permalink:  /problems/different-ways-to-add-parentheses/
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/different-ways-to-add-parentheses)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/different-ways-to-add-parentheses)

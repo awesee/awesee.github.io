@@ -57,11 +57,11 @@ permalink:  /problems/escape-a-large-maze/
 {% endraw %}
 
 ### 相关话题
-  [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[深度优先搜索](https://github.com/awesee/leetcode/tree/main/tag/depth-first-search/README.md)]
+  [[广度优先搜索](https://github.com/awesee/leetcode/tree/main/tag/breadth-first-search/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[哈希表](https://github.com/awesee/leetcode/tree/main/tag/hash-table/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/escape-a-large-maze)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/escape-a-large-maze)

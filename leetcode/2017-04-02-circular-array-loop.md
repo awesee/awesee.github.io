@@ -73,10 +73,10 @@ permalink:  /problems/circular-array-loop/
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[哈希表](https://github.com/awesee/leetcode/tree/main/tag/hash-table/README.md)]
+  [[双指针](https://github.com/awesee/leetcode/tree/main/tag/two-pointers/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/circular-array-loop)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/circular-array-loop)

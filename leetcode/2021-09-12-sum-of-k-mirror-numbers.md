@@ -74,9 +74,9 @@ permalink:  /problems/sum-of-k-mirror-numbers/
 {% endraw %}
 
 ### 相关话题
-  [[数学](https://github.com/awesee/leetcode/tree/master/tag/math/README.md)]
-  [[枚举](https://github.com/awesee/leetcode/tree/master/tag/enumeration/README.md)]
+  [[数学](https://github.com/awesee/leetcode/tree/main/tag/math/README.md)]
+  [[枚举](https://github.com/awesee/leetcode/tree/main/tag/enumeration/README.md)]
 
 ---
 
-## [解法](https://github.com/awesee/leetcode/tree/master/problems/sum-of-k-mirror-numbers)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/sum-of-k-mirror-numbers)

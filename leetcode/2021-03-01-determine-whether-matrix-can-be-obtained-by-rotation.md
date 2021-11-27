@@ -53,9 +53,9 @@ permalink:  /problems/determine-whether-matrix-can-be-obtained-by-rotation/
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/awesee/leetcode/tree/master/tag/array/README.md)]
-  [[矩阵](https://github.com/awesee/leetcode/tree/master/tag/matrix/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[矩阵](https://github.com/awesee/leetcode/tree/main/tag/matrix/README.md)]
 
 ---
 
-## [解法](https://github.com/awesee/leetcode/tree/master/problems/determine-whether-matrix-can-be-obtained-by-rotation)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/determine-whether-matrix-can-be-obtained-by-rotation)

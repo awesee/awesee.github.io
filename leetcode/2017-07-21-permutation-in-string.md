@@ -11,7 +11,7 @@ permalink:  /problems/permutation-in-string/
 
 {% raw %}
 
-<p>给你两个字符串&nbsp;<code>s1</code>&nbsp;和&nbsp;<code>s2</code> ，写一个函数来判断 <code>s2</code> 是否包含 <code>s1</code><strong>&nbsp;</strong>的排列。</p>
+<p>给你两个字符串&nbsp;<code>s1</code>&nbsp;和&nbsp;<code>s2</code> ，写一个函数来判断 <code>s2</code> 是否包含 <code>s1</code><strong>&nbsp;</strong>的排列。如果是，返回 <code>true</code> ；否则，返回 <code>false</code> 。</p>
 
 <p>换句话说，<code>s1</code> 的排列之一是 <code>s2</code> 的 <strong>子串</strong> 。</p>
 
@@ -44,10 +44,10 @@ permalink:  /problems/permutation-in-string/
 {% endraw %}
 
 ### 相关话题
-  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
-  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
-  [[滑动窗口](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
+  [[哈希表](https://github.com/awesee/leetcode/tree/main/tag/hash-table/README.md)]
+  [[双指针](https://github.com/awesee/leetcode/tree/main/tag/two-pointers/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/main/tag/string/README.md)]
+  [[滑动窗口](https://github.com/awesee/leetcode/tree/main/tag/sliding-window/README.md)]
 
 ### 相似题目
   1. [最小覆盖子串](/problems/minimum-window-substring) (Hard)
@@ -55,4 +55,4 @@ permalink:  /problems/permutation-in-string/
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/permutation-in-string)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/permutation-in-string)

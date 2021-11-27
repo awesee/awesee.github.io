@@ -66,9 +66,9 @@ permalink:  /problems/reduction-operations-to-make-the-array-elements-equal/
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/awesee/leetcode/tree/master/tag/array/README.md)]
-  [[排序](https://github.com/awesee/leetcode/tree/master/tag/sorting/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[排序](https://github.com/awesee/leetcode/tree/main/tag/sorting/README.md)]
 
 ---
 
-## [解法](https://github.com/awesee/leetcode/tree/master/problems/reduction-operations-to-make-the-array-elements-equal)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/reduction-operations-to-make-the-array-elements-equal)

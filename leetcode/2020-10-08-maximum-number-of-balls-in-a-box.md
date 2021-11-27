@@ -62,10 +62,10 @@ permalink:  /problems/maximum-number-of-balls-in-a-box/
 {% endraw %}
 
 ### 相关话题
-  [[哈希表](https://github.com/awesee/leetcode/tree/master/tag/hash-table/README.md)]
-  [[数学](https://github.com/awesee/leetcode/tree/master/tag/math/README.md)]
-  [[计数](https://github.com/awesee/leetcode/tree/master/tag/counting/README.md)]
+  [[哈希表](https://github.com/awesee/leetcode/tree/main/tag/hash-table/README.md)]
+  [[数学](https://github.com/awesee/leetcode/tree/main/tag/math/README.md)]
+  [[计数](https://github.com/awesee/leetcode/tree/main/tag/counting/README.md)]
 
 ---
 
-## [解法](https://github.com/awesee/leetcode/tree/master/problems/maximum-number-of-balls-in-a-box)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/maximum-number-of-balls-in-a-box)

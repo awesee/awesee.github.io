@@ -55,8 +55,8 @@ permalink:  /problems/maximum-difference-between-increasing-elements/
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/awesee/leetcode/tree/master/tag/array/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
 
 ---
 
-## [解法](https://github.com/awesee/leetcode/tree/master/problems/maximum-difference-between-increasing-elements)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/maximum-difference-between-increasing-elements)

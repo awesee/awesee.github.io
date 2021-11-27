@@ -79,11 +79,11 @@ ABBBB<strong><em>B</em></strong>BBAA -&gt; ABBBBBBAA
 {% endraw %}
 
 ### 相关话题
-  [[贪心](https://github.com/awesee/leetcode/tree/master/tag/greedy/README.md)]
-  [[数学](https://github.com/awesee/leetcode/tree/master/tag/math/README.md)]
-  [[字符串](https://github.com/awesee/leetcode/tree/master/tag/string/README.md)]
-  [[博弈](https://github.com/awesee/leetcode/tree/master/tag/game-theory/README.md)]
+  [[贪心](https://github.com/awesee/leetcode/tree/main/tag/greedy/README.md)]
+  [[数学](https://github.com/awesee/leetcode/tree/main/tag/math/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/main/tag/string/README.md)]
+  [[博弈](https://github.com/awesee/leetcode/tree/main/tag/game-theory/README.md)]
 
 ---
 
-## [解法](https://github.com/awesee/leetcode/tree/master/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color)

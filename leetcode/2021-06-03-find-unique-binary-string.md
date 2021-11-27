@@ -53,10 +53,10 @@ permalink:  /problems/find-unique-binary-string/
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/awesee/leetcode/tree/master/tag/array/README.md)]
-  [[字符串](https://github.com/awesee/leetcode/tree/master/tag/string/README.md)]
-  [[回溯](https://github.com/awesee/leetcode/tree/master/tag/backtracking/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/main/tag/string/README.md)]
+  [[回溯](https://github.com/awesee/leetcode/tree/main/tag/backtracking/README.md)]
 
 ---
 
-## [解法](https://github.com/awesee/leetcode/tree/master/problems/find-unique-binary-string)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/find-unique-binary-string)

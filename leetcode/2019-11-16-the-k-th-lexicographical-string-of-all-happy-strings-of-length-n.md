@@ -73,9 +73,9 @@ permalink:  /problems/the-k-th-lexicographical-string-of-all-happy-strings-of-le
 {% endraw %}
 
 ### 相关话题
-  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
-  [[回溯](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/main/tag/string/README.md)]
+  [[回溯](https://github.com/awesee/leetcode/tree/main/tag/backtracking/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n)

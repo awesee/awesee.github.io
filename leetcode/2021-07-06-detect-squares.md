@@ -66,11 +66,11 @@ detectSquares.count([11, 10]); // 返回 2 。你可以选择：
 {% endraw %}
 
 ### 相关话题
-  [[设计](https://github.com/awesee/leetcode/tree/master/tag/design/README.md)]
-  [[数组](https://github.com/awesee/leetcode/tree/master/tag/array/README.md)]
-  [[哈希表](https://github.com/awesee/leetcode/tree/master/tag/hash-table/README.md)]
-  [[计数](https://github.com/awesee/leetcode/tree/master/tag/counting/README.md)]
+  [[设计](https://github.com/awesee/leetcode/tree/main/tag/design/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[哈希表](https://github.com/awesee/leetcode/tree/main/tag/hash-table/README.md)]
+  [[计数](https://github.com/awesee/leetcode/tree/main/tag/counting/README.md)]
 
 ---
 
-## [解法](https://github.com/awesee/leetcode/tree/master/problems/detect-squares)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/detect-squares)

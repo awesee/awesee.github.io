@@ -81,17 +81,17 @@ permalink:  /problems/number-of-ways-to-reorder-array-to-get-same-bst/
 {% endraw %}
 
 ### 相关话题
-  [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
-  [[并查集](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)]
-  [[二叉搜索树](https://github.com/openset/leetcode/tree/master/tag/binary-search-tree/README.md)]
-  [[记忆化搜索](https://github.com/openset/leetcode/tree/master/tag/memoization/README.md)]
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[分治](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]
-  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
-  [[二叉树](https://github.com/openset/leetcode/tree/master/tag/binary-tree/README.md)]
-  [[组合数学](https://github.com/openset/leetcode/tree/master/tag/combinatorics/README.md)]
+  [[树](https://github.com/awesee/leetcode/tree/main/tag/tree/README.md)]
+  [[并查集](https://github.com/awesee/leetcode/tree/main/tag/union-find/README.md)]
+  [[二叉搜索树](https://github.com/awesee/leetcode/tree/main/tag/binary-search-tree/README.md)]
+  [[记忆化搜索](https://github.com/awesee/leetcode/tree/main/tag/memoization/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[数学](https://github.com/awesee/leetcode/tree/main/tag/math/README.md)]
+  [[分治](https://github.com/awesee/leetcode/tree/main/tag/divide-and-conquer/README.md)]
+  [[动态规划](https://github.com/awesee/leetcode/tree/main/tag/dynamic-programming/README.md)]
+  [[二叉树](https://github.com/awesee/leetcode/tree/main/tag/binary-tree/README.md)]
+  [[组合数学](https://github.com/awesee/leetcode/tree/main/tag/combinatorics/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/number-of-ways-to-reorder-array-to-get-same-bst)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/number-of-ways-to-reorder-array-to-get-same-bst)

@@ -66,11 +66,11 @@ permalink:  /problems/maximize-the-confusion-of-an-exam/
 {% endraw %}
 
 ### 相关话题
-  [[字符串](https://github.com/awesee/leetcode/tree/master/tag/string/README.md)]
-  [[二分查找](https://github.com/awesee/leetcode/tree/master/tag/binary-search/README.md)]
-  [[前缀和](https://github.com/awesee/leetcode/tree/master/tag/prefix-sum/README.md)]
-  [[滑动窗口](https://github.com/awesee/leetcode/tree/master/tag/sliding-window/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/main/tag/string/README.md)]
+  [[二分查找](https://github.com/awesee/leetcode/tree/main/tag/binary-search/README.md)]
+  [[前缀和](https://github.com/awesee/leetcode/tree/main/tag/prefix-sum/README.md)]
+  [[滑动窗口](https://github.com/awesee/leetcode/tree/main/tag/sliding-window/README.md)]
 
 ---
 
-## [解法](https://github.com/awesee/leetcode/tree/master/problems/maximize-the-confusion-of-an-exam)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/maximize-the-confusion-of-an-exam)

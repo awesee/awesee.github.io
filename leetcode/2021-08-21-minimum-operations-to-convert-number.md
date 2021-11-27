@@ -93,9 +93,9 @@ permalink:  /problems/minimum-operations-to-convert-number/
 {% endraw %}
 
 ### 相关话题
-  [[广度优先搜索](https://github.com/awesee/leetcode/tree/master/tag/breadth-first-search/README.md)]
-  [[数组](https://github.com/awesee/leetcode/tree/master/tag/array/README.md)]
+  [[广度优先搜索](https://github.com/awesee/leetcode/tree/main/tag/breadth-first-search/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
 
 ---
 
-## [解法](https://github.com/awesee/leetcode/tree/master/problems/minimum-operations-to-convert-number)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/minimum-operations-to-convert-number)

@@ -55,11 +55,11 @@ permalink:  /problems/change-minimum-characters-to-satisfy-one-of-three-conditio
 {% endraw %}
 
 ### 相关话题
-  [[哈希表](https://github.com/awesee/leetcode/tree/master/tag/hash-table/README.md)]
-  [[字符串](https://github.com/awesee/leetcode/tree/master/tag/string/README.md)]
-  [[计数](https://github.com/awesee/leetcode/tree/master/tag/counting/README.md)]
-  [[前缀和](https://github.com/awesee/leetcode/tree/master/tag/prefix-sum/README.md)]
+  [[哈希表](https://github.com/awesee/leetcode/tree/main/tag/hash-table/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/main/tag/string/README.md)]
+  [[计数](https://github.com/awesee/leetcode/tree/main/tag/counting/README.md)]
+  [[前缀和](https://github.com/awesee/leetcode/tree/main/tag/prefix-sum/README.md)]
 
 ---
 
-## [解法](https://github.com/awesee/leetcode/tree/master/problems/change-minimum-characters-to-satisfy-one-of-three-conditions)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/change-minimum-characters-to-satisfy-one-of-three-conditions)

@@ -53,13 +53,13 @@ permalink:  /problems/longest-increasing-path-in-a-matrix/
 {% endraw %}
 
 ### 相关话题
-  [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
-  [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
-  [[拓扑排序](https://github.com/openset/leetcode/tree/master/tag/topological-sort/README.md)]
-  [[记忆化搜索](https://github.com/openset/leetcode/tree/master/tag/memoization/README.md)]
-  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[深度优先搜索](https://github.com/awesee/leetcode/tree/main/tag/depth-first-search/README.md)]
+  [[广度优先搜索](https://github.com/awesee/leetcode/tree/main/tag/breadth-first-search/README.md)]
+  [[图](https://github.com/awesee/leetcode/tree/main/tag/graph/README.md)]
+  [[拓扑排序](https://github.com/awesee/leetcode/tree/main/tag/topological-sort/README.md)]
+  [[记忆化搜索](https://github.com/awesee/leetcode/tree/main/tag/memoization/README.md)]
+  [[动态规划](https://github.com/awesee/leetcode/tree/main/tag/dynamic-programming/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/longest-increasing-path-in-a-matrix)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/longest-increasing-path-in-a-matrix)

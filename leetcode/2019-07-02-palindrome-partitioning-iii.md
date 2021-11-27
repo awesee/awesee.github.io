@@ -55,9 +55,9 @@ permalink:  /problems/palindrome-partitioning-iii/
 {% endraw %}
 
 ### 相关话题
-  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
-  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/main/tag/string/README.md)]
+  [[动态规划](https://github.com/awesee/leetcode/tree/main/tag/dynamic-programming/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/palindrome-partitioning-iii)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/palindrome-partitioning-iii)

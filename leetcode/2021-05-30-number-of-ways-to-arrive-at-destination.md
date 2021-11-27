@@ -56,11 +56,11 @@ permalink:  /problems/number-of-ways-to-arrive-at-destination/
 {% endraw %}
 
 ### 相关话题
-  [[图](https://github.com/awesee/leetcode/tree/master/tag/graph/README.md)]
-  [[拓扑排序](https://github.com/awesee/leetcode/tree/master/tag/topological-sort/README.md)]
-  [[动态规划](https://github.com/awesee/leetcode/tree/master/tag/dynamic-programming/README.md)]
-  [[最短路](https://github.com/awesee/leetcode/tree/master/tag/shortest-path/README.md)]
+  [[图](https://github.com/awesee/leetcode/tree/main/tag/graph/README.md)]
+  [[拓扑排序](https://github.com/awesee/leetcode/tree/main/tag/topological-sort/README.md)]
+  [[动态规划](https://github.com/awesee/leetcode/tree/main/tag/dynamic-programming/README.md)]
+  [[最短路](https://github.com/awesee/leetcode/tree/main/tag/shortest-path/README.md)]
 
 ---
 
-## [解法](https://github.com/awesee/leetcode/tree/master/problems/number-of-ways-to-arrive-at-destination)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/number-of-ways-to-arrive-at-destination)

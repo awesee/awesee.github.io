@@ -59,11 +59,11 @@ permalink:  /problems/get-equal-substrings-within-budget/
 {% endraw %}
 
 ### 相关话题
-  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
-  [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
-  [[前缀和](https://github.com/openset/leetcode/tree/master/tag/prefix-sum/README.md)]
-  [[滑动窗口](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/main/tag/string/README.md)]
+  [[二分查找](https://github.com/awesee/leetcode/tree/main/tag/binary-search/README.md)]
+  [[前缀和](https://github.com/awesee/leetcode/tree/main/tag/prefix-sum/README.md)]
+  [[滑动窗口](https://github.com/awesee/leetcode/tree/main/tag/sliding-window/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/get-equal-substrings-within-budget)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/get-equal-substrings-within-budget)

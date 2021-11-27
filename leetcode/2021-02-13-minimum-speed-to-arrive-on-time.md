@@ -70,9 +70,9 @@ permalink:  /problems/minimum-speed-to-arrive-on-time/
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/awesee/leetcode/tree/master/tag/array/README.md)]
-  [[二分查找](https://github.com/awesee/leetcode/tree/master/tag/binary-search/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[二分查找](https://github.com/awesee/leetcode/tree/main/tag/binary-search/README.md)]
 
 ---
 
-## [解法](https://github.com/awesee/leetcode/tree/master/problems/minimum-speed-to-arrive-on-time)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/minimum-speed-to-arrive-on-time)

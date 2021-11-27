@@ -74,12 +74,12 @@ permalink:  /problems/longest-subsequence-repeated-k-times/
 {% endraw %}
 
 ### 相关话题
-  [[贪心](https://github.com/awesee/leetcode/tree/master/tag/greedy/README.md)]
-  [[字符串](https://github.com/awesee/leetcode/tree/master/tag/string/README.md)]
-  [[回溯](https://github.com/awesee/leetcode/tree/master/tag/backtracking/README.md)]
-  [[计数](https://github.com/awesee/leetcode/tree/master/tag/counting/README.md)]
-  [[枚举](https://github.com/awesee/leetcode/tree/master/tag/enumeration/README.md)]
+  [[贪心](https://github.com/awesee/leetcode/tree/main/tag/greedy/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/main/tag/string/README.md)]
+  [[回溯](https://github.com/awesee/leetcode/tree/main/tag/backtracking/README.md)]
+  [[计数](https://github.com/awesee/leetcode/tree/main/tag/counting/README.md)]
+  [[枚举](https://github.com/awesee/leetcode/tree/main/tag/enumeration/README.md)]
 
 ---
 
-## [解法](https://github.com/awesee/leetcode/tree/master/problems/longest-subsequence-repeated-k-times)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/longest-subsequence-repeated-k-times)

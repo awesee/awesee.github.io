@@ -62,12 +62,12 @@ tweetCounts.getTweetCountsPerFrequency(&quot;hour&quot;, &quot;tweet3&quot;, 0, 
 {% endraw %}
 
 ### 相关话题
-  [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
-  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
-  [[有序集合](https://github.com/openset/leetcode/tree/master/tag/ordered-set/README.md)]
-  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
+  [[设计](https://github.com/awesee/leetcode/tree/main/tag/design/README.md)]
+  [[哈希表](https://github.com/awesee/leetcode/tree/main/tag/hash-table/README.md)]
+  [[二分查找](https://github.com/awesee/leetcode/tree/main/tag/binary-search/README.md)]
+  [[有序集合](https://github.com/awesee/leetcode/tree/main/tag/ordered-set/README.md)]
+  [[排序](https://github.com/awesee/leetcode/tree/main/tag/sorting/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/tweet-counts-per-frequency)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/tweet-counts-per-frequency)

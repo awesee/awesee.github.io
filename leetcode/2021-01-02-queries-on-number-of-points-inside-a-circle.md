@@ -55,10 +55,10 @@ queries[0] 是绿色的圆，queries[1] 是红色的圆，queries[2] 是蓝色�
 {% endraw %}
 
 ### 相关话题
-  [[几何](https://github.com/openset/leetcode/tree/master/tag/geometry/README.md)]
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[几何](https://github.com/awesee/leetcode/tree/main/tag/geometry/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[数学](https://github.com/awesee/leetcode/tree/main/tag/math/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/queries-on-number-of-points-inside-a-circle)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/queries-on-number-of-points-inside-a-circle)

@@ -52,8 +52,8 @@ permalink:  /problems/merge-in-between-linked-lists/
 {% endraw %}
 
 ### 相关话题
-  [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
+  [[链表](https://github.com/awesee/leetcode/tree/main/tag/linked-list/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/merge-in-between-linked-lists)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/merge-in-between-linked-lists)

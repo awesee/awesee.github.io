@@ -77,13 +77,13 @@ permalink:  /problems/find-the-town-judge/
 {% endraw %}
 
 ### 相关话题
-  [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[图](https://github.com/awesee/leetcode/tree/main/tag/graph/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[哈希表](https://github.com/awesee/leetcode/tree/main/tag/hash-table/README.md)]
 
 ### 相似题目
   1. [搜寻名人](/problems/find-the-celebrity) (Medium)
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/find-the-town-judge)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/find-the-town-judge)

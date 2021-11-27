@@ -38,9 +38,9 @@ permalink:  /problems/letter-case-permutation/
 {% endraw %}
 
 ### 相关话题
-  [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
-  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
-  [[回溯](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[位运算](https://github.com/awesee/leetcode/tree/main/tag/bit-manipulation/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/main/tag/string/README.md)]
+  [[回溯](https://github.com/awesee/leetcode/tree/main/tag/backtracking/README.md)]
 
 ### 相似题目
   1. [子集](/problems/subsets) (Medium)
@@ -48,4 +48,4 @@ permalink:  /problems/letter-case-permutation/
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/letter-case-permutation)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/letter-case-permutation)

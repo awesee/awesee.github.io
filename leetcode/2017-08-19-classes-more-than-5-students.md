@@ -52,8 +52,8 @@ permalink:  /problems/classes-more-than-5-students/
 {% endraw %}
 
 ### 相关话题
-  [[数据库](https://github.com/awesee/leetcode/tree/master/tag/database/README.md)]
+  [[数据库](https://github.com/awesee/leetcode/tree/main/tag/database/README.md)]
 
 ---
 
-## [解法](https://github.com/awesee/leetcode/tree/master/problems/classes-more-than-5-students)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/classes-more-than-5-students)

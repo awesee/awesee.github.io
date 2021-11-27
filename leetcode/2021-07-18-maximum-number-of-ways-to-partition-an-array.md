@@ -64,12 +64,12 @@ permalink:  /problems/maximum-number-of-ways-to-partition-an-array/
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/awesee/leetcode/tree/master/tag/array/README.md)]
-  [[哈希表](https://github.com/awesee/leetcode/tree/master/tag/hash-table/README.md)]
-  [[计数](https://github.com/awesee/leetcode/tree/master/tag/counting/README.md)]
-  [[枚举](https://github.com/awesee/leetcode/tree/master/tag/enumeration/README.md)]
-  [[前缀和](https://github.com/awesee/leetcode/tree/master/tag/prefix-sum/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[哈希表](https://github.com/awesee/leetcode/tree/main/tag/hash-table/README.md)]
+  [[计数](https://github.com/awesee/leetcode/tree/main/tag/counting/README.md)]
+  [[枚举](https://github.com/awesee/leetcode/tree/main/tag/enumeration/README.md)]
+  [[前缀和](https://github.com/awesee/leetcode/tree/main/tag/prefix-sum/README.md)]
 
 ---
 
-## [解法](https://github.com/awesee/leetcode/tree/master/problems/maximum-number-of-ways-to-partition-an-array)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/maximum-number-of-ways-to-partition-an-array)

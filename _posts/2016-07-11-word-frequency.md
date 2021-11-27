@@ -47,11 +47,11 @@ day 1
 {% endraw %}
 
 ### 相关话题
-  [[Shell](https://github.com/openset/leetcode/tree/master/tag/shell/README.md)]
+  [[Shell](https://github.com/awesee/leetcode/tree/main/tag/shell/README.md)]
 
 ### 相似题目
   1. [前 K 个高频元素](/problems/top-k-frequent-elements) (Medium)
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/word-frequency)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/word-frequency)

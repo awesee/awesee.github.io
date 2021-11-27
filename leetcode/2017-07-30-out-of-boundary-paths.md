@@ -45,11 +45,11 @@ permalink:  /problems/out-of-boundary-paths/
 {% endraw %}
 
 ### 相关话题
-  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[动态规划](https://github.com/awesee/leetcode/tree/main/tag/dynamic-programming/README.md)]
 
 ### 相似题目
   1. [“马”在棋盘上的概率](/problems/knight-probability-in-chessboard) (Medium)
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/out-of-boundary-paths)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/out-of-boundary-paths)

@@ -92,9 +92,9 @@ permalink:  /problems/exclusive-time-of-functions/
 {% endraw %}
 
 ### 相关话题
-  [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[栈](https://github.com/awesee/leetcode/tree/main/tag/stack/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/exclusive-time-of-functions)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/exclusive-time-of-functions)

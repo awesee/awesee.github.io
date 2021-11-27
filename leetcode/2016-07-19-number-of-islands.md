@@ -57,11 +57,11 @@ permalink:  /problems/number-of-islands/
 {% endraw %}
 
 ### 相关话题
-  [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
-  [[并查集](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)]
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[矩阵](https://github.com/openset/leetcode/tree/master/tag/matrix/README.md)]
+  [[深度优先搜索](https://github.com/awesee/leetcode/tree/main/tag/depth-first-search/README.md)]
+  [[广度优先搜索](https://github.com/awesee/leetcode/tree/main/tag/breadth-first-search/README.md)]
+  [[并查集](https://github.com/awesee/leetcode/tree/main/tag/union-find/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[矩阵](https://github.com/awesee/leetcode/tree/main/tag/matrix/README.md)]
 
 ### 相似题目
   1. [被围绕的区域](/problems/surrounded-regions) (Medium)
@@ -73,4 +73,4 @@ permalink:  /problems/number-of-islands/
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/number-of-islands)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/number-of-islands)

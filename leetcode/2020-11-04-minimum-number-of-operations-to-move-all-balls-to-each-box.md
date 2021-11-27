@@ -49,9 +49,9 @@ permalink:  /problems/minimum-number-of-operations-to-move-all-balls-to-each-box
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/awesee/leetcode/tree/master/tag/array/README.md)]
-  [[字符串](https://github.com/awesee/leetcode/tree/master/tag/string/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/main/tag/string/README.md)]
 
 ---
 
-## [解法](https://github.com/awesee/leetcode/tree/master/problems/minimum-number-of-operations-to-move-all-balls-to-each-box)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/minimum-number-of-operations-to-move-all-balls-to-each-box)

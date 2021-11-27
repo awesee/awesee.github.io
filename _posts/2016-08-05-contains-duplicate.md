@@ -38,9 +38,9 @@ permalink:  /problems/contains-duplicate/
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[哈希表](https://github.com/awesee/leetcode/tree/main/tag/hash-table/README.md)]
+  [[排序](https://github.com/awesee/leetcode/tree/main/tag/sorting/README.md)]
 
 ### 相似题目
   1. [存在重复元素 II](/problems/contains-duplicate-ii) (Easy)
@@ -48,4 +48,4 @@ permalink:  /problems/contains-duplicate/
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/contains-duplicate)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/contains-duplicate)

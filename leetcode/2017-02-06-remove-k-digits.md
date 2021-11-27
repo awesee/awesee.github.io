@@ -51,10 +51,10 @@ permalink:  /problems/remove-k-digits/
 {% endraw %}
 
 ### 相关话题
-  [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
-  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
-  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
-  [[单调栈](https://github.com/openset/leetcode/tree/master/tag/monotonic-stack/README.md)]
+  [[栈](https://github.com/awesee/leetcode/tree/main/tag/stack/README.md)]
+  [[贪心](https://github.com/awesee/leetcode/tree/main/tag/greedy/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/main/tag/string/README.md)]
+  [[单调栈](https://github.com/awesee/leetcode/tree/main/tag/monotonic-stack/README.md)]
 
 ### 相似题目
   1. [拼接最大数](/problems/create-maximum-number) (Hard)
@@ -62,4 +62,4 @@ permalink:  /problems/remove-k-digits/
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/remove-k-digits)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/remove-k-digits)

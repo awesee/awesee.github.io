@@ -80,10 +80,10 @@ permalink:  /problems/number-of-nodes-in-the-sub-tree-with-the-same-label/
 {% endraw %}
 
 ### 相关话题
-  [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
-  [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
+  [[树](https://github.com/awesee/leetcode/tree/main/tag/tree/README.md)]
+  [[深度优先搜索](https://github.com/awesee/leetcode/tree/main/tag/depth-first-search/README.md)]
+  [[广度优先搜索](https://github.com/awesee/leetcode/tree/main/tag/breadth-first-search/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/number-of-nodes-in-the-sub-tree-with-the-same-label)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/number-of-nodes-in-the-sub-tree-with-the-same-label)

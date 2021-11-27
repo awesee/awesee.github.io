@@ -50,12 +50,12 @@ majorityChecker.query(2,3,2); // 返回 2
 {% endraw %}
 
 ### 相关话题
-  [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
-  [[树状数组](https://github.com/openset/leetcode/tree/master/tag/binary-indexed-tree/README.md)]
-  [[线段树](https://github.com/openset/leetcode/tree/master/tag/segment-tree/README.md)]
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[设计](https://github.com/awesee/leetcode/tree/main/tag/design/README.md)]
+  [[树状数组](https://github.com/awesee/leetcode/tree/main/tag/binary-indexed-tree/README.md)]
+  [[线段树](https://github.com/awesee/leetcode/tree/main/tag/segment-tree/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[二分查找](https://github.com/awesee/leetcode/tree/main/tag/binary-search/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/online-majority-element-in-subarray)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/online-majority-element-in-subarray)

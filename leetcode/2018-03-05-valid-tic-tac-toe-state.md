@@ -56,12 +56,12 @@ permalink:  /problems/valid-tic-tac-toe-state/
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/main/tag/string/README.md)]
 
 ### 相似题目
   1. [设计井字棋](/problems/design-tic-tac-toe) (Medium)
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/valid-tic-tac-toe-state)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/valid-tic-tac-toe-state)

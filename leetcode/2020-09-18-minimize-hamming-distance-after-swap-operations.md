@@ -59,10 +59,10 @@ source 和 target 间的汉明距离是 2 ，二者有 2 处元素不同，在�
 {% endraw %}
 
 ### 相关话题
-  [[深度优先搜索](https://github.com/awesee/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[并查集](https://github.com/awesee/leetcode/tree/master/tag/union-find/README.md)]
-  [[数组](https://github.com/awesee/leetcode/tree/master/tag/array/README.md)]
+  [[深度优先搜索](https://github.com/awesee/leetcode/tree/main/tag/depth-first-search/README.md)]
+  [[并查集](https://github.com/awesee/leetcode/tree/main/tag/union-find/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
 
 ---
 
-## [解法](https://github.com/awesee/leetcode/tree/master/problems/minimize-hamming-distance-after-swap-operations)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/minimize-hamming-distance-after-swap-operations)

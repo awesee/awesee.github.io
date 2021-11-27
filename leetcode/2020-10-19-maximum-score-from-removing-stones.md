@@ -69,10 +69,10 @@ permalink:  /problems/maximum-score-from-removing-stones/
 {% endraw %}
 
 ### 相关话题
-  [[贪心](https://github.com/awesee/leetcode/tree/master/tag/greedy/README.md)]
-  [[数学](https://github.com/awesee/leetcode/tree/master/tag/math/README.md)]
-  [[堆（优先队列）](https://github.com/awesee/leetcode/tree/master/tag/heap-priority-queue/README.md)]
+  [[贪心](https://github.com/awesee/leetcode/tree/main/tag/greedy/README.md)]
+  [[数学](https://github.com/awesee/leetcode/tree/main/tag/math/README.md)]
+  [[堆（优先队列）](https://github.com/awesee/leetcode/tree/main/tag/heap-priority-queue/README.md)]
 
 ---
 
-## [解法](https://github.com/awesee/leetcode/tree/master/problems/maximum-score-from-removing-stones)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/maximum-score-from-removing-stones)

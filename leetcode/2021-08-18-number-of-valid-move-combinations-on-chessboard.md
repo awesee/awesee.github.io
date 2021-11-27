@@ -113,11 +113,11 @@ permalink:  /problems/number-of-valid-move-combinations-on-chessboard/
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/awesee/leetcode/tree/master/tag/array/README.md)]
-  [[字符串](https://github.com/awesee/leetcode/tree/master/tag/string/README.md)]
-  [[回溯](https://github.com/awesee/leetcode/tree/master/tag/backtracking/README.md)]
-  [[模拟](https://github.com/awesee/leetcode/tree/master/tag/simulation/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/main/tag/string/README.md)]
+  [[回溯](https://github.com/awesee/leetcode/tree/main/tag/backtracking/README.md)]
+  [[模拟](https://github.com/awesee/leetcode/tree/main/tag/simulation/README.md)]
 
 ---
 
-## [解法](https://github.com/awesee/leetcode/tree/master/problems/number-of-valid-move-combinations-on-chessboard)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/number-of-valid-move-combinations-on-chessboard)

@@ -63,10 +63,10 @@ permalink:  /problems/next-greater-numerically-balanced-number/
 {% endraw %}
 
 ### 相关话题
-  [[数学](https://github.com/awesee/leetcode/tree/master/tag/math/README.md)]
-  [[回溯](https://github.com/awesee/leetcode/tree/master/tag/backtracking/README.md)]
-  [[枚举](https://github.com/awesee/leetcode/tree/master/tag/enumeration/README.md)]
+  [[数学](https://github.com/awesee/leetcode/tree/main/tag/math/README.md)]
+  [[回溯](https://github.com/awesee/leetcode/tree/main/tag/backtracking/README.md)]
+  [[枚举](https://github.com/awesee/leetcode/tree/main/tag/enumeration/README.md)]
 
 ---
 
-## [解法](https://github.com/awesee/leetcode/tree/master/problems/next-greater-numerically-balanced-number)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/next-greater-numerically-balanced-number)

@@ -55,13 +55,13 @@ permalink:  /problems/largest-color-value-in-a-directed-graph/
 {% endraw %}
 
 ### 相关话题
-  [[图](https://github.com/awesee/leetcode/tree/master/tag/graph/README.md)]
-  [[拓扑排序](https://github.com/awesee/leetcode/tree/master/tag/topological-sort/README.md)]
-  [[记忆化搜索](https://github.com/awesee/leetcode/tree/master/tag/memoization/README.md)]
-  [[哈希表](https://github.com/awesee/leetcode/tree/master/tag/hash-table/README.md)]
-  [[动态规划](https://github.com/awesee/leetcode/tree/master/tag/dynamic-programming/README.md)]
-  [[计数](https://github.com/awesee/leetcode/tree/master/tag/counting/README.md)]
+  [[图](https://github.com/awesee/leetcode/tree/main/tag/graph/README.md)]
+  [[拓扑排序](https://github.com/awesee/leetcode/tree/main/tag/topological-sort/README.md)]
+  [[记忆化搜索](https://github.com/awesee/leetcode/tree/main/tag/memoization/README.md)]
+  [[哈希表](https://github.com/awesee/leetcode/tree/main/tag/hash-table/README.md)]
+  [[动态规划](https://github.com/awesee/leetcode/tree/main/tag/dynamic-programming/README.md)]
+  [[计数](https://github.com/awesee/leetcode/tree/main/tag/counting/README.md)]
 
 ---
 
-## [解法](https://github.com/awesee/leetcode/tree/master/problems/largest-color-value-in-a-directed-graph)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/largest-color-value-in-a-directed-graph)

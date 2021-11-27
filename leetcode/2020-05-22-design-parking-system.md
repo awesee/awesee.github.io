@@ -52,10 +52,10 @@ parkingSystem.addCar(1); // 返回 false ，因为没有空的大车位，唯一
 {% endraw %}
 
 ### 相关话题
-  [[设计](https://github.com/awesee/leetcode/tree/master/tag/design/README.md)]
-  [[计数](https://github.com/awesee/leetcode/tree/master/tag/counting/README.md)]
-  [[模拟](https://github.com/awesee/leetcode/tree/master/tag/simulation/README.md)]
+  [[设计](https://github.com/awesee/leetcode/tree/main/tag/design/README.md)]
+  [[计数](https://github.com/awesee/leetcode/tree/main/tag/counting/README.md)]
+  [[模拟](https://github.com/awesee/leetcode/tree/main/tag/simulation/README.md)]
 
 ---
 
-## [解法](https://github.com/awesee/leetcode/tree/master/problems/design-parking-system)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/design-parking-system)

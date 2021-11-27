@@ -49,9 +49,9 @@ permalink:  /problems/decrease-elements-to-make-array-zigzag/
 {% endraw %}
 
 ### 相关话题
-  [[贪心](https://github.com/awesee/leetcode/tree/master/tag/greedy/README.md)]
-  [[数组](https://github.com/awesee/leetcode/tree/master/tag/array/README.md)]
+  [[贪心](https://github.com/awesee/leetcode/tree/main/tag/greedy/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
 
 ---
 
-## [解法](https://github.com/awesee/leetcode/tree/master/problems/decrease-elements-to-make-array-zigzag)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/decrease-elements-to-make-array-zigzag)

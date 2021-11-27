@@ -56,9 +56,9 @@ permalink:  /problems/number-of-steps-to-reduce-a-number-to-zero/
 {% endraw %}
 
 ### 相关话题
-  [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
-  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[位运算](https://github.com/awesee/leetcode/tree/main/tag/bit-manipulation/README.md)]
+  [[数学](https://github.com/awesee/leetcode/tree/main/tag/math/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/number-of-steps-to-reduce-a-number-to-zero)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/number-of-steps-to-reduce-a-number-to-zero)

@@ -85,8 +85,8 @@ permalink:  /problems/find-the-minimum-and-maximum-number-of-nodes-between-criti
 {% endraw %}
 
 ### 相关话题
-  [[链表](https://github.com/awesee/leetcode/tree/master/tag/linked-list/README.md)]
+  [[链表](https://github.com/awesee/leetcode/tree/main/tag/linked-list/README.md)]
 
 ---
 
-## [解法](https://github.com/awesee/leetcode/tree/master/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points)

@@ -62,8 +62,8 @@ permalink:  /problems/binary-watch/
 {% endraw %}
 
 ### 相关话题
-  [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
-  [[回溯](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[位运算](https://github.com/awesee/leetcode/tree/main/tag/bit-manipulation/README.md)]
+  [[回溯](https://github.com/awesee/leetcode/tree/main/tag/backtracking/README.md)]
 
 ### 相似题目
   1. [电话号码的字母组合](/problems/letter-combinations-of-a-phone-number) (Medium)
@@ -71,4 +71,4 @@ permalink:  /problems/binary-watch/
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/binary-watch)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/binary-watch)

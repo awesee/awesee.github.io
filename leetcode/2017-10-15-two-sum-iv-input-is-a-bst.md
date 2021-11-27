@@ -64,13 +64,13 @@ permalink:  /problems/two-sum-iv-input-is-a-bst/
 {% endraw %}
 
 ### 相关话题
-  [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
-  [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
-  [[二叉搜索树](https://github.com/openset/leetcode/tree/master/tag/binary-search-tree/README.md)]
-  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
-  [[二叉树](https://github.com/openset/leetcode/tree/master/tag/binary-tree/README.md)]
+  [[树](https://github.com/awesee/leetcode/tree/main/tag/tree/README.md)]
+  [[深度优先搜索](https://github.com/awesee/leetcode/tree/main/tag/depth-first-search/README.md)]
+  [[广度优先搜索](https://github.com/awesee/leetcode/tree/main/tag/breadth-first-search/README.md)]
+  [[二叉搜索树](https://github.com/awesee/leetcode/tree/main/tag/binary-search-tree/README.md)]
+  [[哈希表](https://github.com/awesee/leetcode/tree/main/tag/hash-table/README.md)]
+  [[双指针](https://github.com/awesee/leetcode/tree/main/tag/two-pointers/README.md)]
+  [[二叉树](https://github.com/awesee/leetcode/tree/main/tag/binary-tree/README.md)]
 
 ### 相似题目
   1. [两数之和](/problems/two-sum) (Easy)
@@ -80,4 +80,4 @@ permalink:  /problems/two-sum-iv-input-is-a-bst/
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/two-sum-iv-input-is-a-bst)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/two-sum-iv-input-is-a-bst)

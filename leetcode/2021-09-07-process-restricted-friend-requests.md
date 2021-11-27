@@ -76,9 +76,9 @@ permalink:  /problems/process-restricted-friend-requests/
 {% endraw %}
 
 ### 相关话题
-  [[并查集](https://github.com/awesee/leetcode/tree/master/tag/union-find/README.md)]
-  [[图](https://github.com/awesee/leetcode/tree/master/tag/graph/README.md)]
+  [[并查集](https://github.com/awesee/leetcode/tree/main/tag/union-find/README.md)]
+  [[图](https://github.com/awesee/leetcode/tree/main/tag/graph/README.md)]
 
 ---
 
-## [解法](https://github.com/awesee/leetcode/tree/master/problems/process-restricted-friend-requests)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/process-restricted-friend-requests)

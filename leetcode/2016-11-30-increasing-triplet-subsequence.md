@@ -56,12 +56,12 @@ permalink:  /problems/increasing-triplet-subsequence/
 {% endraw %}
 
 ### 相关话题
-  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[贪心](https://github.com/awesee/leetcode/tree/main/tag/greedy/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
 
 ### 相似题目
   1. [最长递增子序列](/problems/longest-increasing-subsequence) (Medium)
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/increasing-triplet-subsequence)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/increasing-triplet-subsequence)

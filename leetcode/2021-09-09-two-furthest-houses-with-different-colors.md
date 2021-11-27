@@ -67,9 +67,9 @@ permalink:  /problems/two-furthest-houses-with-different-colors/
 {% endraw %}
 
 ### 相关话题
-  [[贪心](https://github.com/awesee/leetcode/tree/master/tag/greedy/README.md)]
-  [[数组](https://github.com/awesee/leetcode/tree/master/tag/array/README.md)]
+  [[贪心](https://github.com/awesee/leetcode/tree/main/tag/greedy/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
 
 ---
 
-## [解法](https://github.com/awesee/leetcode/tree/master/problems/two-furthest-houses-with-different-colors)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/two-furthest-houses-with-different-colors)

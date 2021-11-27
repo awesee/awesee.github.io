@@ -99,12 +99,12 @@ cdata <strong>不</strong>是 <strong>&quot;&lt;![CDATA[&lt;div&gt;]&gt;]]&gt;]]
 {% endraw %}
 
 ### 相关话题
-  [[栈](https://github.com/awesee/leetcode/tree/master/tag/stack/README.md)]
-  [[字符串](https://github.com/awesee/leetcode/tree/master/tag/string/README.md)]
+  [[栈](https://github.com/awesee/leetcode/tree/main/tag/stack/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/main/tag/string/README.md)]
 
 ### 相似题目
   1. [给字符串添加加粗标签](/problems/add-bold-tag-in-string) (Medium)
 
 ---
 
-## [解法](https://github.com/awesee/leetcode/tree/master/problems/tag-validator)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/tag-validator)

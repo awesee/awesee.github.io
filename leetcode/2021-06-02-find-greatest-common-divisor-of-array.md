@@ -59,9 +59,9 @@ nums 中最大的数是 3
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/awesee/leetcode/tree/master/tag/array/README.md)]
-  [[数学](https://github.com/awesee/leetcode/tree/master/tag/math/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[数学](https://github.com/awesee/leetcode/tree/main/tag/math/README.md)]
 
 ---
 
-## [解法](https://github.com/awesee/leetcode/tree/master/problems/find-greatest-common-divisor-of-array)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/find-greatest-common-divisor-of-array)

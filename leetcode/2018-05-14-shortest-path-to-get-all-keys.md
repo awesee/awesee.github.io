@@ -47,9 +47,9 @@ permalink:  /problems/shortest-path-to-get-all-keys/
 {% endraw %}
 
 ### 相关话题
-  [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
-  [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
+  [[位运算](https://github.com/awesee/leetcode/tree/main/tag/bit-manipulation/README.md)]
+  [[广度优先搜索](https://github.com/awesee/leetcode/tree/main/tag/breadth-first-search/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/shortest-path-to-get-all-keys)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/shortest-path-to-get-all-keys)

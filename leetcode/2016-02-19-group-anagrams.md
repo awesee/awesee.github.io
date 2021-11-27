@@ -11,11 +11,11 @@ permalink:  /problems/group-anagrams/
 
 {% raw %}
 
-<p>给定一个字符串数组，将字母异位词组合在一起。可以按任意顺序返回结果列表。</p>
+<p>给你一个字符串数组，请你将 <strong>字母异位词</strong> 组合在一起。可以按任意顺序返回结果列表。</p>
 
-<p>字母异位词指字母相同，但排列不同的字符串。</p>
+<p><strong>字母异位词</strong> 是由重新排列源单词的字母得到的一个新单词，所有源单词中的字母都恰好只用一次。</p>
 
-<p> </p>
+<p>&nbsp;</p>
 
 <p><strong>示例 1:</strong></p>
 
@@ -36,22 +36,22 @@ permalink:  /problems/group-anagrams/
 <strong>输入:</strong> strs = <code>["a"]</code>
 <strong>输出: </strong>[["a"]]</pre>
 
-<p> </p>
+<p>&nbsp;</p>
 
 <p><strong>提示：</strong></p>
 
 <ul>
-	<li><code>1 <= strs.length <= 10<sup>4</sup></code></li>
-	<li><code>0 <= strs[i].length <= 100</code></li>
-	<li><code>strs[i]</code> 仅包含小写字母</li>
+	<li><code>1 &lt;= strs.length &lt;= 10<sup>4</sup></code></li>
+	<li><code>0 &lt;= strs[i].length &lt;= 100</code></li>
+	<li><code>strs[i]</code>&nbsp;仅包含小写字母</li>
 </ul>
 
 {% endraw %}
 
 ### 相关话题
-  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
-  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
+  [[哈希表](https://github.com/awesee/leetcode/tree/main/tag/hash-table/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/main/tag/string/README.md)]
+  [[排序](https://github.com/awesee/leetcode/tree/main/tag/sorting/README.md)]
 
 ### 相似题目
   1. [有效的字母异位词](/problems/valid-anagram) (Easy)
@@ -59,4 +59,4 @@ permalink:  /problems/group-anagrams/
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/group-anagrams)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/group-anagrams)

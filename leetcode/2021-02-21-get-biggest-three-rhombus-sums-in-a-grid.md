@@ -67,13 +67,13 @@ permalink:  /problems/get-biggest-three-rhombus-sums-in-a-grid/
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/awesee/leetcode/tree/master/tag/array/README.md)]
-  [[数学](https://github.com/awesee/leetcode/tree/master/tag/math/README.md)]
-  [[矩阵](https://github.com/awesee/leetcode/tree/master/tag/matrix/README.md)]
-  [[前缀和](https://github.com/awesee/leetcode/tree/master/tag/prefix-sum/README.md)]
-  [[排序](https://github.com/awesee/leetcode/tree/master/tag/sorting/README.md)]
-  [[堆（优先队列）](https://github.com/awesee/leetcode/tree/master/tag/heap-priority-queue/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[数学](https://github.com/awesee/leetcode/tree/main/tag/math/README.md)]
+  [[矩阵](https://github.com/awesee/leetcode/tree/main/tag/matrix/README.md)]
+  [[前缀和](https://github.com/awesee/leetcode/tree/main/tag/prefix-sum/README.md)]
+  [[排序](https://github.com/awesee/leetcode/tree/main/tag/sorting/README.md)]
+  [[堆（优先队列）](https://github.com/awesee/leetcode/tree/main/tag/heap-priority-queue/README.md)]
 
 ---
 
-## [解法](https://github.com/awesee/leetcode/tree/master/problems/get-biggest-three-rhombus-sums-in-a-grid)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/get-biggest-three-rhombus-sums-in-a-grid)

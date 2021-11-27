@@ -59,8 +59,8 @@ permalink:  /problems/building-h2o/
 {% endraw %}
 
 ### 相关话题
-  [[多线程](https://github.com/openset/leetcode/tree/master/tag/concurrency/README.md)]
+  [[多线程](https://github.com/awesee/leetcode/tree/main/tag/concurrency/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/building-h2o)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/building-h2o)

@@ -53,10 +53,10 @@ permalink:  /problems/jump-game-vii/
 {% endraw %}
 
 ### 相关话题
-  [[双指针](https://github.com/awesee/leetcode/tree/master/tag/two-pointers/README.md)]
-  [[字符串](https://github.com/awesee/leetcode/tree/master/tag/string/README.md)]
-  [[前缀和](https://github.com/awesee/leetcode/tree/master/tag/prefix-sum/README.md)]
+  [[双指针](https://github.com/awesee/leetcode/tree/main/tag/two-pointers/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/main/tag/string/README.md)]
+  [[前缀和](https://github.com/awesee/leetcode/tree/main/tag/prefix-sum/README.md)]
 
 ---
 
-## [解法](https://github.com/awesee/leetcode/tree/master/problems/jump-game-vii)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/jump-game-vii)

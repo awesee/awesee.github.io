@@ -45,13 +45,13 @@ permalink:  /problems/minimum-index-sum-of-two-lists/
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[哈希表](https://github.com/awesee/leetcode/tree/main/tag/hash-table/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/main/tag/string/README.md)]
 
 ### 相似题目
   1. [相交链表](/problems/intersection-of-two-linked-lists) (Easy)
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/minimum-index-sum-of-two-lists)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/minimum-index-sum-of-two-lists)

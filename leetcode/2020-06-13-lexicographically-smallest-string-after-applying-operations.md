@@ -87,9 +87,9 @@ permalink:  /problems/lexicographically-smallest-string-after-applying-operation
 {% endraw %}
 
 ### 相关话题
-  [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
-  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[广度优先搜索](https://github.com/awesee/leetcode/tree/main/tag/breadth-first-search/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/main/tag/string/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/lexicographically-smallest-string-after-applying-operations)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/lexicographically-smallest-string-after-applying-operations)

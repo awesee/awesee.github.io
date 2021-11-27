@@ -72,12 +72,12 @@ permalink:  /problems/sum-of-all-subset-xor-totals/
 {% endraw %}
 
 ### 相关话题
-  [[位运算](https://github.com/awesee/leetcode/tree/master/tag/bit-manipulation/README.md)]
-  [[数组](https://github.com/awesee/leetcode/tree/master/tag/array/README.md)]
-  [[数学](https://github.com/awesee/leetcode/tree/master/tag/math/README.md)]
-  [[回溯](https://github.com/awesee/leetcode/tree/master/tag/backtracking/README.md)]
-  [[组合数学](https://github.com/awesee/leetcode/tree/master/tag/combinatorics/README.md)]
+  [[位运算](https://github.com/awesee/leetcode/tree/main/tag/bit-manipulation/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[数学](https://github.com/awesee/leetcode/tree/main/tag/math/README.md)]
+  [[回溯](https://github.com/awesee/leetcode/tree/main/tag/backtracking/README.md)]
+  [[组合数学](https://github.com/awesee/leetcode/tree/main/tag/combinatorics/README.md)]
 
 ---
 
-## [解法](https://github.com/awesee/leetcode/tree/master/problems/sum-of-all-subset-xor-totals)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/sum-of-all-subset-xor-totals)

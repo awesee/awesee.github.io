@@ -67,10 +67,10 @@ permalink:  /problems/find-lucky-integer-in-an-array/
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[计数](https://github.com/openset/leetcode/tree/master/tag/counting/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[哈希表](https://github.com/awesee/leetcode/tree/main/tag/hash-table/README.md)]
+  [[计数](https://github.com/awesee/leetcode/tree/main/tag/counting/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/find-lucky-integer-in-an-array)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/find-lucky-integer-in-an-array)

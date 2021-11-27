@@ -68,10 +68,10 @@ permalink:  /problems/get-maximum-in-generated-array/
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
-  [[模拟](https://github.com/openset/leetcode/tree/master/tag/simulation/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[动态规划](https://github.com/awesee/leetcode/tree/main/tag/dynamic-programming/README.md)]
+  [[模拟](https://github.com/awesee/leetcode/tree/main/tag/simulation/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/get-maximum-in-generated-array)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/get-maximum-in-generated-array)

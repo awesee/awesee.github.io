@@ -68,7 +68,7 @@ permalink:  /problems/insert-interval/
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
 
 ### 相似题目
   1. [合并区间](/problems/merge-intervals) (Medium)
@@ -76,4 +76,4 @@ permalink:  /problems/insert-interval/
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/insert-interval)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/insert-interval)

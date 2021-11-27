@@ -57,12 +57,12 @@ permalink:  /problems/random-point-in-non-overlapping-rectangles/
 {% endraw %}
 
 ### 相关话题
-  [[水塘抽样](https://github.com/openset/leetcode/tree/master/tag/reservoir-sampling/README.md)]
-  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
-  [[有序集合](https://github.com/openset/leetcode/tree/master/tag/ordered-set/README.md)]
-  [[前缀和](https://github.com/openset/leetcode/tree/master/tag/prefix-sum/README.md)]
-  [[随机化](https://github.com/openset/leetcode/tree/master/tag/randomized/README.md)]
+  [[水塘抽样](https://github.com/awesee/leetcode/tree/main/tag/reservoir-sampling/README.md)]
+  [[数学](https://github.com/awesee/leetcode/tree/main/tag/math/README.md)]
+  [[二分查找](https://github.com/awesee/leetcode/tree/main/tag/binary-search/README.md)]
+  [[有序集合](https://github.com/awesee/leetcode/tree/main/tag/ordered-set/README.md)]
+  [[前缀和](https://github.com/awesee/leetcode/tree/main/tag/prefix-sum/README.md)]
+  [[随机化](https://github.com/awesee/leetcode/tree/main/tag/randomized/README.md)]
 
 ### 相似题目
   1. [按权重随机选择](/problems/random-pick-with-weight) (Medium)
@@ -70,4 +70,4 @@ permalink:  /problems/random-point-in-non-overlapping-rectangles/
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/random-point-in-non-overlapping-rectangles)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/random-point-in-non-overlapping-rectangles)

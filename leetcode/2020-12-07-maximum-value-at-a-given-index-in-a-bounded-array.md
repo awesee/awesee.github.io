@@ -52,9 +52,9 @@ permalink:  /problems/maximum-value-at-a-given-index-in-a-bounded-array/
 {% endraw %}
 
 ### 相关话题
-  [[贪心](https://github.com/awesee/leetcode/tree/master/tag/greedy/README.md)]
-  [[二分查找](https://github.com/awesee/leetcode/tree/master/tag/binary-search/README.md)]
+  [[贪心](https://github.com/awesee/leetcode/tree/main/tag/greedy/README.md)]
+  [[二分查找](https://github.com/awesee/leetcode/tree/main/tag/binary-search/README.md)]
 
 ---
 
-## [解法](https://github.com/awesee/leetcode/tree/master/problems/maximum-value-at-a-given-index-in-a-bounded-array)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/maximum-value-at-a-given-index-in-a-bounded-array)

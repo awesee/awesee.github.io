@@ -64,10 +64,10 @@ permalink:  /problems/unique-paths-iii/
 {% endraw %}
 
 ### 相关话题
-  [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[回溯](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
-  [[矩阵](https://github.com/openset/leetcode/tree/master/tag/matrix/README.md)]
+  [[位运算](https://github.com/awesee/leetcode/tree/main/tag/bit-manipulation/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[回溯](https://github.com/awesee/leetcode/tree/main/tag/backtracking/README.md)]
+  [[矩阵](https://github.com/awesee/leetcode/tree/main/tag/matrix/README.md)]
 
 ### 相似题目
   1. [解数独](/problems/sudoku-solver) (Hard)
@@ -76,4 +76,4 @@ permalink:  /problems/unique-paths-iii/
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/unique-paths-iii)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/unique-paths-iii)

@@ -70,11 +70,11 @@ stockPrice.minimum();     // 返回 2 ，最低价格时间戳为 4 ，价格为
 {% endraw %}
 
 ### 相关话题
-  [[设计](https://github.com/awesee/leetcode/tree/master/tag/design/README.md)]
-  [[哈希表](https://github.com/awesee/leetcode/tree/master/tag/hash-table/README.md)]
-  [[有序集合](https://github.com/awesee/leetcode/tree/master/tag/ordered-set/README.md)]
-  [[堆（优先队列）](https://github.com/awesee/leetcode/tree/master/tag/heap-priority-queue/README.md)]
+  [[设计](https://github.com/awesee/leetcode/tree/main/tag/design/README.md)]
+  [[哈希表](https://github.com/awesee/leetcode/tree/main/tag/hash-table/README.md)]
+  [[有序集合](https://github.com/awesee/leetcode/tree/main/tag/ordered-set/README.md)]
+  [[堆（优先队列）](https://github.com/awesee/leetcode/tree/main/tag/heap-priority-queue/README.md)]
 
 ---
 
-## [解法](https://github.com/awesee/leetcode/tree/master/problems/stock-price-fluctuation)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/stock-price-fluctuation)

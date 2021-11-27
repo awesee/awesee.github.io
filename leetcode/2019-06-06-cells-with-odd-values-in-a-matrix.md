@@ -66,10 +66,10 @@ permalink:  /problems/cells-with-odd-values-in-a-matrix/
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[模拟](https://github.com/openset/leetcode/tree/master/tag/simulation/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[数学](https://github.com/awesee/leetcode/tree/main/tag/math/README.md)]
+  [[模拟](https://github.com/awesee/leetcode/tree/main/tag/simulation/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/cells-with-odd-values-in-a-matrix)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/cells-with-odd-values-in-a-matrix)

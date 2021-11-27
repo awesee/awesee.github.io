@@ -52,8 +52,8 @@ permalink:  /problems/painting-a-grid-with-three-different-colors/
 {% endraw %}
 
 ### 相关话题
-  [[动态规划](https://github.com/awesee/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[动态规划](https://github.com/awesee/leetcode/tree/main/tag/dynamic-programming/README.md)]
 
 ---
 
-## [解法](https://github.com/awesee/leetcode/tree/master/problems/painting-a-grid-with-three-different-colors)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/painting-a-grid-with-three-different-colors)

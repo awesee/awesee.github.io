@@ -67,11 +67,11 @@ bank.withdraw(10, 50);   // 返回 false ，交易无效，因为账户 10 并�
 {% endraw %}
 
 ### 相关话题
-  [[设计](https://github.com/awesee/leetcode/tree/master/tag/design/README.md)]
-  [[数组](https://github.com/awesee/leetcode/tree/master/tag/array/README.md)]
-  [[哈希表](https://github.com/awesee/leetcode/tree/master/tag/hash-table/README.md)]
-  [[模拟](https://github.com/awesee/leetcode/tree/master/tag/simulation/README.md)]
+  [[设计](https://github.com/awesee/leetcode/tree/main/tag/design/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[哈希表](https://github.com/awesee/leetcode/tree/main/tag/hash-table/README.md)]
+  [[模拟](https://github.com/awesee/leetcode/tree/main/tag/simulation/README.md)]
 
 ---
 
-## [解法](https://github.com/awesee/leetcode/tree/master/problems/simple-bank-system)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/simple-bank-system)

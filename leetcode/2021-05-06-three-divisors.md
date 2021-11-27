@@ -41,8 +41,8 @@ permalink:  /problems/three-divisors/
 {% endraw %}
 
 ### 相关话题
-  [[数学](https://github.com/awesee/leetcode/tree/master/tag/math/README.md)]
+  [[数学](https://github.com/awesee/leetcode/tree/main/tag/math/README.md)]
 
 ---
 
-## [解法](https://github.com/awesee/leetcode/tree/master/problems/three-divisors)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/three-divisors)

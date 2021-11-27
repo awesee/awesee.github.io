@@ -86,8 +86,8 @@ permalink:  /problems/reverse-nodes-in-even-length-groups/
 {% endraw %}
 
 ### 相关话题
-  [[链表](https://github.com/awesee/leetcode/tree/master/tag/linked-list/README.md)]
+  [[链表](https://github.com/awesee/leetcode/tree/main/tag/linked-list/README.md)]
 
 ---
 
-## [解法](https://github.com/awesee/leetcode/tree/master/problems/reverse-nodes-in-even-length-groups)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/reverse-nodes-in-even-length-groups)

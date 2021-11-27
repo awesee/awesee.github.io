@@ -48,8 +48,8 @@ permalink:  /problems/check-if-number-is-a-sum-of-powers-of-three/
 {% endraw %}
 
 ### 相关话题
-  [[数学](https://github.com/awesee/leetcode/tree/master/tag/math/README.md)]
+  [[数学](https://github.com/awesee/leetcode/tree/main/tag/math/README.md)]
 
 ---
 
-## [解法](https://github.com/awesee/leetcode/tree/master/problems/check-if-number-is-a-sum-of-powers-of-three)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/check-if-number-is-a-sum-of-powers-of-three)

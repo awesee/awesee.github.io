@@ -68,9 +68,9 @@ permalink:  /problems/detect-pattern-of-length-m-repeated-k-or-more-times/
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/awesee/leetcode/tree/master/tag/array/README.md)]
-  [[枚举](https://github.com/awesee/leetcode/tree/master/tag/enumeration/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[枚举](https://github.com/awesee/leetcode/tree/main/tag/enumeration/README.md)]
 
 ---
 
-## [解法](https://github.com/awesee/leetcode/tree/master/problems/detect-pattern-of-length-m-repeated-k-or-more-times)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/detect-pattern-of-length-m-repeated-k-or-more-times)

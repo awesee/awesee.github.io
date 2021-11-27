@@ -55,10 +55,10 @@ permalink:  /problems/find-if-path-exists-in-graph/
 {% endraw %}
 
 ### 相关话题
-  [[深度优先搜索](https://github.com/awesee/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[广度优先搜索](https://github.com/awesee/leetcode/tree/master/tag/breadth-first-search/README.md)]
-  [[图](https://github.com/awesee/leetcode/tree/master/tag/graph/README.md)]
+  [[深度优先搜索](https://github.com/awesee/leetcode/tree/main/tag/depth-first-search/README.md)]
+  [[广度优先搜索](https://github.com/awesee/leetcode/tree/main/tag/breadth-first-search/README.md)]
+  [[图](https://github.com/awesee/leetcode/tree/main/tag/graph/README.md)]
 
 ---
 
-## [解法](https://github.com/awesee/leetcode/tree/master/problems/find-if-path-exists-in-graph)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/find-if-path-exists-in-graph)

@@ -56,9 +56,9 @@ numArray.sumRange(0, 5); // return -3 ((-2) + 0 + 3 + (-5) + 2 + (-1))
 {% endraw %}
 
 ### 相关话题
-  [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[前缀和](https://github.com/openset/leetcode/tree/master/tag/prefix-sum/README.md)]
+  [[设计](https://github.com/awesee/leetcode/tree/main/tag/design/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[前缀和](https://github.com/awesee/leetcode/tree/main/tag/prefix-sum/README.md)]
 
 ### 相似题目
   1. [二维区域和检索 - 矩阵不可变](/problems/range-sum-query-2d-immutable) (Medium)
@@ -67,4 +67,4 @@ numArray.sumRange(0, 5); // return -3 ((-2) + 0 + 3 + (-5) + 2 + (-1))
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/range-sum-query-immutable)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/range-sum-query-immutable)
