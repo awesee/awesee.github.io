@@ -51,14 +51,14 @@ permalink:  /problems/as-far-from-land-as-possible/
 {% endraw %}
 
 ### 相关话题
-  [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
-  [[矩阵](https://github.com/openset/leetcode/tree/master/tag/matrix/README.md)]
+  [[广度优先搜索](https://github.com/awesee/leetcode/tree/main/tag/breadth-first-search/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[动态规划](https://github.com/awesee/leetcode/tree/main/tag/dynamic-programming/README.md)]
+  [[矩阵](https://github.com/awesee/leetcode/tree/main/tag/matrix/README.md)]
 
 ### 相似题目
   1. [离建筑物最近的距离](/problems/shortest-distance-from-all-buildings) (Hard)
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/as-far-from-land-as-possible)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/as-far-from-land-as-possible)

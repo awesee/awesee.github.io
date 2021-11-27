@@ -56,10 +56,10 @@ permalink:  /problems/split-a-string-into-the-max-number-of-unique-substrings/
 {% endraw %}
 
 ### 相关话题
-  [[哈希表](https://github.com/awesee/leetcode/tree/master/tag/hash-table/README.md)]
-  [[字符串](https://github.com/awesee/leetcode/tree/master/tag/string/README.md)]
-  [[回溯](https://github.com/awesee/leetcode/tree/master/tag/backtracking/README.md)]
+  [[哈希表](https://github.com/awesee/leetcode/tree/main/tag/hash-table/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/main/tag/string/README.md)]
+  [[回溯](https://github.com/awesee/leetcode/tree/main/tag/backtracking/README.md)]
 
 ---
 
-## [解法](https://github.com/awesee/leetcode/tree/master/problems/split-a-string-into-the-max-number-of-unique-substrings)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/split-a-string-into-the-max-number-of-unique-substrings)

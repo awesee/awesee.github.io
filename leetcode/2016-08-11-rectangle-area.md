@@ -11,7 +11,7 @@ permalink:  /problems/rectangle-area/
 
 {% raw %}
 
-<p>给你 <strong>二维</strong> 平面上两个 <strong>由直线构成的</strong> 矩形，请你计算并返回两个矩形覆盖的总面积。</p>
+<p>给你 <strong>二维</strong> 平面上两个 <strong>由直线构成且边与坐标轴平行/垂直</strong> 的矩形，请你计算并返回两个矩形覆盖的总面积。</p>
 
 <p>每个矩形由其 <strong>左下</strong> 顶点和 <strong>右上</strong> 顶点坐标表示：</p>
 
@@ -22,7 +22,7 @@ permalink:  /problems/rectangle-area/
 </ul>
 </div>
 
-<p> </p>
+<p>&nbsp;</p>
 
 <p><strong>示例 1：</strong></p>
 <img alt="Rectangle Area" src="https://assets.leetcode.com/uploads/2021/05/08/rectangle-plane.png" style="width: 700px; height: 365px;" />
@@ -38,23 +38,23 @@ permalink:  /problems/rectangle-area/
 <strong>输出：</strong>16
 </pre>
 
-<p> </p>
+<p>&nbsp;</p>
 
 <p><strong>提示：</strong></p>
 
 <ul>
-	<li><code>-10<sup>4</sup> <= ax1, ay1, ax2, ay2, bx1, by1, bx2, by2 <= 10<sup>4</sup></code></li>
+	<li><code>-10<sup>4</sup> &lt;= ax1, ay1, ax2, ay2, bx1, by1, bx2, by2 &lt;= 10<sup>4</sup></code></li>
 </ul>
 
 {% endraw %}
 
 ### 相关话题
-  [[几何](https://github.com/openset/leetcode/tree/master/tag/geometry/README.md)]
-  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[几何](https://github.com/awesee/leetcode/tree/main/tag/geometry/README.md)]
+  [[数学](https://github.com/awesee/leetcode/tree/main/tag/math/README.md)]
 
 ### 相似题目
   1. [矩形重叠](/problems/rectangle-overlap) (Easy)
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/rectangle-area)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/rectangle-area)

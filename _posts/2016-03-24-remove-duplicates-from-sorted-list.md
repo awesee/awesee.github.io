@@ -44,11 +44,11 @@ permalink:  /problems/remove-duplicates-from-sorted-list/
 {% endraw %}
 
 ### 相关话题
-  [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
+  [[链表](https://github.com/awesee/leetcode/tree/main/tag/linked-list/README.md)]
 
 ### 相似题目
   1. [删除排序链表中的重复元素 II](/problems/remove-duplicates-from-sorted-list-ii) (Medium)
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/remove-duplicates-from-sorted-list)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/remove-duplicates-from-sorted-list)

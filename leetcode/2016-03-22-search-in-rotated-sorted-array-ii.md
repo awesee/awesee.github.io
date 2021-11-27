@@ -55,12 +55,12 @@ permalink:  /problems/search-in-rotated-sorted-array-ii/
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[二分查找](https://github.com/awesee/leetcode/tree/main/tag/binary-search/README.md)]
 
 ### 相似题目
   1. [搜索旋转排序数组](/problems/search-in-rotated-sorted-array) (Medium)
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/search-in-rotated-sorted-array-ii)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/search-in-rotated-sorted-array-ii)

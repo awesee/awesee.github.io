@@ -52,9 +52,9 @@ permalink:  /problems/smallest-string-with-a-given-numeric-value/
 {% endraw %}
 
 ### 相关话题
-  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
-  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[贪心](https://github.com/awesee/leetcode/tree/main/tag/greedy/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/main/tag/string/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/smallest-string-with-a-given-numeric-value)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/smallest-string-with-a-given-numeric-value)

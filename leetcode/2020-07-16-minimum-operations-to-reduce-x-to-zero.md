@@ -53,12 +53,12 @@ permalink:  /problems/minimum-operations-to-reduce-x-to-zero/
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/awesee/leetcode/tree/master/tag/array/README.md)]
-  [[哈希表](https://github.com/awesee/leetcode/tree/master/tag/hash-table/README.md)]
-  [[二分查找](https://github.com/awesee/leetcode/tree/master/tag/binary-search/README.md)]
-  [[前缀和](https://github.com/awesee/leetcode/tree/master/tag/prefix-sum/README.md)]
-  [[滑动窗口](https://github.com/awesee/leetcode/tree/master/tag/sliding-window/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[哈希表](https://github.com/awesee/leetcode/tree/main/tag/hash-table/README.md)]
+  [[二分查找](https://github.com/awesee/leetcode/tree/main/tag/binary-search/README.md)]
+  [[前缀和](https://github.com/awesee/leetcode/tree/main/tag/prefix-sum/README.md)]
+  [[滑动窗口](https://github.com/awesee/leetcode/tree/main/tag/sliding-window/README.md)]
 
 ---
 
-## [解法](https://github.com/awesee/leetcode/tree/master/problems/minimum-operations-to-reduce-x-to-zero)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/minimum-operations-to-reduce-x-to-zero)

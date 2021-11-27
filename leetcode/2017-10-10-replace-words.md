@@ -68,14 +68,14 @@ permalink:  /problems/replace-words/
 {% endraw %}
 
 ### 相关话题
-  [[字典树](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)]
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[字典树](https://github.com/awesee/leetcode/tree/main/tag/trie/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[哈希表](https://github.com/awesee/leetcode/tree/main/tag/hash-table/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/main/tag/string/README.md)]
 
 ### 相似题目
   1. [实现 Trie (前缀树)](/problems/implement-trie-prefix-tree) (Medium)
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/replace-words)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/replace-words)

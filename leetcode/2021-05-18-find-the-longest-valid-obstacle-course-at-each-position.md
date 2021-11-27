@@ -76,10 +76,10 @@ permalink:  /problems/find-the-longest-valid-obstacle-course-at-each-position/
 {% endraw %}
 
 ### 相关话题
-  [[树状数组](https://github.com/awesee/leetcode/tree/master/tag/binary-indexed-tree/README.md)]
-  [[数组](https://github.com/awesee/leetcode/tree/master/tag/array/README.md)]
-  [[二分查找](https://github.com/awesee/leetcode/tree/master/tag/binary-search/README.md)]
+  [[树状数组](https://github.com/awesee/leetcode/tree/main/tag/binary-indexed-tree/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[二分查找](https://github.com/awesee/leetcode/tree/main/tag/binary-search/README.md)]
 
 ---
 
-## [解法](https://github.com/awesee/leetcode/tree/master/problems/find-the-longest-valid-obstacle-course-at-each-position)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/find-the-longest-valid-obstacle-course-at-each-position)

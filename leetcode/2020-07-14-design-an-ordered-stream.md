@@ -67,11 +67,11 @@ os.insert(4, "ddddd"); // 插入 (4, "ddddd")，返回 ["ddddd", "eeeee"]
 {% endraw %}
 
 ### 相关话题
-  [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[数据流](https://github.com/openset/leetcode/tree/master/tag/data-stream/README.md)]
+  [[设计](https://github.com/awesee/leetcode/tree/main/tag/design/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[哈希表](https://github.com/awesee/leetcode/tree/main/tag/hash-table/README.md)]
+  [[数据流](https://github.com/awesee/leetcode/tree/main/tag/data-stream/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/design-an-ordered-stream)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/design-an-ordered-stream)

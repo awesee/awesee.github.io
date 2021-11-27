@@ -52,10 +52,10 @@ permalink:  /problems/cracking-the-safe/
 {% endraw %}
 
 ### 相关话题
-  [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
-  [[欧拉回路](https://github.com/openset/leetcode/tree/master/tag/eulerian-circuit/README.md)]
+  [[深度优先搜索](https://github.com/awesee/leetcode/tree/main/tag/depth-first-search/README.md)]
+  [[图](https://github.com/awesee/leetcode/tree/main/tag/graph/README.md)]
+  [[欧拉回路](https://github.com/awesee/leetcode/tree/main/tag/eulerian-circuit/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/cracking-the-safe)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/cracking-the-safe)

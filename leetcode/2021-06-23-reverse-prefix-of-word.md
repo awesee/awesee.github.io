@@ -58,9 +58,9 @@ permalink:  /problems/reverse-prefix-of-word/
 {% endraw %}
 
 ### 相关话题
-  [[双指针](https://github.com/awesee/leetcode/tree/master/tag/two-pointers/README.md)]
-  [[字符串](https://github.com/awesee/leetcode/tree/master/tag/string/README.md)]
+  [[双指针](https://github.com/awesee/leetcode/tree/main/tag/two-pointers/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/main/tag/string/README.md)]
 
 ---
 
-## [解法](https://github.com/awesee/leetcode/tree/master/problems/reverse-prefix-of-word)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/reverse-prefix-of-word)

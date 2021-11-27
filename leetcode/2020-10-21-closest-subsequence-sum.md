@@ -56,12 +56,12 @@ permalink:  /problems/closest-subsequence-sum/
 {% endraw %}
 
 ### 相关话题
-  [[位运算](https://github.com/awesee/leetcode/tree/master/tag/bit-manipulation/README.md)]
-  [[数组](https://github.com/awesee/leetcode/tree/master/tag/array/README.md)]
-  [[双指针](https://github.com/awesee/leetcode/tree/master/tag/two-pointers/README.md)]
-  [[动态规划](https://github.com/awesee/leetcode/tree/master/tag/dynamic-programming/README.md)]
-  [[状态压缩](https://github.com/awesee/leetcode/tree/master/tag/bitmask/README.md)]
+  [[位运算](https://github.com/awesee/leetcode/tree/main/tag/bit-manipulation/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[双指针](https://github.com/awesee/leetcode/tree/main/tag/two-pointers/README.md)]
+  [[动态规划](https://github.com/awesee/leetcode/tree/main/tag/dynamic-programming/README.md)]
+  [[状态压缩](https://github.com/awesee/leetcode/tree/main/tag/bitmask/README.md)]
 
 ---
 
-## [解法](https://github.com/awesee/leetcode/tree/master/problems/closest-subsequence-sum)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/closest-subsequence-sum)

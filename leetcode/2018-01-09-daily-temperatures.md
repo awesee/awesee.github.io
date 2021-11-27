@@ -45,13 +45,13 @@ permalink:  /problems/daily-temperatures/
 {% endraw %}
 
 ### 相关话题
-  [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[单调栈](https://github.com/openset/leetcode/tree/master/tag/monotonic-stack/README.md)]
+  [[栈](https://github.com/awesee/leetcode/tree/main/tag/stack/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[单调栈](https://github.com/awesee/leetcode/tree/main/tag/monotonic-stack/README.md)]
 
 ### 相似题目
   1. [下一个更大元素 I](/problems/next-greater-element-i) (Easy)
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/daily-temperatures)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/daily-temperatures)

@@ -52,9 +52,9 @@ permalink:  /problems/remove-zero-sum-consecutive-nodes-from-linked-list/
 {% endraw %}
 
 ### 相关话题
-  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
+  [[哈希表](https://github.com/awesee/leetcode/tree/main/tag/hash-table/README.md)]
+  [[链表](https://github.com/awesee/leetcode/tree/main/tag/linked-list/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/remove-zero-sum-consecutive-nodes-from-linked-list)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/remove-zero-sum-consecutive-nodes-from-linked-list)

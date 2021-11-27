@@ -52,13 +52,13 @@ permalink:  /problems/solve-the-equation/
 {% endraw %}
 
 ### 相关话题
-  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
-  [[模拟](https://github.com/openset/leetcode/tree/master/tag/simulation/README.md)]
+  [[数学](https://github.com/awesee/leetcode/tree/main/tag/math/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/main/tag/string/README.md)]
+  [[模拟](https://github.com/awesee/leetcode/tree/main/tag/simulation/README.md)]
 
 ### 相似题目
   1. [分数加减运算](/problems/fraction-addition-and-subtraction) (Medium)
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/solve-the-equation)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/solve-the-equation)

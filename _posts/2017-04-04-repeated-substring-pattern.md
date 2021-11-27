@@ -44,8 +44,8 @@ permalink:  /problems/repeated-substring-pattern/
 {% endraw %}
 
 ### 相关话题
-  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
-  [[字符串匹配](https://github.com/openset/leetcode/tree/master/tag/string-matching/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/main/tag/string/README.md)]
+  [[字符串匹配](https://github.com/awesee/leetcode/tree/main/tag/string-matching/README.md)]
 
 ### 相似题目
   1. [实现 strStr()](/problems/implement-strstr) (Easy)
@@ -53,4 +53,4 @@ permalink:  /problems/repeated-substring-pattern/
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/repeated-substring-pattern)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/repeated-substring-pattern)

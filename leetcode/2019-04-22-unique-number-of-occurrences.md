@@ -47,9 +47,9 @@ permalink:  /problems/unique-number-of-occurrences/
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[哈希表](https://github.com/awesee/leetcode/tree/main/tag/hash-table/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/unique-number-of-occurrences)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/unique-number-of-occurrences)

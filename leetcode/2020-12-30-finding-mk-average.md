@@ -71,11 +71,11 @@ obj.calculateMKAverage(); // 最后 3 个元素为 [5,5,5]
 {% endraw %}
 
 ### 相关话题
-  [[设计](https://github.com/awesee/leetcode/tree/master/tag/design/README.md)]
-  [[队列](https://github.com/awesee/leetcode/tree/master/tag/queue/README.md)]
-  [[有序集合](https://github.com/awesee/leetcode/tree/master/tag/ordered-set/README.md)]
-  [[堆（优先队列）](https://github.com/awesee/leetcode/tree/master/tag/heap-priority-queue/README.md)]
+  [[设计](https://github.com/awesee/leetcode/tree/main/tag/design/README.md)]
+  [[队列](https://github.com/awesee/leetcode/tree/main/tag/queue/README.md)]
+  [[有序集合](https://github.com/awesee/leetcode/tree/main/tag/ordered-set/README.md)]
+  [[堆（优先队列）](https://github.com/awesee/leetcode/tree/main/tag/heap-priority-queue/README.md)]
 
 ---
 
-## [解法](https://github.com/awesee/leetcode/tree/master/problems/finding-mk-average)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/finding-mk-average)

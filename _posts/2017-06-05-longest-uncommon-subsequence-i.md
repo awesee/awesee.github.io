@@ -51,11 +51,11 @@ permalink:  /problems/longest-uncommon-subsequence-i/
 {% endraw %}
 
 ### 相关话题
-  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/main/tag/string/README.md)]
 
 ### 相似题目
   1. [最长特殊序列 II](/problems/longest-uncommon-subsequence-ii) (Medium)
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/longest-uncommon-subsequence-i)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/longest-uncommon-subsequence-i)

@@ -63,13 +63,13 @@ nums 中的数字按非递减顺序排列为 ["0","0"]
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/awesee/leetcode/tree/master/tag/array/README.md)]
-  [[字符串](https://github.com/awesee/leetcode/tree/master/tag/string/README.md)]
-  [[分治](https://github.com/awesee/leetcode/tree/master/tag/divide-and-conquer/README.md)]
-  [[快速选择](https://github.com/awesee/leetcode/tree/master/tag/quickselect/README.md)]
-  [[排序](https://github.com/awesee/leetcode/tree/master/tag/sorting/README.md)]
-  [[堆（优先队列）](https://github.com/awesee/leetcode/tree/master/tag/heap-priority-queue/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/main/tag/string/README.md)]
+  [[分治](https://github.com/awesee/leetcode/tree/main/tag/divide-and-conquer/README.md)]
+  [[快速选择](https://github.com/awesee/leetcode/tree/main/tag/quickselect/README.md)]
+  [[排序](https://github.com/awesee/leetcode/tree/main/tag/sorting/README.md)]
+  [[堆（优先队列）](https://github.com/awesee/leetcode/tree/main/tag/heap-priority-queue/README.md)]
 
 ---
 
-## [解法](https://github.com/awesee/leetcode/tree/master/problems/find-the-kth-largest-integer-in-the-array)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/find-the-kth-largest-integer-in-the-array)

@@ -48,8 +48,8 @@ permalink:  /problems/generate-a-string-with-characters-that-have-odd-counts/
 {% endraw %}
 
 ### 相关话题
-  [[字符串](https://github.com/awesee/leetcode/tree/master/tag/string/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/main/tag/string/README.md)]
 
 ---
 
-## [解法](https://github.com/awesee/leetcode/tree/master/problems/generate-a-string-with-characters-that-have-odd-counts)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/generate-a-string-with-characters-that-have-odd-counts)

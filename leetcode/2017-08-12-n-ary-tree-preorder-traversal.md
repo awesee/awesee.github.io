@@ -56,9 +56,9 @@ permalink:  /problems/n-ary-tree-preorder-traversal/
 {% endraw %}
 
 ### 相关话题
-  [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
-  [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
-  [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[栈](https://github.com/awesee/leetcode/tree/main/tag/stack/README.md)]
+  [[树](https://github.com/awesee/leetcode/tree/main/tag/tree/README.md)]
+  [[深度优先搜索](https://github.com/awesee/leetcode/tree/main/tag/depth-first-search/README.md)]
 
 ### 相似题目
   1. [二叉树的前序遍历](/problems/binary-tree-preorder-traversal) (Easy)
@@ -67,4 +67,4 @@ permalink:  /problems/n-ary-tree-preorder-traversal/
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/n-ary-tree-preorder-traversal)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/n-ary-tree-preorder-traversal)

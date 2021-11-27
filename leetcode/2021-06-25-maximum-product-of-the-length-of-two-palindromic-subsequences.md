@@ -57,12 +57,12 @@ permalink:  /problems/maximum-product-of-the-length-of-two-palindromic-subsequen
 {% endraw %}
 
 ### 相关话题
-  [[位运算](https://github.com/awesee/leetcode/tree/master/tag/bit-manipulation/README.md)]
-  [[字符串](https://github.com/awesee/leetcode/tree/master/tag/string/README.md)]
-  [[动态规划](https://github.com/awesee/leetcode/tree/master/tag/dynamic-programming/README.md)]
-  [[回溯](https://github.com/awesee/leetcode/tree/master/tag/backtracking/README.md)]
-  [[状态压缩](https://github.com/awesee/leetcode/tree/master/tag/bitmask/README.md)]
+  [[位运算](https://github.com/awesee/leetcode/tree/main/tag/bit-manipulation/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/main/tag/string/README.md)]
+  [[动态规划](https://github.com/awesee/leetcode/tree/main/tag/dynamic-programming/README.md)]
+  [[回溯](https://github.com/awesee/leetcode/tree/main/tag/backtracking/README.md)]
+  [[状态压缩](https://github.com/awesee/leetcode/tree/main/tag/bitmask/README.md)]
 
 ---
 
-## [解法](https://github.com/awesee/leetcode/tree/master/problems/maximum-product-of-the-length-of-two-palindromic-subsequences)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/maximum-product-of-the-length-of-two-palindromic-subsequences)

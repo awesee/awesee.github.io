@@ -51,9 +51,9 @@ permalink:  /problems/maximum-product-difference-between-two-pairs/
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/awesee/leetcode/tree/master/tag/array/README.md)]
-  [[排序](https://github.com/awesee/leetcode/tree/master/tag/sorting/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[排序](https://github.com/awesee/leetcode/tree/main/tag/sorting/README.md)]
 
 ---
 
-## [解法](https://github.com/awesee/leetcode/tree/master/problems/maximum-product-difference-between-two-pairs)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/maximum-product-difference-between-two-pairs)

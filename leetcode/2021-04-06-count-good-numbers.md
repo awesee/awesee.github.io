@@ -56,9 +56,9 @@ permalink:  /problems/count-good-numbers/
 {% endraw %}
 
 ### 相关话题
-  [[递归](https://github.com/awesee/leetcode/tree/master/tag/recursion/README.md)]
-  [[数学](https://github.com/awesee/leetcode/tree/master/tag/math/README.md)]
+  [[递归](https://github.com/awesee/leetcode/tree/main/tag/recursion/README.md)]
+  [[数学](https://github.com/awesee/leetcode/tree/main/tag/math/README.md)]
 
 ---
 
-## [解法](https://github.com/awesee/leetcode/tree/master/problems/count-good-numbers)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/count-good-numbers)

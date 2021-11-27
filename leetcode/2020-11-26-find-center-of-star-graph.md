@@ -48,8 +48,8 @@ permalink:  /problems/find-center-of-star-graph/
 {% endraw %}
 
 ### 相关话题
-  [[图](https://github.com/awesee/leetcode/tree/master/tag/graph/README.md)]
+  [[图](https://github.com/awesee/leetcode/tree/main/tag/graph/README.md)]
 
 ---
 
-## [解法](https://github.com/awesee/leetcode/tree/master/problems/find-center-of-star-graph)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/find-center-of-star-graph)

@@ -45,9 +45,9 @@ permalink:  /problems/decode-xored-permutation/
 {% endraw %}
 
 ### 相关话题
-  [[位运算](https://github.com/awesee/leetcode/tree/master/tag/bit-manipulation/README.md)]
-  [[数组](https://github.com/awesee/leetcode/tree/master/tag/array/README.md)]
+  [[位运算](https://github.com/awesee/leetcode/tree/main/tag/bit-manipulation/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
 
 ---
 
-## [解法](https://github.com/awesee/leetcode/tree/master/problems/decode-xored-permutation)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/decode-xored-permutation)

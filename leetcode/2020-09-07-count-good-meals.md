@@ -49,9 +49,9 @@ permalink:  /problems/count-good-meals/
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/awesee/leetcode/tree/master/tag/array/README.md)]
-  [[哈希表](https://github.com/awesee/leetcode/tree/master/tag/hash-table/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[哈希表](https://github.com/awesee/leetcode/tree/main/tag/hash-table/README.md)]
 
 ---
 
-## [解法](https://github.com/awesee/leetcode/tree/master/problems/count-good-meals)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/count-good-meals)

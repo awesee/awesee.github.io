@@ -73,9 +73,9 @@ robot.getDir(); // 返回 "West"
 {% endraw %}
 
 ### 相关话题
-  [[设计](https://github.com/awesee/leetcode/tree/master/tag/design/README.md)]
-  [[模拟](https://github.com/awesee/leetcode/tree/master/tag/simulation/README.md)]
+  [[设计](https://github.com/awesee/leetcode/tree/main/tag/design/README.md)]
+  [[模拟](https://github.com/awesee/leetcode/tree/main/tag/simulation/README.md)]
 
 ---
 
-## [解法](https://github.com/awesee/leetcode/tree/master/problems/walking-robot-simulation-ii)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/walking-robot-simulation-ii)

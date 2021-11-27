@@ -71,9 +71,9 @@ permalink:  /problems/splitting-a-string-into-descending-consecutive-values/
 {% endraw %}
 
 ### 相关话题
-  [[字符串](https://github.com/awesee/leetcode/tree/master/tag/string/README.md)]
-  [[回溯](https://github.com/awesee/leetcode/tree/master/tag/backtracking/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/main/tag/string/README.md)]
+  [[回溯](https://github.com/awesee/leetcode/tree/main/tag/backtracking/README.md)]
 
 ---
 
-## [解法](https://github.com/awesee/leetcode/tree/master/problems/splitting-a-string-into-descending-consecutive-values)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/splitting-a-string-into-descending-consecutive-values)

@@ -58,9 +58,9 @@ data = [235, 140, 4], 表示 8 位的序列: <strong>11101011 10001100 00000100<
 {% endraw %}
 
 ### 相关话题
-  [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[位运算](https://github.com/awesee/leetcode/tree/main/tag/bit-manipulation/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/utf-8-validation)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/utf-8-validation)

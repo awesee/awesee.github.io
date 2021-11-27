@@ -85,13 +85,13 @@ _aa___a
 {% endraw %}
 
 ### 相关话题
-  [[线段树](https://github.com/openset/leetcode/tree/master/tag/segment-tree/README.md)]
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[有序集合](https://github.com/openset/leetcode/tree/master/tag/ordered-set/README.md)]
+  [[线段树](https://github.com/awesee/leetcode/tree/main/tag/segment-tree/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[有序集合](https://github.com/awesee/leetcode/tree/main/tag/ordered-set/README.md)]
 
 ### 相似题目
   1. [天际线问题](/problems/the-skyline-problem) (Hard)
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/falling-squares)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/falling-squares)

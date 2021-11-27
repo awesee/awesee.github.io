@@ -66,9 +66,9 @@ Step 1) 2 是偶数，除 2 得到 1
 {% endraw %}
 
 ### 相关话题
-  [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
-  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[位运算](https://github.com/awesee/leetcode/tree/main/tag/bit-manipulation/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/main/tag/string/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one)

@@ -56,4 +56,4 @@ permalink:  /problems/maximum-genetic-difference-query/
 
 ---
 
-## [解法](https://github.com/awesee/leetcode/tree/master/problems/maximum-genetic-difference-query)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/maximum-genetic-difference-query)

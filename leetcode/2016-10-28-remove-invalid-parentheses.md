@@ -51,13 +51,13 @@ permalink:  /problems/remove-invalid-parentheses/
 {% endraw %}
 
 ### 相关话题
-  [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
-  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
-  [[回溯](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[广度优先搜索](https://github.com/awesee/leetcode/tree/main/tag/breadth-first-search/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/main/tag/string/README.md)]
+  [[回溯](https://github.com/awesee/leetcode/tree/main/tag/backtracking/README.md)]
 
 ### 相似题目
   1. [有效的括号](/problems/valid-parentheses) (Easy)
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/remove-invalid-parentheses)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/remove-invalid-parentheses)

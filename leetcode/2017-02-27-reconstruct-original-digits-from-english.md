@@ -11,39 +11,41 @@ permalink:  /problems/reconstruct-original-digits-from-english/
 
 {% raw %}
 
-<p>给定一个<strong>非空</strong>字符串，其中包含字母顺序打乱的英文单词表示的数字<code>0-9</code>。按升序输出原始的数字。</p>
+<p>给你一个字符串 <code>s</code> ，其中包含字母顺序打乱的用英文单词表示的若干数字（<code>0-9</code>）。按 <strong>升序</strong> 返回原始的数字。</p>
 
-<p><strong>注意:</strong></p>
+<p>&nbsp;</p>
 
-<ol>
-	<li>输入只包含小写英文字母。</li>
-	<li>输入保证合法并可以转换为原始的数字，这意味着像 &quot;abc&quot; 或 &quot;zerone&quot; 的输入是不允许的。</li>
-	<li>输入字符串的长度小于 50,000。</li>
-</ol>
-
-<p><strong>示例 1:</strong></p>
+<p><strong>示例 1：</strong></p>
 
 <pre>
-输入: &quot;owoztneoer&quot;
-
-输出: &quot;012&quot; (zeroonetwo)
+<strong>输入：</strong>s = "owoztneoer"
+<strong>输出：</strong>"012"
 </pre>
 
-<p><strong>示例 2:</strong></p>
+<p><strong>示例 2：</strong></p>
 
 <pre>
-输入: &quot;fviefuro&quot;
-
-输出: &quot;45&quot; (fourfive)
+<strong>输入：</strong>s = "fviefuro"
+<strong>输出：</strong>"45"
 </pre>
+
+<p>&nbsp;</p>
+
+<p><strong>提示：</strong></p>
+
+<ul>
+	<li><code>1 &lt;= s.length &lt;= 10<sup>5</sup></code></li>
+	<li><code>s[i]</code> 为 <code>["e","g","f","i","h","o","n","s","r","u","t","w","v","x","z"]</code> 这些字符之一</li>
+	<li><code>s</code> 保证是一个符合题目要求的字符串</li>
+</ul>
 
 {% endraw %}
 
 ### 相关话题
-  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[哈希表](https://github.com/awesee/leetcode/tree/main/tag/hash-table/README.md)]
+  [[数学](https://github.com/awesee/leetcode/tree/main/tag/math/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/main/tag/string/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/reconstruct-original-digits-from-english)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/reconstruct-original-digits-from-english)

@@ -49,10 +49,10 @@ result[2] = |5-2| + |5-3| + |5-5| = 3 + 2 + 0 = 5。
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/awesee/leetcode/tree/master/tag/array/README.md)]
-  [[数学](https://github.com/awesee/leetcode/tree/master/tag/math/README.md)]
-  [[前缀和](https://github.com/awesee/leetcode/tree/master/tag/prefix-sum/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[数学](https://github.com/awesee/leetcode/tree/main/tag/math/README.md)]
+  [[前缀和](https://github.com/awesee/leetcode/tree/main/tag/prefix-sum/README.md)]
 
 ---
 
-## [解法](https://github.com/awesee/leetcode/tree/master/problems/sum-of-absolute-differences-in-a-sorted-array)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/sum-of-absolute-differences-in-a-sorted-array)

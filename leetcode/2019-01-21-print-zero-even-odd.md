@@ -49,11 +49,11 @@ permalink:  /problems/print-zero-even-odd/
 {% endraw %}
 
 ### 相关话题
-  [[多线程](https://github.com/openset/leetcode/tree/master/tag/concurrency/README.md)]
+  [[多线程](https://github.com/awesee/leetcode/tree/main/tag/concurrency/README.md)]
 
 ### 相似题目
   1. [交替打印FooBar](/problems/print-foobar-alternately) (Medium)
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/print-zero-even-odd)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/print-zero-even-odd)

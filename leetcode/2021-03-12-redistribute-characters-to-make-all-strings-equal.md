@@ -48,10 +48,10 @@ permalink:  /problems/redistribute-characters-to-make-all-strings-equal/
 {% endraw %}
 
 ### 相关话题
-  [[哈希表](https://github.com/awesee/leetcode/tree/master/tag/hash-table/README.md)]
-  [[字符串](https://github.com/awesee/leetcode/tree/master/tag/string/README.md)]
-  [[计数](https://github.com/awesee/leetcode/tree/master/tag/counting/README.md)]
+  [[哈希表](https://github.com/awesee/leetcode/tree/main/tag/hash-table/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/main/tag/string/README.md)]
+  [[计数](https://github.com/awesee/leetcode/tree/main/tag/counting/README.md)]
 
 ---
 
-## [解法](https://github.com/awesee/leetcode/tree/master/problems/redistribute-characters-to-make-all-strings-equal)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/redistribute-characters-to-make-all-strings-equal)

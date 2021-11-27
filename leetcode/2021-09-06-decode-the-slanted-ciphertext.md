@@ -83,9 +83,9 @@ permalink:  /problems/decode-the-slanted-ciphertext/
 {% endraw %}
 
 ### 相关话题
-  [[字符串](https://github.com/awesee/leetcode/tree/master/tag/string/README.md)]
-  [[模拟](https://github.com/awesee/leetcode/tree/master/tag/simulation/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/main/tag/string/README.md)]
+  [[模拟](https://github.com/awesee/leetcode/tree/main/tag/simulation/README.md)]
 
 ---
 
-## [解法](https://github.com/awesee/leetcode/tree/master/problems/decode-the-slanted-ciphertext)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/decode-the-slanted-ciphertext)

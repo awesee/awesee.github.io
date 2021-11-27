@@ -59,9 +59,9 @@ permalink:  /problems/tiling-a-rectangle-with-the-fewest-squares/
 {% endraw %}
 
 ### 相关话题
-  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
-  [[回溯](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[动态规划](https://github.com/awesee/leetcode/tree/main/tag/dynamic-programming/README.md)]
+  [[回溯](https://github.com/awesee/leetcode/tree/main/tag/backtracking/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/tiling-a-rectangle-with-the-fewest-squares)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/tiling-a-rectangle-with-the-fewest-squares)

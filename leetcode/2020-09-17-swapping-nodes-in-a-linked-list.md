@@ -65,9 +65,9 @@ permalink:  /problems/swapping-nodes-in-a-linked-list/
 {% endraw %}
 
 ### 相关话题
-  [[链表](https://github.com/awesee/leetcode/tree/master/tag/linked-list/README.md)]
-  [[双指针](https://github.com/awesee/leetcode/tree/master/tag/two-pointers/README.md)]
+  [[链表](https://github.com/awesee/leetcode/tree/main/tag/linked-list/README.md)]
+  [[双指针](https://github.com/awesee/leetcode/tree/main/tag/two-pointers/README.md)]
 
 ---
 
-## [解法](https://github.com/awesee/leetcode/tree/master/problems/swapping-nodes-in-a-linked-list)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/swapping-nodes-in-a-linked-list)

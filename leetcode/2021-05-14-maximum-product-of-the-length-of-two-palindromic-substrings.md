@@ -49,10 +49,10 @@ permalink:  /problems/maximum-product-of-the-length-of-two-palindromic-substring
 {% endraw %}
 
 ### 相关话题
-  [[字符串](https://github.com/awesee/leetcode/tree/master/tag/string/README.md)]
-  [[哈希函数](https://github.com/awesee/leetcode/tree/master/tag/hash-function/README.md)]
-  [[滚动哈希](https://github.com/awesee/leetcode/tree/master/tag/rolling-hash/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/main/tag/string/README.md)]
+  [[哈希函数](https://github.com/awesee/leetcode/tree/main/tag/hash-function/README.md)]
+  [[滚动哈希](https://github.com/awesee/leetcode/tree/main/tag/rolling-hash/README.md)]
 
 ---
 
-## [解法](https://github.com/awesee/leetcode/tree/master/problems/maximum-product-of-the-length-of-two-palindromic-substrings)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/maximum-product-of-the-length-of-two-palindromic-substrings)

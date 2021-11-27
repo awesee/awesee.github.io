@@ -53,8 +53,8 @@ permalink:  /problems/incremental-memory-leak/
 {% endraw %}
 
 ### 相关话题
-  [[模拟](https://github.com/awesee/leetcode/tree/master/tag/simulation/README.md)]
+  [[模拟](https://github.com/awesee/leetcode/tree/main/tag/simulation/README.md)]
 
 ---
 
-## [解法](https://github.com/awesee/leetcode/tree/master/problems/incremental-memory-leak)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/incremental-memory-leak)

@@ -46,11 +46,11 @@ iterator.hasNext(); // 返回 false
 {% endraw %}
 
 ### 相关话题
-  [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
-  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
-  [[回溯](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
-  [[迭代器](https://github.com/openset/leetcode/tree/master/tag/iterator/README.md)]
+  [[设计](https://github.com/awesee/leetcode/tree/main/tag/design/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/main/tag/string/README.md)]
+  [[回溯](https://github.com/awesee/leetcode/tree/main/tag/backtracking/README.md)]
+  [[迭代器](https://github.com/awesee/leetcode/tree/main/tag/iterator/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/iterator-for-combination)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/iterator-for-combination)

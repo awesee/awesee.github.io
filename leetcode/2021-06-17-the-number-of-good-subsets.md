@@ -65,12 +65,12 @@ permalink:  /problems/the-number-of-good-subsets/
 {% endraw %}
 
 ### 相关话题
-  [[位运算](https://github.com/awesee/leetcode/tree/master/tag/bit-manipulation/README.md)]
-  [[数组](https://github.com/awesee/leetcode/tree/master/tag/array/README.md)]
-  [[数学](https://github.com/awesee/leetcode/tree/master/tag/math/README.md)]
-  [[动态规划](https://github.com/awesee/leetcode/tree/master/tag/dynamic-programming/README.md)]
-  [[状态压缩](https://github.com/awesee/leetcode/tree/master/tag/bitmask/README.md)]
+  [[位运算](https://github.com/awesee/leetcode/tree/main/tag/bit-manipulation/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[数学](https://github.com/awesee/leetcode/tree/main/tag/math/README.md)]
+  [[动态规划](https://github.com/awesee/leetcode/tree/main/tag/dynamic-programming/README.md)]
+  [[状态压缩](https://github.com/awesee/leetcode/tree/main/tag/bitmask/README.md)]
 
 ---
 
-## [解法](https://github.com/awesee/leetcode/tree/master/problems/the-number-of-good-subsets)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/the-number-of-good-subsets)

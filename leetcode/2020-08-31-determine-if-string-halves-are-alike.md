@@ -59,9 +59,9 @@ permalink:  /problems/determine-if-string-halves-are-alike/
 {% endraw %}
 
 ### 相关话题
-  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
-  [[计数](https://github.com/openset/leetcode/tree/master/tag/counting/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/main/tag/string/README.md)]
+  [[计数](https://github.com/awesee/leetcode/tree/main/tag/counting/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/determine-if-string-halves-are-alike)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/determine-if-string-halves-are-alike)

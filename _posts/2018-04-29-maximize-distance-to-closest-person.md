@@ -63,11 +63,11 @@ permalink:  /problems/maximize-distance-to-closest-person/
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
 
 ### 相似题目
   1. [考场就座](/problems/exam-room) (Medium)
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/maximize-distance-to-closest-person)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/maximize-distance-to-closest-person)

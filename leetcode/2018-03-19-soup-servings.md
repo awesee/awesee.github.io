@@ -47,10 +47,10 @@ permalink:  /problems/soup-servings/
 {% endraw %}
 
 ### 相关话题
-  [[数学](https://github.com/awesee/leetcode/tree/master/tag/math/README.md)]
-  [[动态规划](https://github.com/awesee/leetcode/tree/master/tag/dynamic-programming/README.md)]
-  [[概率与统计](https://github.com/awesee/leetcode/tree/master/tag/probability-and-statistics/README.md)]
+  [[数学](https://github.com/awesee/leetcode/tree/main/tag/math/README.md)]
+  [[动态规划](https://github.com/awesee/leetcode/tree/main/tag/dynamic-programming/README.md)]
+  [[概率与统计](https://github.com/awesee/leetcode/tree/main/tag/probability-and-statistics/README.md)]
 
 ---
 
-## [解法](https://github.com/awesee/leetcode/tree/master/problems/soup-servings)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/soup-servings)

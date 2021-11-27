@@ -67,11 +67,11 @@ permalink:  /problems/delete-node-in-a-linked-list/
 {% endraw %}
 
 ### 相关话题
-  [[链表](https://github.com/awesee/leetcode/tree/master/tag/linked-list/README.md)]
+  [[链表](https://github.com/awesee/leetcode/tree/main/tag/linked-list/README.md)]
 
 ### 相似题目
   1. [移除链表元素](/problems/remove-linked-list-elements) (Easy)
 
 ---
 
-## [解法](https://github.com/awesee/leetcode/tree/master/problems/delete-node-in-a-linked-list)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/delete-node-in-a-linked-list)

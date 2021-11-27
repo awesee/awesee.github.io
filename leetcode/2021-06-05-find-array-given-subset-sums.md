@@ -67,9 +67,9 @@ permalink:  /problems/find-array-given-subset-sums/
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/awesee/leetcode/tree/master/tag/array/README.md)]
-  [[分治](https://github.com/awesee/leetcode/tree/master/tag/divide-and-conquer/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[分治](https://github.com/awesee/leetcode/tree/main/tag/divide-and-conquer/README.md)]
 
 ---
 
-## [解法](https://github.com/awesee/leetcode/tree/master/problems/find-array-given-subset-sums)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/find-array-given-subset-sums)

@@ -88,10 +88,10 @@ permalink:  /problems/maximum-path-quality-of-a-graph/
 {% endraw %}
 
 ### 相关话题
-  [[图](https://github.com/awesee/leetcode/tree/master/tag/graph/README.md)]
-  [[数组](https://github.com/awesee/leetcode/tree/master/tag/array/README.md)]
-  [[回溯](https://github.com/awesee/leetcode/tree/master/tag/backtracking/README.md)]
+  [[图](https://github.com/awesee/leetcode/tree/main/tag/graph/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[回溯](https://github.com/awesee/leetcode/tree/main/tag/backtracking/README.md)]
 
 ---
 
-## [解法](https://github.com/awesee/leetcode/tree/master/problems/maximum-path-quality-of-a-graph)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/maximum-path-quality-of-a-graph)

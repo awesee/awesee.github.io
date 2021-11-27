@@ -86,11 +86,11 @@ permalink:  /problems/second-minimum-time-to-reach-destination/
 {% endraw %}
 
 ### 相关话题
-  [[广度优先搜索](https://github.com/awesee/leetcode/tree/master/tag/breadth-first-search/README.md)]
-  [[图](https://github.com/awesee/leetcode/tree/master/tag/graph/README.md)]
-  [[数组](https://github.com/awesee/leetcode/tree/master/tag/array/README.md)]
-  [[最短路](https://github.com/awesee/leetcode/tree/master/tag/shortest-path/README.md)]
+  [[广度优先搜索](https://github.com/awesee/leetcode/tree/main/tag/breadth-first-search/README.md)]
+  [[图](https://github.com/awesee/leetcode/tree/main/tag/graph/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[最短路](https://github.com/awesee/leetcode/tree/main/tag/shortest-path/README.md)]
 
 ---
 
-## [解法](https://github.com/awesee/leetcode/tree/master/problems/second-minimum-time-to-reach-destination)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/second-minimum-time-to-reach-destination)

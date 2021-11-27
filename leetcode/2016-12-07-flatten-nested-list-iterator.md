@@ -61,12 +61,12 @@ return res</pre>
 {% endraw %}
 
 ### 相关话题
-  [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
-  [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
-  [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
-  [[队列](https://github.com/openset/leetcode/tree/master/tag/queue/README.md)]
-  [[迭代器](https://github.com/openset/leetcode/tree/master/tag/iterator/README.md)]
+  [[栈](https://github.com/awesee/leetcode/tree/main/tag/stack/README.md)]
+  [[树](https://github.com/awesee/leetcode/tree/main/tag/tree/README.md)]
+  [[深度优先搜索](https://github.com/awesee/leetcode/tree/main/tag/depth-first-search/README.md)]
+  [[设计](https://github.com/awesee/leetcode/tree/main/tag/design/README.md)]
+  [[队列](https://github.com/awesee/leetcode/tree/main/tag/queue/README.md)]
+  [[迭代器](https://github.com/awesee/leetcode/tree/main/tag/iterator/README.md)]
 
 ### 相似题目
   1. [展开二维向量](/problems/flatten-2d-vector) (Medium)
@@ -76,4 +76,4 @@ return res</pre>
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/flatten-nested-list-iterator)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/flatten-nested-list-iterator)

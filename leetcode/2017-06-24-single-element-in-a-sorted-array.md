@@ -47,9 +47,9 @@ permalink:  /problems/single-element-in-a-sorted-array/
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[二分查找](https://github.com/awesee/leetcode/tree/main/tag/binary-search/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/single-element-in-a-sorted-array)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/single-element-in-a-sorted-array)

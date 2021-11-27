@@ -46,7 +46,7 @@ permalink:  /problems/longest-continuous-increasing-subsequence/
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
 
 ### 相似题目
   1. [最长递增子序列的个数](/problems/number-of-longest-increasing-subsequence) (Medium)
@@ -54,4 +54,4 @@ permalink:  /problems/longest-continuous-increasing-subsequence/
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/longest-continuous-increasing-subsequence)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/longest-continuous-increasing-subsequence)

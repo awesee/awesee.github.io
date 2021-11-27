@@ -69,9 +69,9 @@ permalink:  /problems/minimum-cost-to-reach-destination-in-time/
 {% endraw %}
 
 ### 相关话题
-  [[图](https://github.com/awesee/leetcode/tree/master/tag/graph/README.md)]
-  [[动态规划](https://github.com/awesee/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[图](https://github.com/awesee/leetcode/tree/main/tag/graph/README.md)]
+  [[动态规划](https://github.com/awesee/leetcode/tree/main/tag/dynamic-programming/README.md)]
 
 ---
 
-## [解法](https://github.com/awesee/leetcode/tree/master/problems/minimum-cost-to-reach-destination-in-time)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/minimum-cost-to-reach-destination-in-time)

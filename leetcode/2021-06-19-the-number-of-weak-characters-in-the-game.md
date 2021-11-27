@@ -56,12 +56,12 @@ permalink:  /problems/the-number-of-weak-characters-in-the-game/
 {% endraw %}
 
 ### 相关话题
-  [[栈](https://github.com/awesee/leetcode/tree/master/tag/stack/README.md)]
-  [[贪心](https://github.com/awesee/leetcode/tree/master/tag/greedy/README.md)]
-  [[数组](https://github.com/awesee/leetcode/tree/master/tag/array/README.md)]
-  [[排序](https://github.com/awesee/leetcode/tree/master/tag/sorting/README.md)]
-  [[单调栈](https://github.com/awesee/leetcode/tree/master/tag/monotonic-stack/README.md)]
+  [[栈](https://github.com/awesee/leetcode/tree/main/tag/stack/README.md)]
+  [[贪心](https://github.com/awesee/leetcode/tree/main/tag/greedy/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[排序](https://github.com/awesee/leetcode/tree/main/tag/sorting/README.md)]
+  [[单调栈](https://github.com/awesee/leetcode/tree/main/tag/monotonic-stack/README.md)]
 
 ---
 
-## [解法](https://github.com/awesee/leetcode/tree/master/problems/the-number-of-weak-characters-in-the-game)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/the-number-of-weak-characters-in-the-game)

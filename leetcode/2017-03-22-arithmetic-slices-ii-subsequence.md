@@ -65,12 +65,12 @@ permalink:  /problems/arithmetic-slices-ii-subsequence/
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[动态规划](https://github.com/awesee/leetcode/tree/main/tag/dynamic-programming/README.md)]
 
 ### 相似题目
   1. [等差数列划分](/problems/arithmetic-slices) (Medium)
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/arithmetic-slices-ii-subsequence)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/arithmetic-slices-ii-subsequence)

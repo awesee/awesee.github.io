@@ -61,9 +61,9 @@ permalink:  /problems/minimum-garden-perimeter-to-collect-enough-apples/
 {% endraw %}
 
 ### 相关话题
-  [[数学](https://github.com/awesee/leetcode/tree/master/tag/math/README.md)]
-  [[二分查找](https://github.com/awesee/leetcode/tree/master/tag/binary-search/README.md)]
+  [[数学](https://github.com/awesee/leetcode/tree/main/tag/math/README.md)]
+  [[二分查找](https://github.com/awesee/leetcode/tree/main/tag/binary-search/README.md)]
 
 ---
 
-## [解法](https://github.com/awesee/leetcode/tree/master/problems/minimum-garden-perimeter-to-collect-enough-apples)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/minimum-garden-perimeter-to-collect-enough-apples)

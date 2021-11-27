@@ -64,8 +64,8 @@ patterns 中有 2 个字符串作为子字符串出现在 word 中。
 {% endraw %}
 
 ### 相关话题
-  [[字符串](https://github.com/awesee/leetcode/tree/master/tag/string/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/main/tag/string/README.md)]
 
 ---
 
-## [解法](https://github.com/awesee/leetcode/tree/master/problems/number-of-strings-that-appear-as-substrings-in-word)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/number-of-strings-that-appear-as-substrings-in-word)

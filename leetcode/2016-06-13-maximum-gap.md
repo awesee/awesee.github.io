@@ -37,11 +37,11 @@ permalink:  /problems/maximum-gap/
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[桶排序](https://github.com/openset/leetcode/tree/master/tag/bucket-sort/README.md)]
-  [[基数排序](https://github.com/openset/leetcode/tree/master/tag/radix-sort/README.md)]
-  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[桶排序](https://github.com/awesee/leetcode/tree/main/tag/bucket-sort/README.md)]
+  [[基数排序](https://github.com/awesee/leetcode/tree/main/tag/radix-sort/README.md)]
+  [[排序](https://github.com/awesee/leetcode/tree/main/tag/sorting/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/maximum-gap)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/maximum-gap)

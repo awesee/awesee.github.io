@@ -63,9 +63,9 @@ authenticationManager.<code>countUnexpiredTokens</code>(15); // tokenId 为 "bbb
 {% endraw %}
 
 ### 相关话题
-  [[设计](https://github.com/awesee/leetcode/tree/master/tag/design/README.md)]
-  [[哈希表](https://github.com/awesee/leetcode/tree/master/tag/hash-table/README.md)]
+  [[设计](https://github.com/awesee/leetcode/tree/main/tag/design/README.md)]
+  [[哈希表](https://github.com/awesee/leetcode/tree/main/tag/hash-table/README.md)]
 
 ---
 
-## [解法](https://github.com/awesee/leetcode/tree/master/problems/design-authentication-manager)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/design-authentication-manager)

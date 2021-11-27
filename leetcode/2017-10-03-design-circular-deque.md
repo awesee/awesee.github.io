@@ -53,14 +53,14 @@ circularDeque.getFront();				// 返回 4
 {% endraw %}
 
 ### 相关话题
-  [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
-  [[队列](https://github.com/openset/leetcode/tree/master/tag/queue/README.md)]
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
+  [[设计](https://github.com/awesee/leetcode/tree/main/tag/design/README.md)]
+  [[队列](https://github.com/awesee/leetcode/tree/main/tag/queue/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[链表](https://github.com/awesee/leetcode/tree/main/tag/linked-list/README.md)]
 
 ### 相似题目
   1. [设计循环队列](/problems/design-circular-queue) (Medium)
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/design-circular-deque)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/design-circular-deque)

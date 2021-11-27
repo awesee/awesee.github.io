@@ -55,13 +55,13 @@ permalink:  /problems/top-k-frequent-words/
 {% endraw %}
 
 ### 相关话题
-  [[字典树](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)]
-  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
-  [[桶排序](https://github.com/openset/leetcode/tree/master/tag/bucket-sort/README.md)]
-  [[计数](https://github.com/openset/leetcode/tree/master/tag/counting/README.md)]
-  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
-  [[堆（优先队列）](https://github.com/openset/leetcode/tree/master/tag/heap-priority-queue/README.md)]
+  [[字典树](https://github.com/awesee/leetcode/tree/main/tag/trie/README.md)]
+  [[哈希表](https://github.com/awesee/leetcode/tree/main/tag/hash-table/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/main/tag/string/README.md)]
+  [[桶排序](https://github.com/awesee/leetcode/tree/main/tag/bucket-sort/README.md)]
+  [[计数](https://github.com/awesee/leetcode/tree/main/tag/counting/README.md)]
+  [[排序](https://github.com/awesee/leetcode/tree/main/tag/sorting/README.md)]
+  [[堆（优先队列）](https://github.com/awesee/leetcode/tree/main/tag/heap-priority-queue/README.md)]
 
 ### 相似题目
   1. [前 K 个高频元素](/problems/top-k-frequent-elements) (Medium)
@@ -69,4 +69,4 @@ permalink:  /problems/top-k-frequent-words/
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/top-k-frequent-words)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/top-k-frequent-words)

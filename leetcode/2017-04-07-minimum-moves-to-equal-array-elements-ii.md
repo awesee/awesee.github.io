@@ -31,9 +31,9 @@ permalink:  /problems/minimum-moves-to-equal-array-elements-ii/
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/awesee/leetcode/tree/master/tag/array/README.md)]
-  [[数学](https://github.com/awesee/leetcode/tree/master/tag/math/README.md)]
-  [[排序](https://github.com/awesee/leetcode/tree/master/tag/sorting/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[数学](https://github.com/awesee/leetcode/tree/main/tag/math/README.md)]
+  [[排序](https://github.com/awesee/leetcode/tree/main/tag/sorting/README.md)]
 
 ### 相似题目
   1. [最佳的碰头地点](/problems/best-meeting-point) (Hard)
@@ -41,4 +41,4 @@ permalink:  /problems/minimum-moves-to-equal-array-elements-ii/
 
 ---
 
-## [解法](https://github.com/awesee/leetcode/tree/master/problems/minimum-moves-to-equal-array-elements-ii)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/minimum-moves-to-equal-array-elements-ii)

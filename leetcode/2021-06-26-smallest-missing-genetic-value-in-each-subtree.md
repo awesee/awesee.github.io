@@ -73,11 +73,11 @@ permalink:  /problems/smallest-missing-genetic-value-in-each-subtree/
 {% endraw %}
 
 ### 相关话题
-  [[树](https://github.com/awesee/leetcode/tree/master/tag/tree/README.md)]
-  [[深度优先搜索](https://github.com/awesee/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[并查集](https://github.com/awesee/leetcode/tree/master/tag/union-find/README.md)]
-  [[动态规划](https://github.com/awesee/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[树](https://github.com/awesee/leetcode/tree/main/tag/tree/README.md)]
+  [[深度优先搜索](https://github.com/awesee/leetcode/tree/main/tag/depth-first-search/README.md)]
+  [[并查集](https://github.com/awesee/leetcode/tree/main/tag/union-find/README.md)]
+  [[动态规划](https://github.com/awesee/leetcode/tree/main/tag/dynamic-programming/README.md)]
 
 ---
 
-## [解法](https://github.com/awesee/leetcode/tree/master/problems/smallest-missing-genetic-value-in-each-subtree)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/smallest-missing-genetic-value-in-each-subtree)

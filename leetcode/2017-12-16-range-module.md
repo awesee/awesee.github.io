@@ -47,9 +47,9 @@ permalink:  /problems/range-module/
 {% endraw %}
 
 ### 相关话题
-  [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
-  [[线段树](https://github.com/openset/leetcode/tree/master/tag/segment-tree/README.md)]
-  [[有序集合](https://github.com/openset/leetcode/tree/master/tag/ordered-set/README.md)]
+  [[设计](https://github.com/awesee/leetcode/tree/main/tag/design/README.md)]
+  [[线段树](https://github.com/awesee/leetcode/tree/main/tag/segment-tree/README.md)]
+  [[有序集合](https://github.com/awesee/leetcode/tree/main/tag/ordered-set/README.md)]
 
 ### 相似题目
   1. [合并区间](/problems/merge-intervals) (Medium)
@@ -58,4 +58,4 @@ permalink:  /problems/range-module/
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/range-module)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/range-module)

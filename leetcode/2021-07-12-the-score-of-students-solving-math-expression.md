@@ -78,13 +78,13 @@ permalink:  /problems/the-score-of-students-solving-math-expression/
 {% endraw %}
 
 ### 相关话题
-  [[栈](https://github.com/awesee/leetcode/tree/master/tag/stack/README.md)]
-  [[记忆化搜索](https://github.com/awesee/leetcode/tree/master/tag/memoization/README.md)]
-  [[数组](https://github.com/awesee/leetcode/tree/master/tag/array/README.md)]
-  [[数学](https://github.com/awesee/leetcode/tree/master/tag/math/README.md)]
-  [[字符串](https://github.com/awesee/leetcode/tree/master/tag/string/README.md)]
-  [[动态规划](https://github.com/awesee/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[栈](https://github.com/awesee/leetcode/tree/main/tag/stack/README.md)]
+  [[记忆化搜索](https://github.com/awesee/leetcode/tree/main/tag/memoization/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[数学](https://github.com/awesee/leetcode/tree/main/tag/math/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/main/tag/string/README.md)]
+  [[动态规划](https://github.com/awesee/leetcode/tree/main/tag/dynamic-programming/README.md)]
 
 ---
 
-## [解法](https://github.com/awesee/leetcode/tree/master/problems/the-score-of-students-solving-math-expression)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/the-score-of-students-solving-math-expression)

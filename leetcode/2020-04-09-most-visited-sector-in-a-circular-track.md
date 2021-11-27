@@ -56,9 +56,9 @@ permalink:  /problems/most-visited-sector-in-a-circular-track/
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[模拟](https://github.com/openset/leetcode/tree/master/tag/simulation/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[模拟](https://github.com/awesee/leetcode/tree/main/tag/simulation/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/most-visited-sector-in-a-circular-track)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/most-visited-sector-in-a-circular-track)

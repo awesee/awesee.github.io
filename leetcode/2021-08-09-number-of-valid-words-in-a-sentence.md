@@ -71,8 +71,8 @@ permalink:  /problems/number-of-valid-words-in-a-sentence/
 {% endraw %}
 
 ### 相关话题
-  [[字符串](https://github.com/awesee/leetcode/tree/master/tag/string/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/main/tag/string/README.md)]
 
 ---
 
-## [解法](https://github.com/awesee/leetcode/tree/master/problems/number-of-valid-words-in-a-sentence)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/number-of-valid-words-in-a-sentence)

@@ -55,12 +55,12 @@ permalink:  /problems/koko-eating-bananas/
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[二分查找](https://github.com/awesee/leetcode/tree/main/tag/binary-search/README.md)]
 
 ### 相似题目
   1. [最小化去加油站的最大距离](/problems/minimize-max-distance-to-gas-station) (Hard)
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/koko-eating-bananas)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/koko-eating-bananas)

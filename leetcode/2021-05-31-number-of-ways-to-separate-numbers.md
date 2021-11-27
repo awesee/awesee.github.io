@@ -58,10 +58,10 @@ permalink:  /problems/number-of-ways-to-separate-numbers/
 {% endraw %}
 
 ### 相关话题
-  [[字符串](https://github.com/awesee/leetcode/tree/master/tag/string/README.md)]
-  [[动态规划](https://github.com/awesee/leetcode/tree/master/tag/dynamic-programming/README.md)]
-  [[后缀数组](https://github.com/awesee/leetcode/tree/master/tag/suffix-array/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/main/tag/string/README.md)]
+  [[动态规划](https://github.com/awesee/leetcode/tree/main/tag/dynamic-programming/README.md)]
+  [[后缀数组](https://github.com/awesee/leetcode/tree/main/tag/suffix-array/README.md)]
 
 ---
 
-## [解法](https://github.com/awesee/leetcode/tree/master/problems/number-of-ways-to-separate-numbers)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/number-of-ways-to-separate-numbers)

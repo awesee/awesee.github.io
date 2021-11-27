@@ -60,9 +60,9 @@ ID=2 的用户执行操作的分钟分别是：2 和 3 。因此，该用户的�
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[哈希表](https://github.com/awesee/leetcode/tree/main/tag/hash-table/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/finding-the-users-active-minutes)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/finding-the-users-active-minutes)

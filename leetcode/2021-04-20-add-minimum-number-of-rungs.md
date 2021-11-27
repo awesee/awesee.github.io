@@ -73,4 +73,4 @@ permalink:  /problems/add-minimum-number-of-rungs/
 
 ---
 
-## [解法](https://github.com/awesee/leetcode/tree/master/problems/add-minimum-number-of-rungs)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/add-minimum-number-of-rungs)

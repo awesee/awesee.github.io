@@ -48,8 +48,8 @@ permalink:  /problems/first-bad-version/
 {% endraw %}
 
 ### 相关话题
-  [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
-  [[交互](https://github.com/openset/leetcode/tree/master/tag/interactive/README.md)]
+  [[二分查找](https://github.com/awesee/leetcode/tree/main/tag/binary-search/README.md)]
+  [[交互](https://github.com/awesee/leetcode/tree/main/tag/interactive/README.md)]
 
 ### 相似题目
   1. [在排序数组中查找元素的第一个和最后一个位置](/problems/find-first-and-last-position-of-element-in-sorted-array) (Medium)
@@ -58,4 +58,4 @@ permalink:  /problems/first-bad-version/
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/first-bad-version)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/first-bad-version)

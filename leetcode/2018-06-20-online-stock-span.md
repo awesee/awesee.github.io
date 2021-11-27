@@ -51,11 +51,11 @@ S.next(85) 被调用并返回 6。
 {% endraw %}
 
 ### 相关话题
-  [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
-  [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
-  [[数据流](https://github.com/openset/leetcode/tree/master/tag/data-stream/README.md)]
-  [[单调栈](https://github.com/openset/leetcode/tree/master/tag/monotonic-stack/README.md)]
+  [[栈](https://github.com/awesee/leetcode/tree/main/tag/stack/README.md)]
+  [[设计](https://github.com/awesee/leetcode/tree/main/tag/design/README.md)]
+  [[数据流](https://github.com/awesee/leetcode/tree/main/tag/data-stream/README.md)]
+  [[单调栈](https://github.com/awesee/leetcode/tree/main/tag/monotonic-stack/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/online-stock-span)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/online-stock-span)

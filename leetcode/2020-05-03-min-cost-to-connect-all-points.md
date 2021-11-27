@@ -21,13 +21,13 @@ permalink:  /problems/min-cost-to-connect-all-points/
 
 <p><strong>示例 1：</strong></p>
 
-<p><img alt="" src="https://assets.leetcode.com/uploads/2020/08/26/d.png" style="height:268px; width:214px" /></p>
+<p><img alt="" src="https://assets.leetcode.com/uploads/2020/08/26/d.png" style="height:268px; width:214px; background:#e5e5e5" /></p>
 
 <pre>
 <strong>输入：</strong>points = [[0,0],[2,2],[3,10],[5,2],[7,0]]
 <strong>输出：</strong>20
 <strong>解释：
-</strong><img alt="" src="https://assets.leetcode.com/uploads/2020/08/26/c.png" style="height:268px; width:214px" />
+</strong><img alt="" src="https://assets.leetcode.com/uploads/2020/08/26/c.png" style="height:268px; width:214px; background:#e5e5e5" />
 我们可以按照上图所示连接所有点得到最小总费用，总费用为 20 。
 注意到任意两个点之间只有唯一一条路径互相到达。
 </pre>
@@ -73,10 +73,10 @@ permalink:  /problems/min-cost-to-connect-all-points/
 {% endraw %}
 
 ### 相关话题
-  [[并查集](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)]
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[最小生成树](https://github.com/openset/leetcode/tree/master/tag/minimum-spanning-tree/README.md)]
+  [[并查集](https://github.com/awesee/leetcode/tree/main/tag/union-find/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[最小生成树](https://github.com/awesee/leetcode/tree/main/tag/minimum-spanning-tree/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/min-cost-to-connect-all-points)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/min-cost-to-connect-all-points)

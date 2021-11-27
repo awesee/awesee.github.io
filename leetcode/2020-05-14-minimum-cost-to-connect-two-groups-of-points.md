@@ -66,12 +66,12 @@ permalink:  /problems/minimum-cost-to-connect-two-groups-of-points/
 {% endraw %}
 
 ### 相关话题
-  [[位运算](https://github.com/awesee/leetcode/tree/master/tag/bit-manipulation/README.md)]
-  [[数组](https://github.com/awesee/leetcode/tree/master/tag/array/README.md)]
-  [[动态规划](https://github.com/awesee/leetcode/tree/master/tag/dynamic-programming/README.md)]
-  [[状态压缩](https://github.com/awesee/leetcode/tree/master/tag/bitmask/README.md)]
-  [[矩阵](https://github.com/awesee/leetcode/tree/master/tag/matrix/README.md)]
+  [[位运算](https://github.com/awesee/leetcode/tree/main/tag/bit-manipulation/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[动态规划](https://github.com/awesee/leetcode/tree/main/tag/dynamic-programming/README.md)]
+  [[状态压缩](https://github.com/awesee/leetcode/tree/main/tag/bitmask/README.md)]
+  [[矩阵](https://github.com/awesee/leetcode/tree/main/tag/matrix/README.md)]
 
 ---
 
-## [解法](https://github.com/awesee/leetcode/tree/master/problems/minimum-cost-to-connect-two-groups-of-points)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/minimum-cost-to-connect-two-groups-of-points)

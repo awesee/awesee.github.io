@@ -79,13 +79,13 @@ permalink:  /problems/maximum-number-of-tasks-you-can-assign/
 {% endraw %}
 
 ### 相关话题
-  [[贪心](https://github.com/awesee/leetcode/tree/master/tag/greedy/README.md)]
-  [[队列](https://github.com/awesee/leetcode/tree/master/tag/queue/README.md)]
-  [[数组](https://github.com/awesee/leetcode/tree/master/tag/array/README.md)]
-  [[二分查找](https://github.com/awesee/leetcode/tree/master/tag/binary-search/README.md)]
-  [[排序](https://github.com/awesee/leetcode/tree/master/tag/sorting/README.md)]
-  [[单调队列](https://github.com/awesee/leetcode/tree/master/tag/monotonic-queue/README.md)]
+  [[贪心](https://github.com/awesee/leetcode/tree/main/tag/greedy/README.md)]
+  [[队列](https://github.com/awesee/leetcode/tree/main/tag/queue/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[二分查找](https://github.com/awesee/leetcode/tree/main/tag/binary-search/README.md)]
+  [[排序](https://github.com/awesee/leetcode/tree/main/tag/sorting/README.md)]
+  [[单调队列](https://github.com/awesee/leetcode/tree/main/tag/monotonic-queue/README.md)]
 
 ---
 
-## [解法](https://github.com/awesee/leetcode/tree/master/problems/maximum-number-of-tasks-you-can-assign)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/maximum-number-of-tasks-you-can-assign)

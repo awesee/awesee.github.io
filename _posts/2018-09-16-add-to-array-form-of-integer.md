@@ -62,8 +62,8 @@ permalink:  /problems/add-to-array-form-of-integer/
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/awesee/leetcode/tree/master/tag/array/README.md)]
-  [[数学](https://github.com/awesee/leetcode/tree/master/tag/math/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[数学](https://github.com/awesee/leetcode/tree/main/tag/math/README.md)]
 
 ### 相似题目
   1. [两数相加](/problems/add-two-numbers) (Medium)
@@ -73,4 +73,4 @@ permalink:  /problems/add-to-array-form-of-integer/
 
 ---
 
-## [解法](https://github.com/awesee/leetcode/tree/master/problems/add-to-array-form-of-integer)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/add-to-array-form-of-integer)

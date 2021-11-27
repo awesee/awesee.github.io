@@ -47,13 +47,13 @@ permalink:  /problems/largest-rectangle-in-histogram/
 {% endraw %}
 
 ### 相关话题
-  [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[单调栈](https://github.com/openset/leetcode/tree/master/tag/monotonic-stack/README.md)]
+  [[栈](https://github.com/awesee/leetcode/tree/main/tag/stack/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[单调栈](https://github.com/awesee/leetcode/tree/main/tag/monotonic-stack/README.md)]
 
 ### 相似题目
   1. [最大矩形](/problems/maximal-rectangle) (Hard)
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/largest-rectangle-in-histogram)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/largest-rectangle-in-histogram)

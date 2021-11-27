@@ -49,11 +49,11 @@ permalink:  /problems/convert-to-base-2/
 {% endraw %}
 
 ### 相关话题
-  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[数学](https://github.com/awesee/leetcode/tree/main/tag/math/README.md)]
 
 ### 相似题目
   1. [加密数字](/problems/encode-number) (Medium)
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/convert-to-base-2)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/convert-to-base-2)
