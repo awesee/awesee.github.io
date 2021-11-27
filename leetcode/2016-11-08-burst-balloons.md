@@ -47,12 +47,12 @@ coins =  3*1*5    +   3*5*8   +  1*3*8  + 1*8*1 = 167</pre>
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[动态规划](https://github.com/awesee/leetcode/tree/main/tag/dynamic-programming/README.md)]
 
 ### 相似题目
   1. [合并石头的最低成本](/problems/minimum-cost-to-merge-stones) (Hard)
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/burst-balloons)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/burst-balloons)

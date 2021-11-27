@@ -28,12 +28,12 @@ permalink:  /problems/move-zeroes/
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[双指针](https://github.com/awesee/leetcode/tree/main/tag/two-pointers/README.md)]
 
 ### 相似题目
   1. [移除元素](/problems/remove-element) (Easy)
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/move-zeroes)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/move-zeroes)

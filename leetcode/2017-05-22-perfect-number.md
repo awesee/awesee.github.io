@@ -59,11 +59,11 @@ permalink:  /problems/perfect-number/
 {% endraw %}
 
 ### 相关话题
-  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[数学](https://github.com/awesee/leetcode/tree/main/tag/math/README.md)]
 
 ### 相似题目
   1. [自除数](/problems/self-dividing-numbers) (Easy)
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/perfect-number)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/perfect-number)

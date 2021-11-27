@@ -40,9 +40,9 @@ permalink:  /problems/generate-parentheses/
 {% endraw %}
 
 ### 相关话题
-  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
-  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
-  [[回溯](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/main/tag/string/README.md)]
+  [[动态规划](https://github.com/awesee/leetcode/tree/main/tag/dynamic-programming/README.md)]
+  [[回溯](https://github.com/awesee/leetcode/tree/main/tag/backtracking/README.md)]
 
 ### 相似题目
   1. [电话号码的字母组合](/problems/letter-combinations-of-a-phone-number) (Medium)
@@ -50,4 +50,4 @@ permalink:  /problems/generate-parentheses/
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/generate-parentheses)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/generate-parentheses)

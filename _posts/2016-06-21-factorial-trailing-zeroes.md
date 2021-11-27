@@ -30,7 +30,7 @@ permalink:  /problems/factorial-trailing-zeroes/
 {% endraw %}
 
 ### 相关话题
-  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[数学](https://github.com/awesee/leetcode/tree/main/tag/math/README.md)]
 
 ### 相似题目
   1. [数字 1 的个数](/problems/number-of-digit-one) (Hard)
@@ -38,4 +38,4 @@ permalink:  /problems/factorial-trailing-zeroes/
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/factorial-trailing-zeroes)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/factorial-trailing-zeroes)

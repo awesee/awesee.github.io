@@ -35,13 +35,13 @@ permalink:  /problems/largest-triangle-area/
 {% endraw %}
 
 ### 相关话题
-  [[几何](https://github.com/openset/leetcode/tree/master/tag/geometry/README.md)]
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[几何](https://github.com/awesee/leetcode/tree/main/tag/geometry/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[数学](https://github.com/awesee/leetcode/tree/main/tag/math/README.md)]
 
 ### 相似题目
   1. [三角形的最大周长](/problems/largest-perimeter-triangle) (Easy)
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/largest-triangle-area)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/largest-triangle-area)

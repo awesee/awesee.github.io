@@ -51,8 +51,8 @@ permalink:  /problems/friend-circles/
 {% endraw %}
 
 ### 相关话题
-  [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[并查集](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)]
+  [[深度优先搜索](https://github.com/awesee/leetcode/tree/main/tag/depth-first-search/README.md)]
+  [[并查集](https://github.com/awesee/leetcode/tree/main/tag/union-find/README.md)]
 
 ### 相似题目
   1. [无向图中连通分量的数目](/problems/number-of-connected-components-in-an-undirected-graph) (Medium)
@@ -63,4 +63,4 @@ permalink:  /problems/friend-circles/
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/friend-circles)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/friend-circles)

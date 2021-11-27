@@ -67,12 +67,12 @@ AB -> 28
 {% endraw %}
 
 ### 相关话题
-  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[数学](https://github.com/awesee/leetcode/tree/main/tag/math/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/main/tag/string/README.md)]
 
 ### 相似题目
   1. [Excel 表列序号](/problems/excel-sheet-column-number) (Easy)
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/excel-sheet-column-title)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/excel-sheet-column-title)

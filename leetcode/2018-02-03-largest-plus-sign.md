@@ -105,12 +105,12 @@ permalink:  /problems/largest-plus-sign/
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[动态规划](https://github.com/awesee/leetcode/tree/main/tag/dynamic-programming/README.md)]
 
 ### 相似题目
   1. [最大正方形](/problems/maximal-square) (Medium)
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/largest-plus-sign)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/largest-plus-sign)

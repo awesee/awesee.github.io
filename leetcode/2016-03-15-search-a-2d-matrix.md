@@ -48,13 +48,13 @@ permalink:  /problems/search-a-2d-matrix/
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
-  [[矩阵](https://github.com/openset/leetcode/tree/master/tag/matrix/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[二分查找](https://github.com/awesee/leetcode/tree/main/tag/binary-search/README.md)]
+  [[矩阵](https://github.com/awesee/leetcode/tree/main/tag/matrix/README.md)]
 
 ### 相似题目
   1. [搜索二维矩阵 II](/problems/search-a-2d-matrix-ii) (Medium)
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/search-a-2d-matrix)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/search-a-2d-matrix)

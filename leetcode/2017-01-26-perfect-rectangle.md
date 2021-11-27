@@ -81,9 +81,9 @@ permalink:  /problems/perfect-rectangle/
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[扫描线](https://github.com/openset/leetcode/tree/master/tag/line-sweep/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[扫描线](https://github.com/awesee/leetcode/tree/main/tag/line-sweep/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/perfect-rectangle)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/perfect-rectangle)

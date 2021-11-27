@@ -31,10 +31,10 @@ permalink:  /problems/maximum-depth-of-binary-tree/
 {% endraw %}
 
 ### 相关话题
-  [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
-  [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
-  [[二叉树](https://github.com/openset/leetcode/tree/master/tag/binary-tree/README.md)]
+  [[树](https://github.com/awesee/leetcode/tree/main/tag/tree/README.md)]
+  [[深度优先搜索](https://github.com/awesee/leetcode/tree/main/tag/depth-first-search/README.md)]
+  [[广度优先搜索](https://github.com/awesee/leetcode/tree/main/tag/breadth-first-search/README.md)]
+  [[二叉树](https://github.com/awesee/leetcode/tree/main/tag/binary-tree/README.md)]
 
 ### 相似题目
   1. [平衡二叉树](/problems/balanced-binary-tree) (Easy)
@@ -43,4 +43,4 @@ permalink:  /problems/maximum-depth-of-binary-tree/
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/maximum-depth-of-binary-tree)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/maximum-depth-of-binary-tree)

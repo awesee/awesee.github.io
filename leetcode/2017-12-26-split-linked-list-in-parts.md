@@ -59,7 +59,7 @@ root = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10], k = 3
 {% endraw %}
 
 ### 相关话题
-  [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
+  [[链表](https://github.com/awesee/leetcode/tree/main/tag/linked-list/README.md)]
 
 ### 相似题目
   1. [旋转链表](/problems/rotate-list) (Medium)
@@ -67,4 +67,4 @@ root = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10], k = 3
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/split-linked-list-in-parts)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/split-linked-list-in-parts)

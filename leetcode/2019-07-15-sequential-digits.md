@@ -40,8 +40,8 @@ permalink:  /problems/sequential-digits/
 {% endraw %}
 
 ### 相关话题
-  [[枚举](https://github.com/openset/leetcode/tree/master/tag/enumeration/README.md)]
+  [[枚举](https://github.com/awesee/leetcode/tree/main/tag/enumeration/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/sequential-digits)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/sequential-digits)

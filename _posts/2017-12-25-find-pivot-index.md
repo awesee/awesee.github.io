@@ -62,12 +62,12 @@ permalink:  /problems/find-pivot-index/
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[前缀和](https://github.com/openset/leetcode/tree/master/tag/prefix-sum/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[前缀和](https://github.com/awesee/leetcode/tree/main/tag/prefix-sum/README.md)]
 
 ### 相似题目
   1. [和为K的子数组](/problems/subarray-sum-equals-k) (Medium)
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/find-pivot-index)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/find-pivot-index)

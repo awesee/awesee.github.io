@@ -59,8 +59,8 @@ Department 表：
 {% endraw %}
 
 ### 相关话题
-  [[数据库](https://github.com/openset/leetcode/tree/master/tag/database/README.md)]
+  [[数据库](https://github.com/awesee/leetcode/tree/main/tag/database/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/reformat-department-table)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/reformat-department-table)

@@ -48,10 +48,10 @@ permalink:  /problems/majority-element-ii/
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[计数](https://github.com/openset/leetcode/tree/master/tag/counting/README.md)]
-  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[哈希表](https://github.com/awesee/leetcode/tree/main/tag/hash-table/README.md)]
+  [[计数](https://github.com/awesee/leetcode/tree/main/tag/counting/README.md)]
+  [[排序](https://github.com/awesee/leetcode/tree/main/tag/sorting/README.md)]
 
 ### 相似题目
   1. [多数元素](/problems/majority-element) (Easy)
@@ -59,4 +59,4 @@ permalink:  /problems/majority-element-ii/
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/majority-element-ii)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/majority-element-ii)

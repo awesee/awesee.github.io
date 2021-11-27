@@ -51,8 +51,8 @@ permalink:  /problems/minimum-number-of-vertices-to-reach-all-nodes/
 {% endraw %}
 
 ### 相关话题
-  [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
+  [[图](https://github.com/awesee/leetcode/tree/main/tag/graph/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/minimum-number-of-vertices-to-reach-all-nodes)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/minimum-number-of-vertices-to-reach-all-nodes)

@@ -44,10 +44,10 @@ permalink:  /problems/ugly-number-ii/
 {% endraw %}
 
 ### 相关话题
-  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
-  [[堆（优先队列）](https://github.com/openset/leetcode/tree/master/tag/heap-priority-queue/README.md)]
+  [[哈希表](https://github.com/awesee/leetcode/tree/main/tag/hash-table/README.md)]
+  [[数学](https://github.com/awesee/leetcode/tree/main/tag/math/README.md)]
+  [[动态规划](https://github.com/awesee/leetcode/tree/main/tag/dynamic-programming/README.md)]
+  [[堆（优先队列）](https://github.com/awesee/leetcode/tree/main/tag/heap-priority-queue/README.md)]
 
 ### 相似题目
   1. [合并K个升序链表](/problems/merge-k-sorted-lists) (Hard)
@@ -58,4 +58,4 @@ permalink:  /problems/ugly-number-ii/
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/ugly-number-ii)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/ugly-number-ii)

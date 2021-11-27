@@ -53,10 +53,10 @@ solution.shuffle();    // 随机返回数组 [1, 2, 3] 打乱后的结果。例�
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[随机化](https://github.com/openset/leetcode/tree/master/tag/randomized/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[数学](https://github.com/awesee/leetcode/tree/main/tag/math/README.md)]
+  [[随机化](https://github.com/awesee/leetcode/tree/main/tag/randomized/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/shuffle-an-array)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/shuffle-an-array)

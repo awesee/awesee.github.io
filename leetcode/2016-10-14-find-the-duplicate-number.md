@@ -70,10 +70,10 @@ permalink:  /problems/find-the-duplicate-number/
 {% endraw %}
 
 ### 相关话题
-  [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
-  [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[位运算](https://github.com/awesee/leetcode/tree/main/tag/bit-manipulation/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[双指针](https://github.com/awesee/leetcode/tree/main/tag/two-pointers/README.md)]
+  [[二分查找](https://github.com/awesee/leetcode/tree/main/tag/binary-search/README.md)]
 
 ### 相似题目
   1. [缺失的第一个正数](/problems/first-missing-positive) (Hard)
@@ -84,4 +84,4 @@ permalink:  /problems/find-the-duplicate-number/
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/find-the-duplicate-number)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/find-the-duplicate-number)

@@ -63,12 +63,12 @@ permalink:  /problems/grid-illumination/
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[哈希表](https://github.com/awesee/leetcode/tree/main/tag/hash-table/README.md)]
 
 ### 相似题目
   1. [N 皇后](/problems/n-queens) (Hard)
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/grid-illumination)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/grid-illumination)

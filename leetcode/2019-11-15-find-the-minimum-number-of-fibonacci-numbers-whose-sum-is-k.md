@@ -57,8 +57,8 @@ permalink:  /problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-
 {% endraw %}
 
 ### 相关话题
-  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[贪心](https://github.com/awesee/leetcode/tree/main/tag/greedy/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k)

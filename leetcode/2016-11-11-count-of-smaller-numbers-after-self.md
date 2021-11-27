@@ -38,13 +38,13 @@ permalink:  /problems/count-of-smaller-numbers-after-self/
 {% endraw %}
 
 ### 相关话题
-  [[树状数组](https://github.com/openset/leetcode/tree/master/tag/binary-indexed-tree/README.md)]
-  [[线段树](https://github.com/openset/leetcode/tree/master/tag/segment-tree/README.md)]
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
-  [[分治](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]
-  [[有序集合](https://github.com/openset/leetcode/tree/master/tag/ordered-set/README.md)]
-  [[归并排序](https://github.com/openset/leetcode/tree/master/tag/merge-sort/README.md)]
+  [[树状数组](https://github.com/awesee/leetcode/tree/main/tag/binary-indexed-tree/README.md)]
+  [[线段树](https://github.com/awesee/leetcode/tree/main/tag/segment-tree/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[二分查找](https://github.com/awesee/leetcode/tree/main/tag/binary-search/README.md)]
+  [[分治](https://github.com/awesee/leetcode/tree/main/tag/divide-and-conquer/README.md)]
+  [[有序集合](https://github.com/awesee/leetcode/tree/main/tag/ordered-set/README.md)]
+  [[归并排序](https://github.com/awesee/leetcode/tree/main/tag/merge-sort/README.md)]
 
 ### 相似题目
   1. [区间和的个数](/problems/count-of-range-sum) (Hard)
@@ -53,4 +53,4 @@ permalink:  /problems/count-of-smaller-numbers-after-self/
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/count-of-smaller-numbers-after-self)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/count-of-smaller-numbers-after-self)

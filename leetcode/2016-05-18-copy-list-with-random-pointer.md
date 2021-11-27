@@ -78,12 +78,12 @@ permalink:  /problems/copy-list-with-random-pointer/
 {% endraw %}
 
 ### 相关话题
-  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
+  [[哈希表](https://github.com/awesee/leetcode/tree/main/tag/hash-table/README.md)]
+  [[链表](https://github.com/awesee/leetcode/tree/main/tag/linked-list/README.md)]
 
 ### 相似题目
   1. [克隆图](/problems/clone-graph) (Medium)
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/copy-list-with-random-pointer)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/copy-list-with-random-pointer)

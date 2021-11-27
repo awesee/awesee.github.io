@@ -45,11 +45,11 @@ bits = [1, 1, 1, 0]
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
 
 ### 相似题目
   1. [格雷编码](/problems/gray-code) (Medium)
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/1-bit-and-2-bit-characters)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/1-bit-and-2-bit-characters)

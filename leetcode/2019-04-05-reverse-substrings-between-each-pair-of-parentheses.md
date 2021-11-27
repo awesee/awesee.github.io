@@ -60,9 +60,9 @@ permalink:  /problems/reverse-substrings-between-each-pair-of-parentheses/
 {% endraw %}
 
 ### 相关话题
-  [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
-  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[栈](https://github.com/awesee/leetcode/tree/main/tag/stack/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/main/tag/string/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/reverse-substrings-between-each-pair-of-parentheses)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/reverse-substrings-between-each-pair-of-parentheses)

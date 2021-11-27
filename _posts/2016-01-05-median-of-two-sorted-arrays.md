@@ -72,10 +72,10 @@ permalink:  /problems/median-of-two-sorted-arrays/
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
-  [[分治](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[二分查找](https://github.com/awesee/leetcode/tree/main/tag/binary-search/README.md)]
+  [[分治](https://github.com/awesee/leetcode/tree/main/tag/divide-and-conquer/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/median-of-two-sorted-arrays)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/median-of-two-sorted-arrays)

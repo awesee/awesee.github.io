@@ -62,11 +62,11 @@ permalink:  /problems/implement-rand10-using-rand7/
 {% endraw %}
 
 ### 相关话题
-  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[拒绝采样](https://github.com/openset/leetcode/tree/master/tag/rejection-sampling/README.md)]
-  [[概率与统计](https://github.com/openset/leetcode/tree/master/tag/probability-and-statistics/README.md)]
-  [[随机化](https://github.com/openset/leetcode/tree/master/tag/randomized/README.md)]
+  [[数学](https://github.com/awesee/leetcode/tree/main/tag/math/README.md)]
+  [[拒绝采样](https://github.com/awesee/leetcode/tree/main/tag/rejection-sampling/README.md)]
+  [[概率与统计](https://github.com/awesee/leetcode/tree/main/tag/probability-and-statistics/README.md)]
+  [[随机化](https://github.com/awesee/leetcode/tree/main/tag/randomized/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/implement-rand10-using-rand7)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/implement-rand10-using-rand7)

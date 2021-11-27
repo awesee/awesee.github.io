@@ -38,12 +38,12 @@ permalink:  /problems/maximum-swap/
 {% endraw %}
 
 ### 相关话题
-  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
-  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[贪心](https://github.com/awesee/leetcode/tree/main/tag/greedy/README.md)]
+  [[数学](https://github.com/awesee/leetcode/tree/main/tag/math/README.md)]
 
 ### 相似题目
   1. [拼接最大数](/problems/create-maximum-number) (Hard)
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/maximum-swap)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/maximum-swap)

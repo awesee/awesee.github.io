@@ -47,9 +47,9 @@ k = <code>3</code>
 {% endraw %}
 
 ### 相关话题
-  [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
-  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
-  [[单调栈](https://github.com/openset/leetcode/tree/master/tag/monotonic-stack/README.md)]
+  [[栈](https://github.com/awesee/leetcode/tree/main/tag/stack/README.md)]
+  [[贪心](https://github.com/awesee/leetcode/tree/main/tag/greedy/README.md)]
+  [[单调栈](https://github.com/awesee/leetcode/tree/main/tag/monotonic-stack/README.md)]
 
 ### 相似题目
   1. [移掉 K 位数字](/problems/remove-k-digits) (Medium)
@@ -57,4 +57,4 @@ k = <code>3</code>
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/create-maximum-number)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/create-maximum-number)

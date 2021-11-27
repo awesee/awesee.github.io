@@ -118,9 +118,9 @@ class Node {
 {% endraw %}
 
 ### 相关话题
-  [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
-  [[分治](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]
+  [[树](https://github.com/awesee/leetcode/tree/main/tag/tree/README.md)]
+  [[分治](https://github.com/awesee/leetcode/tree/main/tag/divide-and-conquer/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/logical-or-of-two-binary-grids-represented-as-quad-trees)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/logical-or-of-two-binary-grids-represented-as-quad-trees)

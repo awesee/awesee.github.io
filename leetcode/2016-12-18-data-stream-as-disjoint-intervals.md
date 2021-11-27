@@ -33,9 +33,9 @@ permalink:  /problems/data-stream-as-disjoint-intervals/
 {% endraw %}
 
 ### 相关话题
-  [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
-  [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
-  [[有序集合](https://github.com/openset/leetcode/tree/master/tag/ordered-set/README.md)]
+  [[设计](https://github.com/awesee/leetcode/tree/main/tag/design/README.md)]
+  [[二分查找](https://github.com/awesee/leetcode/tree/main/tag/binary-search/README.md)]
+  [[有序集合](https://github.com/awesee/leetcode/tree/main/tag/ordered-set/README.md)]
 
 ### 相似题目
   1. [汇总区间](/problems/summary-ranges) (Easy)
@@ -44,4 +44,4 @@ permalink:  /problems/data-stream-as-disjoint-intervals/
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/data-stream-as-disjoint-intervals)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/data-stream-as-disjoint-intervals)

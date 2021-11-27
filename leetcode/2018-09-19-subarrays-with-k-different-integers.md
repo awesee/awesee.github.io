@@ -48,10 +48,10 @@ permalink:  /problems/subarrays-with-k-different-integers/
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[计数](https://github.com/openset/leetcode/tree/master/tag/counting/README.md)]
-  [[滑动窗口](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[哈希表](https://github.com/awesee/leetcode/tree/main/tag/hash-table/README.md)]
+  [[计数](https://github.com/awesee/leetcode/tree/main/tag/counting/README.md)]
+  [[滑动窗口](https://github.com/awesee/leetcode/tree/main/tag/sliding-window/README.md)]
 
 ### 相似题目
   1. [无重复字符的最长子串](/problems/longest-substring-without-repeating-characters) (Medium)
@@ -60,4 +60,4 @@ permalink:  /problems/subarrays-with-k-different-integers/
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/subarrays-with-k-different-integers)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/subarrays-with-k-different-integers)

@@ -54,10 +54,10 @@ recentCounter.ping(3002);  // requests = [1, <strong>100</strong>, <strong>3001<
 {% endraw %}
 
 ### 相关话题
-  [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
-  [[队列](https://github.com/openset/leetcode/tree/master/tag/queue/README.md)]
-  [[数据流](https://github.com/openset/leetcode/tree/master/tag/data-stream/README.md)]
+  [[设计](https://github.com/awesee/leetcode/tree/main/tag/design/README.md)]
+  [[队列](https://github.com/awesee/leetcode/tree/main/tag/queue/README.md)]
+  [[数据流](https://github.com/awesee/leetcode/tree/main/tag/data-stream/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/number-of-recent-calls)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/number-of-recent-calls)

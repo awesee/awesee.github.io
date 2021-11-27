@@ -50,10 +50,10 @@ permalink:  /problems/statistics-from-a-large-sample/
 {% endraw %}
 
 ### 相关话题
-  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
-  [[概率与统计](https://github.com/openset/leetcode/tree/master/tag/probability-and-statistics/README.md)]
+  [[数学](https://github.com/awesee/leetcode/tree/main/tag/math/README.md)]
+  [[双指针](https://github.com/awesee/leetcode/tree/main/tag/two-pointers/README.md)]
+  [[概率与统计](https://github.com/awesee/leetcode/tree/main/tag/probability-and-statistics/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/statistics-from-a-large-sample)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/statistics-from-a-large-sample)

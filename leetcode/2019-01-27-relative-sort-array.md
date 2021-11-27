@@ -43,11 +43,11 @@ permalink:  /problems/relative-sort-array/
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[计数排序](https://github.com/openset/leetcode/tree/master/tag/counting-sort/README.md)]
-  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[哈希表](https://github.com/awesee/leetcode/tree/main/tag/hash-table/README.md)]
+  [[计数排序](https://github.com/awesee/leetcode/tree/main/tag/counting-sort/README.md)]
+  [[排序](https://github.com/awesee/leetcode/tree/main/tag/sorting/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/relative-sort-array)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/relative-sort-array)

@@ -61,13 +61,13 @@ permalink:  /problems/longest-continuous-subarray-with-absolute-diff-less-than-o
 {% endraw %}
 
 ### 相关话题
-  [[队列](https://github.com/openset/leetcode/tree/master/tag/queue/README.md)]
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[有序集合](https://github.com/openset/leetcode/tree/master/tag/ordered-set/README.md)]
-  [[滑动窗口](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
-  [[单调队列](https://github.com/openset/leetcode/tree/master/tag/monotonic-queue/README.md)]
-  [[堆（优先队列）](https://github.com/openset/leetcode/tree/master/tag/heap-priority-queue/README.md)]
+  [[队列](https://github.com/awesee/leetcode/tree/main/tag/queue/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[有序集合](https://github.com/awesee/leetcode/tree/main/tag/ordered-set/README.md)]
+  [[滑动窗口](https://github.com/awesee/leetcode/tree/main/tag/sliding-window/README.md)]
+  [[单调队列](https://github.com/awesee/leetcode/tree/main/tag/monotonic-queue/README.md)]
+  [[堆（优先队列）](https://github.com/awesee/leetcode/tree/main/tag/heap-priority-queue/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit)

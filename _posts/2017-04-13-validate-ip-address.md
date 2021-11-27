@@ -75,11 +75,11 @@ permalink:  /problems/validate-ip-address/
 {% endraw %}
 
 ### 相关话题
-  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/main/tag/string/README.md)]
 
 ### 相似题目
   1. [IP 到 CIDR](/problems/ip-to-cidr) (Medium)
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/validate-ip-address)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/validate-ip-address)

@@ -45,8 +45,8 @@ permalink:  /problems/minimum-operations-to-make-array-equal/
 {% endraw %}
 
 ### 相关话题
-  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[数学](https://github.com/awesee/leetcode/tree/main/tag/math/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/minimum-operations-to-make-array-equal)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/minimum-operations-to-make-array-equal)

@@ -46,14 +46,14 @@ permalink:  /problems/generate-random-point-in-a-circle/
 {% endraw %}
 
 ### 相关话题
-  [[几何](https://github.com/openset/leetcode/tree/master/tag/geometry/README.md)]
-  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[拒绝采样](https://github.com/openset/leetcode/tree/master/tag/rejection-sampling/README.md)]
-  [[随机化](https://github.com/openset/leetcode/tree/master/tag/randomized/README.md)]
+  [[几何](https://github.com/awesee/leetcode/tree/main/tag/geometry/README.md)]
+  [[数学](https://github.com/awesee/leetcode/tree/main/tag/math/README.md)]
+  [[拒绝采样](https://github.com/awesee/leetcode/tree/main/tag/rejection-sampling/README.md)]
+  [[随机化](https://github.com/awesee/leetcode/tree/main/tag/randomized/README.md)]
 
 ### 相似题目
   1. [非重叠矩形中的随机点](/problems/random-point-in-non-overlapping-rectangles) (Medium)
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/generate-random-point-in-a-circle)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/generate-random-point-in-a-circle)

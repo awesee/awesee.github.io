@@ -68,8 +68,8 @@ for (int i = 0; i < len; i++) {
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[双指针](https://github.com/awesee/leetcode/tree/main/tag/two-pointers/README.md)]
 
 ### 相似题目
   1. [移除元素](/problems/remove-element) (Easy)
@@ -77,4 +77,4 @@ for (int i = 0; i < len; i++) {
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/remove-duplicates-from-sorted-array)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/remove-duplicates-from-sorted-array)

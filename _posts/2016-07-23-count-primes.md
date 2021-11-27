@@ -45,10 +45,10 @@ permalink:  /problems/count-primes/
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[枚举](https://github.com/openset/leetcode/tree/master/tag/enumeration/README.md)]
-  [[数论](https://github.com/openset/leetcode/tree/master/tag/number-theory/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[数学](https://github.com/awesee/leetcode/tree/main/tag/math/README.md)]
+  [[枚举](https://github.com/awesee/leetcode/tree/main/tag/enumeration/README.md)]
+  [[数论](https://github.com/awesee/leetcode/tree/main/tag/number-theory/README.md)]
 
 ### 相似题目
   1. [丑数](/problems/ugly-number) (Easy)
@@ -57,4 +57,4 @@ permalink:  /problems/count-primes/
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/count-primes)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/count-primes)

@@ -47,11 +47,11 @@ permalink:  /problems/kth-smallest-element-in-a-sorted-matrix/
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
-  [[矩阵](https://github.com/openset/leetcode/tree/master/tag/matrix/README.md)]
-  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
-  [[堆（优先队列）](https://github.com/openset/leetcode/tree/master/tag/heap-priority-queue/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[二分查找](https://github.com/awesee/leetcode/tree/main/tag/binary-search/README.md)]
+  [[矩阵](https://github.com/awesee/leetcode/tree/main/tag/matrix/README.md)]
+  [[排序](https://github.com/awesee/leetcode/tree/main/tag/sorting/README.md)]
+  [[堆（优先队列）](https://github.com/awesee/leetcode/tree/main/tag/heap-priority-queue/README.md)]
 
 ### 相似题目
   1. [查找和最小的K对数字](/problems/find-k-pairs-with-smallest-sums) (Medium)
@@ -61,4 +61,4 @@ permalink:  /problems/kth-smallest-element-in-a-sorted-matrix/
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/kth-smallest-element-in-a-sorted-matrix)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/kth-smallest-element-in-a-sorted-matrix)

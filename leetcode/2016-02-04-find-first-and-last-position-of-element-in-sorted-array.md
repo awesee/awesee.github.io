@@ -55,12 +55,12 @@ permalink:  /problems/find-first-and-last-position-of-element-in-sorted-array/
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[二分查找](https://github.com/awesee/leetcode/tree/main/tag/binary-search/README.md)]
 
 ### 相似题目
   1. [第一个错误的版本](/problems/first-bad-version) (Easy)
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/find-first-and-last-position-of-element-in-sorted-array)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/find-first-and-last-position-of-element-in-sorted-array)

@@ -63,9 +63,9 @@ permalink:  /problems/convert-binary-number-in-a-linked-list-to-integer/
 {% endraw %}
 
 ### 相关话题
-  [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
-  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[链表](https://github.com/awesee/leetcode/tree/main/tag/linked-list/README.md)]
+  [[数学](https://github.com/awesee/leetcode/tree/main/tag/math/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/convert-binary-number-in-a-linked-list-to-integer)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/convert-binary-number-in-a-linked-list-to-integer)

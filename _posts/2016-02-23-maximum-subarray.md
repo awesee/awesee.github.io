@@ -67,9 +67,9 @@ permalink:  /problems/maximum-subarray/
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[分治](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]
-  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[分治](https://github.com/awesee/leetcode/tree/main/tag/divide-and-conquer/README.md)]
+  [[动态规划](https://github.com/awesee/leetcode/tree/main/tag/dynamic-programming/README.md)]
 
 ### 相似题目
   1. [买卖股票的最佳时机](/problems/best-time-to-buy-and-sell-stock) (Easy)
@@ -79,4 +79,4 @@ permalink:  /problems/maximum-subarray/
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/maximum-subarray)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/maximum-subarray)

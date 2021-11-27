@@ -36,11 +36,11 @@ permalink:  /problems/self-dividing-numbers/
 {% endraw %}
 
 ### 相关话题
-  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[数学](https://github.com/awesee/leetcode/tree/main/tag/math/README.md)]
 
 ### 相似题目
   1. [完美数](/problems/perfect-number) (Easy)
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/self-dividing-numbers)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/self-dividing-numbers)

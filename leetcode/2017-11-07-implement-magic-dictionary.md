@@ -65,10 +65,10 @@ magicDictionary.search("leetcoded"); // 返回 False
 {% endraw %}
 
 ### 相关话题
-  [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
-  [[字典树](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)]
-  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[设计](https://github.com/awesee/leetcode/tree/main/tag/design/README.md)]
+  [[字典树](https://github.com/awesee/leetcode/tree/main/tag/trie/README.md)]
+  [[哈希表](https://github.com/awesee/leetcode/tree/main/tag/hash-table/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/main/tag/string/README.md)]
 
 ### 相似题目
   1. [实现 Trie (前缀树)](/problems/implement-trie-prefix-tree) (Medium)
@@ -76,4 +76,4 @@ magicDictionary.search("leetcoded"); // 返回 False
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/implement-magic-dictionary)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/implement-magic-dictionary)

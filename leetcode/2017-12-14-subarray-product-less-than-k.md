@@ -45,8 +45,8 @@ permalink:  /problems/subarray-product-less-than-k/
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[滑动窗口](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[滑动窗口](https://github.com/awesee/leetcode/tree/main/tag/sliding-window/README.md)]
 
 ### 相似题目
   1. [乘积最大子数组](/problems/maximum-product-subarray) (Medium)
@@ -56,4 +56,4 @@ permalink:  /problems/subarray-product-less-than-k/
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/subarray-product-less-than-k)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/subarray-product-less-than-k)

@@ -45,9 +45,9 @@ permalink:  /problems/find-n-unique-integers-sum-up-to-zero/
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[数学](https://github.com/awesee/leetcode/tree/main/tag/math/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/find-n-unique-integers-sum-up-to-zero)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/find-n-unique-integers-sum-up-to-zero)

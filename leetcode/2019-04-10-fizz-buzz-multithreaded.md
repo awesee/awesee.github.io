@@ -54,8 +54,8 @@ class FizzBuzz {
 {% endraw %}
 
 ### 相关话题
-  [[多线程](https://github.com/openset/leetcode/tree/master/tag/concurrency/README.md)]
+  [[多线程](https://github.com/awesee/leetcode/tree/main/tag/concurrency/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/fizz-buzz-multithreaded)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/fizz-buzz-multithreaded)

@@ -56,8 +56,8 @@ permalink:  /problems/check-if-all-1s-are-at-least-length-k-places-away/
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/check-if-all-1s-are-at-least-length-k-places-away)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/check-if-all-1s-are-at-least-length-k-places-away)

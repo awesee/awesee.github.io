@@ -43,9 +43,9 @@ permalink:  /problems/perfect-squares/
 {% endraw %}
 
 ### 相关话题
-  [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
-  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[广度优先搜索](https://github.com/awesee/leetcode/tree/main/tag/breadth-first-search/README.md)]
+  [[数学](https://github.com/awesee/leetcode/tree/main/tag/math/README.md)]
+  [[动态规划](https://github.com/awesee/leetcode/tree/main/tag/dynamic-programming/README.md)]
 
 ### 相似题目
   1. [计数质数](/problems/count-primes) (Easy)
@@ -53,4 +53,4 @@ permalink:  /problems/perfect-squares/
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/perfect-squares)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/perfect-squares)

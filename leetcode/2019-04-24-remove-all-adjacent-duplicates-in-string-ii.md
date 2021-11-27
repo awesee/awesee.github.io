@@ -55,9 +55,9 @@ permalink:  /problems/remove-all-adjacent-duplicates-in-string-ii/
 {% endraw %}
 
 ### 相关话题
-  [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
-  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[栈](https://github.com/awesee/leetcode/tree/main/tag/stack/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/main/tag/string/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/remove-all-adjacent-duplicates-in-string-ii)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/remove-all-adjacent-duplicates-in-string-ii)

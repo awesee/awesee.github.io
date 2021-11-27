@@ -27,9 +27,9 @@ permalink:  /problems/peeking-iterator/
 {% endraw %}
 
 ### 相关话题
-  [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[迭代器](https://github.com/openset/leetcode/tree/master/tag/iterator/README.md)]
+  [[设计](https://github.com/awesee/leetcode/tree/main/tag/design/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[迭代器](https://github.com/awesee/leetcode/tree/main/tag/iterator/README.md)]
 
 ### 相似题目
   1. [二叉搜索树迭代器](/problems/binary-search-tree-iterator) (Medium)
@@ -38,4 +38,4 @@ permalink:  /problems/peeking-iterator/
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/peeking-iterator)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/peeking-iterator)

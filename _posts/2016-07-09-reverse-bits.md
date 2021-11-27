@@ -72,8 +72,8 @@ permalink:  /problems/reverse-bits/
 {% endraw %}
 
 ### 相关话题
-  [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
-  [[分治](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]
+  [[位运算](https://github.com/awesee/leetcode/tree/main/tag/bit-manipulation/README.md)]
+  [[分治](https://github.com/awesee/leetcode/tree/main/tag/divide-and-conquer/README.md)]
 
 ### 相似题目
   1. [整数反转](/problems/reverse-integer) (Easy)
@@ -81,4 +81,4 @@ permalink:  /problems/reverse-bits/
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/reverse-bits)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/reverse-bits)

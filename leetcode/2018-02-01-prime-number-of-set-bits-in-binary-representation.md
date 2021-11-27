@@ -51,12 +51,12 @@ permalink:  /problems/prime-number-of-set-bits-in-binary-representation/
 {% endraw %}
 
 ### 相关话题
-  [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
-  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[位运算](https://github.com/awesee/leetcode/tree/main/tag/bit-manipulation/README.md)]
+  [[数学](https://github.com/awesee/leetcode/tree/main/tag/math/README.md)]
 
 ### 相似题目
   1. [位1的个数](/problems/number-of-1-bits) (Easy)
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/prime-number-of-set-bits-in-binary-representation)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/prime-number-of-set-bits-in-binary-representation)

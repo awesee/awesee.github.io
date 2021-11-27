@@ -54,12 +54,12 @@ permalink:  /problems/swap-nodes-in-pairs/
 {% endraw %}
 
 ### 相关话题
-  [[递归](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]
-  [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
+  [[递归](https://github.com/awesee/leetcode/tree/main/tag/recursion/README.md)]
+  [[链表](https://github.com/awesee/leetcode/tree/main/tag/linked-list/README.md)]
 
 ### 相似题目
   1. [K 个一组翻转链表](/problems/reverse-nodes-in-k-group) (Hard)
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/swap-nodes-in-pairs)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/swap-nodes-in-pairs)

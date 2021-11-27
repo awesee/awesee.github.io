@@ -43,13 +43,13 @@ permalink:  /problems/longest-consecutive-sequence/
 {% endraw %}
 
 ### 相关话题
-  [[并查集](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)]
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[并查集](https://github.com/awesee/leetcode/tree/main/tag/union-find/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[哈希表](https://github.com/awesee/leetcode/tree/main/tag/hash-table/README.md)]
 
 ### 相似题目
   1. [二叉树最长连续序列](/problems/binary-tree-longest-consecutive-sequence) (Medium)
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/longest-consecutive-sequence)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/longest-consecutive-sequence)

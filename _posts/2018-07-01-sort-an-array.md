@@ -42,15 +42,15 @@ permalink:  /problems/sort-an-array/
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[分治](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]
-  [[桶排序](https://github.com/openset/leetcode/tree/master/tag/bucket-sort/README.md)]
-  [[计数排序](https://github.com/openset/leetcode/tree/master/tag/counting-sort/README.md)]
-  [[基数排序](https://github.com/openset/leetcode/tree/master/tag/radix-sort/README.md)]
-  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
-  [[堆（优先队列）](https://github.com/openset/leetcode/tree/master/tag/heap-priority-queue/README.md)]
-  [[归并排序](https://github.com/openset/leetcode/tree/master/tag/merge-sort/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[分治](https://github.com/awesee/leetcode/tree/main/tag/divide-and-conquer/README.md)]
+  [[桶排序](https://github.com/awesee/leetcode/tree/main/tag/bucket-sort/README.md)]
+  [[计数排序](https://github.com/awesee/leetcode/tree/main/tag/counting-sort/README.md)]
+  [[基数排序](https://github.com/awesee/leetcode/tree/main/tag/radix-sort/README.md)]
+  [[排序](https://github.com/awesee/leetcode/tree/main/tag/sorting/README.md)]
+  [[堆（优先队列）](https://github.com/awesee/leetcode/tree/main/tag/heap-priority-queue/README.md)]
+  [[归并排序](https://github.com/awesee/leetcode/tree/main/tag/merge-sort/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/sort-an-array)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/sort-an-array)

@@ -22,9 +22,9 @@ permalink:  /problems/lexicographical-numbers/
 {% endraw %}
 
 ### 相关话题
-  [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[字典树](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)]
+  [[深度优先搜索](https://github.com/awesee/leetcode/tree/main/tag/depth-first-search/README.md)]
+  [[字典树](https://github.com/awesee/leetcode/tree/main/tag/trie/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/lexicographical-numbers)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/lexicographical-numbers)

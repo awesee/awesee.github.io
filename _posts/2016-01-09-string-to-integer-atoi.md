@@ -122,7 +122,7 @@ permalink:  /problems/string-to-integer-atoi/
 {% endraw %}
 
 ### 相关话题
-  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/main/tag/string/README.md)]
 
 ### 相似题目
   1. [整数反转](/problems/reverse-integer) (Easy)
@@ -130,4 +130,4 @@ permalink:  /problems/string-to-integer-atoi/
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/string-to-integer-atoi)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/string-to-integer-atoi)

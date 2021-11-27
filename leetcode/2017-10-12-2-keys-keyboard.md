@@ -41,8 +41,8 @@ permalink:  /problems/2-keys-keyboard/
 {% endraw %}
 
 ### 相关话题
-  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[数学](https://github.com/awesee/leetcode/tree/main/tag/math/README.md)]
+  [[动态规划](https://github.com/awesee/leetcode/tree/main/tag/dynamic-programming/README.md)]
 
 ### 相似题目
   1. [4键键盘](/problems/4-keys-keyboard) (Medium)
@@ -50,4 +50,4 @@ permalink:  /problems/2-keys-keyboard/
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/2-keys-keyboard)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/2-keys-keyboard)

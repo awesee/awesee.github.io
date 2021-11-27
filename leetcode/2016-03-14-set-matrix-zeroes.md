@@ -51,13 +51,13 @@ permalink:  /problems/set-matrix-zeroes/
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[矩阵](https://github.com/openset/leetcode/tree/master/tag/matrix/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[哈希表](https://github.com/awesee/leetcode/tree/main/tag/hash-table/README.md)]
+  [[矩阵](https://github.com/awesee/leetcode/tree/main/tag/matrix/README.md)]
 
 ### 相似题目
   1. [生命游戏](/problems/game-of-life) (Medium)
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/set-matrix-zeroes)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/set-matrix-zeroes)

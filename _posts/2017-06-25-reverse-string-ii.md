@@ -47,8 +47,8 @@ permalink:  /problems/reverse-string-ii/
 {% endraw %}
 
 ### 相关话题
-  [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
-  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[双指针](https://github.com/awesee/leetcode/tree/main/tag/two-pointers/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/main/tag/string/README.md)]
 
 ### 相似题目
   1. [反转字符串](/problems/reverse-string) (Easy)
@@ -56,4 +56,4 @@ permalink:  /problems/reverse-string-ii/
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/reverse-string-ii)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/reverse-string-ii)

@@ -54,11 +54,11 @@ permalink:  /problems/divisor-game/
 {% endraw %}
 
 ### 相关话题
-  [[脑筋急转弯](https://github.com/openset/leetcode/tree/master/tag/brainteaser/README.md)]
-  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
-  [[博弈](https://github.com/openset/leetcode/tree/master/tag/game-theory/README.md)]
+  [[脑筋急转弯](https://github.com/awesee/leetcode/tree/main/tag/brainteaser/README.md)]
+  [[数学](https://github.com/awesee/leetcode/tree/main/tag/math/README.md)]
+  [[动态规划](https://github.com/awesee/leetcode/tree/main/tag/dynamic-programming/README.md)]
+  [[博弈](https://github.com/awesee/leetcode/tree/main/tag/game-theory/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/divisor-game)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/divisor-game)

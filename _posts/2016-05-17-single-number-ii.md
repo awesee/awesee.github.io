@@ -46,8 +46,8 @@ permalink:  /problems/single-number-ii/
 {% endraw %}
 
 ### 相关话题
-  [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[位运算](https://github.com/awesee/leetcode/tree/main/tag/bit-manipulation/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
 
 ### 相似题目
   1. [只出现一次的数字](/problems/single-number) (Easy)
@@ -55,4 +55,4 @@ permalink:  /problems/single-number-ii/
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/single-number-ii)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/single-number-ii)

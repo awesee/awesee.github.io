@@ -39,9 +39,9 @@ permalink:  /problems/binary-tree-level-order-traversal/
 {% endraw %}
 
 ### 相关话题
-  [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
-  [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
-  [[二叉树](https://github.com/openset/leetcode/tree/master/tag/binary-tree/README.md)]
+  [[树](https://github.com/awesee/leetcode/tree/main/tag/tree/README.md)]
+  [[广度优先搜索](https://github.com/awesee/leetcode/tree/main/tag/breadth-first-search/README.md)]
+  [[二叉树](https://github.com/awesee/leetcode/tree/main/tag/binary-tree/README.md)]
 
 ### 相似题目
   1. [二叉树的锯齿形层序遍历](/problems/binary-tree-zigzag-level-order-traversal) (Medium)
@@ -54,4 +54,4 @@ permalink:  /problems/binary-tree-level-order-traversal/
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/binary-tree-level-order-traversal)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/binary-tree-level-order-traversal)

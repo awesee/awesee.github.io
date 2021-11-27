@@ -49,12 +49,12 @@ permalink:  /problems/isomorphic-strings/
 {% endraw %}
 
 ### 相关话题
-  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[哈希表](https://github.com/awesee/leetcode/tree/main/tag/hash-table/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/main/tag/string/README.md)]
 
 ### 相似题目
   1. [单词规律](/problems/word-pattern) (Easy)
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/isomorphic-strings)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/isomorphic-strings)

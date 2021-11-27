@@ -62,11 +62,11 @@ permalink:  /problems/binary-number-with-alternating-bits/
 {% endraw %}
 
 ### 相关话题
-  [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
+  [[位运算](https://github.com/awesee/leetcode/tree/main/tag/bit-manipulation/README.md)]
 
 ### 相似题目
   1. [位1的个数](/problems/number-of-1-bits) (Easy)
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/binary-number-with-alternating-bits)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/binary-number-with-alternating-bits)

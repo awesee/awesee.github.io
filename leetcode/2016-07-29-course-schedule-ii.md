@@ -53,10 +53,10 @@ permalink:  /problems/course-schedule-ii/
 {% endraw %}
 
 ### 相关话题
-  [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
-  [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
-  [[拓扑排序](https://github.com/openset/leetcode/tree/master/tag/topological-sort/README.md)]
+  [[深度优先搜索](https://github.com/awesee/leetcode/tree/main/tag/depth-first-search/README.md)]
+  [[广度优先搜索](https://github.com/awesee/leetcode/tree/main/tag/breadth-first-search/README.md)]
+  [[图](https://github.com/awesee/leetcode/tree/main/tag/graph/README.md)]
+  [[拓扑排序](https://github.com/awesee/leetcode/tree/main/tag/topological-sort/README.md)]
 
 ### 相似题目
   1. [课程表](/problems/course-schedule) (Medium)
@@ -67,4 +67,4 @@ permalink:  /problems/course-schedule-ii/
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/course-schedule-ii)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/course-schedule-ii)

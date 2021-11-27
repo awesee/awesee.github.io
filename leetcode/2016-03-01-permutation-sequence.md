@@ -61,8 +61,8 @@ permalink:  /problems/permutation-sequence/
 {% endraw %}
 
 ### 相关话题
-  [[递归](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]
-  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[递归](https://github.com/awesee/leetcode/tree/main/tag/recursion/README.md)]
+  [[数学](https://github.com/awesee/leetcode/tree/main/tag/math/README.md)]
 
 ### 相似题目
   1. [下一个排列](/problems/next-permutation) (Medium)
@@ -70,4 +70,4 @@ permalink:  /problems/permutation-sequence/
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/permutation-sequence)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/permutation-sequence)

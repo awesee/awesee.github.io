@@ -50,15 +50,15 @@ randomSet.getRandom();
 {% endraw %}
 
 ### 相关话题
-  [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[随机化](https://github.com/openset/leetcode/tree/master/tag/randomized/README.md)]
+  [[设计](https://github.com/awesee/leetcode/tree/main/tag/design/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/main/tag/array/README.md)]
+  [[哈希表](https://github.com/awesee/leetcode/tree/main/tag/hash-table/README.md)]
+  [[数学](https://github.com/awesee/leetcode/tree/main/tag/math/README.md)]
+  [[随机化](https://github.com/awesee/leetcode/tree/main/tag/randomized/README.md)]
 
 ### 相似题目
   1. [O(1) 时间插入、删除和获取随机元素 - 允许重复](/problems/insert-delete-getrandom-o1-duplicates-allowed) (Hard)
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/insert-delete-getrandom-o1)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/insert-delete-getrandom-o1)

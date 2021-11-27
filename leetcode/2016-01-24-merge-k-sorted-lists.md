@@ -59,10 +59,10 @@ permalink:  /problems/merge-k-sorted-lists/
 {% endraw %}
 
 ### 相关话题
-  [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
-  [[分治](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]
-  [[堆（优先队列）](https://github.com/openset/leetcode/tree/master/tag/heap-priority-queue/README.md)]
-  [[归并排序](https://github.com/openset/leetcode/tree/master/tag/merge-sort/README.md)]
+  [[链表](https://github.com/awesee/leetcode/tree/main/tag/linked-list/README.md)]
+  [[分治](https://github.com/awesee/leetcode/tree/main/tag/divide-and-conquer/README.md)]
+  [[堆（优先队列）](https://github.com/awesee/leetcode/tree/main/tag/heap-priority-queue/README.md)]
+  [[归并排序](https://github.com/awesee/leetcode/tree/main/tag/merge-sort/README.md)]
 
 ### 相似题目
   1. [合并两个有序链表](/problems/merge-two-sorted-lists) (Easy)
@@ -70,4 +70,4 @@ permalink:  /problems/merge-k-sorted-lists/
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/merge-k-sorted-lists)
+## [解法](https://github.com/awesee/leetcode/tree/main/problems/merge-k-sorted-lists)
