@@ -42,11 +42,11 @@ permalink:  /problems/remove-duplicate-letters/
 {% endraw %}
 
 ### 相关话题
-  [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
-  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
-  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
-  [[单调栈](https://github.com/openset/leetcode/tree/master/tag/monotonic-stack/README.md)]
+  [[栈](https://github.com/awesee/leetcode/tree/master/tag/stack/README.md)]
+  [[贪心](https://github.com/awesee/leetcode/tree/master/tag/greedy/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/master/tag/string/README.md)]
+  [[单调栈](https://github.com/awesee/leetcode/tree/master/tag/monotonic-stack/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/remove-duplicate-letters)
+## [解法](https://github.com/awesee/leetcode/tree/master/problems/remove-duplicate-letters)

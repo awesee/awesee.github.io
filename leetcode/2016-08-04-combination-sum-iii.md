@@ -35,12 +35,12 @@ permalink:  /problems/combination-sum-iii/
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[回溯](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/master/tag/array/README.md)]
+  [[回溯](https://github.com/awesee/leetcode/tree/master/tag/backtracking/README.md)]
 
 ### 相似题目
   1. [组合总和](/problems/combination-sum) (Medium)
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/combination-sum-iii)
+## [解法](https://github.com/awesee/leetcode/tree/master/problems/combination-sum-iii)

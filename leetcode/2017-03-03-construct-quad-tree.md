@@ -109,11 +109,11 @@ topRight 具有不同的值，因此我们将其再分为 4 个子网格，这�
 {% endraw %}
 
 ### 相关话题
-  [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[分治](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]
-  [[矩阵](https://github.com/openset/leetcode/tree/master/tag/matrix/README.md)]
+  [[树](https://github.com/awesee/leetcode/tree/master/tag/tree/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/master/tag/array/README.md)]
+  [[分治](https://github.com/awesee/leetcode/tree/master/tag/divide-and-conquer/README.md)]
+  [[矩阵](https://github.com/awesee/leetcode/tree/master/tag/matrix/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/construct-quad-tree)
+## [解法](https://github.com/awesee/leetcode/tree/master/problems/construct-quad-tree)

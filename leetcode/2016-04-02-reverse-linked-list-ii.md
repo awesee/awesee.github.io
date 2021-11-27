@@ -46,11 +46,11 @@ permalink:  /problems/reverse-linked-list-ii/
 {% endraw %}
 
 ### 相关话题
-  [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
+  [[链表](https://github.com/awesee/leetcode/tree/master/tag/linked-list/README.md)]
 
 ### 相似题目
   1. [反转链表](/problems/reverse-linked-list) (Easy)
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/reverse-linked-list-ii)
+## [解法](https://github.com/awesee/leetcode/tree/master/problems/reverse-linked-list-ii)

@@ -3,7 +3,7 @@ layout:     single
 title:      "绝对差值和"
 date:       2020-12-23 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Greedy, Array, Binary Search, Ordered Set]
+tags:       [Array, Binary Search, Ordered Set, Sorting]
 permalink:  /problems/minimum-absolute-sum-difference/
 ---
 
@@ -70,11 +70,11 @@ permalink:  /problems/minimum-absolute-sum-difference/
 {% endraw %}
 
 ### 相关话题
-  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
-  [[有序集合](https://github.com/openset/leetcode/tree/master/tag/ordered-set/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/master/tag/array/README.md)]
+  [[二分查找](https://github.com/awesee/leetcode/tree/master/tag/binary-search/README.md)]
+  [[有序集合](https://github.com/awesee/leetcode/tree/master/tag/ordered-set/README.md)]
+  [[排序](https://github.com/awesee/leetcode/tree/master/tag/sorting/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/minimum-absolute-sum-difference)
+## [解法](https://github.com/awesee/leetcode/tree/master/problems/minimum-absolute-sum-difference)

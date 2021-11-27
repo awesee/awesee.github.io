@@ -45,8 +45,8 @@ permalink:  /problems/champagne-tower/
 {% endraw %}
 
 ### 相关话题
-  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[动态规划](https://github.com/awesee/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/champagne-tower)
+## [解法](https://github.com/awesee/leetcode/tree/master/problems/champagne-tower)

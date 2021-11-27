@@ -72,11 +72,11 @@ permalink:  /problems/minimum-possible-integer-after-at-most-k-adjacent-swaps-on
 {% endraw %}
 
 ### 相关话题
-  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
-  [[树状数组](https://github.com/openset/leetcode/tree/master/tag/binary-indexed-tree/README.md)]
-  [[线段树](https://github.com/openset/leetcode/tree/master/tag/segment-tree/README.md)]
-  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[贪心](https://github.com/awesee/leetcode/tree/master/tag/greedy/README.md)]
+  [[树状数组](https://github.com/awesee/leetcode/tree/master/tag/binary-indexed-tree/README.md)]
+  [[线段树](https://github.com/awesee/leetcode/tree/master/tag/segment-tree/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/master/tag/string/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits)
+## [解法](https://github.com/awesee/leetcode/tree/master/problems/minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits)

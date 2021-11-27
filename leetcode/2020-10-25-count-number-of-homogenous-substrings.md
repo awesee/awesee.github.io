@@ -57,9 +57,9 @@ permalink:  /problems/count-number-of-homogenous-substrings/
 {% endraw %}
 
 ### 相关话题
-  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[数学](https://github.com/awesee/leetcode/tree/master/tag/math/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/master/tag/string/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/count-number-of-homogenous-substrings)
+## [解法](https://github.com/awesee/leetcode/tree/master/problems/count-number-of-homogenous-substrings)

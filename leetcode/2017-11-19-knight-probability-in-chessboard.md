@@ -52,11 +52,11 @@ permalink:  /problems/knight-probability-in-chessboard/
 {% endraw %}
 
 ### 相关话题
-  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[动态规划](https://github.com/awesee/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### 相似题目
   1. [出界的路径数](/problems/out-of-boundary-paths) (Medium)
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/knight-probability-in-chessboard)
+## [解法](https://github.com/awesee/leetcode/tree/master/problems/knight-probability-in-chessboard)

@@ -61,11 +61,11 @@ permalink:  /problems/reordered-power-of-2/
 {% endraw %}
 
 ### 相关话题
-  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[计数](https://github.com/openset/leetcode/tree/master/tag/counting/README.md)]
-  [[枚举](https://github.com/openset/leetcode/tree/master/tag/enumeration/README.md)]
-  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
+  [[数学](https://github.com/awesee/leetcode/tree/master/tag/math/README.md)]
+  [[计数](https://github.com/awesee/leetcode/tree/master/tag/counting/README.md)]
+  [[枚举](https://github.com/awesee/leetcode/tree/master/tag/enumeration/README.md)]
+  [[排序](https://github.com/awesee/leetcode/tree/master/tag/sorting/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/reordered-power-of-2)
+## [解法](https://github.com/awesee/leetcode/tree/master/problems/reordered-power-of-2)

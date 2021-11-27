@@ -51,10 +51,10 @@ permalink:  /problems/construct-string-from-binary-tree/
 {% endraw %}
 
 ### 相关话题
-  [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
-  [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
-  [[二叉树](https://github.com/openset/leetcode/tree/master/tag/binary-tree/README.md)]
+  [[树](https://github.com/awesee/leetcode/tree/master/tag/tree/README.md)]
+  [[深度优先搜索](https://github.com/awesee/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/master/tag/string/README.md)]
+  [[二叉树](https://github.com/awesee/leetcode/tree/master/tag/binary-tree/README.md)]
 
 ### 相似题目
   1. [从字符串生成二叉树](/problems/construct-binary-tree-from-string) (Medium)
@@ -62,4 +62,4 @@ permalink:  /problems/construct-string-from-binary-tree/
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/construct-string-from-binary-tree)
+## [解法](https://github.com/awesee/leetcode/tree/master/problems/construct-string-from-binary-tree)

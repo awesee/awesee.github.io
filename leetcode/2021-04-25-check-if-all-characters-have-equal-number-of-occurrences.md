@@ -44,10 +44,10 @@ permalink:  /problems/check-if-all-characters-have-equal-number-of-occurrences/
 {% endraw %}
 
 ### 相关话题
-  [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
-  [[计数](https://github.com/openset/leetcode/tree/master/tag/counting/README.md)]
+  [[哈希表](https://github.com/awesee/leetcode/tree/master/tag/hash-table/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/master/tag/string/README.md)]
+  [[计数](https://github.com/awesee/leetcode/tree/master/tag/counting/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/check-if-all-characters-have-equal-number-of-occurrences)
+## [解法](https://github.com/awesee/leetcode/tree/master/problems/check-if-all-characters-have-equal-number-of-occurrences)

@@ -31,8 +31,8 @@ permalink:  /problems/maximum-product-subarray/
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/master/tag/array/README.md)]
+  [[动态规划](https://github.com/awesee/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### 相似题目
   1. [最大子序和](/problems/maximum-subarray) (Easy)
@@ -43,4 +43,4 @@ permalink:  /problems/maximum-product-subarray/
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/maximum-product-subarray)
+## [解法](https://github.com/awesee/leetcode/tree/master/problems/maximum-product-subarray)

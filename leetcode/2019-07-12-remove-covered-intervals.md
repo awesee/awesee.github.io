@@ -40,9 +40,9 @@ permalink:  /problems/remove-covered-intervals/
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/master/tag/array/README.md)]
+  [[排序](https://github.com/awesee/leetcode/tree/master/tag/sorting/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/remove-covered-intervals)
+## [解法](https://github.com/awesee/leetcode/tree/master/problems/remove-covered-intervals)

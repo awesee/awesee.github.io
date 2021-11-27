@@ -48,11 +48,11 @@ AddressId 是上表主键
 {% endraw %}
 
 ### 相关话题
-  [[数据库](https://github.com/openset/leetcode/tree/master/tag/database/README.md)]
+  [[数据库](https://github.com/awesee/leetcode/tree/master/tag/database/README.md)]
 
 ### 相似题目
   1. [员工奖金](/problems/employee-bonus) (Easy)
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/combine-two-tables)
+## [解法](https://github.com/awesee/leetcode/tree/master/problems/combine-two-tables)

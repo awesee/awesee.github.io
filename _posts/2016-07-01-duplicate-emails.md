@@ -38,8 +38,8 @@ permalink:  /problems/duplicate-emails/
 {% endraw %}
 
 ### 相关话题
-  [[数据库](https://github.com/openset/leetcode/tree/master/tag/database/README.md)]
+  [[数据库](https://github.com/awesee/leetcode/tree/master/tag/database/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/duplicate-emails)
+## [解法](https://github.com/awesee/leetcode/tree/master/problems/duplicate-emails)

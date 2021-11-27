@@ -63,11 +63,11 @@ permalink:  /problems/find-the-student-that-will-replace-the-chalk/
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
-  [[前缀和](https://github.com/openset/leetcode/tree/master/tag/prefix-sum/README.md)]
-  [[模拟](https://github.com/openset/leetcode/tree/master/tag/simulation/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/master/tag/array/README.md)]
+  [[二分查找](https://github.com/awesee/leetcode/tree/master/tag/binary-search/README.md)]
+  [[前缀和](https://github.com/awesee/leetcode/tree/master/tag/prefix-sum/README.md)]
+  [[模拟](https://github.com/awesee/leetcode/tree/master/tag/simulation/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/find-the-student-that-will-replace-the-chalk)
+## [解法](https://github.com/awesee/leetcode/tree/master/problems/find-the-student-that-will-replace-the-chalk)

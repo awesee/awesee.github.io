@@ -56,9 +56,9 @@ permalink:  /problems/count-of-matches-in-tournament/
 {% endraw %}
 
 ### 相关话题
-  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[模拟](https://github.com/openset/leetcode/tree/master/tag/simulation/README.md)]
+  [[数学](https://github.com/awesee/leetcode/tree/master/tag/math/README.md)]
+  [[模拟](https://github.com/awesee/leetcode/tree/master/tag/simulation/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/count-of-matches-in-tournament)
+## [解法](https://github.com/awesee/leetcode/tree/master/problems/count-of-matches-in-tournament)

@@ -42,9 +42,9 @@ permalink:  /problems/count-square-sum-triples/
 {% endraw %}
 
 ### 相关话题
-  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[枚举](https://github.com/openset/leetcode/tree/master/tag/enumeration/README.md)]
+  [[数学](https://github.com/awesee/leetcode/tree/master/tag/math/README.md)]
+  [[枚举](https://github.com/awesee/leetcode/tree/master/tag/enumeration/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/count-square-sum-triples)
+## [解法](https://github.com/awesee/leetcode/tree/master/problems/count-square-sum-triples)

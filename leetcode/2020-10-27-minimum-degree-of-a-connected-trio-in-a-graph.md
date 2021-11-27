@@ -56,8 +56,8 @@ permalink:  /problems/minimum-degree-of-a-connected-trio-in-a-graph/
 {% endraw %}
 
 ### 相关话题
-  [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
+  [[图](https://github.com/awesee/leetcode/tree/master/tag/graph/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/minimum-degree-of-a-connected-trio-in-a-graph)
+## [解法](https://github.com/awesee/leetcode/tree/master/problems/minimum-degree-of-a-connected-trio-in-a-graph)

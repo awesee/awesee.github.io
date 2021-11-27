@@ -69,8 +69,8 @@ targetWord 的数值为 "aaaa" -&gt; "0000" -&gt; 0
 {% endraw %}
 
 ### 相关话题
-  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/master/tag/string/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/check-if-word-equals-summation-of-two-words)
+## [解法](https://github.com/awesee/leetcode/tree/master/problems/check-if-word-equals-summation-of-two-words)

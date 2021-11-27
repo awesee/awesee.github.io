@@ -56,10 +56,10 @@ permalink:  /problems/check-if-move-is-legal/
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[枚举](https://github.com/openset/leetcode/tree/master/tag/enumeration/README.md)]
-  [[矩阵](https://github.com/openset/leetcode/tree/master/tag/matrix/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/master/tag/array/README.md)]
+  [[枚举](https://github.com/awesee/leetcode/tree/master/tag/enumeration/README.md)]
+  [[矩阵](https://github.com/awesee/leetcode/tree/master/tag/matrix/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/check-if-move-is-legal)
+## [解法](https://github.com/awesee/leetcode/tree/master/problems/check-if-move-is-legal)

@@ -48,8 +48,8 @@ permalink:  /problems/decompress-run-length-encoded-list/
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/master/tag/array/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/decompress-run-length-encoded-list)
+## [解法](https://github.com/awesee/leetcode/tree/master/problems/decompress-run-length-encoded-list)

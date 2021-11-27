@@ -49,11 +49,11 @@ permalink:  /problems/minimum-cost-tree-from-leaf-values/
 {% endraw %}
 
 ### 相关话题
-  [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
-  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
-  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
-  [[单调栈](https://github.com/openset/leetcode/tree/master/tag/monotonic-stack/README.md)]
+  [[栈](https://github.com/awesee/leetcode/tree/master/tag/stack/README.md)]
+  [[贪心](https://github.com/awesee/leetcode/tree/master/tag/greedy/README.md)]
+  [[动态规划](https://github.com/awesee/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[单调栈](https://github.com/awesee/leetcode/tree/master/tag/monotonic-stack/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/minimum-cost-tree-from-leaf-values)
+## [解法](https://github.com/awesee/leetcode/tree/master/problems/minimum-cost-tree-from-leaf-values)

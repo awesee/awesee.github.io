@@ -53,9 +53,9 @@ permalink:  /problems/minimum-difference-between-highest-and-lowest-of-k-scores/
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/master/tag/array/README.md)]
+  [[排序](https://github.com/awesee/leetcode/tree/master/tag/sorting/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/minimum-difference-between-highest-and-lowest-of-k-scores)
+## [解法](https://github.com/awesee/leetcode/tree/master/problems/minimum-difference-between-highest-and-lowest-of-k-scores)

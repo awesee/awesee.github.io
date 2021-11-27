@@ -52,9 +52,9 @@ permalink:  /problems/is-subsequence/
 {% endraw %}
 
 ### 相关话题
-  [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
-  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
-  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[双指针](https://github.com/awesee/leetcode/tree/master/tag/two-pointers/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/master/tag/string/README.md)]
+  [[动态规划](https://github.com/awesee/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### 相似题目
   1. [匹配子序列的单词数](/problems/number-of-matching-subsequences) (Medium)
@@ -62,4 +62,4 @@ permalink:  /problems/is-subsequence/
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/is-subsequence)
+## [解法](https://github.com/awesee/leetcode/tree/master/problems/is-subsequence)

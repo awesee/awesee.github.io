@@ -75,9 +75,9 @@ permalink:  /problems/find-kth-bit-in-nth-binary-string/
 {% endraw %}
 
 ### 相关话题
-  [[递归](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]
-  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[递归](https://github.com/awesee/leetcode/tree/master/tag/recursion/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/master/tag/string/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/find-kth-bit-in-nth-binary-string)
+## [解法](https://github.com/awesee/leetcode/tree/master/problems/find-kth-bit-in-nth-binary-string)

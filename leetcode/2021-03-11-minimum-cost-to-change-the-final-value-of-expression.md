@@ -73,11 +73,11 @@ permalink:  /problems/minimum-cost-to-change-the-final-value-of-expression/
 {% endraw %}
 
 ### 相关话题
-  [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
-  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
-  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[栈](https://github.com/awesee/leetcode/tree/master/tag/stack/README.md)]
+  [[数学](https://github.com/awesee/leetcode/tree/master/tag/math/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/master/tag/string/README.md)]
+  [[动态规划](https://github.com/awesee/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/minimum-cost-to-change-the-final-value-of-expression)
+## [解法](https://github.com/awesee/leetcode/tree/master/problems/minimum-cost-to-change-the-final-value-of-expression)

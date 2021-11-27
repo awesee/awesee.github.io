@@ -45,10 +45,10 @@ permalink:  /problems/critical-connections-in-a-network/
 {% endraw %}
 
 ### 相关话题
-  [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
-  [[双连通分量](https://github.com/openset/leetcode/tree/master/tag/biconnected-component/README.md)]
+  [[深度优先搜索](https://github.com/awesee/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[图](https://github.com/awesee/leetcode/tree/master/tag/graph/README.md)]
+  [[双连通分量](https://github.com/awesee/leetcode/tree/master/tag/biconnected-component/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/critical-connections-in-a-network)
+## [解法](https://github.com/awesee/leetcode/tree/master/problems/critical-connections-in-a-network)

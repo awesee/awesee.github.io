@@ -58,9 +58,9 @@ seatManager.unreserve(5); // 将座位 5 变为可以预约，现在可预约的
 {% endraw %}
 
 ### 相关话题
-  [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
-  [[堆（优先队列）](https://github.com/openset/leetcode/tree/master/tag/heap-priority-queue/README.md)]
+  [[设计](https://github.com/awesee/leetcode/tree/master/tag/design/README.md)]
+  [[堆（优先队列）](https://github.com/awesee/leetcode/tree/master/tag/heap-priority-queue/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/seat-reservation-manager)
+## [解法](https://github.com/awesee/leetcode/tree/master/problems/seat-reservation-manager)

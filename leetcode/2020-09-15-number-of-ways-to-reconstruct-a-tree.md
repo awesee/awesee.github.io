@@ -78,10 +78,10 @@ permalink:  /problems/number-of-ways-to-reconstruct-a-tree/
 {% endraw %}
 
 ### 相关话题
-  [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
-  [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
-  [[拓扑排序](https://github.com/openset/leetcode/tree/master/tag/topological-sort/README.md)]
+  [[树](https://github.com/awesee/leetcode/tree/master/tag/tree/README.md)]
+  [[图](https://github.com/awesee/leetcode/tree/master/tag/graph/README.md)]
+  [[拓扑排序](https://github.com/awesee/leetcode/tree/master/tag/topological-sort/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/number-of-ways-to-reconstruct-a-tree)
+## [解法](https://github.com/awesee/leetcode/tree/master/problems/number-of-ways-to-reconstruct-a-tree)

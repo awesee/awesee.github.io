@@ -65,13 +65,13 @@ permalink:  /problems/evaluate-division/
 {% endraw %}
 
 ### 相关话题
-  [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
-  [[并查集](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)]
-  [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[最短路](https://github.com/openset/leetcode/tree/master/tag/shortest-path/README.md)]
+  [[深度优先搜索](https://github.com/awesee/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[广度优先搜索](https://github.com/awesee/leetcode/tree/master/tag/breadth-first-search/README.md)]
+  [[并查集](https://github.com/awesee/leetcode/tree/master/tag/union-find/README.md)]
+  [[图](https://github.com/awesee/leetcode/tree/master/tag/graph/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/master/tag/array/README.md)]
+  [[最短路](https://github.com/awesee/leetcode/tree/master/tag/shortest-path/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/evaluate-division)
+## [解法](https://github.com/awesee/leetcode/tree/master/problems/evaluate-division)

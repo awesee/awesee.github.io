@@ -69,9 +69,9 @@ permalink:  /problems/the-earliest-and-latest-rounds-where-players-compete/
 {% endraw %}
 
 ### 相关话题
-  [[记忆化搜索](https://github.com/openset/leetcode/tree/master/tag/memoization/README.md)]
-  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[记忆化搜索](https://github.com/awesee/leetcode/tree/master/tag/memoization/README.md)]
+  [[动态规划](https://github.com/awesee/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/the-earliest-and-latest-rounds-where-players-compete)
+## [解法](https://github.com/awesee/leetcode/tree/master/problems/the-earliest-and-latest-rounds-where-players-compete)

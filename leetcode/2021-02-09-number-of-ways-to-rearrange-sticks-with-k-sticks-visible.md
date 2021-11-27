@@ -56,10 +56,10 @@ permalink:  /problems/number-of-ways-to-rearrange-sticks-with-k-sticks-visible/
 {% endraw %}
 
 ### 相关话题
-  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
-  [[组合数学](https://github.com/openset/leetcode/tree/master/tag/combinatorics/README.md)]
+  [[数学](https://github.com/awesee/leetcode/tree/master/tag/math/README.md)]
+  [[动态规划](https://github.com/awesee/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[组合数学](https://github.com/awesee/leetcode/tree/master/tag/combinatorics/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/number-of-ways-to-rearrange-sticks-with-k-sticks-visible)
+## [解法](https://github.com/awesee/leetcode/tree/master/problems/number-of-ways-to-rearrange-sticks-with-k-sticks-visible)

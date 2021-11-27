@@ -56,13 +56,13 @@ permalink:  /problems/sum-of-square-numbers/
 {% endraw %}
 
 ### 相关话题
-  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
-  [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[数学](https://github.com/awesee/leetcode/tree/master/tag/math/README.md)]
+  [[双指针](https://github.com/awesee/leetcode/tree/master/tag/two-pointers/README.md)]
+  [[二分查找](https://github.com/awesee/leetcode/tree/master/tag/binary-search/README.md)]
 
 ### 相似题目
   1. [有效的完全平方数](/problems/valid-perfect-square) (Easy)
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/sum-of-square-numbers)
+## [解法](https://github.com/awesee/leetcode/tree/master/problems/sum-of-square-numbers)

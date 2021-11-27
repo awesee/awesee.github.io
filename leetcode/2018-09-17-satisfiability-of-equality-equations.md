@@ -67,11 +67,11 @@ permalink:  /problems/satisfiability-of-equality-equations/
 {% endraw %}
 
 ### 相关话题
-  [[并查集](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)]
-  [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[并查集](https://github.com/awesee/leetcode/tree/master/tag/union-find/README.md)]
+  [[图](https://github.com/awesee/leetcode/tree/master/tag/graph/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/master/tag/array/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/master/tag/string/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/satisfiability-of-equality-equations)
+## [解法](https://github.com/awesee/leetcode/tree/master/problems/satisfiability-of-equality-equations)

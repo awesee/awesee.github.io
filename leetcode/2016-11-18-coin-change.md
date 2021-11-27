@@ -66,13 +66,13 @@ permalink:  /problems/coin-change/
 {% endraw %}
 
 ### 相关话题
-  [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[广度优先搜索](https://github.com/awesee/leetcode/tree/master/tag/breadth-first-search/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/master/tag/array/README.md)]
+  [[动态规划](https://github.com/awesee/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### 相似题目
   1. [最低票价](/problems/minimum-cost-for-tickets) (Medium)
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/coin-change)
+## [解法](https://github.com/awesee/leetcode/tree/master/problems/coin-change)

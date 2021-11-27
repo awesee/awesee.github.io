@@ -76,12 +76,12 @@ permalink:  /problems/count-submatrices-with-all-ones/
 {% endraw %}
 
 ### 相关话题
-  [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
-  [[矩阵](https://github.com/openset/leetcode/tree/master/tag/matrix/README.md)]
-  [[单调栈](https://github.com/openset/leetcode/tree/master/tag/monotonic-stack/README.md)]
+  [[栈](https://github.com/awesee/leetcode/tree/master/tag/stack/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/master/tag/array/README.md)]
+  [[动态规划](https://github.com/awesee/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[矩阵](https://github.com/awesee/leetcode/tree/master/tag/matrix/README.md)]
+  [[单调栈](https://github.com/awesee/leetcode/tree/master/tag/monotonic-stack/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/count-submatrices-with-all-ones)
+## [解法](https://github.com/awesee/leetcode/tree/master/problems/count-submatrices-with-all-ones)

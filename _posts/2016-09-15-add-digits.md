@@ -26,9 +26,9 @@ permalink:  /problems/add-digits/
 {% endraw %}
 
 ### 相关话题
-  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[数论](https://github.com/openset/leetcode/tree/master/tag/number-theory/README.md)]
-  [[模拟](https://github.com/openset/leetcode/tree/master/tag/simulation/README.md)]
+  [[数学](https://github.com/awesee/leetcode/tree/master/tag/math/README.md)]
+  [[数论](https://github.com/awesee/leetcode/tree/master/tag/number-theory/README.md)]
+  [[模拟](https://github.com/awesee/leetcode/tree/master/tag/simulation/README.md)]
 
 ### 相似题目
   1. [快乐数](/problems/happy-number) (Easy)
@@ -36,4 +36,4 @@ permalink:  /problems/add-digits/
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/add-digits)
+## [解法](https://github.com/awesee/leetcode/tree/master/problems/add-digits)

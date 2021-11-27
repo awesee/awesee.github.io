@@ -54,13 +54,13 @@ permalink:  /problems/fraction-addition-and-subtraction/
 {% endraw %}
 
 ### 相关话题
-  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
-  [[模拟](https://github.com/openset/leetcode/tree/master/tag/simulation/README.md)]
+  [[数学](https://github.com/awesee/leetcode/tree/master/tag/math/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/master/tag/string/README.md)]
+  [[模拟](https://github.com/awesee/leetcode/tree/master/tag/simulation/README.md)]
 
 ### 相似题目
   1. [求解方程](/problems/solve-the-equation) (Medium)
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/fraction-addition-and-subtraction)
+## [解法](https://github.com/awesee/leetcode/tree/master/problems/fraction-addition-and-subtraction)

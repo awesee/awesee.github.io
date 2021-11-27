@@ -59,11 +59,11 @@ permalink:  /problems/ways-to-split-array-into-three-subarrays/
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
-  [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
-  [[前缀和](https://github.com/openset/leetcode/tree/master/tag/prefix-sum/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/master/tag/array/README.md)]
+  [[双指针](https://github.com/awesee/leetcode/tree/master/tag/two-pointers/README.md)]
+  [[二分查找](https://github.com/awesee/leetcode/tree/master/tag/binary-search/README.md)]
+  [[前缀和](https://github.com/awesee/leetcode/tree/master/tag/prefix-sum/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/ways-to-split-array-into-three-subarrays)
+## [解法](https://github.com/awesee/leetcode/tree/master/problems/ways-to-split-array-into-three-subarrays)

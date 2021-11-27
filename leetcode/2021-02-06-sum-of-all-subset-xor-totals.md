@@ -3,7 +3,7 @@ layout:     single
 title:      "找出所有子集的异或总和再求和"
 date:       2021-02-06 21:30:00 +0800
 categories: [Leetcode]
-tags:       [Bit Manipulation, Array, Backtracking]
+tags:       [Bit Manipulation, Array, Math, Backtracking, Combinatorics]
 permalink:  /problems/sum-of-all-subset-xor-totals/
 ---
 
@@ -72,10 +72,12 @@ permalink:  /problems/sum-of-all-subset-xor-totals/
 {% endraw %}
 
 ### 相关话题
-  [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[回溯](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[位运算](https://github.com/awesee/leetcode/tree/master/tag/bit-manipulation/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/master/tag/array/README.md)]
+  [[数学](https://github.com/awesee/leetcode/tree/master/tag/math/README.md)]
+  [[回溯](https://github.com/awesee/leetcode/tree/master/tag/backtracking/README.md)]
+  [[组合数学](https://github.com/awesee/leetcode/tree/master/tag/combinatorics/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/sum-of-all-subset-xor-totals)
+## [解法](https://github.com/awesee/leetcode/tree/master/problems/sum-of-all-subset-xor-totals)

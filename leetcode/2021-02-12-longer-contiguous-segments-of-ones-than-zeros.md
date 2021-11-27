@@ -66,8 +66,8 @@ permalink:  /problems/longer-contiguous-segments-of-ones-than-zeros/
 {% endraw %}
 
 ### 相关话题
-  [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[字符串](https://github.com/awesee/leetcode/tree/master/tag/string/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/longer-contiguous-segments-of-ones-than-zeros)
+## [解法](https://github.com/awesee/leetcode/tree/master/problems/longer-contiguous-segments-of-ones-than-zeros)

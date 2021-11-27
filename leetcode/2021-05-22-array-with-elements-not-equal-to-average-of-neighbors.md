@@ -51,10 +51,10 @@ i=3, nums[i] = 2, 两相邻元素平均值为 (6+0) / 2 = 3
 {% endraw %}
 
 ### 相关话题
-  [[贪心](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[排序](https://github.com/openset/leetcode/tree/master/tag/sorting/README.md)]
+  [[贪心](https://github.com/awesee/leetcode/tree/master/tag/greedy/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/master/tag/array/README.md)]
+  [[排序](https://github.com/awesee/leetcode/tree/master/tag/sorting/README.md)]
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/array-with-elements-not-equal-to-average-of-neighbors)
+## [解法](https://github.com/awesee/leetcode/tree/master/problems/array-with-elements-not-equal-to-average-of-neighbors)

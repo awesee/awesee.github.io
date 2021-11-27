@@ -87,9 +87,9 @@ permalink:  /problems/evaluate-reverse-polish-notation/
 {% endraw %}
 
 ### 相关话题
-  [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[栈](https://github.com/awesee/leetcode/tree/master/tag/stack/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/master/tag/array/README.md)]
+  [[数学](https://github.com/awesee/leetcode/tree/master/tag/math/README.md)]
 
 ### 相似题目
   1. [基本计算器](/problems/basic-calculator) (Hard)
@@ -97,4 +97,4 @@ permalink:  /problems/evaluate-reverse-polish-notation/
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/evaluate-reverse-polish-notation)
+## [解法](https://github.com/awesee/leetcode/tree/master/problems/evaluate-reverse-polish-notation)

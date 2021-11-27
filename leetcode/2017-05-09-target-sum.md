@@ -57,13 +57,13 @@ permalink:  /problems/target-sum/
 {% endraw %}
 
 ### 相关话题
-  [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
-  [[回溯](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[数组](https://github.com/awesee/leetcode/tree/master/tag/array/README.md)]
+  [[动态规划](https://github.com/awesee/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[回溯](https://github.com/awesee/leetcode/tree/master/tag/backtracking/README.md)]
 
 ### 相似题目
   1. [给表达式添加运算符](/problems/expression-add-operators) (Hard)
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/target-sum)
+## [解法](https://github.com/awesee/leetcode/tree/master/problems/target-sum)

@@ -55,10 +55,10 @@ permalink:  /problems/number-of-provinces/
 {% endraw %}
 
 ### 相关话题
-  [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
-  [[并查集](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)]
-  [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
+  [[深度优先搜索](https://github.com/awesee/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[广度优先搜索](https://github.com/awesee/leetcode/tree/master/tag/breadth-first-search/README.md)]
+  [[并查集](https://github.com/awesee/leetcode/tree/master/tag/union-find/README.md)]
+  [[图](https://github.com/awesee/leetcode/tree/master/tag/graph/README.md)]
 
 ### 相似题目
   1. [无向图中连通分量的数目](/problems/number-of-connected-components-in-an-undirected-graph) (Medium)
@@ -69,4 +69,4 @@ permalink:  /problems/number-of-provinces/
 
 ---
 
-## [解法](https://github.com/openset/leetcode/tree/master/problems/number-of-provinces)
+## [解法](https://github.com/awesee/leetcode/tree/master/problems/number-of-provinces)
