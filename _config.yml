@@ -14,7 +14,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "zh-CN"
 date_format              : "%Y年%m月%d日"
-title                    : "个人博客"
+title                    : "Awesee"
 title_separator          : "-"
 name                     : "Shuo"
 description              : "王硕的个人网站"
