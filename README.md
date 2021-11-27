@@ -1,7 +1,7 @@
 
 # This is the data for <a href="https://openset.github.io/"> my web site </a>
 
-It is automatically transformed by [openset](https://github.com/openset)
+It is automatically transformed by [awesee](https://github.com/awesee)
 into a static site whenever I push this repository to GitHub.
 
 I was tired of having my blog posts end up in a database off on some remote
@@ -13,7 +13,7 @@ again.
 
 ## License
 
-The following directories and their contents are Copyright [openset](https://github.com/openset/openset).
+The following directories and their contents are Copyright [awesee](https://github.com/awesee).
 You may not reuse anything therein without my permission:
 
 * _posts/
