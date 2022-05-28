@@ -6,6 +6,11 @@ categories: [Guide]
 tags:       [Guide]
 ---
 
+## 搜索包含指定内容的文件
+```bash
+$ find /path/to/dir -type f [-maxdepth n] [-mindepth n] -print0 |xargs -0 grep "内容"  
+```
+
 ## 创建指定大小，不占磁盘空间的文件
 ```bash
 $ dd if=/dev/null of=/path/to/file [bs=1024] count=0 seek=20000000
