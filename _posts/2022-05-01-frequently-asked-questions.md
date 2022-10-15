@@ -28,7 +28,7 @@ $ identify -verbose example.jpg
 
 ## M3U8 Download
 ```bash
-$ ffmpeg -i https://example.com/index.m3u8 -c copy out.flv
+$ ffmpeg -i https://example.com/index.m3u8 -c copy out.mp4
 ```
 
 ## Mac 允许任何来源
