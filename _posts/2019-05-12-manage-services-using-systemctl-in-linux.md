@@ -107,7 +107,7 @@ $ systemd-analyze critical-chain atd.service
 $ hostnamectl
 
 # 设置主机名。
-$ sudo hostnamectl set-hostname openset
+$ sudo hostnamectl set-hostname awesee
 ```
 
 `localectl` 命令用于查看本地化设置

@@ -1,5 +1,5 @@
 
-# This is the data for <a href="https://openset.github.io/"> my web site </a>
+# This is the data for <a href="https://awesee.github.io/"> my web site </a>
 
 It is automatically transformed by [awesee](https://github.com/awesee)
 into a static site whenever I push this repository to GitHub.
