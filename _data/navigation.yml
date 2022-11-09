@@ -1,6 +1,6 @@
 # main links
 main:
   - title: "All"
-    url: "/post-archive"
+    url: "/post-archive/"
   - title: "GitHub"
     url: "https://github.com/awesee"
