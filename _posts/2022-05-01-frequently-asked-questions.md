@@ -8,7 +8,10 @@ tags:       [Guide]
 
 ## 搜索包含指定内容的文件
 ```bash
-$ find /path/to/dir -type f [-maxdepth n] [-mindepth n] -print0 |xargs -0 grep "内容"  
+# 方法一
+$ grep "指定内容" -rl /path/to/dir
+# 方法二
+$ find /path/to/dir -type f [-maxdepth n] [-mindepth n] -print0 |xargs -0 grep "指定内容"  
 ```
 
 ## 创建指定大小，不占磁盘空间的文件
