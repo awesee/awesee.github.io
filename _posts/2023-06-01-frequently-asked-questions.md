@@ -39,6 +39,16 @@ $ ffmpeg -i in.mp4 [-crf 18] [-vf scale=-1:1080] out.mp4
 $ ffmpeg -i https://example.com/index.m3u8 -c copy out.mp4
 ```
 
+## 视频转图片
+```bash
+$ ffmpeg -i in.mp4 -r 30 [-t 60 -s 3480x2160] out/%4d.jpg 
+```
+
+## 图片转视频
+```bash
+$ ffmpeg -i out/%4d.jpg -r 30 out.mp4
+```
+
 ## Mac 允许任何来源
 ```bash
 $ sudo spctl --master-disable
