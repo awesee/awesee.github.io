@@ -6,6 +6,14 @@ categories: [Guide]
 tags:       [Guide]
 ---
 
+## 检测目标计算机上端口运行服务的状态
+```bash
+# 指定端口
+$ nc -zv host.example.com 80
+# 范围端口
+$ nc -zv host.example.com 21-23
+```
+
 ## 搜索包含指定内容的文件
 ```bash
 # 方法一
